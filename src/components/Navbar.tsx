@@ -21,9 +21,9 @@ export function Navbar() {
           {/* Logo */}
           <a href="#" className="flex items-center gap-2">
             <div className="w-10 h-10 rounded-lg bg-gradient-primary flex items-center justify-center">
-              <span className="text-primary-foreground font-display font-bold text-xl">V</span>
+              <span className="text-primary-foreground font-display font-bold text-xl">E</span>
             </div>
-            <span className="font-display font-bold text-xl text-foreground">VIXEL</span>
+            <span className="font-display font-bold text-xl text-foreground">Edboline Global</span>
           </a>
 
           {/* Desktop Navigation */}

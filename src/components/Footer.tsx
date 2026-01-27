@@ -67,9 +67,9 @@ export function Footer() {
           <div className="lg:col-span-2">
             <a href="#" className="flex items-center gap-2 mb-6">
               <div className="w-10 h-10 rounded-lg bg-gradient-primary flex items-center justify-center">
-                <span className="text-primary-foreground font-display font-bold text-xl">V</span>
+                <span className="text-primary-foreground font-display font-bold text-xl">E</span>
               </div>
-              <span className="font-display font-bold text-xl text-foreground">VIXEL</span>
+              <span className="font-display font-bold text-xl text-foreground">Edboline Global</span>
             </a>
             <p className="text-muted-foreground mb-6 max-w-sm">
               We're a creative design studio dedicated to helping brands stand out 
@@ -137,7 +137,7 @@ export function Footer() {
       <div className="container mx-auto px-6 py-6 border-t border-border">
         <div className="flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="text-muted-foreground text-sm">
-            © 2026 VIXEL Studio. All rights reserved.
+            © 2026 Edboline Global. All rights reserved.
           </p>
           <div className="flex items-center gap-4">
             {socialLinks.map((social) => (

@@ -1,6 +1,7 @@
 import { motion } from "framer-motion";
 import { Mail, Phone, MapPin, Instagram, Twitter, Linkedin, Dribbble } from "lucide-react";
 import { Button } from "@/components/ui/button";
+import logo from "@/assets/logo.png";
 
 const footerLinks = {
   services: [
@@ -65,11 +66,9 @@ export function Footer() {
         <div className="grid md:grid-cols-2 lg:grid-cols-5 gap-12">
           {/* Brand */}
           <div className="lg:col-span-2">
-            <a href="#" className="flex items-center gap-2 mb-6">
-              <div className="w-10 h-10 rounded-lg bg-gradient-primary flex items-center justify-center">
-                <span className="text-primary-foreground font-display font-bold text-xl">E</span>
-              </div>
-              <span className="font-display font-bold text-xl text-foreground">Edboline Global</span>
+            <a href="#" className="flex items-center gap-3 mb-6">
+              <img src={logo} alt="Edboline Global" className="w-10 h-10 object-contain" />
+              <span className="font-display font-bold text-xl text-primary">Edboline Global</span>
             </a>
             <p className="text-muted-foreground mb-6 max-w-sm">
               We're a creative design studio dedicated to helping brands stand out 

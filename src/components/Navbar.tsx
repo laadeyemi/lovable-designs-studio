@@ -2,6 +2,7 @@ import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { Menu, X } from "lucide-react";
 import { Button } from "@/components/ui/button";
+import logo from "@/assets/logo.png";
 
 const navItems = [
   { name: "Services", href: "#services" },
@@ -15,15 +16,13 @@ export function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
 
   return (
-    <nav className="fixed top-0 left-0 right-0 z-50 bg-background/80 backdrop-blur-xl border-b border-border">
+    <nav className="fixed top-[40px] left-0 right-0 z-50 bg-background/80 backdrop-blur-xl border-b border-border">
       <div className="container mx-auto px-6">
         <div className="flex items-center justify-between h-20">
           {/* Logo */}
-          <a href="#" className="flex items-center gap-2">
-            <div className="w-10 h-10 rounded-lg bg-gradient-primary flex items-center justify-center">
-              <span className="text-primary-foreground font-display font-bold text-xl">E</span>
-            </div>
-            <span className="font-display font-bold text-xl text-foreground">Edboline Global</span>
+          <a href="#" className="flex items-center gap-3">
+            <img src={logo} alt="Edboline Global" className="w-10 h-10 object-contain" />
+            <span className="font-display font-bold text-xl text-primary">Edboline Global</span>
           </a>
 
           {/* Desktop Navigation */}

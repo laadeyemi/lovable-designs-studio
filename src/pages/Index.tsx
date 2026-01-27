@@ -1,3 +1,4 @@
+import { AdBanner } from "@/components/AdBanner";
 import { Banner } from "@/components/Banner";
 import { Navbar } from "@/components/Navbar";
 import { Hero } from "@/components/Hero";
@@ -11,8 +12,9 @@ import { Footer } from "@/components/Footer";
 const Index = () => {
   return (
     <div className="min-h-screen bg-background">
-      <Banner />
+      <AdBanner />
       <Navbar />
+      <Banner />
       <Hero />
       <Services />
       <Work />

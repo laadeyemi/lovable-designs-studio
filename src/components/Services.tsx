@@ -9,7 +9,7 @@ const services = [
   },
   {
     icon: Monitor,
-    title: "UI/UX Design",
+    title: "Online Service",
     description: "Design intuitive and beautiful interfaces that delight users and drive engagement.",
   },
   {

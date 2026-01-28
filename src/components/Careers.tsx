@@ -1,10 +1,11 @@
 import { motion } from "framer-motion";
-import { MapPin, Clock, ArrowRight } from "lucide-react";
+import { MapPin, Clock, ArrowRight, Building2 } from "lucide-react";
 import { Button } from "@/components/ui/button";
 
 const jobs = [
   {
     title: "Senior UI/UX Designer",
+    company: "TechVision Inc.",
     location: "Remote",
     type: "Full-time",
     department: "Design",
@@ -12,6 +13,7 @@ const jobs = [
   },
   {
     title: "Brand Strategist",
+    company: "Creative Minds Agency",
     location: "New York, NY",
     type: "Full-time",
     department: "Strategy",
@@ -19,6 +21,7 @@ const jobs = [
   },
   {
     title: "Motion Designer",
+    company: "Digital Studios Pro",
     location: "Remote",
     type: "Contract",
     department: "Animation",
@@ -26,10 +29,11 @@ const jobs = [
   },
   {
     title: "Junior Graphic Designer",
+    company: "Artistry Co.",
     location: "Los Angeles, CA",
     type: "Full-time",
     department: "Design",
-    description: "Join our creative team and grow your skills working on diverse design projects.",
+    description: "Join a creative team and grow your skills working on diverse design projects.",
   },
 ];
 
@@ -46,14 +50,14 @@ export function Careers() {
           className="text-center mb-16"
         >
           <span className="text-primary font-medium text-sm uppercase tracking-wider">
-            Join Our Team
+            Job Board
           </span>
           <h2 className="font-display text-4xl md:text-5xl font-bold mt-4 mb-6">
-            Open <span className="text-gradient">Positions</span>
+            Featured <span className="text-gradient">Vacancies</span>
           </h2>
           <p className="text-muted-foreground text-lg max-w-2xl mx-auto">
-            We're always looking for talented individuals to join our creative team. 
-            Check out our current openings below.
+            Discover exciting career opportunities from top companies. 
+            Browse the latest job openings and take the next step in your career.
           </p>
         </motion.div>
 
@@ -78,6 +82,10 @@ export function Careers() {
                     <span className="px-2 py-0.5 rounded-full bg-primary/10 text-primary text-xs font-medium">
                       {job.department}
                     </span>
+                  </div>
+                  <div className="flex items-center gap-2 text-sm text-primary/80 mb-2">
+                    <Building2 className="w-4 h-4" />
+                    <span className="font-medium">{job.company}</span>
                   </div>
                   <p className="text-muted-foreground text-sm mb-3 lg:mb-0">
                     {job.description}
@@ -115,10 +123,10 @@ export function Careers() {
           className="text-center mt-12"
         >
           <p className="text-muted-foreground mb-4">
-            Don't see a role that fits? We'd still love to hear from you.
+            Want to post a job vacancy? Reach out to advertise your opening.
           </p>
           <Button variant="heroOutline">
-            Send Open Application
+            Post a Job
           </Button>
         </motion.div>
       </div>

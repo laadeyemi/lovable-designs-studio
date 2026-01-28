@@ -7,18 +7,18 @@ export function AdBanner() {
   if (!isVisible) return null;
 
   return (
-    <div className="fixed top-0 left-0 right-0 z-[60] bg-secondary border-b border-border h-[300px]">
-      <div className="container mx-auto px-6 h-full">
-        <div className="flex items-center justify-center h-full relative">
+    <div className="fixed top-0 left-0 right-0 z-[60] bg-secondary border-b border-border h-[250px]">
+      <div className="w-full h-full flex items-center justify-center">
+        <div className="flex items-center justify-center h-full relative w-full">
           {/* Ad Placement Area */}
           <div className="flex flex-col items-center justify-center gap-4 text-center">
-            <div className="w-full max-w-[728px] h-[250px] rounded-lg border-2 border-dashed border-primary/30 bg-primary/5 flex items-center justify-center">
+            <div className="w-[1456px] max-w-full h-[250px] rounded-lg border-2 border-dashed border-primary/30 bg-primary/5 flex items-center justify-center">
               <div className="text-center">
                 <p className="text-primary font-display text-xl font-semibold mb-2">
                   Advertisement Space
                 </p>
                 <p className="text-muted-foreground text-sm">
-                  728 x 250 Leaderboard
+                  1456 x 250 Leaderboard
                 </p>
                 <a 
                   href="#" 

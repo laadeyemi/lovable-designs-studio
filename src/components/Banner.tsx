@@ -7,7 +7,7 @@ export function Banner() {
   if (!isVisible) return null;
 
   return (
-    <div className="fixed top-[380px] left-0 right-0 z-[55] bg-gradient-primary text-primary-foreground py-2 px-4 text-center text-sm font-medium">
+    <div className="fixed top-[330px] left-0 right-0 z-[55] bg-gradient-primary text-primary-foreground py-2 px-4 text-center text-sm font-medium">
       <span>🎨 Special Offer: Get 20% off on all branding packages this month!</span>
       <button
         onClick={() => setIsVisible(false)}

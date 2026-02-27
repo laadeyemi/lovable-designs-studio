@@ -10,6 +10,16 @@ export type Post = {
 
 export const posts: Post[] = [
   {
+    id: "nigerian-jobs-education",
+    title: "20 Remote Job Opportunities & 30 University Education Topics in Nigeria",
+    category: "Career Development",
+    date: "2026-02-27",
+    excerpt: "Complete guide to job opportunities in Nigeria, JAMB entrance exams, NYSC service, and university education pathways for aspiring and current students.",
+    content:
+      "Explore 20 remote and Nigeria-based job opportunities across various sectors, including fintech, tech, marketing, and administration. Learn about JAMB (Joint Admissions and Matriculation Board) entrance exams, NYSC (National Youth Service Corps) mandatory service, university selection, scholarships, and career development strategies. This comprehensive resource covers everything from university admission processes to post-graduation employment opportunities.",
+    tags: ["career", "education", "jobs", "nigeria", "jamb", "nysc"],
+  },
+  {
     id: "swiftpay-launch",
     title: "How Swiftpay increased conversions by 48%",
     category: "Performance",

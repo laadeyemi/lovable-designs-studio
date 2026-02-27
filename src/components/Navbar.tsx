@@ -2,14 +2,16 @@ import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { Menu, X } from "lucide-react";
 import { Button } from "@/components/ui/button";
+import { NavLink } from "@/components/NavLink";
 import logo from "@/assets/logo.png";
 
 const navItems = [
-  { name: "Services", href: "#services" },
-  { name: "Work", href: "#work" },
-  { name: "Blog", href: "#blog" },
-  { name: "Careers", href: "#careers" },
-  { name: "Ads", href: "#ads" },
+  { name: "Home", href: "/" },
+  { name: "Blog", href: "/blog" },
+  { name: "Job Vacancies", href: "/careers" },
+  { name: "Ads", href: "/ads" },
+  { name: "About", href: "/about" },
+  { name: "Contact", href: "/contact" },
 ];
 
 export function Navbar() {
@@ -20,29 +22,42 @@ export function Navbar() {
       <div className="container mx-auto px-6">
         <div className="flex items-center justify-between h-20">
           {/* Logo */}
-          <a href="#" className="flex items-center gap-3">
+          <a href="/" className="flex items-center gap-3">
             <img src={logo} alt="Edboline Global" className="w-10 h-10 object-contain" />
             <span className="font-display font-bold text-xl text-primary">Edboline Global</span>
           </a>
 
           {/* Desktop Navigation */}
           <div className="hidden md:flex items-center gap-8">
-            {navItems.map((item) => (
-              <a
-                key={item.name}
-                href={item.href}
-                className="text-muted-foreground hover:text-foreground transition-colors duration-300 font-medium"
-              >
-                {item.name}
-              </a>
-            ))}
+            {navItems.map((item) =>
+              item.href.startsWith("/") ? (
+                <NavLink
+                  key={item.name}
+                  to={item.href}
+                  className="text-muted-foreground hover:text-foreground transition-colors duration-300 font-medium"
+                  activeClassName="text-primary"
+                >
+                  {item.name}
+                </NavLink>
+              ) : (
+                <a
+                  key={item.name}
+                  href={item.href}
+                  className="text-muted-foreground hover:text-foreground transition-colors duration-300 font-medium"
+                >
+                  {item.name}
+                </a>
+              ),
+            )}
           </div>
 
           {/* CTA Button */}
           <div className="hidden md:block">
-            <Button variant="hero" size="lg">
-              Get a Quote
-            </Button>
+            <NavLink to="/quote" className="inline-block" activeClassName={""}>
+              <Button variant="hero" size="lg">
+                Get a Quote
+              </Button>
+            </NavLink>
           </div>
 
           {/* Mobile Menu Button */}
@@ -65,19 +80,33 @@ export function Navbar() {
             className="md:hidden bg-card border-b border-border"
           >
             <div className="container mx-auto px-6 py-6 flex flex-col gap-4">
-              {navItems.map((item) => (
-                <a
-                  key={item.name}
-                  href={item.href}
-                  className="text-muted-foreground hover:text-foreground transition-colors duration-300 font-medium py-2"
-                  onClick={() => setIsOpen(false)}
-                >
-                  {item.name}
-                </a>
-              ))}
-              <Button variant="hero" size="lg" className="mt-4">
-                Get a Quote
-              </Button>
+              {navItems.map((item) =>
+                item.href.startsWith("/") ? (
+                  <NavLink
+                    key={item.name}
+                    to={item.href}
+                    className="text-muted-foreground hover:text-foreground transition-colors duration-300 font-medium py-2"
+                    activeClassName="text-primary"
+                    onClick={() => setIsOpen(false)}
+                  >
+                    {item.name}
+                  </NavLink>
+                ) : (
+                  <a
+                    key={item.name}
+                    href={item.href}
+                    className="text-muted-foreground hover:text-foreground transition-colors duration-300 font-medium py-2"
+                    onClick={() => setIsOpen(false)}
+                  >
+                    {item.name}
+                  </a>
+                ),
+              )}
+              <NavLink to="/quote" className="mt-4" onClick={() => setIsOpen(false)}>
+                <Button variant="hero" size="lg">
+                  Get a Quote
+                </Button>
+              </NavLink>
             </div>
           </motion.div>
         )}

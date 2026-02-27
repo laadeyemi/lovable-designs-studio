@@ -1,6 +1,15 @@
 import { motion } from "framer-motion";
 import { ArrowUpRight } from "lucide-react";
 
+export type WorkProps = {
+  /** optionally filter projects by category */
+  category?: string;
+  /** custom heading text (overrides default) */
+  heading?: string;
+  /** whether to show the "View All Projects" link */
+  showAllLink?: boolean;
+};
+
 const projects = [
   {
     title: "Neon Nights Brand",
@@ -22,9 +31,25 @@ const projects = [
     category: "Print Design",
     image: "https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=800&h=600&fit=crop",
   },
+  {
+    title: "E-Shop Setup",
+    category: "Online Service",
+    image: "https://images.unsplash.com/photo-1590608897129-79d74590c0f2?w=800&h=600&fit=crop",
+  },
+  {
+    title: "Festival Promo Video",
+    category: "Photo & Video",
+    image: "https://images.unsplash.com/photo-1515165562835-c1890aa78a61?w=800&h=600&fit=crop",
+  },
 ];
 
-export function Work() {
+export function Work({ category, heading, showAllLink = true }: WorkProps) {
+  const filtered = category
+    ? projects.filter((p) => p.category === category)
+    : projects;
+
+  if (filtered.length === 0) return null;
+
   return (
     <section id="work" className="py-24 bg-card/50">
       <div className="container mx-auto px-6">
@@ -41,21 +66,27 @@ export function Work() {
               Portfolio
             </span>
             <h2 className="font-display text-4xl md:text-5xl font-bold mt-4">
-              Featured <span className="text-gradient">Work</span>
+              {heading ?? (
+                <>
+                  Featured <span className="text-gradient">Work</span>
+                </>
+              )}
             </h2>
           </div>
-          <a
-            href="#"
-            className="group flex items-center gap-2 text-primary font-medium hover:gap-4 transition-all duration-300"
-          >
-            View All Projects
-            <ArrowUpRight className="w-5 h-5" />
-          </a>
+          {showAllLink && (
+            <a
+              href="#"
+              className="group flex items-center gap-2 text-primary font-medium hover:gap-4 transition-all duration-300"
+            >
+              View All Projects
+              <ArrowUpRight className="w-5 h-5" />
+            </a>
+          )}
         </motion.div>
 
         {/* Projects Grid */}
         <div className="grid md:grid-cols-2 gap-8">
-          {projects.map((project, index) => (
+          {filtered.map((project, index) => (
             <motion.a
               key={project.title}
               href="#"

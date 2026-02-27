@@ -79,11 +79,11 @@ export function Ads() {
             </div>
 
             <div className="flex flex-col sm:flex-row gap-4">
-              <Button variant="hero" size="lg">
-                Start Advertising
+              <Button variant="hero" size="lg" asChild>
+              <a href ="/Quote"> Start Advertising </a>
               </Button>
-              <Button variant="outline" size="lg">
-                View Ad Packages
+              <Button variant="outline" size="lg" asChild>
+                <a href ="/ads">View Ad Packages</a>
               </Button>
             </div>
           </motion.div>

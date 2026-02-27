@@ -53,11 +53,11 @@ export function Careers() {
             Job Board
           </span>
           <h2 className="font-display text-4xl md:text-5xl font-bold mt-4 mb-6">
-            Featured <span className="text-gradient">Vacancies</span>
+            Featured <span className="text-gradient">Job Vacancies</span>
           </h2>
           <p className="text-muted-foreground text-lg max-w-2xl mx-auto">
-            Discover exciting career opportunities from top companies. 
-            Browse the latest job openings and take the next step in your career.
+            Discover exciting job opportunities from top companies across various industries. 
+            Browse the latest job vacancies near you.
           </p>
         </motion.div>
 

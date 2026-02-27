@@ -1,34 +1,33 @@
 import { motion } from "framer-motion";
-import { Mail, Phone, MapPin, Instagram, Twitter, Linkedin, Dribbble } from "lucide-react";
+import { Mail, Phone, MapPin, Instagram, Twitter, Linkedin, Dribbble, Facebook } from "lucide-react";
 import { Button } from "@/components/ui/button";
+import { Link } from "react-router-dom";
 import logo from "@/assets/logo.png";
 
 const footerLinks = {
   services: [
-    { name: "Brand Identity", href: "#" },
-    { name: "UI/UX Design", href: "#" },
-    { name: "Marketing Design", href: "#" },
-    { name: "Print Design", href: "#" },
+    { name: "Brand Identity", href: "/services/brand-identity" },
+    { name: "Online Service", href: "/services/online-service" },
+    { name: "Marketing Design", href: "/services/marketing-design" },
+    { name: "Print Design", href: "/services/print-design" },
   ],
   company: [
-    { name: "About Us", href: "#" },
-    { name: "Our Work", href: "#work" },
-    { name: "Blog", href: "#blog" },
-    { name: "Careers", href: "#careers" },
+    { name: "About Us", href: "/about" },
+    { name: "Blog", href: "/blog" },
+    { name: "Job Vacancies", href: "/careers" },
   ],
   support: [
-    { name: "Contact", href: "#" },
-    { name: "FAQ", href: "#" },
-    { name: "Privacy Policy", href: "#" },
-    { name: "Terms of Service", href: "#" },
+    { name: "Contact", href: "/contact" },
+    { name: "FAQ", href: "/faq" },
+    { name: "Privacy Policy", href: "/privacy-policy" },
+    { name: "Terms of Service", href: "/terms" },
   ],
 };
 
 const socialLinks = [
   { icon: Instagram, href: "#", label: "Instagram" },
   { icon: Twitter, href: "#", label: "Twitter" },
-  { icon: Linkedin, href: "#", label: "LinkedIn" },
-  { icon: Dribbble, href: "#", label: "Dribbble" },
+  { icon: Facebook, href: "#", label: "Facebook" },
 ];
 
 export function Footer() {
@@ -51,11 +50,11 @@ export function Footer() {
             how we can help elevate your brand.
           </p>
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
-            <Button variant="hero" size="xl">
-              Start Your Project
+            <Button variant="hero" size="xl" asChild>
+             <a href= "/Quote"> Start Your Project</a>
             </Button>
-            <Button variant="heroOutline" size="xl">
-              Schedule a Call
+            <Button variant="heroOutline" size="xl"asChild>
+              <a href="https://wa.me/+2349044798190">Contact us on Whatsapp</a>
             </Button>
           </div>
         </motion.div>
@@ -75,17 +74,17 @@ export function Footer() {
               through stunning visuals and strategic design solutions.
             </p>
             <div className="space-y-3">
-              <a href="mailto:hello@vixel.studio" className="flex items-center gap-3 text-muted-foreground hover:text-foreground transition-colors">
+              <a href="mailto:contact@edbolineglobal.com.ng" className="flex items-center gap-3 text-muted-foreground hover:text-foreground transition-colors">
                 <Mail className="w-5 h-5 text-primary" />
-                hello@vixel.studio
+                contact@edbolineglobal.com.ng
               </a>
-              <a href="tel:+1234567890" className="flex items-center gap-3 text-muted-foreground hover:text-foreground transition-colors">
+              <div  className="flex items-center gap-3 text-muted-foreground hover:text-foreground transition-colors">
                 <Phone className="w-5 h-5 text-primary" />
-                +1 (234) 567-890
-              </a>
+                +234 906 0503 264, +234 904 4798 190
+              </div>
               <div className="flex items-center gap-3 text-muted-foreground">
                 <MapPin className="w-5 h-5 text-primary" />
-                New York, NY 10001
+                Lagos, Jos
               </div>
             </div>
           </div>
@@ -109,9 +108,15 @@ export function Footer() {
             <ul className="space-y-3">
               {footerLinks.company.map((link) => (
                 <li key={link.name}>
-                  <a href={link.href} className="text-muted-foreground hover:text-primary transition-colors">
-                    {link.name}
-                  </a>
+                  {link.href.startsWith("/") ? (
+                    <Link to={link.href} className="text-muted-foreground hover:text-primary transition-colors">
+                      {link.name}
+                    </Link>
+                  ) : (
+                    <a href={link.href} className="text-muted-foreground hover:text-primary transition-colors">
+                      {link.name}
+                    </a>
+                  )}
                 </li>
               ))}
             </ul>
@@ -122,9 +127,15 @@ export function Footer() {
             <ul className="space-y-3">
               {footerLinks.support.map((link) => (
                 <li key={link.name}>
-                  <a href={link.href} className="text-muted-foreground hover:text-primary transition-colors">
-                    {link.name}
-                  </a>
+                  {link.href.startsWith("/") ? (
+                    <Link to={link.href} className="text-muted-foreground hover:text-primary transition-colors">
+                      {link.name}
+                    </Link>
+                  ) : (
+                    <a href={link.href} className="text-muted-foreground hover:text-primary transition-colors">
+                      {link.name}
+                    </a>
+                  )}
                 </li>
               ))}
             </ul>

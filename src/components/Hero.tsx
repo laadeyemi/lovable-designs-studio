@@ -41,7 +41,7 @@ export function Hero() {
             transition={{ duration: 0.6, delay: 0.1 }}
             className="font-display text-5xl md:text-7xl lg:text-8xl font-bold leading-tight mb-6"
           >
-            We Design
+            We Create
             <span className="block text-gradient">Digital Experiences</span>
           </motion.h1>
 
@@ -63,12 +63,11 @@ export function Hero() {
             transition={{ duration: 0.6, delay: 0.3 }}
             className="flex flex-col sm:flex-row items-center justify-center gap-4"
           >
-            <Button variant="hero" size="xl">
-              Start a Project
-              <ArrowRight className="w-5 h-5" />
+            <Button variant="hero" size="xl" asChild>
+              <a href="/quote">Start a Project</a>
             </Button>
-            <Button variant="heroOutline" size="xl">
-              View Our Work
+            <Button variant="heroOutline" size="xl" asChild>
+             <a href="/"> View Our Work </a>
             </Button>
           </motion.div>
 
@@ -80,10 +79,10 @@ export function Hero() {
             className="grid grid-cols-2 md:grid-cols-4 gap-8 mt-20 pt-12 border-t border-border"
           >
             {[
-              { value: "500+", label: "Projects Delivered" },
-              { value: "150+", label: "Happy Clients" },
-              { value: "8+", label: "Years Experience" },
-              { value: "25+", label: "Team Members" },
+              { value: "200+", label: "Projects Delivered" },
+              { value: "50+", label: "Happy Clients" },
+              { value: "6+", label: "Years Experience" },
+              { value: "5+", label: "Team Members" },
             ].map((stat) => (
               <div key={stat.label} className="text-center">
                 <div className="font-display text-3xl md:text-4xl font-bold text-gradient mb-2">

@@ -2,40 +2,8 @@ import { motion } from "framer-motion";
 import { MapPin, Clock, ArrowRight, Building2 } from "lucide-react";
 import { Button } from "@/components/ui/button";
 
-const jobs = [
-  {
-    title: "Senior UI/UX Designer",
-    company: "TechVision Inc.",
-    location: "Remote",
-    type: "Full-time",
-    department: "Design",
-    description: "Lead design projects and mentor junior designers in creating exceptional user experiences.",
-  },
-  {
-    title: "Brand Strategist",
-    company: "Creative Minds Agency",
-    location: "New York, NY",
-    type: "Full-time",
-    department: "Strategy",
-    description: "Develop brand strategies that connect businesses with their target audiences.",
-  },
-  {
-    title: "Motion Designer",
-    company: "Digital Studios Pro",
-    location: "Remote",
-    type: "Contract",
-    department: "Animation",
-    description: "Create stunning motion graphics and animations for digital campaigns.",
-  },
-  {
-    title: "Junior Graphic Designer",
-    company: "Artistry Co.",
-    location: "Los Angeles, CA",
-    type: "Full-time",
-    department: "Design",
-    description: "Join a creative team and grow your skills working on diverse design projects.",
-  },
-];
+import { jobs } from "@/lib/jobs";
+
 
 export function Careers() {
   return (

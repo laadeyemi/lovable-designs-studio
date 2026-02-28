@@ -8,8 +8,7 @@ import { posts } from "@/lib/posts";
 const Blog = () => {
   const [query, setQuery] = useState("");
   const [category, setCategory] = useState<string | null>(null);
-  const [openId, setOpenId] = useState<string | null>(null);
-
+  
   const categories = useMemo(() => {
     return Array.from(new Set(posts.map((p) => p.category)));
   }, []);
@@ -77,18 +76,7 @@ const Blog = () => {
                     </h3>
                     <div className="text-xs text-muted-foreground mb-3">{post.date} • {post.category}</div>
                     <p className="text-sm text-muted-foreground mb-4">{post.excerpt}</p>
-                    {openId === post.id ? (
-                      <div className="prose prose-invert text-sm mb-4">{post.content}</div>
-                    ) : null}
-                    <div className="flex items-center gap-3">
-                      <button
-                        onClick={() => setOpenId(openId === post.id ? null : post.id)}
-                        className="text-sm text-primary underline"
-                      >
-                        {openId === post.id ? "Show less" : "Read more"}
-                      </button>
-                      <div className="text-sm text-muted-foreground">{(post.tags || []).join(", ")}</div>
-                    </div>
+                    <div className="text-sm text-muted-foreground">{(post.tags || []).join(", ")}</div>
                   </div>
                 </div>
               </article>

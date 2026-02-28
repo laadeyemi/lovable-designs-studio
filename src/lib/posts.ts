@@ -10,26 +10,6 @@ export type Post = {
 
 export const posts: Post[] = [
   {
-    id: "creative-patterns",
-    title: "Creative patterns that actually convert in 2026",
-    category: "Design",
-    date: "2025-11-02",
-    excerpt: "Design patterns and compositional decisions that help ads cut through the feed.",
-    content:
-      "Use bold headlines, strong contrast, single-CTA messaging and deliberate motion to increase attention and CTR.",
-    tags: ["design", "ux"],
-  },
-  {
-    id: "performance-stack",
-    title: "Building a performance stack for fast growth",
-    category: "Performance",
-    date: "2025-08-19",
-    excerpt: "The tools and analytics we rely on for scalable performance marketing.",
-    content:
-      "From proper UTM tagging to conversion API and cohort-based attribution — a practical checklist for performance teams.",
-    tags: ["analytics", "growth"],
-  },
-  {
     id: "kogi-poly-resumption-2026",
     title: "Kogi State Polytechnic Second Semester 2025/2026 Resumption",
     category: "Education",
@@ -49,7 +29,7 @@ export const posts: Post[] = [
     date: "2026-02-28",
     excerpt: "The University of Nigeria, Nsukka (UNN) has scheduled its 52nd Matriculation Ceremony for Saturday, 7 March 2026.",
     content:
-      "<img src=\"@public/unn.avif\" class=\"w-full mb-4\" />" +
+      "<img src=\"/unn.avif\" class=\"w-full mb-4\" />" +
       "<p>The University of Nigeria, Nsukka (UNN) has announced the date for its 52nd Matriculation Ceremony.</p>" +
       "<p>The university scheduled the ceremony to take place on Saturday, 7 March 2026 at 10:00 am; each faculty across all campuses will host the matriculation at its designated venue.</p>" +
       "<p>UNN will hold the matriculation in the various faculties of all campuses of the university. That means each faculty will use its own venue; freshmen should plan around their faculty location.</p>" +
@@ -63,7 +43,7 @@ export const posts: Post[] = [
     date: "2026-02-28",
     excerpt: "Kariyoma College of Nursing Sciences, Lafia, in Nasarawa State, has officially received approval for establishment following a successful application process and an Approval/Resources Inspection visit by regulatory authorities.",
     content:
-      "<img src=\"@public/kariyoma.jpg\" class=\"w-full mb-4\" />" +
+      "<img src=\"/kariyoma.jpg\" class=\"w-full mb-4\" />" +
       "<p>Kariyoma College of Nursing Sciences, Lafia, in Nasarawa State, has officially received approval for establishment following a successful application process and an Approval/Resources Inspection visit by regulatory authorities.</p>" +
       "<p>The approval, conveyed on behalf of the Honourable Minister of Education, formally grants the institution the authorization to begin academic operations.</p>" +
       "<p>According to the official notice, the approval takes effect from 6 February 2026, granted under the provisions of Act CAP E3 LPN 2004. This marks the official go-ahead for the college to operate as a recognized institution for nursing education.</p>" +
@@ -83,7 +63,7 @@ export const posts: Post[] = [
     date: "2026-02-28",
     excerpt: "The Usmanu Danfodiyo University, Sokoto (UDUSOK) has officially announced the date for its Matriculation Ceremony for newly admitted students of the 2025/2026 academic session.",
     content:
-      "<img src=\"@public/usmanu-danfodiyo-university.avif\" class=\"w-full mb-4\" />" +
+      "<img src=\"/usmanu-danfodiyo-university.avif\" class=\"w-full mb-4\" />" +
       "<p>The Usmanu Danfodiyo University, Sokoto (UDUSOK) has officially announced the date for its Matriculation Ceremony for newly admitted students of the 2025/2026 academic session.</p>" +
       "<p>The university's notice confirms that the ceremony will take place as scheduled, while emphasizing the need for early preparation by both students and members of the university community.</p>" +
       "<p>The matriculation exercise has been fixed for Wednesday, 4 March 2026. The event will formally welcome newly admitted students into the university community and mark the beginning of their academic journey at UDUSOK.</p>" +
@@ -97,7 +77,7 @@ export const posts: Post[] = [
     date: "2026-02-28",
     excerpt: "The Ambrose Alli University (AAU), Ekpoma, in Edo State, has officially postponed its 2025/2026 Matriculation Ceremony earlier scheduled for Wednesday, 25 February 2026",
     content:
-      "<img src=\"@public/aau-ekpoma.jpg\" class=\"w-full mb-4\" />" +
+      "<img src=\"/aau-ekpoma.jpg\" class=\"w-full mb-4\" />" +
       "<p>The Ambrose Alli University (AAU), Ekpoma, in Edo State, has officially postponed its 2025/2026 Matriculation Ceremony earlier scheduled for Wednesday, 25 February 2026.</p>" +
       "<p>The announcement was made by the Vice-Chancellor, Eunice Eboserehimen Omonzejie, on behalf of the University Senate, confirming a change in the matriculation timetable.</p>" +
       "<p>AAU rescheduled the ceremony to 10:00AM on Wednesday, 18 March 2026 at Student International Conference Centre.</p>" +
@@ -111,7 +91,7 @@ export const posts: Post[] = [
     date: "2026-02-28",
     excerpt: "The Nasarawa State University, Keffi (NSUK) has officially announced details for the matriculation ceremony of newly admitted candidates for the 2025/2026 academic session.",
     content:
-      "<img src=\"@public/keffi-nsuk.jpg\" class=\"w-full mb-4\" />" +
+      "<img src=\"/keffi-nsuk.jpg\" class=\"w-full mb-4\" />" +
       "<p>The Nasarawa State University, Keffi (NSUK) has officially announced details for the matriculation ceremony of newly admitted candidates for the 2025/2026 academic session.</p>" +
       "<p>The 2025/2026 matriculation ceremony will hold on Friday, 27 February 2026 at about 9:00 a.m. in the Convocation Square, Main Campus.</p>" +
       "<p>The ceremony formally admits new students into the university community and marks the beginning of their academic journey at NSUK.</p>" +

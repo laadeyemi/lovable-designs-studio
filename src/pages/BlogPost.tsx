@@ -22,7 +22,7 @@ const BlogPost = () => {
           <h1>{post.title}</h1>
           <div className="text-sm text-muted-foreground mb-4">{post.date} • {post.category}</div>
           <p className="lead">{post.excerpt}</p>
-          <div className="mt-6">{post.content}</div>
+          <div className="mt-6" dangerouslySetInnerHTML={{ __html: post.content }}></div>
           {post.tags?.length ? (
             <div className="mt-8 text-sm text-muted-foreground">Tags: {post.tags.join(", ")}</div>
           ) : null}

@@ -48,15 +48,11 @@ export function Careers() {
                       {job.title}
                     </h3>
                     <span className="px-2 py-0.5 rounded-full bg-primary/10 text-primary text-xs font-medium">
-                      {job.department}
+                      {job.seniority}
                     </span>
                   </div>
-                  <div className="flex items-center gap-2 text-sm text-primary/80 mb-2">
-                    <Building2 className="w-4 h-4" />
-                    <span className="font-medium">{job.company}</span>
-                  </div>
                   <p className="text-muted-foreground text-sm mb-3 lg:mb-0">
-                    {job.description}
+                    {job.summary}
                   </p>
                 </div>
 

@@ -30,8 +30,8 @@ const Blog = () => {
 
       <main className="container mx-auto px-6 py-24">
         <header className="max-w-4xl mx-auto text-center mb-12">
-          <h1 className="font-display text-4xl font-bold mb-2">Insights & Case Studies</h1>
-          <p className="text-muted-foreground">Thoughts on design, ads, and growth from the studio.</p>
+          <h1 className="font-display text-4xl font-bold mb-2">News and Tips</h1>
+          <p className="text-muted-foreground">Educational news, tips and other articles</p>
         </header>
 
         <div className="max-w-6xl mx-auto space-y-8">

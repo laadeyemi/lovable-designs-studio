@@ -73,14 +73,26 @@ const Careers = () => {
                             ))}
                           </ul>
                         </div>
-                        <div className="text-sm text-muted-foreground">To apply, click the button below or send your CV to <a href="mailto:contact@edbolineglobal.com.ng" className="text-primary">contact@edbolineglobal.com.ng</a></div>
                       </div>
                     )}
+                    <div className="space-y-3 mb-4">
+                        <div>
+                          <strong>Requirements</strong>
+                          <ul className="list-disc ml-5 text-sm text-muted-foreground">
+                            {job.requirements.map((r) => (
+                              <li key={r}>{r}</li>
+                            ))}
+                          </ul>
+                        </div>
+                      </div>
+                      <strong>How to apply</strong>
+                    <p className="text-sm text-muted-foreground mb-4">{job.apply}</p>
+                    <strong>Deadline</strong>
+                    <p className="text-sm text-muted-foreground mb-4">{job.deadline}</p>
                     <div className="flex items-center gap-3">
                       <button onClick={() => setOpenJob(openJob === job.id ? null : job.id)} className="text-sm text-primary underline">
                         {openJob === job.id ? "Hide details" : "View details"}
                       </button>
-                      <a href="/contact" className="text-sm text-muted-foreground underline">Apply</a>
                     </div>
                   </div>
                 </div>

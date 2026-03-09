@@ -22,7 +22,7 @@ const PrintDesign = lazy(() => import("./pages/PrintDesign"));
 const Faq = lazy(() => import("./pages/Faq"));
 const PrivacyPolicy = lazy(() => import("./pages/PrivacyPolicy"));
 const Terms = lazy(() => import("./pages/Terms"));
-const NigerianJobsEducation = lazy(() => import("./pages/NigerianJobsEducation"));
+
 const NotFound = lazy(() => import("./pages/NotFound"));
 
 const queryClient = new QueryClient();
@@ -53,7 +53,6 @@ const App = () => (
             <Route path="/faq" element={<Faq />} />
             <Route path="/privacy-policy" element={<PrivacyPolicy />} />
             <Route path="/terms" element={<Terms />} />
-            <Route path="/blog/nigerian-jobs-and-education" element={<NigerianJobsEducation />} />
             {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
             <Route path="*" element={<NotFound />} />
           </Routes>

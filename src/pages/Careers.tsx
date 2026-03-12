@@ -54,52 +54,69 @@ const Careers = () => {
 
           <section className="grid md:grid-cols-2 gap-6">
             {filtered.map((job) => (
-              <div key={job.id} className="rounded-2xl border border-border p-6 bg-card">
-                <div className="flex items-start justify-between gap-4">
-                  <div className="flex-1">
-                    <div className="flex items-center gap-3 mb-2">
-                      <h3 className="font-display text-lg font-semibold">{job.title}</h3>
-                      <span className="text-xs text-muted-foreground">{job.seniority}</span>
-                    </div>
-                    <div className="text-sm text-muted-foreground mb-4">{job.location} • {job.type}</div>
-                    <p className="text-sm text-muted-foreground mb-4">{job.summary}</p>
-                    {openJob === job.id && (
-                      <div className="space-y-3 mb-4">
-                        <div>
-                          <strong>Responsibilities</strong>
-                          <ul className="list-disc ml-5 text-sm text-muted-foreground">
-                            {job.responsibilities.map((r) => (
-                              <li key={r}>{r}</li>
-                            ))}
-                          </ul>
-                        </div>
-                    <div className="space-y-3 mb-4">
-                        <div>
-                          <strong>Requirements</strong>
-                          <ul className="list-disc ml-5 text-sm text-muted-foreground">
-                            {job.requirements.map((r) => (
-                              <li key={r}>{r}</li>
-                            ))}
-                          </ul>
-                        </div>
-                      </div>
-                      <strong>How to apply</strong>
-                    <p className="text-sm text-muted-foreground mb-4">{job.apply}</p>
-                      <strong>Salary</strong>
-                    <p className="text-sm text-muted-foreground mb-4">{job.salary}</p>
-                      <strong>Deadline</strong>
-                    <p className="text-sm text-muted-foreground mb-4">{job.deadline}</p>
-                    <div className="flex items-center gap-3">
-                      <button onClick={() => setOpenJob(openJob === job.id ? null : job.id)} className="text-sm text-primary underline">
-                        {openJob === job.id ? "Hide details" : "View details"}
-                      </button>
-                    </div>
-                    </div>
-                    )}
-                  </div>
-                </div>
-              </div>
-            ))}
+  <div key={job.id} className="rounded-2xl border border-border p-6 bg-card">
+    <div className="flex items-start justify-between gap-4">
+      <div className="flex-1">
+        <div className="flex items-center gap-3 mb-2">
+          <h3 className="font-display text-lg font-semibold">{job.title}</h3>
+          <span className="text-xs text-muted-foreground">{job.seniority}</span>
+        </div>
+
+        <div className="text-sm text-muted-foreground mb-4">
+          {job.location} • {job.type}
+        </div>
+
+        <p className="text-sm text-muted-foreground mb-4">{job.summary}</p>
+
+        {/* BUTTON ALWAYS VISIBLE */}
+        <button
+          onClick={() => setOpenJob(openJob === job.id ? null : job.id)}
+          className="text-sm text-primary underline mb-4"
+        >
+          {openJob === job.id ? "Hide details" : "View details"}
+        </button>
+
+        {/* DETAILS SHOWN ONLY WHEN OPEN */}
+        {openJob === job.id && (
+          <div className="space-y-3 mb-4">
+            <div>
+              <strong>Responsibilities</strong>
+              <ul className="list-disc ml-5 text-sm text-muted-foreground">
+                {job.responsibilities.map((r) => (
+                  <li key={r}>{r}</li>
+                ))}
+              </ul>
+            </div>
+
+            <div>
+              <strong>Requirements</strong>
+              <ul className="list-disc ml-5 text-sm text-muted-foreground">
+                {job.requirements.map((r) => (
+                  <li key={r}>{r}</li>
+                ))}
+              </ul>
+            </div>
+
+            <div>
+              <strong>How to apply</strong>
+              <p className="text-sm text-muted-foreground">{job.apply}</p>
+            </div>
+
+            <div>
+              <strong>Salary</strong>
+              <p className="text-sm text-muted-foreground">{job.salary}</p>
+            </div>
+
+            <div>
+              <strong>Deadline</strong>
+              <p className="text-sm text-muted-foreground">{job.deadline}</p>
+            </div>
+          </div>
+        )}
+      </div>
+    </div>
+  </div>
+))}
           </section>
 
           {filtered.length === 0 && <p className="text-center text-muted-foreground">No roles match your filters.</p>}

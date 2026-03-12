@@ -86,7 +86,7 @@ const Careers = () => {
                       <strong>How to apply</strong>
                     <p className="text-sm text-muted-foreground mb-4">{job.apply}</p>
                      <strong>Salary</strong>
-                    <p className="text-sm text-muted-foreground mb-4">{job.apply}</p>
+                    <p className="text-sm text-muted-foreground mb-4">{job.salary}</p>
                     <strong>Deadline</strong>
                     <p className="text-sm text-muted-foreground mb-4">{job.deadline}</p>
                     <div className="flex items-center gap-3">

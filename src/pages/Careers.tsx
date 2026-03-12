@@ -85,9 +85,9 @@ const Careers = () => {
                       </div>
                       <strong>How to apply</strong>
                     <p className="text-sm text-muted-foreground mb-4">{job.apply}</p>
-                     <strong>Salary</strong>
+                      <strong>Salary</strong>
                     <p className="text-sm text-muted-foreground mb-4">{job.salary}</p>
-                    <strong>Deadline</strong>
+                      <strong>Deadline</strong>
                     <p className="text-sm text-muted-foreground mb-4">{job.deadline}</p>
                     <div className="flex items-center gap-3">
                       <button onClick={() => setOpenJob(openJob === job.id ? null : job.id)} className="text-sm text-primary underline">

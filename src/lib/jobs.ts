@@ -13,6 +13,95 @@ export type Job = {
 }
 
 export const jobs: Job[] = [
+{
+    id: "HVAC Technician ",
+    title: "HVAC Technician ",
+    location: "Lagos",
+    type: "Full-time",
+    seniority: "Senior",
+    summary:
+      "Our client is seeking a qualified HVAC Technician responsible for the installation, servicing, and maintenance of heating, ventilation, and air conditioning systems to ensure efficient operation of building facilities.",
+    responsibilities: [
+      "Install, maintain, and repair HVAC systems including air conditioners, ventilation systems, and refrigeration units.",
+"Conduct routine maintenance and inspection of HVAC equipment.",
+"Diagnose faults and perform repairs to ensure optimal system performance.",
+"Monitor system performance and recommend improvements where necessary.",
+"Ensure all work is carried out in compliance with safety and operational standards.",
+    ],
+    requirements: [
+      "Minimum of 4 years post-training experience in HVAC installation and maintenance.",
+"Relevant technical certification in HVAC, Mechanical Engineering, or Refrigeration.",
+"Strong troubleshooting and technical diagnostic skills.",
+"Ability to work independently and manage multiple maintenance tasks.",
+    ],
+    apply:
+      'Interested and qualified candidates should click <a href="https://forms.gle/DKS9QvGMLme9xh4b8">HERE</a> to apply',
+    salary: "N250,000 – N300,000 monthly",
+    deadline: "17th March, 2026.",
+  },
+{
+    id: "IT Support Officer",
+    title: "IT Support Officer",
+    location: "Lagos",
+    type: "Full-time",
+    seniority: "Senior",
+    summary:
+      "We are seeking a skilled and proactive IT Support Officer to provide technical support and ensure the smooth operation of IT systems across our outlets and corporate office. The ideal candidate will be responsible for maintaining hardware, software, and network systems while supporting staff with technical issues to ensure minimal disruption to business operations.",
+    responsibilities: [
+      "Provide day-to-day technical support for hardware, software, and network-related issues across outlets and offices.",
+"Install, configure, and maintain computer systems, POS systems, and related IT equipment.",
+"Troubleshoot system, network, and application issues and ensure timely resolution.",
+"Monitor system performance and ensure data security and backup procedures are followed.",
+"Support and maintain business software applications used in daily operations.",
+"Coordinate with vendors and service providers for system upgrades, repairs, and maintenance.",
+"Assist in the implementation of new IT solutions and ensure proper user training.",
+"Maintain IT documentation, asset records, and support logs.",
+    ],
+    requirements: [
+      "Interested candidates should possess a Bachelor's Degree",
+"3 - 5 years of relevant IT support experience.",
+"Prior hands-on experience working with business or enterprise software applications.",
+"Experience supporting POS systems, networks, and general IT infrastructure.",
+"Strong troubleshooting and problem-solving skills.",
+"Good communication and user support skills.",
+"Ability to work in a fast-paced operational environment.",
+"Prior experience in the QSR (Quick Service Restaurant) or FMCG industry is an added advantage.",
+    ],
+    apply:
+      'Interested and qualified candidates should send their CV to: <a href="mailto:career@consultingdcc.com.ng">career@consultingdcc.com.ng </a> using "IT Support Officer" as the subject of the mail.',
+    salary: "Not specific",
+    deadline: "Not specific",
+  },
+{
+    id: "Electrician",
+    title: "Electrician",
+    location: "Lagos",
+    type: "Full-time",
+    seniority: "Senior",
+    summary:
+      "We are seeking a skilled and reliableElectrical, Electronics & Maintenance Technicianto join our team. The ideal candidate will be responsible for installing, maintaining, troubleshooting, and repairing electrical and electronic systems to ensure smooth and safe operations.",
+    responsibilities: [
+      "Carry out routine inspection, maintenance, and repair of electrical and electronic equipment",
+"Diagnose and fix electrical, mechanical, and electronic faults",
+"Install and maintain electrical wiring, control panels, and machinery",
+"Ensure all maintenance activities comply with safety standards and company procedures",
+"Maintain proper records of maintenance activities and repairs",
+"Support preventive and corrective maintenance schedules",
+"Respond promptly to breakdowns to minimize downtime.",
+    ],
+    requirements: [
+      "Minimum OND/HND in Electrical, Electronics, or related field",
+"Proven experience in electrical, electronics, and general maintenance",
+"Good understanding of industrial electrical systems and control panels",
+"Ability to read and interpret electrical diagrams and schematics",
+"Strong problem-solving skills and attention to detail",
+"Ability to work independently and as part of a team.",
+],
+    apply:
+      'Interested and qualified candidates should send their CV to: <a href="mailto:careers@runola.ng ">careers@runola.ng </a> using “Application for Quality Assurance/Control Laboratory Assistant Position” as the subject of the mail.',
+    salary: "Not specific",
+    deadline: "21st April, 2026.",
+  },
   {
     id: "Graduate Surveryor",
     title: "Graduate Surveryor",

@@ -16,7 +16,6 @@ const PrintDesign = () => (
           designs that leave a lasting impression.
         </p>
       </section>
-
       <Work category="Print Design" heading="Printed Pieces" showAllLink={false} />
     </main>
     <Footer />

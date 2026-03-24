@@ -11,25 +11,95 @@ export type WorkProps = {
 };
 
 const projects = [
-  {
-    title: "Neon Nights Brand",
-    category: "Brand Identity",
-    image: "https://images.unsplash.com/photo-1558655146-9f40138edfeb?w=800&h=600&fit=crop",
-  },
-  {
-    title: "TechFlow Dashboard",
-    category: "UI/UX Design",
-    image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=600&fit=crop",
-  },
-  {
-    title: "Bloom Beauty Campaign",
-    category: "Marketing Design",
-    image: "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=800&h=600&fit=crop",
-  },
-  {
-    title: "Urban Fusion Magazine",
+   {
+    title: "Customized Jotter",
     category: "Print Design",
-    image: "https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=800&h=600&fit=crop",
+    image: "/public/jotter.jpg",
+  },
+  {
+    title: "Goods Packaging",
+    category: "Print Design",
+    image: "/public/pg.jpg",
+  },
+  {
+    title: "Customized Book",
+    category: "Print Design",
+    image: "/public/book.jpg",
+  },
+  {
+    title: "Customized Nylon",
+    category: "Print Design",
+    image: "/public/nylon.jpg",
+  },
+  {
+    title: "Customized mailing Nylon",
+    category: "Print Design",
+    image: "/public/mailing.jpg",
+  },
+   {
+    title: "T-Shirt and Cap branding",
+    category: "Print Design",
+    image: "/public/tp.jpg",
+  },
+   {
+    title: "Cooperate Gift",
+    category: "Print Design",
+    image: "/public/gift.jpg",
+  },
+  {
+    title: "Business Card",
+    category: "Print Design",
+    image: "/public/bc.jpg",
+  },
+  {
+    title: "Awards",
+    category: "Print Design",
+    image: "/public/awards.jpg",
+  },
+  {
+    title: "Souvenirs",
+    category: "Print Design",
+    image: "/public/sou.jpg",
+  },
+   {
+    title: "Frame (8by12in, 12by16in)",
+    category: "Print Design",
+    image: "/public/frame.jpg",
+  },
+   {
+    title: "Banner (Large format printing)",
+    category: "Print Design",
+    image: "/public/banner.jpg",
+  },
+   {
+    title: "Church social banner",
+    category: "Marketing Design",
+    image: "/public/overcomer.png",
+  },
+   {
+    title: "Branding for Zubah",
+    category: "Brand Identity",
+    image: "/public/zubah.png",
+  },
+  {
+    title: "Branding for De' struct-view",
+    category: "Brand Identity",
+    image: "/public/dsv.jpg",
+  },
+  {
+    title: "Birthday graphics",
+    category: "Marketing Design",
+    image: "/public/birthday.png",
+  },
+  {
+    title: "EG foods Campaign",
+    category: "Marketing Design",
+    image: "/public/mk4.png",
+  },
+  {
+    title: "Yummy Kitchen Flyer",
+    category: "Marketing Design",
+    image: "/public/rb.png",
   },
   {
     title: "E-Shop Setup",

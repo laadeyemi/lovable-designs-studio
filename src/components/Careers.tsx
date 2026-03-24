@@ -7,7 +7,7 @@ import { jobs } from "@/lib/jobs";
 
 export function Careers() {
   return (
-    <section id="careers" className="py-24 bg-card/50">
+    <section id="careers" className="py-24 bg-card/5">
       <div className="container mx-auto px-6">
         {/* Section Header */}
         <motion.div
@@ -70,7 +70,7 @@ export function Careers() {
 
                 {/* Apply Button */}
                 <Button variant="outline" size="sm" className="lg:ml-4 shrink-0">
-                  Apply Now
+                 <a href="/careers"> Apply Now </a>
                   <ArrowRight className="w-4 h-4 ml-1" />
                 </Button>
               </div>

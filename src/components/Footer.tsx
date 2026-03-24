@@ -74,9 +74,9 @@ export function Footer() {
               through stunning visuals and strategic design solutions.
             </p>
             <div className="space-y-3">
-              <a href="mailto:contact@edbolineglobal.com.ng" className="flex items-center gap-3 text-muted-foreground hover:text-foreground transition-colors">
+              <a href="mailto:contact@edbolineglobal.com" className="flex items-center gap-3 text-muted-foreground hover:text-foreground transition-colors">
                 <Mail className="w-5 h-5 text-primary" />
-                contact@edbolineglobal.com.ng
+                contact@edbolineglobal.com
               </a>
               <div  className="flex items-center gap-3 text-muted-foreground hover:text-foreground transition-colors">
                 <Phone className="w-5 h-5 text-primary" />

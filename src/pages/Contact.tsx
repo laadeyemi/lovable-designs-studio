@@ -56,10 +56,10 @@ const Contact = () => {
 
           <div className="space-y-6">
             <a
-              href="mailto:contact@edbolineglobal.com.ng"
+              href="mailto:contact@edbolineglobal.com"
               className="block rounded-lg border border-border p-4 hover:bg-muted-foreground/5"
             >
-              contact@edbolineglobal.com.ng
+              contact@edbolineglobal.com
             </a>
             <div className="rounded-lg border border-border p-4">
               <p className="text-muted-foreground">+234 906 0503 264</p>

@@ -27,7 +27,7 @@ const Careers = () => {
       <AdBanner />
       <Navbar />
 
-      <main className="container mx-auto px-6 py-24">
+      <main className="container mx-auto px-6 pt-40 pb-24">
         <header className="max-w-4xl mx-auto text-center mb-12">
           <h1 className="font-display text-4xl font-bold mb-2">Job Vacancies near you</h1>
           <p className="text-muted-foreground">Explore third-party job opportunities and take the next step in your career journey. We connect talented professionals with leading companies.</p>

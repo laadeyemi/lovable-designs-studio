@@ -45,7 +45,6 @@ const App = () => (
             <Route path="/contact" element={<Contact />} />
             <Route path="/quote" element={<Quote />} />
             {/* service detail pages */}
-            <Route path="/services/brand-identity" element={<BrandIdentity />} />
             <Route path="/services/online-service" element={<OnlineService />} />
             <Route path="/services/marketing-design" element={<MarketingDesign />} />
             <Route path="/services/photo-video" element={<PhotoVideo />} />

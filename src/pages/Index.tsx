@@ -17,9 +17,9 @@ const Index = () => {
       <Banner />
       <Hero />
       <Services />
-      <Work />
+      <Work limit={5} />
       <Blog />
-      <Careers />
+      <Careers limit={5} />
       <Ads />
       <Footer />
     </div>

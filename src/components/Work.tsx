@@ -1,5 +1,6 @@
 import { motion } from "framer-motion";
 import { ArrowUpRight } from "lucide-react";
+import { Link } from "react-router-dom";
 
 export type WorkProps = {
   /** optionally filter projects by category */
@@ -8,98 +9,100 @@ export type WorkProps = {
   heading?: string;
   /** whether to show the "View All Projects" link */
   showAllLink?: boolean;
+  /** limit the number of projects displayed */
+  limit?: number;
 };
 
 const projects = [
    {
     title: "Customized Jotter",
     category: "Print Design",
-    image: "/public/jotter.jpg",
+    image: "/jotter.jpg",
   },
   {
     title: "Goods Packaging",
     category: "Print Design",
-    image: "/public/pg.jpg",
+    image: "/pg.jpg",
   },
   {
     title: "Customized Book",
     category: "Print Design",
-    image: "/public/book.jpg",
+    image: "/book.jpg",
   },
   {
     title: "Customized Nylon",
     category: "Print Design",
-    image: "/public/nylon.jpg",
+    image: "/nylon.jpg",
   },
   {
     title: "Customized mailing Nylon",
     category: "Print Design",
-    image: "/public/mailing.jpg",
+    image: "/mailing.jpg",
   },
    {
     title: "T-Shirt and Cap branding",
     category: "Print Design",
-    image: "/public/tp.jpg",
+    image: "/tp.jpg",
   },
    {
     title: "Cooperate Gift",
     category: "Print Design",
-    image: "/public/gift.jpg",
+    image: "/gift.jpg",
   },
   {
     title: "Business Card",
     category: "Print Design",
-    image: "/public/bc.jpg",
+    image: "/bc.jpg",
   },
   {
     title: "Awards",
     category: "Print Design",
-    image: "/public/awards.jpg",
+    image: "/awards.jpg",
   },
   {
     title: "Souvenirs",
     category: "Print Design",
-    image: "/public/sou.jpg",
+    image: "/sou.jpg",
   },
    {
     title: "Frame (8by12in, 12by16in)",
     category: "Print Design",
-    image: "/public/frame.jpg",
+    image: "/frame.jpg",
   },
    {
     title: "Banner (Large format printing)",
     category: "Print Design",
-    image: "/public/banner.jpg",
+    image: "/banner.jpg",
   },
    {
     title: "Church social banner",
     category: "Marketing Design",
-    image: "/public/overcomer.png",
+    image: "/overcomer.png",
   },
    {
     title: "Branding for Zubah",
     category: "Brand Identity",
-    image: "/public/zubah.png",
+    image: "/zubah.png",
   },
   {
     title: "Branding for De' struct-view",
     category: "Brand Identity",
-    image: "/public/dsv.jpg",
+    image: "/dsv.jpg",
   },
   {
     title: "Birthday graphics",
     category: "Marketing Design",
-    image: "/public/birthday.png",
+    image: "/birthday.png",
   },
   {
     title: "EG foods Campaign",
     category: "Marketing Design",
-    image: "/public/mk4.png",
+    image: "/mk4.png",
   },
   {
     title: "Yummy Kitchen Flyer",
     category: "Marketing Design",
-    image: "/public/rb.png",
+    image: "/rb.png",
   },
   {
     title: "E-Shop Setup",
@@ -113,12 +116,15 @@ const projects = [
   },
 ];
 
-export function Work({ category, heading, showAllLink = true }: WorkProps) {
+export function Work({ category, heading, showAllLink = true, limit }: WorkProps) {
   const filtered = category
     ? projects.filter((p) => p.category === category)
     : projects;
 
-  if (filtered.length === 0) return null;
+  // Reversing ensures that the "latest" items (added at the end of the array) show up first
+  const displayProjects = limit ? [...filtered].reverse().slice(0, limit) : filtered;
+
+  if (displayProjects.length === 0) return null;
 
   return (
     <section id="work" className="py-24 bg-card/50">
@@ -144,19 +150,19 @@ export function Work({ category, heading, showAllLink = true }: WorkProps) {
             </h2>
           </div>
           {showAllLink && (
-            <a
-              href="#"
+            <Link
+              to="/work"
               className="group flex items-center gap-2 text-primary font-medium hover:gap-4 transition-all duration-300"
             >
               View All Projects
               <ArrowUpRight className="w-5 h-5" />
-            </a>
+            </Link>
           )}
         </motion.div>
 
         {/* Projects Grid */}
         <div className="grid md:grid-cols-2 gap-8">
-          {filtered.map((project, index) => (
+          {displayProjects.map((project, index) => (
             <motion.a
               key={project.title}
               href="#"

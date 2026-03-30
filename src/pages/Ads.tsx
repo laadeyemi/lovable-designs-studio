@@ -4,6 +4,7 @@ import { Navbar } from "@/components/Navbar";
 import { Footer } from "@/components/Footer";
 import { Ads as AdsSection } from "@/components/Ads";
 import { Button } from "@/components/ui/button";
+import { Link } from "react-router-dom";
 
 const caseStudies = [
   {
@@ -41,7 +42,9 @@ const Ads = () => {
                 <h3 className="font-semibold mb-2">{c.title}</h3>
                 <p className="text-sm text-muted-foreground mb-4">{c.summary}</p>
                 <div className="flex gap-3">
-                  <Button variant="hero" onClick={() => (window.location.href = "/contact")}>Work with us</Button>
+                  <Button variant="hero" asChild>
+                    <Link to="/contact">Work with us</Link>
+                  </Button>
                 </div>
               </div>
             ))}
@@ -60,7 +63,9 @@ const Ads = () => {
                     <li key={b}>{b}</li>
                   ))}
                 </ul>
-                <Button variant="hero" onClick={() => (window.location.href = "/contact")}>Get a quote</Button>
+                <Button variant="hero" asChild>
+                  <Link to="/contact">Get a quote</Link>
+                </Button>
               </div>
             ))}
           </div>

@@ -1,5 +1,5 @@
 import React from "react";
-import { useParams } from "react-router-dom";
+import { useParams, Link } from "react-router-dom";
 import { AdBanner } from "@/components/AdBanner";
 import { Navbar } from "@/components/Navbar";
 import { Footer } from "@/components/Footer";
@@ -28,7 +28,7 @@ const BlogPost = () => {
           ) : null}
 
           <div className="mt-8">
-            <a href="/blog" className="text-primary underline">← Back to blog</a>
+            <Link to="/blog" className="text-primary underline">← Back to blog</Link>
           </div>
         </article>
       </main>

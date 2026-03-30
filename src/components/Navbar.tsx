@@ -2,11 +2,13 @@ import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import { Menu, X } from "lucide-react";
 import { Button } from "@/components/ui/button";
+import { Link } from "react-router-dom";
 import { NavLink } from "@/components/NavLink";
 import logo from "@/assets/logo.png";
 
 const navItems = [
   { name: "Home", href: "/" },
+  { name: "Work", href: "/work" },
   { name: "Blog", href: "/blog" },
   { name: "Job Vacancies", href: "/careers" },
   { name: "Ads", href: "/ads" },
@@ -22,10 +24,10 @@ export function Navbar() {
       <div className="container mx-auto px-6">
         <div className="flex items-center justify-between h-20">
           {/* Logo */}
-          <a href="/" className="flex items-center gap-3">
+          <Link to="/" className="flex items-center gap-3">
             <img src={logo} alt="Edboline Global" className="w-10 h-10 object-contain" />
             <span className="font-display font-bold text-xl text-primary">Edboline Global</span>
-          </a>
+          </Link>
 
           {/* Desktop Navigation */}
           <div className="hidden md:flex items-center gap-8">

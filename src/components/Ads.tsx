@@ -1,6 +1,7 @@
 import { motion } from "framer-motion";
 import { Zap, Target, TrendingUp, BarChart3 } from "lucide-react";
 import { Button } from "@/components/ui/button";
+import { Link } from "react-router-dom";
 
 const features = [
   {
@@ -80,10 +81,10 @@ export function Ads() {
 
             <div className="flex flex-col sm:flex-row gap-4">
               <Button variant="hero" size="lg" asChild>
-              <a href ="/Quote"> Start Advertising </a>
+                <Link to="/Quote"> Start Advertising </Link>
               </Button>
               <Button variant="outline" size="lg" asChild>
-                <a href ="/ads">View Ad Packages</a>
+                <Link to="/ads">View Ad Packages</Link>
               </Button>
             </div>
           </motion.div>

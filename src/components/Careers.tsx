@@ -1,11 +1,15 @@
 import { motion } from "framer-motion";
-import { MapPin, Clock, ArrowRight, Building2 } from "lucide-react";
+import { MapPin, Clock, ArrowRight, Building2, ArrowUpRight } from "lucide-react";
 import { Button } from "@/components/ui/button";
+import { Link } from "react-router-dom";
 
 import { jobs } from "@/lib/jobs";
 
 
-export function Careers() {
+export function Careers({ limit, showAllLink = true }: { limit?: number; showAllLink?: boolean }) {
+  // Shows the latest 5 job updates if a limit is provided
+  const displayJobs = limit ? [...jobs].reverse().slice(0, limit) : jobs;
+
   return (
     <section id="careers" className="py-24 bg-card/5">
       <div className="container mx-auto px-6">
@@ -31,7 +35,7 @@ export function Careers() {
 
         {/* Jobs List */}
         <div className="max-w-4xl mx-auto space-y-4">
-          {jobs.map((job, index) => (
+          {displayJobs.map((job, index) => (
             <motion.div
               key={job.title}
               initial={{ opacity: 0, y: 20 }}
@@ -69,14 +73,33 @@ export function Careers() {
                 </div>
 
                 {/* Apply Button */}
-                <Button variant="outline" size="sm" className="lg:ml-4 shrink-0">
-                 <a href="/careers"> Apply Now </a>
-                  <ArrowRight className="w-4 h-4 ml-1" />
+                <Button variant="outline" size="sm" className="lg:ml-4 shrink-0 hover:bg-primary hover:text-primary-foreground transition-all duration-300" asChild>
+                  <Link to="/careers" className="flex items-center gap-1">
+                    Apply Now
+                    <ArrowRight className="w-4 h-4" />
+                  </Link>
                 </Button>
               </div>
             </motion.div>
           ))}
         </div>
+
+        {/* View All Link - Shown on homepage when list is limited */}
+        {showAllLink && limit && jobs.length > limit && (
+          <motion.div 
+            initial={{ opacity: 0 }}
+            whileInView={{ opacity: 1 }}
+            className="mt-12 text-center"
+          >
+            <Link
+              to="/careers"
+              className="group inline-flex items-center gap-2 text-primary font-medium hover:gap-4 transition-all duration-300"
+            >
+              View All Job Vacancies
+              <ArrowUpRight className="w-5 h-5" />
+            </Link>
+          </motion.div>
+        )}
 
         {/* CTA */}
         <motion.div

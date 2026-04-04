@@ -8,7 +8,6 @@ import logo from "@/assets/logo.png";
 
 const navItems = [
   { name: "Home", href: "/" },
-  { name: "Work", href: "/work" },
   { name: "Blog", href: "/blog" },
   { name: "Job Vacancies", href: "/careers" },
   { name: "Ads", href: "/ads" },

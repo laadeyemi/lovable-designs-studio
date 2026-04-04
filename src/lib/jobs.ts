@@ -10,12 +10,14 @@ export type Job = {
   apply: string; 
   salary: string;
   deadline: string;
+  date: string;
 }
 
-export const jobs: Job[] = [
+const allJobs: Job[] = [
   {
     id: "Structural Design Engineer (Construction Industry)",
     title: "Structural Design Engineer (Construction Industry)",
+    date: "2026-04-03",
     location: "Ikoyi, Lagos",
     type: "Full-time",
     seniority: "Senior",
@@ -46,9 +48,10 @@ export const jobs: Job[] = [
     deadline: "Not specific",
   },
   {
-    id: "Graduate Surveryor",
-    title: "Graduate Surveryor",
-    location: "Somulo, Lagos",
+    id: "Graduate-Surveyor-Somolu",
+    title: "Graduate Surveyor",
+    date: "2026-04-02",
+    location: "Somolu, Lagos",
     type: "Full-time",
     seniority: "Senior",
     summary:
@@ -78,6 +81,7 @@ export const jobs: Job[] = [
   {
     id: "Senior Structural Engineer",
     title: "Senior Structural Engineer",
+    date: "2026-04-01",
     location: "Somolu, Lagos",
     type: "Full-time",
     seniority: "Senior",
@@ -92,7 +96,7 @@ export const jobs: Job[] = [
     ],
     requirements: [
       "B.Eng. / B.Sc. in Civil Engineering.",
-"MNSE, MNISTRUCTE, COREN registrationis mandatory.",
+"MNSE, MNISTRUCTE, COREN registration is mandatory.",
 "ProficiencyinProtaStructure,Autodesk Robot, or similar software.",
 "Strong knowledge of Eurocodes,BS codes, and modern design practices.",
 "Excellent communication, leadership, and teamwork skills.",
@@ -105,6 +109,7 @@ export const jobs: Job[] = [
   {
     id: "HSE Officer",
     title: "HSE Officer",
+    date: "2026-03-28",
     location: "Abuja",
     type: "Full-time",
     seniority: "Senior",
@@ -135,6 +140,7 @@ export const jobs: Job[] = [
   {
     id: "IT Support Officer",
     title: "IT Support Officer",
+    date: "2026-03-27",
     location: "Lagos",
     type: "Full-time",
     seniority: "Senior",
@@ -162,6 +168,7 @@ export const jobs: Job[] = [
   {
     id: "HEMM Technician (Excavators, Dozers, Payloader)",
     title: "HEMM Technician (Excavators, Dozers, Payloader)",
+    date: "2026-03-25",
     location: "Akwa Ibom , Delta, Imo and Rivers",
     type: "Full-time",
     seniority: "Senior",
@@ -183,6 +190,7 @@ export const jobs: Job[] = [
   {
     id: "HSE Manager",
     title: "HSE Manager",
+    date: "2026-03-25",
     location: "Lagos",
     type: "Full-time",
     seniority: "Senior",
@@ -217,6 +225,7 @@ export const jobs: Job[] = [
   {
     id: "IT Team Lead",
     title: "IT Team Lead",
+    date: "2026-03-24",
     location: "Lekki Phase 1, Lagos",
     type: "Full-time",
     seniority: "Senior",
@@ -248,6 +257,7 @@ export const jobs: Job[] = [
   {
     id: "Junior Network Solutions Engineer (NYSC)",
     title: "Junior Network Solutions Engineer (NYSC)",
+    date: "2026-03-24",
     location: "Surulere, Lagos",
     type: "Full-time",
     seniority: "Junior",
@@ -279,6 +289,7 @@ export const jobs: Job[] = [
   {
     id: "Cyber Security Officer (NYSC)",
     title: "Cyber Security Officer (NYSC)",
+    date: "2026-03-22",
     location: "Lagos",
     type: "Full-time",
     seniority: "Senior",
@@ -310,6 +321,7 @@ export const jobs: Job[] = [
   {
     id: "Project Engineer (Civil / Structural)",
     title: "Project Engineer (Civil / Structural)",
+    date: "2026-03-20",
     location: "Somolu, Lagos",
     type: "Full-time",
     seniority: "Senior",
@@ -338,6 +350,7 @@ export const jobs: Job[] = [
   {
     id: "Shift Supervisor",
     title: "Shift Supervisor",
+    date: "2026-03-18",
     location: "Mowe, Ogun",
     type: "Full-time",
     seniority: "Senior",
@@ -378,6 +391,7 @@ export const jobs: Job[] = [
   {
     id: "Shift Supervisor",
     title: "Shift Supervisor",
+    date: "2026-03-15",
     location: "Lagos",
     type: "Full-time",
     seniority: "Senior",
@@ -401,6 +415,7 @@ export const jobs: Job[] = [
   {
     id: "Software Project Management Assistant",
     title: "Software Project Management Assistant",
+    date: "2026-03-12",
     location: "Abuja",
     type: "Full-time",
     seniority: "Junior",
@@ -437,6 +452,7 @@ export const jobs: Job[] = [
   {
     id: "Maintenance Officer",
     title: "Maintenance Officer",
+    date: "2026-03-10",
     location: "Adamawa, Yola",
     type: "Full-time",
     seniority: "Senior",
@@ -464,6 +480,7 @@ export const jobs: Job[] = [
   {
     id: "Software Engineer",
     title: "Software Engineer",
+    date: "2026-03-08",
     location: "Lagos",
     type: "Contract",
     seniority: "Senior",
@@ -496,6 +513,7 @@ export const jobs: Job[] = [
   {
   id: "Electrical Engineer",
     title: "Electrical Engineer",
+    date: "2026-03-05",
     location: "Mowe, Ogun",
     type: "Full-time",
     seniority: "Senior",
@@ -522,6 +540,7 @@ export const jobs: Job[] = [
 {
    id: "Mechanical Specialist",
     title: "Mechanical Specialist",
+    date: "2026-03-02",
     location: "Nigeria",
     type: "Full-time",
     seniority: "Senior",
@@ -551,6 +570,7 @@ export const jobs: Job[] = [
 {
    id: "Microbiologist (Graduate Trainee)",
     title: "Microbiologist (Graduate Trainee)",
+    date: "2026-03-01",
     location: "Ogba, Lagos",
     type: "Full-time",
     seniority: "Junior",
@@ -578,6 +598,7 @@ export const jobs: Job[] = [
   {
     id: "Facility Manager",
     title: "Facility Manager",
+    date: "2026-02-28",
     location: "Lagos",
     type: "Full-time",
     seniority: "Senior",
@@ -607,6 +628,7 @@ export const jobs: Job[] = [
 {
     id: "IT Support Officer",
     title: "IT Support Officer",
+    date: "2026-02-26",
     location: "Lagos",
     type: "Full-time",
     seniority: "Senior",
@@ -640,6 +662,7 @@ export const jobs: Job[] = [
 {
     id: "Electrician",
     title: "Electrician",
+    date: "2026-02-25",
     location: "Lagos",
     type: "Full-time",
     seniority: "Senior",
@@ -668,9 +691,10 @@ export const jobs: Job[] = [
     deadline: "21st April, 2026.",
   },
   {
-    id: "Graduate Surveryor",
-    title: "Graduate Surveryor",
-    location: "somolu, Lagos",
+    id: "Graduate-Surveyor-SOP",
+    title: "Graduate Surveyor",
+    date: "2026-02-24",
+    location: "Somolu, Lagos",
     type: "Full-time",
     seniority: "junior",
     summary:
@@ -700,6 +724,7 @@ export const jobs: Job[] = [
 {
     id: "HR Officer (Intern)",
     title: "HR Officer (Intern)",
+    date: "2026-02-22",
     location: "Lagos",
     type: "Full-time",
     seniority: "Senior",
@@ -725,6 +750,7 @@ export const jobs: Job[] = [
 {
     id: "Structural Design Engineer ",
     title: "Structural Design Engineer ",
+    date: "2026-02-20",
     location: "Ikoyi, Lagos",
     type: "Full-time",
     seniority: "junior",
@@ -757,6 +783,7 @@ export const jobs: Job[] = [
 {
     id: "AI / ML Data Engineer",
     title: "AI / ML Data Engineer",
+    date: "2026-02-18",
     location: "Lagos",
     type: "Full-time(Remote)",
     seniority: "Senior",
@@ -800,6 +827,7 @@ export const jobs: Job[] = [
 {
     id: "Mechanical Engineer",
     title: "Mechanical Engineer",
+    date: "2026-02-15",
     location: "Mowe, Ogun",
     type: "Full-time",
     seniority: "Senior",
@@ -826,6 +854,7 @@ export const jobs: Job[] = [
   {
     id: "Site Engineer",
     title: "Site Engineer",
+    date: "2026-02-14",
     location: "Abuja",
     type: "Full-time",
     seniority: "Senior",
@@ -859,7 +888,8 @@ export const jobs: Job[] = [
 {
     id: "Project Engineer (Civil / Structural)",
     title: "Project Engineer (Civil / Structural)",
-    location: "Shomolu, Lagos",
+    date: "2026-02-12",
+    location: "Somolu, Lagos",
     type: "Full-time",
     seniority: "Junior",
     summary:
@@ -888,6 +918,7 @@ export const jobs: Job[] = [
 {
     id: "Cyber Security Officer (NYSC)",
     title: "Cyber Security Officer (NYSC)",
+    date: "2026-02-10",
     location: "Lagos",
     type: "Full-time",
     seniority: "Senior",
@@ -919,6 +950,7 @@ export const jobs: Job[] = [
 {
     id: "QA / QC Engineer",
     title: "QA / QC Engineer",
+    date: "2026-02-08",
     location: "Lagos",
     type: "Full-time",
     seniority: "Senior",
@@ -954,7 +986,8 @@ export const jobs: Job[] = [
 {
     id: "Junior Network Solutions Engineer (NYSC)",
     title: "Junior Network Solutions Engineer (NYSC)",
-    location: "Suruler, Lagos",
+    date: "2026-02-05",
+    location: "Surulere, Lagos",
     type: "Full-time",
     seniority: "Senior",
     summary:
@@ -985,6 +1018,7 @@ export const jobs: Job[] = [
 {
     id: "Technical Manager",
     title: "Technical Manager",
+    date: "2026-02-04",
     location: "Mowe, Ogun",
     type: "Full-time",
     seniority: "Senior",
@@ -1013,6 +1047,7 @@ export const jobs: Job[] = [
 {
     id: "HSE Manager",
     title: "HSE Manager",
+    date: "2026-02-02",
     location: "Lagos",
     type: "Full-time",
     seniority: "Senior",
@@ -1047,7 +1082,8 @@ export const jobs: Job[] = [
 {
     id: "HEMM Technician (Excavators, Dozers, Payloader)",
     title: "HEMM Technician (Excavators, Dozers, Payloader)",
-    location: "AkwaIbom , Delta, Imo and Rivers",
+    date: "2026-01-28",
+    location: "Akwa Ibom, Delta, Imo and Rivers",
     type: "Full-time",
     seniority: "junior",
     summary:
@@ -1068,6 +1104,7 @@ export const jobs: Job[] = [
 {
     id: "IT Support Officer",
     title: "IT Support Officer",
+    date: "2026-01-25",
     location: "Lagos",
     type: "Full-time",
     seniority: "Senior",
@@ -1095,6 +1132,7 @@ export const jobs: Job[] = [
 {
     id: "HSE Officer",
     title: "HSE Officer",
+    date: "2026-01-24",
     location: "Abuja",
     type: "Full-time",
     seniority: "Senior",
@@ -1126,6 +1164,7 @@ export const jobs: Job[] = [
 {
     id: "Reservoir Navigation Services Engineer",
     title: "Reservoir Navigation Services Engineer",
+    date: "2026-01-22",
     location: "Port Harcourt, Rivers",
     type: "Full-time",
     seniority: "Senior",
@@ -1157,6 +1196,7 @@ export const jobs: Job[] = [
 {
     id: "Auto Engineer (Truck Technician)",
     title: "Auto Engineer (Truck Technician)",
+    date: "2026-01-20",
     location: "Ogun, Lagos",
     type: "Full-time",
     seniority: "Senior",
@@ -1187,6 +1227,7 @@ export const jobs: Job[] = [
 {
     id: "Senior Structural Engineer",
     title: "Senior Structural Engineer",
+    date: "2026-01-18",
     location: "Somolu, Lagos",
     type: "Full-time",
     seniority: "Senior",
@@ -1214,6 +1255,7 @@ export const jobs: Job[] = [
   {
     id: "Graduate Software Engineer – Open Source and Linux",
     title: "Graduate Software Engineer – Open Source and Linux",
+    date: "2026-01-15",
     location: "Lagos",
     type: "Remote",
     seniority: "Senior",
@@ -1249,6 +1291,7 @@ export const jobs: Job[] = [
 {
     id: "Graduate Sales / Business Development Intern",
     title: "Graduate Sales / Business Development Intern",
+    date: "2026-01-12",
     location: "Nigeria",
     type: "Full-time",
     seniority: "Senior",
@@ -1283,6 +1326,7 @@ export const jobs: Job[] = [
 {
     id: "FTTH Project Site Engineer",
     title: "FTTH Project Site Engineer",
+    date: "2026-01-10",
     location: "Rivers",
     type: "Full-time",
     seniority: "Senior",
@@ -1312,6 +1356,7 @@ export const jobs: Job[] = [
 {
     id: "Site Building Support Intern  (NYSC)",
     title: "Site Building Support Intern (NYSC)",
+    date: "2026-01-08",
     location: "Abuja",
     type: "Internship",
     seniority: "Senior",
@@ -1341,6 +1386,7 @@ export const jobs: Job[] = [
 {
     id: "FTTH Project Site Engineer",
     title: "FTTH Project Site Engineer ",
+    date: "2026-01-05",
     location: "Kano",
     type: "Full-time",
     seniority: "Junior",
@@ -1370,6 +1416,7 @@ export const jobs: Job[] = [
 {
     id: "Operator – Utility",
     title: "Operator – Utility",
+    date: "2026-01-04",
     location: "Sagamu, Ogun",
     type: "Full-time",
     seniority: "Senior",
@@ -1396,6 +1443,7 @@ export const jobs: Job[] = [
 {
     id: "Quality Assurance Engineer (Aircraft Design)",
     title: "Quality Assurance Engineer (Aircraft Design)",
+    date: "2026-01-02",
     location: "Abuja",
     type: "Full-time",
     seniority: "Senior",
@@ -1426,6 +1474,7 @@ export const jobs: Job[] = [
 {
     id: "Quality Control Intern (Engineering)",
     title: "Quality Control Intern (Engineering)",
+    date: "2025-12-28",
     location: "Maryland, Lagos",
     type: "Fulltime",
     seniority: "Senior",
@@ -1459,6 +1508,7 @@ export const jobs: Job[] = [
 {
     id: "FTTH Project Site Engineer",
     title: "FTTH Project Site Engineer",
+    date: "2025-12-25",
     location: "Enugu",
     type: "Full-time",
     seniority: "Senior",
@@ -1488,6 +1538,7 @@ export const jobs: Job[] = [
 {
     id: "Chief Technical Officer (CTO)",
     title: "Chief Technical Officer (CTO)",
+    date: "2025-12-24",
     location: "Lagos",
     type: "Full-time",
     seniority: "Senior",
@@ -1523,6 +1574,7 @@ export const jobs: Job[] = [
   {
     id: "Project Manager – Integrated & Solutions",
     title: "Project Manager – Integrated & Solutions",
+    date: "2025-12-22",
     location: "Lagos",
     type: "Full-time",
     seniority: "Senior",
@@ -1564,9 +1616,10 @@ export const jobs: Job[] = [
 {
     id: "Digital Intern",
     title: "Digital Intern",
+    date: "2025-12-20",
     location: "Lagos",
     type: "Remote",
-    seniority: ": Internship",
+    seniority: "Internship",
     summary:
       "IICOCECE is seeking creative and motivated Digital Interns to support our online marketing and brand visibility efforts. The ideal candidate will assist in managing social media platforms, creating engaging digital content, and supporting marketing campaigns that promote the company’s properties and investment opportunities.",
     responsibilities: [
@@ -1597,6 +1650,7 @@ salary: "N30,000",
 {
     id: "FTTH Project Design Engineer",
     title: "FTTH Project Design Engineer",
+    date: "2025-12-18",
     location: "Lagos",
     type: "Full-time",
     seniority: "Senior",
@@ -1621,6 +1675,7 @@ salary: "N30,000",
 {
     id: "HSE Coordinator",
     title: "HSE Coordinator",
+    date: "2025-12-15",
     location: "Amadi Base, Rivers",
     type: "Full-time",
     seniority: "Senior",
@@ -1651,6 +1706,7 @@ salary: "N30,000",
 {
     id: "ICT Support/ Technician",
     title: "ICT Support/Technician",
+    date: "2025-12-12",
     location: "Abuja-Life Camp, Abuja (FCT)",
     type: "Full-time",
     seniority: "Senior",
@@ -1673,6 +1729,7 @@ salary: "N30,000",
     {
     id: "Medical Laboratory Scientist",
     title: "Medical Laboratory Scientist",
+    date: "2025-12-10",
     location: "Lagos",
     type: "Full-time",
     seniority: "Senior",
@@ -1708,6 +1765,7 @@ salary: "N30,000",
 {
     id: "Phone Repair Engineer",
     title: "Phone Repair Engineer",
+    date: "2025-12-08",
     location: "Lagos",
     type: "Fulltime",
     seniority: "Junior",
@@ -1737,6 +1795,7 @@ salary: "N30,000",
 {
     id: "Product Marketing Manager",
     title: "Product Marketing Manager",
+    date: "2025-12-05",
     location: "Lagos",
     type: "Remote",
     seniority: "Senior",
@@ -1775,6 +1834,7 @@ salary: "N30,000",
 {
     id: " Architect",
     title: " Architect",
+    date: "2025-12-02",
     location: "ilupeju, Lagos",
     type: "Full-time",
     seniority: "Senior",
@@ -1800,6 +1860,7 @@ salary: "N30,000",
     {
     id: "UI / UX Design Instructor",
     title: "UI / UX Design Instructor",
+    date: "2025-12-01",
     location: "Kano",
     type: "Full-time",
     seniority: "Senior",
@@ -1824,6 +1885,7 @@ salary: "N30,000",
     {
     id: "Naval-Architect",
     title: "Naval Architect",
+    date: "2025-11-28",
     location: "Lagos",
     type: "Full-time",
     seniority: "Senior",
@@ -1845,3 +1907,6 @@ salary: "N30,000",
     deadline: "Not specific",
   },
 ];
+
+// Sort jobs by date descending (most recent first)
+export const jobs = [...allJobs].sort((a, b) => b.date.localeCompare(a.date));

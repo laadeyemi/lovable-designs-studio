@@ -8,7 +8,7 @@ export type Post = {
   tags?: string[];
 };
 
-export const posts: Post[] = [
+const allPosts: Post[] = [
   {
     id: "jamb-approved-universities-nigeria-2026",
     title: "Complete List of JAMB Approved Universities in Nigeria 2026",
@@ -221,8 +221,8 @@ export const posts: Post[] = [
     tags: ["Kogi state polytechnic", "education"],
   },
   {
-    id: "unn-announed-52nd-matriculation-ceremony",
-    title: "UNN announced date for its 52nd Matriculation Ceremony",
+    id: "unn-announced-52nd-matriculation-ceremony",
+    title: "UNN Announces Date for its 52nd Matriculation Ceremony",
     category: "Education",
     date: "2026-02-28",
     excerpt: "The University of Nigeria, Nsukka (UNN) has scheduled its 52nd Matriculation Ceremony for Saturday, 7 March 2026.",
@@ -304,6 +304,9 @@ export const posts: Post[] = [
     tags: ["Nasarawa State University, Keffi (NSUK)", "University"],
   },
 ];
+
+// Sort posts by date descending (most recent first)
+export const posts = [...allPosts].sort((a, b) => b.date.localeCompare(a.date));
 
 export function getPostById(id?: string | undefined) {
   if (!id) return undefined;

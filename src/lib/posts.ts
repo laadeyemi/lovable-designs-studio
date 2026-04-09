@@ -303,6 +303,213 @@ const allPosts: Post[] = [
       "<p>All newly admitted students are advised to strictly follow the outlined instructions, arrive early, and comply with procession guidelines to ensure a smooth and successful matriculation ceremony.</p>",
     tags: ["Nasarawa State University, Keffi (NSUK)", "University"],
   },
+  {
+    id: "modibbo-adama-university-matriculation-2026",
+    title: "Modibbo Adama University Releases 2025/2026 Matriculation Ceremony Schedule",
+    category: "Education",
+    date: "2026-04-09",
+    excerpt: "Modibbo Adama University has released the full schedule for its 2025/2026 matriculation ceremony, providing newly admitted students with key details on dates, venues, and important requirements.",
+    content:
+      "<h2>Modibbo Adama University Releases 2025/2026 Matriculation Ceremony Schedule</h2>" +
+      "<p>The Modibbo Adama University has released the full schedule for its <strong>2025/2026 matriculation ceremony</strong>, providing newly admitted students with key details on dates, venues, and important requirements.</p></br></br>" +
+      "<p>From the main ceremony to rehearsal arrangements and gown collection, the notice outlines everything fresh students need to know ahead of this important academic milestone.</p></br></br>" +
+      "<h3>Main Ceremony Details</h3>" +
+      "<p>The main matriculation ceremony has been scheduled as follows:</p>" +
+      "<ul>" +
+      "<li><strong>Date:</strong> Thursday, 16 April 2026</li>" +
+      "<li><strong>Time:</strong> 10:00 AM</li>" +
+      "<li><strong>Venue:</strong> Convocation Square</li>" +
+      "</ul></br></br>" +
+      "<p>This event officially marks the admission of new students into the university, making attendance a significant part of the academic calendar.</p></br></br>" +
+      "<h3>Compulsory Rehearsal</h3>" +
+      "<p>To ensure a smooth and well-organized ceremony, the university has arranged a compulsory rehearsal exercise:</p>" +
+      "<ul>" +
+      "<li><strong>Date:</strong> Tuesday, 14 April 2026</li>" +
+      "<li><strong>Time:</strong> 3:00 PM</li>" +
+      "<li><strong>Venue:</strong> Convocation Square</li>" +
+      "</ul></br></br>" +
+      "<p>Students are expected to participate in the rehearsal, as it provides guidance on the procession and overall conduct during the main event.</p></br></br>" +
+      "<h3>Academic Gown Collection</h3>" +
+      "<p>All matriculating students are required to collect their academic gowns ahead of the ceremony. Details are as follows:</p>" +
+      "<ul>" +
+      "<li><strong>Date:</strong> Tuesday, 14 April 2026</li>" +
+      "<li><strong>Time:</strong> From 10:00 AM</li>" +
+      "<li><strong>Venue:</strong> Respective Faculties</li>" +
+      "</ul></br></br>" +
+      "<p>To obtain the gown, students must:</p>" +
+      "<ol>" +
+      "<li>Pay a <strong>₦1,000 deposit</strong> at the University Microfinance Bank</li>" +
+      "<li>Present the payment receipt to their Faculty Officer</li>" +
+      "</ol></br></br>" +
+      "<p>Only students who complete this process will be issued academic gowns.</p></br></br>" +
+      "<h3>Mandatory Attendance</h3>" +
+      "<p>The university has made it clear that <strong>attendance is mandatory</strong> for all matriculating students at both events:</p>" +
+      "<ul>" +
+      "<li>The <strong>rehearsal exercise</strong></li>" +
+      "<li>The <strong>main matriculation ceremony</strong></li>" +
+      "</ul></br></br>" +
+      "<p>This directive is strict, and all new students are expected to be present at both scheduled activities.</p></br></br>" +
+      "<h3>Conclusion</h3>" +
+      "<p>As the matriculation ceremony approaches, students are encouraged to complete all required steps on time and prepare accordingly. Staying organized and following the outlined instructions will ensure a smooth and memorable start to university life.</p>",
+    tags: ["Modibbo Adama University", "Matriculation", "Education", "Nigeria"],
+  },
+  {
+    id: "kano-poly-pgd-lecture-commencement-2026",
+    title: "Kano State Polytechnic Announces PGD Lecture Commencement and Registration Deadline",
+    category: "Education",
+    date: "2026-04-09",
+    excerpt: "Kano State Polytechnic has officially announced that lectures for PGD programmes will begin on April 17, 2026, with the registration portal set to close on April 30.",
+    content:
+      "<h2>Kano State Polytechnic PGD Academic Update</h2>" +
+      "<p>The Kano State Polytechnic has officially announced the commencement of lectures for its Postgraduate Diploma (PGD) programmes, giving newly admitted students a clear timeline to begin their academic journey.</p></br></br>" +
+      "<p>According to a notice released by the School of Continuing Education and Postgraduate Studies (SCEPS), lectures for all newly admitted PGD students will begin on <strong>Friday, 17 April 2026</strong>.</p></br></br>" +
+      "<p>This announcement provides students with a definite date to finalize preparations, including accommodation, course registration, and other academic arrangements.</p></br></br>" +
+      "<h3>Registration Deadline and Portal Closure</h3>" +
+      "<p>While lectures are set to commence, the institution has also confirmed that the application portal remains open—for now. However, both the <strong>application portal and registration exercise will officially close on 30 April 2026</strong>.</p></br></br>" +
+      "<p>This means prospective and admitted students need to keep two important dates in mind:</p>" +
+      "<ul>" +
+      "<li><strong>17 April 2026</strong> – Lectures begin</li>" +
+      "<li><strong>30 April 2026</strong> – Portal and registration close</li>" +
+      "</ul></br></br>" +
+      "<p>Missing the registration deadline could affect participation in the academic session, so timely action is strongly advised. This update is specifically for <strong>newly admitted students</strong> into the PGD programmes at Kano State Polytechnic.</p></br></br>" +
+      "<h3>Contact and Inquiries</h3>" +
+      "<p>The information was communicated through SCEPS, the division responsible for managing continuing education and postgraduate studies within the institution. Students who require further clarification or assistance can visit the School of Continuing Education and Postgraduate Studies located at:</p>" +
+      "<p><strong>School of Management Studies, Yahaya Gusau Road, Kano</strong></p></br></br>" +
+      "<p>Alternatively, inquiries can be made via phone:</p>" +
+      "<ul>" +
+      "<li>07063769241</li>" +
+      "<li>08068964277</li>" +
+      "</ul></br></br>" +
+      "<p>Staying informed and meeting deadlines is crucial for a smooth start to your postgraduate studies. Make sure to prepare ahead and complete all necessary steps before the deadline.</p>",
+    tags: [
+      "Kano State Polytechnic",
+      "Postgraduate",
+      "PGD",
+      "Education",
+      "Admission",
+      "Nigeria",
+    ],
+  },
+  {
+    id: "oau-odl-admissions-2026-2027",
+    title: "Obafemi Awolowo University Opens Admissions for 2026/2027 Open Distance Learning Programs",
+    category: "Education",
+    date: "2026-04-09",
+    excerpt: "Obafemi Awolowo University (OAU) has announced admissions for its 2026/2027 Open Distance Learning (ODL) undergraduate degree programmes, offering flexible online and face-to-face learning.",
+    content:
+      "<h2>Obafemi Awolowo University Opens Admissions for 2026/2027 Open Distance Learning Programs</h2>" +
+      "<p>The Obafemi Awolowo University (OAU) has officially announced the commencement of admission into its <strong>Open Distance Learning (ODL) undergraduate degree programmes</strong> for the <strong>2026/2027 academic session</strong>.</p></br></br>" +
+      "<p>Designed to offer flexible and accessible education, the ODL platform allows students to learn both <strong>online and through limited face-to-face interactions</strong>, while earning the same certificate as on-campus students.</p></br></br>" +
+      "<h2>Available ODL Undergraduate Programmes</h2>" +
+      "<p>OAU is offering admission into the following degree programmes:</p>" +
+      "<ul>" +
+      "<li><strong>B.NSc Nursing</strong></li>" +
+      "<li><strong>B.Sc Accounting</strong></li>" +
+      "<li><strong>B.Sc Agric Extension & Rural Development</strong></li>" +
+      "<li><strong>B.Sc Business Administration</strong></li>" +
+      "<li><strong>B.Sc Economics</strong></li>" +
+      "</ul></br></br>" +
+      "<h2>Admission Requirements & Programme Duration</h2>" +
+      "<h3>B.NSc Nursing</h3>" +
+      "<p>This programme is strictly for <strong>registered nurses</strong> under the Nursing and Midwifery Council of Nigeria.</p>" +
+      "<p><strong>Requirements:</strong></p>" +
+      "<ul>" +
+      "<li>Valid registration (RN, RPN, RM, or RPHN)</li>" +
+      "<li>Five O’Level credits (English, Mathematics, Physics, Biology, Chemistry)</li>" +
+      "<li>Maximum of two sittings</li>" +
+      "<li>Must pass <strong>written and oral interviews</strong></li>" +
+      "</ul>" +
+      "<p><strong>Duration:</strong> 4 years</p></br></br>" +
+      "<h3>B.Sc Accounting</h3>" +
+      "<p>OAU provides three entry pathways for Accounting:</p>" +
+      "<ol>" +
+      "<li>O’Level Entry" +
+      "    <ul>" +
+      "    <li>Five credits including English, Mathematics, Economics</li>" +
+      "    <li>Any two of Government, Financial Accounting, Geography</li>" +
+      "    </ul>" +
+      "</li>" +
+      "</ol>" +
+      "<p><strong>Duration:</strong> 5 years</p>" +
+      "<ol start=\"2\">" +
+      "<li>Direct Entry to Part II" +
+      "    <ul>" +
+      "    <li>O’Level credits including English, Maths, Economics</li>" +
+      "    <li>A-Level passes or qualifications like OND (Upper Credit), ATS-ICAN, ANAN, etc.</li>" +
+      "    </ul>" +
+      "</li>" +
+      "</ol>" +
+      "<p><strong>Duration:</strong> 4 years</p>" +
+      "<ol start=\"3\">" +
+      "<li>Direct Entry to Part III" +
+      "    <ul>" +
+      "    <li>HND in Accounting/Business Admin or certifications like ICAN, ACCA, CFA, ANAN</li>" +
+      "    <li>Five O’Level credits including English, Maths, Economics</li>" +
+      "    </ul>" +
+      "</li>" +
+      "</ol>" +
+      "<p><strong>Duration:</strong> 3 years</p>" +
+      "<p><strong>Mode of Study:</strong> Online + Face-to-Face</p></br></br>" +
+      "<h3>B.Sc Agric Extension & Rural Development</h3>" +
+      "<p>This programme targets professionals in agriculture and related sectors.</p>" +
+      "<p>Entry Categories:</p>" +
+      "<ul>" +
+      "<li><strong>ND/NCE Holders</strong>" +
+      "    <ul>" +
+      "    <li>With agricultural background: 3 years</li>" +
+      "    <li>Without: 4 years</li>" +
+      "    </ul>" +
+      "</li>" +
+      "<li><strong>HND Holders</strong>" +
+      "    <ul>" +
+      "    <li>With agricultural background: 3 years</li>" +
+      "    <li>Without: 4 years</li>" +
+      "    </ul>" +
+      "</li>" +
+      "<li><strong>Transfer Students</strong>" +
+      "    <ul>" +
+      "    <li>Minimum CGPA: 1.00</li>" +
+      "    <li>Duration: 4 years</li>" +
+      "    </ul>" +
+      "</li>" +
+      "</ul>" +
+      "<p><strong>General Requirements:</strong></p>" +
+      "<ul>" +
+      "<li>At least two years post-qualification experience</li>" +
+      "<li>Employer sponsorship (or teacher recommendation for self-employed)</li>" +
+      "<li>Five O’Level credits including English & Mathematics</li>" +
+      "</ul>" +
+      "<p><strong>Mode of Study:</strong> Online + Face-to-Face</p></br></br>" +
+      "<h3>B.Sc Business Administration & 📈 B.Sc Economics</h3>" +
+      "<p>Both programmes share the same admission criteria.</p>" +
+      "<p>General Entry Requirements:</p>" +
+      "<ul>" +
+      "<li>Five O’Level credits including English and Mathematics</li>" +
+      "</ul>" +
+      "<p>Direct Entry:</p>" +
+      "<ul>" +
+      "<li>A-Level passes or equivalent qualifications</li>" +
+      "<li>Must meet OAU minimum admission requirements</li>" +
+      "</ul>" +
+      "<p>Graduation Requirements:</p>" +
+      "<ul>" +
+      "<li>O’Level entrants: Minimum of <strong>145 units</strong></li>" +
+      "<li>Direct Entry students: Minimum of <strong>113 units</strong></li>" +
+      "</ul>" +
+      "<p><strong>Mode of Study:</strong> Online + Face-to-Face</p></br></br>" +
+      "<h2>Flexible Learning Format</h2>" +
+      "<p>All ODL programmes follow a <strong>blended learning model</strong>, combining:</p>" +
+      "<ul>" +
+      "<li>Online lectures</li>" +
+      "<li>Periodic physical sessions</li>" +
+      "</ul>" +
+      "<p>OAU emphasizes that students will be taught by the <strong>same lecturers</strong> and receive the <strong>same degree certificate</strong> as their on-campus counterparts.</p></br></br>" +
+      "<p>Interested applicants can apply through the official OAU Open Distance Learning portal.</p></br></br>" +
+      "<p><strong>Application Closing Date:</strong> 30 June 2026</p></br></br>" +
+      "<p>With its promise of being <strong>“Flexible. Fast. Affordable. Anywhere. Anytime.”</strong>, OAU’s Open Distance Learning platform offers a strong alternative for individuals seeking quality education without disrupting their daily commitments.</p>" +
+      "<p>Prospective students are advised to review the requirements carefully and submit their applications before the deadline.</p>",
+    tags: ["OAU", "Open Distance Learning", "ODL", "Admission", "Education", "Nigeria"],
+  },
 ];
 
 // Sort posts by date descending (most recent first)

@@ -117,4 +117,45 @@
   .shadow-card {
     box-shadow: var(--shadow-card);
   }
+
+  .prose-content h2 {
+    @apply text-2xl font-bold mt-8 mb-4 text-foreground;
+  }
+
+  .prose-content h3 {
+    @apply text-xl font-bold mt-6 mb-3 text-foreground;
+  }
+
+  .prose-content p {
+    @apply mb-4 leading-relaxed;
+  }
+
+  .prose-content ul,
+  .prose-content ol {
+    @apply mb-4 ml-6;
+  }
+
+  .prose-content li {
+    @apply mb-2 text-foreground;
+  }
+
+  .prose-content ol li {
+    @apply list-decimal;
+  }
+
+  .prose-content ul li {
+    @apply list-disc;
+  }
+
+  .prose-content strong {
+    @apply font-bold;
+  }
+
+  .prose-content em {
+    @apply italic;
+  }
+
+  .prose-content img {
+    @apply rounded-lg mb-4;
+  }
 }

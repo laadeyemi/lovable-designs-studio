@@ -388,7 +388,7 @@ const allPosts: Post[] = [
     tags: ["Usmanu Danfodiyo University, Sokoto", "University"],
   },
   {
-    id: "AAU-Postpones-2025-2026-Matriculation-ceremony",
+    id: "aau-postpones-2025-2026-matriculation-ceremony",
     title: "AAU Postpones 2025/2026 Matriculation Ceremony, Announces New Date",
     category: "Education",
     date: "2026-02-28",
@@ -402,7 +402,7 @@ const allPosts: Post[] = [
     tags: ["AAU, Ekpoma", "University"],
   },
   {
-    id: "NSUK-Announces-Matriculation-Ceremony-for-2025-2026",
+    id: "nsuk-announces-matriculation-ceremony-for-2025-2026",
     title: "NSUK Announces Matriculation Ceremony for 2025/2026 Newly Admitted Students",
     category: "Education",
     date: "2026-02-28",

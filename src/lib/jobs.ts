@@ -15,7 +15,7 @@ export type Job = {
 
 const allJobs: Job[] = [
   {
-    id: "NHVAC Project Engineer",
+    id: "hvac-project-engineer",
     title: "HVAC Project Engineer",
     date: "2026-04-07",
     location: "Ikoyi, Lagos",
@@ -42,12 +42,12 @@ const allJobs: Job[] = [
 "Proficient in budgeting, documentation, and client communication.",
     ],
     apply:
-      'Interested and qualified candidates should send their CV to: <a href="mailto:>hr@russelsmith.com</a> using the job title as the subject of the mail.',
+      'Interested and qualified candidates should send their CV to: <a href="mailto:hr@russelsmith.com">hr@russelsmith.com</a> using the job title as the subject of the mail.',
     salary: "Not specific",
     deadline: "14th April, 2026.",
   },
   {
-    id: "Naval-Architect",
+    id: "naval-architect",
     title: "Naval Architect",
     date: "2026-04-03",
     location: "Lagos",
@@ -71,7 +71,7 @@ const allJobs: Job[] = [
     deadline: "Not specific",
   },
   {
-    id: "Lead Engineer – Well Bore Cleaning",
+    id: "lead-engineer-well-bore-cleaning",
     title: "Lead Engineer – Well Bore Cleaning",
     date: "2026-04-07",
     location: "Rivers",
@@ -101,7 +101,7 @@ const allJobs: Job[] = [
     deadline: "14th April, 2026.",
   },
   {
-    id: "Safety Officer",
+    id: "safety-officer",
     title: "Safety Officer",
     date: "2026-04-07",
     location: "Enugu",
@@ -135,7 +135,7 @@ const allJobs: Job[] = [
     deadline: "18th April, 2026.",
   },
   {
-    id: "Electronics Trainee",
+    id: "electronics-trainee",
     title: "Electronics Trainee",
     date: "2026-04-07",
     location: "Port Harcourt, Rivers",
@@ -161,7 +161,7 @@ const allJobs: Job[] = [
     deadline: "Not specific",
   },
   {
-    id: "Technical Sales Executive",
+    id: "technical-sales-executive",
     title: "Technical Sales Executive",
     date: "2026-04-07",
     location: "Ikoyi, Lagos",
@@ -197,7 +197,7 @@ const allJobs: Job[] = [
     deadline: "14th April, 2026.",
   },
   {
-    id: "Structural Engineering Intern",
+    id: "structural-engineering-intern",
     title: "Structural Engineering Intern",
     date: "2026-04-07",
     location: "Iyana Ipaja, Lagos",
@@ -224,12 +224,12 @@ const allJobs: Job[] = [
 "Willingness to learn and adapt in a fast-paced environment.",
     ],
     apply:
-      'Interested and qualified candidates should send their CV to: <a href="mailto:careers@worknigeria.com"> careers@worknigeria.com/a> using the job title as the subject of the mail.',
+      'Interested and qualified candidates should send their CV to: <a href="mailto:careers@worknigeria.com">careers@worknigeria.com</a> using the job title as the subject of the mail.',
     salary: "Not specific",
     deadline: "Not specific",
   },
   {
-    id: "Network Administrator",
+    id: "network-administrator",
     title: "Network Administrator",
     date: "2026-04-07",
     location: "Congo",
@@ -270,7 +270,7 @@ const allJobs: Job[] = [
     deadline: "Not specific",
   },
   {
-    id: "General Manager",
+    id: "general-manager",
     title: "General Manager",
     date: "2026-04-03",
     location: "Abuja",
@@ -294,7 +294,7 @@ const allJobs: Job[] = [
     deadline: "14th April, 2026.",
   },
   {
-    id: "Automation Technician",
+    id: "automation-technician",
     title: "Automation Technician",
     date: "2026-04-03",
     location: "Nigeria",
@@ -317,7 +317,7 @@ const allJobs: Job[] = [
     deadline: "Not specific",
   },
   {
-    id: "Planning Manager",
+    id: "planning-manager",
     title: "Planning Manager",
     date: "2026-04-03",
     location: "Nigeria",
@@ -351,7 +351,7 @@ const allJobs: Job[] = [
     deadline: "Not specific",
   },
   {
-    id: "HEMM Technician – Mines",
+    id: "hemm-technician-mines",
     title: "HEMM Technician – Mines",
     date: "2026-04-03",
     location: "Ibese, Ogun",
@@ -390,7 +390,7 @@ const allJobs: Job[] = [
     deadline: "Not specific",
   },
   {
-    id: "Mill Engineer – 40000TCD Mill Operation",
+    id: "mill-engineer-40000tcd-mill-operation",
     title: "Mill Engineer – 40000TCD Mill Operation",
     date: "2026-04-03",
     location: "Adamawa",
@@ -425,7 +425,7 @@ const allJobs: Job[] = [
     deadline: "Not specific",
   },
   {
-    id: "Machinery Officer",
+    id: "machinery-officer",
     title: "Machinery Officer",
     date: "2026-04-03",
     location: "Adamawq",
@@ -454,7 +454,7 @@ const allJobs: Job[] = [
     deadline: "Not specific",
   },
   {
-    id: "Project Coordinator",
+    id: "project-coordinator",
     title: "Project Coordinator",
     date: "2026-04-03",
     location: "Lagos",
@@ -492,7 +492,7 @@ const allJobs: Job[] = [
     deadline: "31st April, 2026.",
   },
   {
-    id: "Mechanical Craftsman",
+    id: "mechanical-craftsman",
     title: "Mechanical Craftsman",
     date: "2026-04-03",
     location: "Port Harcourt, Rivers",
@@ -522,7 +522,7 @@ const allJobs: Job[] = [
     deadline: "Not specific",
   },
   {
-    id: "Lifting & Rigging Work Planner",
+    id: "lifting-rigging-work-planner",
     title: "Lifting & Rigging Work Planner",
     date: "2026-04-03",
     location: "Lagos",
@@ -555,7 +555,7 @@ const allJobs: Job[] = [
     deadline: "Not specific",
   },
   {
-    id: "Lifting & Rigging Engineer",
+    id: "lifting-rigging-engineer",
     title: "Lifting & Rigging Engineer",
     date: "2026-04-03",
     location: "Lagos",
@@ -585,7 +585,7 @@ const allJobs: Job[] = [
     deadline: "Not specific",
   },
   {
-    id: "Plant Manager (Power Generation & Distribution)",
+    id: "plant-manager-power-generation-distribution",
     title: "Plant Manager (Power Generation & Distribution)",
     date: "2026-04-03",
     location: "Ibeju-Lekki, Lagos",
@@ -616,7 +616,7 @@ const allJobs: Job[] = [
     deadline: "Not specific",
   },
   {
-    id: "Technical Specialist",
+    id: "technical-specialist",
     title: "Technical Specialist",
     date: "2026-04-03",
     location: "Ikoyi, Lagos",
@@ -649,7 +649,7 @@ const allJobs: Job[] = [
     deadline: "13th April, 2026.",
   },
   {
-    id: "Machinery Engineer / Specialist II",
+    id: "machinery-engineer-specialist-ii",
     title: "Machinery Engineer / Specialist II",
     date: "2026-04-03",
     location: "Lagos",
@@ -677,7 +677,7 @@ const allJobs: Job[] = [
     deadline: "Not specific",
   },
   {
-    id: "Risk & Loss Prevention Engineer / Specialist II",
+    id: "risk-loss-prevention-engineer-specialist-ii",
     title: "Risk & Loss Prevention Engineer / Specialist II",
     date: "2026-04-03",
     location: "Akwa Ibom",
@@ -702,7 +702,7 @@ const allJobs: Job[] = [
     deadline: "Not specific",
   },
   {
-    id: "Instrumentation and Controls Lead III – Offshore Rotation",
+    id: "instrumentation-controls-lead-iii-offshore-rotation",
     title: "Instrumentation and Controls Lead III – Offshore Rotation",
     date: "2026-04-03",
     location: "Lagos",
@@ -731,7 +731,7 @@ const allJobs: Job[] = [
     deadline: "Not specific",
   },
   {
-    id: "Instrument Maintenance Technician III",
+    id: "instrument-maintenance-technician-iii",
     title: "Instrument Maintenance Technician III",
     date: "2026-04-03",
     location: "Lagos",
@@ -758,7 +758,7 @@ const allJobs: Job[] = [
     deadline: "Not specific",
   },
   {
-    id: "Structural Design Engineer (Construction Industry)",
+    id: "structural-design-engineer-construction-industry",
     title: "Structural Design Engineer (Construction Industry)",
     date: "2026-04-03",
     location: "Ikoyi, Lagos",
@@ -822,7 +822,7 @@ const allJobs: Job[] = [
     deadline: "9th May, 2026.",
   },
   {
-    id: "Senior Structural Engineer",
+    id: "senior-structural-engineer-somolu",
     title: "Senior Structural Engineer",
     date: "2026-04-01",
     location: "Somolu, Lagos",
@@ -850,7 +850,7 @@ const allJobs: Job[] = [
     deadline: "9th April, 2026.",
   },
   {
-    id: "HSE Officer",
+    id: "hse-officer-abuja",
     title: "HSE Officer",
     date: "2026-03-28",
     location: "Abuja",
@@ -881,7 +881,7 @@ const allJobs: Job[] = [
     deadline: "Not specific",
   },
   {
-    id: "IT Support Officer",
+    id: "it-support-officer-lagos",
     title: "IT Support Officer",
     date: "2026-03-27",
     location: "Lagos",
@@ -909,7 +909,7 @@ const allJobs: Job[] = [
     deadline: "10th April, 2026.",
   },
   {
-    id: "HEMM Technician (Excavators, Dozers, Payloader)",
+    id: "hemm-technician-pipeline",
     title: "HEMM Technician (Excavators, Dozers, Payloader)",
     date: "2026-03-25",
     location: "Akwa Ibom , Delta, Imo and Rivers",
@@ -931,7 +931,7 @@ const allJobs: Job[] = [
     deadline: "14th April, 2026.",
   },
   {
-    id: "HSE Manager",
+    id: "hse-manager-lagos",
     title: "HSE Manager",
     date: "2026-03-25",
     location: "Lagos",
@@ -966,7 +966,7 @@ const allJobs: Job[] = [
     deadline: "Not specific",
   },
   {
-    id: "IT Team Lead",
+    id: "it-team-lead-lekki",
     title: "IT Team Lead",
     date: "2026-03-24",
     location: "Lekki Phase 1, Lagos",
@@ -998,7 +998,7 @@ const allJobs: Job[] = [
     deadline: "31st March, 2026",
   },
   {
-    id: "Junior Network Solutions Engineer (NYSC)",
+    id: "junior-network-solutions-engineer-nysc",
     title: "Junior Network Solutions Engineer (NYSC)",
     date: "2026-03-24",
     location: "Surulere, Lagos",
@@ -1030,7 +1030,7 @@ const allJobs: Job[] = [
     deadline: "10th April, 2026.",
   },
   {
-    id: "Cyber Security Officer (NYSC)",
+    id: "cyber-security-officer-nysc",
     title: "Cyber Security Officer (NYSC)",
     date: "2026-03-22",
     location: "Lagos",
@@ -1062,7 +1062,7 @@ const allJobs: Job[] = [
     deadline: "10th April, 2026.",
   },
   {
-    id: "Project Engineer (Civil / Structural)",
+    id: "project-engineer-civil-structural-somolu",
     title: "Project Engineer (Civil / Structural)",
     date: "2026-03-20",
     location: "Somolu, Lagos",
@@ -1091,7 +1091,7 @@ const allJobs: Job[] = [
     deadline: "9th April, 2026",
   },
   {
-    id: "Shift Supervisor",
+    id: "shift-supervisor-mowe",
     title: "Shift Supervisor",
     date: "2026-03-18",
     location: "Mowe, Ogun",
@@ -1132,7 +1132,7 @@ const allJobs: Job[] = [
     deadline: "Not specific",
   },
   {
-    id: "Shift Supervisor",
+    id: "shift-supervisor-lagos",
     title: "Shift Supervisor",
     date: "2026-03-15",
     location: "Lagos",
@@ -1156,7 +1156,7 @@ const allJobs: Job[] = [
     deadline: "Not specific",
   },
   {
-    id: "Software Project Management Assistant",
+    id: "software-project-management-assistant-abuja",
     title: "Software Project Management Assistant",
     date: "2026-03-12",
     location: "Abuja",
@@ -1193,7 +1193,7 @@ const allJobs: Job[] = [
     deadline: "6th April, 2026.",
   },
   {
-    id: "Maintenance Officer",
+    id: "maintenance-officer-yola",
     title: "Maintenance Officer",
     date: "2026-03-10",
     location: "Adamawa, Yola",
@@ -1221,7 +1221,7 @@ const allJobs: Job[] = [
     deadline: "30th April, 2026.",
   },
   {
-    id: "Software Engineer",
+    id: "software-engineer-contract",
     title: "Software Engineer",
     date: "2026-03-08",
     location: "Lagos",
@@ -1254,7 +1254,7 @@ const allJobs: Job[] = [
     deadline: "20th may, 2026.",
   },
   {
-  id: "Electrical Engineer",
+  id: "electrical-engineer-mowe",
     title: "Electrical Engineer",
     date: "2026-03-05",
     location: "Mowe, Ogun",
@@ -1281,7 +1281,7 @@ const allJobs: Job[] = [
     deadline: "Not specific",
   },
 {
-   id: "Mechanical Specialist",
+   id: "mechanical-specialist-nigeria",
     title: "Mechanical Specialist",
     date: "2026-03-02",
     location: "Nigeria",
@@ -1311,7 +1311,7 @@ const allJobs: Job[] = [
     deadline: "Not specific",
   },
 {
-   id: "Microbiologist (Graduate Trainee)",
+   id: "microbiologist-graduate-trainee-ogba",
     title: "Microbiologist (Graduate Trainee)",
     date: "2026-03-01",
     location: "Ogba, Lagos",
@@ -1339,7 +1339,7 @@ const allJobs: Job[] = [
     deadline: "8th April, 2026.",
   },
   {
-    id: "Facility Manager",
+    id: "facility-manager-technical-lagos",
     title: "Facility Manager",
     date: "2026-02-28",
     location: "Lagos",
@@ -1369,7 +1369,7 @@ const allJobs: Job[] = [
     deadline: "Not Specified",
   },
 {
-    id: "IT Support Officer",
+    id: "it-support-officer-qsr-lagos",
     title: "IT Support Officer",
     date: "2026-02-26",
     location: "Lagos",
@@ -1403,7 +1403,7 @@ const allJobs: Job[] = [
     deadline: "Not specific",
   },
 {
-    id: "Electrician",
+    id: "electrician-maintenance-technician",
     title: "Electrician",
     date: "2026-02-25",
     location: "Lagos",
@@ -1439,7 +1439,7 @@ const allJobs: Job[] = [
     date: "2026-02-24",
     location: "Somolu, Lagos",
     type: "Full-time",
-    seniority: "junior",
+    seniority: "Junior",
     summary:
       "Sanni, Ojo& Partners is looking for adiligent and motivated Graduate Surveyorto join our Survey Unit . The ideal candidate will lead the design and supervision of civil and structural engineering projects, ensuring compliance with safety, quality, and industry standards, while mentoring younger engineers and contributing to innovative, sustainable solutions.",
     responsibilities: [
@@ -1465,7 +1465,7 @@ const allJobs: Job[] = [
     deadline: "9th May, 2026",
   },
 {
-    id: "HR Officer (Intern)",
+    id: "hr-officer-intern-lagos",
     title: "HR Officer (Intern)",
     date: "2026-02-22",
     location: "Lagos",
@@ -1491,7 +1491,7 @@ const allJobs: Job[] = [
     deadline: "13th April, 2026.",
   },
 {
-    id: "Structural Design Engineer ",
+    id: "structural-design-engineer-ikoyi",
     title: "Structural Design Engineer ",
     date: "2026-02-20",
     location: "Ikoyi, Lagos",
@@ -1524,7 +1524,7 @@ const allJobs: Job[] = [
     deadline: "Not specific",
   },
 {
-    id: "AI / ML Data Engineer",
+    id: "ai-ml-data-engineer-remote",
     title: "AI / ML Data Engineer",
     date: "2026-02-18",
     location: "Lagos",
@@ -1568,7 +1568,7 @@ const allJobs: Job[] = [
     deadline: "30th April, 2026.",
   },
 {
-    id: "Mechanical Engineer",
+    id: "mechanical-engineer-mowe",
     title: "Mechanical Engineer",
     date: "2026-02-15",
     location: "Mowe, Ogun",
@@ -1595,7 +1595,7 @@ const allJobs: Job[] = [
     deadline: "Not Specific",
   },
   {
-    id: "Site Engineer",
+    id: "site-engineer-abuja-construction",
     title: "Site Engineer",
     date: "2026-02-14",
     location: "Abuja",
@@ -1629,7 +1629,7 @@ const allJobs: Job[] = [
     deadline: "Not specific",
   },
 {
-    id: "Project Engineer (Civil / Structural)",
+    id: "project-engineer-civil-structural-junior",
     title: "Project Engineer (Civil / Structural)",
     date: "2026-02-12",
     location: "Somolu, Lagos",
@@ -1659,7 +1659,7 @@ const allJobs: Job[] = [
     deadline: "9th April, 2026",
   },
 {
-    id: "Cyber Security Officer (NYSC)",
+    id: "cyber-security-officer-nysc-lagos",
     title: "Cyber Security Officer (NYSC)",
     date: "2026-02-10",
     location: "Lagos",
@@ -1691,7 +1691,7 @@ const allJobs: Job[] = [
     deadline: "10th April, 2026.",
   },
 {
-    id: "QA / QC Engineer",
+    id: "qa-qc-engineer-mepf",
     title: "QA / QC Engineer",
     date: "2026-02-08",
     location: "Lagos",
@@ -1727,7 +1727,7 @@ const allJobs: Job[] = [
     deadline: "Not Specific",
   },
 {
-    id: "Junior Network Solutions Engineer (NYSC)",
+    id: "junior-network-solutions-engineer-nysc-surulere",
     title: "Junior Network Solutions Engineer (NYSC)",
     date: "2026-02-05",
     location: "Surulere, Lagos",
@@ -1759,7 +1759,7 @@ const allJobs: Job[] = [
     deadline: "10th April, 2026",
   },
 {
-    id: "Technical Manager",
+    id: "technical-manager-mowe",
     title: "Technical Manager",
     date: "2026-02-04",
     location: "Mowe, Ogun",
@@ -1788,7 +1788,7 @@ const allJobs: Job[] = [
     deadline: "Not Specific",
   },
 {
-    id: "HSE Manager",
+    id: "hse-manager-construction-lagos",
     title: "HSE Manager",
     date: "2026-02-02",
     location: "Lagos",
@@ -1823,7 +1823,7 @@ const allJobs: Job[] = [
     deadline: "Not specific",
   },
 {
-    id: "HEMM Technician (Excavators, Dozers, Payloader)",
+    id: "hemm-technician-pipeline-junior",
     title: "HEMM Technician (Excavators, Dozers, Payloader)",
     date: "2026-01-28",
     location: "Akwa Ibom, Delta, Imo and Rivers",
@@ -1845,7 +1845,7 @@ const allJobs: Job[] = [
     deadline: "14th April, 2026.",
   },
 {
-    id: "IT Support Officer",
+    id: "it-support-officer-teamace-lagos",
     title: "IT Support Officer",
     date: "2026-01-25",
     location: "Lagos",
@@ -1873,7 +1873,7 @@ const allJobs: Job[] = [
     deadline: "10th April, 2026",
   },
 {
-    id: "HSE Officer",
+    id: "hse-officer-marandmor-abuja",
     title: "HSE Officer",
     date: "2026-01-24",
     location: "Abuja",
@@ -1905,7 +1905,7 @@ const allJobs: Job[] = [
     deadline: "Not specific",
   },
 {
-    id: "Reservoir Navigation Services Engineer",
+    id: "reservoir-navigation-services-engineer-ph",
     title: "Reservoir Navigation Services Engineer",
     date: "2026-01-22",
     location: "Port Harcourt, Rivers",
@@ -1937,7 +1937,7 @@ const allJobs: Job[] = [
     deadline: "Not specific",
   },
 {
-    id: "Auto Engineer (Truck Technician)",
+    id: "auto-engineer-truck-technician-cng",
     title: "Auto Engineer (Truck Technician)",
     date: "2026-01-20",
     location: "Ogun, Lagos",
@@ -1968,7 +1968,7 @@ const allJobs: Job[] = [
     deadline: "Not Specific",
   },
 {
-    id: "Senior Structural Engineer",
+    id: "senior-structural-engineer-sanni-ojo",
     title: "Senior Structural Engineer",
     date: "2026-01-18",
     location: "Somolu, Lagos",
@@ -1996,7 +1996,7 @@ const allJobs: Job[] = [
     deadline: "9th April, 2026",
   },
   {
-    id: "Graduate Software Engineer – Open Source and Linux",
+    id: "graduate-software-engineer-open-source-linux",
     title: "Graduate Software Engineer – Open Source and Linux",
     date: "2026-01-15",
     location: "Lagos",
@@ -2032,7 +2032,7 @@ const allJobs: Job[] = [
     deadline: "Not specific",
   },
 {
-    id: "Graduate Sales / Business Development Intern",
+    id: "graduate-sales-business-development-intern",
     title: "Graduate Sales / Business Development Intern",
     date: "2026-01-12",
     location: "Nigeria",
@@ -2067,7 +2067,7 @@ const allJobs: Job[] = [
     deadline: "9th April, 2026",
   },
 {
-    id: "FTTH Project Site Engineer",
+    id: "ftth-project-site-engineer-rivers",
     title: "FTTH Project Site Engineer",
     date: "2026-01-10",
     location: "Rivers",
@@ -2097,7 +2097,7 @@ const allJobs: Job[] = [
     deadline: "Not Specific",
   },
 {
-    id: "Site Building Support Intern  (NYSC)",
+    id: "site-building-support-intern-nysc-abuja",
     title: "Site Building Support Intern (NYSC)",
     date: "2026-01-08",
     location: "Abuja",
@@ -2127,7 +2127,7 @@ const allJobs: Job[] = [
     deadline: "5th April, 2026",
   },
 {
-    id: "FTTH Project Site Engineer",
+    id: "ftth-project-site-engineer-kano",
     title: "FTTH Project Site Engineer ",
     date: "2026-01-05",
     location: "Kano",
@@ -2157,7 +2157,7 @@ const allJobs: Job[] = [
     deadline: "Not Specific",
   },
 {
-    id: "Operator – Utility",
+    id: "operator-utility-sagamu",
     title: "Operator – Utility",
     date: "2026-01-04",
     location: "Sagamu, Ogun",
@@ -2184,7 +2184,7 @@ const allJobs: Job[] = [
     deadline: "6th April, 2026.",
   },
 {
-    id: "Quality Assurance Engineer (Aircraft Design)",
+    id: "quality-assurance-engineer-aircraft-design",
     title: "Quality Assurance Engineer (Aircraft Design)",
     date: "2026-01-02",
     location: "Abuja",
@@ -2215,7 +2215,7 @@ const allJobs: Job[] = [
     deadline: "Not specific",
   },
 {
-    id: "Quality Control Intern (Engineering)",
+    id: "quality-control-intern-engineering-maryland",
     title: "Quality Control Intern (Engineering)",
     date: "2025-12-28",
     location: "Maryland, Lagos",
@@ -2249,7 +2249,7 @@ const allJobs: Job[] = [
     deadline: "Not Specific",
   },
 {
-    id: "FTTH Project Site Engineer",
+    id: "ftth-project-site-engineer-enugu",
     title: "FTTH Project Site Engineer",
     date: "2025-12-25",
     location: "Enugu",
@@ -2279,7 +2279,7 @@ const allJobs: Job[] = [
     deadline: "Not Specific",
   },
 {
-    id: "Chief Technical Officer (CTO)",
+    id: "chief-technical-officer-cto-lagos",
     title: "Chief Technical Officer (CTO)",
     date: "2025-12-24",
     location: "Lagos",
@@ -2315,7 +2315,7 @@ const allJobs: Job[] = [
     deadline: "6th April, 2026",
   },
   {
-    id: "Project Manager – Integrated & Solutions",
+    id: "project-manager-integrated-solutions-lagos",
     title: "Project Manager – Integrated & Solutions",
     date: "2025-12-22",
     location: "Lagos",
@@ -2357,7 +2357,7 @@ const allJobs: Job[] = [
     deadline: "Not specific",
 },
 {
-    id: "Digital Intern",
+    id: "digital-intern-lagos-remote",
     title: "Digital Intern",
     date: "2025-12-20",
     location: "Lagos",
@@ -2391,7 +2391,7 @@ salary: "N30,000",
     deadline: "20th April, 2026",
   },
 {
-    id: "FTTH Project Design Engineer",
+    id: "ftth-project-design-engineer-lagos",
     title: "FTTH Project Design Engineer",
     date: "2025-12-18",
     location: "Lagos",
@@ -2416,7 +2416,7 @@ salary: "N30,000",
     deadline: "Not specific",
 },
 {
-    id: "HSE Coordinator",
+    id: "hse-coordinator-amadi-base",
     title: "HSE Coordinator",
     date: "2025-12-15",
     location: "Amadi Base, Rivers",
@@ -2447,7 +2447,7 @@ salary: "N30,000",
     deadline: "Not specific",
 },
 {
-    id: "ICT Support/ Technician",
+    id: "ict-support-technician-abuja",
     title: "ICT Support/Technician",
     date: "2025-12-12",
     location: "Abuja-Life Camp, Abuja (FCT)",
@@ -2470,7 +2470,7 @@ salary: "N30,000",
     deadline: "6th April, 2026",
 },
     {
-    id: "Medical Laboratory Scientist",
+    id: "medical-laboratory-scientist-diagnostics-lagos",
     title: "Medical Laboratory Scientist",
     date: "2025-12-10",
     location: "Lagos",
@@ -2506,7 +2506,7 @@ salary: "N30,000",
     deadline: "Not specific",
 },
 {
-    id: "Phone Repair Engineer",
+    id: "phone-repair-engineer-lagos",
     title: "Phone Repair Engineer",
     date: "2025-12-08",
     location: "Lagos",
@@ -2536,7 +2536,7 @@ salary: "N30,000",
     deadline: "31st May, 2026",
 },
 {
-    id: "Product Marketing Manager",
+    id: "product-marketing-manager-remote",
     title: "Product Marketing Manager",
     date: "2025-12-05",
     location: "Lagos",
@@ -2575,7 +2575,7 @@ salary: "N30,000",
     deadline: "Not specific",
 },
 {
-    id: " Architect",
+    id: "architect-ilupeju-lagos",
     title: " Architect",
     date: "2025-12-02",
     location: "ilupeju, Lagos",
@@ -2601,7 +2601,7 @@ salary: "N30,000",
     deadline: "16th April, 2026",
     },
     {
-    id: "UI / UX Design Instructor",
+    id: "ui-ux-design-instructor-kano",
     title: "UI / UX Design Instructor",
     date: "2025-12-01",
     location: "Kano",
@@ -2626,7 +2626,7 @@ salary: "N30,000",
     deadline: "10th April, 2026",
     },
     {
-    id: "Naval-Architect",
+    id: "naval-architect-lagos-junior",
     title: "Naval Architect",
     date: "2025-11-28",
     location: "Lagos",

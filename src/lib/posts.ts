@@ -10,6 +10,125 @@ export type Post = {
 
 const allPosts: Post[] = [
   {
+    id: "jamb-2026-novel-the-lekki-headmaster-guide",
+    title: "JAMB 2026 Novel: The Lekki Headmaster — Full Guide with Questions & Answers",
+    category: "Education",
+    date: "2026-04-11",
+    excerpt: "Master the official JAMB 2026 novel, 'The Lekki Headmaster' by Kabir Alabi Garba. Our comprehensive guide includes a plot overview and over 50 essential practice questions and answers.",
+    content:
+      `<h2>JAMB 2026 Novel: The Lekki Headmaster</h2>
+      <p>The Joint Admissions and Matriculation Board (JAMB) has selected <strong>The Lekki Headmaster</strong> by Kabir Alabi Garba as the official novel for the 2026 UTME Use of English. For every candidate, this is the primary text to study.</p>
+      <br>
+      <h3>Overview of the Novel</h3>
+      <p><em>The Lekki Headmaster</em> follows Mr. Bepo, the principal of Stardom Schools, as he navigates staff conflicts, financial struggles, parental pressure, and emotional personal challenges. The novel presents a realistic picture of Nigeria’s education system, with a strong focus on leadership, responsibility, and human relationships.</p>
+      <br><br>
+      <h3>Complete UTME Practice Questions & Answers</h3>
+      <p>Below is the full compiled list of key questions and answers for effective revision:</p>
+      <br>
+      <h4>Characters & Identity</h4>
+      <p><strong>Q1: Who is the principal of Stardom Schools?</strong><br>A: Mr. Bepo</p>
+      <p><strong>Q2: What nickname was given to Mr. Bepo?</strong><br>A: “The Lekki Headmaster”</p>
+      <p><strong>Q3: How long did Mr. Bepo serve as Headmaster at Stardom Kiddies?</strong><br>A: Four years</p>
+      <br>
+      <h4>Personal Life & Decisions</h4>
+      <p><strong>Q4: Why was Mr. Bepo considering relocation?</strong><br>A: Due to family pressure and the need to join his wife and children in the UK</p>
+      <p><strong>Q5: How did his colleagues react to his relocation plan?</strong><br>A: They found his reaction funny</p>
+      <p><strong>Q6: How did Bepo feel about leaving his students?</strong><br>A: He felt emotionally attached and conflicted</p>
+      <br>
+      <h4>School Conflicts & Legal Issues</h4>
+      <p><strong>Q7: What caused a legal issue involving a student?</strong><br>A: A parent sued the school over visual exploitation</p>
+      <p><strong>Q8: What was the outcome of the case?</strong><br>A: Settled out of court; student got a free term, teacher suspended</p>
+      <p><strong>Q9: How did Bepo feel about unresolved issues?</strong><br>A: He wished they didn’t linger</p>
+      <br>
+      <h4>Leadership & Conflict Resolution</h4>
+      <p><strong>Q10: How did Bepo resolve staff conflicts?</strong><br>A: With empathy and a humanistic approach</p>
+      <p><strong>Q11: How did he react to jokes about his leadership style?</strong><br>A: He found them funny</p>
+      <p><strong>Q12: How did his leadership style affect the school?</strong><br>A: It created a supportive and inclusive environment</p>
+      <br>
+      <h4>Financial & Administrative Decisions</h4>
+      <p><strong>Q13: What was done to reduce lateness?</strong><br>A: Boarding fees were reduced</p>
+      <p><strong>Q14: What was the effect of this policy?</strong><br>A: Over 80% moved to boarding; punctuality improved</p>
+      <p><strong>Q15: How much did Head Girl forms cost?</strong><br>A: ₦50,000</p>
+      <p><strong>Q16: What concern did Bepo have about cooperative funds?</strong><br>A: Fear of mismanagement and staff rebellion</p>
+      <br>
+      <h4>Students & School Policies</h4>
+      <p><strong>Q17: What criteria were used for prefect selection?</strong><br>A: Academic performance, moral history, attendance, fee status</p>
+      <p><strong>Q18: What was the purpose of prefect elections?</strong><br>A: To teach leadership and democracy</p>
+      <p><strong>Q19: What role did the panel play?</strong><br>A: Screening candidates</p>
+      <br>
+      <h4>Teaching Methods & Innovation</h4>
+      <p><strong>Q20: What unique teaching method did Bepo introduce?</strong><br>A: Students teaching parents at home</p>
+      <p><strong>Q21: What was the result?</strong><br>A: Positive feedback and increased enrollment</p>
+      <p><strong>Q22: How many students were enrolled eventually?</strong><br>A: Over 70 pupils</p>
+      <br>
+      <h4>Strange Events & Ethical Concerns</h4>
+      <p><strong>Q23: What was the cow burial incident?</strong><br>A: A bizarre ritual that shocked Bepo</p>
+      <p><strong>Q24: How did Bepo react?</strong><br>A: He was skeptical and concerned</p>
+      <br>
+      <h4>Financial Situation</h4>
+      <p><strong>Q25: How much was in the cooperative?</strong><br>A: ₦95 million</p>
+      <p><strong>Q26: How much was loaned out?</strong><br>A: Over ₦50 million</p>
+      <br>
+      <h4>Culture & Activities</h4>
+      <p><strong>Q27: What dances were performed?</strong><br>A: Bata, Atilogwu, Koroso, Canoe</p>
+      <p><strong>Q28: Why were they significant?</strong><br>A: They showcased Nigerian culture</p>
+      <br>
+      <h4>Emotional & Psychological State</h4>
+      <p><strong>Q29: What happened during assembly?</strong><br>A: Bepo broke down emotionally</p>
+      <p><strong>Q30: How did he feel about challenges?</strong><br>A: Overwhelmed but reflective</p>
+      <br>
+      <h4>School Development & Vision</h4>
+      <p><strong>Q31: How did Bepo ensure quality education?</strong><br>A: Innovation, lower fees, parental involvement</p>
+      <p><strong>Q32: What was his view on extracurricular activities?</strong><br>A: Essential for development</p>
+      <p><strong>Q33: What was his approach to bullying?</strong><br>A: Promoting respect and safety</p>
+      <br>
+      <h4>Parent & Community Relations</h4>
+      <p><strong>Q34: How did Bepo handle parental criticism?</strong><br>A: Constructively</p>
+      <p><strong>Q35: How did he encourage parental involvement?</strong><br>A: Through meetings and engagement</p>
+      <br>
+      <h4>Academic & Student Development</h4>
+      <p><strong>Q36: What was his view on academic performance?</strong><br>A: Very important</p>
+      <p><strong>Q37: How were achievements celebrated?</strong><br>A: Awards and recognition</p>
+      <br>
+      <h4>Teachers & Staff</h4>
+      <p><strong>Q38: How did Bepo support teachers?</strong><br>A: Training and development</p>
+      <p><strong>Q39: How did he address burnout?</strong><br>A: Support systems and development</p>
+      <br>
+      <h4>Values & Philosophy</h4>
+      <p><strong>Q40: What was his view on education?</strong><br>A: Academic + personal development</p>
+      <p><strong>Q41: What about lifelong learning?</strong><br>A: Strongly encouraged</p>
+      <br>
+      <h4>Modern Education & Technology</h4>
+      <p><strong>Q42: What was his view on technology?</strong><br>A: Important for modern learning</p>
+      <p><strong>Q43: How did he handle remote learning?</strong><br>A: Quick adaptation</p>
+      <br>
+      <h4>School Environment & Culture</h4>
+      <p><strong>Q44: How did he build a positive environment?</strong><br>A: Inclusiveness and strong relationships</p>
+      <p><strong>Q45: How did he promote respect?</strong><br>A: Policies and education</p>
+      <br>
+      <h4>Leadership & Mentorship</h4>
+      <p><strong>Q46: What role did mentorship play?</strong><br>A: Key to growth</p>
+      <p><strong>Q47: How did he encourage leadership?</strong><br>A: Through roles and activities</p>
+      <br>
+      <h4>Student Welfare & Behaviour</h4>
+      <p><strong>Q48: How did he address mental health?</strong><br>A: Awareness and support programs</p>
+      <p><strong>Q49: How did he handle peer pressure?</strong><br>A: Education and guidance</p>
+      <br>
+      <h4>General Administration</h4>
+      <p><strong>Q50: How did he improve communication?</strong><br>A: Open channels</p>
+      <p><strong>Q51: How did he use feedback?</strong><br>A: For decision-making</p>
+      <br><hr><br>
+      <h3>Final Tip for UTME Candidates</h3>
+      <p>Mastering <em>The Lekki Headmaster</em> requires more than memorizing answers. Focus on:</p>
+      <ul>
+        <li>Understanding characters and themes</li>
+        <li>Linking events to real-life situations</li>
+        <li>Practicing consistently</li>
+      </ul>
+      <p>This novel will play a <strong>major role in your Use of English score</strong>, so take it seriously.</p>`,
+    tags: ["JAMB", "The Lekki Headmaster", "UTME 2026", "Education", "Study Guide"],
+  },
+  {
     id: "jamb-approved-universities-nigeria-2026",
     title: "Complete List of JAMB Approved Universities in Nigeria 2026",
     category: "Education",

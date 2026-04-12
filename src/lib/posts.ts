@@ -10,6 +10,105 @@ export type Post = {
 
 const allPosts: Post[] = [
   {
+    id: "neco-bece-2026-official-timetable",
+    title: "NECO Releases Official 2026 BECE Timetable — Full Schedule & Instructions",
+    category: "Education",
+    date: "2026-04-12",
+    excerpt: "The National Examinations Council (NECO) has officially released the timetable for the 2026 Basic Education Certificate Examination (BECE). View the full schedule and candidate instructions.",
+    content:
+      `<h2>NECO BECE 2026 Timetable Released</h2>
+      <p>The National Examinations Council (NECO) has officially released the timetable for the <strong>2026 Basic Education Certificate Examination (BECE)</strong>.</p>
+      <p>According to the schedule, the examination will run from <strong>Monday, 20 April to Thursday, 30 April 2026</strong>, covering a wide range of subjects for junior secondary school students across Nigeria.</p>
+      <br>
+      <h3>Full NECO BECE 2026 Timetable Overview</h3>
+      <p><strong>Monday, 20 April 2026</strong></p>
+      <ul><li>Paper III: Practical – Business Studies (10:00 am – 10:20 am)</li></ul>
+      <p><strong>Tuesday, 21 April 2026</strong></p>
+      <ul><li>Paper III: Computer Practical – Basic Science & Technology (10:00 am – 10:45 am)</li></ul>
+      <p><strong>Wednesday, 22 April 2026</strong></p>
+      <ul>
+        <li>Paper IV: Drawing – BST (10:00 am – 10:45 am)</li>
+        <li>Paper III: Practical – Cultural & Creative Arts (2:00 pm – 3:00 pm)</li>
+      </ul>
+      <p><strong>Thursday, 23 April 2026</strong></p>
+      <ul><li>Objective papers for History, Hausa, Igbo, and Yoruba (10:00 am – 4:30 pm)</li></ul>
+      <p><strong>Friday, 24 April 2026</strong></p>
+      <ul><li>CRS and Islamic Studies (10:00 am – 12:00 noon)</li></ul>
+      <p><strong>Saturday, 25 April 2026</strong></p>
+      <ul><li>Mathematics: Objective & Essay (10:00 am – 3:10 pm)</li></ul>
+      <p><strong>Monday, 27 April 2026</strong></p>
+      <ul><li>CCA and Business Studies (10:00 am – 4:30 pm)</li></ul>
+      <p><strong>Tuesday, 28 April 2026</strong></p>
+      <ul><li>BST and Pre-Vocational Studies (10:00 am – 4:30 pm)</li></ul>
+      <p><strong>Wednesday, 29 April 2026</strong></p>
+      <ul><li>English Studies: Objective & Essay and Arabic (10:00 am – 5:00 pm)</li></ul>
+      <p><strong>Thursday, 30 April 2026</strong></p>
+      <ul><li>National Values Education and French (10:00 am – 4:30 pm)</li></ul>
+      <br>
+      <h3>Important Instructions for Candidates</h3>
+      <ul>
+        <li>Carry a <strong>photocard for identification</strong>.</li>
+        <li>Follow the <strong>exact time stated on question papers</strong>.</li>
+        <li><strong>Blind candidates</strong> will be given 30 extra minutes.</li>
+        <li><strong>Electronic devices are strictly prohibited</strong>, including mobile phones, smartwatches, and tablets.</li>
+      </ul>
+      <br>
+      <h3>Key Notes for Schools</h3>
+      <p>Practical subjects like Business Studies and BST may be grouped depending on available facilities. Schools must ensure proper supervision and that exams do not extend beyond 5:00 pm.</p>
+      <br>
+      <h3>Final Advice</h3>
+      <p>With the timetable now available, candidates should start revising early, create a subject-based reading plan, and practice past questions. Arrive early at exam centres to avoid any last-minute stress.</p>
+      <p>The NECO BECE is a crucial step in every student’s academic journey. Proper preparation will make all the difference.</p>`,
+    tags: ["NECO", "BECE 2026", "Education", "Timetable", "Nigeria", "Junior Secondary"],
+  },
+  {
+    id: "jamb-2026-utme-slip-printing-portal-open",
+    title: "JAMB Opens 2026 UTME Slip Printing — What Candidates Must Do Now",
+    category: "Education",
+    date: "2026-04-12",
+    excerpt: "JAMB has officially opened the 2026 UTME examination slip printing portal. Learn the official methods to print your slip and the essential rules for exam day.",
+    content:
+      `<h2>JAMB Opens 2026 UTME Slip Printing</h2>
+      <p>The Joint Admissions and Matriculation Board (JAMB) has officially opened the <strong>examination slip printing portal</strong> for candidates registered for the <strong>2026 Unified Tertiary Matriculation Examination (UTME)</strong>.</p>
+      <p>With the exam set to begin on <strong>16 April 2026</strong>, candidates are strongly advised to print their slips early and confirm all required details ahead of time.</p>
+      <br>
+      <h3>Why the JAMB Slip Is Important</h3>
+      <p>The UTME examination slip is not just a formality—it is <strong>mandatory for entry into the exam hall</strong>. Each slip contains your exam date, time, and centre address.</p>
+      <p><strong>Important:</strong> Without the slip, you will <strong>not be allowed into the exam hall</strong>, and missing your exam means losing that attempt entirely.</p>
+      <br>
+      <h3>How to Print Your 2026 UTME Slip</h3>
+      <p>Candidates can print their slips using either of the two official methods:</p>
+      <br>
+      <h4>Method 1: JAMB Slip Printing Page</h4>
+      <ol>
+        <li>Visit the <a href="https://slipsprinting.jamb.gov.ng/main-examination">official JAMB slip printing portal</a></li>
+        <li>Enter your registration number, phone number, or email address</li>
+        <li>Click <strong>“Print Examination Slip”</strong></li>
+      </ol>
+      <br>
+      <h4>Method 2: JAMB eFacility Portal</h4>
+      <ol>
+        <li>Go to the <a href="https://efacility.jamb.gov.ng/">official JAMB eFacility portal</a></li>
+        <li>Log in with your email and password</li>
+        <li>Click <strong>“Print UTME Main Examination Slip”</strong></li>
+      </ol>
+      <br>
+      <h3>Important Rules for Candidates</h3>
+      <ul>
+        <li>Do <strong>not bring phones, smartwatches, or banned items</strong></li>
+        <li>Carry a <strong>printed copy of your exam slip</strong></li>
+        <li>Entry is by <strong>biometric thumbprint verification</strong></li>
+        <li>Visit your centre early to avoid confusion on exam day</li>
+      </ul>
+      <br>
+      <h3>JAMB Warns Against Score Manipulation Scams</h3>
+      <p>JAMB has issued a strong warning about fraudsters who claim they can <strong>upgrade UTME scores</strong>. The board described such claims as <em>“False and criminal.”</em> Any candidate found engaging in such activities risks cancellation of registration and withholding of results.</p>
+      <br>
+      <h3>Final Note</h3>
+      <p>Print your UTME slip immediately and confirm your exam details. Focus on final preparation using the JAMB syllabus and past questions. approach your UTME with confidence!</p>`,
+    tags: ["JAMB", "UTME 2026", "Slip Printing", "Education", "Exam Guide"],
+  },
+  {
     id: "jamb-2026-novel-the-lekki-headmaster-guide",
     title: "JAMB 2026 Novel: The Lekki Headmaster — Full Guide with Questions & Answers",
     category: "Education",

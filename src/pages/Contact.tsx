@@ -8,19 +8,38 @@ const Contact = () => {
   const [name, setName] = useState("");
   const [email, setEmail] = useState("");
   const [message, setMessage] = useState("");
+  const [isLoading, setIsLoading] = useState(false);
 
-  const handleSubmit = (e: React.FormEvent) => {
+  const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     if (!name.trim() || !email.trim() || !message.trim()) {
       toast.error("Please complete all fields.");
       return;
     }
 
-    // Simulate send (frontend-only)
-    toast.success("Thanks — your message was sent. We'll get back to you soon.");
-    setName("");
-    setEmail("");
-    setMessage("");
+    setIsLoading(true);
+    try {
+      const response = await fetch("/api/contact", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ name, email, message }),
+      });
+
+      if (response.ok) {
+        toast.success("Thanks — your message was sent. We'll get back to you soon.");
+        setName("");
+        setEmail("");
+        setMessage("");
+      } else {
+        const error = await response.json();
+        toast.error(error.message || "Failed to send message. Please try again.");
+      }
+    } catch (error) {
+      toast.error("An error occurred. Please try again.");
+      console.error(error);
+    } finally {
+      setIsLoading(false);
+    }
   };
 
   return (
@@ -50,7 +69,7 @@ const Contact = () => {
               <textarea value={message} onChange={(e) => setMessage(e.target.value)} rows={5} className="w-full rounded-md border border-border px-4 py-3 bg-card" />
             </div>
             <div>
-              <button type="submit" className="rounded-md bg-primary px-5 py-3 text-primary-foreground font-semibold">Send message</button>
+              <button type="submit" disabled={isLoading} className="rounded-md bg-primary px-5 py-3 text-primary-foreground font-semibold disabled:opacity-50 disabled:cursor-not-allowed">{isLoading ? "Sending..." : "Send message"}</button>
             </div>
           </form>
 

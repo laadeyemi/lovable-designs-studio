@@ -21,22 +21,14 @@ const Quote = () => {
 
     setIsLoading(true);
     try {
-      const resendApiKey = import.meta.env.VITE_RESEND_API_KEY;
-      
-      if (!resendApiKey) {
-        toast.error("Email service is not configured. Please contact support.");
-        setIsLoading(false);
-        return;
-      }
-
       const response = await fetch("https://api.resend.com/emails", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
-          Authorization: `Bearer ${resendApiKey}`,
+          Authorization: `Bearer ${import.meta.env.VITE_RESEND_API_KEY}`,
         },
         body: JSON.stringify({
-          from: "contact@ulktili.resend.app",
+          from: "onboarding@resend.dev",
           to: "contact@ulktili.resend.app",
           replyTo: email,
           subject: `New Quote Request from ${name}`,

@@ -10,21 +10,65 @@ const Quote = () => {
   const [company, setCompany] = useState("");
   const [budget, setBudget] = useState("");
   const [details, setDetails] = useState("");
+  const [isLoading, setIsLoading] = useState(false);
 
-  const handleSubmit = (e: React.FormEvent) => {
+  const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
     if (!name || !email || !details) {
       toast.error("Please complete name, email and project details.");
       return;
     }
 
-    // frontend-only simulation
-    toast.success("Thanks — your request has been received. We'll follow up shortly.");
-    setName("");
-    setEmail("");
-    setCompany("");
-    setBudget("");
-    setDetails("");
+    setIsLoading(true);
+    try {
+      const resendApiKey = import.meta.env.VITE_RESEND_API_KEY;
+      
+      if (!resendApiKey) {
+        toast.error("Email service is not configured. Please contact support.");
+        setIsLoading(false);
+        return;
+      }
+
+      const response = await fetch("https://api.resend.com/emails", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+          Authorization: `Bearer ${resendApiKey}`,
+        },
+        body: JSON.stringify({
+          from: "contact@ulktili.resend.app",
+          to: "contact@ulktili.resend.app",
+          replyTo: email,
+          subject: `New Quote Request from ${name}`,
+          html: `
+            <h2>New Quote Request</h2>
+            <p><strong>Name:</strong> ${name}</p>
+            <p><strong>Email:</strong> ${email}</p>
+            <p><strong>Company:</strong> ${company || "Not provided"}</p>
+            <p><strong>Budget:</strong> ${budget || "Not specified"}</p>
+            <p><strong>Project Details:</strong></p>
+            <p>${details.replace(/\n/g, "<br>")}</p>
+          `,
+        }),
+      });
+
+      if (response.ok) {
+        toast.success("Thanks — your request has been received. We'll follow up shortly.");
+        setName("");
+        setEmail("");
+        setCompany("");
+        setBudget("");
+        setDetails("");
+      } else {
+        const error = await response.json();
+        toast.error(error.message || "Failed to send request. Please try again.");
+      }
+    } catch (error) {
+      toast.error("An error occurred. Please try again.");
+      console.error(error);
+    } finally {
+      setIsLoading(false);
+    }
   };
 
   return (
@@ -62,7 +106,7 @@ const Quote = () => {
 
             <div className="flex items-center justify-between">
               <div className="text-sm text-muted-foreground">We respect your privacy — no spam.</div>
-              <button type="submit" className="rounded-md bg-primary px-5 py-3 text-primary-foreground font-semibold">Request quote</button>
+              <button type="submit" disabled={isLoading} className="rounded-md bg-primary px-5 py-3 text-primary-foreground font-semibold disabled:opacity-50 disabled:cursor-not-allowed">{isLoading ? "Sending..." : "Request quote"}</button>
             </div>
           </form>
         </div>

@@ -1686,7 +1686,7 @@ const allJobs: Job[] = [
 "Good presentation skills.",
     ],
     apply:
-      'Interested and qualified candidates should send their CV to: <a href="mailto:recruitment@prolatotech.">recruitment@prolatotech.</a> using the job title as the subject of the mail.',
+      'Interested and qualified candidates should send their CV to: <a href="mailto:recruitment@prolatotech.com">recruitment@prolatotech.com</a> using the job title as the subject of the mail.',
     salary: "Not specific",
     deadline: "10th April, 2026.",
   },
@@ -2152,7 +2152,7 @@ const allJobs: Job[] = [
 "EHS or telecom vendor certification (Huawei, ZTE, FiberHome, etc.) is an advantage.",
     ],
     apply:
-      'Interested and qualified candidates should click: <a href="mailto:https://www.linkedin.com/jobs/view/4384031334/">HERE</a> to apply online',
+      'Interested and qualified candidates should click: <a href="https://www.linkedin.com/jobs/view/4384031334/">HERE</a> to apply online',
     salary: "Not Specific",
     deadline: "Not Specific",
   },
@@ -2274,7 +2274,7 @@ const allJobs: Job[] = [
 "EHS or telecom vendor certification (Huawei, ZTE, FiberHome, etc.) is an advantage.",
     ],
     apply:
-      'Interested and qualified candidates should click: <a href="https://www.linkedin.com/jobs/view/4384038141/>HERE</a> to apply',
+      'Interested and qualified candidates should click: <a href="https://www.linkedin.com/jobs/view/4384038141/">HERE</a> to apply',
     salary: "Not Specific",
     deadline: "Not Specific",
   },

@@ -14,6 +14,121 @@ export type Job = {
 }
 
 const allJobs: Job[] = [
+   {
+    id: "Operations Associate (Fintech)",
+    title: "Operations Associate (Fintech)",
+    date: "2026-04-13",
+    location: "Lagos",
+    type: "Remote",
+    seniority: "Senior",
+    summary:
+      "We are looking for a detail-oriented and proactive Operations Associate with at least 3 years of hands-on experience in Fintech Operations to join our team.",
+    responsibilities: [
+      "Work closely with the operations team to ensure smooth and efficient execution of daily tasks.",
+    ],
+    requirements: [
+      "Strong understanding of fintech operations and processes",
+      "Excellent problem-solving and organizational skills",
+      "Ability to work independently in a remote environment.",
+      "Dutiful, committed and responsible.",
+    ],
+    apply:
+      'Interested and qualified candidates should send their CV to: <a href="mailto:Hr@expedier.co">Hr@expedier.co</a> using “Operations Associate – Fintech” as the subject of the mail.',
+    salary: "₦250,000 – ₦300,000 (Net)",
+    deadline: "Not specific",
+  },
+   {
+    id: "Customer Success & Sales Manager (Onsite)",
+    title: "Customer Success & Sales Manager (Onsite)",
+    date: "2026-04-13",
+    location: "Garki Area 2, Abuja",
+    type: "Full-time",
+    seniority: "Senior",
+    summary:
+      "We are seeking a smart, confident, and results-driven professional with a proven track record in sales and client management. The ideal candidate will be responsible for driving revenue, managing client relationships, and closing high-value deals",
+    responsibilities: [
+      "Driving revenue",
+      "Managing client relationships",
+      "Closing high-value deals",
+    ],
+    requirements: [
+      "Female candidates are preferred",
+      "Proven record of successful sales closures (evidence required)",
+      "Knowledge of IT, PR, or Branding",
+      "Excellent communication and negotiation skills",
+      "Strong interpersonal and client management ability",
+      "Well-presented, confident, and proactive",
+    ],
+    apply:
+      'Interested and qualified candidates should send their CV Proof of past sales,  Portfolio (if available),  LinkedIn profile and other relevant social media handles via WhatsApp to: <a href="https://wa.me/2349152146130">09152146130</a>',
+    salary: "₦120,000 – ₦150,000 + Commission",
+    deadline: "Not specific",
+  },
+   {
+    id: "executive-assistant-lekki",
+    title: "Executive Assistant",
+    date: "2026-04-13",
+    location: "Lekki Phase 1, Lagos",
+    type: "Hybrid",
+    seniority: "Senior",
+    summary:
+      "We are seeking an experienced *Executive Assistant* to provide high-level administrative support to our senior management team. The ideal candidate is proactive, detail-oriented, and thrives in a fast-paced environment. ",
+    responsibilities: [
+      "Provide comprehensive administrative support to senior management",
+      "Manage executive calendars, schedule appointments, and coordinate travel arrangements",
+      "Prepare, edit, and format documents, reports, and presentations",
+      "Conduct research and data analysis as required",
+      "Liaise with clients, vendors, and internal team members",
+      "Handle confidential information with discretion",
+    ],
+    requirements: [
+      "3-5 years of proven experience as an Executive Assistant or similar role",
+      "Excellent written and verbal communication skills",
+      "Strong organizational and time-management abilities",
+      "Proficient in Microsoft Office Suite: Word, Excel, PowerPoint, Outlook",
+      "Ability to work independently and collaboratively in a hybrid setup",
+      "High level of professionalism and problem-solving skills",
+    ],
+    apply:
+        'Interested and qualified candidates should send their CV to: <a href="mailto:resume@talentforgesolutions.com.ng">resume@talentforgesolutions.com.ng</a> using “Executive Assistant – Lekki Phase 1” as the subject of the mail.',
+      salary: "₦250,000 per month",
+    deadline: "Not specific",
+  },
+   {
+    id: "internal-auditor-risk-manager",
+    title: "Internal Auditor and Risk Manager",
+    date: "2026-04-13",
+    location: "Lagos",
+    type: "Full-time",
+    seniority: "Senior",
+    summary:
+      "A leading player in the logistics and terminal operations sector is seeking an experienced Internal Auditor and Risk Manager to strengthen internal controls, enhance operational efficiency, and ensure regulatory compliance. This role requires a strategic thinker with a strong understanding of Logistics terminal operations, risk management, and financial integrity.",
+    responsibilities: [
+      "Identify, assess, and prioritize operational, financial, and compliance risks specific to logistics and terminal operations.",
+"Maintain a comprehensive corporate risk register and develop strategies for effective risk mitigation.",
+"Design and perform internal audits of business processes, financial records, and IT systems to assess the adequacy and effectiveness of internal controls.",
+"Ensure adherence to external regulations, company policies, and industry best practices, while monitoring changes in the regulatory environment.",
+"Document audit findings, irregularities, and potential fraud cases, and prepare detailed audit reports for senior management.",
+"Collaborate with management to develop and implement remediation plans and follow-up actions on audit findings.",
+"Support external auditors by providing relevant documentation and insights.",
+"Recommend and implement improvements to internal control systems, operational procedures, and risk management processes.",
+"Analyse data and trends to detect irregularities, discrepancies, and potential fraud.",
+"Conduct due diligence and risk assessments for third-party vendors and business partners.",
+"Promote a culture of integrity, transparency, and accountability across the organization",
+    ],
+    requirements: [
+      "Bachelor’s degree in accounting, Finance, Business Administration, or a related field.",
+      "8 - 12 years of experience in internal audit, risk management, or a related function, preferably within the logistics, terminal, or shipping industry.",
+      "Professional certifications such as CIA, RMA, ACCA, CPA, or ACA are highly desirable.",
+      "Strong analytical, investigative, and reporting skills, with proficiency in financial analysis and auditing methodologies.",
+      "Sound understanding of logistics, terminal operations, and maritime sector risks and regulations.",
+      "Excellent communication and interpersonal skills with a high level of integrity and attention to detail.",
+    ],
+    apply:
+      'Interested and qualified candidates should click <a href="https://forms.gle/UUFYYrQCKnPW93e78">HERE</a> to apply online.',
+    salary: "Not specific",
+    deadline: "Not specific",
+  },
   {
     id: "hvac-project-engineer",
     title: "HVAC Project Engineer",
@@ -45,30 +160,6 @@ const allJobs: Job[] = [
       'Interested and qualified candidates should send their CV to: <a href="mailto:hr@russelsmith.com">hr@russelsmith.com</a> using the job title as the subject of the mail.',
     salary: "Not specific",
     deadline: "14th April, 2026.",
-  },
-  {
-    id: "naval-architect",
-    title: "Naval Architect",
-    date: "2026-04-03",
-    location: "Lagos",
-    type: "Full-time",
-    seniority: "Senior",
-    summary:
-      "The Naval Architect is responsible for the design, development, and optimization of marine vessels and offshore structures.",
-    responsibilities: [
-      "Design end-to-end user experiences",
-      "Mentor junior designers",
-      "Collaborate with PMs and engineers",
-    ],
-    requirements: [
-      "BEng / BTech in Naval Architecture, Marine Engineering, or Ocean Engineering",
-      "Minimum 5+ years’ experience in vessel design, structural analysis, or shipbuilding projects",
-      "Proficiency in marine design and analysis software (AutoCAD, Rhino, Maxsurf, ANSYS, or equivalent)",
-    ],
-    apply:
-      'Interested and qualified candidates should send their CV to: <a href="mailto:eandg.tprecruiters@gmail.com">eandg.tprecruiters@gmail.com</a> using “Lead Engineer – Well Bore Cleaning- Port Harcourt” as the subject of the mail.',
-    salary: "Not specific",
-    deadline: "Not specific",
   },
   {
     id: "lead-engineer-well-bore-cleaning",
@@ -517,7 +608,7 @@ const allJobs: Job[] = [
 "5 years working experience with 3years experience in building and facilities maintenance preferably in Oil & Gas",
     ],
     apply:
-      'Interested and qualified candidates should click <a href:"https://forms.office.com/pages/responsepage.aspx?id=Q3tsMP0RxkG9RqxMidmbN_7v3bQBtUFIsCV2v0nDS8NUOE1aWUxPSDlDWEY1VFhSRU81MFlSME8zVC4u&route=shorturl&utm_source=HNJ"> HERE </a> and send their CV to: <a href="mailto:careers@doverengineering.com">careers@doverengineering.com</a> using the job title as the subject of the mail.',
+      'Interested and qualified candidates should click <a href="https://forms.office.com/pages/responsepage.aspx?id=Q3tsMP0RxkG9RqxMidmbN_7v3bQBtUFIsCV2v0nDS8NUOE1aWUxPSDlDWEY1VFhSRU81MFlSME8zVC4u&route=shorturl&utm_source=HNJ"> HERE </a> and send their CV to: <a href="mailto:careers@doverengineering.com">careers@doverengineering.com</a> using the job title as the subject of the mail.',
     salary: "Not specific",
     deadline: "Not specific",
   },
@@ -1900,7 +1991,7 @@ const allJobs: Job[] = [
 "Minimum Level 3 Health Safety and Environment (HSE) Certificate.",
     ],
     apply:
-      'Interested and qualified candidates should send their CV to: <a href="recruitment@marandmor.com ">recruitment@marandmor.com </a> using the job title as the subject of the mail.',
+      'Interested and qualified candidates should send their CV to: <a href="mailto:recruitment@marandmor.com">recruitment@marandmor.com</a> using the job title as the subject of the mail.',
     salary: "Not specific",
     deadline: "Not specific",
   },
@@ -2244,7 +2335,7 @@ const allJobs: Job[] = [
 "Ability to work in a fast-paced environment and meet deadlines.",
     ],
     apply:
-      'Interested and qualified candidates should send their CV link  to: <a href="mailto:humanresources@training-hub.com.ng </a> using the job title as the subject of the mail.',
+      'Interested and qualified candidates should send their CV to: <a href="mailto:careers@runola.ng">careers@runola.ng</a> using “Application for Quality Assurance/Control Laboratory Assistant Position” as the subject of the mail.',
     salary: "Not specific",
     deadline: "Not Specific",
   },
@@ -2624,30 +2715,6 @@ salary: "N30,000",
       'Interested and qualified candidates should send their CV to: <a href="mailto:hhcm@hiitplc.com">hhcm@hiitplc.com</a> using the job title as the subject of the mail.',
     salary: "Not Specific",
     deadline: "10th April, 2026",
-    },
-    {
-    id: "naval-architect-lagos-junior",
-    title: "Naval Architect",
-    date: "2025-11-28",
-    location: "Lagos",
-    type: "Full-time",
-    seniority: "Senior",
-    summary:
-      "The Naval Architect is responsible for the design, development, and optimization of marine vessels and offshore structures.",
-    responsibilities: [
-      "Design end-to-end user experiences",
-      "Mentor junior designers",
-      "Collaborate with PMs and engineers",
-    ],
-    requirements: [
-      "BEng / BTech in Naval Architecture, Marine Engineering, or Ocean Engineering",
-      "Minimum 5+ years’ experience in vessel design, structural analysis, or shipbuilding projects",
-      "Proficiency in marine design and analysis software (AutoCAD, Rhino, Maxsurf, ANSYS, or equivalent)",
-    ],
-    apply:
-      'Interested and qualified candidates should send their CV to: <a href="mailto:hr@russelsmithgroup.com">hr@russelsmithgroup.com</a> using the job title as the subject of the mail.',
-    salary: "Not specific",
-    deadline: "Not specific",
   },
 ];
 

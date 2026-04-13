@@ -99,7 +99,7 @@ const Careers = () => {
 
             <div>
               <strong>How to apply</strong>
-              <p className="text-sm text-muted-foreground">{job.apply}</p>
+              <p className="text-sm text-muted-foreground [&_a]:text-yellow-500 [&_a]:hover:text-yellow-400 [&_a]:underline [&_a]:cursor-pointer" dangerouslySetInnerHTML={{ __html: job.apply }} />
             </div>
 
             <div>

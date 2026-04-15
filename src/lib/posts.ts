@@ -764,6 +764,51 @@ const allPosts: Post[] = [
     tags: ["OAU", "Open Distance Learning", "ODL", "Admission", "Education", "Nigeria"],
   },
   {
+    id: "elrazi-medical-university-admission-2026-2027",
+    title: "Elrazi Medical University Admission 2026/2027 — Apply Now",
+    category: "Education",
+    date: "2026-04-14",
+    excerpt: "Elrazi Medical University has announced the commencement of applications for the 2026/2027 academic session, inviting qualified candidates for undergraduate programmes in medical and health science disciplines.",
+    content:
+      `<h2>Elrazi Medical University Admission 2026/2027 — Apply Now</h2>
+      <p>Elrazi Medical University has officially announced the commencement of applications for the <strong>2026/2027 academic session</strong>. The institution is inviting suitably qualified candidates to apply for its wide range of undergraduate programmes in medical and health science disciplines.</p>
+      <p>This admission opportunity is open to prospective students seeking to pursue degree courses in various healthcare-related fields. The university has also outlined the available programmes and provided a clear application process for interested applicants.</p>
+      <br>
+      <h3>Available Undergraduate Programmes</h3>
+      <p>Candidates can apply for any of the following courses:</p>
+      <ul>
+        <li><strong>MBBS</strong> – Bachelor of Medicine, Bachelor of Surgery</li>
+        <li><strong>Pharm.D</strong> – Doctor of Pharmacy</li>
+        <li><strong>B.D.S</strong> – Bachelor of Dental Surgery</li>
+        <li><strong>BMLS</strong> – Medical Laboratory Science</li>
+        <li><strong>B.N.Sc</strong> – Nursing Science</li>
+        <li><strong>DPT</strong> – Doctor of Physiotherapy</li>
+        <li><strong>B.Sc. Radiography and Radiation Science</strong></li>
+        <li><strong>B.Sc. Environmental Health Science</strong></li>
+        <li><strong>B.Sc. Human Nutrition and Dietetics</strong></li>
+        <li><strong>B.Sc. Health Information and Management</strong></li>
+        <li><strong>B.Sc. Public Health</strong></li>
+        <li><strong>B.Sc. Health Care Administration and Hospital Management</strong></li>
+      </ul>
+      <br>
+      <h3>How to Apply</h3>
+      <p>Interested candidates are required to submit their applications online through the official Elrazi admission portal. This is the only approved channel for starting the admission process, so applicants are advised to follow the instructions carefully on the portal.</p>
+      <br>
+      <h3>Contact Details</h3>
+      <p>For further enquiries regarding admission requirements, procedures, or campus visits, applicants can reach out using the details below:</p>
+      <ul>
+        <li><strong>Address:</strong> Aminu Babakusa Street, Yargaya, Kano State, Nigeria</li>
+        <li><strong>Website:</strong> Official Elrazi Medical University website</li>
+        <li><strong>Phone:</strong> +234 902 316 8968 | +234 703 078 5761</li>
+        <li><strong>Email:</strong> <a href="mailto:info@elrazi.edu.ng">info@elrazi.edu.ng</a></li>
+      </ul>
+      <br>
+      <h3>Important Information for Applicants</h3>
+      <p>The admission notice clearly outlines all available undergraduate programmes and directs applicants to the appropriate online application portal. Additionally, the university has provided multiple contact options, making it easy for prospective students to get accurate information and support throughout the application process.</p>
+      <p>If you're planning to build a career in the medical or health sciences, this is a great opportunity to begin your journey with Elrazi Medical University.</p>`,
+    tags: ["Elrazi Medical University", "Admission", "2026/2027", "MBBS", "Pharm.D", "B.D.S", "BMLS", "B.N.Sc", "DPT", "Education", "Nigeria"],
+  },
+  {
     id: "uniuyo-resumption-academic-calendar-2026",
     title: "University of Uyo (UNIUYO) Announces Resumption Date and 2025/2026 Academic Calendar",
     category: "Education",

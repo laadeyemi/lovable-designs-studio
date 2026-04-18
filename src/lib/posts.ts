@@ -10,6 +10,344 @@ export type Post = {
 
 const allPosts: Post[] = [
   {
+    id: "waec-2026-timetable-nigeria-full-schedule",
+    title: "WAEC 2026 Timetable for Nigeria: Full Schedule, Dates & Times",
+    category: "Education",
+    date: "2026-04-18",
+    excerpt: "The West African Examinations Council (WAEC) has released the official 2026 May/June WASSCE timetable. View the full schedule of dates and times for all subjects.",
+    content:
+      `<h2>WAEC 2026 Timetable Released</h2>
+      <p>The West African Examinations Council (WAEC) has released the <strong>official 2026 May/June WASSCE timetable</strong> for school candidates in Nigeria. The examination runs from <strong>Tuesday, 21 April to Friday, 19 June 2026</strong>, covering practicals, theory, and objective papers across all subjects.</p>
+      <br>
+      <h3>April 2026 Schedule</h3>
+      <p>The exam kicks off with practical planning on April 21. Between April 27 and May 8, oral and performance tests for French, Arabic, and Music will be held. Note that Friday, May 1st, is a public holiday (Workers' Day).</p>
+      <br>
+      <h3>May 2026 Highlights</h3>
+      <ul>
+        <li><strong>May 12:</strong> Nigerian Languages (Hausa, Yoruba, Igbo) and Livestock Farming.</li>
+        <li><strong>May 15:</strong> Foods & Nutrition and French.</li>
+        <li><strong>May 20:</strong> Chemistry Practical and Solar PV Installation.</li>
+        <li><strong>May 21:</strong> Further Mathematics (Essay & Objective).</li>
+      </ul>
+      <p><em>Note: Public holidays for Eid al-Adha are observed between May 26 and May 28.</em></p>
+      <br>
+      <h3>June 2026 Highlights</h3>
+      <ul>
+        <li><strong>June 3:</strong> General Mathematics (Core).</li>
+        <li><strong>June 4:</strong> Government and Agricultural Science Practical.</li>
+        <li><strong>June 10:</strong> English Language (Essay, Objective & Oral).</li>
+        <li><strong>June 11:</strong> Chemistry and Literature-in-English.</li>
+        <li><strong>June 12:</strong> Public Holiday (Democracy Day).</li>
+        <li><strong>June 15:</strong> Physics Practical and Marketing.</li>
+        <li><strong>June 16:</strong> Biology and Literature (Drama & Poetry).</li>
+        <li><strong>June 17:</strong> Biology Practical and Economics.</li>
+        <li><strong>June 18:</strong> Financial Accounting.</li>
+        <li><strong>June 19:</strong> Commerce and Catering Craft (Final Day).</li>
+      </ul>
+      <br>
+      <h3>Important WAEC Instructions</h3>
+      <p>Candidates are advised to follow the <strong>time printed on the question paper</strong> if it differs from the general timetable. Special needs candidates receive an extra 50% of the prescribed time. Additionally, certain practical materials may be provided in advance for preparation.</p>
+      <br>
+      <h3>Final Advice</h3>
+      <p>With a comprehensive two-month schedule, candidates should prioritize a study plan that covers core subjects and practicals. Use this official timetable released by the West African Examinations Council as your primary success guide.</p>`,
+    tags: [
+      "WAEC",
+      "WASSCE",
+      "Timetable",
+      "2026",
+      "Education",
+      "Nigeria",
+    ],
+  },
+  {
+    id: "kogi-poly-hnd-part-time-admission-2026-2027",
+    title: "Kogi State Polytechnic Opens 2026/2027 HND & Part-Time Admissions",
+    category: "Education",
+    date: "2026-04-18",
+    excerpt: "Kogi State Polytechnic is now accepting applications for Higher National Diploma (HND) and part-time programmes for the 2026/2027 session. View full course lists and entry requirements.",
+    content:
+      `<h2>Kogi State Polytechnic HND & Part-Time Admissions</h2>
+      <p>Kogi State Polytechnic has announced the sale of application forms for admission into its <strong>regular Higher National Diploma (HND)</strong> and <strong>part-time programmes</strong> for the 2026/2027 academic session.</p>
+      <p>The admission notice outlines available HND courses across different schools, entry requirements, application procedures, fees, and key deadlines. Prospective applicants are advised to read all details carefully before applying.</p>
+      <br>
+      <h3>HND Courses by School</h3>
+      <p><strong>School of Applied Sciences</strong></p>
+      <ul>
+        <li>Computer Science (Software & Web Development / Networking & Cloud Computing)</li>
+        <li>Statistics</li>
+        <li>Science Laboratory Technology (Chemistry, Biochemistry, Microbiology, Environmental Biology)</li>
+      </ul>
+      <p><strong>School of Engineering Technology</strong></p>
+      <ul>
+        <li>Mineral/Petroleum Resources Engineering</li>
+        <li>Electrical/Electronic Engineering (Power & Machine, Telecom)</li>
+        <li>Metallurgical and Material Engineering</li>
+        <li>Civil Engineering Technology</li>
+        <li>Mechanical Engineering (Manufacturing Option)</li>
+      </ul>
+      <p><strong>School of Management Studies</strong></p>
+      <ul>
+        <li>Accountancy</li>
+        <li>Business Administration and Management</li>
+        <li>Library and Information Science</li>
+        <li>Office Technology and Management</li>
+        <li>Public Administration</li>
+      </ul>
+      <p><em>Other courses are available in the School of Art, Design and Printing, and the School of Environmental Technology.</em></p>
+      <br>
+      <h3>General HND Entry Requirements</h3>
+      <p>While requirements vary slightly by course, most programmes require:</p>
+      <ul>
+        <li>A <strong>relevant National Diploma (ND)</strong>.</li>
+        <li>Minimum of <strong>Lower Credit (CGPA 2.50)</strong>.</li>
+        <li><strong>Five O’Level credits</strong> (maximum of two sittings), including English and Mathematics.</li>
+        <li><strong>One year Industrial Training (IT)</strong> (or two years if the applicant has a Pass grade at ND).</li>
+        <li><strong>ND transcript</strong> (mandatory for all applicants).</li>
+      </ul>
+      <br>
+      <h3>How to Apply</h3>
+      <p>Candidates can apply through the Polytechnic’s official portal by following these steps:</p>
+      <ol>
+        <li>Generate <strong>two separate RRR numbers</strong> on the portal: one for the admission form and one for the screening fee.</li>
+        <li>Make payment via the approved channels.</li>
+        <li>Return to the portal and complete the application online.</li>
+      </ol>
+      <br>
+      <h3>Application Fees</h3>
+      <ul>
+        <li><strong>Admission Form:</strong> ₦10,000</li>
+        <li><strong>Screening Fee:</strong> ₦10,000</li>
+      </ul>
+      <br>
+      <h3>Transcript & Document Submission</h3>
+      <p>Applicants must arrange for their <strong>ND transcripts</strong> to be sent directly to: <strong>The Registrar, Kogi State Polytechnic, Lokoja</strong>. Hard copies of credentials must also be submitted at the Polytechnic Admission Office before the deadline. <strong>Applications without transcripts will not be processed.</strong></p>
+      <br>
+      <h3>Closing Date</h3>
+      <p>The deadline for submission of completed application forms is <strong>16 June 2026</strong>. The Polytechnic has clearly noted that <strong>there will be no extension</strong>.</p>
+      <br>
+      <h3>Final Note</h3>
+      <p>Kogi State Polytechnic offers a wide range of HND programmes across science, engineering, environmental, arts, and management disciplines. Interested candidates should ensure they meet all requirements and submit all necessary documents on time to secure consideration.</p>`,
+    tags: [
+      "Kogi State Polytechnic",
+      "HND",
+      "Admission",
+      "2026/2027",
+      "Education",
+      "Nigeria",
+    ],
+  },
+  {
+    id: "wesley-university-jupeb-ijmb-admissions-2026-2027",
+    title: "Wesley University Opens JUPEB & IJMB Admissions for 2026/2027",
+    category: "Education",
+    date: "2026-04-18",
+    excerpt: "Wesley University Ondo has announced admission into its JUPEB and IJMB programmes for the 2026/2027 academic session. These A-Level pathways provide Direct Entry admission into 200 Level.",
+    content:
+      `<h2>Wesley University JUPEB & IJMB Admissions 2026/2027</h2>
+      <p>Wesley University Ondo has announced admission into its <strong>JUPEB and IJMB programmes</strong> for the 2026/2027 academic session. These programmes provide recognised <strong>A-Level pathways</strong> for students seeking <strong>Direct Entry admission into 200 Level</strong> in Nigerian universities.</p>
+      <p>Both options are widely accepted nationwide and offer a solid alternative route to university admission.</p>
+      <br>
+      <h3>Why Choose JUPEB or IJMB?</h3>
+      <p>The university highlights several benefits for choosing their pre-degree pathways:</p>
+      <ul>
+        <li>Nationally accredited programmes</li>
+        <li>Direct Entry admission into 200 Level</li>
+        <li>Experienced lecturers</li>
+        <li>Modern learning facilities</li>
+      </ul>
+      <br>
+      <h3>JUPEB Programme</h3>
+      <h4>What is JUPEB?</h4>
+      <p>The Joint Universities Preliminary Examinations Board (JUPEB) is a national examination body approved by the Federal Government. It provides a pathway for students to gain Direct Entry admission into universities in Nigeria and some partner institutions abroad.</p>
+      <p><strong>Duration:</strong> 1 academic session (2 semesters)<br>
+      <strong>Qualification:</strong> JUPEB Certificate (A-Level equivalent)</p>
+      <p><strong>Entry Requirements:</strong></p>
+      <ul>
+        <li>Minimum of 5 O’Level credits in relevant subjects</li>
+        <li>Must include English Language and Mathematics</li>
+        <li>Maximum of two sittings (WAEC, NECO, or NABTEB)</li>
+        <li>Awaiting results may be considered</li>
+      </ul>
+      <br>
+      <h3>IJMB Programme</h3>
+      <h4>What is IJMB?</h4>
+      <p>The Interim Joint Matriculation Board (IJMB) is an A-Level programme established by Ahmadu Bello University. It is recognised nationwide for Direct Entry admission into universities.</p>
+      <p><strong>Duration:</strong> 9–12 months (2 semesters)<br>
+      <strong>Qualification:</strong> IJMB Certificate</p>
+      <p><strong>Entry Requirements:</strong></p>
+      <ul>
+        <li>Minimum of 5 O’Level credits including English and Mathematics</li>
+        <li>Maximum of two sittings (WAEC, NECO, or NABTEB)</li>
+        <li>Awaiting results can apply</li>
+      </ul>
+      <br>
+      <h3>How to Apply</h3>
+      <p>Follow these steps to apply for the 2026/2027 session:</p>
+      <ol>
+        <li><strong>Purchase Application Form:</strong> Obtain the form from the Wesley University admissions office.</li>
+        <li><strong>Submit Required Documents:</strong> Upload O’Level results, personal details, and passport photograph.</li>
+        <li><strong>Application Processing:</strong> Applications are reviewed within 5 working days.</li>
+        <li><strong>Admission Offer:</strong> Successful candidates receive admission letters and registration details.</li>
+      </ol>
+      <br>
+      <h3>Contact Information</h3>
+      <p>For enquiries (calls or WhatsApp):</p>
+      <ul>
+        <li>08070962165</li>
+        <li>0814 799 7370</li>
+        <li>+2348034827190</li>
+      </ul>
+      <br>
+      <h3>Frequently Asked Questions</h3>
+      <p><strong>Can JUPEB or IJMB be used for admission into any university?</strong><br>Yes. Both programmes are accepted by Nigerian universities for Direct Entry into 200 Level, though specific grade requirements may vary by institution.</p>
+      <p><strong>Is accommodation available?</strong><br>Yes. Wesley University Ondo provides hostel accommodation for students, subject to availability.</p>
+      <br>
+      <p>If you’re looking for an alternative route into university without waiting for UTME alone, JUPEB and IJMB at Wesley University Ondo offer a reliable and recognised pathway to secure your admission into 200 Level.</p>`,
+    tags: [
+      "Wesley University",
+      "JUPEB",
+      "IJMB",
+      "Admission",
+      "2026/2027",
+      "Education",
+      "Nigeria",
+    ],
+  },
+  {
+    id: "kogi-state-poly-part-time-admission-2026-2027",
+    title: "Kogi State Polytechnic Opens 2026/2027 Part-Time Admission",
+    category: "Education",
+    date: "2026-04-18",
+    excerpt: "Kogi State Polytechnic has announced the commencement of applications for its part-time programmes for the 2026/2027 academic session. Learn about available courses, fees, and requirements.",
+    content:
+      `<h2>Kogi State Polytechnic 2026/2027 Part-Time Admission</h2>
+      <p>Kogi State Polytechnic has announced the commencement of applications for its part-time programmes for the 2026/2027 academic session. The admission notice outlines available study centres, courses, application procedures, fees, and key requirements.</p>
+      <br>
+      <h3>Available Study Centres</h3>
+      <p>Applicants are required to select their preferred study centre during registration. The available centres are:</p>
+      <ul>
+        <li>Anyigba</li>
+        <li>Kabba</li>
+        <li>Okene</li>
+        <li>Lokoja</li>
+      </ul>
+      <br>
+      <h3>Part-Time Courses Offered</h3>
+      <p>The Polytechnic offers the following programmes across various levels (NDS, ND, HND):</p>
+      <ul>
+        <li><strong>Accountancy</strong></li>
+        <li><strong>Business Administration</strong></li>
+        <li><strong>Computer Science</strong></li>
+        <li><strong>Public Administration</strong></li>
+        <li><strong>Office Technology and Management (OTM)</strong></li>
+        <li><strong>Library and Information Science</strong></li>
+        <li><strong>Diploma in Law</strong></li>
+      </ul>
+      <br>
+      <h3>Admission Requirements</h3>
+      <p><strong>Accountancy (HND):</strong> Requires a National Diploma in Accountancy or related field with a minimum of <strong>Lower Credit (CGPA 2.50)</strong> and five O’Level credits including English and Mathematics.</p>
+      <p><strong>Accountancy (ND):</strong> Requires five O’Level credits (maximum of two sittings), including English Language, Mathematics, and any three relevant subjects such as Economics, Geography, or Government.</p>
+      <br>
+      <h3>How to Apply</h3>
+      <p>Interested candidates can apply via the Polytechnic’s official portal by following these steps:</p>
+      <ol>
+        <li>Generate <strong>two separate RRR numbers</strong> on the portal (one for the admission form and one for the screening fee).</li>
+        <li>Proceed to make payments of ₦10,000 each.</li>
+        <li>Complete the application process online.</li>
+      </ol>
+      <br>
+      <h3>Important Notes for Applicants</h3>
+      <ul>
+        <li><strong>Transcript Submission:</strong> Candidates from other institutions must arrange for their transcripts to be sent directly to the Registrar in Lokoja.</li>
+        <li><strong>Hard Copy Submission:</strong> All applicants must submit physical copies of their credentials at the Polytechnic Admission Office before the deadline.</li>
+        <li><strong>Closing Date:</strong> The deadline for submission is <strong>six weeks from the date of advertisement</strong>. The Polytechnic has stated there will be no extension.</li>
+      </ul>
+      <br>
+      <h3>Final Note</h3>
+      <p>Kogi State Polytechnic provides flexible part-time study options across multiple disciplines and locations. Applicants should ensure they meet all requirements, follow the application steps correctly, and submit all necessary documents before the deadline to avoid disqualification.</p>`,
+    tags: [
+      "Kogi State Polytechnic",
+      "Admission",
+      "Part-Time",
+      "2026/2027",
+      "Education",
+      "Nigeria",
+    ],
+  },
+  {
+    id: "fuo-business-school-admissions-2026-2027",
+    title: "FUO Business School Opens 2026/2027 Admissions: Courses, Requirements, and How to Apply",
+    category: "Education",
+    date: "2026-04-18",
+    excerpt: "Federal University Otuoke Business School (FUOBS) has announced the start of applications for the 2026/2027 academic session. Explore available courses from certificates to PhDs.",
+    content:
+      `<h2>FUO Business School Opens 2026/2027 Admissions</h2>
+      <p>Federal University Otuoke Business School (FUOBS) has announced the start of applications for the 2026/2027 academic session. The Business School offers a wide range of programmes—from short certificate courses to doctoral degrees—designed to meet the needs of professionals, graduates, and researchers.</p>
+      <p>One standout feature is its flexible learning system, which supports <strong>hybrid, in-person, and fully virtual study options</strong>, giving applicants the freedom to choose what works best for them.</p>
+      <br>
+      <h3>Available Programmes at FUOBS</h3>
+      <p><strong>Certificate and Short Courses</strong></p>
+      <ul>
+        <li>Procurement, Logistics and Supply Chain Management</li>
+        <li>Strategic Project Management</li>
+        <li>Strategic Peace, Security, and Conflict Management and Transformation</li>
+      </ul>
+      <p><strong>Postgraduate Diploma (PGD)</strong></p>
+      <ul>
+        <li>Accounting and Financial Analysis</li>
+        <li>Management and Artificial Intelligence</li>
+        <li>Business Intelligence</li>
+        <li>Tourism and Hospitality Management</li>
+        <li>Human Resource Management</li>
+      </ul>
+      <p><strong>Executive and Professional Master’s</strong></p>
+      <ul>
+        <li>Artificial Intelligence and Change Management</li>
+        <li>Communication and Media Management in the Digital Economy</li>
+        <li>Taxation in the Digital Era</li>
+        <li>Business Administration</li>
+        <li>Public Administration</li>
+      </ul>
+      <p><strong>Master of Science (M.Sc.) & Ph.D.</strong></p>
+      <p>FUOBS offers specialized M.Sc. and Ph.D. tracks in Oil and Gas Accounting, Sustainable Tourism, HR, Business Administration, and Public Administration. Professional Doctorates are also available in Business and Public Administration Strategy.</p>
+      <br>
+      <h3>Entry Requirements</h3>
+      <ul>
+        <li><strong>Certificate:</strong> Five passes including English and Mathematics.</li>
+        <li><strong>PGD:</strong> Bachelor’s degree (min. 3rd class) or HND (Upper Credit).</li>
+        <li><strong>Executive Master’s:</strong> Bachelor’s/HND/PGD plus <strong>5 years work experience</strong>.</li>
+        <li><strong>M.Sc.:</strong> Second-class lower degree or PGD with 3.00 CGPA.</li>
+        <li><strong>Ph.D.:</strong> Master’s degree with min. 3.5 CGPA.</li>
+      </ul>
+      <br>
+      <h3>Programme Duration</h3>
+      <ul>
+        <li><strong>Certificate:</strong> 3 weeks to 6 months</li>
+        <li><strong>PGD:</strong> 2–4 semesters (Full-time)</li>
+        <li><strong>Master’s:</strong> 2–4 semesters</li>
+        <li><strong>Ph.D.:</strong> 6–8 semesters</li>
+      </ul>
+      <br>
+      <h3>How to Apply</h3>
+      <p>Applicants can apply online through the FUO portal:</p>
+      <ol>
+        <li>Generate an invoice via the FUOBS application page.</li>
+        <li>Use a valid phone number during registration.</li>
+        <li>Pay the application fee (₦25k for Certificates, ₦30k for PGD/MSc/PhD, ₦50k for Executive Masters) via Remita at any bank.</li>
+        <li>Return to the portal and complete the application form.</li>
+      </ol>
+      <br>
+      <h3>Important Guidelines</h3>
+      <p>Ensure transcripts are sent within <strong>one month of application</strong>. Applications without referee reports or transcripts will not be processed. After completing the form, submit a hard copy to: <strong>The Secretary, FUO Business School, Federal University Otuoke, Bayelsa State.</strong></p>
+      <br>
+      <h3>Contact Information</h3>
+      <p>Email: <a href="mailto:businessschool@fuotuoke.edu.ng">businessschool@fuotuoke.edu.ng</a><br>
+      WhatsApp only: 09042205859</p>
+      <br>
+      <p>Interested applicants are advised to carefully follow the application steps and submit all required documents on time to avoid delays.</p>`,
+    tags: ["FUO", "Business School", "Admission", "2026/2027", "Education", "Nigeria"],
+  },
+  {
     id: "jamb-releases-2026-utme-results-how-to-check",
     title: "JAMB Releases 2026 UTME Results: Here’s How to Check Yours",
     category: "Education",

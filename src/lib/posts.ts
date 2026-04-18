@@ -10,6 +10,43 @@ export type Post = {
 
 const allPosts: Post[] = [
   {
+    id: "jamb-releases-2026-utme-results-how-to-check",
+    title: "JAMB Releases 2026 UTME Results: Here’s How to Check Yours",
+    category: "Education",
+    date: "2026-04-18",
+    excerpt: "JAMB has officially released the 2026 UTME results. Learn the official SMS method to check your score and read the urgent warning against result manipulation.",
+    content:
+      `<h2>JAMB Releases 2026 UTME Results</h2>
+      <p>The Joint Admissions and Matriculation Board (JAMB) has officially released the results of candidates who sat for the <strong>2026 Unified Tertiary Matriculation Examination (UTME)</strong> held on Thursday, 16 April 2026.</p>
+      <p>According to the Board, a total of <strong>632,788 results</strong> are currently available for viewing, with more expected to be released in batches as the examination process continues.</p>
+      <br>
+      <h3>How to Check Your 2026 UTME Result</h3>
+      <p>JAMB has directed candidates to check their results via SMS. To do this:</p>
+      <ul>
+        <li>Send <strong>“UTMERESULT”</strong> to <strong>55019</strong> or <strong>66019</strong></li>
+        <li>Use the <strong>same phone number (SIM)</strong> you used during registration</li>
+      </ul>
+      <p>This detail is crucial—using a different phone number will not work.</p>
+      <br>
+      <h3>Result Printing Not Yet Available</h3>
+      <p>At this stage, candidates can only <strong>view their results via SMS</strong>. JAMB has not yet enabled the result printing option. So for now, you can see your score—but you cannot print it yet.</p>
+      <br>
+      <h3>JAMB Warns Against Result Manipulation</h3>
+      <p>JAMB has issued a strong warning to candidates against altering or falsifying the SMS results received from its official platform.</p>
+      <p>In its statement, the Board made it clear that: <em>“Candidates are strongly cautioned against manipulating the SMS received from the official platform (55019/66019) to fabricate or alter scores with the intent to mislead others, including parents. Such actions constitute a serious criminal offence.”</em></p>
+      <p>This warning underscores the seriousness of maintaining integrity in the examination process.</p>
+      <br>
+      <h3>Offenders Already in Custody</h3>
+      <p>The Board also revealed that enforcement actions have already begun. According to JAMB, <strong>two candidates and one parent are currently in custody</strong> for allegedly falsifying results using AI and other electronic methods. The Board emphasized that anyone found guilty will face legal consequences.</p>
+      <br>
+      <h3>More Results to Be Released</h3>
+      <p>JAMB noted that the UTME process is still ongoing, which means <strong>additional results will be released in batches</strong>. Candidates who have not yet received their results are advised to remain patient and check again later.</p>
+      <br>
+      <h3>Final Note</h3>
+      <p>The release of the 2026 UTME results marks an important step for candidates awaiting admission into Nigerian tertiary institutions. Be sure to follow the official process, avoid shortcuts, and stay updated as more results become available through the Joint Admissions and Matriculation Board.</p>`,
+    tags: ["JAMB", "UTME 2026", "Results", "Education", "Nigeria"],
+  },
+  {
     id: "5-productivity-hacks-for-busy-entrepreneurs",
     title: "5 Productivity Hacks for Busy Entrepreneurs to Boost Efficiency",
     category: "Business",

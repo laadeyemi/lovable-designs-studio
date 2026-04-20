@@ -10,6 +10,162 @@ export type Post = {
 
 const allPosts: Post[] = [
   {
+    id: "how-to-delegate-effectively-guide",
+    title: "How to Delegate Tasks Effectively as an Entrepreneur: A Guide to Outsourcing and Delegation",
+    category: "Business",
+    date: "2026-04-20",
+    excerpt: "Scaling a business requires letting go of control. Learn the strategic framework for delegating and outsourcing to reclaim your time and focus on growth.",
+    content:
+      `<h2>The Entrepreneur's Greatest Challenge: Letting Go</h2>
+      <p>In the early stages of a business, entrepreneurs often wear every hat—from visionary and salesperson to customer support and janitor. While this "hustle" is necessary at the start, it becomes the very thing that prevents growth as the business scales. To grow beyond yourself, you must master the art of delegation.</p>
+      <p>Effective delegation isn't just about offloading work; it’s about empowering others and freeing up your mental capacity to focus on high-impact, strategic decisions.</p>
+      <br>
+      <h3>1. Identify What to Delegate</h3>
+      <p>Not every task should be handed off. Use the <strong>Delegation Matrix</strong> to categorize your workload:</p>
+      <ul>
+        <li><strong>Low Value, Low Skill:</strong> Admin tasks, scheduling, and data entry. These should be delegated or automated immediately.</li>
+        <li><strong>Low Value, High Skill:</strong> Specialized tasks like basic bookkeeping or technical maintenance. These are prime candidates for outsourcing.</li>
+        <li><strong>High Value, Low Skill:</strong> Tasks that require your unique perspective but not necessarily a specific technical skill. Train internal team members to handle these.</li>
+        <li><strong>High Value, High Skill:</strong> Strategy, product vision, and core relationship building. Keep these for yourself.</li>
+      </ul>
+      <br>
+      <h3>2. Outsourcing vs. Internal Delegation</h3>
+      <p>Choosing between hiring an employee and hiring a contractor depends on the nature of the work:</p>
+      <p><strong>Outsourcing:</strong> Ideal for specialized, project-based, or repetitive tasks. This includes graphic design, social media management, or lead generation. It offers flexibility and lower overhead.</p>
+      <p><strong>Internal Delegation:</strong> Better for core business processes that require deep institutional knowledge and long-term consistency. Build an internal team for roles that define your company culture.</p>
+      <br>
+      <h3>3. The 5 Steps to Effective Delegation</h3>
+      <ol>
+        <li><strong>Define the Desired Outcome:</strong> Focus on the <em>what</em> and <em>why</em>, not just the <em>how</em>. Give clear success criteria.</li>
+        <li><strong>Select the Right Person:</strong> Match the task to the individual's strengths and current capacity.</li>
+        <li><strong>Provide Resources and Authority:</strong> Ensure they have the tools, information, and permission to make decisions without constant supervision.</li>
+        <li><strong>Establish a Feedback Loop:</strong> Set checkpoints for progress reports. Avoid micromanaging, but maintain visibility.</li>
+        <li><strong>Review and Recognize:</strong> Provide constructive feedback upon completion and recognize their success to build confidence.</li>
+      </ol>
+      <br>
+      <h3>4. Avoid the Perfectionism Trap</h3>
+      <p>One of the biggest hurdles for entrepreneurs is the "I can do it better myself" mindset. While you might be faster at a task today, doing it yourself prevents someone else from learning it. Accept the <strong>80% Rule</strong>: If someone can do it at least 80% as well as you, let them do it. The remaining 20% is the cost of your freedom.</p>
+      <br>
+      <h3>Final Thought</h3>
+      <p>Your business is limited by your time and energy. Delegation is the mechanism that multiplies your impact. Start small—outsource one recurring administrative task this week—and feel the immediate relief in your schedule.</p>`,
+    tags: [
+      "Delegation",
+      "Entrepreneurship",
+      "Business Strategy",
+      "Outsourcing",
+      "Leadership",
+    ],
+  },
+  {
+    id: "noun-solution-to-nigeria-university-admission-crisis-tinubu",
+    title: "Tinubu Identifies NOUN as Solution to Nigeria’s University Admission Crisis",
+    category: "Education",
+    date: "2026-04-18",
+    excerpt: "President Bola Ahmed Tinubu identifies open and distance learning via NOUN as a practical solution to Nigeria’s admission crisis, highlighting its role in expanding access to higher education.",
+    content:
+      `<h2>NOUN: A Practical Response to Admission Crisis</h2>
+      <p>President Bola Ahmed Tinubu has identified open and distance learning as a practical solution to Nigeria’s long-standing university admission crisis, pointing to the growing role of the <strong>National Open University of Nigeria (NOUN)</strong> in expanding access to higher education.</p>
+      <p>Speaking at the university’s 15th convocation ceremony, the President—represented by Abdullahi Yusufu Ribadu, Executive Secretary of the NUC—said NOUN is helping bridge the gap between the millions of Nigerians seeking admission and the limited spaces in conventional universities.</p>
+      <br>
+      <h3>A Growing Admission Gap</h3>
+      <p>Each year, over two million candidates sit for the JAMB examination, but only a fraction secure admission. Tinubu’s message was clear: Nigeria needs flexible learning models that can accommodate more people without compromising academic standards. NOUN has proven that this is possible.</p>
+      <br>
+      <h3>Education Without Barriers</h3>
+      <p>NOUN’s model opens doors for groups often excluded from traditional campus-based education, including:</p>
+      <ul>
+        <li>Working professionals</li>
+        <li>Women balancing family responsibilities</li>
+        <li>Entrepreneurs and security personnel</li>
+        <li>Individuals limited by location or personal circumstances</li>
+        <li>Inmates within the Nigerian Correctional Service</li>
+      </ul>
+      <br>
+      <h3>Graduation Highlights from the 15th Convocation</h3>
+      <p>The ceremony showcased the university’s scale, with over 24,000 students graduating. The breakdown includes:</p>
+      <ul>
+        <li><strong>17,474</strong> undergraduate degree holders</li>
+        <li><strong>1,788</strong> postgraduate diploma recipients</li>
+        <li><strong>5,282</strong> master’s degree graduates</li>
+        <li><strong>31</strong> doctoral degree awardees</li>
+      </ul>
+      <p>Among them were <strong>57 First Class graduates</strong>, as well as <strong>57 inmates</strong> who earned first degrees through NOUN’s correctional education programme.</p>
+      <br>
+      <h3>Digital Growth and Infrastructure</h3>
+      <p>Vice-Chancellor Uduma Oji Uduma unveiled the university’s five-year strategic plan (2026–2031). Key highlights include:</p>
+      <ul>
+        <li>University systems now hosted on <strong>Amazon Web Services (AWS)</strong>.</li>
+        <li>Operating the largest Moodle-based learning management system in West Africa.</li>
+        <li>Serving over 180,000 active users with more than 2,000 courses each semester.</li>
+      </ul>
+      <br>
+      <h3>Call for Inclusion in NYSC</h3>
+      <p>The Chancellor of NOUN and Oba of Benin, Oba Ewuare II, used the occasion to call for the removal of restrictions preventing eligible NOUN graduates from participating in the National Youth Service Corps (NYSC), advocating for equal recognition for distance learning graduates.</p>
+      <br>
+      <h3>Conclusion</h3>
+      <p>The themes of <strong>access</strong> and <strong>scale</strong> defined this convocation. Tinubu’s remarks positioned NOUN as a viable solution to Nigeria’s admission challenges, signaling a major shift toward more inclusive and flexible learning pathways in the national education system.</p>`,
+    tags: [
+      "NOUN",
+      "Tinubu",
+      "Education",
+      "Admission",
+      "Nigeria",
+      "NYSC",
+    ],
+  },
+  {
+    id: "unizik-postgraduate-admissions-2026-2027",
+    title: "UNIZIK Opens 2026/2027 Postgraduate Admissions: Requirements and How to Apply",
+    category: "Education",
+    date: "2026-04-18",
+    excerpt: "Nnamdi Azikiwe University (UNIZIK) has opened applications for its 2026/2027 postgraduate programmes. Learn about available courses, fees, and the transcript submission process.",
+    content:
+      `<h2>UNIZIK Opens 2026/2027 Postgraduate Admissions</h2>
+      <p>The College of Postgraduate Studies at Nnamdi Azikiwe University (UNIZIK) has officially opened applications for the 2026/2027 academic session, offering a range of postgraduate programmes across Full-Time, Part-Time, and Online study modes.</p>
+      <p>If you’re planning to apply, this is one admission process where details matter. From application fees to deadlines and transcript submission, missing a step could affect your chances.</p>
+      <br>
+      <h3>Available Programmes and Application Fees</h3>
+      <p>UNIZIK has outlined the application fees based on programme level. It’s important to confirm your intended course before making payment, as the fee differs at the PhD stage:</p>
+      <ul>
+        <li><strong>Postgraduate Diploma (PGD):</strong> N25,000</li>
+        <li><strong>Master’s Degree:</strong> N25,000</li>
+        <li><strong>Master of Philosophy (MPhil) / PhD:</strong> N25,000</li>
+        <li><strong>Doctor of Philosophy (PhD):</strong> N50,000</li>
+      </ul>
+      <p>Make sure you select the correct category when applying to avoid complications later.</p>
+      <br>
+      <h3>Key Application Dates</h3>
+      <p>The university has already released the full schedule for the admission process. Applicants should take note of the following deadlines:</p>
+      <ul>
+        <li><strong>Commencement of form sales:</strong> 15 April 2026</li>
+        <li><strong>Application deadline:</strong> 8 September 2026</li>
+        <li><strong>Final submission (all modes):</strong> 11 September 2026</li>
+      </ul>
+      <p>While the deadline for completing applications is 8 September, all submissions—regardless of study mode—must be finalised by 11 September 2026.</p>
+      <br>
+      <h3>Transcript Submission Guidelines</h3>
+      <p>Every applicant is required to submit their academic transcripts to the Secretary, College of Postgraduate Studies on or before <strong>11 September 2026</strong>.</p>
+      <p>UNIZIK accepts both hard copy and soft copy transcripts. For those choosing the soft copy option, transcripts must be sent directly from official institutional email addresses to: <a href="mailto:secdr_transcript.cpgs@unizik.edu.ng">secdr_transcript.cpgs@unizik.edu.ng</a></p>
+      <br>
+      <h3>Special Requirements for PhD Applicants</h3>
+      <p>Candidates applying for PhD programmes have additional steps to complete:</p>
+      <ul>
+        <li>Submit a <strong>typed research proposal</strong> (not more than five pages) via the application portal.</li>
+        <li>Prepare for a <strong>virtual proposal defence</strong>, with the schedule to be announced later by the university.</li>
+      </ul>
+      <br>
+      <h3>How to Apply</h3>
+      <p>Interested candidates should begin their application through the UNIZIK postgraduate portal. Ensure that you complete your application within the specified timeframe and all required documents are uploaded correctly.</p>
+      <p>With the application window already open, prospective students are advised to act promptly and carefully follow all instructions to avoid delays in admission.</p>`,
+    tags: [
+      "UNIZIK",
+      "Postgraduate",
+      "Admission",
+      "2026/2027",
+      "Education",
+      "Nigeria",
+    ],
+  },
+  {
     id: "waec-2026-timetable-nigeria-full-schedule",
     title: "WAEC 2026 Timetable for Nigeria: Full Schedule, Dates & Times",
     category: "Education",

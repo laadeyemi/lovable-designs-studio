@@ -10,6 +10,115 @@ export type Post = {
 
 const allPosts: Post[] = [
   {
+    id: "nwu-kano-new-programmes-approval-2026",
+    title: "Northwest University Kano Receives NUC Approval for New Academic Programmes",
+    category: "Education",
+    date: "2026-04-21",
+    excerpt: "Northwest University, Kano, has secured NUC approval to establish several new undergraduate and postgraduate programmes starting from the 2026/2027 academic session.",
+    content:
+      `<h2>Academic Expansion: NUC Approves New Courses for NWU Kano</h2>
+      <p>Northwest University, Kano, has received approval from the National Universities Commission (NUC) to establish more academic programmes after a successful resource assessment and verification exercise.</p>
+      <p>The Vice-Chancellor, Professor Amina Salihi Bayero, informed members of the university community and the general public of the approval. The official communication confirms that the Executive Secretary of the Commission approved the full-time mode of these programmes at the Main Campus starting from the <strong>2026/2027 academic session</strong>.</p>
+      <br>
+      <h3>Newly Approved Undergraduate Programmes</h3>
+      <p>The undergraduate expansion includes specialized courses in physics, media, and geophysics:</p>
+      <ul>
+        <li>B.Sc Physics with Electronics</li>
+        <li>B.Sc Industrial Physics</li>
+        <li>B.Sc Broadcasting</li>
+        <li>B.Sc Development and Communication Studies</li>
+        <li>B.Sc Information and Media Studies</li>
+        <li>B.Sc Journalism and Media Studies</li>
+        <li>B.Sc Applied Geophysics</li>
+      </ul>
+      <br>
+      <h3>Newly Approved Postgraduate Programmes</h3>
+      <p>The university is also expanding its advanced degree offerings in education:</p>
+      <ul>
+        <li>M.Ed Philosophy of Education</li>
+        <li>Ph.D Philosophy of Education</li>
+      </ul>
+      <br>
+      <h3>Why the Approval Was Granted</h3>
+      <p>The approval came after a thorough resource assessment and verification exercise. A panel of experts examined the human and material resources available to ensure a smooth take-off for these proposed programmes. The review confirmed that the university is well-equipped to maintain academic standards for these new additions.</p>
+      <br>
+      <h3>Commitment to Academic Growth</h3>
+      <p>Professor Amina Salihi Bayero stated that the approval stands as one of the key achievements recorded within her first months in office as Vice-Chancellor. She emphasized that this development reflects her administration’s commitment to academic expansion and alignment with global best practices.</p>
+      <p>The university will continue to strengthen its human and material resources to ensure the continued growth and high standards of these programmes.</p>
+      <br>
+      <h3>What This Means for Applicants</h3>
+      <p>From the 2026/2027 academic session, Northwest University, Kano, will run these newly approved programmes in full-time mode at the Main Campus. For prospective students and researchers, this update provides a significantly wider range of specialized course options at both undergraduate and postgraduate levels.</p>`,
+    tags: [
+      "NWU",
+      "Kano",
+      "NUC",
+      "Admission",
+      "Undergraduate",
+      "Postgraduate",
+      "2026",
+    ],
+  },
+  {
+    id: "unijos-long-vacation-part-time-degree-2026",
+    title: "UNIJOS Part-Time Degree Admission 2026: Requirements and Application Guide",
+    category: "Education",
+    date: "2026-04-21",
+    excerpt: "The University of Jos (UNIJOS), in collaboration with FUEP, has opened applications for its 2026 long vacation part-time degree programme. Learn about available courses and how to apply.",
+    content:
+      `<h2>UNIJOS Long Vacation Part-Time Degree Programme 2026</h2>
+      <p>The Institute of Education, University of Jos, in collaboration with the Federal University of Education, Pankshin Study Centre, has opened applications for its 2026 long vacation part-time degree programme.</p>
+      <p>Designed for flexibility, the programme runs across <strong>four to five long vacation periods</strong>, making it a practical option for candidates balancing work or other commitments. The university has clearly outlined the available courses, entry routes, application steps, and deadline—giving applicants a straightforward path to plan their admission.</p>
+      <br>
+      <h3>Available Degree Programmes</h3>
+      <p>Applicants can choose from a wide range of education and specialised courses, including:</p>
+      <ul>
+        <li>B.Ed Educational Management, B.Ed Adult and Continuing Education</li>
+        <li>B.Sc.Ed Economics, B.A.Ed English, B.Ed Guidance and Counselling</li>
+        <li>B.A.Ed History and International Studies, B.Sc.Ed Geography</li>
+        <li>B.A.Ed Religion (CRS), B.Sc.Ed Social Studies, B.Sc.Ed Home Economics</li>
+        <li>B.Sc.Ed Integrated Science, B.Sc.Ed Mathematics, B.Sc.Ed Chemistry</li>
+        <li>B.Sc.Ed Biology, B.Sc.Ed Special Education, B.Ed Early Childhood Education</li>
+        <li>BLIS Library Science, B.Sc.Ed Physical and Health Education</li>
+        <li>B.A.Ed French, B.Sc.Ed Computer Science</li>
+      </ul>
+      <br>
+      <h3>Admission Requirements</h3>
+      <p>Entry requirements vary depending on the applicant’s qualifications:</p>
+      <h4>For NCE/Diploma Holders</h4>
+      <p>Candidates applying for degree programmes must possess a <strong>good NCE or Diploma</strong> in a relevant field with at least <strong>Lower Credit</strong>. Additionally, candidates with five SSCE credits, including Mathematics and English, may apply through Direct Entry (Contact II).</p>
+      <h4>For WAEC, NECO, and NABTEB Candidates</h4>
+      <p>Applicants with at least <strong>five credits</strong>, including Mathematics and English, can apply through <strong>Contact One</strong>.</p>
+      <br>
+      <h3>Step-by-Step Application Process</h3>
+      <ol>
+        <li><strong>Register with JAMB:</strong> Applicants must register for the part-time programme through JAMB at any accredited office or CBT centre. <strong>Important:</strong> During registration, candidates must select <strong>University of Jos</strong>, not the Federal University of Education, Pankshin.</li>
+        <li><strong>Visit the FUEP Ventures Office:</strong> After JAMB registration, proceed to the VENTURES office at FUEP Pankshin with proof of registration. The application fee is <strong>N8,000</strong>.</li>
+        <li><strong>Complete and Submit:</strong> Fill out the form and attach photocopies of your JAMB registration printout, VENTURES payment receipt, and academic credentials.</li>
+      </ol>
+      <br>
+      <h3>Important Document Note</h3>
+      <p>Applications <strong>will not be processed</strong> without complete documentation. Missing even a single required document—especially the JAMB printout—can lead to disqualification.</p>
+      <br>
+      <h3>Application Deadline</h3>
+      <p>All completed application forms must be submitted on or before: <strong>Friday, 19 June 2026</strong>. Note that change of course will not be allowed after admission.</p>
+      <br>
+      <h3>Enquiries</h3>
+      <p>For further information, applicants can contact:</p>
+      <ul>
+        <li>0806 973 9912</li>
+        <li>0802 292 4691</li>
+      </ul>
+      <p>Acting early, following instructions carefully, and submitting complete documents will be key to a successful application.</p>`,
+    tags: [
+      "UNIJOS",
+      "Admission",
+      "Education",
+      "Part-time",
+      "2026",
+      "Nigeria",
+    ],
+  },
+  {
     id: "how-to-delegate-effectively-guide",
     title: "How to Delegate Tasks Effectively as an Entrepreneur: A Guide to Outsourcing and Delegation",
     category: "Business",

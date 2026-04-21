@@ -10,6 +10,60 @@ export type Post = {
 
 const allPosts: Post[] = [
   {
+    id: "ptdf-scholarship-unilag-2025-2026",
+    title: "PTDF In-Country Scholarship 2025/2026 for UNILAG Students: Application Guide",
+    category: "Education",
+    date: "2026-04-21",
+    excerpt: "The Petroleum Technology Development Fund (PTDF) is offering scholarships to UNILAG students in oil and gas disciplines for the 2025/2026 session. Apply by May 29, 2026.",
+    content:
+      `<h2>PTDF In-Country Scholarship Scheme 2025/2026</h2>
+      <p>Undergraduate and postgraduate students of University of Lagos (UNILAG) studying oil and gas-related disciplines have been invited to apply for the 2025/2026 In-Country Scholarship Scheme offered by the Petroleum Technology Development Fund (PTDF).</p>
+      <p>The scholarship is part of PTDF’s broader mandate to develop human capacity for Nigeria’s oil and gas industry, supporting qualified students pursuing relevant programmes within the country.</p>
+      <br>
+      <h3>Who Can Apply?</h3>
+      <p>The opportunity is open to qualified Nigerians already studying in fields connected to the energy sector, specifically:</p>
+      <ul>
+        <li>Undergraduate students of UNILAG</li>
+        <li>Postgraduate students of UNILAG</li>
+        <li>Students in oil and gas-related disciplines</li>
+      </ul>
+      <br>
+      <h3>Application Timeline</h3>
+      <p>Applicants should pay close attention to the timeline, as the window is fixed:</p>
+      <ul>
+        <li><strong>Opening date:</strong> Monday, 20 April 2026</li>
+        <li><strong>Closing date:</strong> Friday, 29 May 2026</li>
+      </ul>
+      <p>This provides a <strong>six-week application period</strong>. Candidates are encouraged to apply early to avoid last-minute errors or technical issues that often arise near deadlines.</p>
+      <br>
+      <h3>How to Apply</h3>
+      <p>All applications must be completed online through the official PTDF scholarship portal. Candidates are expected to:</p>
+      <ul>
+        <li>Fill in accurate personal and academic details.</li>
+        <li>Upload all required documents.</li>
+        <li>Submit the application before the closing date.</li>
+      </ul>
+      <p>Note: Incomplete or late submissions will not be considered.</p>
+      <br>
+      <h3>Key Things to Keep in Mind</h3>
+      <p>Success in scholarship applications often comes down to attention to detail. Applicants should start the process early, double-check all entries and uploads, and ensure they meet all eligibility requirements before hitting submit.</p>
+      <br>
+      <h3>Why This Scholarship Matters</h3>
+      <p>The PTDF In-Country Scholarship Scheme offers more than financial support—it provides a pathway for students to strengthen their academic journey and build careers in Nigeria’s oil and gas sector. For UNILAG students, this is a direct opportunity to gain support while staying within the country’s education system.</p>
+      <br>
+      <h3>Final Note</h3>
+      <p>Applications are open until <strong>29 May 2026</strong>. Eligible UNILAG students are encouraged to take advantage of this opportunity and complete their submissions well before the deadline to ensure they are considered.</p>`,
+    tags: [
+      "PTDF",
+      "UNILAG",
+      "Scholarship",
+      "Oil and Gas",
+      "Education",
+      "Nigeria",
+      "2026",
+    ],
+  },
+  {
     id: "nwu-kano-new-programmes-approval-2026",
     title: "Northwest University Kano Receives NUC Approval for New Academic Programmes",
     category: "Education",

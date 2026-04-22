@@ -10,6 +10,223 @@ export type Post = {
 
 const allPosts: Post[] = [
   {
+    id: "kariyoma-college-of-nursing-sciences-admission-requirements-2026-2027",
+    title: "Kariyoma College of Nursing Sciences Admission Requirements 2026/2027",
+    category: "Education",
+    date: "2026-04-22",
+    excerpt: "Kariyoma College of Nursing Sciences has outlined the key admission requirements for the 2026/2027 academic session, including a JAMB cut-off mark of 140.",
+    content:
+      `<h2>Admission Requirements for 2026/2027 Academic Session</h2>
+      <p>Kariyoma College of Nursing Sciences has outlined the key admission requirements for the <strong>2026/2027 academic session</strong>, giving prospective applicants a clear idea of what is expected before the admission form goes on sale.</p>
+      <p>For candidates planning ahead, the college has already specified the required <strong>JAMB score, subject combination, and O’Level results</strong>—all of which must be met before applying.</p>
+      <br>
+      <h3>JAMB Cut-Off Mark for 2026/2027</h3>
+      <p>One of the most important details for applicants is the minimum score requirement. The college has set its <strong>JAMB cut-off mark at 140</strong> for the 2026/2027 admission cycle. Candidates scoring below this threshold will not be considered.</p>
+      <br>
+      <h3>Required JAMB Subject Combination</h3>
+      <p>Applicants are expected to sit for the correct subjects in the Joint Admissions and Matriculation Board (JAMB) examination. The approved combination includes:</p>
+      <ul>
+        <li>English Language</li>
+        <li>Biology</li>
+        <li>Chemistry</li>
+        <li>Physics</li>
+      </ul>
+      <p>Choosing the right subjects is essential, as incorrect combinations can affect admission eligibility.</p>
+      <br>
+      <h3>First Choice Requirement</h3>
+      <p>Kariyoma College of Nursing Sciences must be selected as the <strong>first choice institution</strong> during JAMB registration. This is a strict condition. Candidates who do not choose the college as their first choice may not be considered for admission.</p>
+      <br>
+      <h3>O’Level Requirements</h3>
+      <p>Applicants must also meet the required O’Level criteria. This includes <strong>at least five credit passes</strong> in the following subjects:</p>
+      <ul>
+        <li>Mathematics</li>
+        <li>English Language</li>
+        <li>Biology</li>
+        <li>Physics</li>
+        <li>Chemistry</li>
+      </ul>
+      <p>These core science subjects form the foundation for admission into the nursing programme.</p>
+      <br>
+      <h3>Admission Form Status</h3>
+      <p>At the moment, the admission form is <strong>not yet on sale</strong>. The college has stated that sales will be announced later through its official communication channels, including social media platforms. Applicants are advised to stay updated and be ready once the form becomes available.</p>
+      <br>
+      <h3>Final Note</h3>
+      <p>With the requirements already released, prospective students now have time to prepare. Meeting these conditions early will make the application process smoother once the admission form is officially released.</p>`,
+    tags: ["Kariyoma College", "Nursing", "Admission", "2026/2027", "JAMB", "Education"],
+  },
+  {
+    id: "ecohsat-admission-form-2026-2027",
+    title: "Emirates College of Health Sciences and Technology (ECOHSAT) Admission 2026/2027",
+    category: "Education",
+    date: "2026-04-22",
+    excerpt: "Emirates College of Health Sciences and Technology (ECOHSAT) has announced the sale of admission forms for the 2026/2027 academic session across ND, HND, and BSc programmes.",
+    content:
+      `<h2>ECOHSAT Admission for 2026/2027 Academic Session</h2>
+      <p>Emirates College of Health Sciences and Technology (ECOHSAT) has announced the sale of admission forms for the <strong>2026/2027 academic session</strong>, inviting qualified candidates to apply for its wide range of health-related programmes.</p>
+      <p>The institution offers multiple study pathways, including <strong>Professional Diploma, National Diploma (ND), Higher National Diploma (HND), Bachelor’s degree (BSc), and Remedial programmes</strong>, giving applicants flexible entry options depending on their qualifications.</p>
+      <br>
+      <h3>Available Programmes</h3>
+      <p>ECOHSAT has opened applications across several disciplines in the health sciences field:</p>
+      <p><strong>Professional Diploma Programme:</strong></p>
+      <ul>
+        <li>Community Health Extension Worker (CHEW)</li>
+      </ul>
+      <p><strong>National Diploma (ND) and Higher National Diploma (HND):</strong></p>
+      <ul>
+        <li>Medical Laboratory Technology (MLT)</li>
+        <li>Pharmacy Technician (PT)</li>
+        <li>Nutrition and Dietetics (NUD)</li>
+        <li>Dental Therapy (DT)</li>
+        <li>Health Information Management (HIM)</li>
+        <li>Community Health (CH)</li>
+        <li>Public Health Technology</li>
+      </ul>
+      <p><strong>BSc Programmes:</strong></p>
+      <ul>
+        <li>BSc Public Health</li>
+        <li>Bachelor of Community Health Science (BCHS)</li>
+        <li>Bachelor of Environmental Health Science (BEHS)</li>
+        <li>Bachelor of Health Information Management (BHIM)</li>
+      </ul>
+      <p><strong>General and Allied Remedial Science:</strong></p>
+      <ul>
+        <li>Remedial Basic Science</li>
+      </ul>
+      <br>
+      <h3>What the College Offers</h3>
+      <p>Students can expect accredited and industry-relevant programmes with a strong emphasis on practical exposure and academic excellence. The campus features modern training facilities, dedicated lecturers, campus-wide internet access, and secure hostel accommodation.</p>
+      <br>
+      <h3>How to Apply & Contact Information</h3>
+      <p>Interested candidates can reach out to the college through the following channels:</p>
+      <ul>
+        <li><strong>Phone:</strong> 07074444487, 07074444489, 07074444485</li>
+        <li><strong>WhatsApp:</strong> 07074444486</li>
+        <li><strong>Email:</strong> <a href="mailto:info@ecohsat.edu.ng">info@ecohsat.edu.ng</a></li>
+        <li><strong>Address:</strong> Kobuga Satellite Town, Behind Andal Science Academy, Tudun Yola, Kano</li>
+      </ul>
+      <p>Applicants are encouraged to visit the official ECOHSAT website for further details and updates on the admission process.</p>
+      <br>
+      <h3>Final Note</h3>
+      <p>With forms already on sale, prospective students looking to build a career in the health sector should consider applying early. ECOHSAT’s mix of diploma, degree, and remedial options provides multiple entry points into the healthcare field for the 2026/2027 academic session.</p>`,
+    tags: ["ECOHSAT", "Admission", "Health Sciences", "2026/2027", "Kano", "Education"],
+  },
+  {
+    id: "ptdf-in-country-scholarship-scheme-2025-2026",
+    title: "PTDF 2025/2026 In-Country Scholarship Scheme: Official Application Guide",
+    category: "Education",
+    date: "2026-04-20",
+    excerpt: "The Petroleum Technology Development Fund (PTDF) has officially opened applications for its 2025/2026 In-Country Scholarship Scheme for Nigerian students in oil and gas disciplines.",
+    content:
+      `<h2>2025/2026 PTDF In-Country Scholarship Scheme</h2>
+      <p>The Petroleum Technology Development Fund (PTDF) has officially opened applications for its <strong>2025/2026 In-Country Scholarship Scheme</strong>, offering support to qualified Nigerian students pursuing studies in oil and gas-related disciplines.</p>
+      <p>This annual scholarship is part of PTDF’s mission to build skilled manpower for Nigeria’s energy sector, and it remains one of the key funding opportunities for students in relevant fields across the country.</p>
+      <br>
+      <h3>Application Timeline</h3>
+      <p>The application window is already open and will run for six weeks. Interested candidates should take note of the fixed dates:</p>
+      <ul>
+        <li><strong>Opening date:</strong> Monday, 20 April 2026</li>
+        <li><strong>Closing date:</strong> Friday, 29 May 2026</li>
+      </ul>
+      <p>Applicants are expected to complete and submit their entries within this period, as late applications will not be accepted.</p>
+      <br>
+      <h3>Who Can Apply?</h3>
+      <p>PTDF is inviting applications from:</p>
+      <ul>
+        <li><strong>Undergraduate students</strong></li>
+        <li><strong>Postgraduate students</strong></li>
+        <li><strong>Candidates in oil and gas-related disciplines</strong></li>
+      </ul>
+      <p>The scheme is strictly for qualified Nigerian students enrolled in relevant academic programmes within the country.</p>
+      <br>
+      <h3>What the Scholarship Covers</h3>
+      <p>The PTDF In-Country Scholarship supports both undergraduate and postgraduate studies in approved fields linked to the oil and gas industry.</p>
+      <p>According to PTDF, the initiative is designed to strengthen human capacity and ensure the development of skilled professionals who can contribute to Nigeria’s energy sector.</p>
+      <p>For eligible students, this scholarship provides a structured pathway to advance their education without leaving the country.</p>
+      <br>
+      <h3>How to Apply</h3>
+      <p>Applications must be submitted online through the official PTDF scholarship portal. To apply successfully, candidates should:</p>
+      <ul>
+        <li>Complete the online application form</li>
+        <li>Provide accurate academic and personal information</li>
+        <li>Upload all required documents</li>
+        <li>Submit before the deadline</li>
+      </ul>
+      <p>Starting early is strongly advised, as it allows enough time to correct errors and avoid last-minute issues.</p>
+      <br>
+      <h3>Why This Opportunity Matters</h3>
+      <p>With increasing competition in higher education funding, the PTDF scholarship stands out as a focused intervention for students in oil and gas-related disciplines. It not only provides financial support but also aligns with national priorities in energy development and capacity building.</p>
+      <br>
+      <h3>Final Note</h3>
+      <p>The <strong>2025/2026 PTDF In-Country Scholarship Scheme</strong> is open from <strong>20 April to 29 May 2026</strong>. Eligible Nigerian students are encouraged to apply as soon as possible. The six-week window is fixed, and early submission can make the difference between a complete application and a missed opportunity.</p>`,
+    tags: [
+      "PTDF",
+      "Scholarship",
+      "Oil and Gas",
+      "Energy Sector",
+      "Education",
+      "Nigeria",
+      "2026",
+    ],
+  },
+  {
+    id: "ptdf-in-country-scholarship-scheme-2025-2026",
+    title: "PTDF 2025/2026 In-Country Scholarship Scheme: Official Application Guide",
+    category: "Education",
+    date: "2026-04-20",
+    excerpt: "The Petroleum Technology Development Fund (PTDF) has officially opened applications for its 2025/2026 In-Country Scholarship Scheme for Nigerian students in oil and gas disciplines.",
+    content:
+      `<h2>2025/2026 PTDF In-Country Scholarship Scheme</h2>
+      <p>The Petroleum Technology Development Fund (PTDF) has officially opened applications for its <strong>2025/2026 In-Country Scholarship Scheme</strong>, offering support to qualified Nigerian students pursuing studies in oil and gas-related disciplines.</p>
+      <p>This annual scholarship is part of PTDF’s mission to build skilled manpower for Nigeria’s energy sector, and it remains one of the key funding opportunities for students in relevant fields across the country.</p>
+      <br>
+      <h3>Application Timeline</h3>
+      <p>The application window is already open and will run for six weeks. Interested candidates should take note of the fixed dates:</p>
+      <ul>
+        <li><strong>Opening date:</strong> Monday, 20 April 2026</li>
+        <li><strong>Closing date:</strong> Friday, 29 May 2026</li>
+      </ul>
+      <p>Applicants are expected to complete and submit their entries within this period, as late applications will not be accepted.</p>
+      <br>
+      <h3>Who Can Apply?</h3>
+      <p>PTDF is inviting applications from:</p>
+      <ul>
+        <li><strong>Undergraduate students</strong></li>
+        <li><strong>Postgraduate students</strong></li>
+        <li><strong>Candidates in oil and gas-related disciplines</strong></li>
+      </ul>
+      <p>The scheme is strictly for qualified Nigerian students enrolled in relevant academic programmes within the country.</p>
+      <br>
+      <h3>What the Scholarship Covers</h3>
+      <p>The PTDF In-Country Scholarship supports both undergraduate and postgraduate studies in approved fields linked to the oil and gas industry.</p>
+      <p>According to PTDF, the initiative is designed to strengthen human capacity and ensure the development of skilled professionals who can contribute to Nigeria’s energy sector.</p>
+      <p>For eligible students, this scholarship provides a structured pathway to advance their education without leaving the country.</p>
+      <br>
+      <h3>How to Apply</h3>
+      <p>Applications must be submitted online through the official PTDF scholarship portal. To apply successfully, candidates should:</p>
+      <ul>
+        <li>Complete the online application form</li>
+        <li>Provide accurate academic and personal information</li>
+        <li>Upload all required documents</li>
+        <li>Submit before the deadline</li>
+      </ul>
+      <p>Starting early is strongly advised, as it allows enough time to correct errors and avoid last-minute issues.</p>
+      <br>
+      <h3>Why This Opportunity Matters</h3>
+      <p>With increasing competition in higher education funding, the PTDF scholarship stands out as a focused intervention for students in oil and gas-related disciplines. It not only provides financial support but also aligns with national priorities in energy development and capacity building.</p>
+      <br>
+      <h3>Final Note</h3>
+      <p>The <strong>2025/2026 PTDF In-Country Scholarship Scheme</strong> is open from <strong>20 April to 29 May 2026</strong>. Eligible Nigerian students are encouraged to apply as soon as possible. The six-week window is fixed, and early submission can make the difference between a complete application and a missed opportunity.</p>`,
+    tags: [
+      "PTDF",
+      "Scholarship",
+      "Oil and Gas",
+      "Energy Sector",
+      "Education",
+      "Nigeria",
+      "2026",
+    ],
+  },
+  {
     id: "ptdf-scholarship-unilag-2025-2026",
     title: "PTDF In-Country Scholarship 2025/2026 for UNILAG Students: Application Guide",
     category: "Education",

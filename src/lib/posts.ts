@@ -10,6 +10,237 @@ export type Post = {
 
 const allPosts: Post[] = [
   {
+    id: "buk-academic-calendar-2025-2026",
+    title: "BUK Releases Proposed 2025/2026 Undergraduate Academic Calendar",
+    category: "Education",
+    date: "2026-04-23",
+    excerpt: "Bayero University Kano (BUK) has presented a reviewed undergraduate academic calendar for the 2025/2026 session, outlining key academic activities from screening to examinations.",
+    content:
+      `<h2>BUK Releases Proposed 2025/2026 Undergraduate Academic Calendar</h2>
+      <p>Bayero University Kano (BUK) has presented a reviewed undergraduate academic calendar for the <strong>2025/2026 session</strong>.</p>
+      <p>The draft timetable, submitted to the Senate for consideration and approval, outlines key academic activities including screening, registration, lectures, examinations, and breaks. The schedule is structured to run through the full academic cycle, ending with the commencement of a new session in February 2027.</p>
+      <br>
+      <h3>Overview of the Academic Schedule</h3>
+      <p>The proposed calendar begins with online screening for newly admitted students in March 2026. It then progresses through registration phases for both fresh and returning students, followed by first and second semester academic activities.</p>
+      <p>The session is expected to conclude with an eight-week break before a new academic session begins on <strong>Monday, 15 February 2027</strong>.</p>
+      <br>
+      <h3>Fresh Students Screening and Registration</h3>
+      <p>Newly admitted students are scheduled to begin with online screening before proceeding to registration.</p>
+      <ul>
+        <li><strong>Online screening:</strong> Monday, 2 March 2026 – Saturday, 4 April 2026 (5 weeks)</li>
+        <li><strong>Registration (fresh students):</strong> Monday, 30 March 2026 – Saturday, 2 May 2026 (5 weeks)</li>
+      </ul>
+      <p>Returning students also have a dedicated registration window:</p>
+      <ul>
+        <li><strong>Registration (returning students):</strong> Monday, 4 May 2026 – Saturday, 16 May 2026 (2 weeks)</li>
+      </ul>
+      <br>
+      <h3>First Semester Activities</h3>
+      <p>The first semester is structured to accommodate lectures, examinations, and a short break.</p>
+      <ul>
+        <li><strong>Lectures:</strong> Monday, 18 May 2026 – Saturday, 8 August 2026 (12 weeks)</li>
+        <li><strong>GSP Examinations:</strong> Monday, 3 August 2026 – Saturday, 8 August 2026 (1 week)</li>
+        <li><strong>Main Examinations:</strong> Monday, 10 August 2026 – Saturday, 29 August 2026 (3 weeks)</li>
+        <li><strong>Break:</strong> Monday, 31 August 2026 – Saturday, 5 September 2026 (1 week)</li>
+      </ul>
+      <br>
+      <h3>Second Semester Activities</h3>
+      <p>The second semester follows a similar structure with lectures and examinations.</p>
+      <ul>
+        <li><strong>Lectures:</strong> Monday, 7 September 2026 – Saturday, 28 November 2026 (12 weeks)</li>
+        <li><strong>GSP Examinations:</strong> Monday, 23 November 2026 – Saturday, 28 November 2026 (1 week)</li>
+        <li><strong>Main Examinations:</strong> Monday, 30 November 2026 – Saturday, 19 December 2026 (3 weeks)</li>
+      </ul>
+      <br>
+      <h3>End-of-Session Break and New Session</h3>
+      <p>At the end of the second semester examinations, students proceed on a long break.</p>
+      <ul>
+        <li><strong>End-of-session break:</strong> Monday, 21 December 2026 – Saturday, 13 February 2027 (8 weeks)</li>
+      </ul>
+      <p>The next academic session is scheduled to begin on:</p>
+      <ul>
+        <li><strong>Monday, 15 February 2027</strong></li>
+      </ul>
+      <br>
+      <h3>Full Calendar at a Glance</h3>
+      <p>For quick reference, here is the complete proposed schedule:</p>
+      <ul>
+        <li>2 March – 4 April 2026: Online screening (fresh students)</li>
+        <li>30 March – 2 May 2026: Registration (fresh students)</li>
+        <li>4 May – 16 May 2026: Registration (returning students)</li>
+        <li>18 May – 8 August 2026: First semester lectures</li>
+        <li>3 August – 8 August 2026: GSP first semester exams</li>
+        <li>10 August – 29 August 2026: First semester exams</li>
+        <li>31 August – 5 September 2026: First semester break</li>
+        <li>7 September – 28 November 2026: Second semester lectures</li>
+        <li>23 November – 28 November 2026: GSP second semester exams</li>
+        <li>30 November – 19 December 2026: Second semester exams</li>
+        <li>21 December 2026 – 13 February 2027: End-of-session break</li>
+        <li>15 February 2027: New session begins</li>
+      </ul>
+      <br>
+      <p>The proposed calendar provides a clear and structured academic timeline for students and staff, pending final approval by the university Senate.</p>`,
+    tags: ["BUK", "Bayero University Kano", "Academic Calendar", "2025/2026", "Education", "Nigeria"],
+  },
+  {
+    id: "fubk-nuc-accreditation-11-programmes",
+    title: "FUBK Secures Full NUC Accreditation for 11 Academic Programmes",
+    category: "Education",
+    date: "2026-04-23",
+    excerpt: "Federal University Birnin Kebbi (FUBK) has achieved full NUC accreditation for 11 of its academic programmes, covering both undergraduate and postgraduate levels.",
+    content:
+      `<h2>FUBK Secures Full NUC Accreditation for 11 Academic Programmes</h2>
+      <p>Federal University Birnin Kebbi (FUBK) has recorded a major academic milestone as the National Universities Commission (NUC) granted <strong>full accreditation</strong> to 11 of its programmes.</p>
+      <p>The accreditation followed the commission’s October/November 2025 exercise and was officially communicated in a letter dated April 7, 2026. The letter, signed by the NUC Director of Accreditation, Engr. Abraham Chundusu, conveyed the results on behalf of the Executive Secretary.</p>
+      <p>The update was disclosed in a statement issued by the university’s Head of Information and Public Relations, Mr Jamilu Magaji, to journalists in Birnin Kebbi.</p>
+      <br>
+      <h3>Accreditation Covers Undergraduate and Postgraduate Programmes</h3>
+      <p>According to the university, all 11 programmes assessed during the exercise received <strong>full accreditation</strong>, covering both undergraduate and postgraduate levels. This outcome confirms that the programmes meet the academic standards set by the NUC.</p>
+      <br>
+      <h3>Full List of Accredited Programmes</h3>
+      <p>The following programmes were granted full accreditation:</p>
+      <ul>
+        <li>Masters in Accounting</li>
+        <li>M.Sc. Accounting and Finance</li>
+        <li>Accounting</li>
+        <li>English Language</li>
+        <li>Biology</li>
+        <li>Chemistry</li>
+        <li>Geology</li>
+        <li>Industrial Chemistry</li>
+        <li>Microbiology</li>
+        <li>Physics with Electronics</li>
+        <li>Geography</li>
+      </ul>
+      <br>
+      <h3>Vice-Chancellor Reacts</h3>
+      <p>Reacting to the development, the Vice-Chancellor of FUBK, Muhammad Zaiyan-Umar, described the achievement as a reflection of the university’s commitment to academic excellence.</p>
+      <p>He noted that the success was made possible through the combined efforts of academic and administrative staff, as well as the support of the university’s Governing Council and students.</p>
+      <blockquote>
+        <p>“This success is a reflection of the hard work and dedication of our academic and administrative staff, the support of the University’s Governing Council, and the commitment of our staff and students.</p>
+        <p>We remain focused on building a strong and reputable university that meets global standards.”</p>
+      </blockquote>
+      <br>
+      <h3>What This Means</h3>
+      <p>The accreditation strengthens FUBK’s academic credibility and assures current and prospective students that its programmes align with national quality benchmarks.</p>
+      <p>It also reinforces the university’s position as a growing institution committed to delivering standard, recognised degrees across key fields of study.</p>
+      <br>
+      <p>With this achievement, Federal University Birnin Kebbi continues to build its reputation within Nigeria’s higher education landscape, particularly in science, management, and humanities programmes.</p>`,
+    tags: [
+      "FUBK",
+      "NUC",
+      "Accreditation",
+      "Education",
+      "Birnin Kebbi",
+      "Undergraduate",
+      "Postgraduate",
+      "2026",
+    ],
+  },
+  {
+    id: "edusoko-university-bida-nuc-accreditation-2025",
+    title: "Edusoko University Bida Secures Full NUC Accreditation for Four Programmes",
+    category: "Education",
+    date: "2026-04-23",
+    excerpt: "Edusoko University Bida has announced the successful outcome of the recent NUC accreditation exercise, achieving a 100% success rate across four key programmes.",
+    content:
+      `<h2>Edusoko University Bida Secures Full NUC Accreditation for Four Programmes</h2>
+      <p>Edusoko University Bida has announced the successful outcome of the recent accreditation exercise conducted by the National Universities Commission (NUC).</p>
+      <p>According to the university, all four programmes assessed during the October and November 2025 accreditation exercise received <strong>full accreditation</strong>, marking a 100 per cent success rate across the board.</p>
+      <br>
+      <h3>Overview of the Accreditation Exercise</h3>
+      <p>The NUC team carried out a comprehensive evaluation of selected academic programmes during its October/November 2025 visit. Following the assessment, the university confirmed that each programme reviewed met the required national standards and was granted full accreditation.</p>
+      <p>This result covers programmes within the fields of Allied Health Sciences and Computing Sciences, reinforcing the institution’s academic standing in both areas.</p>
+      <br>
+      <h3>Accredited Faculties and Programmes</h3>
+      <p>The accreditation outcome spans two faculties:</p>
+      <p><strong>Faculty of Allied Health Sciences</strong></p>
+      <ul>
+        <li>Public Health — Full Accreditation</li>
+      </ul>
+      <p><strong>Faculty of Computing Sciences</strong></p>
+      <ul>
+        <li>Computer Science — Full Accreditation</li>
+        <li>Cyber Security — Full Accreditation</li>
+        <li>Software Engineering — Full Accreditation</li>
+      </ul>
+      <br>
+      <h3>University’s Reaction to the Outcome</h3>
+      <p>In an official statement, the Office of the Registrar, on behalf of the Vice-Chancellor, expressed appreciation to members of the university community for their contributions throughout the accreditation process.</p>
+      <p>The management credited the success to the collective efforts of academic staff, non-academic staff, and students who played roles—directly and indirectly—during the evaluation period.</p>
+      <br>
+      <h3>What This Means for Students and the Institution</h3>
+      <p>The university noted that the accreditation outcome confirms that its curriculum aligns with national academic benchmarks set by the NUC.</p>
+      <p>It also strengthens the institution’s reputation, particularly in the fields of Computing and Health Sciences, positioning it as a credible option for students seeking quality education in these disciplines.</p>
+      <br>
+      <p>With this achievement, Edusoko University Bida reinforces its commitment to maintaining academic standards and delivering recognised, quality programmes in Nigeria’s higher education system.</p>`,
+    tags: [
+      "Edusoko University",
+      "NUC",
+      "Accreditation",
+      "Education",
+      "Bida",
+      "Computing Sciences",
+      "Allied Health Sciences",
+    ],
+  },
+  {
+    id: "immaculate-academy-of-health-technology-chikanda-admission-form-2026-2027",
+    title: "Immaculate Academy of Health Technology Chikanda Releases 2026/2027 Admission Form",
+    category: "Education",
+    date: "2026-04-23",
+    excerpt: "Immaculate Academy of Health Technology Chikanda has officially announced the sale of its admission form for the 2026/2027 academic session across multiple health-related programmes.",
+    content:
+      `<h2>Immaculate Academy of Health Technology Chikanda Admission 2026/2027</h2>
+      <p>Immaculate Academy of Health Technology Chikanda has officially announced the sale of its admission form for the <strong>2026/2027 academic session</strong>, inviting qualified candidates to apply for its range of professional diploma and certificate programmes.</p>
+      <p>The academy is approved by the Kwara State Government and fully accredited by relevant federal regulatory bodies. Prospective students can expect a conducive learning environment, modern training facilities, and instruction from experienced lecturers.</p>
+      <br>
+      <h3>Available Programmes</h3>
+      <p>The academy offers a variety of courses designed to prepare students for careers in the health sector:</p>
+      <p><strong>Diploma Courses:</strong></p>
+      <ul>
+        <li>Diploma in Community Health (CHEW)</li>
+        <li>Diploma in Medical Imaging (X-Ray)</li>
+        <li>Diploma in Pharmacy Technician (DPT)</li>
+        <li>Diploma in Medical Laboratory Technician (DMLT)</li>
+        <li>Diploma in Dispensing Opticianry (DOT)</li>
+      </ul>
+      <p><strong>Certificate Courses:</strong></p>
+      <ul>
+        <li>Certificate in Community Health (JCHEW)</li>
+        <li>Health Assistant Certificate (HA)</li>
+        <li>Public Health Technician Certificate (PHT)</li>
+      </ul>
+      <p><strong>Other Specialised Programmes:</strong></p>
+      <ul>
+        <li>Emergency Paramedics Technicians (EPT)</li>
+        <li>Biomedical Equipment Technician (BET)</li>
+      </ul>
+      <br>
+      <h3>Admission Requirements</h3>
+      <p>Candidates seeking admission must meet the following criteria:</p>
+      <ul>
+        <li><strong>O’Level Requirements:</strong> At least five credit passes in English Language, Mathematics, Biology, Chemistry, and Physics.</li>
+        <li><strong>Number of Sittings:</strong> Results must be obtained in not more than two sittings.</li>
+        <li><strong>No JAMB Required:</strong> Admission into these programmes does <strong>not require</strong> JAMB or Post-UTME.</li>
+      </ul>
+      <p>The institution also prides itself on a stable academic calendar, ensuring students graduate without strike-related delays.</p>
+      <br>
+      <h3>How to Apply</h3>
+      <p>The application form costs <strong>₦7,500</strong>. Interested applicants can obtain the form directly from the <strong>College Admission Office</strong> located in Chikanda, Baruten LGA, Kwara State.</p>
+      <br>
+      <h3>Enquiries and Contact Information</h3>
+      <p>For further details regarding tuition fees, flexible payment plans, or hostel accommodation, you can reach the admissions office via:</p>
+      <ul>
+        <li>07053244590</li>
+        <li>08066968621</li>
+        <li>07035678027</li>
+      </ul>
+      <br>
+      <p>Prospective students are encouraged to apply early to secure their place for the 2026/2027 session.</p>`,
+    tags: ["Immaculate Academy", "Admission", "Health Technology", "2026/2027", "Kwara State", "Education"],
+  },
+  {
     id: "kariyoma-college-of-nursing-sciences-admission-requirements-2026-2027",
     title: "Kariyoma College of Nursing Sciences Admission Requirements 2026/2027",
     category: "Education",

@@ -26,23 +26,23 @@ const Careers = () => {
     <div className="min-h-screen bg-background">
       <AdBanner />
       <Navbar />
-
-      <main className="container mx-auto px-6 pt-40 pb-24">
+
+      <main className="container mx-auto px-4 sm:px-6 pt-20 sm:pt-40 pb-24">
         <header className="max-w-4xl mx-auto text-center mb-12">
-          <h1 className="font-display text-4xl font-bold mb-2">Job Vacancies near you</h1>
-          <p className="text-muted-foreground">Explore third-party job opportunities and take the next step in your career journey. We connect talented professionals with leading companies.</p>
+          <h1 className="font-display text-2xl sm:text-4xl font-bold mb-2">Job Vacancies near you</h1>
+          <p className="text-muted-foreground text-sm sm:text-base">Explore third-party job opportunities and take the next step in your career journey. We connect talented professionals with leading companies.</p>
         </header>
 
-        <div className="max-w-6xl mx-auto space-y-8">
-          <div className="flex items-center justify-between gap-4">
-            <div className="flex gap-2">
-              <select className="rounded-md border border-border px-3 py-2 bg-card" value={location ?? ""} onChange={(e) => setLocation(e.target.value || null)}>
+        <div className="max-w-6xl mx-auto space-y-6 sm:space-y-8">
+          <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between gap-4">
+            <div className="flex flex-col sm:flex-row gap-2 w-full sm:w-auto">
+              <select className="rounded-md border border-border px-3 py-2 bg-card text-sm w-full sm:w-auto" value={location ?? ""} onChange={(e) => setLocation(e.target.value || null)}>
                 <option value="">All locations</option>
                 {locations.map((loc) => (
                   <option key={loc} value={loc}>{loc}</option>
                 ))}
               </select>
-              <select className="rounded-md border border-border px-3 py-2 bg-card" value={type ?? ""} onChange={(e) => setType(e.target.value || null)}>
+              <select className="rounded-md border border-border px-3 py-2 bg-card text-sm w-full sm:w-auto" value={type ?? ""} onChange={(e) => setType(e.target.value || null)}>
                 <option value="">All types</option>
                 {types.map((t) => (
                   <option key={t} value={t}>{t}</option>
@@ -52,9 +52,9 @@ const Careers = () => {
             <div className="text-sm text-muted-foreground">{filtered.length} open role(s)</div>
           </div>
 
-          <section className="grid md:grid-cols-2 gap-6">
+          <section className="grid grid-cols-1 md:grid-cols-2 gap-4 sm:gap-6">
             {filtered.map((job) => (
-  <div key={job.id} className="rounded-2xl border border-border p-6 bg-card">
+  <div key={job.id} className="rounded-2xl border border-border p-4 sm:p-6 bg-card">
     <div className="flex items-start justify-between gap-4">
       <div className="flex-1">
         <div className="flex items-center gap-3 mb-2">

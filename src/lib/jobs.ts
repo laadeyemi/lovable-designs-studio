@@ -15,6 +15,292 @@ export type Job = {
 
 const allJobs: Job[] = [
   {
+    id: "Entry-Level Business Development Officer - Ikeja Amuwo - HRLeverage",
+    title: "Entry-Level Business Development Officer",
+    date: "2026-04-24",
+    location: "Ikeja & Amuwo Odofin, Lagos",
+    type: "Full-time",
+    summary: "Motivated and enthusiastic individual looking to start a career in sales and business development within the Freight & Forwarding industry.",
+    responsibilities: [
+      "Identify and develop new business opportunities within the logistics and freight forwarding market.",
+      "Generate new clients through cold calling, networking and field visits.",
+      "Build and maintain strong relationships with prospective and existing clients.",
+      "Promote the company’s freight forwarding services to potential customers.",
+      "Support in preparing proposals and closing sales deals.",
+      "Provide regular reports on sales activities and market feedback."
+    ],
+    requirements: [
+      "Minimum of OND/HND/BSc in Social Sciences.",
+      "No prior experience required (training will be provided).",
+      "Strong communication and interpersonal skills.",
+      "Willingness to learn and grow in a sales-driven environment.",
+      "Computer literacy."
+    ],
+    apply: 'Interested candidates should send CV to: <a href="mailto:resume@hrleverageafrica.com">resume@hrleverageafrica.com</a> using the job title as subject of the mail.',
+    salary: "100,000 NGN monthly + commission",
+    deadline: "Not Specified"
+  },
+  {
+    id: "Account Officer - Karu Abuja - Globeeasy",
+    title: "Account Officer",
+    date: "2026-04-24",
+    location: "Karu, Abuja (FCT)",
+    type: "Full-time",
+    summary: "Responsible for managing financial records, tracking transactions, and supporting the company’s day-to-day accounting operations.",
+    responsibilities: [
+      "Record daily income and expenses.",
+      "Manage invoices, payments, and receipts.",
+      "Reconcile bank statements.",
+      "Prepare simple financial reports.",
+      "Track outstanding payments and follow up.",
+      "Maintain accurate financial records.",
+      "Ensure compliance with basic accounting standards."
+    ],
+    requirements: [
+      "HND/B.Sc. in Accounting or related field.",
+      "1–2 years experience.",
+      "Basic Excel and accounting knowledge.",
+      "Detail-oriented and trustworthy."
+    ],
+    apply: 'Send CV to: <a href="mailto:globeeasyhr@gmail.com">globeeasyhr@gmail.com</a> using "Account Officer – Karu Abuja" as the subject.',
+    salary: "₦130,000 – ₦150,000",
+    deadline: "1st May 2026"
+  },
+  {
+    id: "Senior Associate Partnership Coverage - Lekki - Starks",
+    title: "Senior Associate, Partnership & Coverage",
+    date: "2026-04-24",
+    location: "Lekki, Lagos",
+    type: "Full-time",
+    seniority: "Mid-Senior",
+    summary: "Mid-senior revenue-generating role responsible for driving client acquisition, managing a strong client portfolio, and supporting strategic partnerships across key markets.",
+    responsibilities: [
+      "Drive client acquisition and maintain a strong pipeline of qualified prospects.",
+      "Own and grow a personal client portfolio, generating transaction volume and revenue.",
+      "Lead end-to-end deal execution from sourcing to contract closure.",
+      "Generate revenue from fees and FX spreads across new and existing clients.",
+      "Identify and close strategic partnerships and maintain partner relationships.",
+      "Expand coverage across key markets and support new market entry.",
+      "Maintain accurate CRM records and track pipeline performance, conversion, and retention.",
+      "Mentor Junior Associates and support team pipeline reviews.",
+      "Ensure compliance with KYC/AML requirements and internal policies.",
+      "Prepare proposals, term sheets, and client presentations."
+    ],
+    requirements: [
+      "3–5 years’ experience in treasury sales, FX, trade finance, or financial services business development.",
+      "Proven track record of meeting or exceeding revenue or client acquisition targets.",
+      "Strong knowledge of FX markets, cross-border payments, and trade finance instruments.",
+      "Experience managing client relationships and executing deals independently.",
+      "Strong analytical, negotiation, and communication skills.",
+      "Ability to thrive in a fast-paced, target-driven environment."
+    ],
+    apply: 'Interested candidates should send their CV to: <a href="mailto:hr@starksassociate.com">hr@starksassociate.com</a>',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "Customer Service Manager - Lagos - Nairabet",
+    title: "Customer Service Manager",
+    date: "2026-04-24",
+    location: "Lagos",
+    type: "Full-time",
+    seniority: "Senior",
+    summary: "Exceptional Customer Support Manager to own the support function end-to-end, stabilize service delivery, and build a measurable, scalable structure.",
+    responsibilities: [
+      "Own the Customer Support function across all active channels (shifts, queues, escalation paths).",
+      "Define support structure and clarify role responsibilities (agents, supervisors, QA).",
+      "Own and improve KPIs: response time, resolution time, backlog ageing, and SLA attainment.",
+      "Build daily, weekly, and monthly service reporting.",
+      "Identify recurring pain points and drive root-cause fixes into Product/Marketing.",
+      "Manage, coach, and performance-manage frontline support resources.",
+      "Improve team structure, shift coverage, manager visibility, and accountability.",
+      "Work with QA to improve quality, scripting, SOP adherence, and macros."
+    ],
+    requirements: [
+      "Minimum of 6 to 8 years working experience.",
+      "Explicit experience in the gaming/betting industry is mandatory.",
+      "Experience leading frontline support in gaming, fintech, telco, or e-commerce.",
+      "Strong reporting mindset and ability to translate data into action.",
+      "Extreme ownership and ability to drive standards."
+    ],
+    apply: 'Interested Candidates should send their CV to: <a href="mailto:hr@nairabet.com">hr@nairabet.com</a>',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "Vice President Partnership Coverage - Lekki - Starks",
+    title: "Vice President, Partnership & Coverage",
+    date: "2026-04-24",
+    location: "Lekki, Lagos",
+    type: "Full-time",
+    seniority: "Senior",
+    summary: "Senior revenue-generating leadership role responsible for driving client acquisition, strategic partnerships, and market expansion across key target markets.",
+    responsibilities: [
+      "Drive client acquisition and manage a strong pipeline of qualified prospects.",
+      "Lead end-to-end deal execution from sourcing to contract closure.",
+      "Generate significant transaction volume and revenue from client relationships.",
+      "Source and close strategic partnerships across key sectors.",
+      "Expand into new markets and strengthen presence in existing ones.",
+      "Lead, mentor, and manage a high-performing team of Associates and Analysts.",
+      "Monitor pipeline performance, client retention, and conversion rates.",
+      "Ensure compliance with regulatory requirements and internal policies."
+    ],
+    requirements: [
+      "6–8 years’ experience in treasury sales, corporate finance, trade finance, or financial services business development.",
+      "Proven track record of closing high-value deals and exceeding targets.",
+      "Strong knowledge of FX markets, cross-border payments, and trade finance.",
+      "Experience managing senior client relationships and leading teams.",
+      "Strong analytical, negotiation, and communication skills."
+    ],
+    apply: 'Interested candidates should send their CV to: <a href="mailto:hr@starksassociate.com">hr@starksassociate.com</a>',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "Cable Production Technician - Ibeju Lekki - Cynosure",
+    title: "Cable Production Technician (3 Positions)",
+    date: "2026-04-24",
+    location: "Lekki Free Trade Zone, Ibeju Lekki",
+    type: "Full-time",
+    summary: "Experienced technicians to work on the production line manufacturing high-quality data cables from copper wires.",
+    responsibilities: [
+      "Operate and monitor cable production machinery.",
+      "Handle equipment such as copper drawing machines, insulation extrusion machines, and twisting machines.",
+      "Ensure efficient and safe production processes.",
+      "Maintain quality standards throughout the production cycle.",
+      "Collaborate with the production team to meet output targets."
+    ],
+    requirements: [
+      "Minimum of 3–4 years’ experience in cable production.",
+      "Hands-on experience with copper drawing, extrusion, and twisting machines.",
+      "Strong understanding of cable manufacturing processes.",
+      "Ability to work in a fast-paced production environment.",
+      "Experience in cabling manufacturing companies preferred."
+    ],
+    apply: 'Interested candidates should submit their CV to: <a href="mailto:hr@cynosureng.com">hr@cynosureng.com</a>',
+    salary: "180,000 to 300,000 depending on experience",
+    deadline: "Not Specified"
+  },
+  {
+    id: "Bid Commercial Analyst - Ikeja - Kevron",
+    title: "Bid / Commercial Analyst",
+    date: "2026-04-24",
+    location: "Ikeja, Lagos",
+    type: "Full-time",
+    summary: "Analyst for the QHSSE Consultancy sector to support tender reviews, develop cost estimates, and prepare strong commercial proposals.",
+    responsibilities: [
+      "Identify, review, and evaluate RFPs, RFQs, ITTs, and other tender opportunities.",
+      "Interpret client requirements for consultancy, training, audits, and inspections.",
+      "Coordinate bid timelines, documentation, and submission processes.",
+      "Develop detailed cost estimates and pricing models (labour, logistics, equipment).",
+      "Benchmark pricing against market trends and competitors.",
+      "Liaise with Operations, Finance, and QHSSE teams for bid input.",
+      "Track tender outcomes and analyze win/loss trends."
+    ],
+    requirements: [
+      "First degree in Quantity Surveying.",
+      "Experience in developing pricing models and conducting cost analysis.",
+      "Strong coordination and document management skills.",
+      "Ability to interpret complex technical scope of work."
+    ],
+    apply: 'Interested candidates should send a well detailed resume to: <a href="mailto:recruitment@kevronggroup.com">recruitment@kevronggroup.com</a> using "Bid/ Commercial Analyst" as the subject.',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "Process Engineer EPCI - Port Harcourt - Felton",
+    title: "Process Engineer (EPCI)",
+    date: "2026-04-24",
+    location: "Trans Amadi, Port Harcourt",
+    type: "Full-time",
+    summary: "Provide process engineering support across EPCI oil & gas projects, from design through construction and commissioning.",
+    responsibilities: [
+      "Develop and review process deliverables (PFDs, P&IDs, H&MB, process calculations).",
+      "Support EPCI phases including engineering, procurement, construction, and commissioning.",
+      "Prepare technical datasheets and support vendor/OEM technical evaluations.",
+      "Participate in HAZID, HAZOP, and other safety studies.",
+      "Provide site and commissioning support as required.",
+      "Collaborate with multidisciplinary engineering and construction teams."
+    ],
+    requirements: [
+      "Bachelor’s degree in Chemical Engineering or related field.",
+      "2–4 years experience as a Process Engineer on EPCI oil & gas projects.",
+      "Good knowledge of process design standards and industry codes.",
+      "Experience with process simulation tools (HYSYS, Aspen, etc.) is an advantage."
+    ],
+    apply: 'Send CV to: <a href="mailto:wendy@feltonenergy.net">wendy@feltonenergy.net</a> using "Process Engineer – EPCI" as the subject.',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "Geography Graduate GIS Specialist - Abuja",
+    title: "Geography Graduate (GIS Specialist)",
+    date: "2026-04-24",
+    location: "Abuja",
+    type: "Full-time",
+    summary: "Qualified Geography graduate to join the organization for map creation, spatial analysis, and remote sensing work.",
+    responsibilities: [
+      "Perform spatial analysis and map creation.",
+      "Use GIS software such as ArcGIS or QGIS.",
+      "Work with satellite imagery (remote sensing).",
+      "Conduct GPS data collection."
+    ],
+    requirements: [
+      "Degree in Geography or related field.",
+      "Experience with GIS software (ArcGIS/QGIS).",
+      "Expertise in spatial analysis and remote sensing.",
+      "Experience with GPS data collection tools."
+    ],
+    apply: 'Contact <a href="tel:08139226564">08139226564</a> for more details and to apply.',
+    salary: "300,000",
+    deadline: "Not Specified"
+  },
+  {
+    id: "Admin Officer - Lington & Bernie - Lagos",
+    title: "Admin Officer",
+    date: "2026-04-24",
+    location: "Lagos",
+    type: "Full-time",
+    summary: "Lead and optimize administrative operations for Lington & Bernie Consulting Limited to ensure efficient office management.",
+    responsibilities: [
+      "Manage and coordinate daily office operations.",
+      "Lead administrative tasks and ensure organizational efficiency.",
+      "Multitask across various office management functions.",
+      "Maintain strong interpersonal communication within the office."
+    ],
+    requirements: [
+      "Bachelor’s Degree in Business Administration, Management, or related fields.",
+      "Proven experience in administrative management or a similar role.",
+      "Strong leadership and organizational skills.",
+      "Ability to multitask effectively."
+    ],
+    apply: 'Send CV to: <a href="mailto:recruitement@lingtonjobs.com">recruitement@lingtonjobs.com</a> using the job title as the subject.',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "Call Center Agents - Ikeja - Adverzo",
+    title: "Call Center Agents",
+    date: "2026-04-24",
+    location: "Ikeja, Lagos",
+    type: "Full-time",
+    summary: "Customer support role working on Pacific Standard Timing (USA) with free accommodation available and performance-based incentives.",
+    responsibilities: [
+      "Manage customer calls and inquiries during US business hours (PST).",
+      "Maintain clear and effective communication with clients.",
+      "Utilize performance-based strategies to earn incentives."
+    ],
+    requirements: [
+      "Qualification: OND, HND or BSC.",
+      "MUST HAVE CLEAR and Neutral Accent.",
+      "Ability to work on Pacific Standard Timing (USA).",
+      "No age or gender restrictions."
+    ],
+    apply: 'Apply online at: <a href="https://Adverzo.com/l/sbapr16">Adverzo.com/l/sbapr16</a>',
+    salary: "N200k/Month",
+    deadline: "Not Specified"
+  },
+  {
     id: "Warehouse Supervisor - Agbara - AJE",
     title: "Warehouse Supervisor (FMCG – Food & Beverages)",
     date: "2026-04-20",

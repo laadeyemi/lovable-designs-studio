@@ -15,6 +15,364 @@ export type Job = {
 
 const allJobs: Job[] = [
   {
+    id: "officer-cheque-management-ilupeju",
+    title: "Officer, Cheque Management",
+    date: "2026-04-25",
+    location: "Ilupeju, Lagos",
+    type: "Full-time",
+    summary: "Responsible for the efficient processing, verification, and reconciliation of cheque transactions while ensuring compliance with regulatory and internal standards.",
+    responsibilities: [
+      "Process and verify cheque transactions accurately and promptly",
+      "Ensure proper validation of cheque details in line with banking standards",
+      "Reconcile cheque records and resolve discrepancies",
+      "Monitor cheque clearing processes and escalate issues where necessary",
+      "Maintain proper documentation and ensure compliance with policies and regulations"
+    ],
+    requirements: [
+      "HND/BSc in a relevant discipline",
+      "2–3 years’ experience in the financial sector (mandatory)",
+      "Age Requirement: 29 years and below"
+    ],
+    apply: 'Qualified candidates should send their CV to: <a href="mailto:cekeh@icsoutsourcing.com">cekeh@icsoutsourcing.com</a> using “Officer, Cheque Management” as the subject of the email.',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "nursery-teacher-tipper-garage-ibadan",
+    title: "Nursery Teacher",
+    date: "2026-04-25",
+    location: "Tipper Garage area of Ibadan",
+    type: "Full-time",
+    summary: "Provide a safe, caring, and stimulating learning environment for young children (ages 2–5). The role involves nurturing children’s social, emotional, physical, and cognitive development.",
+    responsibilities: [
+      "Plan and deliver age-appropriate lessons and activities",
+      "Create a warm, welcoming, and inclusive classroom environment",
+      "Ensure the safety and supervision of children at all times",
+      "Support children’s emotional and social development",
+      "Teach basic skills such as numbers, letters, and shapes",
+      "Observe and record children’s progress",
+      "Communicate regularly with the authority.",
+      "Maintain classroom cleanliness and organization",
+      "Assist with children’s basic needs (feeding, hygiene, toileting)",
+      "Collaborate with other staff and participate in school activities"
+    ],
+    requirements: [
+      "Minimum of NCE in Early Childhood Education or related fields",
+      "Bachelor’s degree in Education (added advantage)",
+      "Relevant teaching certification (if applicable)",
+      "Experience as a teacher (If applicable)"
+    ],
+    apply: 'Interested and qualified candidates should send their CVs (IN MS WORD OR PDF FORMAT ONLY) to: <a href="https://wa.me/2348139477976">08139477976</a>. NOTE: CV should have your address or the area of Ibadan you currently reside.',
+    salary: "Very Attractive",
+    deadline: "Not Specified"
+  },
+  {
+    id: "quality-assurance-documentation-officer-mowe",
+    title: "Quality Assurance Documentation Officer",
+    date: "2026-04-25",
+    location: "Mowe",
+    type: "Full-time",
+    summary: "Urgent need for a Quality Assurance Documentation Officer to manage technical records in a pharmaceutical manufacturing environment.",
+    responsibilities: [
+      "Manage and organize Quality Assurance documentation.",
+      "Ensure compliance with pharmaceutical manufacturing standards.",
+      "Review and update technical records.",
+      "Support audit preparation activities."
+    ],
+    requirements: [
+      "BSC/HND in applied sciences (Microbiology, Chemistry, Biochemistry, etc).",
+      "2-3 years of relevant experience in a pharmaceutical manufacturing company.",
+      "Preference given to candidates living around Mowe, Sagamu, Berger, Ibafo, Magboro, Ojota, Ikeja, Alausa, Magodo and environs."
+    ],
+    apply: 'Interested and qualified applicants should forward their CVs to: <a href="mailto:metusmetus73@gmail.com">metusmetus73@gmail.com</a> or <a href="mailto:transnationalzamiva21@yahoo.com">transnationalzamiva21@yahoo.com</a>',
+    salary: "250,000 - 300,000 monthly net",
+    deadline: "Not Specified"
+  },
+  {
+    id: "executive-driver-to-the-ceo-ikoyi",
+    title: "Executive Driver to the CEO",
+    date: "2026-04-25",
+    location: "Ikoyi, Lagos",
+    type: "Full-time",
+    summary: "Professional and reliable Driver responsible for providing safe, timely, and efficient transportation services for the CEO.",
+    responsibilities: [
+      "Safely drive the CEO to and from appointments, meetings, and other engagements",
+      "Ensure the vehicle is always clean, well-maintained, and in optimal working condition",
+      "Plan routes effectively to ensure punctuality and avoid traffic delays",
+      "Maintain strict confidentiality and professionalism at all times"
+    ],
+    requirements: [
+      "Minimum of 3–6 years’ proven experience as a professional driver, preferably for senior executives",
+      "Valid driver’s license with a clean driving record",
+      "Good knowledge of Lagos road networks and traffic regulations",
+      "Proximity to the island is highly desirable but not mandatory."
+    ],
+    apply: 'Interested and qualified applicants should apply by clicking the link: <a href="https://forms.gle/KtZgD446k2q4CsNW7">Apply Online</a>',
+    salary: "₦110,000 – ₦120,000 net per month (excluding overtime)",
+    deadline: "30th April 2026"
+  },
+  {
+    id: "cleaner-anthony-lagos",
+    title: "Cleaner",
+    date: "2026-04-25",
+    location: "Anthony, Lagos",
+    type: "Full-time",
+    summary: "Reliable cleaner needed for daily work at Anthony, Lagos. Involves early morning cleaning of office spaces and bathrooms.",
+    responsibilities: [
+      "Clean office spaces and bathrooms daily.",
+      "Communicate effectively in English with team members.",
+      "Manage cleaning supplies efficiently."
+    ],
+    requirements: [
+      "SSCE/ND Holder.",
+      "Trustworthy, hardworking, and reliable.",
+      "Able to work independently.",
+      "Must live around Anthony for an easy commute."
+    ],
+    apply: 'Send your CV to or call: <a href="tel:08175895429">08175895429</a>',
+    salary: "₦60,000/month",
+    deadline: "Not Specified"
+  },
+  {
+    id: "chief-security-officer-vgc-ikota",
+    title: "Chief Security Officer",
+    date: "2026-04-25",
+    location: "VGC, Ikota – Lagos",
+    type: "Full-time",
+    seniority: "Senior",
+    summary: "Vigilant and experienced Chief Security Officer to oversee all security operations in a fast-paced hotel environment.",
+    responsibilities: [
+      "Develop and implement comprehensive security policies and procedures",
+      "Lead and supervise the security team, including training and performance management",
+      "Monitor access control and patrol activities",
+      "Conduct regular security risk assessments and drills",
+      "Investigate security incidents and prepare detailed reports",
+      "Liaise with law enforcement agencies when necessary",
+      "Ensure compliance with safety and security regulations",
+      "Coordinate with other departments to maintain a secure and safe environment"
+    ],
+    requirements: [
+      "Minimum of 10 years’ experience in security management, preferably in hospitality.",
+      "Must have police experience (retired officer or equivalent background preferred).",
+      "Strong knowledge of CCTV, access control, and security protocols.",
+      "Good physical fitness and ability to work under pressure.",
+      "Must reside on the Island."
+    ],
+    apply: 'Send your CV to: <a href="mailto:hrm@wellbornhotels.com">hrm@wellbornhotels.com</a> or via WhatsApp to: <a href="https://wa.me/2348118236959">08118236959</a>',
+    salary: "Competitive",
+    deadline: "Not Specified"
+  },
+  {
+    id: "night-auditor-vgc-ikota",
+    title: "Night Auditor",
+    date: "2026-04-25",
+    location: "VGC, Ikota – Lagos",
+    type: "Full-time",
+    summary: "Handle night-shift financial operations, guest accounting, and front office reconciliation ensuring all daily transactions are balanced.",
+    responsibilities: [
+      "Perform night audit procedures including balancing guest accounts and revenue",
+      "Reconcile all front office, restaurant, bar, and other revenue outlets",
+      "Prepare daily revenue and occupancy reports for management",
+      "Process guest check-ins, check-outs, and late-night transactions",
+      "Handle guest inquiries and complaints during night shift",
+      "Verify and post all charges accurately to guest folios",
+      "Ensure security and safety procedures are followed during the night shifts"
+    ],
+    requirements: [
+      "Minimum of 2 years’ experience as a Night Auditor or in front office accounting.",
+      "Good knowledge of hotel property management systems (PMS).",
+      "Strong attention to detail and numerical accuracy.",
+      "Proficiency in Microsoft Excel and basic accounting principles.",
+      "Must reside on Lagos Island and be available for night shifts."
+    ],
+    apply: 'Send your CV to: <a href="mailto:hrm@wellbornhotels.com">hrm@wellbornhotels.com</a> or via WhatsApp to: <a href="https://wa.me/2348118236959">08118236959</a>',
+    salary: "Competitive",
+    deadline: "Not Specified"
+  },
+  {
+    id: "cost-controller-vgc-ikota",
+    title: "Cost Controller",
+    date: "2026-04-25",
+    location: "VGC, Ikota – Lagos",
+    type: "Full-time",
+    summary: "Detail-oriented analyst to manage and control operational costs, focusing on monitoring expenses and optimizing procurement in a hospitality environment.",
+    responsibilities: [
+      "Monitor and control food, beverage, and operational costs across all departments.",
+      "Prepare daily, weekly, and monthly cost reports and variance analysis.",
+      "Conduct inventory audits and reconcile stock levels with consumption.",
+      "Analyze supplier prices and negotiate for better rates.",
+      "Work with kitchen and F&B teams to minimize wastage.",
+      "Track and control utility, labor, and overhead expenses.",
+      "Support budgeting and forecasting processes."
+    ],
+    requirements: [
+      "Minimum of 3 years’ experience as a Cost Controller in hospitality.",
+      "Strong knowledge of cost control systems and inventory management.",
+      "Proficiency in Microsoft Excel and hotel management software.",
+      "Excellent analytical and numerical skills.",
+      "Must reside on Lagos Island."
+    ],
+    apply: 'Send your CV to: <a href="mailto:hrm@wellbornhotels.com">hrm@wellbornhotels.com</a> or via WhatsApp to: <a href="https://wa.me/2348118236959">08118236959</a>',
+    salary: "Competitive",
+    deadline: "Not Specified"
+  },
+  {
+    id: "it-support-specialist-vgc-ikota",
+    title: "IT Support Specialist",
+    date: "2026-04-25",
+    location: "VGC, Ikota – Lagos",
+    type: "Full-time",
+    summary: "Skilled IT Support Specialist to handle hardware, software, and network support, ensuring smooth system operations in a hospitality environment.",
+    responsibilities: [
+      "Provide technical support (remote and on-site) to staff.",
+      "Troubleshoot and resolve hardware, software, and network issues.",
+      "Install, configure, and maintain IT systems and equipment.",
+      "Manage IT assets and maintain documentation.",
+      "Ensure system security and support resolution with internal teams."
+    ],
+    requirements: [
+      "Minimum of 2 years’ IT support experience.",
+      "Solid knowledge of computer systems and basic networking.",
+      "Strong problem-solving and communication skills.",
+      "Ability to work under pressure and prioritize tasks.",
+      "Must reside on Lagos Island."
+    ],
+    apply: 'Send your CV to: <a href="mailto:hrm@wellbornhotels.com">hrm@wellbornhotels.com</a> or via WhatsApp to: <a href="https://wa.me/2348118236959">08118236959</a>',
+    salary: "Competitive",
+    deadline: "Not Specified"
+  },
+  {
+    id: "graphics-designer-content-creator-vgc-ikota",
+    title: "Graphics Designer / Content Creator",
+    date: "2026-04-25",
+    location: "VGC- Ikota, Lagos",
+    type: "Full-time",
+    summary: "Skilled creator to handle videographics, content creation, and fliers, ensuring regular engagement within the social media space for a hospitality organization.",
+    responsibilities: [
+      "Design and develop high-quality visual content (graphics, videos, animations).",
+      "Ensure consistency in branding and visual identity across all platforms.",
+      "Plan and schedule content using a content calendar.",
+      "Handle digital cameras and professional editing software (Adobe Premiere Pro, etc).",
+      "Work and deliver jobs within specified time frames."
+    ],
+    requirements: [
+      "Minimum of 2 years’ graphic design and content creation experience.",
+      "Must reside on Lagos Island.",
+      "Proficient in handling digital cameras and professional editing software.",
+      "Ability to work under pressure and prioritize tasks."
+    ],
+    apply: 'Send your CV and a few designs/contents to: <a href="mailto:hrm@wellbornhotels.com">hrm@wellbornhotels.com</a> or via WhatsApp to: <a href="https://wa.me/2348118236959">08118236959</a>',
+    salary: "Competitive",
+    deadline: "Not Specified"
+  },
+  {
+    id: "experienced-architect-on-site-lagos",
+    title: "Experienced Architect (On-Site)",
+    date: "2026-04-25",
+    location: "Lagos (Fully On-Site)",
+    type: "Full-time",
+    summary: "Highly skilled Architect to join the team for designing, planning, and overseeing the construction of building projects, ensuring aesthetic excellence and safety.",
+    responsibilities: [
+      "Develop architectural designs, concepts, and detailed drawings.",
+      "Prepare and present design proposals to clients and stakeholders.",
+      "Oversee project execution from concept to completion.",
+      "Ensure compliance with building codes, regulations, and safety standards.",
+      "Collaborate with engineers, contractors, and other professionals.",
+      "Conduct site inspections and monitor project progress.",
+      "Manage project timelines, budgets, and resources effectively."
+    ],
+    requirements: [
+      "Bachelor’s or Master’s degree in Architecture.",
+      "Minimum of 5–10 years proven experience as an Architect.",
+      "Strong portfolio showcasing completed projects.",
+      "Proficiency in design software (e.g., AutoCAD, Revit, SketchUp, etc.).",
+      "Professional certification (e.g., ARCON, RIBA, etc.) is an advantage."
+    ],
+    apply: 'Interested and qualified candidates should send their CV and portfolio to: <a href="mailto:hr@thestartupplaceng.com">hr@thestartupplaceng.com</a>',
+    salary: "₦1,500,000 – ₦2,000,000 / Month",
+    deadline: "Not Specified"
+  },
+  {
+    id: "executive-assistant-lagos-island-ics",
+    title: "Executive Assistant",
+    date: "2026-04-25",
+    location: "Lagos Island",
+    type: "Full-time",
+    summary: "Smart, organized, and proactive assistant to support senior leadership. Ideal candidate should be detail-oriented and comfortable in a fast-paced environment.",
+    responsibilities: [
+      "Manage schedules, meetings, and appointments.",
+      "Prepare reports, presentations, and correspondence.",
+      "Handle confidential information with discretion.",
+      "Coordinate travel and logistics arrangements.",
+      "Provide general administrative support."
+    ],
+    requirements: [
+      "Minimum of 2 years’ experience in a similar role.",
+      "Strong communication and organizational skills.",
+      "Proficiency in Microsoft Office tools.",
+      "Ability to prioritize and meet deadlines."
+    ],
+    apply: 'Interested candidates should send their CV to: <a href="mailto:lekkisupport@icsoutsourcing.com">lekkisupport@icsoutsourcing.com</a>',
+    salary: "₦206,000",
+    deadline: "Not Specified"
+  },
+  {
+    id: "van-sales-representative-energy-drinks-lagos",
+    title: "Van Sales Representative/On Trade (Energy Drinks)",
+    date: "2026-04-25",
+    location: "Lagos",
+    type: "Full-time",
+    summary: "Energetic, result-driven representative responsible for direct sales, distribution, and relationship management with retailers and on-trade outlets.",
+    responsibilities: [
+      "Drive company van to assigned routes to sell and distribute products.",
+      "Ensure consistent product availability in retail outlets, bars, and supermarkets.",
+      "Meet and exceed daily, weekly, and monthly sales targets.",
+      "Build and maintain strong relationships with retailers.",
+      "Onboard new outlets and identify new sales opportunities.",
+      "Monitor competitor activities and market trends.",
+      "Manage stock levels in the van and reconcile daily sales."
+    ],
+    requirements: [
+      "Minimum of HND/BSc in any related field.",
+      "At least 2 years’ experience in van sales or FMCG sales.",
+      "Valid driver’s license (mandatory).",
+      "Good knowledge of Lagos routes and market environment.",
+      "Strong sales, negotiation, and communication skills."
+    ],
+    apply: 'Interested candidates can apply using the link: <a href="https://lnkd.in/eBVHaptY">Apply Online</a>',
+    salary: "₦200,000 Monthly (Gross)",
+    deadline: "Not Specified"
+  },
+  {
+    id: "head-of-accounts-vi-lekki",
+    title: "Head of Accounts",
+    date: "2026-04-25",
+    location: "Victoria Island/Lekki, Lagos",
+    type: "Full-time",
+    seniority: "Senior",
+    summary: "Oversee financial management, accounting operations, financial reporting, budgeting, and regulatory compliance of the organization.",
+    responsibilities: [
+      "Oversee all accounting operations including general ledger, receivables, payables, and treasury.",
+      "Prepare and review financial statements in accordance with accounting standards.",
+      "Lead budgeting, financial forecasting, and financial planning processes.",
+      "Ensure compliance with tax laws, financial regulations, and statutory reporting.",
+      "Coordinate internal and external audits and resolve findings.",
+      "Monitor company financial performance and provide strategic insights.",
+      "Manage relationships with banks, auditors, and regulators.",
+      "Supervise accounting staff and build team capacity."
+    ],
+    requirements: [
+      "Bachelor’s degree in Accounting, Finance or related field.",
+      "Professional certification such as ICAN or ACCA is mandatory.",
+      "Minimum of 8–12 years’ experience in accounting or financial management.",
+      "At least 4 years experience in an Asset Management Company.",
+      "Experience in financial services is mandatory."
+    ],
+    apply: 'Interested and qualified candidates should send their CVs to: <a href="mailto:beacongatejobportal@gmail.com">beacongatejobportal@gmail.com</a> using the Job title as subject.',
+    salary: "900,000 - 1,100,000",
+    deadline: "Not Specified"
+  },
+  {
     id: "Entry-Level Business Development Officer - Ikeja Amuwo - HRLeverage",
     title: "Entry-Level Business Development Officer",
     date: "2026-04-24",
@@ -38,6 +396,257 @@ const allJobs: Job[] = [
     ],
     apply: 'Interested candidates should send CV to: <a href="mailto:resume@hrleverageafrica.com">resume@hrleverageafrica.com</a> using the job title as subject of the mail.',
     salary: "100,000 NGN monthly + commission",
+    deadline: "Not Specified"
+  },
+  {
+    id: "administrator-people-culture-vi-lagos",
+    title: "Administrator, People & Culture (HR Operations)",
+    date: "2026-04-25",
+    location: "VI, Lagos",
+    type: "Full-time",
+    summary: "Support the People & Culture team with administrative tasks, record management, and onboarding/exit processes.",
+    responsibilities: [
+      "Manage employee records, documentation, and filing systems.",
+      "Handle onboarding and exit processes.",
+      "Support payroll administration with accurate data updates.",
+      "Respond to HR queries within agreed timelines.",
+      "Ensure compliance with company policies and regulations.",
+      "Provide general administrative support to the HR team."
+    ],
+    requirements: [
+      "B.Sc (Minimum of Second-Class Lower).",
+      "2 years experience in HR/Admin or related role.",
+      "Strong organizational and communication skills.",
+      "Proficiency in Microsoft Office.",
+      "Age: 27 years and below."
+    ],
+    apply: 'Interested candidates should send CVs to: <a href="mailto:lekkisupport@icsoutsourcing">lekkisupport@icsoutsourcing</a>',
+    salary: "#180,000 plus benefits",
+    deadline: "Not Specified"
+  },
+  {
+    id: "wealth-advisor-senior-level-ikoyi",
+    title: "Wealth Advisor (Senior Level)",
+    date: "2026-04-25",
+    location: "Ikoyi, Lagos",
+    type: "Full-time",
+    seniority: "Senior",
+    summary: "Senior role for experienced advisors to strengthen the advisory team and drive growth across high-net-worth and institutional portfolios.",
+    responsibilities: [
+      "Provide personalized investment advisory services to HNI and institutional clients.",
+      "Develop and implement tailored portfolio strategies aligned with client risk profiles.",
+      "Drive client acquisition and grow assets under management.",
+      "Maintain and deepen existing client relationships through regular reviews.",
+      "Stay abreast of financial market trends and provide informed recommendations.",
+      "Collaborate with internal teams to deliver optimal investment solutions."
+    ],
+    requirements: [
+      "8–10 years’ proven experience in wealth management or private banking.",
+      "Strong track record in client acquisition and portfolio growth.",
+      "Solid knowledge of financial markets and asset allocation.",
+      "Bachelor’s degree in Finance, Economics, or related field."
+    ],
+    apply: 'Qualified candidates should submit their updated CV to: <a href="mailto:ifeoluwa.recruit1@gmail.com">ifeoluwa.recruit1@gmail.com</a> using the job title as subject.',
+    salary: "₦1,300,000 – ₦1,500,000 (Gross) + 13th month",
+    deadline: "Not Specified"
+  },
+  {
+    id: "wealth-advisor-mid-level-ikoyi",
+    title: "Wealth Advisor (Mid-Level)",
+    date: "2026-04-25",
+    location: "Ikoyi, Lagos",
+    type: "Full-time",
+    seniority: "Mid-Level",
+    summary: "Mid-level role to provide personalized investment advisory services and support business development initiatives.",
+    responsibilities: [
+      "Provide personalized investment advisory services to HNI and institutional clients.",
+      "Develop and implement tailored portfolio strategies.",
+      "Drive client acquisition and growth.",
+      "Maintain and deepen existing client relationships.",
+      "Provide informed recommendations based on market trends.",
+      "Collaborate with internal teams."
+    ],
+    requirements: [
+      "3–5 years’ experience in wealth management, private banking, or investment advisory.",
+      "Solid knowledge of financial markets and asset allocation.",
+      "Excellent client relationship management and communication skills.",
+      "Bachelor’s degree in Finance, Economics, or related field."
+    ],
+    apply: 'Qualified candidates should submit their updated CV to: <a href="mailto:ifeoluwa.recruit1@gmail.com">ifeoluwa.recruit1@gmail.com</a> using the job title as subject.',
+    salary: "₦771,000 – ₦1,000,000 (Gross) + 13th month",
+    deadline: "Not Specified"
+  },
+  {
+    id: "credit-rehabilitation-officer-vi-lagos",
+    title: "Credit Rehabilitation Officer (Collections)",
+    date: "2026-04-25",
+    location: "VI, Lagos",
+    type: "Full-time",
+    summary: "Manage delinquent accounts and drive loan recovery efforts for a reputable organization in the banking industry.",
+    responsibilities: [
+      "Follow up on delinquent, NPL, and written-off accounts.",
+      "Engage customers to regularize outstanding payments.",
+      "Implement recovery strategies to improve collection rates.",
+      "Ensure accurate system updates and compliance with policies."
+    ],
+    requirements: [
+      "2 years’ experience in collections/credit risk.",
+      "Bachelor’s degree in Finance, Business Administration, or related field.",
+      "Strong negotiation and communication skills.",
+      "Ability to meet recovery targets."
+    ],
+    apply: 'Interested candidates should apply via the link: <a href="https://forms.gle/zREvhbm3iYnbQwEz8">Apply Online</a>',
+    salary: "#180,000",
+    deadline: "Not Specified"
+  },
+  {
+    id: "hr-generalist-agbara-ogun-qpnlnig",
+    title: "HR Generalist",
+    date: "2026-04-25",
+    location: "Agbara, Ogun",
+    type: "Full-time",
+    summary: "Support various HR functions including recruitment, policy formulation, and data analysis in a manufacturing environment.",
+    responsibilities: [
+      "Handle recruitment, onboarding, and confirmation.",
+      "Formulate and update HR policies.",
+      "Perform HR data analysis and reporting.",
+      "Manage exit processes and documentation.",
+      "Draft and implement the HR training calendar.",
+      "Support the team during internal and external audits."
+    ],
+    requirements: [
+      "Bachelor’s degree in HR, Business Administration, or related field.",
+      "3–5 years relevant experience in a similar HR role.",
+      "Professional HR certification (CIPM, SHRM, SPHRi) is preferred.",
+      "Strong knowledge of Nigerian labor laws.",
+      "Proficiency in HRIS and Microsoft Office tools."
+    ],
+    apply: 'Interested and qualified candidates should send their CV to: <a href="mailto:hradmin1@qpnlnig.com">hradmin1@qpnlnig.com</a> with the subject line ‘’HR Generalist’’',
+    salary: "#300k - #350k p/m",
+    deadline: "Not Specified"
+  },
+  {
+    id: "hr-generalist-agbara-ogun-manufacturing",
+    title: "HR Generalist (Manufacturing)",
+    date: "2026-04-25",
+    location: "Agbara, Ogun",
+    type: "Full-time",
+    summary: "Manage core HR functions in a manufacturing setup, including policy formulation and training management.",
+    responsibilities: [
+      "Recruitment, onboarding and confirmation.",
+      "Policy formulation and HR Data analysis.",
+      "Exit management and training plan execution.",
+      "Prepare for internal and external audits."
+    ],
+    requirements: [
+      "Bachelor’s degree in HR or related field.",
+      "3–5 years experience in a similar HR role.",
+      "Professional certification (CIPM/SHRM) preferred.",
+      "Knowledge of Nigerian labor laws."
+    ],
+    apply: 'Send CV to: <a href="mailto:hradmin1@qpnlnig.com">hradmin1@qpnlnig.com</a>',
+    salary: "#300k - #350k p/m",
+    deadline: "Not Specified"
+  },
+  {
+    id: "business-development-executive-real-estate-lekki",
+    title: "Business Development Executive (Real Estate)",
+    date: "2026-04-25",
+    location: "Lekki Phase 1, Lagos (Onsite)",
+    type: "Full-time",
+    summary: "Support the end-to-end process of bringing real estate products to market, with a strong focus on sales performance and market positioning.",
+    responsibilities: [
+      "Identify, engage, and convert potential clients.",
+      "Support go-to-market strategies and product positioning.",
+      "Conduct market research and competitor analysis.",
+      "Develop compelling sales pitches and materials.",
+      "Collaborate with sales and marketing teams.",
+      "Track sales performance and optimize strategies.",
+      "Participate in client meetings, tours, and launches."
+    ],
+    requirements: [
+      "HND or BSc in a relevant field.",
+      "Minimum of 5 years’ experience in real estate or high-ticket sales.",
+      "Experience engaging high-net-worth individuals (HNI) is a plus.",
+      "Strong communication and presentation skills.",
+      "Results-driven with strong analytical ability."
+    ],
+    apply: 'Interested candidates can apply here: <a href="https://forms.gle/gn2C1fwwW4HpRKrt7">Apply Online</a>',
+    salary: "₦500,000 – ₦600,000 monthly",
+    deadline: "Not Specified"
+  },
+  {
+    id: "driver-lekki-phase-1-urgent",
+    title: "Driver",
+    date: "2026-04-25",
+    location: "Lekki Phase 1, Lagos",
+    type: "Full-time",
+    summary: "Urgent vacancy for a reliable and experienced Driver to provide transportation services.",
+    responsibilities: [
+      "Operate vehicle safely and reliably.",
+      "Ensure vehicle is clean and well-maintained.",
+      "Follow road safety rules and traffic regulations.",
+      "Punctual attendance to assignments."
+    ],
+    requirements: [
+      "Valid driver’s license.",
+      "Good knowledge of road safety rules.",
+      "Punctual and trustworthy.",
+      "Previous driving experience is an advantage (especially school environment)."
+    ],
+    apply: 'To apply, call/WhatsApp: <a href="tel:09164553495">0916 455 3495</a>',
+    salary: "120,000 Net",
+    deadline: "Not Specified"
+  },
+  {
+    id: "subject-teachers-admin-staff-ogba-lagos",
+    title: "Subject teachers and Admin. Staff",
+    date: "2026-04-25",
+    location: "Ogba-Lagos",
+    type: "Full-time",
+    summary: "Recruiting for a reputable school in Ogba-Lagos for teaching (CRS, ICT/Robotics) and admin roles (Chef, Drivers, Hygiene Officers).",
+    responsibilities: [
+      "Deliver quality instruction in assigned subjects (CRS, ICT/Robotics).",
+      "Support administrative functions in roles such as kitchen (Chef) or logistics (Drivers).",
+      "Maintain high standards of hygiene (Hygiene Officers).",
+      "Collaborate with school management for smooth operations."
+    ],
+    requirements: [
+      "Qualified in relevant subject area.",
+      "Proximity to Ogba-Lagos is important (no accommodation).",
+      "Reliable and committed to student growth."
+    ],
+    apply: 'Kindly send your CV to these WhatsApp numbers: <a href="https://wa.me/2347030963344">0703 096 3344</a> or <a href="https://wa.me/2348023134347">08023134347</a>.',
+    salary: "Competitive",
+    deadline: "Not Specified"
+  },
+  {
+    id: "operations-supervisor-ibadan-osedom",
+    title: "Operations Supervisor",
+    date: "2026-04-25",
+    location: "IBADAN",
+    type: "Full-time (On-site)",
+    summary: "Manage the entire order cycle, enhancing business development and ensuring sustainability and customer satisfaction through supply chain management.",
+    responsibilities: [
+      "Strategically plan and manage logistics, transportation, and customer services.",
+      "Liaise and negotiate with customers and suppliers.",
+      "Keep track of quality, quantity, delivery times, transport costs, and efficiency.",
+      "Resolve any arising problems or complaints.",
+      "Meet cost, productivity, accuracy, and timeliness targets.",
+      "Comply with industry laws and regulations.",
+      "Source vehicles and negotiate with drivers for best prices.",
+      "Prepare invoices for orders and deliveries as record-keeping."
+    ],
+    requirements: [
+      "HND/BSc in any field.",
+      "Excellent time management and organization skills.",
+      "Strong knowledge of logistics management.",
+      "Good communication and human relations skills.",
+      "Multitasking skills and attention to detail.",
+      "Proficiency in Microsoft Office (Word and Excel)."
+    ],
+    apply: 'Interested candidates should send their CV with the job title "Operation Supervisor (IBADAN)" to: <a href="mailto:enquiries@osedomglobal.com">enquiries@osedomglobal.com</a>',
+    salary: "80,000 starting",
     deadline: "Not Specified"
   },
   {

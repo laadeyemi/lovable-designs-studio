@@ -10,6 +10,198 @@ export type Post = {
 
 const allPosts: Post[] = [
   {
+    id: "rivers-state-university-postgraduate-admission-2026-2027",
+    title: "Rivers Uni Opens Postgraduate Admission for 2026/2027 Academic Session",
+    category: "Education",
+    date: "2026-04-25",
+    excerpt: "Rivers State University (RSU) has announced the commencement of applications for its postgraduate programmes for the 2026/2027 academic session across multiple faculties and institutes.",
+    content:
+      `<h2>Rivers Uni Opens Postgraduate Admission for 2026/2027 Academic Session</h2>
+      <p>Rivers State University (RSU), Nkpolu-Oroworukwo, Port Harcourt, has announced the commencement of applications for its postgraduate programmes for the <strong>2026/2027 academic session</strong>.</p>
+      <p>The university invites suitably qualified candidates to apply across a wide range of faculties, institutes, and specialised centres. While the application is completed online via the RSU eCampus portal, candidates are also required to submit hard copies of relevant documents after filling out the form.</p>
+      <br>
+      <h3>Available Postgraduate Programmes</h3>
+      <p>The RSU postgraduate admission covers multiple academic and professional qualifications, offering flexible study pathways based on applicants’ academic background and career goals.</p>
+      <p>Available programmes include:</p>
+      <ul>
+        <li>Postgraduate Diploma (PGD)</li>
+        <li>Master’s Degrees (MSc, MEd, MA, MTech, LLM)</li>
+        <li>Master of Philosophy (MPhil)</li>
+        <li>Doctor of Philosophy (PhD)</li>
+        <li>Professional Master’s and Doctorate Degrees</li>
+      </ul>
+      <br>
+      <h3>Faculties Offering Postgraduate Programmes</h3>
+      <p>Applicants can apply to programmes under the following faculties:</p>
+      <ul>
+        <li>Administration and Management</li>
+        <li>Agriculture</li>
+        <li>Basic Medical Sciences</li>
+        <li>Clinical Sciences</li>
+        <li>Communication and Media Studies</li>
+        <li>Education</li>
+        <li>Engineering</li>
+        <li>Environmental Sciences</li>
+        <li>Humanities</li>
+        <li>Law</li>
+        <li>Medical Laboratory Science</li>
+        <li>Science</li>
+        <li>Social Sciences</li>
+      </ul>
+      <br>
+      <h3>Institutes and Specialised Centres</h3>
+      <p>RSU also offers postgraduate study through dedicated institutes and centres, including:</p>
+      <ul>
+        <li>Water and Sanitation Studies</li>
+        <li>Marine and Offshore Engineering</li>
+        <li>Advanced Law Research</li>
+        <li>Climate Change and Sustainable Development Studies</li>
+        <li>Institute of Geosciences and Environmental Management</li>
+        <li>Institute of Education</li>
+      </ul>
+      <p>Candidates are advised to carefully select programmes that align with their qualifications and long-term career plans.</p>
+      <br>
+      <h3>Application Fees</h3>
+      <p>The cost of application varies by programme type:</p>
+      <ul>
+        <li><strong>Standard Postgraduate Programmes:</strong> ₦60,000</li>
+        <li><strong>Sandwich Programmes:</strong> ₦50,000</li>
+      </ul>
+      <p>Payments are to be made using Interswitch Verve-enabled cards via the application portal.</p>
+      <br>
+      <h3>How to Apply</h3>
+      <p>To apply for RSU postgraduate admission, candidates should:</p>
+      <ol>
+        <li>Visit the RSU postgraduate application portal.</li>
+        <li>Complete the online application form.</li>
+        <li>Make the required payment.</li>
+        <li>Follow all instructions provided on the portal.</li>
+      </ol>
+      <p>After completing the online process, applicants must submit hard copies of required documents.</p>
+      <br>
+      <h3>Required Documents</h3>
+      <p>Applicants are expected to provide the following:</p>
+      <ul>
+        <li>Completed online application form</li>
+        <li>Copies of academic certificates</li>
+        <li>Academic transcripts (sent directly from previous institutions)</li>
+        <li>Three referee reports</li>
+        <li>Research proposal (for PhD applicants only)</li>
+      </ul>
+      <blockquote>
+        <p><strong>Important:</strong> Academic transcripts must be sent directly by previous institutions. Delays in transcript submission may affect application processing.</p>
+      </blockquote>
+      <br>
+      <h3>Special Requirement for PhD Applicants</h3>
+      <p>Candidates applying for PhD programmes must include a <strong>research proposal</strong> as part of their application. This is a mandatory requirement in addition to other documents.</p>
+      <br>
+      <h3>Application Deadline</h3>
+      <p>The deadline for submission of all RSU postgraduate applications is <strong>Monday, 31 August 2026</strong>. Applicants are advised to complete both the online application and submission of required documents before the closing date.</p>
+      <br>
+      <p>RSU’s postgraduate admission offers a broad range of academic opportunities for graduates seeking advanced qualifications in diverse fields. Early application is recommended to avoid delays, especially with document processing.</p>`,
+    tags: [
+      "RSU",
+      "Rivers State University",
+      "Postgraduate",
+      "Admission",
+      "2026/2027",
+      "Education",
+      "Nigeria",
+    ],
+  },
+  {
+    id: "kasu-part-time-degree-admission-2025-2026",
+    title: "KASU Reopens Part-Time Degree Application Portal for 2025/2026 Session",
+    category: "Education",
+    date: "2026-04-25",
+    excerpt: "Kaduna State University (KASU) has reopened its College of Continuing Education (CCE) application portal for part-time degree programmes for the 2025/2026 academic session.",
+    content:
+      `<h2>KASU Reopens Part-Time Degree Application Portal for 2025/2026 Session</h2>
+      <p>Kaduna State University (KASU) has reopened its College of Continuing Education (CCE) application portal for part-time degree programmes for the <strong>2025/2026 academic session</strong>.</p>
+      <p>The application window is now open from <strong>20 April to 3 May 2026</strong>, giving interested candidates a limited period to complete and submit their applications.</p>
+      <br>
+      <h3>Available KASU Part-Time Degree Programmes</h3>
+      <p>The College of Continuing Education offers the following undergraduate programmes:</p>
+      <ul>
+        <li>B.A. History and Strategic Studies</li>
+        <li>B.Sc. Mass Communication and Media Studies</li>
+        <li>B.Sc. Procurement</li>
+        <li>B.Sc. Public Administration</li>
+      </ul>
+      <p>All programmes lead to the award of <strong>B.A. or B.Sc. degrees</strong> upon completion.</p>
+      <br>
+      <h3>Admission Requirements</h3>
+      <p>Candidates must meet the following requirements depending on their entry route:</p>
+      <br>
+      <h4>O’Level Requirements</h4>
+      <p>Applicants must have at least five credit passes, including:</p>
+      <ul>
+        <li>English Language</li>
+        <li>Mathematics</li>
+        <li>Three other relevant subjects</li>
+      </ul>
+      <p>Results must not exceed two sittings.</p>
+      <br>
+      <h4>Direct Entry Requirements</h4>
+      <p>Direct Entry applicants must meet the O’Level requirements above and possess relevant A’Level qualifications such as an <strong>NCE or Diploma</strong>. Eligible candidates may be admitted into <strong>200 level</strong>, depending on the programme.</p>
+      <br>
+      <h4>Top-Up Admission Requirements</h4>
+      <p>Candidates applying for Top-Up must meet O’Level requirements and possess one of the following: <strong>HND, B.Sc. (Third Class), or NYSC Certificate</strong>. Such candidates may be considered for admission into <strong>400 level</strong>.</p>
+      <br>
+      <blockquote>
+        <p><strong>Important Note:</strong> Candidates who graduated five years ago or earlier must present original certificates instead of statements of results during admission processing.</p>
+      </blockquote>
+      <br>
+      <h3>Duration of Programmes</h3>
+      <p>The length of study depends on the entry level:</p>
+      <ul>
+        <li><strong>100 Level Entry:</strong> Minimum of 5 academic sessions</li>
+        <li><strong>200 Level Entry:</strong> Minimum of 4 academic sessions</li>
+        <li><strong>400 Level Entry:</strong> Minimum of 2 academic sessions</li>
+      </ul>
+      <br>
+      <h3>Provisional Admission Notice</h3>
+      <p>KASU notes that all admissions are <strong>provisional</strong>. Even if candidates meet the requirements, the College reserves the right to confirm or deny admission. Successful applicants must present <strong>original credentials</strong> during registration.</p>
+      <br>
+      <h3>Application Fee</h3>
+      <p>Applicants are required to pay a non-refundable processing fee through the official portal:</p>
+      <ul>
+        <li><strong>Nigerians:</strong> ₦10,000</li>
+        <li><strong>Non-Nigerians:</strong> $20</li>
+      </ul>
+      <br>
+      <h3>How to Apply</h3>
+      <p>Interested candidates should apply through the KASU CCE portal by following these steps:</p>
+      <ol>
+        <li>Create a profile on the portal.</li>
+        <li>Check your email for login details.</li>
+        <li>Log in and complete your profile.</li>
+        <li>Proceed to payment.</li>
+        <li>Fill out the application form.</li>
+        <li>Preview your entries.</li>
+        <li>Submit the form.</li>
+      </ol>
+      <p>Applicants can edit their details before final submission using the “Update form” option.</p>
+      <br>
+      <h3>Application Deadline</h3>
+      <p>The deadline for submission of applications is <strong>Sunday, 3 May 2026</strong>. Applicants are advised to complete their registration before the closing date, as late submissions may not be processed.</p>
+      <br>
+      <h3>Enquiries</h3>
+      <p>For further information, candidates can contact the College of Continuing Education via email: <a href="mailto:cce@kasu.edu.ng">cce@kasu.edu.ng</a></p>
+      <br>
+      <p>Prospective students seeking flexible study options are encouraged to take advantage of this opportunity and apply before the deadline.</p>`,
+    tags: [
+      "KASU",
+      "Kaduna State University",
+      "Admission",
+      "Part-time",
+      "CCE",
+      "2025/2026",
+      "Education",
+      "Nigeria",
+    ],
+  },
+  {
     id: "buk-academic-calendar-2025-2026",
     title: "BUK Releases Proposed 2025/2026 Undergraduate Academic Calendar",
     category: "Education",

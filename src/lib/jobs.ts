@@ -15,6 +15,268 @@ export type Job = {
 
 const allJobs: Job[] = [
   {
+    id: "computer-technician-jibowu-yaba",
+    title: "Computer Technician",
+    date: "2026-04-26",
+    location: "Jibowu, Yaba, Lagos",
+    type: "Full-time",
+    summary: "Responsible for installing, repairing, and maintaining computer systems, hardware, and software to ensure smooth operations.",
+    responsibilities: [
+      "Troubleshoot hardware and software issues",
+      "Install and configure computers and accessories",
+      "Perform routine system maintenance",
+      "Ensure proper functioning of network devices"
+    ],
+    requirements: [
+      "Minimum SSCE/OND or relevant certification",
+      "1–3 years experience",
+      "Good knowledge of computer repairs and maintenance",
+      "Ability to work independently"
+    ],
+    apply: 'To apply, contact via call/WhatsApp: <a href="tel:08038742198">08038742198</a>',
+    salary: "₦120,000",
+    deadline: "Not Specified"
+  },
+  {
+    id: "store-keeper-jibowu-yaba",
+    title: "Store Keeper",
+    date: "2026-04-26",
+    location: "Jibowu, Yaba, Lagos",
+    type: "Full-time",
+    summary: "Manage inventory, receive and issue goods, and maintain accurate stock records for the organization.",
+    responsibilities: [
+      "Manage inventory levels",
+      "Receive and issue goods accurately",
+      "Keep accurate and up-to-date stock records"
+    ],
+    requirements: [
+      "Minimum SSCE/OND",
+      "1–3 years experience as a Store Keeper",
+      "Good record-keeping and organizational skills",
+      "Must be hardworking and responsible"
+    ],
+    apply: 'To apply, contact via call/WhatsApp: <a href="tel:08038742198">08038742198</a>',
+    salary: "₦100,000",
+    deadline: "Not Specified"
+  },
+  {
+    id: "technical-sales-engineer-hrleverage-lagos",
+    title: "Technical Sales Engineer",
+    date: "2026-04-26",
+    location: "Lagos",
+    type: "Full-time (Onsite)",
+    summary: "Drive sales of mechanical engineering solutions and services by combining technical expertise with strong sales skills and relationship management.",
+    responsibilities: [
+      "Identify and develop new business opportunities to meet and exceed sales targets.",
+      "Conduct market research to understand customer needs, industry trends, and competitive landscape.",
+      "Prepare and deliver technical presentations, proposals, and product demonstrations to clients.",
+      "Provide expert technical advice and recommend customized engineering solutions.",
+      "Collaborate with internal sales, engineering, and supply chain teams to design and deliver client-specific solutions.",
+      "Build, maintain, and strengthen relationships with new and existing clients.",
+      "Ensure effective after-sales support, addressing customer concerns and ensuring satisfaction.",
+      "Support marketing activities such as exhibitions, trade shows, and product showcases.",
+      "Maintain accurate records of sales activities, client interactions, and pipeline progress.",
+      "Prepare and submit weekly reports on sales performance, client visits, call plans, and market insights.",
+      "Monitor market trends, identify opportunities, and assess potential risks or competitive threats.",
+      "Provide continuous technical support throughout the sales cycle."
+    ],
+    requirements: [
+      "Bachelor’s degree in Mechanical Engineering or a related field.",
+      "Proven experience in technical sales, preferably within the engineering or industrial sector.",
+      "Strong understanding of mechanical systems and engineering solutions.",
+      "Excellent communication, negotiation, and presentation skills.",
+      "Ability to translate complex technical concepts into clear customer solutions.",
+      "Strong problem-solving and analytical skills.",
+      "Ability to work independently and collaboratively within a team.",
+      "Proficiency in Microsoft Office and CRM tools."
+    ],
+    apply: 'Interested and qualified candidates should send cv to <a href="mailto:yomade.hrleverage@gmail.com">yomade.hrleverage@gmail.com</a> using the job title ”Technical Sales Engineer – Lagos” as the subject of mail.',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "graduate-geoscientist-reservoir-simwa-lagos",
+    title: "Graduate Geoscientist (Reservoir Project)",
+    date: "2026-04-26",
+    location: "Lagos",
+    type: "Full-time",
+    summary: "Provide technical support across seismic interpretation, petrophysical evaluation, and reservoir characterization to support subsurface studies.",
+    responsibilities: [
+      "Perform seismic interpretation and petrophysical evaluation.",
+      "Conduct reservoir characterization and static modelling activities.",
+      "Support subsurface studies and field development planning."
+    ],
+    requirements: [
+      "Bachelor’s degree in Geology, Geophysics, Petroleum Geoscience, or related discipline.",
+      "Minimum of 2 years relevant experience in subsurface geoscience or reservoir studies."
+    ],
+    apply: 'Application link: <a href="https://areatalkreprts.com/graduate-geoscientist-reservoir-project-at-simwa-energy/">Apply Online</a>',
+    salary: "Not Specified",
+    deadline: "29th April 2026"
+  },
+  {
+    id: "senior-accountant-ibadan-furniture",
+    title: "Senior Accountant (2 Positions)",
+    date: "2026-04-26",
+    location: "Ibadan",
+    type: "Full-time",
+    summary: "Senior role for a furniture manufacturing company to manage financial records, production costing, and departmental productivity tracking.",
+    responsibilities: [
+      "Prepare and reconcile bank statements regularly",
+      "Produce monthly management accounts and reports",
+      "Monitor and analyze production costing",
+      "Track weekly departmental productivity against targets and report performance",
+      "Monitor sales team performance (weekly, fortnightly, and monthly reviews)",
+      "Maintain shop accounts and monthly stock records",
+      "Manage accounts receivable and payable",
+      "Oversee store records and inventory control",
+      "Process staff wages in collaboration with HR",
+      "Conduct periodic market surveys for production materials and pricing"
+    ],
+    requirements: [
+      "Bachelor’s degree in Accounting, Finance, or related field",
+      "3–5 years accounting experience (manufacturing experience is a strong advantage)",
+      "Solid understanding of costing, inventory, and basic financial reporting",
+      "Proficiency in accounting software and Microsoft Excel",
+      "Strong attention to detail and analytical skills",
+      "Ability to work in a structured, performance-driven environment"
+    ],
+    apply: 'Interested candidates should send their CV to: <a href="mailto:gethiredNG@proton.me">gethiredNG@proton.me</a> with the subject “Accountant – Ibadan”',
+    salary: "N400k Monthly",
+    deadline: "Not Specified"
+  },
+  {
+    id: "it-officer-lagos-consultancy",
+    title: "IT Officer",
+    date: "2026-04-26",
+    location: "Lagos",
+    type: "Full-time",
+    summary: "Manage company IT systems, provide technical support, and ensure smooth day-to-day technology operations for a Study Abroad Consultancy.",
+    responsibilities: [
+      "Manage the company’s IT systems and infrastructure.",
+      "Provide technical support for hardware and software issues.",
+      "Maintain and secure network infrastructure.",
+      "Ensure smooth day-to-day technology operations."
+    ],
+    requirements: [
+      "Bachelor’s degree in Computer Science, Information Technology, or a related field",
+      "Proven experience in IT support or a similar role",
+      "Strong knowledge of computer systems, networks, and troubleshooting",
+      "Ability to maintain and secure IT infrastructure",
+      "Good problem-solving and communication skills"
+    ],
+    apply: 'Send your CV to <a href="mailto:wssshr@wellspringschoolsupport.com">wssshr@wellspringschoolsupport.com</a> using “IT Officer – Lagos” as the subject.',
+    salary: "N150,000 – N250,000",
+    deadline: "Not Specified"
+  },
+  {
+    id: "hsef-executive-oil-gas-ph",
+    title: "HSEF Executive",
+    date: "2026-04-26",
+    location: "Port Harcourt (Site Role)",
+    type: "Full-time",
+    summary: "Lead safety operations for a major Oil & Gas company, ensuring strict adherence to industrial safety standards on-site.",
+    responsibilities: [
+      "Oversee site-based safety operations in an Oil & Gas environment.",
+      "Ensure compliance with industrial safety certifications and protocols.",
+      "Manage safety risks and reporting in site-based roles."
+    ],
+    requirements: [
+      "HSE professionals in Oil & Gas / Petrochemical / Refinery",
+      "Candidates with Industrial Safety certification",
+      "Experience in site-based safety operations"
+    ],
+    apply: 'Send your CV to: <a href="mailto:jobs@croxum.com">jobs@croxum.com</a>',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "production-supervisor-perfetti-lagos",
+    title: "Production Supervisor",
+    date: "2026-04-26",
+    location: "Lagos",
+    type: "Full-time",
+    summary: "Oversee end-to-end production of Extruded Jelly or similar high technology lines while ensuring safety and SOP compliance.",
+    responsibilities: [
+      "Ensure the production is carried out as per SOP.",
+      "Monitor and report any unsafe condition/unsafe act immediately and take steps to resolve the same.",
+      "Responsible for end to end production of Extruded Jelly/Similar High technology line",
+      "Maintain good house-keeping always.",
+      "Monitor process parameters, ensure adherence to process parameters and train the operatives",
+      "Generation of necessary reports on daily, weekly and monthly basis",
+      "Report and escalate breakdown issues to Maintenance and follow up for timely resolution to ensure minimum loss of production.",
+      "Collate and provide inputs on production issues/manufacturing feasibility for the line."
+    ],
+    requirements: [
+      "Holds a Batchelor’s degree/Higher National Diploma in Engineering related field.",
+      "5 – 8 years relevant experience.",
+      "A Professional Certification in Health, Safety & Environment is desirable.",
+      "Excellent organizational and supervisory skills required.",
+      "Strong Stakeholder Management & Influencing Skills.",
+      "Empathy balanced with firmness.",
+      "Excellent prioritization skill.",
+      "Passionate to grow team members.",
+      "Good report writing skills.",
+      "Committed to continuous improvement."
+    ],
+    apply: 'Interested and Qualified candidates should apply using the link: <a href="https://lnkd.in/eXeTgABe">Apply Online</a>',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "sundry-foods-bakery-internship-2026",
+    title: "Graduate Internship Program 2026 (Bakery Division)",
+    date: "2026-04-26",
+    location: "Abuja & Port Harcourt",
+    type: "Internship",
+    summary: "Join the Sundry Foods Graduate Internship Program to gain hands-on experience in large-scale bakery production and end-to-end processes.",
+    responsibilities: [
+      "Hands-on training in large-scale bakery production",
+      "Learn end-to-end bread making processes",
+      "Work in a fast-paced, real production environment",
+      "Combine classroom learning with practical experience"
+    ],
+    requirements: [
+      "B.Sc or HND in Food Science & Technology (min. 2:2)",
+      "NYSC completed",
+      "Must be willing to work/relocate to Port Harcourt"
+    ],
+    apply: 'Apply here: <a href="https://deroundtable.com/sundry-foods-graduate-internship-2026-paid-bakery-training-apply-now/">Apply Online</a>',
+    salary: "Paid internship",
+    deadline: "31st May, 2026"
+  },
+  {
+    id: "mechanical-fitter-technician-sagamu",
+    title: "Mechanical Fitter cum Technician",
+    date: "2026-04-26",
+    location: "Sagamu, Ogun State",
+    type: "Full-time",
+    summary: "Support maintenance operations across Filling Line, Plastic Manufacturing Plant, and Utility systems by performing repairs and troubleshooting.",
+    responsibilities: [
+      "Perform mechanical fitting, repairs, and preventive maintenance on production and utility equipment",
+      "Troubleshoot breakdowns to minimize downtime",
+      "Maintain and service filling machines, moulding equipment, compressors, chillers, and generators",
+      "Ensure proper documentation of maintenance activities and machine history",
+      "Support installation, commissioning, and continuous improvement initiatives"
+    ],
+    requirements: [
+      "OND/HND or Trade Test/City & Guilds in Mechanical Engineering or related field",
+      "3 years’ experience in a manufacturing environment (FMCG/plastics preferred)",
+      "Experience with hydraulic, pneumatic systems, pumps, motors, conveyors, and packaging machines",
+      "Ability to read and interpret mechanical drawings and maintenance manuals",
+      "Experience with injection/blow moulding is an added advantage",
+      "Strong mechanical fitting and fabrication skills",
+      "Ability to troubleshoot mechanical, hydraulic, and pneumatic faults",
+      "Knowledge of lubrication, alignment, and maintenance practices",
+      "Familiarity with safety procedures (LOTO, confined space, etc.)",
+      "Good communication and teamwork skills",
+      "Willingness to learn and adapt"
+    ],
+    apply: 'Interested candidates should send their CV to: <a href="mailto:recruitmentonline2025@gmail.com">recruitmentonline2025@gmail.com</a>',
+    salary: "₦150,000 (Negotiable)",
+    deadline: "Not Specified"
+  },
+  {
     id: "officer-cheque-management-ilupeju",
     title: "Officer, Cheque Management",
     date: "2026-04-25",

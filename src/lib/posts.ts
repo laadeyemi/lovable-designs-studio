@@ -10,6 +10,243 @@ export type Post = {
 
 const allPosts: Post[] = [
   {
+    id: "eksu-nuc-accreditation-three-additional-programmes-2026",
+    title: "EKSU Secures Full NUC Accreditation for Three Additional Programmes",
+    category: "Education",
+    date: "2026-04-26",
+    excerpt: "Ekiti State University (EKSU), Ado Ekiti, has received full accreditation from the National Universities Commission (NUC) for three more academic programmes: Nursing Science, Adult Education, and Education English Language.",
+    content:
+      `<h2>EKSU Secures Full NUC Accreditation for Three Additional Programmes</h2>
+      <p>Ekiti State University (EKSU), Ado Ekiti, has received <strong>full accreditation</strong> from the National Universities Commission (NUC) for three more academic programmes.</p>
+      <p>The approval followed the commission’s October/November 2025 accreditation exercise, where NUC experts assessed the programmes based on staffing, facilities, and compliance with minimum academic standards.</p>
+      <br>
+      <h3>Newly Accredited Programmes</h3>
+      <p>The programmes granted full accreditation are:</p>
+      <ul>
+        <li>Nursing Science</li>
+        <li>Adult Education</li>
+        <li>Education English Language</li>
+      </ul>
+      <p>According to the NUC, the accreditation status for these programmes will remain valid for <strong>five years</strong>, after which they will be due for reaccreditation.</p>
+      <br>
+      <h3>Details of the Approval</h3>
+      <p>The accreditation was conveyed in an official letter dated <strong>7 April 2026</strong>, addressed to the Vice-Chancellor of EKSU. The letter was signed by the NUC Director of Accreditation, Engr. Abraham Chundusu, on behalf of the Executive Secretary.</p>
+      <p>The evaluation focused on both human and material resources available for the programmes, ensuring they meet national benchmarks for university education.</p>
+      <br>
+      <h3>Vice-Chancellor Reacts</h3>
+      <p>The Vice-Chancellor of EKSU, Joseph Babatola Ayodele, expressed satisfaction with the outcome.</p>
+      <p>He commended the Executive Secretary of the NUC for the approval and noted that the accreditation aligns with the university’s commitment to academic excellence.</p>
+      <p>He also acknowledged the support of Biodun Abayomi Oyebanji, Governor of Ekiti State and Visitor to the University, as well as the institution’s Governing Council and Senate for their contributions to the process.</p>
+      <br>
+      <h3>EKSU’s Accreditation Profile Improves</h3>
+      <p>With the addition of these three programmes, EKSU’s total number of fully accredited programmes has increased from <strong>76 to 79</strong>.</p>
+      <p>The university stated that this represents <strong>100% full accreditation status</strong> across its listed programmes, further strengthening its academic reputation.</p>
+      <br>
+      <h3>What This Means for Students</h3>
+      <p>The full accreditation confirms that the affected programmes meet the standards set by the NUC and are officially recognised for a five-year period.</p>
+      <p>For prospective students, especially those interested in Nursing Science and education-related courses, this update provides assurance about the quality and recognition of these programmes.</p>
+      <br>
+      <p>The latest accreditation milestone reinforces EKSU’s position as a competitive institution in Nigeria’s higher education system, with a growing record of fully approved academic programmes.</p>`,
+    tags: [
+      "EKSU",
+      "Ekiti State University",
+      "NUC",
+      "Accreditation",
+      "Nursing Science",
+      "Adult Education",
+      "Education English Language",
+      "2026",
+      "Education",
+      "Nigeria",
+    ],
+  },
+  {
+    id: "uuth-college-of-community-health-admission-2026-2027",
+    title: "UUTH Opens Admission into College of Community Health for 2026/2027 Session",
+    category: "Education",
+    date: "2026-04-26",
+    excerpt: "University of Uyo Teaching Hospital (UUTH) has announced the sale of application forms for admission into its College of Community Health for the 2026/2027 academic session.",
+    content:
+      `<h2>UUTH Opens Admission into College of Community Health for 2026/2027 Session</h2>
+      <p>University of Uyo Teaching Hospital (UUTH) has announced the sale of application forms for admission into its College of Community Health for the 2026/2027 academic session.</p>
+      <p>Interested applicants are advised to review the admission requirements, application fees, programme duration, and deadline before purchasing the form.</p>
+      <br>
+      <h3>Available Programme</h3>
+      <p>The admission is open to candidates with a background in community health, as well as degree holders in selected health-related fields.</p>
+      <p>A special <strong>one-year programme</strong> is also available for qualified degree holders.</p>
+      <br>
+      <h3>Admission Requirements</h3>
+      <p>Applicants must meet the following academic and professional criteria:</p>
+      <br>
+      <h4>Basic Qualification</h4>
+      <p>Candidates must possess either:</p>
+      <ul>
+        <li>Diploma in Community Health</li>
+        <li>Community Health Extension Workers (CHEW) Certificate</li>
+      </ul>
+      <br>
+      <h4>O’Level Requirements</h4>
+      <p>Applicants must have at least five credit passes in:</p>
+      <ul>
+        <li>English Language</li>
+        <li>Mathematics</li>
+        <li>Biology</li>
+        <li>Chemistry</li>
+        <li>Physics</li>
+      </ul>
+      <p>Results must be obtained in not more than two sittings from SSCE, WASCE, NECO, or GCE.</p>
+      <br>
+      <h4>Professional Registration</h4>
+      <p>Applicants must:</p>
+      <ul>
+        <li>Be registered with the Community Health Practitioners Registration Board of Nigeria</li>
+        <li>Hold a valid practising licence</li>
+      </ul>
+      <br>
+      <h3>One-Year Programme for Degree Holders</h3>
+      <p>Candidates with a first degree in Health Education, Community Health, or Public Health can apply for the <strong>one-year programme</strong>, designed specifically for degree holders seeking further professional training.</p>
+      <br>
+      <h3>Application Fee and Programme Duration</h3>
+      <br>
+      <h4>Degree Holders</h4>
+      <ul>
+        <li><strong>Application Fee:</strong> ₦15,000</li>
+        <li><strong>Duration:</strong> 1 academic session</li>
+      </ul>
+      <br>
+      <h4>Non-Degree Holders</h4>
+      <ul>
+        <li><strong>Application Fee:</strong> ₦10,000</li>
+        <li><strong>Duration:</strong> 2 academic sessions</li>
+      </ul>
+      <br>
+      <h3>How to Apply</h3>
+      <p>Applicants should obtain the application form directly from:</p>
+      <ul>
+        <li><strong>College of Community Health, University of Uyo Teaching Hospital, Uyo</strong></li>
+      </ul>
+      <p><strong>Important:</strong> Candidates must present their <strong>purchase receipt</strong> before the application form will be issued.</p>
+      <br>
+      <h3>Application Deadline</h3>
+      <ul>
+        <li><strong>Closing Date:</strong> Friday, 26 June 2026</li>
+      </ul>
+      <br>
+      <h3>Entrance Examination</h3>
+      <p>The date for the entrance examination has not yet been publicly announced. Shortlisted candidates will be contacted directly by the hospital with details of the examination.</p>
+      <br>
+      <p>Prospective applicants are encouraged to apply early and ensure all requirements are met to secure a place in the 2026/2027 admission cycle.</p>`,
+    tags: ["UUTH", "University of Uyo Teaching Hospital", "Admission", "Community Health", "2026/2027", "Education", "Nigeria"],
+  },
+  {
+    id: "bauchi-state-scholarship-deadline-extended-2026",
+    title: "Bauchi State Scholarship Deadline Extended to 30 April 2026",
+    category: "Scholarship",
+    date: "2026-04-26",
+    excerpt: "National Union of Bauchi State Students (NUBASS) has announced a new deadline for the 2026/2027 Bauchi State Scholarship application, extending it to April 30, 2026.",
+    content:
+      `<h2>Bauchi State Scholarship Deadline Extended to 30 April 2026</h2>
+      <p>National Union of Bauchi State Students (NUBASS) has announced a new deadline for the 2026/2027 Bauchi State Scholarship application.</p>
+      <p>The closing date has been extended from <strong>23 April 2026 to Thursday, 30 April 2026</strong>, giving eligible students additional time to complete and submit their applications.</p>
+      <br>
+      <h3>Reason for the Extension</h3>
+      <p>According to NUBASS, the extension followed efforts by its National President, Muhammad Sulaiman Abdulwahab, with support from the Bauchi State Government.</p>
+      <p>The union explained that the decision was influenced by feedback and appeals from students across various institutions. Many applicants experienced delays while trying to access the application portal or complete required documentation before the initial deadline.</p>
+      <br>
+      <h3>Who Should Apply Before the New Deadline</h3>
+      <p>The extension applies to <strong>eligible Bauchi State students</strong> who have not yet submitted their scholarship applications.</p>
+      <p>Students who fall into this category are advised to:</p>
+      <ul>
+        <li>Complete their applications before the new deadline</li>
+        <li>Review their details carefully</li>
+        <li>Ensure all required documents are properly uploaded</li>
+      </ul>
+      <p>This extension provides a <strong>final window</strong>, and applicants are urged not to delay further.</p>
+      <br>
+      <h3>What Happens After the Deadline</h3>
+      <p>NUBASS stated that once the portal closes on <strong>30 April 2026</strong>, the relevant authorities will begin:</p>
+      <ul>
+        <li>Screening of applications</li>
+        <li>Verification of submitted documents</li>
+        <li>Assessment based on eligibility criteria</li>
+      </ul>
+      <p>All submitted applications will undergo the official review process in line with the scholarship guidelines.</p>
+      <br>
+      <h3>NUBASS Message to Students</h3>
+      <p>The union encouraged all eligible students who are yet to apply to take advantage of the extended deadline and complete the process.</p>
+      <p>It also commended the level of participation recorded so far and assured students that updates will be provided as the scholarship process progresses.</p>
+      <br>
+      <h3>Final Deadline Reminder</h3>
+      <ul>
+        <li><strong>New Closing Date:</strong> Thursday, 30 April 2026</li>
+      </ul>
+      <p>Eligible applicants are strongly advised to submit their forms before the portal closes, as late applications may not be considered.</p>
+      <br>
+      <p>This extension offers a final opportunity for Bauchi State students to benefit from the scholarship programme for the 2026/2027 academic session.</p>`,
+    tags: [
+      "Bauchi State",
+      "Scholarship",
+      "NUBASS",
+      "Deadline Extension",
+      "2026/2027",
+      "Education",
+      "Nigeria",
+      "Students",
+    ],
+  },
+  {
+    id: "unidel-ijmb-foundation-school-admission-2026-2027",
+    title: "UNIDEL Opens IJMB Foundation School Admission for 2026/2027 Session",
+    category: "Education",
+    date: "2026-04-26",
+    excerpt: "University of Delta Agbor (UNIDEL) has announced the commencement of applications for its IJMB Foundation School programmes for the 2026/2027 academic session.",
+    content:
+      `<h2>UNIDEL Opens IJMB Foundation School Admission for 2026/2027 Session</h2>
+      <p>University of Delta Agbor (UNIDEL) has announced the commencement of applications for its IJMB Foundation School programmes for the <strong>2026/2027 academic session</strong>.</p>
+      <p>The IJMB programme serves as a pathway for candidates seeking admission into the university, offering an alternative route into undergraduate studies.</p>
+      <br>
+      <h3>Entry Requirements for UNIDEL IJMB Programme</h3>
+      <p>Prospective applicants must meet the following conditions:</p>
+      <br>
+      <h4>O’Level Requirements</h4>
+      <p>Candidates must have at least <strong>five credit passes</strong> in relevant subjects from any of the following examinations:</p>
+      <ul>
+        <li>SSCE</li>
+        <li>NECO</li>
+        <li>GCE O’Level</li>
+      </ul>
+      <p>All required credits must be obtained in <strong>not more than two sittings</strong>.</p>
+      <br>
+      <h4>JAMB Requirement</h4>
+      <p>Applicants are also expected to meet other matriculation requirements set by the Joint Admissions and Matriculation Board (JAMB).</p>
+      <br>
+      <h3>How to Apply for UNIDEL IJMB Admission</h3>
+      <p>Candidates applying for the first time should follow these steps carefully:</p>
+      <ol>
+        <li><strong>Get a Valid Email Address:</strong> Applicants must have an active and accessible email address. This will be used to receive login details such as application ID and password.</li>
+        <li><strong>Fill in Required Details:</strong> Provide Name, Surname, Email address, and Phone number on the application portal. After submission, login details will be sent to the email provided.</li>
+        <li><strong>Continue Application via Email Link:</strong> Open your email inbox, click the link sent to you, and continue your application on the portal.</li>
+      </ol>
+      <p>Applicants can complete their registration through the <a href="https://unidel.waeup.org/applicants/ijmb2026/register">official UNIDEL IJMB application portal</a>.</p>
+      <br>
+      <h3>Application Deadline</h3>
+      <ul>
+        <li><strong>Closing Date:</strong> Sunday, 31 May 2026</li>
+      </ul>
+      <p>Candidates are advised to complete their applications before the deadline to avoid disqualification or delays.</p>
+      <br>
+      <p>The UNIDEL IJMB Foundation School programme offers a structured route into university education, making it a suitable option for candidates seeking admission into degree programmes without direct entry through UTME.</p>`,
+    tags: [
+      "UNIDEL",
+      "University of Delta",
+      "Admission",
+      "IJMB",
+      "2026/2027",
+      "Education",
+      "Nigeria",
+    ],
+  },
+  {
     id: "rivers-state-university-postgraduate-admission-2026-2027",
     title: "Rivers Uni Opens Postgraduate Admission for 2026/2027 Academic Session",
     category: "Education",

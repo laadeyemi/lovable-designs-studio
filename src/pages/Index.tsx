@@ -5,8 +5,6 @@ import { Hero } from "@/components/Hero";
 import { Services } from "@/components/Services";
 import { Work } from "@/components/Work";
 import { Blog } from "@/components/Blog";
-import { Careers } from "@/components/Careers";
-import { Ads } from "@/components/Ads";
 import { Footer } from "@/components/Footer";
 
 const Index = () => {
@@ -17,10 +15,8 @@ const Index = () => {
       <Banner />
       <Hero />
       <Services />
-      <Work limit={5} />
+      <Work limit={3} />
       <Blog />
-      <Careers limit={5} />
-      <Ads />
       <Footer />
     </div>
   );

@@ -14,6 +14,8 @@ const AdsPage = lazy(() => import("./pages/Ads"));
 const About = lazy(() => import("./pages/About"));
 const Contact = lazy(() => import("./pages/Contact"));
 const Quote = lazy(() => import("./pages/Quote"));
+const Portfolio = lazy(() => import("./pages/Portfolio"));
+const Services = lazy(() => import("./pages/Services"));
 const BrandIdentity = lazy(() => import("./pages/BrandIdentity"));
 const OnlineService = lazy(() => import("./pages/OnlineService"));
 const MarketingDesign = lazy(() => import("./pages/MarketingDesign"));
@@ -42,9 +44,12 @@ const App = () => (
             <Route path="/careers" element={<Careers />} />
             <Route path="/ads" element={<AdsPage />} />
             <Route path="/about" element={<About />} />
+            <Route path="/portfolio" element={<Portfolio />} />
+            <Route path="/services" element={<Services />} />
             <Route path="/contact" element={<Contact />} />
             <Route path="/quote" element={<Quote />} />
             {/* service detail pages */}
+            <Route path="/services/brand-identity" element={<BrandIdentity />} />
             <Route path="/services/online-service" element={<OnlineService />} />
             <Route path="/services/marketing-design" element={<MarketingDesign />} />
             <Route path="/services/photo-video" element={<PhotoVideo />} />

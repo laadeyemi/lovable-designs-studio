@@ -21,27 +21,19 @@ const Quote = () => {
 
     setIsLoading(true);
     try {
-      const response = await fetch("https://api.resend.com/emails", {
+      // Use FormSubmit - free service with CORS support
+      const formData = new FormData();
+      formData.append("name", name);
+      formData.append("email", email);
+      formData.append("company", company);
+      formData.append("budget", budget);
+      formData.append("details", details);
+      formData.append("_captcha", "false");
+      formData.append("_next", window.location.href);
+
+      const response = await fetch("https://formsubmit.co/contact@ulktili.resend.app", {
         method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-          Authorization: `Bearer ${import.meta.env.VITE_RESEND_API_KEY}`,
-        },
-        body: JSON.stringify({
-          from: "onboarding@resend.dev",
-          to: "contact@ulktili.resend.app",
-          replyTo: email,
-          subject: `New Quote Request from ${name}`,
-          html: `
-            <h2>New Quote Request</h2>
-            <p><strong>Name:</strong> ${name}</p>
-            <p><strong>Email:</strong> ${email}</p>
-            <p><strong>Company:</strong> ${company || "Not provided"}</p>
-            <p><strong>Budget:</strong> ${budget || "Not specified"}</p>
-            <p><strong>Project Details:</strong></p>
-            <p>${details.replace(/\n/g, "<br>")}</p>
-          `,
-        }),
+        body: formData,
       });
 
       if (response.ok) {
@@ -52,8 +44,7 @@ const Quote = () => {
         setBudget("");
         setDetails("");
       } else {
-        const error = await response.json();
-        toast.error(error.message || "Failed to send request. Please try again.");
+        toast.error("Failed to send request. Please try again.");
       }
     } catch (error) {
       toast.error("An error occurred. Please try again.");
@@ -77,8 +68,8 @@ const Quote = () => {
 
           <form className="rounded-2xl border border-border p-8 bg-card" onSubmit={handleSubmit}>
             <div className="grid sm:grid-cols-2 gap-4 mb-4">
-              <input value={name} onChange={(e) => setName(e.target.value)} placeholder="Full name" className="w-full rounded-md border border-border px-4 py-3 bg-background" />
-              <input value={email} onChange={(e) => setEmail(e.target.value)} placeholder="Email" type="email" className="w-full rounded-md border border-border px-4 py-3 bg-background" />
+              <input value={name} onChange={(e) => setName(e.target.value)} placeholder="Full name" className="w-full rounded-md border border-border px-4 py-3 bg-background" required />
+              <input value={email} onChange={(e) => setEmail(e.target.value)} placeholder="Email" type="email" className="w-full rounded-md border border-border px-4 py-3 bg-background" required />
             </div>
 
             <div className="grid sm:grid-cols-2 gap-4 mb-4">
@@ -93,7 +84,7 @@ const Quote = () => {
             </div>
 
             <div className="mb-4">
-              <textarea value={details} onChange={(e) => setDetails(e.target.value)} placeholder="Project details / goals" rows={6} className="w-full rounded-md border border-border px-4 py-3 bg-background"></textarea>
+              <textarea value={details} onChange={(e) => setDetails(e.target.value)} placeholder="Project details / goals" rows={6} className="w-full rounded-md border border-border px-4 py-3 bg-background" required></textarea>
             </div>
 
             <div className="flex items-center justify-between">

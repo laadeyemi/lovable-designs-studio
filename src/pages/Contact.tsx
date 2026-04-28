@@ -19,25 +19,17 @@ const Contact = () => {
 
     setIsLoading(true);
     try {
-      const response = await fetch("https://api.resend.com/emails", {
+      // Use FormSubmit - free service with CORS support
+      const formData = new FormData();
+      formData.append("name", name);
+      formData.append("email", email);
+      formData.append("message", message);
+      formData.append("_captcha", "false");
+      formData.append("_next", window.location.href);
+
+      const response = await fetch("https://formsubmit.co/contact@ulktili.resend.app", {
         method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-          Authorization: `Bearer ${import.meta.env.VITE_RESEND_API_KEY}`,
-        },
-        body: JSON.stringify({
-          from: "onboarding@resend.dev",
-          to: "contact@ulktili.resend.app",
-          replyTo: email,
-          subject: `New Contact Form Submission from ${name}`,
-          html: `
-            <h2>New Contact Form Submission</h2>
-            <p><strong>Name:</strong> ${name}</p>
-            <p><strong>Email:</strong> ${email}</p>
-            <p><strong>Message:</strong></p>
-            <p>${message.replace(/\n/g, "<br>")}</p>
-          `,
-        }),
+        body: formData,
       });
 
       if (response.ok) {
@@ -46,8 +38,7 @@ const Contact = () => {
         setEmail("");
         setMessage("");
       } else {
-        const error = await response.json();
-        toast.error(error.message || "Failed to send message. Please try again.");
+        toast.error("Failed to send message. Please try again.");
       }
     } catch (error) {
       toast.error("An error occurred. Please try again.");
@@ -73,15 +64,15 @@ const Contact = () => {
           <form onSubmit={handleSubmit} className="space-y-4 mb-8">
             <div>
               <label className="text-sm mb-2 block">Name</label>
-              <input value={name} onChange={(e) => setName(e.target.value)} className="w-full rounded-md border border-border px-4 py-3 bg-card" />
+              <input value={name} onChange={(e) => setName(e.target.value)} className="w-full rounded-md border border-border px-4 py-3 bg-card" placeholder="Your name" />
             </div>
             <div>
               <label className="text-sm mb-2 block">Email</label>
-              <input value={email} onChange={(e) => setEmail(e.target.value)} type="email" className="w-full rounded-md border border-border px-4 py-3 bg-card" />
+              <input value={email} onChange={(e) => setEmail(e.target.value)} type="email" className="w-full rounded-md border border-border px-4 py-3 bg-card" placeholder="your@email.com" />
             </div>
             <div>
               <label className="text-sm mb-2 block">Message</label>
-              <textarea value={message} onChange={(e) => setMessage(e.target.value)} rows={5} className="w-full rounded-md border border-border px-4 py-3 bg-card" />
+              <textarea value={message} onChange={(e) => setMessage(e.target.value)} rows={5} className="w-full rounded-md border border-border px-4 py-3 bg-card" placeholder="Your message here..." />
             </div>
             <div>
               <button type="submit" disabled={isLoading} className="rounded-md bg-primary px-5 py-3 text-primary-foreground font-semibold disabled:opacity-50 disabled:cursor-not-allowed">{isLoading ? "Sending..." : "Send message"}</button>

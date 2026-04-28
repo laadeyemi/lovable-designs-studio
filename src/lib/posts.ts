@@ -10,6 +10,49 @@ export type Post = {
 
 const allPosts: Post[] = [
   {
+    id: "nnpc-nae-psc-postgraduate-scholarship-2026-2027",
+    title: "🎓 NNPC/NAE PSC Postgraduate Scholarship Scheme (2026/2027)",
+    category: "Scholarship",
+    date: "2026-04-28",
+    excerpt: "An opportunity for outstanding Nigerian graduates to pursue a fully funded one-year Master’s degree locally or overseas.",
+    content:
+      `<h2>NNPC/NAE PSC Postgraduate Scholarship Scheme (2026/2027)</h2>
+      <p>The Nigerian National Petroleum Company Limited (NNPC) and Nigerian Agip Exploration Limited (NAE) are offering an opportunity for outstanding Nigerian graduates to pursue a fully funded one-year Master’s degree locally or overseas.</p>
+      <p>This scholarship scheme is part of the NNPC/NAE PSC Corporate Social Responsibility (CSR) initiative, aimed at promoting academic excellence and manpower development in Nigeria’s oil and gas industry.</p>
+      <br>
+      <h3>Key Requirements</h3>
+      <p>To be eligible for the scholarship, applicants must meet the following criteria:</p>
+      <ul>
+        <li>Possess a minimum of <strong>Second Class Upper (2.1)</strong> degree in a relevant field.</li>
+        <li>Have secured <strong>admission into a recognised university</strong> for a one-year Master’s degree programme.</li>
+        <li>Must have <strong>completed the National Youth Service Corps (NYSC)</strong> programme.</li>
+        <li>Must <strong>not be above 28 years of age</strong> by December 31, 2026.</li>
+      </ul>
+      <br>
+      <h3>Eligible Fields of Study</h3>
+      <p>The scholarship is available for candidates pursuing a Master's degree in the following fields:</p>
+      <ul>
+        <li>Geosciences</li>
+        <li>Engineering</li>
+        <li>Petroleum Economics</li>
+        <li>Oil & Gas Law</li>
+      </ul>
+      <br>
+      <h3>How to Apply</h3>
+      <p>Interested and qualified candidates are invited to apply online through the official application portal.</p>
+      <p><strong>Apply here:</strong> <a href="https://candidate.scholastica.ng/schemes/thennpcltdnaescholarships2026" target="_blank" rel="noopener noreferrer">NNPC/NAE Scholarship Application Portal</a></p>
+      <br>
+      <p>Ensure you review all requirements and have your documents ready before starting the application. This is a prestigious opportunity to advance your academic career with full financial support.</p>`,
+    tags: [
+      "NNPC",
+      "NAE",
+      "Scholarship",
+      "Postgraduate",
+      "Education",
+      "Nigeria",
+    ],
+  },
+  {
     id: "eksu-nuc-accreditation-three-additional-programmes-2026",
     title: "EKSU Secures Full NUC Accreditation for Three Additional Programmes",
     category: "Education",

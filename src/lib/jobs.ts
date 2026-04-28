@@ -15,6 +15,514 @@ export type Job = {
 
 const allJobs: Job[] = [
   {
+    id: "chief-operating-officer-coo-lagos-2026",
+    title: "Chief Operating Officer (COO)",
+    date: "2026-04-28",
+    location: "Lagos",
+    type: "Full-Time",
+    seniority: "Senior",
+    summary: "Senior leadership role to lead operations, oversee project delivery, and drive efficiency across multiple construction, chemical manufacturing, and distribution sites.",
+    responsibilities: [
+      "Lead construction operations, project delivery, and site management",
+      "Oversee multiple projects, ensuring efficiency, cost control, and quality",
+      "Ensure compliance with safety, regulatory, and industry standards",
+      "Drive process improvement and operational excellence",
+      "Manage stakeholders including clients, contractors, and internal teams"
+    ],
+    requirements: [
+      "Bachelor’s degree in Engineering, Construction Management, or related field (MBA is a plus)",
+      "10–15 years’ experience in construction",
+      "4–6 years in a senior leadership role",
+      "Strong expertise in operations, project management, and cost control"
+    ],
+    apply: 'Send your CV to <a href="mailto:careers@elizabethmaddeux.com">careers@elizabethmaddeux.com</a> with subject: Chief Operating Officer',
+    salary: "₦1,000,000 – ₦1,500,000",
+    deadline: "Not Specified"
+  },
+  {
+    id: "gm-operations-pinnacle-oil-gas-2026",
+    title: "GM, Operations",
+    date: "2026-04-28",
+    location: "Lagos",
+    type: "Full-time",
+    seniority: "Senior",
+    summary: "Strategic leadership role responsible for Providing operational leadership across logistics, distribution, supply and trading, terminal (depot), marine, and jetty operations.",
+    responsibilities: [
+      "Provide strategic leadership and planning for operations",
+      "Oversee supply, trading, and distribution channels",
+      "Manage logistics and transportation networks",
+      "Direct terminal and depot operations",
+      "Oversee marine and jetty operations",
+      "Ensure compliance, HSE, and risk management",
+      "Lead team performance and development"
+    ],
+    requirements: [
+      "Bachelor’s Degree in Engineering, Supply Chain, or Marine Logistics",
+      "Master’s Degree (MBA or M.Sc.) is a strong advantage",
+      "Minimum of 15 years experience in downstream oil and gas",
+      "At least 5 years in senior leadership overseeing complex multi-site operations",
+      "Proven success in managing terminal/depot infrastructure and marine discharge"
+    ],
+    apply: 'Send emails to <a href="mailto:careers@pinnacleoilandgas.com">careers@pinnacleoilandgas.com</a>',
+    salary: "Not Specified",
+    deadline: "30 April 2026"
+  },
+  {
+    id: "customer-service-officer-fashion-brand-chevron",
+    title: "Customer Service Officer",
+    date: "2026-04-28",
+    location: "Chevron, Lagos",
+    type: "Full-time",
+    summary: "Join a growing fashion brand to attend to customers, resolve inquiries, and ensure excellent satisfaction while maintaining a professional image.",
+    responsibilities: [
+      "Attend to customers and resolve inquiries",
+      "Manage customer complaints effectively",
+      "Ensure excellent customer satisfaction",
+      "Maintain the brand’s professional image"
+    ],
+    requirements: [
+      "HND/B.Sc. in any related field",
+      "1–2 years experience in customer service",
+      "Strong communication and interpersonal skills",
+      "Good problem-solving ability",
+      "Professional and customer-friendly attitude"
+    ],
+    apply: 'Send your CV to <a href="mailto:globeeasyhr@gmail.com">globeeasyhr@gmail.com</a>. Use the Job Title as the subject.',
+    salary: "₦100,000",
+    deadline: "May 1st, 2026"
+  },
+  {
+    id: "house-keeper-ikoyi-lagos-2026",
+    title: "House Keeper",
+    date: "2026-04-28",
+    location: "Ikoyi, Lagos",
+    type: "Full-time",
+    summary: "Experienced housekeeper needed for a residence in Ikoyi.",
+    responsibilities: [
+      "Maintain cleanliness and organization of the residence",
+      "Handle laundry and basic household chores",
+      "Ensure supplies are replenished"
+    ],
+    requirements: [
+      "Preferably a female",
+      "Minimum of 2 years experience",
+      "Proximity to Ikoyi, Lagos"
+    ],
+    apply: 'Interested persons should fill the form: <a href="https://forms.gle/3b1LvL8LjnZuHwvb9">Apply Online</a>',
+    salary: "₦100,000",
+    deadline: "Not Specified"
+  },
+  {
+    id: "executive-driver-c-suite-ikoyi-2026",
+    title: "Executive Driver",
+    date: "2026-04-28",
+    location: "Ikoyi, Lagos",
+    type: "Full-time",
+    summary: "Reliable Executive Driver with experience driving for C-Suite executives.",
+    responsibilities: [
+      "Safely transport C-Suite executives",
+      "Ensure vehicle maintenance and cleanliness",
+      "Maintain confidentiality and professionalism"
+    ],
+    requirements: [
+      "Minimum of 5 years experience",
+      "Minimum of 30 years old",
+      "Proximity to Ikoyi, Lagos"
+    ],
+    apply: 'Interested persons should fill the form: <a href="https://forms.gle/3b1LvL8LjnZuHwvb9">Apply Online</a>',
+    salary: "₦200,000",
+    deadline: "Not Specified"
+  },
+  {
+    id: "estate-surveyor-valuer-solid-groups-ikoyi-2026",
+    title: "Estate Surveyor & Valuer / Property Manager",
+    date: "2026-04-28",
+    location: "Ikoyi, Lagos",
+    type: "Full-time",
+    summary: "Manage and value real estate properties, handling everything from rent collection and maintenance to sales, leasing, and consultancy.",
+    responsibilities: [
+      "Conduct property valuations for market or rental value",
+      "Manage and maintain properties on behalf of owners",
+      "Facilitate real estate sales and leasing transactions",
+      "Advise clients on land and property development",
+      "Provide real estate consultancy and investment strategies",
+      "Assist with land acquisition and disposal",
+      "Advise on property taxation matters",
+      "Conduct real estate market research and analysis",
+      "Manage client relations and networking",
+      "Ensure legal and regulatory compliance"
+    ],
+    requirements: [
+      "HND/Bachelor’s degree in Business Admin, Estate Management, or related field",
+      "2-3 years experience in property management and valuation",
+      "Strong leadership, communication, and organizational skills",
+      "Proficiency in Microsoft Office and reporting tools"
+    ],
+    apply: 'Send your CV to <a href="mailto:hr.solidgroups@gmail.com">hr.solidgroups@gmail.com</a>',
+    salary: "₦250,000 - ₦300,000",
+    deadline: "30th April, 2026"
+  },
+  {
+    id: "technical-sales-engineer-flowitec-lagos",
+    title: "Technical Sales Engineer (Flowitec)",
+    date: "2026-04-28",
+    location: "Lagos (Onsite)",
+    type: "Full-time",
+    summary: "Drive sales of mechanical engineering solutions, combining technical expertise with strong commercial acumen to build long-term client relationships.",
+    responsibilities: [
+      "Identify and close new business opportunities",
+      "Understand client needs and recommend tailored engineering solutions",
+      "Deliver technical presentations, proposals, and product demos",
+      "Collaborate with engineering and supply chain teams",
+      "Provide after-sales support and ensure customer satisfaction",
+      "Track sales pipeline and provide performance reports"
+    ],
+    requirements: [
+      "Bachelor’s degree in Mechanical Engineering or related field",
+      "Proven experience in technical or industrial sales",
+      "Strong understanding of mechanical systems",
+      "Excellent communication & negotiation skills",
+      "Proficiency in Microsoft Office & CRM tools"
+    ],
+    apply: 'Send your CV to <a href="mailto:yomade.hrleverage@gmail.com">yomade.hrleverage@gmail.com</a> using “Technical Sales Engineer – Lagos” as subject.',
+    salary: "₦350,000 – ₦500,000",
+    deadline: "Not Specified"
+  },
+  {
+    id: "social-media-content-lead-yogurt-surulere",
+    title: "Social Media & Content Lead",
+    date: "2026-04-28",
+    location: "Masha, Surulere, Lagos (On-site)",
+    type: "Full-time",
+    summary: "Lead for a Yogurt Manufacturing brand to own social media presence end-to-end, creating high-quality storytelling and brand representation.",
+    responsibilities: [
+      "Own and manage all company social media platforms",
+      "Develop and maintain a monthly content calendar",
+      "Create short-form content independently (reels, TikTok)",
+      "Write captions and manage community engagement",
+      "Execute online and offline marketing campaigns",
+      "Prepare weekly and monthly performance reports"
+    ],
+    requirements: [
+      "2–4 years experience managing brand social media accounts",
+      "Proven experience creating engaging short-form video content",
+      "Strong storytelling and content planning ability",
+      "Ability to shoot quick mobile content when needed",
+      "Strong copywriting and analytical skills"
+    ],
+    apply: 'Fill out the application form: <a href="https://forms.gle/3Z1AtkowRfHG4NMu8">Apply Online</a>',
+    salary: "₦300,000 – ₦400,000",
+    deadline: "Not Specified"
+  },
+  {
+    id: "safety-manager-calabar-2026",
+    title: "Safety Manager",
+    date: "2026-04-28",
+    location: "Calabar",
+    type: "Full-time",
+    summary: "Experienced professional to ensure a safe and compliant working environment across company operations in Calabar.",
+    responsibilities: [
+      "Maintain a safe and compliant working environment",
+      "Implement occupational health and safety standards",
+      "Conduct safety audits and reporting",
+      "Monitor workplace hazards and implement controls"
+    ],
+    requirements: [
+      "Minimum of HND/Bachelor’s degree in a relevant field",
+      "Age limit: Below 40 years",
+      "At least 2–4 years experience in a safety-related role",
+      "Relevant safety certifications (e.g., HSE) are an added advantage"
+    ],
+    apply: 'Send CV to: <a href="mailto:stanmasrecruiters@gmail.com">stanmasrecruiters@gmail.com</a>',
+    salary: "Competitive",
+    deadline: "April 30, 2026"
+  },
+  {
+    id: "accountant-itmafrica-wuse-2-abuja",
+    title: "Accountant",
+    date: "2026-04-28",
+    location: "Wuse 2, Abuja",
+    type: "Full-time",
+    summary: "Responsible for overseeing the full accounting lifecycle across project, trading, service, and production business units.",
+    responsibilities: [
+      "Handle all project accounting (income, expenses, WIP)",
+      "Manage purchases, sales, inventory, and monthly stock counts",
+      "Compute COGS and gross profit",
+      "Track production costs and update finished goods records",
+      "Prepare monthly and annual financial statements",
+      "Process payroll and ensure statutory filings"
+    ],
+    requirements: [
+      "B.Sc. in Accounting, Finance, or related field",
+      "ACA, ACCA, or ICAN certification (mandatory)",
+      "5+ years relevant experience in multi-function accounting",
+      "Proficiency in QuickBooks, Sage, or similar software",
+      "Strong IFRS and tax knowledge"
+    ],
+    apply: 'Send CV to <a href="mailto:recruitment.ng@itmafrica.com">recruitment.ng@itmafrica.com</a>',
+    salary: "₦300,000 - ₦500,000",
+    deadline: "Not Specified"
+  },
+  {
+    id: "content-creator-fashion-brand-chevron",
+    title: "Content Creator",
+    date: "2026-04-28",
+    location: "Chevron, Lagos",
+    type: "Full-time",
+    summary: "Create engaging social media content and develop brand campaigns for a fashion brand to improve online visibility.",
+    responsibilities: [
+      "Create engaging social media content",
+      "Develop brand campaigns",
+      "Improve online visibility and engagement"
+    ],
+    requirements: [
+      "Proven experience in content creation",
+      "Strong creativity and storytelling skills",
+      "Social media management knowledge",
+      "Basic design/video editing skills is an added advantage"
+    ],
+    apply: 'Send CV to <a href="mailto:globeeasyhr@gmail.com">globeeasyhr@gmail.com</a>. Use the Job Title as the subject.',
+    salary: "₦250,000",
+    deadline: "May 1st, 2026"
+  },
+  {
+    id: "logistics-monitoring-assistant-nysc-chevron",
+    title: "Logistics/Monitoring Assistant (NYSC)",
+    date: "2026-04-28",
+    location: "Chevron, Lagos",
+    type: "Internship (NYSC)",
+    summary: "Support-based role for an NYSC member to coordinate deliveries and track the movement of goods.",
+    responsibilities: [
+      "Coordinate deliveries and track movement of goods",
+      "Monitor daily logistics operations",
+      "Support general logistics processes"
+    ],
+    requirements: [
+      "Currently serving (NYSC) in Lagos",
+      "Good organizational and tracking skills",
+      "Attention to detail",
+      "Willingness to learn and adapt quickly"
+    ],
+    apply: 'Send CV to <a href="mailto:globeeasyhr@gmail.com">globeeasyhr@gmail.com</a>. Use the Job Title as the subject.',
+    salary: "Not Specified",
+    deadline: "May 1st, 2026"
+  },
+  {
+    id: "operations-manager-fashion-brand-chevron",
+    title: "Operations Manager",
+    date: "2026-04-28",
+    location: "Chevron, Lagos",
+    type: "Full-time",
+    summary: "Oversee daily business operations and coordinate teams for a fashion brand to improve workflow efficiency.",
+    responsibilities: [
+      "Oversee daily business operations",
+      "Coordinate teams and improve workflow efficiency",
+      "Ensure smooth organizational processes"
+    ],
+    requirements: [
+      "HND/B.Sc. in Business Administration or related field",
+      "2–4 years relevant experience",
+      "Strong leadership and organizational skills",
+      "Good reporting and decision-making skills"
+    ],
+    apply: 'Send CV to <a href="mailto:globeeasyhr@gmail.com">globeeasyhr@gmail.com</a>. Use the Job Title as the subject.',
+    salary: "₦180,000",
+    deadline: "May 1st, 2026"
+  },
+  {
+    id: "it-officer-hospitality-ikeja-lagos",
+    title: "IT Officer (Hospitality)",
+    date: "2026-04-28",
+    location: "Ikeja, Lagos State",
+    type: "Full-time",
+    summary: "Competent and detail-oriented junior IT Officer to provide technical support and maintain IT systems for a reputable Spa and wellness center.",
+    responsibilities: [
+      "Provide first-level technical support for hardware and software",
+      "Install and maintain computer systems and peripherals",
+      "Monitor IT infrastructure for performance and security",
+      "Maintain accurate records of IT assets",
+      "Ensure compliance with IT policies"
+    ],
+    requirements: [
+      "Minimum of National Diploma (ND) in IT, Computer Science, or related",
+      "Preferably male",
+      "Basic knowledge of hardware, software, and networking",
+      "Good problem-solving and communication skills"
+    ],
+    apply: 'Apply and submit your CV using the link: <a href="https://forms.gle/WEHfVzJSsxZEwiCb9">Online Form</a>',
+    salary: "₦200,000 (Net)",
+    deadline: "Not Specified"
+  },
+  {
+    id: "assistant-pie-production-supervisor-food-concepts-abuja",
+    title: "Assistant Pie Production Supervisor",
+    date: "2026-04-28",
+    location: "Abuja",
+    type: "Full-time",
+    summary: "Support daily production operations, ensure quality standards, and maintain food safety compliance for Food Concepts PLC.",
+    responsibilities: [
+      "Supervise production staff and maintain workflow",
+      "Monitor process steps, control points, and equipment",
+      "Ensure Health, Safety, and Food Safety compliance",
+      "Maintain workplace safety and enforce quality standards",
+      "Document and report quality issues",
+      "Support staff training and development"
+    ],
+    requirements: [
+      "Relevant experience in food production",
+      "Strong understanding of food safety standards",
+      "Ability to supervise teams effectively"
+    ],
+    apply: 'Send applications to: <a href="mailto:careers@foodconceptsplc.com">careers@foodconceptsplc.com</a>',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "receptionist-travel-visa-lekki-lagos",
+    title: "Receptionist",
+    date: "2026-04-28",
+    location: "Lekki Phase 1, Lagos",
+    type: "Contract",
+    summary: "Serve as the face of a growing travel and visa services organization, ensuring a welcoming and professional front desk environment.",
+    responsibilities: [
+      "Welcome and attend to visitors and clients",
+      "Answer phone calls and direct inquiries",
+      "Manage appointment scheduling and office coordination",
+      "Maintain a clean and organized reception area",
+      "Handle basic administrative and clerical duties"
+    ],
+    requirements: [
+      "Minimum of OND / HND",
+      "Proven experience in a front desk or administrative role",
+      "Excellent communication and interpersonal skills",
+      "Good appearance and professional demeanor",
+      "Basic computer skills"
+    ],
+    apply: 'Send CV to: <a href="mailto:yomade.hrleverage@gmail.com">yomade.hrleverage@gmail.com</a> using “Receptionist – Lagos” as subject.',
+    salary: "Not Specified",
+    deadline: "18th May, 2026"
+  },
+  {
+    id: "hr-manager-stellar-steel-ewekoro-ogun",
+    title: "Human Resource Manager",
+    date: "2026-04-28",
+    location: "Ewekoro, Ogun",
+    type: "Full-time",
+    summary: "Manage core HR functions including recruitment, employee relations, and strategy for Stellar Steel Company Limited.",
+    responsibilities: [
+      "Develop recruitment strategies and manage onboarding",
+      "Address grievances and maintain a positive work environment",
+      "Evaluate employee performance and appraisal systems",
+      "Organize training and career growth initiatives",
+      "Oversee payroll and benefits administration",
+      "Ensure adherence to employment laws"
+    ],
+    requirements: [
+      "Experience in HR management in a manufacturing environment preferred",
+      "Degree in Human Resources or related field",
+      "Strong knowledge of labor laws and HR strategy"
+    ],
+    apply: 'Send CV to: <a href="mailto:starich.hr@yahoo.com">starich.hr@yahoo.com</a> using the job title as subject.',
+    salary: "₦280,000 – ₦325,000",
+    deadline: "30th April, 2026"
+  },
+  {
+    id: "sales-representative-skincare-trade-fair-lagos",
+    title: "Sales Representative (Skincare)",
+    date: "2026-04-28",
+    location: "Trade Fair, Lagos",
+    type: "Full-time",
+    summary: "Attend to customers and drive sales for a skincare business located at Trade Fair, Lagos.",
+    responsibilities: [
+      "Attend to walk-in customers",
+      "Drive in-store and online sales",
+      "Process transactions and issue receipts",
+      "Maintain store appearance and organization",
+      "Support inventory and stock management"
+    ],
+    requirements: [
+      "HND/B.Sc qualification",
+      "1–3 years experience in retail or customer-facing roles",
+      "Passion for skincare/cosmetics is an advantage",
+      "Must reside around Trade Fair"
+    ],
+    apply: 'Send CV to: <a href="mailto:crestructureinfos@gmail.com">crestructureinfos@gmail.com</a>. Use “Sales Representative Trade Fair” as subject.',
+    salary: "₦100,000",
+    deadline: "Not Specified"
+  },
+  {
+    id: "sales-executive-fmcg-abuja-2026",
+    title: "Sales Executive (FMCG)",
+    date: "2026-04-28",
+    location: "Abuja",
+    type: "Full-time",
+    summary: "Passionate and results-oriented professional to join a growing FMCG team in Abuja.",
+    responsibilities: [
+      "Drive sales and achieve assigned targets",
+      "Develop and maintain relationships with distributors and retailers",
+      "Identify new market opportunities",
+      "Ensure proper product visibility and merchandising",
+      "Provide timely market feedback and competitor insights"
+    ],
+    requirements: [
+      "Minimum of 2 years FMCG sales experience",
+      "Strong negotiation and communication skills",
+      "Good knowledge of assigned territory",
+      "Minimum qualification: OND / HND / BSc"
+    ],
+    apply: 'Interested candidates should apply via: <a href="https://forms.gle/8jEw8Xk8RmvqYJdNA">Online Form</a>',
+    salary: "Competitive package",
+    deadline: "Not Specified"
+  },
+  {
+    id: "it-support-officer-solid-groups-lagos-2026",
+    title: "IT Support Officer",
+    date: "2026-04-28",
+    location: "Lagos",
+    type: "Full-time",
+    summary: "Responsible for providing day-to-day technical support, maintaining WordPress websites, and managing digital presence including social media and content design.",
+    responsibilities: [
+      "Provide technical support and troubleshoot hardware/software issues",
+      "Manage and maintain WordPress websites",
+      "Design digital materials (flyers, banners)",
+      "Edit and produce video content",
+      "Manage and update social media accounts",
+      "Perform data backups and ensure system integrity",
+      "Support listing of products on digital platforms"
+    ],
+    requirements: [
+      "Proven experience in IT support or similar role",
+      "Strong knowledge of computer systems and networks",
+      "Proficiency in WordPress CMS",
+      "Experience with design tools (Canva, CapCut, Adobe)",
+      "Ability to manage multiple tasks and meet deadlines"
+    ],
+    apply: 'Send CV to <a href="mailto:hr.solidgroups@gmail.com">hr.solidgroups@gmail.com</a> with the Role as the Subject.',
+    salary: "₦150,000 - ₦200,000",
+    deadline: "Not Specified"
+  },
+  {
+    id: "business-development-manager-financial-services-lekki-2026",
+    title: "Business Development Manager (Financial Services)",
+    date: "2026-04-28",
+    location: "Lekki, Lagos",
+    type: "Full-time",
+    summary: "Experienced manager for a CBN-licensed Financial Services Company to manage client accounts and drive revenue growth.",
+    responsibilities: [
+      "Manage existing client accounts",
+      "Drive new business opportunities",
+      "Grow revenue and client portfolio"
+    ],
+    requirements: [
+      "Minimum of 5 years’ experience in a Commercial Bank or Finance Company",
+      "Strong understanding of financial products",
+      "Degree in Sales, Marketing, or related field"
+    ],
+    apply: 'Apply here: <a href="https://forms.gle/TMz65MeDaEGhQ1WF6">Online Form</a>',
+    salary: "₦750,000 (Monthly Gross)",
+    deadline: "Not Specified"
+  },
+  {
     id: "computer-technician-jibowu-yaba",
     title: "Computer Technician",
     date: "2026-04-26",

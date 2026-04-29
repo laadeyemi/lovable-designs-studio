@@ -10,8 +10,242 @@ export type Post = {
 
 const allPosts: Post[] = [
   {
+    id: "funato-official-university-anthem-competition-2026",
+    title: "FUNATO Invites Students to Compose Official University Anthem",
+    category: "Education",
+    date: "2026-04-29",
+    excerpt: "The Federal University of Agriculture and Technology, Okeho (FUNATO) is calling for student entries to compose its official anthem, with prizes up to ₦250,000.",
+    content:
+      `<h2>FUNATO Invites Students to Compose Official University Anthem</h2>
+      <p>The Federal University of Agriculture and Technology, Okeho (FUNATO), has announced a call for entries from students to create its official university anthem. The decision, approved by the university Senate, opens the door for creative students to contribute a lasting piece to the institution’s identity.</p>
+      <p>This opportunity is open to students with talent in writing, music composition, or both. The selected entry will become the official anthem of the university, making this a rare chance to leave a permanent mark on FUNATO’s history.</p>
+      <hr>
+      <h2>What FUNATO is Looking For</h2>
+      <p>FUNATO is inviting submissions in the form of:</p>
+      <ul>
+        <li><strong>Written compositions (lyrics)</strong></li>
+        <li><strong>Voice compositions (recorded anthem)</strong></li>
+        <li>Or a <strong>combination of both</strong></li>
+      </ul>
+      <p>Students are encouraged to submit original and well-prepared entries that reflect the values and spirit of the university. All submissions will be reviewed by a dedicated panel set up by the institution.</p>
+      <hr>
+      <h2>How to Submit Your Entry</h2>
+      <p>All entries should be directed to the <strong>Dean of Students, Professor Luqman Akinbile</strong>.</p>
+      <p>Submissions must be sent via WhatsApp using the official number below:</p>
+      <ul>
+        <li><strong>0802 325 0454</strong></li>
+      </ul>
+      <p>Applicants are advised to ensure their submissions are clear, polished, and properly presented, as unclear audio or poorly written text may affect the chances of selection.</p>
+      <hr>
+      <h2>Prizes for Winning Entries</h2>
+      <p>FUNATO has announced cash rewards for the top three entries:</p>
+      <ul>
+        <li><strong>1st Prize:</strong> ₦250,000</li>
+        <li><strong>2nd Prize:</strong> ₦200,000</li>
+        <li><strong>3rd Prize:</strong> ₦150,000</li>
+      </ul>
+      <p>The best overall entry will be adopted as the official university anthem.</p>
+      <hr>
+      <h2>Submission Deadline</h2>
+      <p>The deadline for all entries is:</p>
+      <p><strong>Friday, 8 May 2026 (close of work)</strong></p>
+      <p>Students interested in participating are encouraged to submit their entries on time. Late submissions will not be accepted, regardless of quality.</p>
+      <hr>
+      <h2>Final Note</h2>
+      <p>This competition is more than just a contest—it is a chance to contribute creatively to FUNATO’s legacy. Students with a passion for music, writing, or both should take advantage of this opportunity and submit their best work before the deadline.</p>`,
+    tags: ["FUNATO", "University Anthem", "Competition", "Education", "Nigeria", "Music", "Writing"],
+  },
+  {
+    id: "michael-olusoji-foundation-scholarship-2026",
+    title: "Michael Olusoji Foundation Scholarship 2026 Opens for Nigerian Students",
+    category: "Scholarship",
+    date: "2026-04-29",
+    excerpt: "The Michael Olusoji Foundation has opened applications for its 2026 scholarship programme, offering grants and mentorship to aspirants and undergraduates in Nigerian federal universities.",
+    content:
+      `<h2>Michael Olusoji Foundation Scholarship 2026 Opens for Nigerian Students</h2>
+      <p>The Michael Olusoji Foundation has officially opened applications for its 2026 scholarship programme, offering financial support to Nigerian students with strong academic potential who are facing financial challenges.</p>
+      <p>This initiative is designed to help students stay on track with their education by providing not just funding, but also mentorship and access to a supportive academic community.</p>
+      <hr>
+      <h2>Who the Scholarship is For</h2>
+      <p>The scholarship targets two categories of students:</p>
+      <ul>
+        <li><strong>Aspirants</strong> – students preparing to gain admission into federal universities in Nigeria</li>
+        <li><strong>Undergraduates</strong> – students already studying in Nigerian federal universities</li>
+      </ul>
+      <p>For many students, financial difficulties can delay or even derail academic plans. This scholarship aims to bridge that gap by supporting talented individuals who are determined to succeed despite limited resources.</p>
+      <hr>
+      <h2>Eligibility Criteria for Aspirants</h2>
+      <p>Students applying under the aspirant category must meet the following requirements:</p>
+      <ul>
+        <li>Must be seeking admission into a federal university in Nigeria</li>
+        <li>Must have at least <strong>five (5) O’Level credits</strong>, including <strong>English Language and Mathematics</strong></li>
+        <li>Must have a <strong>JAMB score of 250 or above</strong></li>
+        <li>Must be available to attend the scholarship conference and award event if selected</li>
+      </ul>
+      <p><strong>Award Details:</strong></p>
+      <ul>
+        <li>₦50,000 grant</li>
+        <li>Only <strong>10 applicants</strong> will be selected</li>
+      </ul>
+      <hr>
+      <h2>Eligibility Criteria for Undergraduates</h2>
+      <p>Applicants in this category must:</p>
+      <ul>
+        <li>Be currently enrolled in a <strong>federal university in Nigeria</strong></li>
+        <li>Have a <strong>minimum CGPA of 3.5 on a 5.0 scale</strong></li>
+        <li>Demonstrate strong academic performance</li>
+        <li>Be available for the scholarship conference and award event if selected</li>
+      </ul>
+      <p><strong>Award Details:</strong></p>
+      <ul>
+        <li>₦40,000 grant</li>
+        <li>Only <strong>10 students</strong> will be selected</li>
+      </ul>
+      <hr>
+      <h2>Scholarship Benefits</h2>
+      <p>Beyond the financial support, the Michael Olusoji Foundation Scholarship offers:</p>
+      <ul>
+        <li>Funding to support essential academic needs</li>
+        <li>Mentorship and academic guidance</li>
+        <li>Access to a network of like-minded, high-achieving students</li>
+      </ul>
+      <p>This combination of financial aid and community support makes the programme especially valuable for students navigating academic and personal challenges.</p>
+      <hr>
+      <h2>How to Apply</h2>
+      <p>Applicants are required to apply based on their category by completing the relevant Scholarship Application Form. For more information about the programme, applicants can visit the official Michael Olusoji Foundation page.</p>
+      <hr>
+      <h2>Application Deadline</h2>
+      <p>The deadline for submission is <strong>30 May 2026</strong>. Interested and qualified candidates are encouraged to apply early, as late applications will not be considered.</p>
+      <hr>
+      <h2>Contact Information</h2>
+      <p>For enquiries or further clarification, applicants can reach out via email: <strong><a href="mailto:themichaelolusojifoundation@gmail.com">themichaelolusojifoundation@gmail.com</a></strong></p>
+      <hr>
+      <p>This scholarship presents a valuable opportunity for Nigerian students to ease financial burdens while gaining access to mentorship and a supportive academic network. Eligible candidates should take advantage of this chance and apply before the deadline.</p>`,
+    tags: ["Scholarship", "Michael Olusoji Foundation", "Education", "Nigeria", "Undergraduate", "Aspirant"],
+  },
+  {
+    id: "yabatech-extends-registration-screening",
+    title: "YABATECH Extends Registration and Screening by One Week",
+    category: "Education",
+    date: "2026-04-29",
+    excerpt: "Yaba College of Technology (YABATECH) has approved a one-week extension for its registration and screening exercise, effective from Monday, 27 April 2026, with a late registration penalty fee.",
+    content:
+      `<h2>YABATECH Extends Registration and Screening by One Week</h2>
+      <p>Yaba College of Technology (YABATECH) has approved a one-week extension for its registration and screening exercise, effective from <strong>Monday, 27 April 2026</strong>.</p>
+      <p>However, the extension comes with a condition: affected students must pay a <strong>late registration penalty fee of ₦20,000</strong> to complete the process.</p>
+      <br>
+      <h3>Late Registration Fee Requirement</h3>
+      <p>According to the college management, students who are yet to complete their registration and screening must pay the stated penalty before they can proceed.</p>
+      <p>The institution made it clear that this extension is strictly tied to the payment of the late fee. Students are advised to act quickly, as failure to meet this requirement may affect access to lectures and official student records.</p>
+      <br>
+      <h3>Strict Directive on Matric Numbers</h3>
+      <p>The college has issued a firm directive to Heads of Department (HODs):</p>
+      <ul>
+        <li>Students attending lectures without matric numbers must be sent out of classrooms</li>
+        <li>This directive takes immediate effect</li>
+      </ul>
+      <p>This means that only properly registered students with valid matric numbers will be allowed to attend lectures going forward.</p>
+      <br>
+      <h3>CITM to Publish Names of Unregistered Students</h3>
+      <p>The Centre for Information Technology and Management (CITM) has been instructed to publish the names of students who have not completed their registration.</p>
+      <p>This move is aimed at identifying and notifying affected students. While no separate checking process was announced, CITM will handle the release of this information.</p>
+      <br>
+      <h3>Who This Affects</h3>
+      <p>This update applies to:</p>
+      <ul>
+        <li>Students who have not completed registration and screening</li>
+        <li>Students currently attending lectures without matric numbers</li>
+        <li>Heads of Department responsible for enforcing the directive</li>
+        <li>CITM, which will publish the list of unregistered students</li>
+      </ul>
+      <p>All affected individuals are expected to treat the notice with urgency.</p>
+      <hr>
+      <p>YABATECH’s decision signals a stricter enforcement of registration compliance, making it essential for students to complete all required processes within the extended period to avoid academic disruptions.</p>`,
+    tags: [
+      "YABATECH",
+      "Registration",
+      "Screening",
+      "Education",
+      "Nigeria",
+      "2026",
+      "College",
+    ],
+  },
+  {
+    id: "lasustech-nuc-accreditation-2025",
+    title: "LASUSTECH Secures Full Accreditation for 13 Programmes in 2025 NUC Exercise",
+    category: "Education",
+    date: "2026-04-29",
+    excerpt: "Lagos State University of Science and Technology (LASUSTECH) achieved full NUC accreditation for 13 out of 14 undergraduate programmes in its 2025 exercise, with one receiving interim status.",
+    content:
+      `<h2>LASUSTECH Secures Full Accreditation for 13 Programmes in 2025 NUC Exercise</h2>
+      <p>The Lagos State University of Science and Technology (LASUSTECH) has announced the outcome of its 2025 undergraduate programme accreditation conducted by the National Universities Commission (NUC).</p>
+      <p>According to the Vice-Chancellor, Olumuyiwa Omotola Odusanya, the university recorded an impressive result, with <strong>13 out of 14 programmes receiving full accreditation</strong>, while only one programme was granted interim status.</p>
+      <p>For students, parents, and stakeholders, this outcome reinforces the university’s growing academic standing and commitment to quality education.</p>
+      <hr>
+      <h2>Fully Accredited Programmes by College</h2>
+      <p>LASUSTECH presented programmes across five colleges, and the majority earned full accreditation status.</p>
+      <h3>College of Basic Sciences</h3>
+      <ul>
+        <li>Industrial Mathematics – Full Accreditation</li>
+      </ul>
+      <h3>College of Applied Social Sciences</h3>
+      <ul>
+        <li>Insurance – Full Accreditation</li>
+        <li>Tourism and Hospitality Management – Full Accreditation</li>
+      </ul>
+      <h3>College of Environmental Design and Technology</h3>
+      <ul>
+        <li>Estate Management and Valuation – Full Accreditation</li>
+        <li>Quantity Surveying – Full Accreditation</li>
+        <li>Building Technology – Full Accreditation</li>
+        <li>Urban and Regional Planning – Full Accreditation</li>
+      </ul>
+      <h3>College of Engineering and Technology</h3>
+      <ul>
+        <li>Food Science and Bio-Technology – Full Accreditation</li>
+        <li>Agriculture and Biosystems Engineering – Full Accreditation</li>
+        <li>Civil and Construction Engineering – Full Accreditation</li>
+        <li>Computer Engineering – Full Accreditation</li>
+        <li>Mechanical Engineering – Full Accreditation</li>
+        <li>Mechatronics Engineering – Full Accreditation</li>
+      </ul>
+      <hr>
+      <h2>Programme with Interim Accreditation</h2>
+      <p>Only one programme received interim accreditation:</p>
+      <ul>
+        <li><strong>Electrical and Electronics Engineering</strong></li>
+      </ul>
+      <p>While not a full accreditation, interim status still allows the programme to continue running, with improvements expected before the next review by the National Universities Commission.</p>
+      <hr>
+      <h2>Additional Accreditation: Architecture</h2>
+      <p>Beyond the NUC exercise, LASUSTECH also secured <strong>full accreditation for Architecture</strong> from the Architects Registration Council of Nigeria (ARCON).</p>
+      <p>Although separate from the NUC process, this achievement adds to the university’s overall academic credibility.</p>
+      <hr>
+      <h2>LASUSTECH’s Growing Accreditation Record</h2>
+      <p>With this latest result, LASUSTECH revealed that it has now recorded success across <strong>all 39 programmes</strong> presented for accreditation since its establishment.</p>
+      <p>Notably, the university stated that <strong>no programme has failed accreditation so far</strong>, a strong indicator of consistent academic quality for a relatively young institution.</p>
+      <hr>
+      <h2>Vice-Chancellor Commends Staff and Students</h2>
+      <p>Speaking on the achievement, Olumuyiwa Omotola Odusanya commended both staff and students for their roles in the successful accreditation exercise.</p>
+      <p>He also encouraged the university community to build on this success as preparations begin for the <strong>2026 accreditation cycle</strong>.</p>
+      <hr>
+      <h2>What This Means for Students</h2>
+      <p>For prospective and current students, accreditation remains a key factor when choosing a course or institution. The strong performance by LASUSTECH in the 2025 exercise provides reassurance that its programmes meet national academic standards set by the National Universities Commission.</p>
+      <p>As the university continues to expand and strengthen its offerings, this result positions LASUSTECH as a competitive option within Nigeria’s higher education landscape.</p>`,
+    tags: [
+      "LASUSTECH",
+      "NUC",
+      "Accreditation",
+      "Education",
+      "Nigeria",
+      "2025",
+      "University",
+    ],
+  },
+  {
     id: "nnpc-nae-psc-postgraduate-scholarship-2026-2027",
-    title: "🎓 NNPC/NAE PSC Postgraduate Scholarship Scheme (2026/2027)",
+    title: "NNPC/NAE PSC Postgraduate Scholarship Scheme (2026/2027)",
     category: "Scholarship",
     date: "2026-04-28",
     excerpt: "An opportunity for outstanding Nigerian graduates to pursue a fully funded one-year Master’s degree locally or overseas.",

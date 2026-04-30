@@ -15,6 +15,617 @@ export type Job = {
 
 const allJobs: Job[] = [
   {
+    id: "public-health-practitioner-lagos-2026",
+    title: "Public Health Practitioner",
+    date: "2026-04-30",
+    location: "Lagos",
+    type: "Full-time",
+    summary: "A role focused on health improvement, protection, and community engagement through commissioning services and managing disease outbreaks.",
+    responsibilities: [
+      "Health improvement: commissioning health improvement services, organising and delivering health campaigns",
+      "Health protection: managing disease outbreaks and providing expert advice on communicable diseases",
+      "Community engagement: listening to and co-designing services with local communities and underserved populations"
+    ],
+    requirements: [],
+    apply: 'Interested and qualified candidates should send their CV to: <a href="mailto:gymspadorisfit@gmail.com">gymspadorisfit@gmail.com</a> using the job title as the subject of the mail.',
+    salary: "₦250,000 – ₦350,000 monthly",
+    deadline: "9th May, 2026"
+  },
+  {
+    id: "construction-storekeeper-abuja-2026",
+    title: "Construction Storekeeper",
+    date: "2026-04-30",
+    location: "Abuja (FCT)",
+    type: "Full-time",
+    summary: "Ensure efficient management, storage, and tracking of construction materials, tools, and equipment across project sites while maintaining accurate inventory records.",
+    responsibilities: [
+      "Receive, inspect, and verify incoming materials against purchase orders and delivery notes",
+      "Maintain organized storage systems for materials, tools, and equipment",
+      "Issue materials to site personnel and maintain proper documentation of all transactions",
+      "Keep accurate and up-to-date inventory records (manual and/or digital)",
+      "Conduct periodic stock counts and reconcile discrepancies",
+      "Monitor stock levels and initiate re-order requests when necessary",
+      "Ensure proper handling and storage to prevent damage, loss, or theft",
+      "Maintain cleanliness, safety, and organization of the store area",
+      "Prepare and submit inventory and usage reports to management",
+      "Coordinate with procurement and site teams to ensure smooth material flow"
+    ],
+    requirements: [
+      "Minimum of OND / HND / B.Sc. in Logistics, Supply Chain Management, Business Administration, or related field",
+      "2–4 years of experience as a Store Keeper, preferably in the construction industry",
+      "Proven experience in inventory management and record-keeping",
+      "Familiarity with construction materials, tools, and equipment is essential",
+      "Strong organizational and record-keeping skills",
+      "Attention to detail and accuracy",
+      "Basic computer proficiency (Microsoft Excel, inventory software)",
+      "Knowledge of safety and storage standards"
+    ],
+    apply: 'Interested and qualified candidates should send their Cover Letter and CV to: <a href="mailto:hr@elsabiodevelopment.com">hr@elsabiodevelopment.com</a> using the Job Title as the subject of the email',
+    salary: "Not Specified",
+    deadline: "25th May, 2026"
+  },
+  {
+    id: "field-service-engineer-ojodu-berger-2026",
+    title: "Field Service Engineer (FSE)",
+    date: "2026-04-30",
+    location: "Ojodu Berger, Lagos",
+    type: "Full-time",
+    summary: "Troubleshooting and revivification of flow meters, tanks, and other industry instruments ensuring jobs meet company standards.",
+    responsibilities: [
+      "Carrying out troubleshooting and revivification of flow meters, tanks, and other relevant industry instruments",
+      "Ensuring the job meets company standards in line with established SOPs",
+      "Preparing usable site survey reports and responding to call-outs",
+      "Manage workload to achieve positive results and ensure completion within timeframe",
+      "Fill out and submit job-related safety documents",
+      "Carrying out preliminary surveys, creating, installing, troubleshooting, and maintaining devices",
+      "Relaying updates and site issues efficiently to relevant individuals",
+      "Coordinate with the OHS coordinator and investigate all reported incidents"
+    ],
+    requirements: [
+      "B.Sc., B.Eng. or HND in Electrical Engineering and other related courses",
+      "Field Exposure or work experience in Electrical Engineering",
+      "Experienced in Electrical Panels",
+      "Minimum of 3 years of work experience",
+      "Competency in Microsoft applications (Word, Excel, PowerPoint)",
+      "Knowledge of AUTOCAD & Practical Electrical Circuit Analysis is an advantage",
+      "Knowledge of Automation & Control Engineering"
+    ],
+    apply: 'Interested and qualified candidates should forward their CV to: <a href="mailto:careers@smartflowtech.com">careers@smartflowtech.com</a> using the position as subject of email.',
+    salary: "Not Specified",
+    deadline: "18th May, 2026"
+  },
+  {
+    id: "electrician-technician-vi-lagos-2026",
+    title: "Electrician Technician",
+    date: "2026-04-30",
+    location: "Victoria Island, Lagos",
+    type: "Full-time",
+    summary: "Installation, maintenance, and repair of electrical systems and equipment used in broadband infrastructure.",
+    responsibilities: [
+      "Install, maintain, and repair electrical systems for broadband and internet services",
+      "Perform routine inspections and preventive maintenance on electrical components",
+      "Installation of Inverter systems at base stations",
+      "Routine maintenance of industrial generators (e.g. 40kva and 60kva Gen sets)",
+      "Diagnose and troubleshoot electrical issues related to internet service equipment",
+      "Maintain accurate records of all installations, maintenance, and repairs",
+      "Coordinate with network engineers and field technicians"
+    ],
+    requirements: [
+      "High school diploma or equivalent; Associate degree or technical diploma in Electrical Technology/Electronics preferred",
+      "Minimum of 2-3 years of experience as an electrical technician, preferably in telecommunications",
+      "Experience with installation and maintenance of electrical and industrial generator systems",
+      "Strong knowledge of electrical systems, wiring, and circuitry",
+      "Ability to read and interpret technical diagrams, schematics, and manuals",
+      "Willingness to work flexible hours, including evenings and weekends"
+    ],
+    apply: 'Interested and qualified candidates should send their CV to: <a href="mailto:recruit@linkorgnet.com">recruit@linkorgnet.com</a> using “Electrical Technician” as the subject of the mail.',
+    salary: "₦300,000 net monthly",
+    deadline: "Not Specified"
+  },
+  {
+    id: "medical-laboratory-scientist-ibadan-2026",
+    title: "Medical Laboratory Scientist",
+    date: "2026-04-30",
+    location: "Ibadan, Oyo",
+    type: "Full-time",
+    summary: "Support accurate diagnosis and quality patient care through laboratory testing, analysis, and equipment maintenance.",
+    responsibilities: [
+      "Perform routine and specialized laboratory tests",
+      "Analyze samples and ensure accuracy and reliability of test results",
+      "Operate, maintain, and calibrate laboratory equipment",
+      "Maintain proper documentation and records of laboratory activities",
+      "Ensure compliance with safety, hygiene, and quality control standards",
+      "Monitor inventory and ensure proper storage of laboratory reagents and supplies"
+    ],
+    requirements: [
+      "Bachelor’s degree in Medical Laboratory Science or a related field",
+      "2–3 years of relevant work experience in a hospital or diagnostic setting",
+      "Strong analytical and problem-solving skills",
+      "High level of accuracy and attention to detail",
+      "Good communication and teamwork skills"
+    ],
+    apply: 'Interested and qualified candidates should send their CV to: <a href="mailto:oyomesispecialisthospitals@gmail.com">oyomesispecialisthospitals@gmail.com</a> using the Job Title as the subject of the email.',
+    salary: "Not Specified",
+    deadline: "25th May, 2026"
+  },
+  {
+    id: "rig-supervisor-iii-offshore-2026",
+    title: "Rig Supervisor III",
+    date: "2026-04-30",
+    location: "Offshore, Nigeria",
+    type: "Contract",
+    seniority: "Senior",
+    summary: "Represents the company on a rig site to support safe and efficient execution of well plans, managing logistics for personnel, equipment, and services.",
+    responsibilities: [
+      "Communicate expectations regarding safety, security, health, and environment (SSHE)",
+      "Monitor rig operations and provide feedback to ensure well control procedures are followed",
+      "Ensure safety, operational, environmental, and security drills are conducted at specified frequencies",
+      "Order and organize logistics for services and equipment necessary for operations",
+      "Support onsite surveillance requirements for kick detection, abnormal pressure, etc.",
+      "Generate accurate and adequate operations reports",
+      "Interface with engineering and geology to ensure understanding of objectives"
+    ],
+    requirements: [
+      "Experience in rig supervisory or rig leadership roles for drilling and completion operations",
+      "Experience working for a major Operator or Drilling Contractor",
+      "Hold current certification for Well Control"
+    ],
+    apply: 'Interested and qualified candidates should apply online: <a href="https://amaidenenergy.com/job/drilling-well-intervention-subsea-advisor-iii-5/">Apply Online</a>',
+    salary: "Not Specified",
+    deadline: "8th May, 2026"
+  },
+  {
+    id: "mechanical-maintenance-technician-agbara-2026",
+    title: "Mechanical Maintenance Technician",
+    date: "2026-04-30",
+    location: "Agbara, Ogun",
+    type: "Full-time",
+    summary: "Responsible for routine maintenance and repair of equipment, ensuring efficient and effective operation of machinery on-site.",
+    responsibilities: [
+      "Perform routine maintenance and repair of equipment",
+      "Perform preventive maintenance and troubleshoot mechanical issues",
+      "Assist with industrial equipment inspections and repairs",
+      "Work to minimize downtime and maintain optimal machine performance",
+      "Ensure compliance with safety and operational standards"
+    ],
+    requirements: [
+      "Proficiency in Industrial Equipment Maintenance and Repair tasks",
+      "Strong skills in Mechanical Troubleshooting and problem-solving",
+      "Experience with Preventive Maintenance routines",
+      "Ability to interpret technical drawings and manuals",
+      "Relevant technical certifications or diploma in Mechanical Engineering",
+      "Prior experience in steel manufacturing is an advantage"
+    ],
+    apply: 'Interested and qualified candidates should forward their CV to: <a href="mailto:careers@sunsteel.net">careers@sunsteel.net</a> using the position as the subject of the email.',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "amo-intern-ph-baker-hughes-2026",
+    title: "Emerging Talent–Assembly, Maintenance & Overhaul Intern",
+    date: "2026-04-30",
+    location: "Port Harcourt, Rivers",
+    type: "Internship",
+    seniority: "Junior",
+    summary: "Hands-on work experience for students or recent graduates to gain insights into assembly, maintenance, and overhaul processes in the energy sector.",
+    responsibilities: [
+      "Complete internal projects to deliver customer outcomes",
+      "Learn internal software to assist with completion of projects",
+      "Collaborate with cross-functional teams and other interns",
+      "Apply Health, Safety, and Environment (HS&E) standards and procedures",
+      "Participate in focused training and team meetings"
+    ],
+    requirements: [
+      "Currently enrolled or recently graduated in a Bachelors’ or Masters’ level degree in Engineering or STEM field",
+      "Maintained a GPA ≥ 3.0 out of 4.0 or equivalent",
+      "Fluent in oral and written English",
+      "Legal authorization to work in Nigeria"
+    ],
+    apply: 'Interested and qualified candidates should apply online: <a href="https://bakerhughes.wd5.myworkdayjobs.com/en-US/BakerHughes/job/Emerging-Talent-Assembly--Maintenance---Overhaul-Intern-2026-Opportunities--Nigeria-_R158348?utm_source=">Apply Online</a>',
+    salary: "Competitive monthly allowance",
+    deadline: "Not Specified"
+  },
+  {
+    id: "clinical-supervisor-medical-team-leader-dikwa-2026",
+    title: "Clinical Supervisor / Medical Team Leader",
+    date: "2026-04-30",
+    location: "Dikwa, Borno",
+    type: "Full-time",
+    seniority: "Senior",
+    summary: "Provide technical advice on project design and administration of Nutrition and Health programmes, ensuring delivery of quality medical care.",
+    responsibilities: [
+      "Provide technical advice on project design, planning, and evaluation of Nutrition and Health activities",
+      "Provide outpatient and/or inpatient medical care to beneficiaries",
+      "Conduct health and nutritional surveillance (SMART, SQUEAC, etc.)",
+      "Oversee implementation of community-based management of acute malnutrition",
+      "Monitor and supervise health and nutrition staff",
+      "Oversee continuous training programs for staff",
+      "Manage recruitment and personnel issues for the health team"
+    ],
+    requirements: [
+      "Bachelor’s Degree in Medicine (MB.BS / MBChB)",
+      "Over 2 years’ experience in humanitarian context",
+      "Valid and current practicing license",
+      "Excellent report-writing skills",
+      "Fluent in English and Hausa (Kanuri is a plus)"
+    ],
+    apply: 'Interested and qualified candidates should apply online: <a href="https://docs.google.com/forms/d/e/1FAIpQLSckxFvM66Yk7qLD8LjvAM-QEGGUhY61al572I46QTchqxmjGw/viewform">Apply Online</a>',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "senior-engineer-lagos-thestartupplace-2026",
+    title: "Senior Engineer",
+    date: "2026-04-30",
+    location: "Lagos",
+    type: "Full-time",
+    seniority: "Senior",
+    summary: "Oversee engineering projects for a site about 90% complete, ensuring quality, safety compliance, and stakeholder satisfaction.",
+    responsibilities: [
+      "Oversee engineering projects meeting quality, timeline, and budget constraints",
+      "Conduct checks for errors and ensure compliance with industry standards",
+      "Work closely with clients and stakeholders to achieve project goals",
+      "Lead and mentor engineering teams"
+    ],
+    requirements: [
+      "Bachelor’s degree in Engineering (Civil, Mechanical, Electrical, or related); COREN Certification mandatory",
+      "Previous experience in construction or consulting is an advantage",
+      "Strong project management and technical design skills",
+      "Excellent communication and presentation skills"
+    ],
+    apply: 'Interested and qualified candidates should send their CV to: <a href="mailto:hr@thestartupplaceng.com">hr@thestartupplaceng.com</a> using the Job Title as the subject of the email.',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "graphic-designer-volunteer-henosis-2026",
+    title: "Graphic Designer (Volunteer)",
+    date: "2026-04-30",
+    location: "Ibadan, Oyo",
+    type: "Volunteer",
+    summary: "Design visuals for events, campaigns, and social media for a youth-led nonprofit organization passionate about empowerment.",
+    responsibilities: [
+      "Design graphics for events, campaigns, and social media",
+      "Create visually engaging materials that align with the brand",
+      "Work with the publicity team to support campaigns",
+      "Translate ideas into compelling visual content"
+    ],
+    requirements: [
+      "Skilled in tools like Canva, Photoshop, or similar",
+      "Creative thinkers with attention to detail",
+      "Passion for impact-driven work",
+      "Ability to meet deadlines and collaborate effectively"
+    ],
+    apply: 'Interested and qualified candidates should send their CV to: <a href="mailto:faith@henosisinternational.org">faith@henosisinternational.org</a> using Job Title as the subject of the email.',
+    salary: "Unpaid (Volunteer Role)",
+    deadline: "Not Specified"
+  },
+  {
+    id: "it-support-officer-kora-lagos-2026",
+    title: "IT Support Officer",
+    date: "2026-04-30",
+    location: "Lagos",
+    type: "Full-time",
+    summary: "Provide first- and second-level technical support to end-users, ensuring smooth operation of IT infrastructure and user satisfaction.",
+    responsibilities: [
+      "Provide day-to-day technical support for laptops, mobile devices, and peripherals",
+      "Diagnose and resolve hardware, software, and network issues",
+      "Install, configure, and maintain operating systems and security tools",
+      "Manage user accounts, permissions, and access controls (e.g. Active Directory)",
+      "Support onboarding and offboarding processes",
+      "Maintain IT asset inventory and documentation",
+      "Assist in network administration and cybersecurity practices"
+    ],
+    requirements: [
+      "Minimum of 1-3 years of experience in IT support",
+      "Minimum of a Bachelor’s degree",
+      "Strong troubleshooting and problem-solving skills",
+      "Excellent communication and customer-focused mindset",
+      "Ability to work independently and as part of a team"
+    ],
+    apply: 'Interested and qualified candidates should apply online: <a href="https://jobs.workable.com/view/98byfWFFVTkzLwfaCf4w2o/remote-it-support-officer-in-lagos-at-kora">Apply Online</a>',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "medical-laboratory-scientist-lekki-ajah-2026",
+    title: "Medical Laboratory Scientist",
+    date: "2026-04-30",
+    location: "Lekki, Lagos",
+    type: "Full-time",
+    summary: "Conduct routine and specialized laboratory tests, ensuring highest standards of quality, accuracy, and compliance in diagnostic procedures.",
+    responsibilities: [
+      "Perform routine and specialized laboratory tests in hematology, microbiology, etc.",
+      "Analyze test results and ensure accurate documentation and reporting",
+      "Operate and maintain laboratory equipment calibration and functionality",
+      "Adhere to quality control procedures and laboratory safety standards",
+      "Manage laboratory inventory including reagents and consumables",
+      "Collaborate with healthcare professionals for patient diagnosis"
+    ],
+    requirements: [
+      "Bachelor’s Degree in Medical Laboratory Science or related field",
+      "Valid practicing license (e.g. MLSCN)",
+      "2 – 4 years relevant work experience in a clinical laboratory setting",
+      "Strong analytical and attention-to-detail skills",
+      "Good communication and teamwork abilities"
+    ],
+    apply: 'Interested and qualified candidates should send their CVs to: <a href="mailto:talentsourcingmms@gmail.com">talentsourcingmms@gmail.com</a> using “Medical Laboratory Scientist – Lekki” as the subject of the mail.',
+    salary: "Not Specified",
+    deadline: "7th May, 2026"
+  },
+  {
+    id: "maintenance-technician-slb-ph-2026",
+    title: "Maintenance Technician",
+    date: "2026-04-30",
+    location: "Port Harcourt, Rivers",
+    type: "Full-time",
+    summary: "Ensure on-time delivery of equipment through preventive maintenance and repairs of surface well test or downhole electronics equipment.",
+    responsibilities: [
+      "Perform maintenance in alignment with Reliability-Centered Maintenance strategy",
+      "Adhere to Computerized Maintenance Management System (CMMS) standards",
+      "Record materials used, labor hours, and equipment movements in business systems",
+      "Contribute to continuous improvement to enhance asset utilization",
+      "Participate in failure investigations and root cause analysis",
+      "Ensure accurate completion and archiving of workshop documentation"
+    ],
+    requirements: [
+      "HND in Engineering – Mechanical or Electrical",
+      "Minimum of 3 years’ shop operations experience in maintenance",
+      "Hands-on competency in failure investigation and root cause analysis",
+      "Strong communication skills and team player mentality"
+    ],
+    apply: 'Interested and qualified candidates should apply online: <a href="https://careers.slb.com/jobdescription.aspx?id=85933&utm_source=">Apply Online</a>',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "technical-support-staff-lagos-banking-2026",
+    title: "Technical Support Staff",
+    date: "2026-04-30",
+    location: "Apapa, Lekki Expressway and VI – Lagos",
+    type: "Full-time (Onsite)",
+    seniority: "Junior",
+    summary: "Provide first-level technical assistance and resolve user issues across assigned banking locations.",
+    responsibilities: [
+      "Provide first-line technical support to customers / users",
+      "Troubleshoot and resolve hardware, software, and network issues",
+      "Escalate complex issues to relevant teams",
+      "Maintain accurate records of incidents and resolutions",
+      "Assist with system installations and configurations"
+    ],
+    requirements: [
+      "HND / B.Sc Degree in IT, Computer Science, or related field",
+      "Must be age 27 and below",
+      "Must have the NYSC certificate"
+    ],
+    apply: 'Interested and qualified candidates should apply online: <a href="https://forms.gle/QPJNa4cFKitJ6Kjp6">Apply Online</a>',
+    salary: "₦155,000 monthly plus Benefits",
+    deadline: "18th May, 2026"
+  },
+  {
+    id: "advisor-esg-analytics-reporting-mtn-2026",
+    title: "Advisor – ESG Analytics and Reporting",
+    date: "2026-04-30",
+    location: "Ikoyi, Lagos",
+    type: "Full-time",
+    seniority: "Senior",
+    summary: "Design and improve data systems, dashboards, and analytics platforms underpinning sustainability reporting and ESG performance tracking.",
+    responsibilities: [
+      "Lead design of integrated ESG data management system and centralized repository",
+      "Define and drive automation of ESG data collection workflows",
+      "Develop and manage ESG performance dashboards and reporting tools",
+      "Develop custom analytical models to identify performance trends",
+      "Monitor evolving international sustainability disclosure standards",
+      "Serve as primary contact for ESG data queries"
+    ],
+    requirements: [
+      "First Degree in CS, Statistics, IT, or Environmental Science",
+      "Proficiency in Python, SQL, or R is required",
+      "3-7 years’ experience in data analysis or business intelligence",
+      "Familiarity with ESG reporting frameworks (GRI, IFRS, etc.)"
+    ],
+    apply: 'Interested and qualified candidates should apply online: <a href="https://ehle.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7348">Apply Online</a>',
+    salary: "Not Specified",
+    deadline: "5th May, 2026"
+  },
+  {
+    id: "hvac-technician-teamace-lagos-2026",
+    title: "HVAC Technician",
+    date: "2026-04-30",
+    location: "Surulere, Lagos",
+    type: "Full-time",
+    summary: "Responsible for installation, maintenance, and repair of commercial and industrial air conditioning systems (DX and Chilled Water).",
+    responsibilities: [
+      "Perform routine and preventive maintenance on HVAC systems",
+      "Diagnose and repair mechanical and electrical faults (compressors, motors)",
+      "Install HVAC systems and ensure proper setup",
+      "Conduct testing and commissioning of A/C systems",
+      "Ensure compliance with safety standards and operational procedures"
+    ],
+    requirements: [
+      "Minimum of 5 years hands-on experience with DX and chilled water systems",
+      "Minimum of SSCE with accredited HVAC training or Trade Test Certificate",
+      "Strong technical skills in brazing, soldering, and electrical troubleshooting",
+      "Good communication and teamwork skills"
+    ],
+    apply: 'Interested and qualified candidates should apply via: <a href="https://forms.gle/NmhAefBTZmHkNAwz9">Apply Online</a>',
+    salary: "₦500,000 – ₦650,000 per month",
+    deadline: "27th May, 2026"
+  },
+  {
+    id: "lead-enterprise-performance-reporting-mastercard-2026",
+    title: "Lead, Enterprise Performance & Reporting",
+    date: "2026-04-30",
+    location: "Lagos",
+    type: "Full-time",
+    seniority: "Senior",
+    summary: "Technical backbone of enterprise performance reporting, combining advanced SQL engineering and expert Power BI development.",
+    responsibilities: [
+      "Lead end-to-end development of enterprise performance dashboards",
+      "Build and maintain advanced Power BI solutions",
+      "Proactively identify and escalate data quality issues",
+      "Develop and maintain complex SQL queries and transformations",
+      "Optimize SQL logic for performance and accuracy",
+      "Implement enterprise reporting standards and documentation",
+      "Act as trusted reporting partner to Program and Functional leaders"
+    ],
+    requirements: [
+      "Bachelor’s Degree in CS, IT, Data Engineering, or related field",
+      "5 to 8 years’ experience in enterprise reporting and analytics",
+      "Strong hands-on experience with advanced SQL and expert Power BI",
+      "Demonstrated experience in data quality management and modeling"
+    ],
+    apply: 'Interested and qualified candidates should apply online: <a href="https://mastercardfoundation.wd10.myworkdayjobs.com/en-US/mastercardfdn/job/Lead--Enterprise-Performance---Reporting_JR-0000000666">Apply Online</a>',
+    salary: "Not Specified",
+    deadline: "5th May, 2026"
+  },
+  {
+    id: "junior-business-analyst-renmoney-lagos-2026",
+    title: "Junior Business Analyst",
+    date: "2026-04-30",
+    location: "Lagos",
+    type: "Full-time",
+    seniority: "Junior",
+    summary: "Analyze product and financial data to find insights driving real decisions as the company scales.",
+    responsibilities: [
+      "Analyze product and financial data for insights",
+      "Build and maintain dashboards tracking MAU and portfolio health",
+      "Define and measure KPIs with Product, Risk, and Finance teams",
+      "Support modelling of customer cohorts and LTV",
+      "Translate messy data into clear, concise recommendations"
+    ],
+    requirements: [
+      "Degree in a quantitative field from a top university",
+      "Comfortable with SQL, Excel, and BI tools (Power BI, Tableau)",
+      "Experience in oil and gas sector/reservoir modelling is an advantage",
+      "Detail-obsessed with strong problem-solving skills"
+    ],
+    apply: 'Interested and qualified candidates should apply online: <a href="https://jobs.workable.com/view/2jbANUQMmaCzMaNqinsXM3/junior-business-analyst-in-lagos-at-renmoney">Apply Online</a>',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "hr-intern-food-concepts-lagos-2026",
+    title: "HR Intern",
+    date: "2026-04-30",
+    location: "Lagos",
+    type: "Internship",
+    seniority: "Junior",
+    summary: "Support HR processes and practices at Food Concepts PLC while building professional skills.",
+    responsibilities: [
+      "Assist in core HR functions and administrative tasks",
+      "Support recruitment and onboarding activities",
+      "Maintain employee records and documentation",
+      "Handle HR queries within agreed timelines"
+    ],
+    requirements: [
+      "Bsc or HND in HR, Psychology, Admin or related field",
+      "Knowledge of HR processes and practices",
+      "Strong communication and interpersonal skills",
+      "Proficiency in MS Office suite"
+    ],
+    apply: 'Interested and qualified candidates should send their CV to: <a href="mailto:careers@foodconceptsplc.com">careers@foodconceptsplc.com</a> using the job title as the subject of the mail.',
+    salary: "Competitive Allowance",
+    deadline: "Not Specified"
+  },
+  {
+    id: "graduate-trainee-logistics-onitsha-2026",
+    title: "Graduate Trainee – Logistic Department",
+    date: "2026-04-30",
+    location: "Onitsha, Anambra",
+    type: "Full-time",
+    seniority: "Junior",
+    summary: "Hands-on experience in supply chain operations, inventory management, and distribution within a manufacturing environment.",
+    responsibilities: [
+      "Assist in coordinating inbound and outbound logistics",
+      "Support inventory management and warehouse activities",
+      "Monitor and track shipments to ensure timely delivery",
+      "Maintain accurate logistics and supply chain records",
+      "Collaborate with sales and production teams"
+    ],
+    requirements: [
+      "Degree in relevant field",
+      "Basic knowledge of supply chain or logistics",
+      "Internship or NYSC experience in a related field is a plus",
+      "Knowledge of motor parts is an advantage"
+    ],
+    apply: 'Interested and qualified candidates should send their CV to: <a href="mailto:reliablesteelplasticrecruit@gmail.com">reliablesteelplasticrecruit@gmail.com</a> using “Graduate Trainee – Logistics Application” as the subject.',
+    salary: "Attractive plus accommodation",
+    deadline: "10th May, 2026"
+  },
+  {
+    id: "graduate-trainee-dbell-lagos-2026",
+    title: "Graduate Trainee",
+    date: "2026-04-30",
+    location: "Lagos",
+    type: "Full-time",
+    seniority: "Junior",
+    summary: "Structured training program to provide recent graduates with exposure to different organization departments.",
+    responsibilities: [
+      "Participate in training sessions and on-the-job learning",
+      "Assist in daily operational tasks and project execution",
+      "Support senior staff with research and data analysis",
+      "Prepare reports, presentations, and documentation",
+      "Provide innovative ideas to improve business processes"
+    ],
+    requirements: [
+      "Bachelor’s Degree or HND in a relevant field",
+      "0 – 2 years of work experience",
+      "Strong communication and interpersonal skills",
+      "Positive attitude and eagerness to learn"
+    ],
+    apply: 'Interested and qualified candidates should forward their CV/Resume to: <a href="mailto:dbelllogistics06@gmail.com">dbelllogistics06@gmail.com</a> using the Job Title as the subject.',
+    salary: "₦100,000 – ₦150,000 monthly",
+    deadline: "30th May, 2026"
+  },
+  {
+    id: "registration-area-technician-ratech-ekiti-2026",
+    title: "Registration Area Technician – RATECH",
+    date: "2026-04-30",
+    location: "Ekiti",
+    type: "Full-time",
+    summary: "ICT support staff for election duties engaged by INEC, ensuring smooth technical operations at registration areas.",
+    responsibilities: [
+      "Provide technical support at registration areas",
+      "Ensure proper functioning of ICT systems during operations",
+      "Submit technical reports and updates"
+    ],
+    requirements: [
+      "Suitable INEC ICT staff (States & HQ)",
+      "Must not be a political party member",
+      "Must reside in Ekiti State"
+    ],
+    apply: 'Interested and qualified candidates should apply online: <a href="https://pres.inecnigeria.org/app/inec-iasd/applicant/registration">Apply Online</a>',
+    salary: "Not Specified",
+    deadline: "19th May, 2026 (12 Midnight)"
+  },
+  {
+    id: "head-of-it-jakande-lekki-2026",
+    title: "Head of IT",
+    date: "2026-04-30",
+    location: "Jakande-Lekki, Lagos",
+    type: "Full-time",
+    seniority: "Senior",
+    summary: "Take charge of technology operations, lead IT strategy, and drive digital upgrades to enhance departmental efficiency.",
+    responsibilities: [
+      "Oversee all IT infrastructure, systems, and network performance",
+      "Ensure data security, system reliability, and business continuity",
+      "Manage database systems, backups, and data recovery",
+      "Provide reliable IT support to all departments",
+      "Develop and enforce IT policies and procedures",
+      "Supervise internal IT staff and manage vendor relationships"
+    ],
+    requirements: [
+      "BSc / HND in Computer Science, IT, or related field",
+      "3–5 years of proven experience in IT operations",
+      "Strong hands-on knowledge of networks and cybersecurity",
+      "Leadership experience managing teams or projects"
+    ],
+    apply: 'Interested and qualified candidates should send CV and Cover Letter to: <a href="mailto:sophiatechdoctor@gmail.com">sophiatechdoctor@gmail.com</a> or <a href="mailto:Techdoctorinnovations@gmail.com">Techdoctorinnovations@gmail.com</a>.',
+    salary: "₦300,000 Net monthly",
+    deadline: "15th May, 2026"
+  },
+  {
     id: "chief-operating-officer-coo-lagos-2026",
     title: "Chief Operating Officer (COO)",
     date: "2026-04-28",

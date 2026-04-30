@@ -15,6 +15,558 @@ export type Job = {
 
 const allJobs: Job[] = [
   {
+    id: "ftth-project-qc-inspector-delta-rivers-2026",
+    title: "FTTH Project Quality Control Inspector",
+    date: "2026-04-30",
+    location: "Delta and Rivers and other project-related locations",
+    type: "Full-time",
+    summary: "Responsible for finished goods inspections of concrete poles and overseeing production process quality control within manufacturing facilities in accordance with ZTE's specifications.",
+    responsibilities: [
+      "Conduct finished goods inspections of concrete poles at manufacturing facilities",
+      "Audit and monitor production processes in local factories to ensure compliance with quality standards",
+      "Inspect installed poles at project sites to verify they originate from approved suppliers",
+      "Accurately record, compile, and report inspection results and checklists"
+    ],
+    requirements: [
+      "Bachelor's Degree in Civil Engineering, Construction Engineering, or Telecommunications Engineering",
+      "Willingness to travel for on-site inspections at factories and installation sites",
+      "Solid understanding of concrete pole manufacturing processes and factory operations",
+      "Proven experience in quality control or inspection of concrete (cement) pole products",
+      "Proficient in Microsoft Office applications (Word, Excel, PowerPoint)"
+    ],
+    apply: 'Interested and qualified candidates should: <a href="https://www.linkedin.com/jobs/view/4403781547/">Click here to apply online</a>',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "maintenance-facilities-supervisor-ikoyi-2026",
+    title: "Maintenance Facilities Supervisor",
+    date: "2026-04-30",
+    location: "Ikoyi, Lagos",
+    type: "Full-time",
+    summary: "Oversee daily inspections, maintenance schedules, and supervision of the maintenance team for high-end residential/commercial facilities in Ikoyi.",
+    responsibilities: [
+      "Daily inspection of all service equipment/utilities in the building (with checklist)",
+      "Implementation of all preplanned routine maintenance schedules",
+      "Supervision of all maintenance works and facilities renovations by contractors",
+      "Effective utilization and supervision of the maintenance team (plumbers, electricians, cleaners)",
+      "Record keeping of job cards, expenditure, and service history for each unit",
+      "Provide HSE admin support and ensure building safety compliance",
+      "Assist in monitoring diesel levels and sourcing for contractors/materials"
+    ],
+    requirements: [
+      "Bachelor's Degree in Electrical, Mechanical or any related field",
+      "Minimum of 5 years experience as a maintenance supervisor",
+      "Strong knowledge of building trades and maintenance",
+      "Solid understanding of health and safety regulations (HSE certifications like COREN, HSE 1,2,3 are an advantage)"
+    ],
+    apply: 'Interested and qualified candidates should send their detailed CV to: <a href="mailto:dreamjobprof@gmail.com">dreamjobprof@gmail.com</a> using the Job Title as the subject of the email.',
+    salary: "Not Specified",
+    deadline: "11th May, 2026"
+  },
+  {
+    id: "ftth-project-sales-manager-anambra-kano-2026",
+    title: "FTTH Project Sales Manager",
+    date: "2026-04-30",
+    location: "Anambra and Kano",
+    type: "Full-time",
+    summary: "Drive FTTH sales and achieve Home Connect acquisition targets by developing and executing territory-based sales plans.",
+    responsibilities: [
+      "Drive FTTH sales within assigned city/cluster and achieve acquisition targets",
+      "Develop and execute territory-based sales plans (door-to-door, outreach)",
+      "Lead and manage local sales teams and field agents/freelancers",
+      "Establish relationships with property management and local partners",
+      "Track sales performance, analyze conversion data, and provide insights",
+      "Manage on-ground sales activities and campaigns"
+    ],
+    requirements: [
+      "Minimum 2 years of sales experience (team management preferred)",
+      "Experience in telecom (FTTH/broadband), FMCG, or field sales is a plus",
+      "Familiar with local market and communities in Anambra or Kano",
+      "Strong communication, negotiation, and execution skills",
+      "Proficient in MS Office and basic data analysis",
+      "Valid driver’s license and willingness to travel"
+    ],
+    apply: 'Interested and qualified candidates should: <a href="https://www.linkedin.com/jobs/view/4397568408/">Click here to apply online</a>',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "facility-manager-ejigbo-lagos-school-2026",
+    title: "Facility Manager",
+    date: "2026-04-30",
+    location: "Ejigbo, Lagos",
+    type: "Full-time",
+    summary: "Oversee maintenance, safety, and operations for a private school campus in Ejigbo, ensuring a functional learning environment.",
+    responsibilities: [
+      "Manage preventive and corrective maintenance for all school buildings and grounds",
+      "Supervise in-house cleaners, security guards, gardeners, and external contractors",
+      "Monitor and manage utilities: generators, borehole, electricity, and diesel",
+      "Implement and enforce health, safety, and security protocols",
+      "Maintain records of assets, maintenance logs, and manage maintenance budgets",
+      "Respond to facility emergencies to ensure minimal disruption to school activities"
+    ],
+    requirements: [
+      "HND / BSc Degree in Facilities Management, Estate Management, Engineering, or related fields",
+      "Minimum 3-5 years in facility/operations management (school/hospitality experience is a plus)",
+      "Strong knowledge of electrical, plumbing, HVAC, and building systems",
+      "Excellent organizational, leadership, and vendor management skills",
+      "Proximity to Ejigbo is required"
+    ],
+    apply: 'Interested and qualified candidates should send their CV and cover letter to: <a href="mailto:zurishaddairecruitmentagency@gmail.com">zurishaddairecruitmentagency@gmail.com</a> using the job title as the subject.',
+    salary: "Negotiable",
+    deadline: "7th May, 2026"
+  },
+  {
+    id: "registered-nurse-surulere-lagos-2026",
+    title: "Registered Nurse",
+    date: "2026-04-30",
+    location: "Surulere, Lagos",
+    type: "Full-time",
+    summary: "Monitor patient vital signs, record progress, and provide comprehensive nursing care including medication administration and procedures.",
+    responsibilities: [
+      "Monitor and record patient vital signs and progress",
+      "Create care plans and administer medications/treatments",
+      "Assist with medical procedures and administer IV medications",
+      "Educate patients and perform wound and skin care",
+      "Draw blood and collect lab work"
+    ],
+    requirements: [
+      "Registered Nurse (RN) qualification with valid license",
+      "Clinical experience in a hospital environment",
+      "Strong patient care and communication skills"
+    ],
+    apply: 'Interested and qualified candidates should send their CV to: <a href="mailto:smscng1@gmail.com">smscng1@gmail.com</a> using the Job Title as the subject.',
+    salary: "Not Specified",
+    deadline: "10th May, 2026"
+  },
+  {
+    id: "electric-elv-technician-lagos-2026",
+    title: "Electric ELV Technician",
+    date: "2026-04-30",
+    location: "Lagos",
+    type: "Full-time",
+    summary: "Installing, maintaining, and configuring Extra low voltage (ELV) systems including cable routing and system terminations.",
+    responsibilities: [
+      "Install, maintain, and configure Extra low voltage (ELV) systems",
+      "Support senior technicians with cable routing, terminations, and setup",
+      "Troubleshoot common system issues and perform routine maintenance",
+      "Participate in safety training and adhere to fieldwork protocols",
+      "Prepare periodic reports detailing personal work activity"
+    ],
+    requirements: [
+      "Technical School Certificate, Vocational Training, or OND in Electrical/Electronics Engineering",
+      "Minimum of 4 years experience as an electrician with an ELV focus",
+      "Physical strength and stamina for heavy equipment handling",
+      "Basic understanding of electrical systems and components"
+    ],
+    apply: 'Interested and qualified candidates should send their CV to: <a href="mailto:recruitment2@ekomaintenance.com">recruitment2@ekomaintenance.com</a> using the Job Title as the subject.',
+    salary: "Not Specified",
+    deadline: "30th May, 2026"
+  },
+  {
+    id: "senior-project-risk-engineer-ph-2026",
+    title: "Senior Project Risk Engineer",
+    date: "2026-04-30",
+    location: "Port Harcourt, Rivers",
+    type: "Full-time",
+    seniority: "Senior",
+    summary: "Identify project risks and develop risk management plans particularly related to scope, schedule, costs, and quality for mega projects.",
+    responsibilities: [
+      "Develop and maintain risk management plans and registers",
+      "Facilitate risk identification and quantification workshops",
+      "Develop Monte Carlo simulations to quantify identified risks",
+      "Prepare written monthly project risk assessment reports",
+      "Advise on probability and Impact Matrix for each project",
+      "Manage costs and claims associated with change order management"
+    ],
+    requirements: [
+      "Bachelor's Degree in Engineering, Construction or Project Management",
+      "Minimum 8+ years experience (with 5 years specifically in risk assessment)",
+      "Expertise in Primavera P6 and Primavera Risk Analysis",
+      "Experience using Palisades @Risk for estimating cost risk",
+      "Knowledge of project controls best practices"
+    ],
+    apply: 'Send CV to: <a href="mailto:recruitment@oilservltd-ng.com">recruitment@oilservltd-ng.com</a> and copy <a href="mailto:omjconsult42@gmail.com">omjconsult42@gmail.com</a>.',
+    salary: "Not Specified",
+    deadline: "11th May, 2026"
+  },
+  {
+    id: "shift-engineer-dangote-ivory-coast-2026",
+    title: "Shift Engineer",
+    date: "2026-04-30",
+    location: "Ivory Coast",
+    type: "Full-time",
+    seniority: "Senior",
+    summary: "Supervise production activities during shifts to ensure seamless, safe, and efficient operations within the cement plant.",
+    responsibilities: [
+      "Achieve cement and clinker production targets during assigned shifts",
+      "Coordinate production staff to ensure uninterrupted plant operations",
+      "Monitor process control units from silo extraction to filling",
+      "Ensure raw materials are properly crushed to quality targets",
+      "Supervise casual staff and ensure machine operators use PPE",
+      "Prepare detailed shift reports for the Section Head"
+    ],
+    requirements: [
+      "Engineer’s degree in Engineering or equivalent",
+      "Minimum of five (5) years of relevant work experience",
+      "Working knowledge of cement production processes",
+      "Strong knowledge of crushing operations and equipment"
+    ],
+    apply: 'Interested and qualified candidates should: <a href="https://careers.dangote.com/job/Dangote-Cement-I-Coast-Ing%C3%A9nieur-de-quart-Shift-Engineer-1-Dang/1353303357/">Click here to apply online</a>',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "operator-patroller-ibese-dangote-2026",
+    title: "Operator / Patroller – Production Department",
+    date: "2026-04-30",
+    location: "Ibese Plant, Ogun",
+    type: "Full-time",
+    summary: "Responsible for continuous inspection of the assigned section to ensure all production equipment functions effectively.",
+    responsibilities: [
+      "Implement field activities and provide feedback to the CCR team",
+      "Ensure all processing equipment is cleaned regularly",
+      "Conduct equipment inspections and document problems",
+      "Report critical problems to CCR Operators for immediate action",
+      "Ensure timely execution of housekeeping within assigned sections"
+    ],
+    requirements: [
+      "School Cert or its equivalent in any discipline",
+      "Zero (0) to three (3) years relevant work experience",
+      "Basic knowledge of cement production process and equipment",
+      "Ability to pay attention to details"
+    ],
+    apply: 'Interested and qualified candidates should: <a href="https://careers.dangote.com/job/Ibese-Plant-OperatorPatroller-Production-Dept_-Ibes/829421402/">Click here to apply online</a>',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "ccr-operator-ivory-coast-dangote-2026",
+    title: "CCR Operator",
+    date: "2026-04-30",
+    location: "Ivory Coast",
+    type: "Full-time",
+    summary: "Monitor production line from the Central Control Room to ensure precision and adherence to cement production standards.",
+    responsibilities: [
+      "Monitor and control sections of the plant process lines for stability",
+      "Log process data and report operational activities accordingly",
+      "Provide feedback and guidance to field Engineers and Patrollers",
+      "Diagnose and troubleshoot potential operating problems",
+      "Review plant automation systems and make improvement recommendations"
+    ],
+    requirements: [
+      "B.Sc+2 or equivalent in any science/engineering discipline",
+      "Minimum of two (2) years relevant work experience",
+      "Knowledge of cement manufacturing parameters and standards",
+      "Good problem solving and analytical skills"
+    ],
+    apply: 'Interested and qualified candidates should: <a href="https://careers.dangote.com/job/Dangote-Cement-I-Coast-Op%C3%A9rateur-Salle-de-contr%C3%B4le-CCR-Operator-Dang/1354041957/">Click here to apply online</a>',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "it-auditor-nascon-hq-2026",
+    title: "IT Auditor",
+    date: "2026-04-30",
+    location: "NASCON – HQ",
+    type: "Full-time",
+    summary: "Conduct audits of IT systems and processes to assess controls, identify risks, and ensure regulatory compliance.",
+    responsibilities: [
+      "Plan and conduct IT audits for adequate control implementation",
+      "Develop and execute risk-based IT audit plans",
+      "Review networks, firewalls, and Internet technologies",
+      "Audit data integrity and interface controls across ERP modules",
+      "Review cybersecurity controls (antivirus, patching, endpoint protection)",
+      "Carry out Forensic IT Audits using CAATs/ACL"
+    ],
+    requirements: [
+      "B.Sc / HND in Computer Science, IT, Accounting, or Business",
+      "Minimum 3-5 years’ experience in IT Audit",
+      "CISA qualification is an advantage",
+      "Problem analysis and problem-solving skills"
+    ],
+    apply: 'Interested and qualified candidates should: <a href="https://careers.dangote.com/job/NASCON-HO-I_T-Auditor-NASC/1353469557/">Click here to apply online</a>',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "it-officer-watchcon-abuja-2026",
+    title: "IT Officer",
+    date: "2026-04-30",
+    location: "Abuja (FCT)",
+    type: "Full-time",
+    summary: "Manage ICT systems and security infrastructure, focusing on CCTV systems, IT security software, and network performance.",
+    responsibilities: [
+      "Install, configure, and maintain ICT equipment and systems",
+      "Manage and monitor CCTV cameras and surveillance systems",
+      "Maintain network infrastructure (LAN/WAN, firewalls)",
+      "Ensure data protection, backups, and cybersecurity compliance",
+      "Prepare reports and presentations using PowerPoint",
+      "Troubleshoot IT-related issues for staff"
+    ],
+    requirements: [
+      "Bachelor’s Degree in Computer Science, IT, or related fields",
+      "Minimum of 5 years’ work experience",
+      "Strong knowledge of CCTV and surveillance systems",
+      "PowerPoint proficiency required"
+    ],
+    apply: 'Interested and qualified candidates should send their CV and Cover Letter to: <a href="mailto:watchconsecurityltd@gmail.com">watchconsecurityltd@gmail.com</a> using the job title as the subject.',
+    salary: "₦150,000 per month",
+    deadline: "10th May, 2026"
+  },
+  {
+    id: "ndt-technician-paut-multi-loc-2026",
+    title: "Non-Destructive Testing Technician (PAUT)",
+    date: "2026-04-30",
+    location: "AkwaIbom, Delta & Imo",
+    type: "Contract",
+    summary: "Perform Phased Array Ultrasonic Testing (PAUT) for pipeline construction projects to evaluate material properties without causing damage.",
+    responsibilities: [
+      "Prepare and verify NDT tests/inspections per Quality Control plans",
+      "Conduct PAUT field testing on pipelines and onshore/offshore facilities",
+      "Designate test methods and validate NDT instructions",
+      "Review NDT test reports and Radiography films",
+      "Initiate NDT requests and recommend repairs based on examined results"
+    ],
+    requirements: [
+      "Diploma in Engineering with minimum 2 years hands-on experience in PAUT",
+      "Must be certified in PAUT and NDT Level-II in Radiography/UT",
+      "Knowledge of International Specifications (ASME B31.3, API 650)",
+      "Familiarity with HSEQ safety standards"
+    ],
+    apply: 'Interested and qualified candidates should send their CV to: <a href="mailto:nnamdi.odili@energy-mgt.com">nnamdi.odili@energy-mgt.com</a> using the Job Title as the subject.',
+    salary: "Not Specified",
+    deadline: "1st June, 2026"
+  },
+  {
+    id: "generator-mechanic-lagos-2026",
+    title: "Generator Mechanic",
+    date: "2026-04-30",
+    location: "Lagos",
+    type: "Full-time",
+    summary: "Perform troubleshooting, maintenance, and overhauling of diesel generator sets and related mechanical equipment.",
+    responsibilities: [
+      "Troubleshoot mechanical and electrical issues on generators",
+      "Performs predictive, preventive, and corrective maintenance",
+      "Servicing, repairing, and overhauling diesel generators",
+      "Identify critical spare items and install generator parts",
+      "Maintain pumps, fuel systems, and engine-driven units",
+      "Record operational data and maintain maintenance logs"
+    ],
+    requirements: [
+      "At least OND Diploma in Mechanical/Electrical Engineering",
+      "Trade Test and certification as a Mechanic",
+      "Minimum of 5 years hands-on experience as a Generator Mechanic"
+    ],
+    apply: 'Interested and qualified candidates should send their detailed CVs to: <a href="mailto:dreamjobprof@gmail.com">dreamjobprof@gmail.com</a> using the Job title as the subject.',
+    salary: "Not Specified",
+    deadline: "10th May, 2026"
+  },
+  {
+    id: "content-specialist-video-editor-nigeria-2026",
+    title: "Content Specialist & Video Editor",
+    date: "2026-04-30",
+    location: "Nigeria (Remote)",
+    type: "Full-time",
+    summary: "Repurpose long-form video content into short-form assets for social media using AI tools and proprietary scheduling platforms.",
+    responsibilities: [
+      "Edit short-form and long-form content (YouTube, Reels, TikTok, podcasts)",
+      "Use AI systems to create short-form captions",
+      "Schedule content to automatically post inside proprietary platforms",
+      "Edit raw videos for YouTube and podcast episodes",
+      "Follow creative direction and provide high-quality execution"
+    ],
+    requirements: [
+      "Professional experience with Adobe Premiere, After Effects, or similar",
+      "Strong eye for motion design and storytelling",
+      "Self-starter mindset with excellent communication skills",
+      "Positive attitude towards receiving feedback"
+    ],
+    apply: 'Interested and qualified candidates should: <a href="https://www.eliteeditoracademy.com/apply-now?utm_source=Linkedin&utm_medium=post&utm_campaign=nigeria">Click here to apply online</a>',
+    salary: "$700 to $1,000 USD monthly",
+    deadline: "Not Specified"
+  },
+  {
+    id: "full-stack-developer-contract-ikeja-2026",
+    title: "Full Stack Developer (Contract)",
+    date: "2026-04-30",
+    location: "Ikeja, Lagos",
+    type: "Contract",
+    summary: "Develop, test, and maintain scalable web applications using PHP/Laravel and ASP.NET for urgent project engagement.",
+    responsibilities: [
+      "Develop, test, and maintain scalable web applications",
+      "Collaborate with cross-functional teams to define features",
+      "Troubleshoot, debug, and upgrade existing systems",
+      "Ensure application performance, quality, and responsiveness"
+    ],
+    requirements: [
+      "Minimum of 5 years’ experience as a Full Stack Developer",
+      "Strong proficiency in PHP (Laravel framework)",
+      "Experience with ASP.NET",
+      "Solid understanding of front-end technologies (HTML, CSS, JavaScript)",
+      "Available to start immediately"
+    ],
+    apply: 'Interested and qualified candidates should send their CV to: <a href="mailto:jobs@portrec.ng">jobs@portrec.ng</a> using “Full Stack Developer – Contract Role” as the subject.',
+    salary: "₦350,000 – ₦500,000 monthly",
+    deadline: "1st May, 2026"
+  },
+  {
+    id: "architect-interior-designer-ilupeju-2026",
+    title: "Architect / Interior Designer",
+    date: "2026-04-30",
+    location: "Ilupeju, Lagos",
+    type: "Full-time",
+    summary: "Design and execute high-quality residential and commercial projects, translating ideas into 3D models and construction documents.",
+    responsibilities: [
+      "Participate in design meetings to develop architectural concepts",
+      "Translate design ideas into detailed 3D models and renderings",
+      "Prepare architectural drawings and construction documents",
+      "Recommend materials, finishes, layouts, and lighting",
+      "Conduct site visits to monitor progress and compliance",
+      "Coordinate with consultants, contractors, and vendors"
+    ],
+    requirements: [
+      "Bachelor’s Degree or HND in Architecture or Interior Design",
+      "Minimum of 2–5 years relevant experience",
+      "Proficiency in AutoCAD, SketchUp, Revit, Lumion, or similar",
+      "Strong space planning and design detailing ability",
+      "Based in or willing to work in Ilupeju"
+    ],
+    apply: 'Interested and qualified candidates should send CV and Portfolio to: <a href="mailto:hirecruitment2024@gmail.com">hirecruitment2024@gmail.com</a>.',
+    salary: "₦300,000 monthly (and above)",
+    deadline: "8th June, 2026"
+  },
+  {
+    id: "bi-analyst-fairmoney-lagos-2026",
+    title: "BI – Business Intelligence Analyst",
+    date: "2026-04-30",
+    location: "Lagos",
+    type: "Full-time (Hybrid)",
+    seniority: "Senior",
+    summary: "Transform complex data into actionable insights to improve credit performance and optimize collections for a leading fintech.",
+    responsibilities: [
+      "Analyze large datasets across the lending lifecycle",
+      "Build and maintain real-time dashboards (PAR, NPL, etc.)",
+      "Support development of credit scoring models",
+      "Analyze repayment behavior and optimize collections strategies",
+      "Automate manual reporting processes using SQL/Python",
+      "Support regulatory reporting requirements for CBN"
+    ],
+    requirements: [
+      "3–6+ years of experience in BI or Data Analytics",
+      "Strong proficiency in SQL (mandatory) and Python/R",
+      "Experience with BI tools (Power BI, Tableau, Looker)",
+      "Strong understanding of lending metrics (PAR, NPL, recovery rates)"
+    ],
+    apply: 'Interested and qualified candidates should: <a href="https://jobs.workable.com/view/rB6BohrP828hTuKPU2VKrs/hybrid-bi---business-intelligence-analyst-in-lagos-at-fairmoney">Click here to apply online</a>',
+    salary: "Competitive plus Benefits",
+    deadline: "Not Specified"
+  },
+  {
+    id: "head-pos-hardware-repair-moniepoint-2026",
+    title: "Head, POS Hardware & Repair",
+    date: "2026-04-30",
+    location: "Lagos",
+    type: "Full-time",
+    seniority: "Senior",
+    summary: "Strategic technical leadership role focused on ensuring the quality, reliability, and serviceability of all Point of Sale devices.",
+    responsibilities: [
+      "Serve as primary technical liaison with POS manufacturers",
+      "Audit manufacturer design specifications and component lists",
+      "Proactively recommend design updates for ease of repair (DFS)",
+      "Define strategy for internal and outsourced repair center operations",
+      "Approve technical training/certification for all repair technicians",
+      "Establish reporting for tracked component failure rates"
+    ],
+    requirements: [
+      "Bachelor’s degree in Electrical/Electronics Engineering or Mechatronics",
+      "Minimum 8+ years experience in hardware engineering/ops",
+      "At least 3 years in a leadership role",
+      "Deep knowledge of embedded systems and circuit board components",
+      "Proven track record with international hardware manufacturers"
+    ],
+    apply: 'Interested and qualified candidates should: <a href="https://job-boards.eu.greenhouse.io/moniepoint/jobs/4722002101">Click here to apply online</a>',
+    salary: "Attractive plus Benefits",
+    deadline: "Not Specified"
+  },
+  {
+    id: "senior-pos-mobile-engineer-moniepoint-2026",
+    title: "Senior POS Mobile Engineer",
+    date: "2026-04-30",
+    location: "Lagos (Remote)",
+    type: "Full-time",
+    seniority: "Senior",
+    summary: "Build, optimize, and maintain high-performance Android-based POS applications used for large-scale transaction environments.",
+    responsibilities: [
+      "Design and maintain Android-based POS applications (Java/Kotlin)",
+      "Own end-to-end development of transaction flows (sales, refunds)",
+      "Integrate EMV chip, contactless (NFC), and card-present flows",
+      "Handle OEM SDKs and Bluetooth/USB communication layers",
+      "Mentor mid-level engineers and support onboarding",
+      "Participate in system design and engineering excellence"
+    ],
+    requirements: [
+      "Degree in Computer Science or related engineering field",
+      "Minimum 5+ years experience in Android app development",
+      "Solid understanding of EMV standards",
+      "Experience with secure coding practices in financial systems",
+      "Exposure to cross-platform frameworks (e.g., Flutter) is a plus"
+    ],
+    apply: 'Interested and qualified candidates should: <a href="https://job-boards.eu.greenhouse.io/moniepoint/jobs/4788188101">Click here to apply online</a>',
+    salary: "Attractive plus Benefits",
+    deadline: "Not Specified"
+  },
+  {
+    id: "artificial-lift-field-specialist-slb-2026",
+    title: "Artificial Lift Field Specialist",
+    date: "2026-04-30",
+    location: "Port Harcourt, Rivers",
+    type: "Full-time",
+    summary: "Supervise field installation, commissioning, and troubleshooting of Artificial Lift equipment including ESPs and VSDs.",
+    responsibilities: [
+      "Supervise field installation of Artificial Lift equipment",
+      "Setup and commissioning of Variable speed drives (VSD)",
+      "Troubleshooting and repair of surface equipment",
+      "Participate in pre-job readiness (CWOP, Site Visits)",
+      "Ensure compliance with CAT, self-assessments, and wellsite inspections",
+      "Accurate capture of field data and deliverables"
+    ],
+    requirements: [
+      "Diploma or Degree in a Technical or Engineering field",
+      "5 – 10 years experience in Artificial lift operations (ESPs, ESPCPs, HPS)",
+      "Strong troubleshooting skills for surface equipment",
+      "Ability to work collaboratively in a team environment"
+    ],
+    apply: 'Interested and qualified candidates should: <a href="https://careers.slb.com/jobdescription.aspx?id=86154&utm_source=">Click here to apply online</a>',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "procurement-officer-ph-oil-gas-2026",
+    title: "Procurement Officer",
+    date: "2026-04-30",
+    location: "Port Harcourt, Rivers",
+    type: "Full-time",
+    summary: "Manage the end-to-end supply chain, sourcing technical spares, and navigating importation cycles (Form M/PAAR) for the oil & gas industry.",
+    responsibilities: [
+      "Validate internal PRs and track requests from initiation to delivery",
+      "Execute full Form M and PAAR process via Single Window Trade Portal",
+      "Negotiate with vendors for technical spares, PPE, and consumables",
+      "Ensure activities align with NCS, SON, and Oil & Gas standards",
+      "Maintain digital audit trails and weekly procurement dashboards"
+    ],
+    requirements: [
+      "Degree in Supply Chain, Business Admin, Engineering or related",
+      "3–5 years experience in Oil & Gas procurement",
+      "Strong working knowledge of HS Codes and Customs procedures",
+      "Negotiation skills and proficiency in MS Excel"
+    ],
+    apply: 'Interested and qualified candidates should send their CV to: <a href="mailto:talentfithr@gmail.com">talentfithr@gmail.com</a> using “Procurement Officer – Port Harcourt” as subject.',
+    salary: "₦300,000 – ₦400,000 monthly",
+    deadline: "5th May, 2026"
+  },
+  {
     id: "public-health-practitioner-lagos-2026",
     title: "Public Health Practitioner",
     date: "2026-04-30",

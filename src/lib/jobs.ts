@@ -15,6 +15,55 @@ export type Job = {
 
 const allJobs: Job[] = [
   {
+    id: "sales-officer-kado-abuja-2026",
+    title: "Sales Officer",
+    date: "2026-05-01",
+    location: "Kado, Abuja",
+    type: "Full-time",
+    summary: "Responsible for building and managing relationships with hospitals, clinics, and healthcare facilities to promote services and drive business growth.",
+    responsibilities: [
+      "Identify and engage prospective hospital and healthcare clients",
+      "Promote services/products and negotiate contracts with hospital management",
+      "Maintain strong relationships with existing clients to ensure retention",
+      "Achieve monthly and quarterly sales targets",
+      "Prepare sales reports and market feedback",
+      "Coordinate with internal teams to ensure smooth service delivery"
+    ],
+    requirements: [
+      "Minimum of 3 years relevant sales experience (healthcare or insurance sales preferred)",
+      "Strong communication, negotiation, and relationship-management skills",
+      "Candidates must reside in Abuja"
+    ],
+    apply: 'Send your CV to: <a href="mailto:kelsgloballtd@gmail.com">kelsgloballtd@gmail.com</a> or via WhatsApp: <a href="https://wa.me/2349136342350">09136342350</a>',
+    salary: "₦200,000",
+    deadline: "Not Specified"
+  },
+  {
+    id: "investment-officer-lagos-2026",
+    title: "Investment Officer",
+    date: "2026-05-01",
+    location: "Lagos",
+    type: "Full-time",
+    seniority: "Mid-Level",
+    summary: "Manage and grow investment funds, build strong investor relationships, and promote the company’s investment opportunities.",
+    responsibilities: [
+      "Fund Mobilization: Attract new investors (HNIs, SMEs, corporates) and grow the investment portfolio",
+      "Product Marketing: Promote Fixed Deposits, Structured Investments, and Wealth Growth products",
+      "Portfolio Management: Monitor investments, track maturities, and ensure portfolio growth",
+      "Market Research: Identify opportunities, track competitors, and recommend new strategies",
+      "Reporting & Compliance: Maintain investor records, prepare reports, and ensure regulatory compliance"
+    ],
+    requirements: [
+      "Bachelor’s degree in Business, Finance, Economics, or related field",
+      "4–6 years in wealth management, fund mobilization, or investment sales (microfinance, fintech, or investment firms preferred)",
+      "Skills: Investor relations, fund raising, portfolio monitoring, client acquisition, financial advisory, and target-driven performance",
+      "Strong communication and negotiation skills"
+    ],
+    apply: 'Send CV to: <a href="mailto:theremconsult@gmail.com">theremconsult@gmail.com</a>',
+    salary: "₦600,000 net",
+    deadline: "Not Specified"
+  },
+  {
     id: "ftth-project-qc-inspector-delta-rivers-2026",
     title: "FTTH Project Quality Control Inspector",
     date: "2026-04-30",
@@ -1203,58 +1252,6 @@ const allJobs: Job[] = [
     deadline: "Not Specified"
   },
   {
-    id: "gm-operations-pinnacle-oil-gas-2026",
-    title: "GM, Operations",
-    date: "2026-04-28",
-    location: "Lagos",
-    type: "Full-time",
-    seniority: "Senior",
-    summary: "Strategic leadership role responsible for Providing operational leadership across logistics, distribution, supply and trading, terminal (depot), marine, and jetty operations.",
-    responsibilities: [
-      "Provide strategic leadership and planning for operations",
-      "Oversee supply, trading, and distribution channels",
-      "Manage logistics and transportation networks",
-      "Direct terminal and depot operations",
-      "Oversee marine and jetty operations",
-      "Ensure compliance, HSE, and risk management",
-      "Lead team performance and development"
-    ],
-    requirements: [
-      "Bachelor’s Degree in Engineering, Supply Chain, or Marine Logistics",
-      "Master’s Degree (MBA or M.Sc.) is a strong advantage",
-      "Minimum of 15 years experience in downstream oil and gas",
-      "At least 5 years in senior leadership overseeing complex multi-site operations",
-      "Proven success in managing terminal/depot infrastructure and marine discharge"
-    ],
-    apply: 'Send emails to <a href="mailto:careers@pinnacleoilandgas.com">careers@pinnacleoilandgas.com</a>',
-    salary: "Not Specified",
-    deadline: "30 April 2026"
-  },
-  {
-    id: "customer-service-officer-fashion-brand-chevron",
-    title: "Customer Service Officer",
-    date: "2026-04-28",
-    location: "Chevron, Lagos",
-    type: "Full-time",
-    summary: "Join a growing fashion brand to attend to customers, resolve inquiries, and ensure excellent satisfaction while maintaining a professional image.",
-    responsibilities: [
-      "Attend to customers and resolve inquiries",
-      "Manage customer complaints effectively",
-      "Ensure excellent customer satisfaction",
-      "Maintain the brand’s professional image"
-    ],
-    requirements: [
-      "HND/B.Sc. in any related field",
-      "1–2 years experience in customer service",
-      "Strong communication and interpersonal skills",
-      "Good problem-solving ability",
-      "Professional and customer-friendly attitude"
-    ],
-    apply: 'Send your CV to <a href="mailto:globeeasyhr@gmail.com">globeeasyhr@gmail.com</a>. Use the Job Title as the subject.',
-    salary: "₦100,000",
-    deadline: "May 1st, 2026"
-  },
-  {
     id: "house-keeper-ikoyi-lagos-2026",
     title: "House Keeper",
     date: "2026-04-28",
@@ -1295,35 +1292,6 @@ const allJobs: Job[] = [
     apply: 'Interested persons should fill the form: <a href="https://forms.gle/3b1LvL8LjnZuHwvb9">Apply Online</a>',
     salary: "₦200,000",
     deadline: "Not Specified"
-  },
-  {
-    id: "estate-surveyor-valuer-solid-groups-ikoyi-2026",
-    title: "Estate Surveyor & Valuer / Property Manager",
-    date: "2026-04-28",
-    location: "Ikoyi, Lagos",
-    type: "Full-time",
-    summary: "Manage and value real estate properties, handling everything from rent collection and maintenance to sales, leasing, and consultancy.",
-    responsibilities: [
-      "Conduct property valuations for market or rental value",
-      "Manage and maintain properties on behalf of owners",
-      "Facilitate real estate sales and leasing transactions",
-      "Advise clients on land and property development",
-      "Provide real estate consultancy and investment strategies",
-      "Assist with land acquisition and disposal",
-      "Advise on property taxation matters",
-      "Conduct real estate market research and analysis",
-      "Manage client relations and networking",
-      "Ensure legal and regulatory compliance"
-    ],
-    requirements: [
-      "HND/Bachelor’s degree in Business Admin, Estate Management, or related field",
-      "2-3 years experience in property management and valuation",
-      "Strong leadership, communication, and organizational skills",
-      "Proficiency in Microsoft Office and reporting tools"
-    ],
-    apply: 'Send your CV to <a href="mailto:hr.solidgroups@gmail.com">hr.solidgroups@gmail.com</a>',
-    salary: "₦250,000 - ₦300,000",
-    deadline: "30th April, 2026"
   },
   {
     id: "technical-sales-engineer-flowitec-lagos",
@@ -1378,29 +1346,6 @@ const allJobs: Job[] = [
     deadline: "Not Specified"
   },
   {
-    id: "safety-manager-calabar-2026",
-    title: "Safety Manager",
-    date: "2026-04-28",
-    location: "Calabar",
-    type: "Full-time",
-    summary: "Experienced professional to ensure a safe and compliant working environment across company operations in Calabar.",
-    responsibilities: [
-      "Maintain a safe and compliant working environment",
-      "Implement occupational health and safety standards",
-      "Conduct safety audits and reporting",
-      "Monitor workplace hazards and implement controls"
-    ],
-    requirements: [
-      "Minimum of HND/Bachelor’s degree in a relevant field",
-      "Age limit: Below 40 years",
-      "At least 2–4 years experience in a safety-related role",
-      "Relevant safety certifications (e.g., HSE) are an added advantage"
-    ],
-    apply: 'Send CV to: <a href="mailto:stanmasrecruiters@gmail.com">stanmasrecruiters@gmail.com</a>',
-    salary: "Competitive",
-    deadline: "April 30, 2026"
-  },
-  {
     id: "accountant-itmafrica-wuse-2-abuja",
     title: "Accountant",
     date: "2026-04-28",
@@ -1425,72 +1370,6 @@ const allJobs: Job[] = [
     apply: 'Send CV to <a href="mailto:recruitment.ng@itmafrica.com">recruitment.ng@itmafrica.com</a>',
     salary: "₦300,000 - ₦500,000",
     deadline: "Not Specified"
-  },
-  {
-    id: "content-creator-fashion-brand-chevron",
-    title: "Content Creator",
-    date: "2026-04-28",
-    location: "Chevron, Lagos",
-    type: "Full-time",
-    summary: "Create engaging social media content and develop brand campaigns for a fashion brand to improve online visibility.",
-    responsibilities: [
-      "Create engaging social media content",
-      "Develop brand campaigns",
-      "Improve online visibility and engagement"
-    ],
-    requirements: [
-      "Proven experience in content creation",
-      "Strong creativity and storytelling skills",
-      "Social media management knowledge",
-      "Basic design/video editing skills is an added advantage"
-    ],
-    apply: 'Send CV to <a href="mailto:globeeasyhr@gmail.com">globeeasyhr@gmail.com</a>. Use the Job Title as the subject.',
-    salary: "₦250,000",
-    deadline: "May 1st, 2026"
-  },
-  {
-    id: "logistics-monitoring-assistant-nysc-chevron",
-    title: "Logistics/Monitoring Assistant (NYSC)",
-    date: "2026-04-28",
-    location: "Chevron, Lagos",
-    type: "Internship (NYSC)",
-    summary: "Support-based role for an NYSC member to coordinate deliveries and track the movement of goods.",
-    responsibilities: [
-      "Coordinate deliveries and track movement of goods",
-      "Monitor daily logistics operations",
-      "Support general logistics processes"
-    ],
-    requirements: [
-      "Currently serving (NYSC) in Lagos",
-      "Good organizational and tracking skills",
-      "Attention to detail",
-      "Willingness to learn and adapt quickly"
-    ],
-    apply: 'Send CV to <a href="mailto:globeeasyhr@gmail.com">globeeasyhr@gmail.com</a>. Use the Job Title as the subject.',
-    salary: "Not Specified",
-    deadline: "May 1st, 2026"
-  },
-  {
-    id: "operations-manager-fashion-brand-chevron",
-    title: "Operations Manager",
-    date: "2026-04-28",
-    location: "Chevron, Lagos",
-    type: "Full-time",
-    summary: "Oversee daily business operations and coordinate teams for a fashion brand to improve workflow efficiency.",
-    responsibilities: [
-      "Oversee daily business operations",
-      "Coordinate teams and improve workflow efficiency",
-      "Ensure smooth organizational processes"
-    ],
-    requirements: [
-      "HND/B.Sc. in Business Administration or related field",
-      "2–4 years relevant experience",
-      "Strong leadership and organizational skills",
-      "Good reporting and decision-making skills"
-    ],
-    apply: 'Send CV to <a href="mailto:globeeasyhr@gmail.com">globeeasyhr@gmail.com</a>. Use the Job Title as the subject.',
-    salary: "₦180,000",
-    deadline: "May 1st, 2026"
   },
   {
     id: "it-officer-hospitality-ikeja-lagos",
@@ -1564,30 +1443,6 @@ const allJobs: Job[] = [
     apply: 'Send CV to: <a href="mailto:yomade.hrleverage@gmail.com">yomade.hrleverage@gmail.com</a> using “Receptionist – Lagos” as subject.',
     salary: "Not Specified",
     deadline: "18th May, 2026"
-  },
-  {
-    id: "hr-manager-stellar-steel-ewekoro-ogun",
-    title: "Human Resource Manager",
-    date: "2026-04-28",
-    location: "Ewekoro, Ogun",
-    type: "Full-time",
-    summary: "Manage core HR functions including recruitment, employee relations, and strategy for Stellar Steel Company Limited.",
-    responsibilities: [
-      "Develop recruitment strategies and manage onboarding",
-      "Address grievances and maintain a positive work environment",
-      "Evaluate employee performance and appraisal systems",
-      "Organize training and career growth initiatives",
-      "Oversee payroll and benefits administration",
-      "Ensure adherence to employment laws"
-    ],
-    requirements: [
-      "Experience in HR management in a manufacturing environment preferred",
-      "Degree in Human Resources or related field",
-      "Strong knowledge of labor laws and HR strategy"
-    ],
-    apply: 'Send CV to: <a href="mailto:starich.hr@yahoo.com">starich.hr@yahoo.com</a> using the job title as subject.',
-    salary: "₦280,000 – ₦325,000",
-    deadline: "30th April, 2026"
   },
   {
     id: "sales-representative-skincare-trade-fair-lagos",
@@ -1764,26 +1619,6 @@ const allJobs: Job[] = [
     apply: 'Interested and qualified candidates should send cv to <a href="mailto:yomade.hrleverage@gmail.com">yomade.hrleverage@gmail.com</a> using the job title ”Technical Sales Engineer – Lagos” as the subject of mail.',
     salary: "Not Specified",
     deadline: "Not Specified"
-  },
-  {
-    id: "graduate-geoscientist-reservoir-simwa-lagos",
-    title: "Graduate Geoscientist (Reservoir Project)",
-    date: "2026-04-26",
-    location: "Lagos",
-    type: "Full-time",
-    summary: "Provide technical support across seismic interpretation, petrophysical evaluation, and reservoir characterization to support subsurface studies.",
-    responsibilities: [
-      "Perform seismic interpretation and petrophysical evaluation.",
-      "Conduct reservoir characterization and static modelling activities.",
-      "Support subsurface studies and field development planning."
-    ],
-    requirements: [
-      "Bachelor’s degree in Geology, Geophysics, Petroleum Geoscience, or related discipline.",
-      "Minimum of 2 years relevant experience in subsurface geoscience or reservoir studies."
-    ],
-    apply: 'Application link: <a href="https://areatalkreprts.com/graduate-geoscientist-reservoir-project-at-simwa-energy/">Apply Online</a>',
-    salary: "Not Specified",
-    deadline: "29th April 2026"
   },
   {
     id: "senior-accountant-ibadan-furniture",
@@ -2020,29 +1855,6 @@ const allJobs: Job[] = [
     apply: 'Interested and qualified applicants should forward their CVs to: <a href="mailto:metusmetus73@gmail.com">metusmetus73@gmail.com</a> or <a href="mailto:transnationalzamiva21@yahoo.com">transnationalzamiva21@yahoo.com</a>',
     salary: "250,000 - 300,000 monthly net",
     deadline: "Not Specified"
-  },
-  {
-    id: "executive-driver-to-the-ceo-ikoyi",
-    title: "Executive Driver to the CEO",
-    date: "2026-04-25",
-    location: "Ikoyi, Lagos",
-    type: "Full-time",
-    summary: "Professional and reliable Driver responsible for providing safe, timely, and efficient transportation services for the CEO.",
-    responsibilities: [
-      "Safely drive the CEO to and from appointments, meetings, and other engagements",
-      "Ensure the vehicle is always clean, well-maintained, and in optimal working condition",
-      "Plan routes effectively to ensure punctuality and avoid traffic delays",
-      "Maintain strict confidentiality and professionalism at all times"
-    ],
-    requirements: [
-      "Minimum of 3–6 years’ proven experience as a professional driver, preferably for senior executives",
-      "Valid driver’s license with a clean driving record",
-      "Good knowledge of Lagos road networks and traffic regulations",
-      "Proximity to the island is highly desirable but not mandatory."
-    ],
-    apply: 'Interested and qualified applicants should apply by clicking the link: <a href="https://forms.gle/KtZgD446k2q4CsNW7">Apply Online</a>',
-    salary: "₦110,000 – ₦120,000 net per month (excluding overtime)",
-    deadline: "30th April 2026"
   },
   {
     id: "cleaner-anthony-lagos",
@@ -3165,82 +2977,6 @@ const allJobs: Job[] = [
     deadline: "Not Specified"
   },
   {
-    id: "Customer Support Intern (SIWES / IT) - Ogba",
-    title: "Customer Support Intern (SIWES / IT)",
-    date: "2026-04-20",
-    location: "Ogba, Ikeja – Lagos",
-    type: "Internship",
-    summary: "Interns will assist in handling customer interactions, managing call volumes, and ensuring efficient service delivery while gaining practical experience.",
-    responsibilities: [
-      "Handle inbound and outbound customer calls professionally.",
-      "Communicate with customers in English, Yoruba, and Hausa.",
-      "Respond to inquiries and provide accurate product information.",
-      "Escalate unresolved issues to the appropriate team.",
-      "Maintain records of customer interactions."
-    ],
-    requirements: [
-      "Currently undergoing SIWES / IT from a recognized institution.",
-      "Must be fluent in English, Yoruba, and Hausa.",
-      "Good communication and interpersonal skills.",
-      "Basic computer knowledge (MS Office)."
-    ],
-    apply: 'Click here to apply online: <a href="https://forms.gle/7i1vMMhX8WfyFBvQ9">Apply Online</a>',
-    salary: "Not Specified",
-    deadline: "20th April, 2026"
-  },
-  {
-    id: "Applied AI Engineer - VI",
-    title: "Applied AI Engineer",
-    date: "2026-04-20",
-    location: "Victoria Island, Lagos",
-    type: "Full-time",
-    summary: "Design, build, and operationalise AI/ML solutions that create measurable business value across the Group’s operations.",
-    responsibilities: [
-      "Design and implement end-to-end AI/ML pipelines.",
-      "Develop and fine-tune Large Language Models (LLMs) and Generative AI applications.",
-      "Build RAG systems, vector databases, and embedding pipelines.",
-      "Integrate AI capabilities via RESTful APIs and microservices.",
-      "Establish MLOps best practices (MLflow, DVC, CI/CD).",
-      "Monitor model performance and detect drift/bias in production."
-    ],
-    requirements: [
-      "Bachelor’s or Master’s Degree in CS, Data Science, or AI field.",
-      "Minimum 3 years of hands-on experience in production-grade AI systems.",
-      "Proficiency in Python and frameworks like PyTorch or TensorFlow.",
-      "Experience with cloud ML platforms (AWS SageMaker, Azure ML).",
-      "Understanding of containerisation (Docker, Kubernetes)."
-    ],
-    apply: 'Click here to apply online: <a href="https://forms.gle/pkuNTJF1sGhAmETS7">Apply Online</a>',
-    salary: "Not Specified",
-    deadline: "20th April, 2026"
-  },
-  {
-    id: "QA & Application Support Engineer - VI",
-    title: "QA & Application Support Engineer",
-    date: "2026-04-20",
-    location: "Victoria Island, Lagos",
-    type: "Full-time",
-    summary: "Responsible for ensuring the quality, reliability, and stability of all digital products and serving as a bridge between development and users.",
-    responsibilities: [
-      "Design and execute comprehensive test plans (functional, performance, UAT).",
-      "Maintain automated testing frameworks (Selenium, Playwright, Cypress).",
-      "Perform API testing and database validation.",
-      "Triage and resolve incidents escalated from end-users.",
-      "Monitor application health using observability tools (Datadog, New Relic).",
-      "Conduct root cause analysis for production incidents."
-    ],
-    requirements: [
-      "Bachelor’s Degree in CS, IT, or Software Engineering.",
-      "Minimum 3 years combined experience in QA and App Support.",
-      "Hands-on experience with automation testing tools.",
-      "Intermediate SQL skills.",
-      "ISTQB certification is an advantage."
-    ],
-    apply: 'Click here to apply online: <a href="https://forms.gle/zmkChrq6yS25o7Zh6">Apply Online</a>',
-    salary: "Not Specified",
-    deadline: "20th April, 2026"
-  },
-  {
     id: "Project Manager / Engineering Lead - VI",
     title: "Project Manager / Engineering Lead",
     date: "2026-04-20",
@@ -3289,31 +3025,6 @@ const allJobs: Job[] = [
     apply: 'Apply online: <a href="https://careers.bakerhughes.com/global/en/job/BAHUGLOBALR158836EXTERNALENGLOBAL/Aero-Turbine-Field-Specialist">Apply Online</a>',
     salary: "Not Specified",
     deadline: "Not Specified"
-  },
-  {
-    id: "Field Engineer - ISP - Lekki",
-    title: "Field Engineer",
-    date: "2026-04-20",
-    location: "Lekki Phase, Lagos",
-    type: "Full-time",
-    summary: "Attend customer premises to install, configure, and troubleshoot ISP services including fiber, routers, and modems.",
-    responsibilities: [
-      "Install and configure internet connectivity and networking equipment.",
-      "Test and verify performance meet desired speed and reliability standards.",
-      "Diagnose and resolve network connectivity issues and malfunctions.",
-      "Educate customers on proper use of installed services.",
-      "Collaborate with internal NOC teams for complex issues."
-    ],
-    requirements: [
-      "High school diploma or technical degree in related field.",
-      "Proven experience in ISP or telecommunications network installations.",
-      "Knowledge of routers, switches, and cabling.",
-      "Familiarity with Windows, Linux, and macOS.",
-      "Valid driver’s license and physical ability to lift equipment."
-    ],
-    apply: 'Send CV to: <a href="mailto:recruitment@cobranet.ng">recruitment@cobranet.ng</a> using the job title as subject.',
-    salary: "Not Specified",
-    deadline: "30th April, 2026"
   },
   {
     id: "Facility Engineer (Mid-Level) - Iyana Ipaja",
@@ -3389,29 +3100,6 @@ const allJobs: Job[] = [
     deadline: "13th May, 2026"
   },
   {
-    id: "Architect - PH - Quantum",
-    title: "Architect",
-    date: "2026-04-20",
-    location: "Port Harcourt, Rivers",
-    type: "Full-time",
-    summary: "Conceptualize, design, and coordinate architectural aspects of real estate developments.",
-    responsibilities: [
-      "Develop architectural designs and concepts.",
-      "Prepare detailed drawings and construction documents.",
-      "Create 3D models and visual presentations.",
-      "Supervise projects to ensure quality and compliance."
-    ],
-    requirements: [
-      "B.Sc. in Architecture.",
-      "2 years post-NYSC experience in design and supervision.",
-      "Proficiency in AutoCAD, Revit, SketchUp.",
-      "Strong portfolio and design creativity."
-    ],
-    apply: 'Send CV to: <a href="mailto:quantumlinkservices.hr@gmail.com">quantumlinkservices.hr@gmail.com</a> using “Architect” as subject.',
-    salary: "N100,000 – N150,000 per month",
-    deadline: "27th April, 2026"
-  },
-  {
     id: "Welder - Kwali - Viju",
     title: "Welder",
     date: "2026-04-20",
@@ -3431,29 +3119,6 @@ const allJobs: Job[] = [
     apply: 'Send CV to: <a href="mailto:vijutalent@gmail.com">vijutalent@gmail.com</a> using the Job Title as subject.',
     salary: "N100,000 – N250,000 monthly",
     deadline: "11th May, 2026"
-  },
-  {
-    id: "Graphics Designer - Ikeja - Compovine",
-    title: "Graphics Designer",
-    date: "2026-04-20",
-    location: "Ikeja, Lagos",
-    type: "Full-time",
-    summary: "Develop unique visual concepts for logos, brochures, and digital graphics across multiple platforms.",
-    responsibilities: [
-      "Brainstorm and develop visual concepts for marketing materials.",
-      "Design logos, brochures, advertisements, and social media graphics.",
-      "Collaborate with marketing teams to gather requirements.",
-      "Ensure designs adhere to brand guidelines.",
-      "Test designs across different media formats."
-    ],
-    requirements: [
-      "Proficiency in Adobe Creative Suite (Photoshop, Illustrator, InDesign).",
-      "Experience in both 2D and 3D designs.",
-      "Ability to handle feedback and make creative adjustments."
-    ],
-    apply: 'Send CV to: <a href="mailto:hr@compovine.com">hr@compovine.com</a> using the job title as subject.',
-    salary: "Not Specified",
-    deadline: "30th April, 2026"
   },
   {
     id: "FTTH Project Site Engineer - Katsina",
@@ -3500,52 +3165,6 @@ const allJobs: Job[] = [
     apply: 'Apply online: <a href="https://www.linkedin.com/jobs/view/4384031334/">Apply Online</a>',
     salary: "Not Specified",
     deadline: "Not Specified"
-  },
-  {
-    id: "Technical Site Supervisor- Paint and Coatings - Abuja",
-    title: "Technical Site Supervisor- Paint and Coatings",
-    date: "2026-04-20",
-    location: "Maitama, Abuja (FCT)",
-    type: "Full-time",
-    summary: "Assist in BOQ preparation, material scheduling, and supervision of ongoing works on-site.",
-    responsibilities: [
-      "Assist in preparation of bill of quantities and material schedules.",
-      "Prepare detailed progress reports.",
-      "Receive materials and manage stock on site.",
-      "Carry out physical measurements for valuation of work done.",
-      "Supervise ongoing works to ensure quality."
-    ],
-    requirements: [
-      "Bachelor Degree in Architectural / Landscaping / Surveying / Interior Decor.",
-      "3 – 10 years experience in the field."
-    ],
-    apply: 'Send CV and application to: <a href="mailto:micahekpo@gmail.com">micahekpo@gmail.com</a> using the Job Title as subject.',
-    salary: "Not Specified",
-    deadline: "30th April, 2026"
-  },
-  {
-    id: "Graduate Trainee Engineer - Findalogistics",
-    title: "Graduate Trainee Engineer",
-    date: "2026-04-20",
-    location: "Lagos",
-    type: "Full-time",
-    summary: "Young, vibrant Engineering Graduates to join the 2026 Graduate Trainee Program for hands-on experience in logistics and fleet management.",
-    responsibilities: [
-      "Assist in monitoring logistics hardware and fleet systems.",
-      "Analyze supply chain workflows for improvements.",
-      "Maintain technical documentation and maintenance records.",
-      "Support implementation of last-mile delivery tracking."
-    ],
-    requirements: [
-      "B.Sc / HND in Mechanical, Electrical, Civil, Systems, or Industrial Engineering.",
-      "Minimum of Second Class Upper (2:1) or Upper Credit.",
-      "Entry Level (0–1 year exp).",
-      "No older than 26 years at time of application.",
-      "Reside in or willing to relocate to Lagos."
-    ],
-    apply: 'Send CV to: <a href="mailto:findalogisticsservicesltd.hr@gmail.com">findalogisticsservicesltd.hr@gmail.com</a> using “Graduate Trainee Engineer – [Your Full Name]” as subject.',
-    salary: "N150,000 – N250,000",
-    deadline: "27th April, 2026"
   },
   {
     id: "IT Operations Manager - Addosser - Lagos",
@@ -3704,70 +3323,6 @@ const allJobs: Job[] = [
     deadline: "Not Specified.",
   },
   {
-    id: "Graphic Designer - Lekki/Remote",
-    title: "Graphic Designer",
-    date: "2026-04-18",
-    location: "Remote (Must visit Lekki office occasionally)",
-    type: "Full-time",
-    summary:
-      "The Graphic Designer will be responsible for creating high-quality visual content that aligns with the company’s branding and marketing objectives. The ideal candidate must be creative, proactive, and able to deliver strong design concepts under minimal supervision.",
-    responsibilities: [
-      "Design graphics for social media, marketing campaigns, menus, and promotional materials.",
-      "Produce visually appealing digital content that aligns with brand standards.",
-      "Work closely with the marketing and management teams to develop creative concepts.",
-      "Edit photos and videos where necessary.",
-      "Ensure timely delivery of design materials.",
-      "Maintain an organized archive of design assets.",
-      "Attend occasional in-person meetings at the Lekki office.",
-    ],
-    requirements: [
-      "OND / HND / B.Sc in any relevant field.",
-      "1–3 years experience as a graphic designer.",
-      "Proficiency in Adobe Photoshop, Illustrator, Canva, or similar tools.",
-      "Strong creativity and attention to detail.",
-      "Ability to work independently in a remote environment.",
-      "Good communication and time-management skills.",
-      "Experience with motion graphics is an added advantage.",
-      "Portfolio Submission is mandatory for consideration.",
-    ],
-    apply:
-      'Interested and qualified candidates should send their CV and proof of work to: <a href="mailto:hrunclestansfoods@gmail.com">hrunclestansfoods@gmail.com</a> using the Job Title as the subject of the email.',
-    salary: "Monthly salary of N100,000.",
-    deadline: "24th April, 2026.",
-  },
-  {
-    id: "Mechanical Engineer - Ikeja",
-    title: "Mechanical Engineer",
-    date: "2026-04-18",
-    location: "Ikeja, Lagos",
-    type: "Full-time",
-    summary:
-      "Support the fabrication, design, evaluation, installation, operation, and maintenance of mechanical equipment, systems, or processes. The role involves managing project schedules, budgets, and supervising technical personnel.",
-    responsibilities: [
-      "Support to fabricate design, evaluate, install, operate, or maintain mechanical equipment.",
-      "Read and interpret blueprints, technical drawings, and schematics.",
-      "Determine project specifications and prepare cost estimates.",
-      "Develop and maintain project schedules by monitoring progress.",
-      "Investigate equipment failures and recommend remedial actions.",
-      "Confer with personnel to resolve malfunctions and implement procedures.",
-      "Prepare project status reports by summarizing trends.",
-      "Enforce safety and clean project environment procedures.",
-      "Liaise with procurement for technical equipment specifications.",
-      "Supervise work activities of technicians on projects.",
-    ],
-    requirements: [
-      "B.Sc or HND in Mechanical Engineering.",
-      "Experience in fabricating, designing, and maintaining mechanical systems.",
-      "Ability to interpret technical drawings and computer-generated reports.",
-      "Strong analytical and project management skills.",
-      "Knowledge of safety standards and regulatory compliance.",
-    ],
-    apply:
-      'Interested and qualified candidates should send their CV to: <a href="mailto:careers@tomsey.com.ng">careers@tomsey.com.ng</a> using “Mechanical Engineer” as the subject of the mail.',
-    salary: "N200,000 – N300,000 / month.",
-    deadline: "25th April, 2026.",
-  },
-  {
     id: "Manager – Meter Engineering - Lagos",
     title: "Manager – Meter Engineering",
     date: "2026-04-18",
@@ -3797,37 +3352,6 @@ const allJobs: Job[] = [
       'Interested and qualified candidates should: Click <a href="https://job-boards.eu.greenhouse.io/beaconpowerservices/jobs/4815816101">HERE</a> to apply online.',
     salary: "Not Specified.",
     deadline: "Not Specified.",
-  },
-  {
-    id: "Project Architect - Lekki",
-    title: "Project Architect",
-    date: "2026-04-18",
-    location: "Lekki, Lagos",
-    type: "Full-time",
-    summary:
-      "The Project Architect plays a pivotal role in the design, coordination, and execution of architectural projects. This position requires a strong blend of creative and technical expertise to lead projects from concept through construction.",
-    responsibilities: [
-      "Lead the development of architectural design concepts into detailed drawings.",
-      "Prepare architectural presentations, working drawings, and construction documents.",
-      "Ensure designs comply with local regulations, codes, and zoning requirements.",
-      "Manage medium to large-scale projects simultaneously.",
-      "Coordinate with internal teams and external consultants (MEP, structural, etc.).",
-      "Conduct site visits to monitor construction quality.",
-      "Serve as the primary liaison between the firm and clients.",
-      "Supervise and mentor junior architects and interns.",
-    ],
-    requirements: [
-      "Master’s Degree in Architecture.",
-      "4 – 7 years of professional experience, with 2 years in leadership preferred.",
-      "Proficiency in AutoCAD, Revit (mandatory), SketchUp, and Adobe Creative Suite.",
-      "Strong understanding of construction detailing and materials.",
-      "Familiarity with Nigerian Building Codes.",
-      "Excellent communication and time management skills.",
-    ],
-    apply:
-      'Interested and qualified candidates should send their CV to: <a href="mailto:jobs@pgconsultingng.com">jobs@pgconsultingng.com</a> using the Job Title as the subject of the mail.',
-    salary: "N400,000 – N450,000 / Month.",
-    deadline: "30th April, 2026.",
   },
   {
     id: "Technology Deployment Manager - Nigeria",
@@ -3981,45 +3505,6 @@ const allJobs: Job[] = [
     deadline: "Not Specified.",
   },
   {
-    id: "CCTV Technician - Victoria Island",
-    title: "CCTV Technician",
-    date: "2026-04-18",
-    location: "Victoria Island, Lagos",
-    type: "Full-time",
-    summary:
-      "This role involves the design, installation, and maintenance of analog and digital CCTV systems, as well as providing technical support for security products like alarm systems, access control, and panic buttons.",
-    responsibilities: [
-      "Design, specify, configure, and install analog and digital CCTV systems.",
-      "Maintain and upgrade existing analog and digital CCTV systems as needed.",
-      "Support users of CCTV system by responding and resolving any issues on client’s device in real time.",
-      "Establish working relationships with vendors and contractors pertaining to CCTV systems.",
-      "Assist with the configuration, deployment, and support of network assets.",
-      "Installation and maintenance of alarm system, access control, panic buttons.",
-      "Be familiar with network operating system.",
-      "Provide recommendations about accessing security and support.",
-      "Troubleshoot all technology issues.",
-      "Maintain log and/or list of required repairs and maintenance.",
-      "Ensure installation of lock out programs.",
-      "Perform other related duties as required during working hours.",
-    ],
-    requirements: [
-      "B.Sc, HND, OND, C&G, or Trade Test II & I in Electrical and/or Electronic Engineering / Computer Science and ICT.",
-      "Demonstrable practical experience in electrical installation work, especially on CCTV and other security products like panic buttons and access control.",
-      "Minimum of 5 years experience in a technician role or electrical installation work.",
-      "Good English speaking skills, verbal and written.",
-      "Presentation Skills, Client Relationships, Emphasizing Excellence, High Energy Level.",
-      "Extrovert personality.",
-      "Ability to multitask and manage multiple deadlines.",
-      "Self-motivated and accustomed to working with minimum supervision.",
-      "Ability to operate in challenging and remote work locations.",
-      "Ability to cope with pressure.",
-    ],
-    apply:
-      'Interested and qualified candidates should send their CV to: <a href="mailto:hr.asa2023a@gmail.com">hr.asa2023a@gmail.com</a> using the Job Title as the subject of the email.',
-    salary: "N150,000 monthly.",
-    deadline: "26th April, 2026.",
-  },
-  {
     id: "MEP Project Engineer - Lagos",
     title: "MEP Project Engineer",
     date: "2026-04-18",
@@ -4114,97 +3599,6 @@ const allJobs: Job[] = [
     deadline: "Not Specified",
   },
   {
-    id: "Machinery Engineer / Specialist II - Lagos",
-    title: "Machinery Engineer / Specialist II",
-    date: "2026-04-18",
-    location: "Lagos",
-    type: "Full-time",
-    summary:
-      "Evaluate and comment on discipline engineering work performed both internally and by contractors to ensure that work is being executed in accordance with company specifications and regulatory requirements.",
-    responsibilities: [
-      "Evaluate and comment on discipline engineering work performed both internally and by contractors.",
-      "Facilitate effective execution of discipline engineering and design routines that align with the team’s goals.",
-      "Assure accurate and timely communication among the team and other company functions on engineering activities.",
-      "Work in a team environment with other engineering disciplines, operations, and mechanical personnel.",
-      "Proactively seek reliability improvements directed at increasing plant equipment uptime while reducing maintenance costs.",
-      "Specify new rotating equipment to comply with industry and company design practices.",
-      "Ensure safe, cost effective, operable machinery and associated systems are provided and maintained.",
-    ],
-    requirements: [
-      "Bachelor’s degree in mechanical engineering or related engineering specialty, or equivalent professional experience.",
-      "Strong knowledge of discipline design standards, specifications, codes, and appropriate safety criteria.",
-      "Ability to adapt to tight deadlines, heavy workloads, and frequent changes in priorities.",
-      "Proficient in the Microsoft Office suite of software programs.",
-      "Read, write, and speak fluent English, especially as it applies to technical and business communications.",
-    ],
-    apply:
-      'Interested and qualified candidates should: Click <a href="https://amaidenenergy.com/job/projects-construction-coordinator-iii-2/">HERE</a> to apply online.',
-    salary: "Not Specified",
-    deadline: "30th April, 2026.",
-  },
-  {
-    id: "Panel Beater - Epe - 2026",
-    title: "Panel Beater",
-    date: "2026-04-18",
-    location: "Epe, Lagos",
-    type: "Full-time",
-    summary:
-      "We are currently seeking a skilled and dedicated Panel Beater to join our dynamic team. This role is integral to ensuring the structural integrity and aesthetic quality of our vehicles, which are critical to our mission of providing superior defence solutions.",
-    responsibilities: [
-      "Damage Assessment: Conduct thorough inspections and evaluations of vehicle damage and prepare repair plans.",
-      "Panel Repair and Replacement: Execute repairs and replacements of vehicle panels and structural components with precision.",
-      "Welding and Fabrication: Perform high-quality welding and metal fabrication tasks, including MIG and spot welding.",
-      "Surface Preparation and Finishing: Prepare surfaces for painting, including sanding, priming, and applying filler.",
-      "Quality Control: Conduct meticulous inspections of finished repairs to ensure compliance with company standards.",
-      "Tool and Equipment Maintenance: Maintain and care for all tools and equipment, ensuring they are in optimal working condition.",
-    ],
-    requirements: [
-      "Candidates should possess minimum SSCE qualification.",
-      "2 – 4 years proven experience as a Panel Beater.",
-      "Experience in repairing and replacing damaged vehicle panels and bodywork is essential.",
-      "Capability to troubleshoot and resolve repair issues, including those related to vehicle structure and alignment.",
-    ],
-    apply:
-      'Interested and qualified candidates should send their resume to: <a href="mailto:hr@bucklersystems.com">hr@bucklersystems.com</a> using the Job Title as the subject of the mail.',
-    salary: "Not Specified",
-    deadline: "30th April, 2026.",
-  },
-  {
-      id: "CNC Machine Operator - Epe",
-    title: "CNC Machine Operator",
-    date: "2026-04-17",
-    location: "Epe, Lagos",
-    type: "Full-time",
-    seniority: "Mid-Level",
-    summary:
-      "This role requires a highly organized and detail-oriented operator capable of operating and maintaining CNC machines to produce high-quality precision parts according to specifications and safety standards. The role involves monitoring machine performance, ensuring product accuracy, and supporting efficient production processes.",
-    responsibilities: [
-      "Set up, operate, and adjust CNC lathe and / or milling machines.",
-      "Load CNC programs and configure tools and machine parameters.",
-      "Monitor machining processes to ensure quality and dimensional accuracy.",
-      "Inspect finished parts using precision measuring instruments.",
-      "Identify and report defects, tool wear, and equipment issues.",
-      "Perform basic machine maintenance and troubleshooting.",
-      "Maintain accurate production and inspection records.",
-      "Comply with HSE policies and proper use of PPE.",
-      "Work with the team to meet production targets and reduce downtime.",
-      "Support continuous improvement and efficient machining practices.",
-    ],
-    requirements: [
-      "B.Eng./B.Sc. in Mechanical Engineering or a related field.",
-      "Minimum of 2 years’ experience as a CNC Machine Operator in a manufacturing or automotive company.",
-      "Strong knowledge of CNC machine processes, tooling, and materials.",
-      "Ability to read and interpret engineering drawings and technical specifications.",
-      "Proficiency in the use of precision measuring instruments and understanding of quality control standards.",
-      "Familiarity with Plasma cutting machine, Fiber laser cutting machine, and Durma press brake.",
-      "Must reside within close proximity to Epe.",
-    ],
-    apply:
-      'Interested and qualified candidates should send their Resume to: <a href="mailto:hr@bucklersystems.com">hr@bucklersystems.com</a> using the Job Title as the subject of the mail.',
-    salary: "Not Specific",
-    deadline: "30th April, 2026.",
-  },
-  {
     id: "Graphic Designer - Ibadan",
     title: "Graphic Designer",
     date: "2026-04-17",
@@ -4231,152 +3625,6 @@ const allJobs: Job[] = [
       'Interested and qualified candidates should send their CV to: <a href="mailto:info@ceoafrica.com">info@ceoafrica.com</a> using the Job Title as the subject of the email.',
     salary: "N100,000 – N150,000 / Month.",
     deadline: "Not specified",
-  },
-  {
-    id: "UI / UX Designer - Ilorin",
-    title: "UI / UX Designer",
-    date: "2026-04-17",
-    location: "Ilorin, Kwara",
-    type: "Full-time",
-    seniority: "Mid-Level",
-    summary:
-      "We are seeking a creative and detail-oriented UI/UX Designer to design intuitive and user-friendly digital experiences. The ideal candidate will be responsible for translating user needs and business requirements into functional and visually appealing designs across web and mobile platforms.",
-    responsibilities: [
-      "UI/UX Design for web & mobile interfaces.",
-      "Create wireframes, prototypes & high-fidelity designs.",
-      "Conduct user research & usability testing.",
-      "Maintain design systems & collaborate with developers.",
-      "Track project timelines & deliverables.",
-      "Facilitate communication across teams.",
-      "Document requirements & workflows.",
-    ],
-    requirements: [
-      "2–4 years UI / UX experience.",
-      "Strong portfolio (web / mobile projects).",
-      "Proficiency in Figma.",
-      "Familiarity with Agile workflows.",
-      "Strong communication & organizational skills.",
-    ],
-    apply:
-      'Interested and qualified candidates should send their CV and Portfolio to: <a href="mailto:career@zeedlabs.com">career@zeedlabs.com</a> using the job title as the subject of the mail.',
-    salary: "Not Specific",
-    deadline: "30th April, 2026.",
-  },
-  {
-    id: "Facility Engineer - Alimosho",
-    title: "Facility Engineer (Mid-Level)",
-    date: "2026-04-17",
-    location: "Alimosho, Lagos",
-    type: "Full-time",
-    seniority: "Mid-Level",
-    summary:
-      "We are seeking a proactive and detail-oriented Facility Engineer to manage and maintain our retail facilities in Alimosho. The ideal candidate will ensure all building systems, including HVAC, electrical, and plumbing, operate efficiently, safely, and in compliance with industry standards.",
-    responsibilities: [
-      "Oversee daily facility operations, including HVAC (heating, ventilation, and air conditioning), electrical, and plumbing systems",
-      "Monitor and maintain HVAC systems to ensure optimal performance and indoor air quality",
-      "Conduct routine inspections and preventive maintenance of equipment and infrastructure",
-      "Diagnose and resolve faults in HVAC and other building systems",
-      "Respond promptly to maintenance issues and emergency repairs",
-      "Manage vendors and contractors for facility-related services, including HVAC servicing",
-      "Ensure compliance with safety regulations and company policies",
-      "Monitor utility usage and implement cost-saving initiatives, especially energy efficiency for HVAC systems",
-      "Maintain accurate maintenance records and reports",
-      "Support store operations by ensuring minimal downtime of facilities",
-    ],
-    requirements: [
-      "Bachelor’s Degree or HND in Engineering (Mechanical, Electrical, or related field)",
-      "3–4 years’ experience in facility management, with strong HVAC experience (retail experience is an advantage)",
-      "Solid knowledge of HVAC systems, electrical systems, and plumbing",
-      "Experience in troubleshooting and maintaining HVAC equipment",
-      "Good problem-solving and organizational skills",
-      "Ability to manage multiple tasks and work independently",
-      "Proficiency in Microsoft Office and maintenance management systems (added advantage)",
-      "Attention to detail and technical expertise (especially HVAC systems)",
-      "Strong time management, communication, and interpersonal skills",
-      "Health & safety awareness",
-    ],
-    apply:
-      'Interested and qualified candidates should send their CV to: <a href="mailto:talentpoolresourcesng@gmail.com">talentpoolresourcesng@gmail.com</a> using job title and location as the subject of the mail.',
-    salary: "₦250,000 gross monthly salary",
-    deadline: "20th April, 2026.",
-  },
-  {
-    id: "Building Manager - Ikoyi",
-    title: "Building Manager",
-    date: "2026-04-17",
-    location: "Ikoyi, Lagos",
-    type: "Full-time",
-    seniority: "Senior",
-    summary:
-      "The Building Manager will oversee daily operations, including facilities, security, and utilities, while implementing maintenance schedules and managing vendor relationships to ensure high tenant satisfaction and cost efficiency in a high-value property.",
-    responsibilities: [
-      "Develop and implement routine maintenance schedules for all facilities.",
-      "Oversee emergency repairs, supervise third-party vendors and service providers ensuring urgent issues are addressed in line with agreed Service Level Agreement (SLA).",
-      "Track and manage inventory of maintenance supplies to ensure availability of critical spare parts.",
-      "Manage daily building operations including facilities, security, cleaning, and utilities",
-      "Oversee preventive and corrective maintenance programmes",
-      "Monitor operating budgets, track expenses, and drive cost efficiency",
-      "Coordinate inspections, audits, and statutory requirements",
-      "Provide periodic operational and performance reports to Management",
-      "Conduct regular safety inspections and ensure compliance with building safety standards.",
-      "Ensure adherence to local building regulations in collaboration with the HSE and Legal teams.",
-      "Oversee internal audits and coordinate with external agencies for necessary certifications.",
-      "Evaluate and coordinate external service providers, ensuring 95% vendor compliance with service agreements",
-      "Conduct energy efficiency audits to optimize energy usage and achieve at least a 10% energy savings target.",
-      "Respond promptly to tenant maintenance and service requests to ensure a minimum of 90% tenant satisfaction rating.",
-      "Develop strong working relationships with key stakeholders, including property managers, regulatory authorities, and vendors.",
-      "Manage tenant relations, including issue resolution and service delivery",
-    ],
-    requirements: [
-      "Bachelor’s degree in Facilities and Estate Management, Engineering, Architecture, or a related field.",
-      "5 -8 years of experience in building maintenance, facilities management, or a related role in a high value property.",
-      "Strong vendor management and stakeholder engagement skills",
-      "Strong knowledge of health and safety regulations, building codes, and energy efficiency standards.",
-      "Proficiency in maintenance management software.",
-      "Excellent problem-solving, and communication (written and oral) skills.",
-      "Experience managing vendor contracts and service agreements.",
-      "Ability to maintain confidentiality",
-    ],
-    apply:
-      'Interested and qualified candidates should click <a href="https://forms.gle/evZZjoL8Y3YGDzyf8">HERE</a> to apply online.',
-    salary: "800,000 monthly net.",
-    deadline: "4th May, 2026.",
-  },
-  {
-    id: "Site Engineer - Ikoyi",
-    title: "Site Engineer",
-    date: "2026-04-17",
-    location: "Ikoyi, Lagos",
-    type: "Full-time",
-    seniority: "Senior",
-    summary:
-      "We are seeking a competent and detail-oriented Site Engineer with a minimum of five (5) years of relevant experience in construction project execution. The Ideal candidate will be responsible for overseeing on-site activities, ensuring projects are delivered on time, within budget, and in compliance with quality and safety standards. Experience in high-rise building construction is highly desirable and will be given strong preference.",
-    responsibilities: [
-      "Supervise and manage day-to-day construction activities on site",
-      "Interpret and execute engineering drawings, designs, and specifications",
-      "Coordinate with project managers, consultants, subcontractors, and suppliers",
-      "Ensure adherence to health, safety, and environmental regulations on site",
-      "Monitor project progress and prepare regular site reports",
-      "Conduct site inspections and resolve technical issues as they arise",
-      "Ensure quality control standards are maintained throughout project execution",
-      "Manage materials, labor, and equipment efficiently",
-      "Assist in project planning, scheduling, and cost control",
-    ],
-    requirements: [
-      "Bachelor’s Degree in Civil Engineering, Building Technology, or a related field",
-      "Minimum of 5 years proven experience as a Site Engineer in construction projects",
-      "Demonstrable experience working on high-rise building projects is most desirable",
-      "Strong knowledge of construction methods, materials, and regulations",
-      "Proficiency in engineering and project management software (e.g., AutoCAD, MS Project)",
-      "Excellent problem-solving and analytical skills",
-      "Strong leadership and communication abilities",
-      "Ability to work under pressure and meet tight deadlines",
-      "Professional certification (e.g., COREN membership) is an added advantage.",
-    ],
-    apply:
-      'Interested and qualified candidates should send their CV to: <a href="mailto:hr@sagetolimited.com">hr@sagetolimited.com</a> using the job title as the subject of the mail.',
-    salary: "Not Specific",
-    deadline: "27th April, 2026.",
   },
   {
     id: "Structural Engineer",
@@ -4408,36 +3656,6 @@ const allJobs: Job[] = [
       'Interested and qualified candidates should send their CV to: <a href="mailto:cv@ascentech.com.ng">cv@ascentech.com.ng</a> using “Structural Engineer” as the subject of the mail.',
     salary: "Not Specific",
     deadline: "Not specified",
-  },
-  {
-    id: "Packaging Process Artisan",
-    title: "Packaging Process Artisan",
-    date: "2026-04-17",
-    location: "Onitsha, Anambra",
-    type: "Full-time",
-    seniority: "Senior",
-    summary:
-      "The process artisan will be responsible for process optimization on the packaging line, ensuring high productivity, quality, and safety standards while maintaining and repairing plant equipment.",
-    responsibilities: [
-      "Maintaining, repairing and optimizing plant equipment and associated devices Operating and monitoring equipment when required",
-      "Optimizing plant performance in terms of productivity, quality, delivery, cost and safety",
-      "Maintaining a safe and healthy working environment",
-      "Applying the Manufacturing Way Principles and Practices",
-      "Applying problem solving processes",
-    ],
-    requirements: [
-      "Minimum of HND or B.Sc in Electrical field.",
-      "Minimum Advanced Certificate in Mechanical Engineering",
-      "Minimum of 2 years working experience in Manufacturing",
-      "Ability to communicate well",
-      "Must be a team player",
-      "Ability to adhere to instructions, work in shifts with minimum supervision and action oriented",
-      "Sober mind, self-starter, physically fit and honest",
-    ],
-    apply:
-      'Interested and qualified candidates should click <a href="https://wd1.myworkdaysite.com/en-US/recruiting/abinbev/NGA/job/International-Breweries---Onitsha-Brew/PACKAGING-PROCESS-ARTISAN_30096578-1?utm_source=">HERE</a> to apply online.',
-    salary: "Not Specific",
-    deadline: "21st April, 2026.",
   },
   {
     id: "Project Monitoring Intern (NYSC)",
@@ -4506,81 +3724,6 @@ const allJobs: Job[] = [
     deadline: "10th May, 2026.",
   },
   {
-    id: "Krones Blow Fill Specialist",
-    title: "Krones Blow Fill Specialist",
-    date: "2026-04-15 ",
-    location: "Sagamu – Interchange, Ogun",
-    type: "Fulltime",
-    seniority: "Senior",
-    summary:
-      "We are seeking motivated and hands-on Mechanical Engineers/Technicians to support the day-to-day maintenance and operational efficiency of mechanical systems within our manufacturing facility. The successful candidates will carry out routine maintenance, repairs, and ensure machine reliability in line with production requirements and regulatory standards.",
-    responsibilities: [
-      "Participate in the planning and execution of mechanical maintenance strategy for critical manufacturing equipment and utilities",
-      "Participate in the installation, qualification, and lifecycle management of mechanical assets in accordance with cGMP, WHO and NAFDAC standards.",
-      "Monitor and maintain mechanical systems including HVAC, compressors, pumps, and conveyors.",
-      "Perform root cause analysis on mechanical faults and implement corrective actions.",
-      "Ensure preventive maintenance routines are executed and properly documented.",
-      "Support equipment upgrades, installations, and validation activities.",
-      "Maintain mechanical documentation, including logs, drawings, and SOPs.",
-      "Ensure mechanical systems comply with safety and GMP standards.",
-      "Collaborate with production, quality, and engineering teams to reduce downtime.",
-      "Interface with validation, production, and quality assurance teams during equipment commissioning, performance qualification (PQ), and requalification.",
-    ],
-    requirements: [
-      "Operate KRONES Contiform / Blow-Fill Bloc systems",
-      "Set and adjust parameters like Heating zones, Air pressure & stretch ratios, Filling volumes and speeds, Monitor HMI/PLC systems and alarms",
-      "Run high-speed production lines (20,000 – 100,000 bottles/hour depending on line)",
-      "Minimize downtime and line stoppages",
-      "Ensure smooth integration with Labeller, Filler, Conveyor systems and Quality Control:",
-      "Inspect bottles for Wall thickness, Neck finish, Leakage / deformation, Ensure compliance with:, GMP and Food safety standards",
-      "Perform Mold changeovers, Format change (different bottle sizes), Optimize startup and restart processes",
-      "Perform First-level maintenance and Fault diagnosis (mechanical + electrical)",
-      "Work with Servo systems, Sensors & automation and Escalating complex issues to engineers",
-      "Interpret machine data (efficiency, reject rate, downtime)",
-      "Work with PLC systems and automated controls",
-      "Support continuous improvement initiatives",
-      "Follow strict safety procedures",
-      "Maintain hygienic production environment",
-      "Ensure audit readiness.",
-    ],
-    apply:
-      'Interested and qualified candidates should send their CV to: <a href="mailto:bannyvic101@gmail.com">bannyvic101@gmail.com</a> using “Application for Blow fill Specialist” as the subject of the mail.',
-    salary: "N200,000 – N400,000 per month.",
-    deadline: "20th April, 2026.",
-  },
-  {
-    id: "Civil Engineer",
-    title: "Civil Engineer",
-    date: "2026-04-15 ",
-    location: "Lagos",
-    type: "Fulltime",
-    seniority: "Senior",
-    summary:
-      "We are looking for a detail-oriented and proactive Civil Engineer to oversee the construction and maintenance of our buildings and infrastructure. The ideal candidate will have a strong background in civil engineering principles, construction management, and experience in managing teams to ensure the safety, stability, and functionality of our structures.",
-    responsibilities: [
-      "Manage, supervise, and co-ordinate a 10-man team that specializes in construction and finishing.",
-      "Maintenance of high-rise buildings.",
-      "Ensure that the structure is safe, stable and meet engineering standards",
-      "Knowledgeable and experienced in various fields including aluco board, and façade.",
-      "Installation of aluminum/glass, finishing of doors and windows partition.",
-      "Monitor maintenance work and distribute tasks to subordinates accordingly.",
-      "Contractor management such as contractor sourcing, pricing and tendering to completion.",
-    ],
-    requirements: [
-      "Candidates should possess HND/B.Sc Degree in Civil Engineering with 5 – 6 years relevant work experience.",
-      "A Master’s Degree in Civil Engineering or an associated field is an additional advantage",
-      "License as a Professional Engineer (PE) is often required.",
-      "Must have hands on experience in finishing buildings and construction",
-      "Knowledge and proficiency in industry-specific software, like AutoCAD Civil 3D, and other computer-aided design software.",
-      "Strong skills in math, science, and engineering principles.",
-      "Good communication and team collaboration skills are essential for effectively managing diverse teams and working with clients and other professionals.",
-    ],
-    apply:
-      'Interested and qualified candidates should send their CV to:: <a href="mailto:recruitment2@ekomaintenance.com">recruitment2@ekomaintenance.com</a> using the Job Title as the subject of the mail.',
-    salary: "Not Specific",
-    deadline: "30th April, 2026.",
-  },
-  {
     id: "Facilities Manager",
     title: "Facilities Manager",
     date: "2026-04-15 ",
@@ -4614,81 +3757,6 @@ const allJobs: Job[] = [
       'Interested and qualified candidates should click  <a href="https://forms.gle/tXs5mJNsLezR1c3b7">HERE</a> to apply online.',
     salary: "N400,000 – N450,000 per month.",
     deadline: "Not specific",
-  },
-  {
-    id: "Fiber Installation Support Technician",
-    title: "Fiber Installation Support Technician",
-    date: "2026-04-15 ",
-    location: "Lekki Phase 1, Lagos",
-    type: "Fulltime",
-    seniority: "Senior",
-    summary:
-      "We are seeking a highly motivated and skilled Fiber Installation Support Technician to join our team. The ideal candidate will assist our Fiber teams in executing fiber optic cable installations, ensuring efficient and high-quality work. This role involves supporting field operations, performing various tasks, and collaborating with the team to accelerate project timelines and minimize downtime.",
-    responsibilities: [
-      "Cable Installation: Assist in running fiber optic cables through ducts, conduits, and other pathways.",
-      "HDPE Duct Laying: Lay and manage High-Density Polyethylene (HDPE) ducts for fiber optic cable protection and organization.",
-      "Interlock Removal: Safely remove interlocks and other obstacles to facilitate smooth cable installation.",
-      "Thrust Boring: Perform thrust boring tasks to create pathways for fiber optic cables under roads, pathways, or other obstacles.",
-      "Field Support: Provide general support to the Fiber team during installations, troubleshooting, and maintenance activities.",
-      "Safety Compliance: Adhere to safety protocols and guidelines to ensure a safe working environment for yourself and others.",
-      "Collaboration: Work effectively with other technicians, engineers, and project managers to ensure projects are completed on time and to specification.",
-      "Documentation: Maintain accurate records of work performed, including cable routes, duct layouts, and any issues encountered.",
-    ],
-    requirements: [
-      "Education: Diploma or degree in a relevant field (e.g., telecommunications, electrical engineering, or related discipline).",
-      "Experience: Prior experience in fiber optic cable installation, telecommunications, or a similar field is preferred.",
-      "Certifications: Relevant certifications in fiber optics or telecommunications are a plus.",
-      "Knowledge of fiber optic cables and installation techniques.",
-      "Ability to work in various environments, including outdoor and confined spaces.",
-      "Strong problem-solving and troubleshooting skills.",
-      "Excellent communication and teamwork abilities.",
-      "Physical fitness and ability to lift heavy objects, work at heights, and endure varying weather conditions.",
-    ],
-    apply:
-      'Interested and qualified candidates should send their CV to: <a href="mailto:ecruitment@cobranet.ng">ecruitment@cobranet.ng</a> using the job title as the subject of the mail.',
-    salary: "Not Specific",
-    deadline: "30th April, 2026.",
-  },
-  {
-    id: "Unix / Linux Management SME",
-    title: "Unix / Linux Management SME",
-    date: "2026-04-15",
-    location: "Lagos",
-    type: "Fulltime",
-    seniority: "Senior",
-    summary:
-      "We are seeking a motivated and detail-oriented GIS Data Analyst with expertise in Geographic Information Systems (GIS) and Python programming. The successful candidate will be responsible for collecting, analyzing, and interpreting spatial and non-spatial data to support decision-making processes.",
-    responsibilities: [
-      "Install, configure, and administer UNIX/Linux servers (e.g., RHEL, Oracle Linux, Solaris/AIX as applicable) for project environments.",
-      "Provision and standardize server builds including OS installation, baseline configuration, and environment hardening.",
-      "Manage user/group administration, sudo policies, PAM controls, and implement least privilege access.",
-      "Configure and maintain storage and filesystems (LVM, multipath, NFS), including mount strategy, performance and resilience.",
-      "Set up and validate network configuration (IP, routing, DNS, NTP, firewall rules), ensuring connectivity to application and database tiers.",
-      "Implement system security controls: patching cadence, CIS-like hardening, SSH policies, audit logging, endpoint protection integration.",
-      "Automate repetitive admin tasks using shell scripting and tools such as Ansible (or similar automation framework).",
-      "Configure and manage services and daemon lifecycle (systemd/init), log rotation, and basic observability integration.",
-      "Perform performance monitoring and tuning (CPU, RAM, disk IO, network), and assist in root-cause analysis of incidents.",
-      "Support middleware/application installation prerequisites (packages, kernel params, ulimits, file descriptors, shared libraries).",
-      "Coordinate with storage/network/security teams for firewall approvals, VLANs, load balancers, certificates, and access pathways.",
-      "Ensure adherence to change management: raise RFCs, implement approved changes, and document build and configuration decisions.",
-      "Participate in implementation milestones: readiness checks, deployment support, cutover execution, and hypercare.",
-      "Prepare and maintain technical documentation: build guides, hardening evidence, support runbooks, and handover packs.",
-      "Standard server build template, hardening evidence, patching report, access matrix, configuration baseline, cutover checklist, support runbook.",
-    ],
-    requirements: [
-      "Interested candidates should possess a Bachelor’s Degree with a minimum of 5 years post-NYSC professional experience",
-      "Experience in OLVM Cluster Development",
-      "Hands-on experience with setup and deployment of OLVM clusters",
-      "Experience working on OLVM Cluster Development projects (VGC).",
-      "Interested candidates should possess a Bachelor’s Degree with a minimum of 5 years post-NYSC professional experience",
-      "Experience in OLVM Cluster Development",
-      "Hands-on experience with setup and deployment of OLVM clusters",
-      "Experience working on OLVM Cluster Development projects (VGC).",
-    ],
-    apply:
-      'Interested and qualified candidates should send their CV to: <a href="mailto:tisea@gvapartners.com">tisea@gvapartners.com</a>, and <a href="mailto:faitho@gvapartners.com">faitho@gvapartners.com</a>, and copy <a href="mailto:contact@gvapartners.com">contact@gvapartners.com</a> using the Job Title as the subject of the mail.',
-    salary: "Not Specific",
-    deadline: "30th April, 2026.",
   },
   {
     id: "Construction Coordinator III",
@@ -4996,65 +4064,6 @@ const allJobs: Job[] = [
     deadline: "Not specific",
   },
   {
-    id: "Ultrasound Technician",
-    title: "Ultrasound Technician",
-    date: "2026-04-14",
-    location: "Ayobo, Lagos",
-    type: "Parttime",
-    seniority: "Senior",
-    summary:
-      "Our client is seeking a qualified Ultrasound Technician to perform pelvic and full abdominal ultrasound scans. The role involves producing accurate diagnostic images to support clinical decision-making.( Schedule: Twice weekly)",
-    responsibilities: [
-      "Perform pelvic and full abdominal ultrasound scans",
-"Prepare and position patients correctly for scans",
-"Operate ultrasound equipment safely and effectively",
-"Ensure clear, high-quality diagnostic images",
-"Maintain proper patient records and documentation",
-"Follow clinical and safety guidelines",
-    ],
-    requirements: [
-      "2–3 years’ experience as an Ultrasound Technician or sonographer",
-"Certification or qualification in Medical Imaging/Radiography",
-"Experience in pelvic and abdominal scanning is a MUST",
-"Good communication skills",
-"Attention to detail and professionalism",
-    ],
-    apply:
-      'Interested and qualified candidates should send their CV to: <a href="mailto:talentpoolresourcesng@gmail.com">talentpoolresourcesng@gmail.com</a> using “Ultrasound scan and their location” as the subject of the mail.',
-    salary: "₦1,500/hour (9am – 4pm)",
-    deadline: "27th April, 2026",
-  },
-  {
-    id: "Coating Inspector",
-    title: "Coating Inspector",
-    date: "2026-04-14",
-    location: "Idi-Oro, Lagos",
-    type: "Contract",
-    seniority: "Senior",
-    summary:
-      "We are looking for a detail-oriented and proactive Coating Inspector to monitor coating application in line with approved procedures and manufacturer guidelines.",
-    responsibilities: [
-      "Inspect surface preparation (blasting, cleaning) to required standards.",
-"Carry out and document tests such as DFT, WFT, adhesion, and holiday testing.",
-"Ensure all coating activities comply with project specifications and QA/QC requirements.",
-"Identify defects, raise NCRs, and follow through on corrective actions.",
-"Prepare and submit accurate inspection reports.",
-"Work closely with QA/QC team, contractors, and client representatives.",
-    ],
-    requirements: [
-      "HND / BSc Degree in Engineering or related field.",
-"3–5 years of experience in coating inspection within EPC or oil & gas projects.",
-"NACE Level 1 or 2 certification.",
-"Good understanding of standards such as ISO, SSPC, ASTM.",
-"Hands-on experience with inspection tools (DFT gauge, holiday detector, etc.).",
-"Ability to read and interpret technical drawings and specifications.",
-    ],
-    apply:
-      'Interested and qualified candidates should send their CV to: <a href="mailto:careers@dormanlongeng.com">careers@dormanlongeng.com </a> using “Coating Inspector” as the subject of the mail.',
-    salary: "Not Specified",
-    deadline: "26th April, 2026.",
-  },
-  {
     id: "Production Manager",
     title: "Production Manager",
     date: "2026-04-14",
@@ -5120,26 +4129,6 @@ const allJobs: Job[] = [
     deadline: "31st May, 2026.",
   },
   {
-    id: "Electrical Engineer",
-    title: "Electrical Engineer",
-    date: "2026-04-14",
-    location: "Sagamu Interchange, Ogun",
-    type: "Fulltime",
-    seniority: "Senior",
-    summary:
-      "Designs, develops, tests, and maintains the electronic and electromechanical systems within our factorysystems(pumps, controllers, motors, HVACetc). Ensure these life-saving, regulated Class II devices operate safely, accurately, and in compliance with international standards",
-    responsibilities: [
-      "Collaborate with multidisciplinary teams to integrate hardware, software, and electrical components, focusing on embedded systems, sensor technology, and power management.",
-    ],
-    requirements: [
-      "Bachelor’s degree in Electrical Engineering or related field.",
-    ],
-    apply:
-      'Interested and qualified candidates should send their CV to: <a href="mailto:jere@medinpharm.com">Hjere@medinpharm.com </a> using “Electrical Engineer” as the subject of the mail.',
-    salary: "Not specific",
-    deadline: "30th April, 2026.",
-  },
-  {
     id: "Radiography Technician",
     title: "Radiography Technician",
     date: "2026-04-14",
@@ -5189,48 +4178,6 @@ const allJobs: Job[] = [
       'Interested and qualified candidates should send their CV to: <a href="mailto:workforce.sm@247kpg.com">workforce.sm@247kpg.com </a> using “Radiography Technician” as the subject of the mail.',
     salary: "Not specific",
     deadline: "30th June, 2026.",
-  },
-  {
-    id: "Service Engineer Executive",
-    title: "Service Engineer Executive",
-    date: "2026-04-14",
-    location: "Lagos",
-    type: "Fulltime",
-    seniority: "Senior",
-    summary:
-      "We are seeking to hire an experienced service engineer to support installation, preventive maintenance, and repair of laboratory and analytical instruments, ensuring optimal equipment performance and client satisfaction.",
-    responsibilities: [
-      "Install and commission laboratory and analytical instruments",
-"Conduct preventive maintenance according to schedule",
-"Troubleshoot and repair electronic and electro-mechanical faults",
-"Assist in laboratory benching installation and instrument setup",
-"Provide first-level technical support to clients",
-"Escalate complex technical issues appropriately",
-"Maintain workshop tools and service documentation",
-"Provide technical input to Sales when required.",
-    ],
-    requirements: [
-      "B.Eng./HND in Electronics Engineering, Electrical/Electronics.",
-"1 - 3 years’ experience in laboratory or biomedical equipment servicing.",
-"Basic computer skills (MS Office and system configuration)",
-"Basic electronics troubleshooting",
-"Instrument installation and testing",
-"Technical documentation",
-"Sound knowledge of electronics and electro-mechanical systems",
-"Basic understanding of instrumentation principles and signal flow",
-"Preventive and corrective maintenance techniques",
-"Fault diagnosis and root cause analysis",
-"Equipment calibration and performance verification",
-"Familiarity with laboratory and biomedical instrumentation",
-"Time management and adherence to service schedules",
-"Customer service orientation and professional conduct",
-"Ability to work independently and within a field service team",
-"Health, safety, and compliance awareness",
-    ],
-    apply:
-      'Interested and qualified candidates should send their CV to: <a href="Jobs@katchey.com">Jobs@katchey.com</a> using the job title as the subject of the mail.',
-    salary: "Not specific",
-    deadline: "27th April, 2026.",
   },
   {
     id: "Electrical Technician",
@@ -6104,34 +5051,6 @@ const allJobs: Job[] = [
     deadline: "Not specific",
   },
   {
-    id: "maintenance-officer-yola",
-    title: "Maintenance Officer",
-    date: "2026-03-10",
-    location: "Adamawa, Yola",
-    type: "Full-time",
-    seniority: "Senior",
-    summary:
-      "The Maintenance Officer replaces faulty switches, sockets, plugs, fuses, insulators, and other simple elements of electrical systems, fixtures and appliances.",
-    responsibilities: [
-      "Planning and managing all repair and installation activities.",
-"Creating and implementing maintenance procedures.",
-"Documenting and preparing daily progress reports and maintenance logs.",
-"Develop maintenance procedures and ensure implementation",
-"Prepare preventive maintenance work orders and performs hotel rounds according to schedule to identify and make repairs to systems",
-"Repairs, installs, replaces and tests electrical circuits, equipment and appliances using hand tools and testing instruments to supply electrical power for lighting and equipment operation in the hospital.",
-"Ensure the optimal functionality of all mechanical and electrical equipment according to standard procedure and enhancing optimal performance.",
-    ],
-    requirements: [
-      "3+ years as a maintenance officer.",
-"Expertise in elrectrcial and plumbing repairs.",
-"Must be resident of Yola or its environs.",
-    ],
-    apply:
-      'Interested and qualified candidates should send their CV to: <a href="mailto:gmgoldenalpinehotel@gmail.com">gmgoldenalpinehotel@gmail.com</a> using the job title as the subject of the mail.',
-    salary: "Not specific",
-    deadline: "30th April, 2026.",
-  },
-  {
     id: "software-engineer-contract",
     title: "Software Engineer",
     date: "2026-03-08",
@@ -6285,37 +5204,6 @@ const allJobs: Job[] = [
     salary: "Not specific",
     deadline: "Not specific",
   },
-{
-    id: "electrician-maintenance-technician",
-    title: "Electrician",
-    date: "2026-02-25",
-    location: "Lagos",
-    type: "Full-time",
-    seniority: "Senior",
-    summary:
-      "We are seeking a skilled and reliableElectrical, Electronics & Maintenance Technicianto join our team. The ideal candidate will be responsible for installing, maintaining, troubleshooting, and repairing electrical and electronic systems to ensure smooth and safe operations.",
-    responsibilities: [
-      "Carry out routine inspection, maintenance, and repair of electrical and electronic equipment",
-"Diagnose and fix electrical, mechanical, and electronic faults",
-"Install and maintain electrical wiring, control panels, and machinery",
-"Ensure all maintenance activities comply with safety standards and company procedures",
-"Maintain proper records of maintenance activities and repairs",
-"Support preventive and corrective maintenance schedules",
-"Respond promptly to breakdowns to minimize downtime.",
-    ],
-    requirements: [
-      "Minimum OND/HND in Electrical, Electronics, or related field",
-"Proven experience in electrical, electronics, and general maintenance",
-"Good understanding of industrial electrical systems and control panels",
-"Ability to read and interpret electrical diagrams and schematics",
-"Strong problem-solving skills and attention to detail",
-"Ability to work independently and as part of a team.",
-],
-    apply:
-      'Interested and qualified candidates should send their CV to: <a href="mailto:careers@runola.ng ">careers@runola.ng </a> using “Application for Quality Assurance/Control Laboratory Assistant Position” as the subject of the mail.',
-    salary: "Not specific",
-    deadline: "21st April, 2026.",
-  },
   {
     id: "Graduate-Surveyor-SOP",
     title: "Graduate Surveyor",
@@ -6379,50 +5267,6 @@ const allJobs: Job[] = [
       'Interested and qualified candidates should send their CV to: <a href="mailto:precious@ldd-consulting.com ">precious@ldd-consulting.com </a> using the job title as the subject of the mail.',
     salary: "N800,000 / month.",
     deadline: "Not specific",
-  },
-{
-    id: "ai-ml-data-engineer-remote",
-    title: "AI / ML Data Engineer",
-    date: "2026-02-18",
-    location: "Lagos",
-    type: "Full-time(Remote)",
-    seniority: "Senior",
-    summary:
-      "Design, build, and maintain scalable data pipelines to ingest, process, and transform structured and unstructured data from multiple sources.",
-    responsibilities: [
-      "Optimize data storage, retrieval, and processing performance across large datasets.",
-"Prepare, clean, and transform datasets required for training, validating, and testing machine learning models.",
-"Collaborate with data scientists and ML engineers to ensure data readiness for model development and experimentation.",
-"Support feature engineering processes and maintain feature stores where applicable.",
-"Build and manage data infrastructure that supports AI/ML workloads, including batch and real-time processing systems.",
-"Implement scalable data architectures using cloud platforms or distributed systems.",
-"Ensure high data availability, integrity, and reliability across data environments.",
-"Implement data validation, monitoring, and quality control processes.",
-"Ensure data governance policies, compliance standards, and security best practices are followed.",
-"Manage metadata, data lineage, and documentation for AI/ML datasets.",
-"Work closely with data scientists, analysts, and software engineers to operationalize machine learning models.",
-"Support deployment of ML models into production environments through robust data infrastructure.",
-"Continuously evaluate new tools, technologies, and frameworks to improve data engineering and AI capabilities.",
-    ],
-    requirements: [
-      "Bachelor’s Degree in Computer Science, Data Engineering, Software Engineering, Artificial Intelligence, or a related field.",
-"3+ years of experience in data engineering, data platforms, or related technical roles.",
-"Experience working with machine learning pipelines or AI-driven data environments.",
-"Proven experience building scalable data pipelines and managing large datasets.",
-"Strong proficiency in Python, SQL, or Scala.",
-"Experience with data pipeline tools such as Apache Airflow, Kafka, or similar frameworks.",
-"Familiarity with cloud platforms (AWS, Azure, or Google Cloud) and cloud-based data services.",
-"Experience with data warehousing solutions such as Snowflake, BigQuery, or Redshift.",
-"Understanding of machine learning workflows and data preparation techniques.",
-"Strong analytical and problem-solving skills.",
-"Ability to work collaboratively in cross-functional teams.",
-"Good documentation and communication skills.",
-"Strong attention to data quality, security, and governance practices",
-    ],
-    apply:
-      'Interested and qualified candidates should sclick: <a href="https://appzonegroup.zohorecruit.com/recruit/PortalDetail.na?iframe=true&digest=J2N79DxkoZXbZ7tAxeZfGj0sl6oI6higx9JSCrx5eDY-&jobid=284302000031680136&widgetid=284302000000905137&embedsource=">HERE</a> to apply.',
-    salary: "Not specific",
-    deadline: "30th April, 2026.",
   },
 {
     id: "mechanical-engineer-mowe",
@@ -6914,40 +5758,6 @@ const allJobs: Job[] = [
     deadline: "Not specific",
 },
 {
-    id: "digital-intern-lagos-remote",
-    title: "Digital Intern",
-    date: "2025-12-20",
-    location: "Lagos",
-    type: "Remote",
-    seniority: "Internship",
-    summary:
-      "IICOCECE is seeking creative and motivated Digital Interns to support our online marketing and brand visibility efforts. The ideal candidate will assist in managing social media platforms, creating engaging digital content, and supporting marketing campaigns that promote the company’s properties and investment opportunities.",
-    responsibilities: [
-      "Assist in managing the company’s social media platforms (Facebook,Instagram, LinkedIn, etc.).",
-"Create and post engaging content to promote properties and investment opportunities.",
-"Assist in designing simple promotional materials, graphics, and digital adverts.",
-"Monitor social media messages, comments, and inquiries and respond appropriately.",
-"Support the digital marketing team in planning and executing online marketing campaigns.",
-"Help update the company’s website with property listings, news, and announcements.",
-"Conduct basic online research on market trends, competitors, and digital strategies.",
-"Track and report engagement on social media posts and digital campaigns.",
-"Assist in taking photos or videos of properties for marketing purposes.",
-"Perform other digital and marketing tasks as assigned by management.",
-    ],
-    requirements: [
-      "Minimum of OND / HND / Bachelor’s Degree (or currently studying) in Marketing, Mass Communication, Media Studies, ICT, or a related field.",
-"Basic knowledge of social media marketing and digital communication.",
-"Familiarity with Canva or other design tools is an added advantage.",
-"Good communication and creativity skills.",
-"Basic knowledge of photography, video editing, or graphic design is an advantage.",
-"Ability to learn quickly and work in a fast-paced environment.",
-    ],
-    apply:
-      'Interested and qualified candidates should send their CV to: <a href="mailto:digitaltransformation@revenstrat.com">digitaltransformation@revenstrat.com</a> using “Digital Intern” as the subject of the mail.',
-salary: "N30,000",
-    deadline: "20th April, 2026",
-  },
-{
     id: "ftth-project-design-engineer-lagos",
     title: "FTTH Project Design Engineer",
     date: "2025-12-18",
@@ -7108,31 +5918,6 @@ salary: "N30,000",
     salary: "Your base pay will depend on various factors including your geographical location, level of experience, knowledge and skills. Please note that additional benefits may apply depending on the work location and, for more information on these, please ask your Talent Partner.",
     deadline: "Not specific",
 },
-    {
-    id: "ui-ux-design-instructor-kano",
-    title: "UI / UX Design Instructor",
-    date: "2025-12-01",
-    location: "Kano",
-    type: "Full-time",
-    seniority: "Senior",
-    summary:
-      "This is a vacancy for instructors with proficiency in the listed Tech Courses above. Successful Candidates will be required to train students on Ul/UX Design, Cloud Computing using AWS, Ethical Hacking, Digital Marketing & Mobile App Development.",
-    responsibilities: [
-      "Proven Skills in the areas of Hardware & Network Maintenance is an advantage.",
-      "Successful Applicants will have the privilege to chose either to work Full-time or Part-time Contract basis",
-    ],
-    requirements: [
-      "Degree in Computer Science or related discipline.",
-"Proficiency in required courses.",
-"Have verifiable and evident previous relevant Work Experience preferably as an instructor",
-"Have excellent Communication Skills.",
-"Resident in Kano or environs.",
-    ],
-    apply:
-      'Interested and qualified candidates should send their CV to: <a href="mailto:hhcm@hiitplc.com">hhcm@hiitplc.com</a> using the job title as the subject of the mail.',
-    salary: "Not Specific",
-    deadline: "10th April, 2026",
-  },
 ];
 
 // Sort jobs by date descending (most recent first)

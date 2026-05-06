@@ -15,6 +15,327 @@ export type Job = {
 
 const allJobs: Job[] = [
   {
+    id: "branch-manager-mfi-multiple-locations-2026",
+    title: "Branch Manager (MFI)",
+    date: "2026-05-01",
+    location: "Mainland Lagos, Ifo, Sango, Ijebu-Ode",
+    type: "Full-time",
+    seniority: "Senior",
+    summary: "Responsible for the overall performance, growth, and operational efficiency of the branch, leading microfinance operations and loan portfolio management.",
+    responsibilities: [
+      "Drive branch growth through aggressive client acquisition and loan disbursement",
+      "Manage and grow a high-quality loan portfolio with minimal risk exposure",
+      "Supervise and lead Loan Officers to achieve disbursement and recovery targets",
+      "Ensure strict adherence to credit policies, procedures, and regulatory standards",
+      "Oversee credit appraisal, loan approvals, and disbursement processes",
+      "Monitor loan repayment performance and proactively manage delinquent accounts",
+      "Conduct field visits for client verification, monitoring, and recovery support",
+      "Manage branch operations including cash handling, documentation, and compliance",
+      "Train, coach, and enforce discipline within the branch team"
+    ],
+    requirements: [
+      "HND/BSC in any relevant field",
+      "Minimum of 3 years’ experience in a Microfinance Institution (MFI)",
+      "At least 1–2 years in a supervisory or managerial role in an MFI is mandatory",
+      "Proven track record of meeting loan disbursement and recovery targets",
+      "Strong knowledge of microfinance operations, credit risk, and portfolio management",
+      "Willingness to work extended hours and spend significant time in the field"
+    ],
+    apply: 'Send CV to: <a href="mailto:guidedarrowsconsulting@gmail.com">guidedarrowsconsulting@gmail.com</a>',
+    salary: "₦200,000 - ₦250,000 (Accommodation provided)",
+    deadline: "Not Specified"
+  },
+  {
+    id: "area-medical-sales-manager-kano-2026",
+    title: "Area Medical Sales Manager",
+    date: "2026-05-01",
+    location: "Kano",
+    type: "Full-time",
+    seniority: "Senior",
+    summary: "Lead sales operations in Kano and across the Northern region, developing strategic plans and managing a team of Medical Sales Representatives.",
+    responsibilities: [
+      "Develop and implement strategic sales plans to achieve regional revenue targets",
+      "Manage, coach, and supervise a team of Medical Sales Representatives across assigned territories",
+      "Drive market penetration and business growth in Kano and surrounding Northern states",
+      "Build and maintain strong relationships with healthcare professionals, hospitals, pharmacies, and distributors",
+      "Monitor competitor activities and provide market intelligence",
+      "Ensure compliance with company policies, ethical standards, and regulatory requirements",
+      "Prepare periodic sales reports, forecasts, and performance analysis",
+      "Coordinate product launches, promotions, and awareness campaigns"
+    ],
+    requirements: [
+      "Bachelor’s degree in Pharmacy, Life Science, or a related field (MBA is an advantage)",
+      "Minimum of 5 – 7 years’ experience in pharmaceutical sales",
+      "At least 2 - 3 years in a managerial role",
+      "Strong experience working in Northern Nigeria (Kano and surrounding states is mandatory)",
+      "Excellent knowledge of the pharmaceutical market and distribution channels in the North",
+      "Ability to analyze sales data and make informed business decisions"
+    ],
+    apply: 'Interested and qualified candidates should send their CV to <a href="mailto:hr@pharmaethics.com">hr@pharmaethics.com</a> with the subject line ‘’Application – Area Medical Sales Manager (Kano)’’',
+    salary: "Competitive plus Incentives",
+    deadline: "Not Specified"
+  },
+  {
+    id: "customer-support-officer-benue-2026",
+    title: "Customer Support Officer",
+    date: "2026-05-01",
+    location: "Benue State",
+    type: "Full-time",
+    summary: "Key point of contact for customers, delivering prompt and professional assistance across in-branch and digital channels for a digital bank.",
+    responsibilities: [
+      "Attend to customer enquiries, complaints, and requests via in-branch visits, calls, and digital channels",
+      "Resolve customer issues efficiently while maintaining a professional and empathetic approach",
+      "Assist customers with account opening, digital onboarding, and banking product usage",
+      "Promote the bank’s digital channels and guide customers through digital product adoption",
+      "Record and escalate unresolved complaints following established protocols",
+      "Maintain accurate records of all customer interactions in the CRM system",
+      "Meet individual and team customer satisfaction targets"
+    ],
+    requirements: [
+      "Minimum of 2 years’ experience in customer service within a bank, fintech, or financial services organisation",
+      "Bachelor’s degree or HND in any relevant discipline",
+      "Strong verbal and written communication skills in English",
+      "Confident, patient, and empathetic approach to customer interaction",
+      "Basic digital literacy and comfort with banking technology",
+      "CIBN student membership or banking certification is an added advantage",
+      "Residence in or willingness to relocate to Benue State is required"
+    ],
+    apply: 'Send your CV and cover letter to: <a href="mailto:stessymaly@yahoo.com">stessymaly@yahoo.com</a> and copy <a href="mailto:hr@hcerconsulting.com">hr@hcerconsulting.com</a>',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "client-acquisition-officer-ibadan-2026",
+    title: "Client Acquisition Officer",
+    date: "2026-05-01",
+    location: "Ibadan (Hybrid)",
+    type: "Full-time",
+    summary: "Focus on lead generation, prospecting, and closing deals to drive revenue and build real client relationships for HR & consulting solutions.",
+    responsibilities: [
+      "Hunting for opportunities (lead generation & prospecting)",
+      "Turning conversations into conversions and closing deals",
+      "Building real client relationships, not just one-off deals",
+      "Pitching HR & consulting solutions that businesses actually need",
+      "Managing your pipeline and hitting targets consistently"
+    ],
+    requirements: [
+      "1–3 years of experience in sales/business development",
+      "Proven ability to close deals, not just talk",
+      "Confident, persuasive, and people-smart",
+      "Target-driven and results-oriented",
+      "Experience with CRM tools is a plus"
+    ],
+    apply: 'Send your CV to <a href="mailto:resume.xurielresources@gmail.com">resume.xurielresources@gmail.com</a> with subject: Client Acquisition Officer',
+    salary: "₦100,000",
+    deadline: "Not Specified"
+  },
+  {
+    id: "utility-manager-agbara-sky-industries-2026",
+    title: "Utility Manager",
+    date: "2026-05-01",
+    location: "Agbara",
+    type: "Full-time",
+    summary: "Manage high & low (HP, LP) compressors within a manufacturing environment at Sky Industries Nigeria Limited.",
+    responsibilities: [
+      "Oversee operation and maintenance of High & Low (HP, LP) Compressors",
+      "Ensure utility systems support production requirements effectively",
+      "Manage utility team and technical resources"
+    ],
+    requirements: [
+      "B. Engr, B.Sc/HND in Mechanical or Electrical Engineering",
+      "At least 5 years experience specifically in High & Low (HP, LP) Compressors",
+      "Technical expertise in industrial compressor systems"
+    ],
+    apply: 'Qualified candidates should send their CVs to: <a href="mailto:skyrecruitmenttalents@gmail.com">skyrecruitmenttalents@gmail.com</a>',
+    salary: "Not Specified",
+    deadline: "12th May, 2026"
+  },
+  {
+    id: "fleet-manager-agbara-sky-industries-2026",
+    title: "Fleet Manager",
+    date: "2026-05-01",
+    location: "Agbara",
+    type: "Full-time",
+    summary: "Coordinate a fleet of trucks, pool cars, and forklifts for Sky Industries Nigeria Limited.",
+    responsibilities: [
+      "Coordinating and managing a fleet of Trucks, Pool Cars and Forklifts",
+      "Monitor vehicle maintenance, logs, and driver performance",
+      "Optimize fleet utilization and logistics efficiency"
+    ],
+    requirements: [
+      "B.Sc./HND in Business Administration, Logistics or related discipline",
+      "At least 5 years experience in coordinating industrial fleets",
+      "Strong organizational and logistics management skills"
+    ],
+    apply: 'Qualified candidates should send their CVs to: <a href="mailto:skyrecruitmenttalents@gmail.com">skyrecruitmenttalents@gmail.com</a>',
+    salary: "Not Specified",
+    deadline: "12th May, 2026"
+  },
+  {
+    id: "loan-officers-multiple-locations-2026",
+    title: "Loan Officer",
+    date: "2026-05-01",
+    location: "Mainland Lagos, Ifo, Ijebu-Ode",
+    type: "Full-time",
+    seniority: "Junior",
+    summary: "Identify and recruit potential clients, assess creditworthiness, and manage loan portfolios including recovery targets.",
+    responsibilities: [
+      "Identify and recruit potential clients for loan products",
+      "Conduct client interviews and assess creditworthiness",
+      "Perform field visits for business and guarantor verification",
+      "Analyze loan applications and recommend approvals or rejections",
+      "Disburse loans in line with company policies",
+      "Monitor loan utilization and manage delinquent accounts",
+      "Educate clients on loan terms and financial discipline",
+      "Achieve assigned loan disbursement and recovery targets"
+    ],
+    requirements: [
+      "SSCE/OND/HND/BSC qualification",
+      "Minimum of 2 years experience as a Loan Officer is mandatory",
+      "Strong analytical and risk assessment skills",
+      "Excellent communication and interpersonal skills",
+      "Ability to work in the field and meet targets",
+      "High level of integrity"
+    ],
+    apply: 'Qualified candidates should send CVs to: <a href="mailto:guidedarrowsconsulting@gmail.com">guidedarrowsconsulting@gmail.com</a>',
+    salary: "₦120,000 - ₦150,000 (Accommodation provided)",
+    deadline: "Not Specified"
+  },
+  {
+    id: "sales-customer-service-officer-lekki-2026",
+    title: "Sales & Customer Service Officer",
+    date: "2026-05-01",
+    location: "Lekki, Lagos",
+    type: "Full-time",
+    summary: "Handle payments, engage customers, and assist with product enquiries for a reputable paint outlet.",
+    responsibilities: [
+      "Handle payments efficiently",
+      "Engage customers professionally",
+      "Assist with product enquiries",
+      "Represent the brand confidently"
+    ],
+    requirements: [
+      "Male Preferred",
+      "Professional demeanor and customer service skills",
+      "Efficiency in payment handling and administrative tasks"
+    ],
+    apply: 'Send your CV to: <a href="mailto:recruitment@poweredupcon.com">recruitment@poweredupcon.com</a>',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "maintenance-manager-vgc-ikota-2026",
+    title: "Maintenance Manager",
+    date: "2026-05-01",
+    location: "VGC, Ikota – Lagos",
+    type: "Full-time",
+    seniority: "Senior",
+    summary: "Oversee maintenance, safety, and efficient operation of all hotel facilities and infrastructure, including electrical, HVAC, and plumbing systems.",
+    responsibilities: [
+      "Oversee day-to-day maintenance of physical infrastructure (Electrical, HVAC, plumbing, generators)",
+      "Develop and implement preventive and corrective maintenance schedules",
+      "Supervise and coordinate the maintenance team (task allocation, training, performance)",
+      "Diagnose faults and ensure timely repairs of all equipment",
+      "Ensure compliance with health, safety, and environmental standards",
+      "Manage external vendors, contractors, and service providers",
+      "Conduct regular inspections of facilities and safety systems",
+      "Collaborate with other departments to ensure guest satisfaction"
+    ],
+    requirements: [
+      "Minimum of 5 years’ experience in maintenance management, preferably in hospitality",
+      "Expertise in electrical and electronics repairs is mandatory",
+      "Strong technical knowledge of building systems (HVAC, plumbing, generators)",
+      "Excellent troubleshooting, organisational, and communication skills",
+      "Must reside on the Island"
+    ],
+    apply: 'Send your CV to: <a href="mailto:hrm@wellbornhotels.com">hrm@wellbornhotels.com</a> or via WhatsApp: <a href="https://wa.me/2348118236959">08118236959</a>',
+    salary: "Attractive",
+    deadline: "Not Specified"
+  },
+  {
+    id: "admin-officer-ojodu-berger-2026",
+    title: "Admin Officer (Transaction Officer)",
+    date: "2026-05-01",
+    location: "Ojodu Berger, Lagos",
+    type: "Full-time",
+    summary: "Process and monitor financial transactions, ensuring accuracy, compliance, and timely resolution of issues within a fast-paced environment.",
+    responsibilities: [
+      "Process daily financial transactions accurately and efficiently",
+      "Monitor transaction activities and identify any irregularities",
+      "Reconcile transaction records and resolve discrepancies promptly",
+      "Ensure strict compliance with company policies and regulatory standards",
+      "Provide support in handling transaction-related inquiries"
+    ],
+    requirements: [
+      "OND/HND in a relevant discipline",
+      "1–3 years of relevant work experience (Fintech experience is an advantage)",
+      "Age Requirement: 28 years and below",
+      "Male Preferred",
+      "Strong numerical and analytical skills",
+      "High level of integrity and attention to detail"
+    ],
+    apply: 'Send your CV to <a href="mailto:cekeh@icsoutsourcing.com">cekeh@icsoutsourcing.com</a> with “Admin Officer” as the subject.',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "medical-sales-representative-akure-2026",
+    title: "Medical Sales Representative",
+    date: "2026-05-01",
+    location: "Akure, Ondo State",
+    type: "Full-time",
+    summary: "Promote and drive the sales of pharmaceutical products, building strong relationships with healthcare professionals and increasing product awareness.",
+    responsibilities: [
+      "Promote company products to doctors, pharmacists, hospitals, and healthcare professionals",
+      "Achieve and exceed assigned sales targets within the territory",
+      "Conduct regular visits to healthcare facilities to build strong relationships",
+      "Identify new business opportunities and expand the customer base",
+      "Provide accurate product information and deliver effective presentations",
+      "Organize and participate in medical outreaches, campaigns, and presentations",
+      "Maintain detailed records of customer interactions and sales activities",
+      "Submit timely sales reports and market feedback"
+    ],
+    requirements: [
+      "Bachelor’s degree in Pharmacy, Biological Sciences, or a related field",
+      "Minimum of 1 – 3 years’ experience in pharmaceutical or medical sales",
+      "Good knowledge of Akure and surrounding territories",
+      "Strong communication, negotiation, and interpersonal skills",
+      "Proficiency in Microsoft Office tools",
+      "Must be resident in or willing to relocate to Akure"
+    ],
+    apply: 'Send your CV to <a href="mailto:hr@pharmaethics.com">hr@pharmaethics.com</a> with the subject line ‘’Application – Medical Sales Representative (Akure)’’',
+    salary: "Competitive plus Incentives",
+    deadline: "Not Specified"
+  },
+  {
+    id: "bookkeeper-remote-lagos-yet-academy-2026",
+    title: "Bookkeeper",
+    date: "2026-05-01",
+    location: "Remote / Lagos Preferred",
+    type: "Full-time",
+    summary: "Support financial operations for YET Academy by tracking income and expenses and maintaining organized records using Zoho Books.",
+    responsibilities: [
+      "Record and track income and expenses",
+      "Maintain organized financial records",
+      "Assist with bookkeeping using Zoho Books or similar software",
+      "Prepare weekly and monthly financial summaries",
+      "Track payments and operational expenses",
+      "Reconcile receipts and transactions",
+      "Support general financial and administrative organization"
+    ],
+    requirements: [
+      "Basic bookkeeping or accounting experience",
+      "Ability to use Zoho Books or willingness to learn quickly",
+      "Good knowledge of Google Sheets or Microsoft Excel",
+      "Strong attention to detail and accuracy",
+      "Ability to maintain confidentiality",
+      "Experience working with a school or small business is an advantage"
+    ],
+    apply: 'Complete the application form: <a href="https://tinyurl.com/mub8nm4c">Click here to apply online</a>',
+    salary: "₦70,000 Monthly",
+    deadline: "Not Specified"
+  },
+  {
     id: "sales-officer-kado-abuja-2026",
     title: "Sales Officer",
     date: "2026-05-01",

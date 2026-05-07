@@ -10,6 +10,128 @@ export type Post = {
 
 const allPosts: Post[] = [
   {
+    id: "ecwa-college-of-nursing-post-utme-2026-2027",
+    title: "ECWA College of Nursing Sciences Opens 2026/2027 Post UTME Application for ND Nursing Admission",
+    category: "Education",
+    date: "2026-05-07",
+    excerpt: "ECWA College of Nursing Sciences (ECONS) has announced the commencement of its Post UTME application for admission into the National Diploma (ND) Nursing Programme for the 2026/2027 academic session.",
+    content:
+      `<h2>ECWA College of Nursing Sciences Opens 2026/2027 Post UTME Application for ND Nursing Admission</h2>
+      <p>ECWA College of Nursing Sciences (ECONS) has officially announced the commencement of its Post UTME application for admission into the National Diploma (ND) Nursing Programme for the 2026/2027 academic session.</p>
+      <p>The admission exercise is open to qualified candidates who meet the institution’s O’level, UTME, age, and JAMB choice requirements. Applicants are advised to carefully review all conditions before completing the online application.</p>
+      <hr>
+      <h2>Admission Requirements for ND Nursing</h2>
+      <p>Candidates applying for the ND Nursing Programme must possess at least five credit passes in relevant O’level subjects, obtained in not more than two sittings from WAEC, NECO, or NABTEB:</p>
+      <ul>
+        <li>Mathematics</li>
+        <li>English Language</li>
+        <li>Biology</li>
+        <li>Chemistry</li>
+        <li>Physics</li>
+      </ul>
+      <p>Additionally, applicants are required to score a minimum aggregate of <strong>170</strong> in the 2026 UTME. The approved subject combination includes Use of English, Biology, Chemistry, and Physics.</p>
+      <hr>
+      <h2>JAMB First Choice and Age Requirements</h2>
+      <p>Candidates must select ECWA College of Nursing Sciences, Egbe (ECONS) as their first-choice institution in JAMB. Those who did not initially choose ECONS must complete a change of institution on or before <strong>16 September 2026</strong>.</p>
+      <p>Applicants must also be at least 16 years old by 30 September 2026. The institution stressed that candidates should confirm their date of birth before submitting the application form.</p>
+      <hr>
+      <h2>How to Apply for ECONS Post UTME</h2>
+      <p>Applications are to be completed online through the college’s application portal. The process involves creating an account, following the portal instructions, and completing the application form. Login details will be sent to the email address provided during registration.</p>
+      <h3>Application Fee and Payment Procedure</h3>
+      <p>Applicants are required to pay a non-refundable application fee. The college instructs candidates to select the <strong>“Bank Transfer”</strong> option during payment to generate a virtual account. <strong>Note:</strong> USSD, card, eNaira, and cash payments are not accepted.</p>
+      <hr>
+      <h2>Important Dates for Applicants</h2>
+      <ul>
+        <li><strong>Application Portal Closing Date:</strong> 14 August 2026</li>
+        <li><strong>CBT Examination Date:</strong> 16 September 2026 (9:00 AM at the College premises)</li>
+        <li><strong>Screening and Credential Verification:</strong> 17 September 2026 (9:00 AM)</li>
+      </ul>
+      <p>Candidates are expected to arrive at least 30 minutes before the examination begins and bring original copies of their credentials for verification during the screening exercise.</p>
+      <hr>
+      <h2>Contact Details for Enquiries</h2>
+      <p>For further assistance, applicants can contact the college via email at <strong><a href="mailto:econs.infotech@gmail.com">econs.infotech@gmail.com</a></strong> or call the following numbers:</p>
+      <ul>
+        <li>08119420462</li>
+        <li>09061138504</li>
+        <li>08075760481</li>
+        <li>08035915623</li>
+      </ul>`,
+    tags: ["ECWA", "Nursing", "Post UTME", "Admission", "ND Nursing", "2026", "Egbe"],
+  },
+  {
+    id: "oscoms-post-utme-2026-2027",
+    title: "OSCOMS Opens 2026/2027 Post UTME Application for ND Full-Time Admission",
+    category: "Education",
+    date: "2026-05-07",
+    excerpt: "Osun College of Management Sciences (OSCOMS) has commenced its 2026/2027 Post UTME admission exercise for candidates seeking admission into its National Diploma (ND) full-time programmes.",
+    content:
+      `<h2>OSCOMS Opens 2026/2027 Post UTME Application for ND Full-Time Admission</h2>
+      <p>Osun College of Management Sciences, popularly known as OSCOMS, has commenced its 2026/2027 Post UTME admission exercise for candidates seeking admission into its National Diploma (ND) full-time programmes.</p>
+      <p>The admission form is open to candidates who sat for the 2026 Unified Tertiary Matriculation Examination (UTME) and wish to study any of the institution’s NBTE-accredited courses across its Schools of Law, Management Sciences, and Health Technology.</p>
+      <p>According to the college, each programme has its own minimum JAMB score requirement, making it important for applicants to confirm eligibility before starting the application process.</p>
+      <hr>
+      <h2>OSCOMS ND Courses and Cut-Off Marks</h2>
+      <h3>School of Law and Management Sciences</h3>
+      <p>The following programmes are available under the School of Law and Management Sciences:</p>
+      <ul>
+        <li>ND Law – <strong>140</strong></li>
+        <li>ND Mass Communication – <strong>100</strong></li>
+        <li>ND Business Administration – <strong>100</strong></li>
+        <li>ND Accountancy – <strong>100</strong></li>
+        <li>ND Public Administration – <strong>100</strong></li>
+        <li>ND Marketing – <strong>100</strong></li>
+        <li>ND Computer Science – <strong>100</strong></li>
+      </ul>
+      <p>The institution also announced scholarship opportunities for students applying to ND Public Administration and ND Marketing.</p>
+      <h3>School of Health Technology Courses</h3>
+      <p>The School of Health Technology offers the following ND programmes:</p>
+      <ul>
+        <li>ND Community Health Technology – <strong>120</strong></li>
+        <li>ND Medical Laboratory Technology – <strong>120</strong></li>
+        <li>ND Public Health Technology – <strong>120</strong></li>
+        <li>ND Paramedics – <strong>120</strong></li>
+        <li>ND Science Laboratory Technology – <strong>120</strong></li>
+        <li>ND Health Information Management – <strong>120</strong></li>
+        <li>ND Pharmacy Technology – Accreditation in progress; admission begins soon</li>
+      </ul>
+      <p>Scholarship opportunities are also available for students applying to ND Health Information Management.</p>
+      <hr>
+      <h2>OSCOMS Scholarship Opportunity for Early Applicants</h2>
+      <p>OSCOMS disclosed that tuition scholarships will be awarded to the first 100 students who complete registration in selected departments.</p>
+      <p>The scholarship offer applies to candidates admitted into:</p>
+      <ul>
+        <li>ND Marketing</li>
+        <li>ND Public Administration</li>
+        <li>ND Health Information Management</li>
+      </ul>
+      <p>The college stated that the scholarship slots are limited and will be awarded on a first-come, first-served basis, subject to terms and conditions.</p>
+      <hr>
+      <h2>Why Students Choose OSCOMS</h2>
+      <p>The institution highlighted several reasons why candidates continue to choose OSCOMS for their tertiary education.</p>
+      <p>Some of the benefits listed by the college include:</p>
+      <ul>
+        <li>NBTE-accredited programmes</li>
+        <li>Experienced and qualified lecturers</li>
+        <li>Conducive learning environment at the permanent campus along Akure Expressway, Ipetu Ijesha</li>
+        <li>Eligibility for NYSC mobilisation after graduation</li>
+        <li>Affordable tuition fees with flexible payment plans</li>
+        <li>Scholarship opportunities for early applicants</li>
+      </ul>
+      <hr>
+      <h2>How to Apply for OSCOMS Post UTME 2026/2027</h2>
+      <p>Interested candidates are advised to apply through the OSCOMS Post UTME admission portal.</p>
+      <p>Applicants can also select OSCOMS as their institution of choice through the JAMB portal.</p>
+      <p>Candidates who require assistance regarding the application process, screening schedule, scholarship opportunities, or tuition fees can contact the OSCOMS Admission Office through the numbers below.</p>
+      <hr>
+      <h2>OSCOMS Admission Office Contact Details</h2>
+      <ul>
+        <li><strong>08130637625</strong></li>
+        <li><strong>08102710300</strong></li>
+        <li><strong>08142506541</strong></li>
+      </ul>`,
+    tags: ["OSCOMS", "Post UTME", "Admission", "ND", "Scholarship", "Education", "Nigeria", "2026", "2027"],
+  },
+  {
     id: "funato-official-university-anthem-competition-2026",
     title: "FUNATO Invites Students to Compose Official University Anthem",
     category: "Education",

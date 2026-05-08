@@ -10,6 +10,194 @@ export type Post = {
 
 const allPosts: Post[] = [
   {
+    id: "cipm-annual-essay-competition-2026",
+    title: "CIPM Opens Entries for 2026 Annual Essay Competition for Nigerian Undergraduates",
+    category: "Education",
+    date: "2026-05-08",
+    excerpt: "The Chartered Institute of Personnel Management (CIPM) has announced its 2026 Annual Essay Competition for Nigerian undergraduates, focusing on the readiness of graduates for the workforce.",
+    content:
+      `<h2>CIPM Opens Entries for 2026 Annual Essay Competition for Nigerian Undergraduates</h2>
+      <p>Chartered Institute of Personnel Management of Nigeria has announced the commencement of entries for its 2026 Annual Essay Competition.</p>
+      <p>The competition is open to undergraduate students in Nigerian tertiary institutions and focuses on a question that continues to generate debate among students, educators and employers across the country.</p>
+      <p>The essay topic for the 2026 edition is:</p>
+      <blockquote>“Are Nigerian Tertiary Institutions Truly Preparing Students for the World of Work?”</blockquote>
+      <p>According to CIPM, participants are expected to present strong arguments, demonstrate a sound understanding of the topic and apply proper academic referencing throughout the essay.</p>
+      <hr>
+      <h2>Who Can Apply for the CIPM Essay Competition?</h2>
+      <p>The competition is strictly open to undergraduates currently studying in Nigerian tertiary institutions.</p>
+      <p>However, previous winners of the competition are not eligible to participate again. CIPM also noted that only shortlisted candidates will be contacted, so applicants are advised to provide accurate contact details during submission.</p>
+      <hr>
+      <h2>Guidelines for the CIPM 2026 Essay Competition</h2>
+      <p>Applicants are expected to follow the stated submission guidelines carefully. The requirements include:</p>
+      <ul>
+        <li>Essay must not exceed 3,000 words</li>
+        <li>References must follow APA Style, 7th Edition</li>
+        <li>Font style must be Times New Roman</li>
+        <li>Font size should be 12-point</li>
+        <li>Essay must be typed with double line spacing</li>
+        <li>Submission must be in Microsoft Word format only</li>
+        <li>Plagiarised entries will be disqualified</li>
+      </ul>
+      <p>The institute stressed that failure to follow the guidelines may affect the applicant’s chances in the competition.</p>
+      <hr>
+      <h2>CIPM Essay Competition Prizes</h2>
+      <p>Winners of the competition will receive cash rewards alongside Human Resource Management books:</p>
+      <ul>
+        <li><strong>1st Prize:</strong> ₦300,000 + 2 HRM books</li>
+        <li><strong>2nd Prize:</strong> ₦250,000 + 2 HRM books</li>
+        <li><strong>3rd Prize:</strong> ₦200,000 + 2 HRM books</li>
+      </ul>
+      <p>In addition to the prizes, all winners will gain access to a network of employers. Winners who are not already members will receive free student membership registration.</p>
+      <p>The top winners will equally enjoy an all-expense-paid trip to Abuja for the CIPM 2026 International Conference and Exhibitions.</p>
+      <hr>
+      <h2>Required Documents for Submission</h2>
+      <p>Applicants must submit the following documents together with their essay:</p>
+      <ul>
+        <li>Valid student ID card</li>
+        <li>Copy of admission letter</li>
+        <li>One recent passport photograph</li>
+        <li>Current mobile phone number</li>
+        <li>Email address</li>
+      </ul>
+      <p>The institute instructed applicants to scan all required documents and merge them with the essay into a <strong>single Microsoft Word document</strong> before submission.</p>
+      <hr>
+      <h2>How to Submit Entries</h2>
+      <p>Completed entries should be sent via email to: <strong><a href="mailto:essaycompetition@cipmnigeria.org">essaycompetition@cipmnigeria.org</a></strong></p>
+      <p>Applicants are advised to ensure the essay and supporting documents are submitted together as one complete file to avoid disqualification or processing issues.</p>
+      <hr>
+      <h2>Deadline for Submission</h2>
+      <p>The deadline for the CIPM 2026 Annual Essay Competition is <strong>Friday, 31 July 2026</strong>.</p>
+      <p>Interested students are encouraged to prepare their essays early and submit all required documents before the closing date.</p>
+      <hr>
+      <h2>CIPM Contact Details for Enquiries</h2>
+      <p>For enquiries, applicants can contact CIPM through:</p>
+      <ul>
+        <li>08160380205</li>
+        <li>07025709873</li>
+        <li><a href="mailto:essaycompetition@cipmnigeria.org">essaycompetition@cipmnigeria.org</a></li>
+      </ul>`,
+    tags: [
+      "CIPM",
+      "Essay Competition",
+      "Undergraduate",
+      "Nigeria",
+      "Education",
+      "2026",
+    ],
+  },
+  {
+    id: "northwest-university-kano-ijmb-admission-2026-2027",
+    title: "Northwest University Kano Opens 2026/2027 IJMB Admission Application",
+    category: "Education",
+    date: "2026-05-08",
+    excerpt: "Northwest University has commenced the sale of application forms for its one-year IJMB programme for the 2026/2027 academic session through the Institute of Continuing Education.",
+    content:
+      `<h2>Northwest University Kano Opens 2026/2027 IJMB Admission Application</h2>
+      <p>Northwest University has commenced the sale of application forms for its one-year IJMB programme for the 2026/2027 academic session through the Institute of Continuing Education.</p>
+      <p>According to the university, the application form became available on <strong>4 May 2026</strong>, while the deadline for submission is <strong>26 July 2026</strong>.</p>
+      <p>The IJMB programme provides candidates with an alternative route to gain Direct Entry admission into 200 Level in universities across Nigeria after successful completion of the programme and examination.</p>
+      <p>The university also stated that qualified candidates may secure admission into Northwest University, Kano, through the Institute of Continuing Education.</p>
+      <hr>
+      <h2>O’Level Requirements for NWU Kano IJMB Admission</h2>
+      <p>Applicants must possess at least five O’level credit passes. The credits must include either Mathematics or English Language, while acceptable examination bodies include:</p>
+      <ul>
+        <li>WAEC</li>
+        <li>NECO</li>
+        <li>NABTEB</li>
+        <li>MBAIS</li>
+      </ul>
+      <p>Candidates are advised to confirm that their O’level subjects match their intended course of study before completing the application process.</p>
+      <hr>
+      <h2>NWU Kano IJMB Subject Combinations</h2>
+      <p>The IJMB programme offers subject combinations across science, humanities, social sciences and management sciences.</p>
+      <h3>Science Subjects</h3>
+      <ul>
+        <li>Biology</li>
+        <li>Chemistry</li>
+        <li>Physics</li>
+        <li>A’Level Mathematics</li>
+        <li>Geography</li>
+      </ul>
+      <h3>Humanities Subjects</h3>
+      <ul>
+        <li>Government</li>
+        <li>Literature</li>
+        <li>Islamic Studies</li>
+        <li>Hausa</li>
+        <li>Arabic</li>
+        <li>Sociology</li>
+      </ul>
+      <h3>Social and Management Science Subjects</h3>
+      <ul>
+        <li>Accounting</li>
+        <li>Economics</li>
+        <li>Business Management</li>
+        <li>Geography</li>
+      </ul>
+      <hr>
+      <h2>Courses Candidates Can Study After IJMB</h2>
+      <p>A successful IJMB result can be used to apply for Direct Entry admission into several undergraduate programmes depending on the candidate’s subject combination and university requirements.</p>
+      <br>
+      <h3>Social and Management Science Courses</h3>
+      <p>Possible courses include: Accounting, Business Administration, Economics, Public Administration, Banking and Finance, and Marketing.</p>
+      <h3>Arts and Humanities Courses</h3>
+      <p>Candidates may also pursue programmes such as: Sociology, Political Science, International Studies, Mass Communication, Arabic, Hausa, Islamic Studies, and Law.</p>
+      <h3>Science and Medical Courses</h3>
+      <p>Science candidates may use the IJMB result for admission into: Medicine, Veterinary Medicine, Pharmacy, Nursing, Medical Laboratory Sciences, Biochemistry, Microbiology, Agricultural Science, Engineering, Textile Science and Technology, Geophysics, Archaeology, and Computer Science.</p>
+      <br>
+      <hr>
+      <h2>How to Apply for NWU Kano IJMB Admission</h2>
+      <p>Interested applicants are expected to begin the application through the Northwest University website or directly through the NWU IJMB application portal by following these steps:</p>
+      <ol>
+        <li>Open the application portal and click on <strong>“Applicant”</strong>.</li>
+        <li>Enter a valid email address.</li>
+        <li>Retrieve the verification code sent to the email.</li>
+        <li>Return to the portal and enter the verification code.</li>
+        <li>Print the payment invoice.</li>
+        <li>Make payment through a bank or the Nabroll gateway.</li>
+        <li>Return to the portal for payment verification.</li>
+        <li>Log in with the application number and email address to complete the application.</li>
+      </ol>
+      <p><strong>Note:</strong> Applicants without an active email address are advised to create one before starting the process, since the verification code will be sent through email.</p>
+      <hr>
+      <h2>NWU Kano IJMB Enquiry Contacts</h2>
+      <p>For further enquiries, applicants may contact: <strong>08065495093</strong> or <strong>08122302555</strong>.</p>`,
+    tags: ["NWU", "Kano", "IJMB", "Admission", "Direct Entry", "Education", "Nigeria", "2026"],
+  },
+  {
+    id: "neco-transition-to-computer-based-testing-cbt-announcement",
+    title: "Federal Government Announces NECO Transition to Computer-Based Testing",
+    category: "Education",
+    date: "2026-05-08",
+    excerpt: "The National Examinations Council will begin moving its examinations to Computer-Based Testing (CBT) this year, following a new directive announced by the Federal Government.",
+    content:
+      `<h2>Federal Government Announces NECO Transition to Computer-Based Testing</h2>
+      <p>The National Examinations Council will begin moving its examinations to Computer-Based Testing (CBT) this year, following a new directive announced by the Federal Government.</p>
+      <p>The update was revealed by Tunji Alausa during NECO’s 25th anniversary celebration held in Abuja on Thursday. According to the Minister, the transition forms part of broader education reforms aimed at improving the credibility, security and reliability of public examinations across Nigeria.</p>
+      <hr>
+      <h2>NECO to Begin CBT Examinations This Year</h2>
+      <p>The Federal Government confirmed that NECO will gradually introduce computer-based examinations starting this year. The move places the examination body on a new path for test administration, especially as more national examinations continue to adopt digital systems.</p>
+      <p>Candidates preparing for future NECO examinations are therefore expected to begin familiarising themselves with computer-based testing methods and digital examination environments.</p>
+      <hr>
+      <h2>Why the Government Is Introducing CBT for NECO</h2>
+      <p>The Minister of Education explained that the transition to CBT is mainly intended to reduce examination malpractice and improve monitoring during examinations. According to him, computer-based examinations will allow authorities to:</p>
+      <ul>
+        <li>Monitor candidates in real time</li>
+        <li>Detect suspicious activities faster</li>
+        <li>Reduce fraud during examinations</li>
+        <li>Strengthen examination security nationwide</li>
+      </ul>
+      <p>The Federal Government believes the system will improve public confidence in national assessments and make examination processes more transparent.</p>
+      <hr>
+      <h2>NECO Now Operates in Eight Countries</h2>
+      <p>NECO Registrar, Dantani Wushishi, disclosed that NECO examinations are now conducted in eight countries. He described the expansion as evidence of growing international recognition and acceptance of NECO certificates.</p>
+      <p>He further highlighted several digital reforms introduced by the council, including digital verification systems, electronic certificates, e-library services, and data analytics platforms.</p>
+      <hr>
+      <h2>What NECO Candidates Should Expect</h2>
+      <p>With the planned transition to CBT, candidates are expected to prepare for changes in the way future NECO examinations will be conducted. Students preparing for upcoming NECO examinations may need to improve their computer literacy and become more comfortable with digital testing platforms ahead of the rollout.</p>`,
+    tags: ["NECO", "CBT", "Federal Government", "Education Reform", "Digital Testing", "Nigeria", "2026"],
+  },
+  {
     id: "ecwa-college-of-nursing-post-utme-2026-2027",
     title: "ECWA College of Nursing Sciences Opens 2026/2027 Post UTME Application for ND Nursing Admission",
     category: "Education",

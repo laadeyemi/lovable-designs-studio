@@ -10,6 +10,52 @@ export type Post = {
 
 const allPosts: Post[] = [
   {
+    id: "how-to-prioritize-tasks-entrepreneur-guide",
+    title: "How to Prioritize Tasks as an Entrepreneur: A Step-by-Step Guide",
+    category: "Business",
+    date: "2026-05-08",
+    excerpt: "Mastering task prioritization is crucial for any founder. This guide provides a strategic framework to help you manage your time and focus on what truly grows your business.",
+    content:
+      `<h2>Mastering the Entrepreneurial To-Do List</h2>
+      <p>As an entrepreneur, your to-do list is never-ending. Between managing team members, handling customer feedback, and planning long-term strategy, it is easy to feel overwhelmed. The key to success isn't working more hours—it's ensuring that the hours you do work are spent on the right things.</p>
+      <p>Here is a step-by-step guide to help you prioritize your tasks and reclaim your focus.</p>
+      <hr>
+      <h2>Step 1: The Brain Dump</h2>
+      <p>The first step to prioritization is getting everything out of your head and onto paper (or a digital tool). List every single task you are currently worried about, no matter how small. Trying to keep track of a dozen tasks mentally creates cognitive load that reduces your actual productivity.</p>
+      <hr>
+      <h2>Step 2: Use the Eisenhower Matrix</h2>
+      <p>Once you have your list, categorize each item into one of four quadrants based on Urgency and Importance:</p>
+      <ul>
+        <li><strong>Important & Urgent:</strong> Do these immediately (e.g., a server crash or a major client deadline).</li>
+        <li><strong>Important but Not Urgent:</strong> Schedule these (e.g., long-term strategy, networking, or exercise). This is where growth happens.</li>
+        <li><strong>Urgent but Not Important:</strong> Delegate these (e.g., most emails, phone calls, or administrative busywork).</li>
+        <li><strong>Neither Urgent nor Important:</strong> Eliminate these. They are distractions.</li>
+      </ul>
+      <hr>
+      <h2>Step 3: Apply the Pareto Principle (80/20 Rule)</h2>
+      <p>The Pareto Principle states that 80% of your results come from 20% of your efforts. Look at your "Important" tasks and identify the ones that will have the biggest impact on your bottom line or long-term vision. Focus on those few items first.</p>
+      <hr>
+      <h2>Step 4: Implement Time Blocking</h2>
+      <p>Instead of just listing tasks, assign them a specific home in your calendar. Give your high-priority 20% tasks your "prime time"—the hours of the day when you have the most energy and focus. Protect these blocks of time fiercely from interruptions.</p>
+      <hr>
+      <h2>Step 5: The "Rule of Three"</h2>
+      <p>Every morning (or the night before), identify the three most important things you must accomplish that day to feel successful. If you do nothing else, completing these three "Must-Dos" ensures that you are moving the needle forward.</p>
+      <hr>
+      <h2>Step 6: Review and Reflect</h2>
+      <p>At the end of each week, review what you accomplished and what got pushed aside. Were you distracted by "urgent" but unimportant tasks? Adjust your plan for the following week based on these insights.</p>
+      <hr>
+      <h2>Final Thought</h2>
+      <p>Prioritization is a muscle that gets stronger with practice. By being intentional about where you spend your energy, you transition from being a busy entrepreneur to being an effective leader.</p>`,
+    tags: [
+      "Business",
+      "Productivity",
+      "Entrepreneurship",
+      "Time Management",
+      "Leadership",
+      "2026",
+    ],
+  },
+  {
     id: "cipm-annual-essay-competition-2026",
     title: "CIPM Opens Entries for 2026 Annual Essay Competition for Nigerian Undergraduates",
     category: "Education",

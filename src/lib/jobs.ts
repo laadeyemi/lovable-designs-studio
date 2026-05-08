@@ -15,6 +15,372 @@ export type Job = {
 
 const allJobs: Job[] = [
   {
+    id: "warehouse-manager-ikenne-hncabz-2026",
+    title: "Warehouse Manager",
+    date: "2026-05-08",
+    location: "Ikenne Remo, Ogun State",
+    type: "Full-time",
+    summary: "Responsible for overseeing and coordinating all warehouse operations for agro commodity export, including inventory control, fumigation coordination, and quality compliance.",
+    responsibilities: [
+      "Supervise and coordinate all warehouse activities including receiving, storage, treatment, loading, and dispatch of agro commodities",
+      "Ensure proper stacking, preservation, and handling of products to avoid contamination, infestation, or damage",
+      "Monitor warehouse cleanliness, safety, and operational efficiency at all times",
+      "Ensure strict adherence to FIFO/FEFO inventory principles where applicable",
+      "Maintain accurate inventory records and ensure real-time stock reconciliation",
+      "Conduct periodic stock counts and investigate discrepancies",
+      "Ensure proper documentation of inbound and outbound movements",
+      "Coordinate warehouse entries and validation processes on relevant warehouse management systems",
+      "Ensure compliance with company policies, food safety standards, and export regulations",
+      "Monitor adherence to fumigation and treatment protocols",
+      "Ensure warehouse operations comply with health, safety, and environmental standards",
+      "Implement corrective actions for operational non-conformities",
+      "Supervise warehouse staff, loaders, security personnel, and third-party operators",
+      "Organize shift schedules and allocate responsibilities effectively",
+      "Train and enforce operational procedures among warehouse personnel",
+      "Prepare operational reports and provide updates to management regularly",
+      "Prevent unauthorized movement of goods and warehouse losses",
+      "Investigate operational incidents and implement preventive measures"
+    ],
+    requirements: [
+      "Bachelor’s Degree or HND in Logistics, Supply Chain Management, Business Administration, Agricultural Economics, or related field",
+      "Minimum of 7 years proven experience in warehouse management within an agro commodity export company",
+      "Strong knowledge of export procedures, warehouse documentation, fumigation processes, and inventory management",
+      "Proficiency in warehouse management systems and Microsoft Office applications",
+      "Excellent leadership, communication, and problem-solving skills",
+      "Ability to work under pressure and manage multiple export operations simultaneously",
+      "Strong attention to detail and high level of accountability"
+    ],
+    apply: 'Interested candidates should send their CV to <a href="mailto:hnhrrecruitment@gmail.com">hnhrrecruitment@gmail.com</a> with the subject line “Warehouse Manager – Ikenne”',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "coo-digital-marketing-lagos-oaklands-2026",
+    title: "Chief Operating Officer (COO)",
+    date: "2026-05-08",
+    location: "Lagos, Nigeria",
+    type: "Full-time",
+    seniority: "Senior",
+    summary: "Executive leader responsible for driving operational excellence, profitability, delivery efficiency, and scalable growth across all business units of a Digital Marketing Agency.",
+    responsibilities: [
+      "Oversee end-to-end operations across Client Service, Creative, Media, Digital Marketing, Production, and Finance & Administration",
+      "Ensure efficient execution of all campaigns and client projects",
+      "Build scalable systems, processes, and infrastructure for sustainable agency growth",
+      "Maintain client delivery standards and team productivity",
+      "Ensure the agency operates efficiently while consistently achieving revenue and margin targets"
+    ],
+    requirements: [
+      "Minimum 10–12 years of progressive leadership experience",
+      "Minimum 5 years in senior agency operations leadership within Digital Marketing, Advertising, Media, or Creative Agencies"
+    ],
+    apply: 'Interested candidates should send their CV to <a href="mailto:hr@oaklandsandjohnson.com">hr@oaklandsandjohnson.com</a>',
+    salary: "₦900,000 & Above",
+    deadline: "Not Specified"
+  },
+  {
+    id: "study-abroad-officer-karu-abuja-globeeasy-2026",
+    title: "Study Abroad Officer / Sales Representative",
+    date: "2026-05-08",
+    location: "Karu Abuja (FCT)",
+    type: "Full-time",
+    summary: "Responsible for advising prospective students on international education opportunities while driving student recruitment and revenue generation.",
+    responsibilities: [
+      "Identify and recruit prospective students interested in studying abroad",
+      "Convert inquiries into applications and enrollments",
+      "Meet assigned monthly and quarterly sales targets",
+      "Follow up consistently with leads to drive conversions",
+      "Promote study abroad programs and services to potential clients",
+      "Provide accurate guidance on study destinations, institutions, and programs",
+      "Advise students on admission requirements and application processes",
+      "Offer guidance on visa requirements and procedures",
+      "Support students in completing application forms and compiling required documents",
+      "Submit applications to partner institutions and track progress",
+      "Build and maintain strong relationships with prospective and existing clients",
+      "Participate in outreach activities such as school visits, fairs, and online campaigns"
+    ],
+    requirements: [
+      "Bachelor’s Degree qualification",
+      "1–2 years of experience in Study Abroad or Travel Agency sales",
+      "Strong communication and sales ability"
+    ],
+    apply: 'Qualified candidates should send UPDATED CV to <a href="mailto:globeeasyhr@gmail.com">globeeasyhr@gmail.com</a> using Job title as subject',
+    salary: "₦140,000 Gross (with commission/benefits)",
+    deadline: "14th May 2026"
+  },
+  {
+    id: "executive-assistant-karu-abuja-globeeasy-2026",
+    title: "Executive Assistant",
+    date: "2026-05-08",
+    location: "Karu Abuja (FCT)",
+    type: "Full-time",
+    summary: "Provides high-level administrative, strategic, and operational support to the Managing Director in the Travels, Study Abroad, and Logistics sectors.",
+    responsibilities: [
+      "Manage the MD’s calendar, appointments, and scheduling of meetings",
+      "Coordinate internal and external communications on behalf of the MD",
+      "Prepare meeting agendas, take minutes, and follow up on action items",
+      "Support the MD in strategic planning and execution of key initiatives",
+      "Conduct research and provide insights to support business decisions",
+      "Prepare high-quality reports, briefs, and presentations for management use",
+      "Represent the MD at meetings, events, and engagements when required",
+      "Manage travel arrangements including bookings, itineraries, and logistics",
+      "Support the MD in leveraging technology for operational efficiency",
+      "Oversee day-to-day administrative functions of the Executive Office"
+    ],
+    requirements: [
+      "1–2 years of experience in a similar role",
+      "Highly organized, proactive, and tech-savvy individual",
+      "Strong report writing and documentation skills",
+      "Ability to handle confidential information with discretion"
+    ],
+    apply: 'Qualified candidates should send CV to <a href="mailto:globeeasyhr@gmail.com">globeeasyhr@gmail.com</a> using job title as subject of mail',
+    salary: "₦120,000 – ₦140,000",
+    deadline: "14th May 2026"
+  },
+  {
+    id: "account-officer-karu-abuja-globeeasy-may-2026",
+    title: "Account Officer",
+    date: "2026-05-08",
+    location: "Karu, Abuja",
+    type: "Full-time",
+    summary: "Responsible for managing financial records, tracking transactions, and supporting the company’s day-to-day accounting operations.",
+    responsibilities: [
+      "Record daily income and expenses",
+      "Manage invoices, payments, and receipts",
+      "Reconcile bank statements",
+      "Prepare simple financial reports",
+      "Track outstanding payments and follow up",
+      "Maintain accurate financial records",
+      "Ensure compliance with basic accounting standards"
+    ],
+    requirements: [
+      "HND/B.Sc. in Accounting or related field",
+      "1–2 years experience",
+      "Basic Excel and accounting knowledge",
+      "Detail-oriented and trustworthy"
+    ],
+    apply: 'Send CV to <a href="mailto:globeeasyhr@gmail.com">globeeasyhr@gmail.com</a>. Subject: Account Officer – Karu Abuja',
+    salary: "₦130,000 – ₦150,000",
+    deadline: "14th May 2026"
+  },
+  {
+    id: "production-mechanical-engineer-mowe-2026",
+    title: "Production Equipment Mechanical Engineer / Technician",
+    date: "2026-05-08",
+    location: "Mowe, Ogun State",
+    type: "Full-time",
+    summary: "Urgently needed for a new pharmaceutical company to maintain and manage production equipment.",
+    responsibilities: [
+      "Oversee the maintenance and operation of pharmaceutical production equipment",
+      "Troubleshoot and resolve mechanical issues in a manufacturing environment",
+      "Ensure production efficiency through proactive machinery management"
+    ],
+    requirements: [
+      "B.sc/B.Engr. in Mechanical Engineering",
+      "Minimum of 4-5 years of progressive experience in a pharmaceutical manufacturing company",
+      "Proficiency in pharmaceutical production equipment is required",
+      "Preference for candidates living in Mowe, Ibafo, Magboro and neighboring cities"
+    ],
+    apply: 'Forward CV to: <a href="mailto:metusmetus73@gmail.com">metusmetus73@gmail.com</a> and <a href="mailto:transnationalzamiva21@yahoo.com">transnationalzamiva21@yahoo.com</a>',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "accountant-lekki-briccs-2026",
+    title: "Accountant",
+    date: "2026-05-08",
+    location: "Lekki Phase 1, Lagos",
+    type: "Full-time",
+    summary: "Manage accounting functions for a telecommunications firm, ensuring analytical accuracy and problem-solving.",
+    responsibilities: [
+      "Perform daily accounting tasks and financial record keeping",
+      "Prepare management reports and financial analysis",
+      "Maintain strong proficiency in Microsoft Office, especially Excel",
+      "Handle multilingual communications if applicable"
+    ],
+    requirements: [
+      "Good First Degree (B.Sc.) or HND in Accounting or a related field",
+      "Minimum of 3 years relevant work experience",
+      "Student member of ICAN/ACCA or already chartered",
+      "Strong analytical and problem-solving skills",
+      "Proximity to Lekki Phase 1 is essential"
+    ],
+    apply: 'Send CV to <a href="mailto:recruitments@briccsint.com">recruitments@briccsint.com</a>',
+    salary: "Attractive",
+    deadline: "15th May 2026"
+  },
+  {
+    id: "business-development-officer-lekki-briccs-2026",
+    title: "Business Development Officer",
+    date: "2026-05-08",
+    location: "Lekki Phase 1, Lagos",
+    type: "Full-time",
+    summary: "Drive revenue and market share for a telecommunications company through strategic business development.",
+    responsibilities: [
+      "Identify and pursue new business opportunities",
+      "Maintain client relationships and drive sales",
+      "Prepare sales reports and market feedback",
+      "Learn and adapt quickly in a tech environment"
+    ],
+    requirements: [
+      "Good First Degree (B.Sc.) or HND in Business, Marketing, or related field",
+      "Minimum of 3 years relevant work experience in business development or sales",
+      "Strong analytical and communication skills",
+      "Proximity to Lekki Phase 1 is essential"
+    ],
+    apply: 'Send CV to <a href="mailto:recruitments@briccsint.com">recruitments@briccsint.com</a>',
+    salary: "Attractive",
+    deadline: "15th May 2026"
+  },
+  {
+    id: "tender-administrator-port-harcourt-cd-princeton-2026",
+    title: "Tender Administrator",
+    date: "2026-05-08",
+    location: "Port Harcourt, Rivers State",
+    type: "Full-time",
+    summary: "Responsible for managing the tender process, ensuring timely identification, coordination, and submission of bids.",
+    responsibilities: [
+      "Monitor NIPEX and other tender platforms for opportunities",
+      "Maintain tender register and track all bid activities",
+      "Coordinate tender documentation and requirements",
+      "Support proposal preparation and submission",
+      "Ensure compliance with tender requirements and deadlines",
+      "Liaise with internal teams for bid inputs and approvals",
+      "Maintain organized records of all submissions"
+    ],
+    requirements: [
+      "Bachelor’s degree in Business, Administration, or related field",
+      "3–5 years’ experience in tendering or bid administration",
+      "Good with Microsoft Tools and Tender Systems",
+      "Strong organizational and coordination skills"
+    ],
+    apply: 'Send CV to <a href="mailto:recruitment@cdprinceton.com">recruitment@cdprinceton.com</a>. Subject: Tender Administrator',
+    salary: "Competitive",
+    deadline: "18th May 2026"
+  },
+  {
+    id: "loan-officers-multiple-locations-repost-2026",
+    title: "Loan Officer",
+    date: "2026-05-08",
+    location: "Mainland Lagos, Ifo, Ijebu-Ode",
+    type: "Full-time",
+    seniority: "Junior",
+    summary: "Identify and recruit potential clients, assess creditworthiness, and manage loan portfolios including recovery targets.",
+    responsibilities: [
+      "Identify and recruit potential clients for loan products",
+      "Conduct client interviews and assess creditworthiness",
+      "Perform field visits for business and guarantor verification",
+      "Analyze loan applications and recommend approvals or rejections",
+      "Disburse loans in line with company policies and procedures",
+      "Monitor loan utilization and ensure proper usage",
+      "Follow up on repayments and manage delinquent accounts",
+      "Maintain accurate client records and documentation",
+      "Educate clients on loan terms, repayment plans, and financial discipline",
+      "Achieve assigned loan disbursement and recovery targets"
+    ],
+    requirements: [
+      "1–3 years experience in lending, microfinance, or sales roles is a MUST",
+      "Minimum of 2 years experience as a Loan Officer is mandatory",
+      "Strong analytical and risk assessment skills",
+      "Excellent communication and interpersonal skills",
+      "Ability to work in the field and meet targets"
+    ],
+    apply: 'Qualified candidates should send CVs to <a href="mailto:guidedarrowsconsulting@gmail.com">guidedarrowsconsulting@gmail.com</a>',
+    salary: "₦120,000 – ₦150,000 (Accommodation provided)",
+    deadline: "Not Specified"
+  },
+  {
+    id: "office-cleaner-lekki-luxsit-2026",
+    title: "Office Cleaner",
+    date: "2026-05-08",
+    location: "Lekki Phase 1, Lagos",
+    type: "Full-time",
+    summary: "Maintain cleanliness and hygiene of office spaces, restrooms, and kitchen areas for a corporate environment.",
+    responsibilities: [
+      "Dust furniture, polish surfaces, and wash windows",
+      "Clean restrooms and sanitize kitchen areas",
+      "Sweep, mop, vacuum, and wax floors",
+      "Empty trash bins and dispose of waste",
+      "Replenish toiletries, soap, and paper products",
+      "Report repairs and maintain cleaning equipment",
+      "Adhere to sanitation and health standards",
+      "Perform office errands where applicable"
+    ],
+    requirements: [
+      "Hardworking and reliable",
+      "Adherence to sanitation and health standards",
+      "Willingness to perform office errands"
+    ],
+    apply: 'Interested candidate send application to <a href="mailto:hr@luxsitintegrarion.com">hr@luxsitintegrarion.com</a> or <a href="mailto:lillian.owoseni@luxsitintegration.com">lillian.owoseni@luxsitintegration.com</a>',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "facility-supervisor-ogba-mikano-2026",
+    title: "Facility Supervisor",
+    date: "2026-05-08",
+    location: "Ogba, Lagos State",
+    type: "Full-time",
+    summary: "Responsible for overseeing the day-to-day operations, maintenance and safety of all buildings systems, infrastructure, and grounds to ensure optimal performance and functionality.",
+    responsibilities: [
+      "Oversee and manage all facility systems, including HVAC, electrical, plumbing, structural and mechanical equipment",
+      "Develop and implement preventive maintenance schedules to ensure uninterrupted facility operations",
+      "Troubleshoot and resolve issues related to mechanical and civil systems, minimizing downtime and optimizing operational efficiency",
+      "Ensure compliance with health, safety and environmental regulations standards",
+      "Conduct regular safety inspection, risk assessment and emergency preparedness drills",
+      "Implement corrective actions for identified safety risks and manage documentation for compliance audits",
+      "Plan, coordinate and execute facility improvement and renovation projects, including budgeting, scheduling and contractor management",
+      "Oversee civil works and structural modification, ensuring adherence to building codes and regulations"
+    ],
+    requirements: [
+      "BSc / HND in a related discipline",
+      "Minimum of 3 years hands-on experience performing similar responsibilities",
+      "Familiarity with local building codes, safety standards, and environmental regulations",
+      "Some physical activities, including walking and inspecting various facility areas"
+    ],
+    apply: 'Interested and qualified candidates should send their CV to: <a href="mailto:careers@mikano.com">careers@mikano.com</a>',
+    salary: "₦350,000 – ₦450,000 Gross plus Benefits (HMO, Leave Allowance, etc.)",
+    deadline: "Not Specified"
+  },
+  {
+    id: "mechanical-technician-port-harcourt-hobark-2026",
+    title: "Mechanical Technician",
+    date: "2026-05-08",
+    location: "Port Harcourt",
+    type: "Full-time",
+    summary: "Responsible for preventive, corrective, and breakdown maintenance of mechanical equipment, ensuring optimal performance, reliability, and safety across upstream oil & gas production facilities.",
+    responsibilities: [
+      "Perform maintenance on pumps, compressors, turbines, valves, piping systems, and hydraulic units",
+      "Conduct troubleshooting, diagnostics, and fault resolution on mechanical equipment",
+      "Execute equipment overhauls, dismantling, and reassembly in line with OEM standards",
+      "Monitor rotating equipment performance and identify improvement opportunities",
+      "Support Root Cause Analysis (RCA) and implement corrective actions",
+      "Analyze operational parameters to enhance equipment efficiency and uptime",
+      "Participate in equipment installation, upgrades, and commissioning activities",
+      "Maintain accurate maintenance records, job cards, and reports",
+      "Track material usage and support OPEX monitoring and cost control",
+      "Ensure strict adherence to HSE policies, PTW systems, and industry standards",
+      "Maintain proper housekeeping of tools, workshop, and spare parts",
+      "Liaise with OEMs, vendors, and contractors during maintenance activities",
+      "Work closely with production and maintenance teams to ensure seamless operations"
+    ],
+    requirements: [
+      "HND/OND in Mechanical Engineering or related discipline",
+      "Minimum 8+ years hands-on experience in mechanical maintenance",
+      "Experience in onshore/offshore oil & gas operations",
+      "Strong knowledge of rotating equipment and mechanical systems",
+      "Experience in oil & gas upstream production facilities",
+      "Good understanding of maintenance strategies and troubleshooting techniques",
+      "Strong analytical, problem-solving, and teamwork skills",
+      "Valid HSE certifications (HSE I, II, III / PTW)",
+      "OEM certifications on pumps/compressors (added advantage)",
+      "Membership of COREN/NSE (optional advantage)",
+      "Commitment to safety and operational excellence"
+    ],
+    apply: 'Interested and qualified candidates should send their CV to <a href="mailto:Odianosen_Odigie@hobarkintl.com">Odianosen_Odigie@hobarkintl.com</a>',
+    salary: "30M – 40M",
+    deadline: "Not Specified"
+  },
+  {
     id: "branch-manager-mfi-multiple-locations-2026",
     title: "Branch Manager (MFI)",
     date: "2026-05-01",

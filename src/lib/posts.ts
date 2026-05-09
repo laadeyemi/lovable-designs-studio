@@ -10,6 +10,98 @@ export type Post = {
 
 const allPosts: Post[] = [
   {
+    id: "ucth-fake-admission-warning-fraudulent-requests-2026",
+    title: "UCTH Warns Public Against Fake Admission Offers and Fraudulent Payment Requests",
+    category: "Education",
+    date: "2026-05-10",
+    excerpt: "University of Calabar Teaching Hospital (UCTH) has issued a public warning regarding fake admission offers and fraudulent payment requests being circulated by individuals posing as hospital representatives.",
+    content:
+      `<h2>UCTH Warns Public Against Fake Admission Offers and Fraudulent Payment Requests</h2>
+      <p>University of Calabar Teaching Hospital has issued a public warning over fake admission offers being circulated by fraudsters posing as representatives of the hospital.</p>
+      <p>The management of UCTH disclosed that some individuals and criminal groups have been using the institution’s name to deceive members of the public with false admission claims and unauthorised payment requests.</p>
+      <p>According to the hospital, the fraudsters usually ask unsuspecting applicants to pay money into personal or unapproved bank accounts while pretending to facilitate admission into the institution.</p>
+      <hr>
+      <h2>UCTH Does Not Use Agents for Admission</h2>
+      <p>The hospital made it clear that admissions are not handled through agents, middlemen or third-party representatives. UCTH advised prospective students and members of the public to verify any admission message claiming to come from the institution before taking further action.</p>
+      <p>The management also stressed that the hospital does not request payments through personal bank accounts or unverified channels.</p>
+      <hr>
+      <h2>Approved UCTH Admission and Payment Channels</h2>
+      <p>According to the notice, all official admission and payment information must come through the recognised channels listed on the official fliers of:</p>
+      <ul>
+        <li>The College of Nursing Sciences</li>
+        <li>The School of Health Information Management</li>
+      </ul>
+      <p>Applicants were advised to carefully confirm that every payment instruction matches the approved details connected to the relevant school. The hospital warned that any request for payment into a suspicious or unfamiliar account should be treated as a red flag.</p>
+      <hr>
+      <h2>Advice to Prospective Students and the Public</h2>
+      <p>UCTH urged the public to ignore suspicious admission posts, messages, phone calls or chats from individuals claiming to represent the institution. The hospital also advised applicants not to make payments into unknown accounts, even when the message appears urgent or carries the hospital’s name.</p>
+      <p>According to the management, fraudsters often use pressure tactics to deceive victims, but proper verification can help prevent financial loss.</p>
+      <hr>
+      <h2>UCTH Rejects Liability for Fraudulent Transactions</h2>
+      <p>The hospital further stated that it will not accept responsibility for losses resulting from dealings with fake agents, fraudsters or unverified payment platforms. Prospective students were therefore encouraged to confirm every admission and payment detail through official sources before making any transaction.</p>
+      <hr>
+      <h2>Where to Get Official UCTH Information</h2>
+      <p>For accurate admission information and official updates, the public was advised to contact UCTH through its official communication platforms, including:</p>
+      <ul>
+        <li>The <a href="https://ucthcalabar.gov.ng/">official UCTH website</a></li>
+        <li>Facebook page: <strong>@UCTH Corporate Affairs</strong></li>
+      </ul>`,
+    tags: ["UCTH", "Admission", "Fraud Warning", "Education", "Nigeria", "Calabar", "2026"],
+  },
+  {
+    id: "kwara-state-college-of-nursing-sciences-oke-ode-nd-nursing-admission-2026-2027",
+    title: "Kwara State College of Nursing Sciences Oke-Ode Opens 2026/2027 ND Nursing Admission Form",
+    category: "Education",
+    date: "2026-05-09",
+    excerpt: "Kwara State College of Nursing Sciences, Oke-Ode (KWCONOO) has commenced the sale of admission forms for its 2026/2027 National Diploma (ND) Nursing Programme.",
+    content:
+      `<h2>Kwara State College of Nursing Sciences Oke-Ode Opens 2026/2027 ND Nursing Admission Form</h2>
+      <p>Kwara State College of Nursing Sciences has commenced the sale of admission forms for its 2026/2027 National Diploma (ND) Nursing Programme.</p>
+      <p>The college management approved the online sale of forms during a meeting held on Monday, 27 April 2026, while the application portal officially opened on Monday, 4 May 2026, for qualified candidates seeking admission into the ND Nursing programme at KWCONOO.</p>
+      <p>The institution advised interested applicants to carefully note the admission requirements, application fee and JAMB score before starting the registration process.</p>
+      <hr>
+      <h2>KWCONOO ND Nursing Admission Details</h2>
+      <ul>
+        <li><strong>Programme:</strong> National Diploma Nursing</li>
+        <li><strong>Academic Session:</strong> 2026/2027</li>
+        <li><strong>Application Fee:</strong> ₦30,000</li>
+        <li><strong>JAMB Cut-Off Mark:</strong> 180</li>
+        <li><strong>Application Method:</strong> Online</li>
+      </ul>
+      <p>The college stated that all applications must be completed through the official college portal only.</p>
+      <hr>
+      <h2>KWCONOO Post UTME Admission Requirements</h2>
+      <p>Candidates applying for the ND Nursing programme must possess credit passes in five relevant O’level subjects:</p>
+      <ul>
+        <li>English Language</li>
+        <li>Mathematics</li>
+        <li>Chemistry</li>
+        <li>Physics</li>
+        <li>Biology</li>
+      </ul>
+      <p>According to the college, the results must be obtained from WAEC, NECO or NABTEB in not more than two sittings. The institution stressed that candidates who do not meet the stated subject requirements should not proceed with the application.</p>
+      <hr>
+      <h2>How to Apply for KWCONOO Post UTME Form</h2>
+      <p>Interested candidates are expected to complete their registration online through the KWCONOO application portal by following these steps:</p>
+      <ol>
+        <li>Visit the application portal</li>
+        <li>Click on <strong>“Application Form / Instructions”</strong></li>
+        <li>Enter full name, valid email address and phone number</li>
+        <li>Click <strong>“Verify & Make Payment”</strong></li>
+        <li>Make payment using an ATM card</li>
+        <li>Obtain the application number</li>
+        <li>Log in using the email address and application number</li>
+        <li>Complete the application form</li>
+        <li>Upload a passport photograph</li>
+        <li>Print the completed form and payment receipt</li>
+      </ol>
+      <hr>
+      <h2>What Happens After the Application?</h2>
+      <p>After completing the online registration, applicants are expected to prepare for the next stages of the admission process, including the Computer-Based Test (CBT), interview/screening, and the eventual release of the admission list.</p>
+      <p>The college advised candidates to visit the school portal regularly for updates regarding examination dates and screening schedules.</p>`,
+    tags: ["Kwara State", "Nursing", "Admission", "ND Nursing", "2026", "Education", "KWCONOO"],
+  },
+  {
     id: "how-to-prioritize-tasks-entrepreneur-guide",
     title: "How to Prioritize Tasks as an Entrepreneur: A Step-by-Step Guide",
     category: "Business",

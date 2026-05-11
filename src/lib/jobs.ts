@@ -11,6 +11,7 @@ export type Job = {
   salary: string;
   deadline: string;
   date: string;
+  company?: string;
 }
 
 const allJobs: Job[] = [
@@ -888,6 +889,911 @@ const allJobs: Job[] = [
     ],
     apply: 'Send CV to: <a href="mailto:theremconsult@gmail.com">theremconsult@gmail.com</a>',
     salary: "₦600,000 net",
+    deadline: "Not Specified"
+  },
+  {
+    id: "crm-customer-service-content-support-representative-lekki-2026",
+    title: "CRM Customer Service / Content Support Representative",
+    date: "2026-05-11",
+    location: "Lekki Phase 1, Lagos",
+    type: "Full-time",
+    seniority: "Mid-Level",
+    summary: "Target-driven, well-spoken, and customer-obsessed individual to join our team, focusing on customer support and content assistance.",
+    responsibilities: [
+      "Respond to customer messages quickly and professionally",
+      "Manage customer records via CRM software",
+      "Follow up on orders, payments and deliveries",
+      "Communicate with logistics partners and keep customers updated",
+      "Support social media and content pages where needed"
+    ],
+    requirements: [
+      "Minimum 5 years customer service experience",
+      "Proven CRM experience is a must",
+      "Target driven with a results mindset",
+      "Well spoken, polite, clean and well groomed at all times",
+      "Under 32 years old",
+      "Marketing experience is a bonus",
+      "can use CHAT-gpt and Claude",
+      "very good with excel",
+      "Any degree is accepted",
+      "Knowledge of weight management pens is a bonus",
+      "Understanding of feminine health is a bonus"
+    ],
+    apply: 'Interested and qualified candidates should send their CV, cover letter and a recent picture to: <a href="mailto:info@fitcarehealth.com">info@fitcarehealth.com</a>',
+    salary: "₦160,000/month + Attractive Bonuses",
+    deadline: "Not Specified"
+  },
+  {
+    id: "female-private-chef-housekeeper-lekki-2026",
+    title: "FEMALE Private Chef / Housekeeper",
+    date: "2026-05-11",
+    location: "Lekki Phase 1, Lagos",
+    type: "Full-time",
+    seniority: "Mid-Level",
+    summary: "Professional, highly skilled, and cleaning-obsessed Chef/Housekeeper for a private individual, able to commute to Lekki Phase 1 five days a week.",
+    responsibilities: [
+      "Prepare continental and healthy dishes",
+      "Follow recipes precisely",
+      "Maintain high standards of cleanliness and tidiness",
+      "Manage household tasks including folding and ironing"
+    ],
+    requirements: [
+      "Professional chef certification is required",
+      "very skilled in folding and ironing",
+      "very polite and hygiene is very important",
+      "Skilled in continental and healthy dishes",
+      "Able to follow recipes precisely",
+      "Passionate about cooking clean, healthy meals",
+      "Absolutely obsessed with cleanliness and tidying",
+      "Highly organised and discreet",
+      "Must be able to commute to Lekki Phase 1 consistently"
+    ],
+    apply: 'Interested candidates should send their CV, certificate and a recent picture via WhatsApp only to: <a href="https://wa.me/2347046744811">+2347046744811</a>',
+    salary: "₦200,000/month",
+    deadline: "Not Specified"
+  },
+  {
+    id: "personal-operations-assistant-kimberly-ryan-lagos-2026",
+    title: "Personal Operations Assistant",
+    date: "2026-05-11",
+    location: "Lagos",
+    type: "Full-time",
+    seniority: "Mid-Level",
+    company: "Kimberly Ryan",
+    summary: "Support operations, potentially coordinating events, for a leading organization, requiring experience in the hospitality sector.",
+    responsibilities: [
+      "Provide operational support",
+      "Coordinate events, potentially on weekends or public holidays"
+    ],
+    requirements: [
+      "Minimum of 5 years’ experience having worked/working in some of the leading hotels in Nigeria, in mid to senior management/support levels.",
+      "Humble, Hardworking, and very well-mannered characters are essential to this role.",
+      "The Role may once in a while require working on weekend or on public holidays for coordination of events."
+    ],
+    apply: 'Send CV to: <a href="mailto:resumes@kimberly-ryan.net">resumes@kimberly-ryan.net</a> using the particular job title of the role as the subject of the mail.',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "training-onboarding-officer-gwagwalada-max-drive-2026",
+    title: "Training and Onboarding Officer",
+    date: "2026-05-11",
+    location: "Gwagwalada",
+    type: "Full-time",
+    seniority: "Mid-Level",
+    company: "Max Drive",
+    summary: "Responsible for developing and implementing training and onboarding programs, with a focus on new employee integration and skill development.",
+    responsibilities: [
+      "Experience with training/imparting knowledge.",
+      "Develop orientation systems and tools.",
+      "Manage and impart confidential information."
+    ],
+    requirements: [
+      "Experience with training/imparting knowledge.",
+      "Must understand and speak Hausa frequently.",
+      "Strong working knowledge of developing orientation systems and tools.",
+      "Excellent organizational skills and attention to detail.",
+      "Excellent verbal and written communication.",
+      "A start-up attitude- willingness to work hard to get things done.",
+      "Ability to make discretionary judgment and to manage and impart confidential information."
+    ],
+    apply: '<a href="https://jobs.workable.com/view/uicemgqYi7Uk3CyN6xf3MH/training-and-onboarding-officer--gwagwalada-in-gwagwalada-at-max-drive">https://jobs.workable.com/view/uicemgqYi7Uk3CyN6xf3MH/training-and-onboarding-officer--gwagwalada-in-gwagwalada-at-max-drive</a>',
+    salary: "Competitive pay & benefits",
+    deadline: "Not Specified"
+  },
+  {
+    id: "electrical-engineer-lagos-bahmstechnical-2026",
+    title: "Electrical Engineer",
+    date: "2026-05-11",
+    location: "Lagos",
+    type: "Full-time",
+    seniority: "Mid-Level",
+    company: "Bahms Technical",
+    summary: "Skilled Electrical Engineer with solid construction experience to manage and deliver electrical installations across projects, ensuring safe and efficient execution.",
+    responsibilities: [
+      "Supervise electrical installations including power, lighting, and ELV systems",
+      "Ensure compliance with electrical codes, standards, and project specifications",
+      "Review drawings and coordinate with other disciplines on-site",
+      "Conduct inspections, testing, and commissioning of systems",
+      "Troubleshoot and resolve technical issues on-site"
+    ],
+    requirements: [
+      "Minimum of 5 years’ experience in a construction company (MEP projects)",
+      "Strong knowledge of electrical systems and site supervision",
+      "Attention to detail and commitment to safety standards",
+      "Good communication and teamwork skills"
+    ],
+    apply: 'Qualified candidates should send their CV to: <a href="mailto:hr@bahmstechnical.com">hr@bahmstechnical.com</a>',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "multiple-roles-sango-ota-ogun-2026",
+    title: "Multiple Roles (Field Validation & Maintenance Team Lead, Field Validation Engineer, Mechanical Maintenance Technician, Electrical Maintenance Technician, QHSE Manager, Revenue Assurance Associate, Learning and Development Specialist)",
+    date: "2026-05-11",
+    location: "Sango Ota, Ogun State",
+    type: "Full-time",
+    seniority: "Not Specified",
+    summary: "Multiple vacancies available for various engineering, technical, and management roles in Sango Ota, Ogun State. Apply via the provided link for specific job descriptions.",
+    responsibilities: ["Refer to individual Job Descriptions for specific responsibilities."],
+    requirements: ["Refer to individual Job Descriptions for specific requirements."],
+    apply: '<a href="https://forms.gle/aeUWzhmiyeDnMSog7">https://forms.gle/aeUWzhmiyeDnMSog7</a>',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "accountant-lekki-plastic-cosmetics-manufacturing-2026",
+    title: "Accountant",
+    date: "2026-05-11",
+    location: "Lekki, Lagos",
+    type: "Full-time",
+    seniority: "Mid-Level",
+    summary: "Experienced Accountant with FMCG background needed for a Plastic & Cosmetics Manufacturing company. Responsibilities include managing manufacturing accounts, costing, and final accounts.",
+    responsibilities: [
+      "Manage cost accounting for production",
+      "Prepare final accounts & financial reports",
+      "Ensure compliance & internal controls"
+    ],
+    requirements: [
+      "HND / B.Sc in Accounting",
+      "ACCA or ICAN (added advantage)",
+      "3–5 years experience",
+      "MUST have FMCG experience (non-negotiable)",
+      "Key experience needed: Manufacturing Accounts, Costing, Final Accounts"
+    ],
+    apply: 'Send CV to: <a href="mailto:hrhonourandroles@gmail.com">hrhonourandroles@gmail.com</a> Or send copy to: <a href="https://wa.me/2348056180009">08056180009</a> (WhatsApp/SMS)',
+    salary: "Industry range (negotiable), Accommodation available at the company",
+    deadline: "Not Specified"
+  },
+  {
+    id: "motion-graphics-designer-honeyworld-group-vi-lagos-2026",
+    title: "Motion Graphics Designer",
+    date: "2026-05-11",
+    location: "Victoria Island, Lagos",
+    type: "Full-time",
+    seniority: "Mid-Level",
+    company: "Honeyworld Group",
+    summary: "Creative and detail-oriented Motion Graphics Designer to create engaging visual content, animations, and motion graphics for digital and brand communication at Honeyworld Group.",
+    responsibilities: [
+      "Create engaging visual content, animations, and motion graphics for digital and brand communication."
+    ],
+    requirements: [
+      "B.Sc. or relevant qualification in Design, Multimedia, Creative Arts, or a related field",
+      "Proficiency in at least one or more motion design software such as Adobe After Effects, Premiere Pro, Cinema 4D, Blender, or similar tools",
+      "Strong understanding of animation, transitions, and visual composition",
+      "Graphic design skills are an advantage but not compulsory"
+    ],
+    apply: 'Interested candidates should send their CV and portfolio to: <a href="mailto:recruitment@honeyworldgroup.com">recruitment@honeyworldgroup.com</a>',
+    salary: "₦200,000 – ₦300,000 per month, depending on experience level",
+    deadline: "Tuesday, 5th May 2026"
+  },
+  {
+    id: "hr-performance-manager-honeyworld-group-lagos-island-2026",
+    title: "HR Performance Manager",
+    date: "2026-05-11",
+    location: "Lagos Island, Lagos",
+    type: "Full-time",
+    seniority: "Senior",
+    company: "Honeyworld Group",
+    summary: "Highly analytical and performance-driven HR Performance Manager to build and manage systems that track productivity, improve workforce efficiency, and align compensation with measurable results at Honeyworld Group.",
+    responsibilities: [
+      "Develop and implement performance measurement systems across departments",
+      "Design KPIs, productivity tracking systems, and workforce reporting frameworks",
+      "Build salary and compensation structures tied to performance and value delivered",
+      "Develop and enforce SOPs, HR policies, and operational guidelines",
+      "Improve workforce productivity and eliminate inefficiencies",
+      "Ensure employee accountability through measurable deliverables",
+      "Work closely with operations and finance teams to align performance with business goals",
+      "Implement HR systems for tracking performance and reporting"
+    ],
+    requirements: [
+      "B.Sc. in Human Resources, Business Administration, Industrial Relations, or related field",
+      "5–8 years relevant HR experience, especially in performance management or workforce analytics",
+      "Experience in manufacturing or project-based environments is mandatory",
+      "Strong knowledge of KPI development, productivity systems, and compensation structures",
+      "Membership of CIPMN, CIPD, or SHRM is an advantage",
+      "Strong analytical, documentation, and decision-making skills"
+    ],
+    apply: 'Interested candidates should send their CV and a brief summary of measurable results achieved in previous roles to: <a href="mailto:recruitment@honeyworldgroup.com">recruitment@honeyworldgroup.com</a> Subject: HR Performance Manager Application',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "assistant-hr-honeyworld-group-lagos-island-2026",
+    title: "Assistant HR",
+    date: "2026-05-11",
+    location: "Lagos Island, Lagos",
+    type: "Full-time",
+    seniority: "Junior",
+    company: "Honeyworld Group",
+    summary: "Smart, organized, and proactive Assistant HR to support daily human resources operations at Honeyworld Group, gaining hands-on experience in recruitment, staff coordination, documentation, and workplace administration.",
+    responsibilities: [
+      "Assist with recruitment and onboarding processes",
+      "Support staff documentation and employee records management",
+      "Help coordinate attendance, leave, and HR administrative processes",
+      "Assist in implementing company policies and workplace procedures",
+      "Support general HR operations and staff communication"
+    ],
+    requirements: [
+      "B.Sc. in Human Resources, Business Administration, Industrial Relations, or a related field",
+      "Strong communication and organizational skills",
+      "Good knowledge of Microsoft Office tools is an advantage",
+      "Willingness to learn and grow in a fast-paced work environment"
+    ],
+    apply: 'Interested candidates should send their CV to: <a href="mailto:recruitment@honeyworldgroup.com">recruitment@honeyworldgroup.com</a> Subject: Assistant HR Application',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "social-media-manager-honeyworld-group-vi-lagos-2026",
+    title: "Social Media Manager",
+    date: "2026-05-11",
+    location: "Victoria Island, Lagos",
+    type: "Full-time",
+    seniority: "Mid-Level",
+    company: "Honeyworld Group",
+    summary: "Creative, organized, and results-driven Social Media Manager to manage the digital presence of Honeyworld Group and its subsidiaries, overseeing content across multiple platforms and creating compelling write-ups.",
+    responsibilities: [
+      "Manage the social media platforms of Honeyworld Group and its subsidiaries",
+      "Plan, coordinate, and oversee content creation across digital platforms",
+      "Work closely with the graphics and creative team to develop media content for posting",
+      "Write engaging captions, campaign content, and brand-aligned copy",
+      "Create content calendars and ensure consistent posting schedules",
+      "Monitor engagement, audience growth, and platform performance",
+      "Stay updated on trends and recommend ideas to improve online visibility and engagement"
+    ],
+    requirements: [
+      "B.Sc. in Marketing, Communications, Mass Communication, Media, English, or a related field",
+      "Strong writing and communication skills",
+      "Good understanding of social media platforms and content strategy",
+      "Ability to work with creative teams to deliver engaging content",
+      "Experience in social media management is an advantage but not compulsory"
+    ],
+    apply: 'Interested candidates should send their CV to: <a href="mailto:recruitment@honeyworldgroup.com">recruitment@honeyworldgroup.com</a> Subject: Social Media Manager Application',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "executive-driver-honeyworld-group-vi-lagos-2026",
+    title: "Executive Driver",
+    date: "2026-05-11",
+    location: "Victoria Island, Lagos",
+    type: "Full-time",
+    seniority: "Mid-Level",
+    company: "Honeyworld Group",
+    summary: "Responsible, professional, and safety-conscious Executive Driver to provide reliable transportation services for company executives at Honeyworld Group, familiar with Lagos routes and traffic systems.",
+    responsibilities: [
+      "Safely transport executives to meetings, appointments, and other official engagements",
+      "Maintain cleanliness and proper condition of assigned vehicle(s)",
+      "Ensure timely pick-up and drop-off schedules",
+      "Monitor vehicle maintenance needs and report issues promptly",
+      "Follow all traffic laws and company safety guidelines",
+      "Maintain professionalism, confidentiality, and discretion at all times"
+    ],
+    requirements: [
+      "Minimum of SSCE qualification",
+      "Valid driver’s license with a clean driving record",
+      "Good knowledge of Lagos roads and routes",
+      "Strong sense of professionalism and punctuality",
+      "Previous experience as an executive or corporate driver is an advantage"
+    ],
+    apply: 'Interested candidates should send their CV to: <a href="mailto:recruitment@honeyworldgroup.com">recruitment@honeyworldgroup.com</a> Subject: Executive Driver Application',
+    salary: "₦150,000 per month",
+    deadline: "Not Specified"
+  },
+  {
+    id: "senior-accountant-inventory-manufacturing-e-commerce-honeyworld-group-lagos-island-2026",
+    title: "Senior Accountant (Inventory, Manufacturing & E-Commerce Focus)",
+    date: "2026-05-11",
+    location: "Lagos Island, Lagos",
+    type: "Full-time",
+    seniority: "Senior",
+    company: "Honeyworld Group",
+    summary: "Highly skilled and detail-oriented Senior Accountant to manage financial operations across inventory, manufacturing, and e-commerce functions at Honeyworld Group, driving financial accuracy, strengthening internal controls, and providing data-driven insights.",
+    responsibilities: [
+      "Manage financial reporting, reconciliations, and monthly management accounts",
+      "Oversee inventory tracking, stock reconciliation, and valuation across business units",
+      "Monitor manufacturing costs, cost variances, and recommend cost-saving improvements",
+      "Reconcile e-commerce transactions, online sales, and payment systems",
+      "Build financial reports and dashboards to support business decisions",
+      "Monitor cash flow, financial risks, and business performance",
+      "Ensure compliance with financial regulations and internal controls"
+    ],
+    requirements: [
+      "Minimum of 5 years accounting experience in manufacturing, FMCG, or inventory-driven businesses",
+      "Professional certification such as ACCA, CPA, or CMA is required",
+      "Strong experience in inventory management, cost accounting, and production costing",
+      "Experience managing e-commerce financial operations and reconciliations",
+      "Advanced proficiency in Excel and accounting software/ERP systems",
+      "Strong analytical, problem-solving, and financial reporting skills",
+      "High attention to detail and ability to enforce financial discipline"
+    ],
+    apply: 'Interested candidates should send their CV and Cover Letter to: <a href="mailto:recruitment@honeyworldgroup.com">recruitment@honeyworldgroup.com</a> Subject: Senior Accountant (Inventory, Manufacturing & E-Commerce Focus) Application',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "legal-officer-isolo-lagos-workmen-talents-promasidor-2026",
+    title: "Legal Officer",
+    date: "2026-05-11",
+    location: "Isolo, Lagos",
+    type: "Full-time",
+    seniority: "Mid-Level",
+    summary: "Urgently recruiting for a Legal Officer in Isolo, Lagos.",
+    responsibilities: [],
+    requirements: [],
+    apply: 'Interested and qualified candidates should send their applications to: <a href="mailto:divine.nwosu@workmenandtalents.com">divine.nwosu@workmenandtalents.com</a>; <a href="mailto:divine.nwosu@promasidor.com">divine.nwosu@promasidor.com</a>',
+    salary: "₦336,671.29 Net Salary",
+    deadline: "Not Specified"
+  },
+  {
+    id: "loan-officer-mainland-ifo-ijebu-ode-2026",
+    title: "Loan Officer",
+    date: "2026-05-11",
+    location: "Mainland Offices, Ifo, Ijebu – Ode",
+    type: "Full-time",
+    seniority: "Junior",
+    company: "Guided Arrows Consulting",
+    summary: "Urgent hiring for Loan Officers to identify and recruit potential clients, assess creditworthiness, and manage loan portfolios including recovery targets, with accommodations provided.",
+    responsibilities: [
+      "Identify and recruit potential clients for loan products",
+      "Conduct client interviews and assess creditworthiness",
+      "Perform field visits for business and guarantor verification",
+      "Analyze loan applications and recommend approvals or rejections",
+      "Disburse loans in line with company policies and procedures",
+      "Monitor loan utilization and ensure proper usage",
+      "Follow up on repayments and manage delinquent accounts",
+      "Maintain accurate client records and documentation",
+      "Educate clients on loan terms, repayment plans, and financial discipline",
+      "Achieve assigned loan disbursement and recovery targets"
+    ],
+    requirements: [
+      "1–3 years experience in lending, microfinance, or sales roles is a MUST",
+      "Strong analytical and risk assessment skills",
+      "Excellent communication and interpersonal skills",
+      "Ability to work in the field and meet targets",
+      "High level of integrity and professionalism",
+      "Minimum of 2 years experience as a Loan Officer is a MUST."
+    ],
+    apply: 'Qualified candidates should send CVs to : <a href="mailto:guidedarrowsconsulting@gmail.com">guidedarrowsconsulting@gmail.com</a>',
+    salary: "₦120,000 - ₦150,000",
+    deadline: "Not Specified"
+  },
+  {
+    id: "it-support-structured-resource-lagos-2026",
+    title: "IT Support",
+    date: "2026-05-11",
+    location: "Lagos",
+    type: "Full-time",
+    seniority: "Junior",
+    company: "Structured Resource",
+    summary: "To monitor and maintain the computer systems and networks of the organization and provide technical assistance and support to employees.",
+    responsibilities: [
+      "Install and configure computer hardware, operating systems, and applications.",
+      "Monitor and maintain computer systems and networks.",
+      "Troubleshoot system and network problems, diagnosing and solving hardware or software faults.",
+      "Resolve issues for staff via phone, in person, or electronically.",
+      "Replace parts as required.",
+      "Provide support, including procedural documentation and relevant reports.",
+      "Follow diagrams and written instructions to repair a fault or set up a system.",
+      "Support the roll-out of new applications.",
+      "Set up new users’ accounts and profiles and deal with password issues.",
+      "Respond within agreed time limits to call-outs.",
+      "Work continuously on a task until completion (or referral to third parties, if appropriate).",
+      "Prioritize and manage many open cases at one time.",
+      "Test and evaluate new technology."
+    ],
+    requirements: [
+      "Bachelor’s degree in Computer Science, Information Technology, Computer Engineering, or other related field is required.",
+      "Hardware knowledge.",
+      "Strong troubleshooting and critical thinking skills.",
+      "Previous working experience in IT Support."
+    ],
+    apply: '<a href="https://structurederp.structuredresource.com/jobs/it-support-executive-297">https://structurederp.structuredresource.com/jobs/it-support-executive-297</a>',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "maintenance-manager-wellborn-hotels-vgc-ikota-lagos-2026",
+    title: "Maintenance Manager",
+    date: "2026-05-11",
+    location: "VGC, Ikota – Lagos",
+    type: "Full-time",
+    seniority: "Senior",
+    company: "Wellborn Hotels",
+    summary: "Experienced and proactive Maintenance Manager to oversee the maintenance, safety, and efficient operation of all hotel facilities and infrastructure, ensuring all systems and equipment are functioning optimally.",
+    responsibilities: [
+      "Oversee day-to-day maintenance of the hotel’s physical infrastructure, including electrical systems, HVAC, plumbing, generators, building fabric, and grounds",
+      "Develop and implement preventive and corrective maintenance schedules to minimise equipment downtime",
+      "Supervise and coordinate the maintenance team, including task allocation, training, and performance management",
+      "Diagnose faults and ensure timely repairs of all equipment and facility systems",
+      "Ensure compliance with health, safety, environmental, and regulatory standards",
+      "Manage external vendors, contractors, and service providers for maintenance works and projects",
+      "Conduct regular inspections of facilities, equipment, and safety systems to ensure operational efficiency",
+      "Maintain accurate maintenance records, logs, and reports",
+      "Collaborate with other departments (Housekeeping, Front Office, Food & Beverage, etc.) to ensure seamless operations and guest satisfaction"
+    ],
+    requirements: [
+      "Minimum of 5 years’ experience in maintenance management, preferably in a hotel or hospitality environment",
+      "Expertise in electrical and electronics repairs is very important",
+      "Strong technical knowledge of building systems (electrical, mechanical, plumbing, HVAC, generators)",
+      "Proven experience managing maintenance teams and working with contractors/vendors",
+      "Excellent troubleshooting, organisational, and communication skills",
+      "Ability to work under pressure, prioritise tasks, and respond effectively to emergencies",
+      "Must reside on the Island"
+    ],
+    apply: 'Send your CV to: <a href="mailto:hrm@wellbornhotels.com">hrm@wellbornhotels.com</a> or WhatsApp <a href="https://wa.me/2348118236959">08118236959</a>',
+    salary: "Attractive",
+    deadline: "Not Specified"
+  },
+  {
+    id: "junior-interior-architect-the-startup-place-ajao-estate-lagos-2026",
+    title: "Junior Interior Architect",
+    date: "2026-05-11",
+    location: "Ajao Estate, Lagos",
+    type: "Full-time",
+    seniority: "Junior",
+    company: "The Startup Place",
+    summary: "Junior Interior Architect with 1-3 years of experience, eager and ready to work, with knowledge of interior design, for an Interior Design Firm.",
+    responsibilities: [
+      "Design and develop interior architectural concepts",
+      "Collaborate with design team",
+      "Support project execution"
+    ],
+    requirements: [
+      "1-3 years experience",
+      "Knowledge of interior design",
+      "Eager and ready to work"
+    ],
+    apply: 'Send CV and Portfolio to : <a href="mailto:hr@thestartupplaceng.com">hr@thestartupplaceng.com</a>',
+    salary: "₦180,000-200,000",
+    deadline: "Not Specified"
+  },
+  {
+    id: "project-manager-architect-ilupeju-lagos-2026",
+    title: "Project Manager (Architect)",
+    date: "2026-05-11",
+    location: "Ilupeju, Lagos",
+    type: "Full-time",
+    seniority: "Senior",
+    summary: "Highly experienced and strategic Architect Project Manager to lead real estate development projects from concept to completion, possessing strong architectural expertise and project management capability.",
+    responsibilities: [
+      "Lead and manage architectural and construction projects end-to-end",
+      "Review and interpret architectural drawings, designs, and specifications",
+      "Coordinate with contractors, consultants, and internal stakeholders",
+      "Ensure timely delivery of projects within budget and quality standards",
+      "Monitor project progress and provide detailed reports",
+      "Manage project budgets, timelines, and resource allocation",
+      "Ensure compliance with regulatory, safety, and building standards",
+      "Identify risks and implement mitigation strategies",
+      "Drive operational efficiency across projects",
+      "Support executive management with strategic planning"
+    ],
+    requirements: [
+      "Bachelor’s Degree in Architecture (Compulsory)",
+      "Master’s Degree in Architecture or related field (Compulsory)",
+      "Proven experience in architectural project management within real estate",
+      "Strong leadership and team management skills",
+      "In-depth knowledge of construction processes and project lifecycle",
+      "Strong financial, analytical, and operational skills",
+      "Ability to manage multiple high-value projects",
+      "High level of professionalism, strategic thinking, and accountability"
+    ],
+    apply: '<a href="https://bit.ly/3PDo9Pk">https://bit.ly/3PDo9Pk</a>',
+    salary: "₦500,000",
+    deadline: "Not Specified"
+  },
+  {
+    id: "internal-audit-officer-proctor-house-company-limited-vi-lagos-2026",
+    title: "Internal Audit Officer",
+    date: "2026-05-11",
+    location: "Victoria Island Lagos, Nigeria",
+    type: "Full-time",
+    seniority: "Mid-Level",
+    company: "Proctor House Company Limited",
+    summary: "Detail-oriented and analytical Internal Audit Officer to support Governance, Risk, and Compliance function, assisting in evaluating internal controls, ensuring compliance with policies, and identifying areas for operational improvement.",
+    responsibilities: [
+      "Conduct routine audit inspections across hotel locations to assess compliance with operational standards",
+      "Perform physical stock counts (food & beverage, store items, consumables, etc.) and reconcile with inventory records",
+      "Verify cash balances, revenue records, and supporting documentation during site visits",
+      "Identify discrepancies, control lapses, and areas of inefficiency during inspections",
+      "Document audit findings and support the preparation of audit reports",
+      "Follow up on previously identified issues to ensure timely resolution",
+      "Ensure compliance with company policies, procedures, and internal controls",
+      "Assist in monitoring high-risk areas such as inventory management, cash handling, and asset utilization",
+      "Support the Internal Audit team in executing planned audit engagements"
+    ],
+    requirements: [
+      "B.Sc./HND in Accounting or any related discipline",
+      "2 years’ relevant work experience in audit, accounting, or compliance",
+      "Professional qualification (AAT) is required",
+      "Basic understanding of internal audit principles, Risk Management and financial controls",
+      "Strong analytical and problem-solving skills",
+      "Good communication and report writing skills",
+      "Proficiency in Microsoft Office tools",
+      "Prior experience in the hospitality industry will be an added advantage."
+    ],
+    apply: 'Interested and qualified candidates should send their CV to <a href="mailto:Proctorhouse3@gmail.com">Proctorhouse3@gmail.com</a> with the subject: Application for Internal Audit Officer',
+    salary: "₦300,000 monthly gross",
+    deadline: "Not Specified"
+  },
+  {
+    id: "junior-accountant-av-distribution-lekki-lagos-2026",
+    title: "Junior Accountant",
+    date: "2026-05-11",
+    location: "Lekki, Lagos",
+    type: "Full-time",
+    seniority: "Junior",
+    summary: "Junior Accountant to support the Finance function in delivering accurate, timely, and well-controlled financial operations, strengthening discipline and accuracy of day-to-day financial transactions.",
+    responsibilities: [
+      "Daily Bookkeeping and Transaction Processing",
+      "Accounts Receivable & Accounts Payable",
+      "Inventory Recording and Reconciliation",
+      "Petty Cash Management",
+      "Statutory Compliance and Tax Remittance",
+      "Audit Support",
+      "Payroll Support",
+      "Reporting Support"
+    ],
+    requirements: [
+      "Minimum BSC in accounting and related field",
+      "3 – 5 years post NYSC experience in a similar role",
+      "Professional Certifications like ICAN, ACCA, ACA is an added advantage"
+    ],
+    apply: 'Interested and qualified candidates should send their resume using the job title as subject of the mail Email: <a href="mailto:talents@ced.africa">talents@ced.africa</a>',
+    salary: "250k – 300k",
+    deadline: "Not Specified"
+  },
+  {
+    id: "business-support-analyst-structured-resource-lagos-2026",
+    title: "Business Support Analyst",
+    date: "2026-05-11",
+    location: "Lagos",
+    type: "Full-time",
+    seniority: "Mid-Level",
+    company: "Structured Resource",
+    summary: "Support business development by understanding customer needs, sourcing for best prices, analyzing the market, and maintaining vendor relationships.",
+    responsibilities: [
+      "Understand customer needs and requirements.",
+      "Listen attentively to consumer questions and provide knowledgeable and insightful answers to encourage product sales.",
+      "Respond swiftly and courteously to customer complaints or inquiries.",
+      "Work on Requests for Quotes (RFQs) and source for the best prices.",
+      "Analyze the market and establish competitive advantages.",
+      "Maintain relationships with new and existing vendors.",
+      "Route qualified opportunities to the appropriate sales executives for further development and closure.",
+      "Maintain and expand the database of prospects within the assigned territory.",
+      "Work closely with the line manager to build the sales pipeline and close deals.",
+      "Monitor the sales pipeline from inception to completion and fill gaps when required.",
+      "Monitor Purchase Order processes and follow through every stage until delivery to the client.",
+      "Handle after-sales support to clients.",
+      "Source new sales opportunities through inbound lead follow-up and outbound cold calls and emails.",
+      "Maintain a database of new and existing clients and regularly update the list.",
+      "Maintain an organized workspace and properly file documents, updates, and product information for easy accessibility.",
+      "Regularly follow up with clients via phone calls and emails on quotations sent.",
+      "Build rapport with clients and vendors through friendly and engaging communication.",
+      "Keep up with product and service information updates.",
+      "Participate in weekly meetings to discuss benchmarks and team goals.",
+      "Prioritize and plan work activities effectively while managing time efficiently.",
+      "Maintain attention to detail, accuracy, and thoroughness when handling tasks.",
+      "Demonstrate flexibility to perform different tasks and support team members in daily activities."
+    ],
+    requirements: [
+      "Bachelor’s degree in Business Administration or related field.",
+      "2–4 years of experience in Operations.",
+      "Proficiency in the use of Microsoft Office Suite.",
+      "Excellent writing and editing skills in English."
+    ],
+    apply: '<a href="https://structurederp.structuredresource.com/jobs/sourcing-specialist-295">https://structurederp.structuredresource.com/jobs/sourcing-specialist-295</a>',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "social-media-person-content-creator-the-startup-place-lagos-2026",
+    title: "Social Media Person / Content Creator",
+    date: "2026-05-11",
+    location: "Lagos (Island)",
+    type: "Full-time",
+    seniority: "Mid-Level",
+    company: "The Startup Place",
+    summary: "Vibrant, creative, and hands-on Social Media Person/Content Creator to take full ownership of digital presence, creating engaging and sales-driven content for a Food Production company.",
+    responsibilities: [
+      "Create engaging and creative content (videos, reels, posts) for daily social media use",
+      "Develop and suggest innovative content ideas to promote products, events, and services",
+      "Manage and post content across all social media platforms consistently",
+      "Handle customer inquiries, messages, and comments promptly and professionally",
+      "Cover live events and create real-time content"
+    ],
+    requirements: [
+      "Proven experience in content creation or social media management",
+      "Strong interest in content creation, video editing, and digital storytelling",
+      "Ability to use editing tools such as CapCut, Canva, or similar applications.",
+      "Creative thinker with the ability to generate fresh ideas consistently",
+      "Good communication and customer engagement skills",
+      "Ability to work full-time and be available during events and peak periods"
+    ],
+    apply: 'Interested candidates should send their CV and portfolio or sample content (very important) to: <a href="mailto:hr@thestartupplaceng.com">hr@thestartupplaceng.com</a> Subject Line: Social Media Person/ Content Creator',
+    salary: "₦180,000-200,000",
+    deadline: "Not Specified"
+  },
+  {
+    id: "branch-manager-mfi-guided-arrows-consulting-mainland-ifo-sango-ijebu-ode-2026",
+    title: "Branch Manager (MFI)",
+    date: "2026-05-11",
+    location: "Mainland, Ifo, Sango Ijebu – Ode",
+    type: "Full-time",
+    seniority: "Senior",
+    company: "Guided Arrows Consulting",
+    summary: "Hands-on, results-driven Branch Manager with proven experience in microfinance operations, capable of driving loan portfolio growth, ensuring high repayment rates, and leading a disciplined, high-performing team.",
+    responsibilities: [
+      "Drive branch growth through aggressive client acquisition and loan disbursement",
+      "Manage and grow a high-quality loan portfolio with minimal risk exposure",
+      "Supervise and lead Loan Officers to achieve disbursement and recovery targets",
+      "Ensure strict adherence to credit policies, procedures, and regulatory standards",
+      "Oversee credit appraisal, loan approvals (within limit), and disbursement processes",
+      "Monitor loan repayment performance and proactively manage delinquent accounts",
+      "Conduct field visits for client verification, monitoring, and recovery support",
+      "Ensure excellent customer service and strong client relationship management",
+      "Prepare and submit periodic performance and portfolio reports",
+      "Manage branch operations including cash handling, documentation, and compliance",
+      "Train, coach, and enforce discipline within the branch team"
+    ],
+    requirements: [
+      "HND/BSC in any relevant field.",
+      "Minimum of 3 years’ experience in a Microfinance Institution (MFI), with at least 1–2 years in a supervisory or managerial role",
+      "Proven track record of meeting loan disbursement and recovery targets",
+      "Strong knowledge of microfinance operations, credit risk, and portfolio management",
+      "Must be highly hardworking, proactive, and target-driven",
+      "Willingness to work extended hours and spend significant time in the field",
+      "PLEASE DON’T APPLY IF YOU HAVE NOT WORKED IN AN MFI AS A BRANCH SUPERVISOR/MANAGER"
+    ],
+    apply: 'Send CV: <a href="mailto:guidedarrowsconsulting@gmail.com">guidedarrowsconsulting@gmail.com</a>',
+    salary: "₦200,000 - ₦250,000",
+    deadline: "Not Specified"
+  },
+  {
+    id: "nysc-culinary-instructor-the-startup-place-lekki-phase-1-lagos-2026",
+    title: "NYSC Culinary Instructor (Female)",
+    date: "2026-05-11",
+    location: "Lekki Phase 1, Lagos",
+    type: "Internship",
+    seniority: "Junior",
+    company: "The Startup Place",
+    summary: "Culinary Instructor to teach children and teenagers baking, cooking, and basic kitchen skills in a fun and engaging environment, with accommodation available.",
+    responsibilities: [
+      "Teach children and teenagers baking, cooking, and basic kitchen skills"
+    ],
+    requirements: [
+      "Preferably 2026 A2 Batch corps member",
+      "Educational background in Home Economics, Food Science, Nutrition, Catering, or related field OR Basic hands-on experience in baking and cooking",
+      "Good communication and teaching skills",
+      "Must enjoy working with children and teenagers"
+    ],
+    apply: 'Interested applicants should send their CV to: <a href="mailto:hr@thestartupplaceng.com">hr@thestartupplaceng.com</a>',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "office-attendant-jobkonnect-new-gbagi-iwo-road-ibadan-oyo-state-2026",
+    title: "Office attendant",
+    date: "2026-05-11",
+    location: "New Gbagi, Iwo Road Ibadan, Oyo State",
+    type: "Full-time",
+    seniority: "Junior",
+    company: "Jobkonnect",
+    summary: "Motivated and results-driven Sales Personnel to join various organizations across multiple sectors as an Office Attendant, promoting and selling company products/services.",
+    responsibilities: [
+      "Promote and sell company products/services",
+      "Identify and approach potential customers",
+      "Maintain good relationships with clients",
+      "Good communication and negotiation skills",
+      "Must be confident",
+      "Basic knowledge of Excel"
+    ],
+    requirements: [
+      "Previous sales experience is an added advantage"
+    ],
+    apply: 'Send your CV to: <a href="mailto:jobkonnect92@gmail.com">jobkonnect92@gmail.com</a> or Phone : <a href="tel:09029897096">09029897096</a>',
+    salary: "₦70,000-₦90,000",
+    deadline: "Not Specified"
+  },
+  {
+    id: "accountant-gbagada-lagos-2026",
+    title: "Accountant",
+    date: "2026-05-11",
+    location: "Gbagada, Lagos",
+    type: "Full-time",
+    seniority: "Mid-Level",
+    summary: "Accountant responsible for managing financial records, ensuring compliance with regulatory standards, and supporting accurate financial reporting in the financial services sector.",
+    responsibilities: [
+      "Prepare and maintain accurate financial records, reports, and statements",
+      "Manage accounts payable and receivable processes",
+      "Reconcile bank statements and ensure timely resolution of discrepancies",
+      "Assist in the preparation of monthly, quarterly, and annual financial reports",
+      "Monitor budgets and support cost control initiatives",
+      "Ensure compliance with financial regulations, tax laws, and company policies",
+      "Process payroll and statutory remittances (e.g., PAYE, pension, VAT)",
+      "Support internal and external audit processes",
+      "Maintain proper documentation of financial transactions and records",
+      "Provide financial insights to support business decision-making"
+    ],
+    requirements: [
+      "Bachelor’s degree in Accounting, Finance, or related field",
+      "4–5 years of relevant accounting experience",
+      "Professional certification (ICAN, ACCA or in view) is an added advantage",
+      "Strong knowledge of accounting principles and financial reporting",
+      "Proficiency in accounting software and Microsoft Excel",
+      "High level of accuracy and attention to detail",
+      "Good analytical and problem-solving skills",
+      "Strong organizational and time management abilities"
+    ],
+    apply: '<a href="https://forms.gle/FtNb29vahxkKTYj36">https://forms.gle/FtNb29vahxkKTYj36</a>',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "relationship-manager-business-development-officer-gbagada-lagos-2026",
+    title: "Relationship Manager / Business Development Officer",
+    date: "2026-05-11",
+    location: "Gbagada, Lagos",
+    type: "Full-time",
+    seniority: "Mid-Level",
+    summary: "Source and onboard qualified clients for loan products, conduct client screening, structure loan requests, and build a consistent pipeline of prospects in the financial services sector.",
+    responsibilities: [
+      "Source and onboard qualified clients for loan products (individuals, SMEs, and corporate clients) in line with the company’s risk appetite",
+      "Conduct initial client screening, including business viability checks, cash flow assessment, and documentation review, before forwarding to Credit",
+      "Structure loan requests (tenor, pricing, repayment plan) to align with internal credit guidelines and client capacity",
+      "Build and maintain a consistent pipeline of prospects through field visits, referrals, and partnerships with merchants, aggregators, and business networks",
+      "Follow up on approved loans to ensure timely disbursement, proper documentation execution, and client understanding of repayment terms",
+      "Track client repayment behaviour post-disbursement and escalate early warning signals (delays, defaults) to Risk and Collections teams",
+      "Maintain accurate records of client interactions, pipeline status, and deal progress using internal tracking tools",
+      "Provide market feedback on competitor activities, client trends, and product gaps to inform business strategy",
+      "Ability to meet the target set."
+    ],
+    requirements: [
+      "Minimum of 3 – 6 years experience in business development, sales, or relationship management within a financial institution (lending, microfinance, fintech, or banking)",
+      "Proven track record of meeting or exceeding sales or loan disbursement targets",
+      "Strong understanding of credit processes, loan structuring, and basic financial analysis",
+      "Experience working with SMEs, traders, or corporate clients in the Nigerian market",
+      "Familiarity with regulatory expectations affecting lending practices (e.g., basic CBN guidelines)"
+    ],
+    apply: '<a href="https://forms.gle/FtNb29vahxkKTYj36">https://forms.gle/FtNb29vahxkKTYj36</a>',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "medical-doctor-consultant-vi-lagos-2026",
+    title: "Medical Doctor / Consultant",
+    date: "2026-05-11",
+    location: "VI, Lagos",
+    type: "Full-time",
+    seniority: "Senior",
+    summary: "Highly qualified and experienced Medical Doctor / Consultant to provide clinical expertise, medical advisory support, and occupational health guidance within a corporate financial services environment.",
+    responsibilities: [
+      "Provide expert medical consultation, diagnosis, and treatment recommendations where applicable",
+      "Offer clinical advisory services within a corporate financial services environment",
+      "Support the development and implementation of health strategies, medical policies, and wellness frameworks",
+      "Review and interpret medical cases, reports, and health-related documentation",
+      "Collaborate with internal teams to promote employee health, safety, and wellbeing",
+      "Provide clinical oversight and guidance where required, including general hospital or external medical coordination",
+      "Ensure compliance with medical ethics, regulatory standards, and corporate governance policies",
+      "Contribute to continuous improvement of occupational health and wellness initiatives"
+    ],
+    requirements: [
+      "Bachelor of Medicine, Bachelor of Surgery (MBBS / MBChB) is mandatory",
+      "Additional qualification: MBA or MA in a relevant field (Health Management, Administration, or related discipline)",
+      "5–10 years of post-qualification clinical experience",
+      "Proven experience as: 1. A Medical Consultant within a corporate or organisational setting, and/or a practising Medical Doctor in a General Hospital environment 2. Experience working within or advising corporate institutions is an added advantage",
+      "Strong clinical judgment, diagnostic, and problem-solving skills",
+      "Excellent communication, leadership, and interpersonal abilities",
+      "Ability to operate effectively in both clinical and corporate environments"
+    ],
+    apply: '<a href="https://forms.gle/FtNb29vahxkKTYj36">https://forms.gle/FtNb29vahxkKTYj36</a>',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "compliance-officer-gbagada-lagos-2026",
+    title: "Compliance Officer",
+    date: "2026-05-11",
+    location: "Gbagada, Lagos",
+    type: "Full-time",
+    seniority: "Mid-Level",
+    summary: "Compliance Officer to review customer onboarding files, monitor daily transactions, act as point of contact for regulatory bodies, and maintain compliance policies in the financial services sector.",
+    responsibilities: [
+      "Review customer onboarding files and credit documentation to ensure full KYC compliance before loan disbursement",
+      "Monitor daily transactions and flag unusual patterns; escalate and file Suspicious Transaction Reports (STRs) where required",
+      "Act as the point of contact for regulatory bodies, including CBN, ensuring timely and accurate filings (returns, reports, queries)",
+      "Maintain and update compliance policies to reflect current regulatory changes and internal process adjustments",
+      "Conduct periodic compliance audits across all departments to identify gaps and enforce corrective actions",
+      "Lead internal investigations into compliance breaches, documenting findings and recommending disciplinary or control measures",
+      "Design and deliver targeted compliance training sessions, especially for frontline teams handling customers and transactions"
+    ],
+    requirements: [
+      "Minimum of 3 – 5 years’ experience in compliance, risk or audit within a financial institution (lending, microfinance, fintech, or banking)",
+      "Hands-on experience with AML/CFT frameworks, KYC processes, and transaction monitoring",
+      "Working knowledge of CBN regulations, reporting requirements, and Nigerian financial compliance standards",
+      "Experience interacting with regulators or supporting regulatory audits/inspections",
+      "Exposure to credit processes and the loan lifecycle within a finance company is strongly preferred"
+    ],
+    apply: '<a href="https://forms.gle/FtNb29vahxkKTYj36">https://forms.gle/FtNb29vahxkKTYj36</a>',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "recruitment-officer-oppo-nigeria-lagos-2026",
+    title: "Recruitment Officer",
+    date: "2026-05-11",
+    location: "Lagos",
+    type: "Full-time",
+    seniority: "Mid-Level",
+    company: "OPPO Nigeria",
+    summary: "Proactive Recruitment Officer to manage end-to-end hiring, sourcing, screening, and on-boarding top talent while ensuring a smooth and positive candidate experience in a fast-paced environment at OPPO Nigeria.",
+    responsibilities: [
+      "Manage the full recruitment cycle from sourcing to on-boarding",
+      "Source candidates via job boards, social media, and referrals",
+      "Screen CVs and conduct initial interviews",
+      "Coordinate interviews with hiring managers",
+      "Maintain recruitment trackers and candidate databases",
+      "Partner with departments to understand hiring needs",
+      "Support offer processes and on-boarding"
+    ],
+    requirements: [
+      "Minimum of 2 years’ recruitment experience",
+      "Bachelor’s degree in HR, Business Administration, or related field",
+      "Strong communication and organizational skills",
+      "Ability to manage multiple roles and meet deadlines",
+      "Proficiency in Microsoft Office and/or HR tools",
+      "High level of professionalism and attention to detail",
+      "Preferred: Experience in high-volume recruitment, Familiarity with ATS, Strong negotiation and interpersonal skills"
+    ],
+    apply: 'Interested and qualified candidates should send their CV to <a href="mailto:cvpool2021@oppo-aed.ng">cvpool2021@oppo-aed.ng</a> with the subject line: “Recruitment Officer Application – Lagos”',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "executive-assistant-to-the-md-ikoyi-lagos-structured-resource-2026",
+    title: "Executive Assistant to the MD",
+    date: "2026-05-11",
+    location: "Ikoyi Lagos",
+    type: "Full-time",
+    seniority: "Senior",
+    company: "Structured Resource",
+    summary: "High-level administrative, strategic, and operational support to the Managing Director in an EPCIM environment, ensuring seamless communication, project tracking, and executive decision support.",
+    responsibilities: [
+      "Executive & Administrative Support: Manage the MD’s calendar, appointments, and travel logistics (local & international). Prepare and review correspondence, reports, presentations, and briefing notes. Screen calls, emails, and requests, ensuring prioritization and timely responses. Organize and coordinate executive meetings, including agendas and minutes.",
+      "Strategic Coordination & Follow-ups: Track and monitor key projects across EPCIM functions to ensure deadlines are met. Follow up with department heads (Engineering, Procurement, Construction, etc.) on deliverables. Support the MD in executing strategic initiatives and business priorities. Prepare dashboards and status reports for executive decision-making.",
+      "Communication & Stakeholder Management: Serve as a liaison between the MD and internal/external stakeholders. Coordinate communication with clients, vendors, regulators, and partners. Maintain confidentiality in all executive matters.",
+      "Documentation & Reporting: Maintain organized records of contracts, reports, and executive documents. Assist in preparing board reports, management reports, and business proposals. Ensure proper documentation of meetings, decisions, and action items.",
+      "Project & Operations Support: Assist in tracking project milestones, risks, and performance metrics. Support procurement and contract documentation processes where required. Coordinate site visit schedules and logistics for the MD.",
+      "Office & Executive Coordination: Ensure smooth day-to-day operations of the MD’s office. Coordinate special projects, events, and executive engagements. Handle sensitive issues with professionalism and discretion."
+    ],
+    requirements: [
+      "Education: Bachelor’s Degree in Business Administration, Management, or related field.",
+      "Experience: 4+ years experience as an Executive Assistant, preferably in EPC, construction, oil & gas, or related industries.",
+      "Skills & Competencies: Strong organizational and multitasking abilities. Excellent written and verbal communication skills. High level of discretion and confidentiality. Proficiency in Microsoft Office Suite (Excel, PowerPoint, Word). Knowledge of project management tools is an added advantage. Ability to work in a fast-paced, deadline-driven environment."
+    ],
+    apply: '<a href="https://structurederp.structuredresource.com/jobs/executive-assistant-294">https://structurederp.structuredresource.com/jobs/executive-assistant-294</a>',
+    salary: "₦200,000 - ₦450,000",
     deadline: "Not Specified"
   },
   {

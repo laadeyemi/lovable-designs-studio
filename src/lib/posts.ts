@@ -10,6 +10,52 @@ export type Post = {
 
 const allPosts: Post[] = [
   {
+    id: "fg-removes-utme-nce-admission-2026",
+    title: "FG Removes UTME Requirement for NCE Admission in Nigeria",
+    category: "Education",
+    date: "2026-05-12",
+    excerpt: "The Federal Government has announced that candidates seeking admission into Nigeria Certificate in Education (NCE) programmes will no longer need to sit for the Unified Tertiary Matriculation Examination (UTME).",
+    content:
+      `<h2>FG Removes UTME Requirement for NCE Admission in Nigeria</h2>
+      <p>The Federal Government has announced a significant change for candidates seeking admission into Nigeria Certificate in Education (NCE) programmes: they will no longer be required to sit for the Unified Tertiary Matriculation Examination (UTME). This move aims to address the issue of available admission spaces in Colleges of Education and attract more individuals to the teaching profession.</p>
+      <p>The announcement was made by Maruf Tunji Alausa during the 2026 Policy Meeting on Admissions into Tertiary Institutions, held at the Body of Benchers. Under this new policy, prospective NCE students can now apply with at least four credit passes, bypassing the UTME.</p>
+      <p>According to the Minister, this decision was influenced by data from the Joint Admissions and Matriculation Board (JAMB), which indicated that many Colleges of Education still have vacant admission slots. The government believes this policy will encourage more young Nigerians to pursue teacher education, particularly those from communities where financial constraints, geographical distance, and limited opportunities often hinder access to higher education.</p>
+      <h3>JAMB Registration Still Required</h3>
+      <p>Despite the removal of the UTME requirement for NCE applicants, the Minister clarified that all affected candidates must still register with JAMB. Admissions will continue to be processed through the Central Admissions Processing System (CAPS), where candidates’ credentials will undergo thorough screening and verification before admission letters are issued. The Minister issued a stern warning against institutions conducting admissions outside CAPS, emphasizing that such practices remain illegal.</p>
+      <h3>Minimum Admission Age Remains 16</h3>
+      <p>The Federal Government also reaffirmed that the minimum admission age for tertiary institutions remains 16 years. This age policy, according to the Minister, remains unchanged following extensive consultations with various stakeholders in the education sector.</p>
+      <h3>Colleges of Education Expected to Benefit</h3>
+      <p>This new policy is anticipated to significantly benefit Colleges of Education by enabling them to utilize their available admission spaces more effectively. By making teacher education more accessible, the government hopes to address the challenge of out-of-school adolescents and improve the supply of qualified teachers across the country.</p>`,
+    tags: ["NCE", "UTME", "Admission", "Education", "Nigeria", "JAMB", "2026"],
+  },
+  {
+    id: "fg-waives-utme-agricultural-nd-2026",
+    title: "FG Waives UTME for Selected Agricultural ND Courses, Pushes Wider Education Reforms",
+    category: "Education",
+    date: "2026-05-12",
+    excerpt: "The Federal Government has approved the removal of the Unified Tertiary Matriculation Examination (UTME) requirement for candidates seeking admission into selected National Diploma (ND) programmes in agriculture and agriculture-related fields.",
+    content:
+      `<h2>FG Waives UTME for Selected Agricultural ND Courses, Pushes Wider Education Reforms</h2>
+      <p>The Federal Government has approved the waiver of the Unified Tertiary Matriculation Examination (UTME) requirement for candidates seeking admission into specific National Diploma (ND) programmes in agriculture and agriculture-related fields. This initiative is part of broader efforts to bolster national development in the agricultural sector.</p>
+      <p>Maruf Tunji Alausa announced this policy during the 2026 Policy Meeting on Admissions into Tertiary Institutions in Abuja. The waiver applies specifically to non-technology agricultural and agriculture-related ND programmes, aiming to attract more young Nigerians into these crucial educational pathways.</p>
+      <h3>JAMB Registration and CAPS Still Mandatory</h3>
+      <p>Even though candidates for the affected agricultural ND programmes will not need to write the UTME, they are still required to register with JAMB. The Minister reiterated that all admissions must continue to be processed through the Central Admissions Processing System (CAPS). This system ensures that candidates’ credentials are verified before admission letters are issued. Institutions were warned against bypassing CAPS, as admissions conducted outside this approved system are illegal and may lead to sanctions.</p>
+      <h3>Student Loan Scheme and Digital Education Reforms</h3>
+      <p>The Minister also highlighted ongoing wider education reforms in Nigeria. He specifically mentioned the student loan initiative, which operates under the <a href="https://nelfund.gov.ng">Nigerian Education Loan Fund</a>, as part of efforts to reduce financial barriers for students through interest-free education loans.</p>
+      <p>Furthermore, the Federal Government is focusing on several key areas to modernize the education sector:</p>
+      <ul>
+        <li>Expanding computer-based testing</li>
+        <li>Improving digital learning skills</li>
+        <li>Strengthening examination monitoring</li>
+        <li>Combating examination malpractice through enhanced verification systems</li>
+      </ul>
+      <h3>Support for Students With Disabilities</h3>
+      <p>The Joint Admissions and Matriculation Board (JAMB) received commendation from the Minister for its support of Persons Living with Disabilities, including fee waivers and other inclusive measures. Tertiary institutions were urged to create learning environments that ensure dignity and proper support for every student.</p>
+      <h3>FG Speaks on ASUU Agreement</h3>
+      <p>Alausa also described the 2025 agreement between the Federal Government and the Academic Staff Union of Universities (ASUU) as a positive development. He noted that this agreement is a step towards improving staff welfare, funding, and stability within Nigerian universities. He concluded by calling on all stakeholders in the education sector to support these ongoing reforms, which are designed to enhance access, quality, and accountability in tertiary education.</p>`,
+    tags: ["UTME", "ND Courses", "Agriculture", "Education Reform", "JAMB", "Nigeria", "2026"],
+  },
+  {
     id: "ucth-fake-admission-warning-fraudulent-requests-2026",
     title: "UCTH Warns Public Against Fake Admission Offers and Fraudulent Payment Requests",
     category: "Education",

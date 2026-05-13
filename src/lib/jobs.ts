@@ -16,6 +16,243 @@ export type Job = {
 
 const allJobs: Job[] = [
   {
+    id: "head-of-operations-gbagada-lagos-2026",
+    title: "Head of Operations",
+    date: "2026-05-13",
+    location: "Gbagada, Lagos",
+    type: "Full-time",
+    seniority: "Senior",
+    summary: "Strategic leader to oversee, optimize, and drive operational excellence across trade, manufacturing, and supply chain functions in a structured environment.",
+    responsibilities: [
+      "Oversee, optimize, and drive operational excellence across the organization",
+      "Lead operational management and facility oversight",
+      "Implement process improvements and strategic leadership",
+      "Manage operations within a structured manufacturing environment"
+    ],
+    requirements: [
+      "Minimum of 8–10 years’ experience in operations management, with at least 5 years in a managerial role",
+      "HND/B.Sc. in Engineering, Business Administration, Social Sciences, or related discipline",
+      "MBA or Master’s degree in Operations or related field is an added advantage",
+      "Experience in manufacturing, trade, logistics, or structured operations environments"
+    ],
+    apply: 'Interested candidates can share their profile resume via mail to: <a href="mailto:contact@mrwilliams.com.ng">contact@mrwilliams.com.ng</a>',
+    salary: "₦700,000 – ₦750,000 Net plus Benefits (Annual Leave, Housing, Communication, HMO & Pension)",
+    deadline: "Not Specified"
+  },
+  {
+    id: "lbs-young-talents-programme-lagos-2026",
+    title: "Young Talents Programme 2026",
+    date: "2026-05-13",
+    location: "Lagos",
+    type: "Internship",
+    seniority: "Junior",
+    company: "Lagos Business School",
+    summary: "High-impact development programme for top-tier graduates to transition into the professional world.",
+    responsibilities: [
+      "Participate in the Lagos Business School Young Talents Programme activities"
+    ],
+    requirements: [
+      "First Class or Second Class Upper degree holders",
+      "Under 30 years old at the time of application",
+      "Currently undergoing or have completed NYSC",
+      "Master’s degree holders or candidates (optional)",
+      "Previous YTP participants are not eligible"
+    ],
+    apply: '<a href="https://events.lbs.edu.ng/YTP26">Click here to apply online</a>',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "architect-civil-engineer-interns-nysc-abuja-popville-2026",
+    title: "Architect/ Civil Engineer Interns – NYSC",
+    date: "2026-05-13",
+    location: "Abuja",
+    type: "Internship",
+    seniority: "Junior",
+    company: "Popville Luxury Homes",
+    summary: "Passionate and driven Architects and Civil Engineers to join a luxury home development team.",
+    responsibilities: [
+      "Support architectural design and civil engineering projects",
+      "Collaborate with the construction and design teams",
+      "Assist in project site monitoring and documentation"
+    ],
+    requirements: [
+      "Background in Architecture or Civil Engineering",
+      "Currently serving as an NYSC member",
+      "Passionate and driven mindset"
+    ],
+    apply: '<a href="https://docs.google.com/forms/d/e/1FAIpQLSdK7DFVIIn-cX5cQgAJsp64FTwHrraZXloSSaGB3p_gCf4kTQ/viewform">Click here to apply online</a>',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "graduate-management-trainee-dufil-prima-foods-2026",
+    title: "Graduate Management Trainee Programme",
+    date: "2026-05-13",
+    location: "Multiple Locations",
+    type: "Full-time",
+    seniority: "Junior",
+    company: "Dufil Prima Foods Ltd",
+    summary: "Competitive trainee programme for First Class graduates in engineering and sciences looking to start a career in the FMCG sector.",
+    responsibilities: [
+      "Participate in the cross-functional management trainee rotation",
+      "Support various engineering and production departments",
+      "Willingness to accept deployment in any company location"
+    ],
+    requirements: [
+      "First Class Honours degree only",
+      "B.Eng. or BSc. in Electrical, Chemical, Mechanical, Civil Engineering, Food Science, Statistics, etc.",
+      "0 – 5 years of work experience",
+      "Not more than 30 years of age",
+      "Must have completed NYSC (scanned discharge certificate required)",
+      "Computer literate and innovative mindset"
+    ],
+    apply: '<a href="https://recruitment.dragnet-solutions.com/portal/apply?d=dufilprima&details=551">Click here to apply online</a>',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "investment-analyst-graduate-trainee-sahel-capital-lagos-2026",
+    title: "Graduate Trainee Programme - Investment Analyst",
+    date: "2026-05-13",
+    location: "Lagos",
+    type: "Full-time",
+    seniority: "Junior",
+    company: "Sahel Capital",
+    summary: "Graduate trainee program offering hands-on experience and structured learning in investment analysis within the private equity space.",
+    responsibilities: [
+      "Support investment analysts with data collection and research",
+      "Participate in structured learning and professional mentorship",
+      "Gain hands-on experience in the investment process"
+    ],
+    requirements: [
+      "Bsc/HND in any field from a recognised institution",
+      "NYSC completion is mandatory",
+      "0–2 years of relevant work experience"
+    ],
+    apply: '<a href="https://areatalkreprts.com/2026-sahel-capital-graduate-trainee-programme-investment-analyst/">Click here to apply online</a>',
+    salary: "Monthly Stipend",
+    deadline: "Not Specified"
+  },
+  {
+    id: "customer-service-officer-fintech-lekki-lagos-2026",
+    title: "Customer Service Officer – FinTech",
+    date: "2026-05-13",
+    location: "Lekki, Lagos",
+    type: "Full-time",
+    seniority: "Junior",
+    summary: "Support Bitcoin, crypto, and digital gift card transactions for a FinTech company in the digital assets space.",
+    responsibilities: [
+      "Manage customer inquiries regarding digital assets and gift cards",
+      "Support crypto and gift card transaction flows",
+      "Utilize CRM tools to manage customer records",
+      "Collaborate with internal teams for issue resolution"
+    ],
+    requirements: [
+      "2+ years customer service experience",
+      "Banking or fintech background is an advantage",
+      "Strong communication and phone skills",
+      "Familiarity with CRM tools & Microsoft Office"
+    ],
+    apply: '<a href="https://forms.gle/P3VhdoptuB9kxyFLA">Click here to apply online</a>',
+    salary: "₦300,000 NET",
+    deadline: "Not Specified"
+  },
+  {
+    id: "project-manager-dezyn-cycle-lagos-2026",
+    title: "Project Manager",
+    date: "2026-05-13",
+    location: "Lagos",
+    type: "Full-time",
+    seniority: "Mid-Level",
+    company: "Dezyn Cycle Ltd",
+    summary: "Manage architecture, interior fit-out, and design + build projects in a hybrid work structure.",
+    responsibilities: [
+      "Lead and manage architecture, interior fit-out, and design + build projects",
+      "Develop project schedules, timelines, and execution strategies",
+      "Coordinate consultants, contractors, vendors, and internal teams",
+      "Ensure compliance with safety, operational, and company standards"
+    ],
+    requirements: [
+      "Bachelor’s degree in Architecture, Building, Project Management, or related field",
+      "4–7 years experience in project management within architecture, interiors, or construction",
+      "Strong understanding of project execution, construction processes, and fit-out coordination"
+    ],
+    apply: 'Send CV and Portfolio (if available) to: <a href="mailto:dezyncycle.team@gmail.com">dezyncycle.team@gmail.com</a> with subject: Application – Project Manager',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "customer-experience-representative-oriki-group-lekki-ajah-2026",
+    title: "Customer Experience Representative",
+    date: "2026-05-13",
+    location: "Lekki / Victoria Island / Ajah, Lagos",
+    type: "Full-time",
+    seniority: "Mid-Level",
+    company: "Oriki Group",
+    summary: "Customer-focused representative to join a dynamic team, requiring proximity to the Island/Lekki axis and availability for night shifts.",
+    responsibilities: [
+      "Handle customer inquiries and experience management",
+      "Maintain high standards of service excellence",
+      "Work night shifts as scheduled"
+    ],
+    requirements: [
+      "Minimum of 3 years RELEVANT Customer Experience experience",
+      "Must reside within the Lekki, Victoria Island or Ajah axis",
+      "Must be available to work night shifts as scheduled"
+    ],
+    apply: 'Qualified candidates should send their CV/Resume to: <a href="mailto:jointheteam@orikigroup.com">jointheteam@orikigroup.com</a> using “Customer Experience Representative” as the subject.',
+    salary: "₦250,000 net",
+    deadline: "Not Specified"
+  },
+  {
+    id: "nysc-cashier-ikeja-lagos-2026",
+    title: "NYSC Cashier",
+    date: "2026-05-13",
+    location: "Ikeja, Lagos",
+    type: "Internship",
+    seniority: "Junior",
+    summary: "Cashier role for a serving NYSC Corps Member in a healthcare facility, handling payments and financial reconciliation.",
+    responsibilities: [
+      "Handle patient payments and receipts",
+      "Perform daily cash reconciliation",
+      "Issue invoices and maintain records"
+    ],
+    requirements: [
+      "Accounting/Finance/Business Admin background",
+      "Currently serving as an NYSC Corp Member (Abuja posting)",
+      "Honest and detail-oriented"
+    ],
+    apply: 'Send CV to: <a href="mailto:Osinmade.adetutu@cathemeye.com">Osinmade.adetutu@cathemeye.com</a>',
+    salary: "₦40,000/month stipend",
+    deadline: "Not Specified"
+  },
+  {
+    id: "asset-liability-manager-alm-ikoyi-lagos-2026",
+    title: "Asset & Liability Manager (ALM)",
+    date: "2026-05-13",
+    location: "Ikoyi, Lagos",
+    type: "Full-time",
+    seniority: "Senior",
+    summary: "Drive effective balance sheet management and optimize liquidity for a leading investment management firm.",
+    responsibilities: [
+      "Manage and optimize the firm’s balance sheet",
+      "Oversee liquidity management strategies and funding levels",
+      "Monitor and manage interest rate risk and financial exposures",
+      "Collaborate with the Trading Desk for strategic decision-making",
+      "Develop and implement ALM frameworks and policies"
+    ],
+    requirements: [
+      "7–10 years’ experience in ALM, Treasury, or Balance Sheet Management",
+      "Postgraduate qualification (MBA/MSc) is required",
+      "Relevant professional certifications (e.g., ICAN) are an advantage",
+      "Strong expertise in interest rate risk and trading operations"
+    ],
+    apply: 'Qualified candidates should apply with their updated CV to: <a href="mailto:ifeoluwa.recruit1@gmail.com">ifeoluwa.recruit1@gmail.com</a>',
+    salary: "₦1,169,000 – ₦1,500,000 (Gross) plus 13th-month salary",
+    deadline: "Not Specified"
+  },
+  {
     id: "mechanical-engineer-lagos-bahms-technical-2026",
     title: "Mechanical Engineer",
     date: "2026-05-11",

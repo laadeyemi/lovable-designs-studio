@@ -10,6 +10,141 @@ export type Post = {
 
 const allPosts: Post[] = [
   {
+    id: "jamb-2026-2027-cut-off-marks-announcement",
+    title: "JAMB Releases 2026/2027 Cut-Off Marks for Universities, Polytechnics and Nursing Schools",
+    category: "Education",
+    date: "2026-05-13",
+    excerpt: "Joint Admissions and Matriculation Board has officially announced the minimum cut-off marks for admissions into universities, polytechnics, Colleges of Nursing, Colleges of Education and agriculture-related programmes for the 2026/2027 academic session.",
+    content:
+      `<h2>JAMB Releases 2026/2027 Cut-Off Marks for Universities, Polytechnics and Nursing Schools</h2>
+      <p>Joint Admissions and Matriculation Board has officially announced the minimum cut-off marks for admissions into universities, polytechnics, Colleges of Nursing, Colleges of Education and agriculture-related programmes for the 2026/2027 academic session.</p>
+      <p>The admission benchmarks were approved during JAMB’s policy meeting held on 11 May in Abuja.</p>
+      <p>The meeting was attended by Maruf Tunji Alausa alongside vice-chancellors, rectors, registrars and other education stakeholders.</p>
+      <p>According to JAMB, the approved scores represent the minimum admission benchmarks institutions are allowed to accept for the new admission cycle.</p>
+      <hr>
+      <h2>Official JAMB Cut-Off Marks for 2026/2027</h2>
+      <p>JAMB approved the following minimum admissible scores:</p>
+      <table>
+        <thead>
+          <tr>
+            <th>Institution Type</th>
+            <th>Minimum Score</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Universities</td>
+            <td>150</td>
+          </tr>
+          <tr>
+            <td>Colleges of Nursing</td>
+            <td>150</td>
+          </tr>
+          <tr>
+            <td>Polytechnics</td>
+            <td>100</td>
+          </tr>
+          <tr>
+            <td>Colleges of Education/Agriculture</td>
+            <td>No UTME score required</td>
+          </tr>
+        </tbody>
+      </table>
+      <p>The Board explained that institutions may still set higher cut-off marks depending on course demand and internal admission policies, but no school is permitted to admit candidates below the approved minimum score.</p>
+      <hr>
+      <h2>No UTME Requirement for Some Programmes</h2>
+      <p>One of the major changes announced during the policy meeting concerns Colleges of Education and some agriculture-related programmes.</p>
+      <p>According to JAMB, candidates seeking admission into NCE programmes and approved agriculture courses outside Engineering will no longer need a UTME score for admission.</p>
+      <p>The decision follows the Federal Government’s recent policy aimed at widening access to teacher education and agriculture-related studies.</p>
+      <p>Schools offering the affected programmes are expected to release their individual admission procedures and application details later.</p>
+      <hr>
+      <h2>What the New JAMB Cut-Off Marks Mean</h2>
+      <p>The approved cut-off marks only serve as the minimum requirement for admission consideration.</p>
+      <p>For university admission, a score of 150 does not automatically guarantee admission, especially for competitive courses where institutions may set higher departmental requirements.</p>
+      <p>The same applies to Colleges of Nursing and polytechnics, where candidates may still need to:</p>
+      <ul>
+        <li>Pass Post-UTME examinations</li>
+        <li>Participate in screening exercises</li>
+        <li>Meet departmental admission requirements</li>
+      </ul>
+      <p>Candidates applying for exempted NCE and agriculture programmes should also note that institutions may still conduct screenings and verification processes despite the UTME waiver.</p>
+      <hr>
+      <h2>Schools Expected to Announce Post-UTME Forms Soon</h2>
+      <p>Following the release of the official cut-off marks, many public tertiary institutions are expected to begin announcing:</p>
+      <ul>
+        <li>Post-UTME application forms</li>
+        <li>Screening dates</li>
+        <li>Admission guidelines</li>
+        <li>Departmental cut-off marks</li>
+      </ul>
+      <p>Candidates are advised to regularly check updates from their preferred institutions to avoid missing important deadlines.</p>
+      <hr>
+      <h2>Candidates Advised to Start Preparation Early</h2>
+      <p>Admission experts have also advised candidates to begin preparation for Post-UTME and screening exercises early rather than waiting for forms to be released.</p>
+      <p>Many institutions are expected to commence admission activities shortly after the policy meeting, making early preparation important for candidates hoping to secure admission in the 2026/2027 session.</p>`,
+    tags: [
+      "JAMB",
+      "Cut-off Marks",
+      "Admission",
+      "Universities",
+      "Polytechnics",
+      "Nursing Schools",
+      "Education",
+      "Nigeria",
+      "2026",
+      "2027",
+    ],
+  },
+  {
+    id: "nigerians-react-jamb-cut-off-marks-reduction-2026",
+    title: "Nigerians React as JAMB Further Reduces Higher Institution Cut-Off Marks",
+    category: "Education",
+    date: "2026-05-13",
+    excerpt: "The decision by the Joint Admissions and Matriculation Board to further reduce admission cut-off marks for tertiary institutions has sparked widespread concern among Nigerians.",
+    content:
+      `<h2>Nigerians React as JAMB Further Reduces Higher Institution Cut-Off Marks</h2>
+      <p>The decision by the Joint Admissions and Matriculation Board (JAMB) to further reduce admission cut-off marks for tertiary institutions has sparked widespread concern among Nigerians, especially students, parents, lecturers, and education advocates.</p>
+      <p>At the 2026 policy meeting held in Abuja, JAMB approved 150 as the minimum cut-off mark for universities and Colleges of Nursing Sciences, while polytechnics were pegged at 100. The board also announced exemptions from UTME for some Colleges of Education and agriculture-related programmes.</p>
+      <p>While some Nigerians believe the move could improve access to education, many others fear it signals a dangerous decline in academic standards.</p>
+      <hr>
+      <h2>“Are We Lowering the Value of Education?”</h2>
+      <p>Soon after the announcement surfaced online, reactions flooded X (formerly Twitter), with many users describing the development as “worrying,” “embarrassing,” and “a sign of educational collapse.”</p>
+      <p>One X user argued that lowering standards would only worsen the quality of graduates entering the system.</p>
+      <p>According to reports compiled from reactions on X, education advocate Alex Onyia criticised the policy, saying:</p>
+      <blockquote>“This is a very wrong and terrible move.”</blockquote>
+      <p>He warned that reducing entry requirements for education programmes could eventually produce poorly trained teachers.</p>
+      <p>Another user, identified as Àgbà John Doe on X, questioned why future teachers should bypass rigorous screening entirely, insisting that the government should instead increase standards rather than reduce them.</p>
+      <p>Many users also linked the decision to the growing decline in Nigeria’s educational quality. A trending sentiment across social media was that a university admission benchmark of 150 out of 400 makes competitive education appear less serious.</p>
+      <p>One viral post on X stated:</p>
+      <blockquote>“Reducing JAMB cut-off mark reflects a deeper problem.”</blockquote>
+      <p>The post argued that the country should focus on fixing poor learning conditions instead of continuously lowering admission benchmarks.</p>
+      <hr>
+      <h2>Concerns Over Merit and Competition</h2>
+      <p>Several Nigerians fear the reduced cut-off marks may discourage hard-working students who spend months preparing for UTME examinations.</p>
+      <p>For years, admission into competitive universities like University of Lagos and University of Ibadan has been associated with high performance and fierce competition. Critics now worry that lowering the baseline sends the wrong message to younger students.</p>
+      <p>Others argued that instead of addressing issues such as poor secondary education, lack of infrastructure, and overcrowded classrooms, policymakers are choosing the “easier route” by lowering requirements.</p>
+      <hr>
+      <h2>Some Nigerians Support the Move</h2>
+      <p>Despite the criticism, not everyone opposed the policy.</p>
+      <p>Former senator Shehu Sani described the exemption for education and agriculture programmes as “commendable,” arguing that it could encourage more young Nigerians to enter sectors where the country urgently needs manpower.</p>
+      <p>Supporters also pointed out that many brilliant students fail to secure admission yearly because of limited university spaces, not necessarily because they are academically weak. Some students welcomed the lower cut-off marks, saying it may provide hope for candidates who struggled with the increasingly difficult UTME process.</p>
+      <hr>
+      <h2>Bigger Questions About Nigeria’s Education System</h2>
+      <p>Beyond the online outrage, the controversy has reopened broader conversations about the state of education in Nigeria.</p>
+      <p>Many Nigerians believe the recurring reduction of cut-off marks reflects deeper structural issues, including declining learning standards in secondary schools, poor funding, and increasing pressure to absorb millions of admission seekers yearly.</p>
+      <p>Education analysts have also warned that lowering standards without improving teaching quality and institutional capacity could create long-term consequences for universities and the labour market.</p>
+      <p>For now, reactions continue to pour in across X, Facebook, and other platforms as Nigerians debate whether the policy is a practical solution to admission challenges or another sign of weakening academic standards in the country.</p>`,
+    tags: [
+      "JAMB",
+      "UTME",
+      "Cut-off Marks",
+      "Education",
+      "Nigeria",
+      "Reactions",
+      "2026",
+    ],
+  },
+  {
     id: "fg-removes-utme-nce-admission-2026",
     title: "FG Removes UTME Requirement for NCE Admission in Nigeria",
     category: "Education",

@@ -16,6 +16,671 @@ export type Job = {
 
 const allJobs: Job[] = [
   {
+    id: "nysc-members-fadac-resources-lagos-2026",
+    title: "NYSC Members (Corpers)",
+    date: "2026-05-14",
+    location: "Lagos",
+    type: "Internship",
+    seniority: "Junior",
+    company: "Fadac Resources",
+    summary: "Seeking serving or incoming NYSC members for various roles including HR, customer service, administration, or sales.",
+    responsibilities: [
+      "Support administrative and operational functions",
+      "Assist in HR or customer service duties based on department",
+      "Handle multitasking assignments in a fast-paced environment"
+    ],
+    requirements: [
+      "Minimum of a BSc Degree or HND",
+      "Currently serving or about to begin NYSC",
+      "Must reside around Ogudu and its axis",
+      "Basic knowledge of Microsoft Office and Google Workspace"
+    ],
+    apply: 'Send CV to: <a href="mailto:favour.a@fadacresources.com">favour.a@fadacresources.com</a> using the job title as the subject.',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "digital-marketing-officer-tranos-lagos-2026",
+    title: "Digital Marketing Officer",
+    date: "2026-05-14",
+    location: "Lagos",
+    type: "Full-time",
+    seniority: "Mid-Level",
+    company: "TRANOS",
+    summary: "Lead digital marketing efforts with a focus on SEO, SEM, and digital ad platforms for B2B growth.",
+    responsibilities: [
+      "Manage SEO & SEM strategies",
+      "Oversee digital ad platforms (Google Ads, LinkedIn Ads)",
+      "Perform data analysis and reporting",
+      "Utilize CRM tools for lead management"
+    ],
+    requirements: [
+      "Bachelor’s degree in Marketing, Business, or Communications",
+      "2 to 3 years in digital marketing (B2B experience preferred)",
+      "Good understanding of SEO & SEM",
+      "Experience with HTML and CSS is a bonus"
+    ],
+    apply: '<a href="https://tranos.seamlesshiring.com/job/view/9183#/">Click here to apply online</a>',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "occupational-nurse-ardova-plc-lagos-2026",
+    title: "Occupational Nurse",
+    date: "2026-05-14",
+    location: "Lagos",
+    type: "Full-time",
+    seniority: "Mid-Level",
+    company: "Ardova Plc",
+    summary: "Provide healthcare services and manage medical claims within a corporate environment.",
+    responsibilities: [
+      "Deliver nursing care and occupational health support",
+      "Manage medical claims and documentation",
+      "Utilize office productivity tools for reporting"
+    ],
+    requirements: [
+      "Bachelor’s degree in nursing with Registered Nurse (RN) qualification",
+      "3-5 years as a registered Nurse",
+      "Certification in Occupational Health is an added advantage",
+      "Knowledge in Claims management"
+    ],
+    apply: '<a href="https://ardovaplc.seamlesshiring.com/job/view/9363#/">Click here to apply online</a>',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "bank-tellers-multiple-locations-2026",
+    title: "Bank Tellers",
+    date: "2026-05-14",
+    location: "Lagos, Akwa Ibom, Bayelsa",
+    type: "Full-time",
+    seniority: "Junior",
+    summary: "Handling cash transactions and providing customer service in various bank branches.",
+    responsibilities: [
+      "Process cash deposits and withdrawals",
+      "Handle retail customer inquiries",
+      "Maintain high accuracy in financial records"
+    ],
+    requirements: [
+      "OND (Upper Credit Only)",
+      "Maximum of 27 years old",
+      "Previous experience in cash handling or retail is preferred",
+      "Strong mathematical aptitude"
+    ],
+    apply: '<a href="https://docs.google.com/forms/d/e/1FAIpQLScW3m3Qgkf-NTMaeiaJvNPxVa-_t3i5uOchP_lK88j9qgNsDg/viewform">Click here to apply online</a>',
+    salary: "₦150,000 (Net)",
+    deadline: "Not Specified"
+  },
+  {
+    id: "senior-full-stack-developer-sweden-2026",
+    title: "Senior Full-stack Developer",
+    date: "2026-05-14",
+    location: "Northern Part of Sweden",
+    type: "Full-time",
+    seniority: "Senior",
+    summary: "Lead full-stack development for projects in Sweden using Vue.js and .NET.",
+    responsibilities: [
+      "Develop frontend using Vue.js and TypeScript",
+      "Build backend services using .NET / C#",
+      "Manage cloud infrastructure on Azure and YAML pipelines"
+    ],
+    requirements: [
+      "Strong experience in C#.NET, Vue.js, and TypeScript",
+      "Expertise in Azure, Docker, and OpenAPI",
+      "Understanding of event-driven architecture (EDA)"
+    ],
+    apply: 'Send CV to: <a href="mailto:zeneith.ab@gmail.com">zeneith.ab@gmail.com</a> (cc: macjusticeagm@gmail.com)',
+    salary: "$120,000 – $130,000 annually (with Visa Sponsorship)",
+    deadline: "2026-05-14"
+  },
+  {
+    id: "branch-manager-neat-microcredit-kano-2026",
+    title: "Branch Manager",
+    date: "2026-05-14",
+    location: "Kano",
+    type: "Full-time",
+    seniority: "Senior",
+    company: "NEAT Microcredit",
+    summary: "Manage branch operations and drive loan performance in Kano locations.",
+    responsibilities: [
+      "Drive business growth and loan performance",
+      "Lead and supervise branch staff",
+      "Maintain strong customer relationships"
+    ],
+    requirements: [
+      "Experience in banking, microfinance, or financial services",
+      "Strong leadership skills",
+      "Knowledge of the Kano market axis (Sabon Gari, Kabuga, Karu)"
+    ],
+    apply: 'Email: <a href="mailto:hr@neatmicrocredit.com">hr@neatmicrocredit.com</a>',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "personal-assistant-headquarters-vi-lagos-2026",
+    title: "Personal Assistant",
+    date: "2026-05-14",
+    location: "Victoria Island, Lagos",
+    type: "Full-time",
+    seniority: "Junior",
+    summary: "Provide high-level administrative support at company headquarters.",
+    responsibilities: [
+      "Manage executive schedules and correspondence",
+      "Coordinate office administrative tasks",
+      "Handle confidential documentation"
+    ],
+    requirements: [
+      "HND & BSc with Upper Credit",
+      "Maximum 27 years old",
+      "Male preferred",
+      "Proactive and detail-oriented"
+    ],
+    apply: '<a href="https://forms.gle/D92NPZdJRuibsw2f7">Click here to apply online</a>',
+    salary: "₦191,000",
+    deadline: "Not Specified"
+  },
+  {
+    id: "operations-analyst-graduate-trainee-lagos-2026",
+    title: "Operations Analyst – Graduate Trainee",
+    date: "2026-05-14",
+    location: "Lagos",
+    type: "Full-time",
+    seniority: "Junior",
+    summary: "Structured trainee program for top-tier graduates to build a career in operations analysis.",
+    responsibilities: [
+      "Analyze operational data and performance metrics",
+      "Support business process improvements",
+      "Collaborate with multi-disciplinary teams"
+    ],
+    requirements: [
+      "BSc degree with minimum 2:1 (Second Class Upper)",
+      "Disciplines: Business Admin, Management, Applied/Pure Sciences",
+      "Recent graduate status"
+    ],
+    apply: '<a href="https://jobs.smartrecruiters.com/ThePlace1/744000126280729-operations-analyst-graduate-trainee">Click here to apply online</a>',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "front-desk-officer-echolab-lagos-2026",
+    title: "Front Desk Officer",
+    date: "2026-05-14",
+    location: "Festac, Lagos",
+    type: "Full-time",
+    seniority: "Junior",
+    company: "Echolab Radiology and Laboratory Services",
+    summary: "Customer-facing role in a diagnostic facility, requiring excellent communication and patient management skills.",
+    responsibilities: [
+      "Handle patient reception and identification",
+      "Manage office administrative tasks using Microsoft Office",
+      "Coordinate patient appointments and inquiries"
+    ],
+    requirements: [
+      "BSc in Health Management, Basic Sciences, or relevant course",
+      "Experience in the Diagnostics industry",
+      "Resident around Festac area",
+      "Strong time management and communication skills"
+    ],
+    apply: 'Send CV to: <a href="mailto:careers@echolab.ng">careers@echolab.ng</a> using the job title as the subject.',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "credit-risk-intern-sahel-capital-lagos-2026",
+    title: "Credit Risk Intern",
+    date: "2026-05-14",
+    location: "Lagos",
+    type: "Internship",
+    seniority: "Junior",
+    company: "Sahel Capital",
+    summary: "Hands-on internship for quantitative-minded graduates to learn credit risk analysis in private equity.",
+    responsibilities: [
+      "Assist in credit risk assessments and quantitative analysis",
+      "Support the creation of reports and presentations",
+      "Maintain risk management documentation"
+    ],
+    requirements: [
+      "NYSC completion is mandatory",
+      "Strong analytical and Excel skills",
+      "CFA Level I passed or in view is preferred",
+      "High attention to detail"
+    ],
+    apply: '<a href="https://hris.peoplehum.com/ehire/jobs/8e354558-0e5c-4297-aac6-ab0c62d0ee8c/9a3a5afd-64c3-4e40-a35e-6044769176f2">Click here to apply online</a>',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "solar-technical-support-staff-erisco-smart-energy-2026",
+    title: "Solar Technical Support Staff",
+    date: "2026-05-14",
+    location: "Lagos",
+    type: "Full-time",
+    company: "Erisco Smart Energy Limited",
+    summary: "Support technical aspects of solar projects, assisting sales teams and customers with system sizing and troubleshooting.",
+    responsibilities: [
+      "Conduct site assessments and energy audits",
+      "Assist with solar product selection and system design",
+      "Troubleshoot technical issues related to solar installations",
+      "Train customers on system operation and maintenance"
+    ],
+    requirements: [
+      "Knowledge of solar PV systems, inverters, and electrical systems",
+      "Ability to interpret technical specifications",
+      "Sales and negotiation abilities",
+      "Proficiency in solar design tools"
+    ],
+    apply: 'Email CV to: <a href="mailto:ikechukwu.chibuike@eriscosmartenergyltd.com">ikechukwu.chibuike@eriscosmartenergyltd.com</a>',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "branch-service-manager-home-appliances-multiple-2026",
+    title: "Branch Service Manager – Home Appliances",
+    date: "2026-05-14",
+    location: "Lagos / Onitsha / Abuja",
+    type: "Full-time",
+    seniority: "Senior",
+    summary: "Lead after-sales service operations for home appliances, ensuring efficient repairs and customer satisfaction.",
+    responsibilities: [
+      "Oversee daily operations of the service centre",
+      "Manage technician teams and spare parts inventory",
+      "Handle escalated customer complaints",
+      "Conduct audits and inspections at upcountry centres"
+    ],
+    requirements: [
+      "Bachelor’s degree or diploma in Engineering or Electronics",
+      "Minimum 8 years’ experience in after-sales service management",
+      "Willingness to travel for field audits",
+      "Strong leadership and technical troubleshooting skills"
+    ],
+    apply: 'Forward CV to: <a href="mailto:jobs@kennediaconsulting.net">jobs@kennediaconsulting.net</a> no later than 15th May 2026',
+    salary: "Not Specified",
+    deadline: "2026-05-15"
+  },
+  {
+    id: "teller-customer-service-roles-multiple-locations-2026",
+    title: "Teller and Customer Service Roles",
+    date: "2026-05-14",
+    location: "Multiple Locations (Lagos, Makurdi, Akure, etc.)",
+    type: "Full-time",
+    seniority: "Junior",
+    summary: "Seeking articulate and customer-focused candidates for banking roles with scholarship opportunities.",
+    responsibilities: [
+      "Process bank transactions efficiently",
+      "Deliver professional customer service",
+      "Maintain accurate financial documentation"
+    ],
+    requirements: [
+      "Maximum 25 years old",
+      "Smart and articulate personality",
+      "Available for immediate start"
+    ],
+    apply: '<a href="https://docs.google.com/forms/d/e/1FAIpQLSeBojCGCtQsEOzcGBpgbrt7GZxwcDE7v94ZrloLh1DyPRrOwg/viewform?usp=publish-editor">Click here to apply online</a>',
+    salary: "₦207,000 Net Monthly + HMO + Pension + B.Sc Scholarship",
+    deadline: "Not Specified"
+  },
+  {
+    id: "group-finance-controller-nigeria-2026",
+    title: "Group Finance Controller",
+    date: "2026-05-14",
+    location: "Nigeria",
+    type: "Full-time",
+    seniority: "Senior",
+    summary: "Lead group-level financial management and consolidation for multi-entity operations in manufacturing/trading.",
+    responsibilities: [
+      "Oversee financial consolidation and reporting",
+      "Manage group-level banking and treasury operations",
+      "Drive strategic financial planning and taxation",
+      "Lead budgeting and MIS reporting across business units"
+    ],
+    requirements: [
+      "CA or equivalent qualification",
+      "15+ years of experience, with mandatory Nigeria work experience",
+      "Proven leadership in complex financial operations",
+      "Expertise in ERP systems and cross-border transactions"
+    ],
+    apply: 'Email: <a href="mailto:hr.nigeria@sungroupe.com">hr.nigeria@sungroupe.com</a> with subject "Group Finance Controller – Nigeria"',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "content-creator-shelter-for-you-properties-lekki-2026",
+    title: "Content Creator",
+    date: "2026-05-14",
+    location: "Lekki Phase 1, Lagos",
+    type: "Full-time",
+    seniority: "Mid-Level",
+    company: "Shelter For You Properties",
+    summary: "Creative and trend-savvy individual to grow online presence for a real estate firm through compelling content.",
+    responsibilities: [
+      "Create graphics and visual storytelling content",
+      "Manage Instagram, TikTok, Snapchat, and X platforms",
+      "Monitor trends and generate leads through creative strategies"
+    ],
+    requirements: [
+      "Minimum of 1 year experience",
+      "Skilled in video editing",
+      "Must reside within or close to Lekki Phase 1",
+      "Physical resumption mandatory"
+    ],
+    apply: 'Send CV and cover letter to: <a href="mailto:info@shelterforyouproperties.com">info@shelterforyouproperties.com</a>',
+    salary: "₦120,000 (Tax Inclusive)",
+    deadline: "Not Specified"
+  },
+  {
+    id: "chefs-orchid-road-lekki-2026",
+    title: "Chefs",
+    date: "2026-05-14",
+    location: "Orchid Road, Lekki",
+    type: "Full-time",
+    summary: "Passionate culinary professionals needed to prepare high-quality meals in a fast-paced environment.",
+    responsibilities: [
+      "Prepare a variety of dishes to high standards",
+      "Ensure kitchen safety and food hygiene",
+      "Maintain efficient kitchen operations"
+    ],
+    requirements: [
+      "Proven experience as a Chef or Cook",
+      "Knowledge of food hygiene and kitchen safety",
+      "Ability to work in a fast-paced environment",
+      "Team-oriented mindset"
+    ],
+    apply: 'Send CV to: <a href="mailto:Recruitlagos2025@gmail.com">Recruitlagos2025@gmail.com</a>',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "van-sales-representative-uac-foods-multiple-2026",
+    title: "Van Sales Representatives",
+    date: "2026-05-14",
+    location: "Lagos, Abuja, Port Harcourt, and more",
+    type: "Full-time",
+    company: "UAC Foods Limited",
+    summary: "Direct sales and distribution of UAC food products (Gala, Swan, etc.) across various routes.",
+    responsibilities: [
+      "Drive company van and sell products on assigned routes",
+      "Meet daily/monthly sales and customer acquisition targets",
+      "Maintain accurate sales and stock records"
+    ],
+    requirements: [
+      "Minimum of BSC/HND/OND",
+      "Valid driver’s license",
+      "Strong communication and negotiation skills",
+      "Knowledge of assigned location"
+    ],
+    apply: 'Send CV to: <a href="mailto:keagrouprecruit@gmail.com">keagrouprecruit@gmail.com</a> specifying your preferred location.',
+    salary: "Basic Salary + Commission + HMO + Pension",
+    deadline: "Not Specified"
+  },
+  {
+    id: "social-media-assistant-canada-immigration-remote-2026",
+    title: "Social Media Assistant",
+    date: "2026-05-14",
+    location: "Remote",
+    type: "Full-time",
+    summary: "Support a Canada immigration firm with social media management, community engagement, and visual design.",
+    responsibilities: [
+      "Create engaging content and professional visual designs",
+      "Build and engage a community of prospective Canadians",
+      "Respond to inquiries and maintain high online availability"
+    ],
+    requirements: [
+      "Passion for immigration and international opportunities",
+      "Excellent visual design skills (flyers, materials)",
+      "Outstanding grammar and vocabulary",
+      "High responsiveness in a remote work setting"
+    ],
+    apply: 'Send CV and portfolio to: <a href="mailto:Recruitment@mabtuson.com">Recruitment@mabtuson.com</a>',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "graduate-trainee-gti-investment-group-2026",
+    title: "Graduate Trainee",
+    date: "2026-05-14",
+    location: "Lagos",
+    type: "Full-time",
+    seniority: "Junior",
+    company: "GTI Investment group",
+    summary: "Structured entry-level program for ambitious graduates to build a career in investments.",
+    responsibilities: [
+      "Support investment analysis and research",
+      "Participate in client relationship management",
+      "Contribute to team project goals"
+    ],
+    requirements: [
+      "Minimum of a first degree",
+      "Valid NYSC Discharge Certificate",
+      "Maximum 26 years old",
+      "Strong analytical and creative skills"
+    ],
+    apply: '<a href="https://docs.google.com/forms/d/e/1FAIpQLSeyJPRMWbM0txq2Tdmz4IpJi9xrcgL71e2lYLHFkwMa_-saFQ/viewform">Click here to apply online</a>',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "video-journalist-bbc-yoruba-lagos-2026",
+    title: "Video Journalist",
+    date: "2026-05-14",
+    location: "Lagos",
+    type: "Full-time",
+    company: "BBC Yoruba",
+    summary: "Produce engaging video content for BBC Yoruba, focusing on high-quality journalism and storytelling.",
+    responsibilities: [
+      "Filming and editing video packages",
+      "Reporting on current events in Yoruba",
+      "Storytelling across digital platforms"
+    ],
+    requirements: [
+      "Experience in video journalism",
+      "Fluency in Yoruba language",
+      "Strong editing skills"
+    ],
+    apply: '<a href="https://careers.bbc.co.uk/job/Video-Journalist%2C-BBC-Yoruba/45112-en_GB">Click here to apply online</a>',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "social-media-communications-intern-iita-ibadan-2026",
+    title: "Social Media & Communications Intern",
+    date: "2026-05-14",
+    location: "Ibadan",
+    type: "Internship",
+    seniority: "Junior",
+    company: "IITA",
+    summary: "Gain professional experience in communications and social media management at an international research institute.",
+    responsibilities: [
+      "Manage official social media platforms",
+      "Assist in writing and editing content",
+      "Support basic graphic design tasks"
+    ],
+    requirements: [
+      "Recent graduate in Mass Communication or related field",
+      "Basic knowledge of LinkedIn, Instagram, X",
+      "Proficiency in Microsoft Office",
+      "Strong writing skills"
+    ],
+    apply: '<a href="https://jobs.workable.com/view/5mzgfqBSvnMCN4Jw7Xjy1A/social-media-%26-communications-intern-in-ibadan-at-international-institute-of-tropical-agriculture(iita)">Click here to apply online</a>',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "nysc-data-entry-intern-cyclofoss-lagos-2026",
+    title: "NYSC Data Entry Intern",
+    date: "2026-05-14",
+    location: "Lagos",
+    type: "Internship",
+    seniority: "Junior",
+    company: "Cyclofoss Technologies Limited",
+    summary: "Support data management and entry operations for a technology firm with free shared accommodation available.",
+    responsibilities: [
+      "Perform accurate data entry tasks",
+      "Support administrative documentation",
+      "Maintain data integrity"
+    ],
+    requirements: [
+      "HND (Upper Credit/Distinction) or Degree (2:1/First Class)",
+      "Ready to relocate or posted to Amuwo Odofin LGA",
+      "Strong attention to detail"
+    ],
+    apply: 'Email: <a href="mailto:hr@cyclofoss.com">hr@cyclofoss.com</a> using Job Title and State Code as subject.',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "finance-intern-nysc-multinational-fmcg-lagos-2026",
+    title: "Finance Intern (NYSC)",
+    date: "2026-05-14",
+    location: "Ikoyi, Lagos",
+    type: "Internship",
+    seniority: "Junior",
+    summary: "Accounting internship for a Corps member in a multinational FMCG firm.",
+    responsibilities: [
+      "Assist in managing accounts payable and receivable",
+      "Prepare invoices and receipts",
+      "Maintain records in Sage 50 and QuickBooks",
+      "Support month-end closing and reconciliations"
+    ],
+    requirements: [
+      "Current NYSC Corps Member",
+      "Background in Accounting, Economics, or Finance",
+      "Basic knowledge of accounting software"
+    ],
+    apply: 'Apply to: <a href="mailto:recruitment@tricyglobal.com">recruitment@tricyglobal.com</a>',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "whatsapp-customer-sales-closer-remote-2026",
+    title: "WhatsApp Customer Sales Closer",
+    date: "2026-05-14",
+    location: "Remote",
+    type: "Full-time",
+    summary: "Manage high-volume WhatsApp customer interactions to drive sales conversions from home.",
+    responsibilities: [
+      "Close sales via WhatsApp communications",
+      "Maintain daily work schedule (8 AM – 10 PM)",
+      "Provide timely customer responses"
+    ],
+    requirements: [
+      "Strong communication and persuasion skills",
+      "Stable internet connection",
+      "Reliable and committed to long shifts"
+    ],
+    apply: '<a href="https://rymgame.com/whatsapp-customer-sales-closer/">Click here for full details and to apply</a>',
+    salary: "₦140,000 per month + ₦8,000 credit allowance",
+    deadline: "Not Specified"
+  },
+  {
+    id: "quality-control-manager-ayoola-foods-lagos-2026",
+    title: "Quality Control Manager",
+    date: "2026-05-14",
+    location: "Iyana Ipaja, Lagos",
+    type: "Full-time",
+    seniority: "Senior",
+    company: "Ayoola Foods Limited",
+    summary: "Strategic management of quality standards in a leading food manufacturing company.",
+    responsibilities: [
+      "Oversee end-to-end quality control processes",
+      "Ensure compliance with FMCG/Food regulatory standards",
+      "Manage laboratory and factory quality teams"
+    ],
+    requirements: [
+      "HND / BSC / MSc in Science Lab Tech, Food Science, or Microbiology",
+      "Previous experience as a QC Manager in the FMCG industry (flour products preferred)",
+      "Maximum 45 years old"
+    ],
+    apply: 'Send CV to: <a href="mailto:careers@ayoolafoodsng.com">careers@ayoolafoodsng.com</a>',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "lead-generation-sales-support-va-remote-2026",
+    title: "Lead Generation & Sales Support VA",
+    date: "2026-05-14",
+    location: "Remote",
+    type: "Part-time",
+    summary: "Generate and qualify high-quality leads for UK businesses in heating and property finance.",
+    responsibilities: [
+      "Cold calling and emailing prospects",
+      "Qualify leads based on business criteria",
+      "Manage leads within CRM systems"
+    ],
+    requirements: [
+      "Strong English communication skills",
+      "Fast learner of business/finance concepts",
+      "Experience with CRM management"
+    ],
+    apply: '<a href="https://forms.gle/AyxUW6U5qQY3NGZf6">Click here to apply online</a>',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "executive-assistant-remote-full-time-2026",
+    title: "Executive Assistant",
+    date: "2026-05-14",
+    location: "Remote",
+    type: "Full-time",
+    seniority: "Mid-Level",
+    summary: "Support senior management in a fast-paced environment following UK working hours.",
+    responsibilities: [
+      "Manage high-level administrative and operational tasks",
+      "Coordinate schedules and communications",
+      "Execute proactive task management independently"
+    ],
+    requirements: [
+      "Strong admin and operations background",
+      "Highly organized and proactive",
+      "Ability to work UK hours"
+    ],
+    apply: '<a href="https://forms.gle/m5FWYYjBCQfVYmM47">Click here to apply online</a>',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "marketing-associate-b2b-contract-2026",
+    title: "Marketing associate (B2B)",
+    date: "2026-05-14",
+    location: "Lagos (Hybrid)",
+    type: "Contract",
+    summary: "Writer-focused marketing associate role to drive B2B brand presence.",
+    responsibilities: [
+      "Create compelling B2B marketing content",
+      "Support digital marketing campaigns",
+      "Manage content writing projects"
+    ],
+    requirements: [
+      "Strong writing skills",
+      "Experience in B2B marketing",
+      "Available for one day onsite in the office"
+    ],
+    apply: '<a href="https://www.linkedin.com/jobs/view/4413409923">Click here to apply online</a>',
+    salary: "350k – 400k",
+    deadline: "Not Specified"
+  },
+  {
+    id: "graphics-design-executive-pitchhub-remote-2026",
+    title: "Graphics Design Executive",
+    date: "2026-05-14",
+    location: "Remote, Nigeria",
+    type: "Full-time",
+    company: "PitchHub",
+    summary: "Creative role at PitchHub offering creative ownership, global exposure, and long-term career growth.",
+    responsibilities: [
+      "Design presentations, reports, and social media assets",
+      "Maintain brand consistency across various platforms",
+      "Collaborate on global creative projects"
+    ],
+    requirements: [
+      "Strong graphic design portfolio",
+      "Advanced Canva skills",
+      "Experience in report and presentation design"
+    ],
+    apply: '<a href="https://presoftsolution.com/jobs/graphics-design-executive-pitchhub-remote-nigeria">Click here to apply online</a>',
+    salary: "₦300,000 – ₦400,000 per month",
+    deadline: "Not Specified"
+  },
+  {
     id: "head-of-operations-gbagada-lagos-2026",
     title: "Head of Operations",
     date: "2026-05-13",

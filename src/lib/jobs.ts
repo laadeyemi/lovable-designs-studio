@@ -16,6 +16,300 @@ export type Job = {
 
 const allJobs: Job[] = [
   {
+    id: "quality-control-analyst-lagos-mainland-2026",
+    title: "Quality Control Analyst",
+    date: "2026-05-15",
+    location: "Lagos Mainland, Nigeria",
+    type: "Full-time",
+    seniority: "Junior",
+    summary: "A reputable manufacturing company on the Lagos Mainland is recruiting a Quality Control Analyst to conduct inspections and laboratory analysis.",
+    responsibilities: [
+      "Conduct quality control inspections and laboratory analysis on products and raw materials",
+      "Monitor production processes to ensure compliance with quality standards",
+      "Prepare quality reports and documentation",
+      "Identify defects and recommend corrective actions",
+      "Ensure adherence to safety and regulatory requirements"
+    ],
+    requirements: [
+      "HND/B.Sc. in Chemistry, Microbiology, Biochemistry, Industrial Chemistry, or related field",
+      "Minimum of 2 years relevant experience in quality control/assurance",
+      "Good analytical and reporting skills",
+      "Ability to work with minimal supervision",
+      "Knowledge of laboratory testing procedures and quality standards"
+    ],
+    apply: 'Send CV to: <a href="mailto:Abuat.joseph@yahoo.com">Abuat.joseph@yahoo.com</a>',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "water-treatment-plant-officer-lagos-mainland-2026",
+    title: "Water Treatment Plant Officer",
+    date: "2026-05-15",
+    location: "Lagos Mainland, Nigeria",
+    type: "Full-time",
+    seniority: "Junior",
+    summary: "Manufacturing company seeking an officer to operate and monitor water treatment systems and ensure proper supply for production.",
+    responsibilities: [
+      "Operate and monitor water treatment plant equipment and systems",
+      "Ensure proper treatment and supply of water for production operations",
+      "Carry out routine maintenance and inspection of treatment facilities",
+      "Conduct water quality testing and maintain accurate records",
+      "Ensure compliance with health, safety, and environmental standards",
+      "Troubleshoot operational issues and report faults promptly"
+    ],
+    requirements: [
+      "OND/HND/B.Sc. in Mechanical Engineering, Chemical Engineering, Environmental Science, or related field",
+      "Minimum of 2 years relevant experience in water treatment plant operations",
+      "Good knowledge of water treatment processes and equipment",
+      "Strong technical and problem-solving skills",
+      "Ability to work independently and under pressure"
+    ],
+    apply: 'Send CV to: <a href="mailto:Abuat.joseph@yahoo.com">Abuat.joseph@yahoo.com</a>',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "client-advisor-wealth-management-ikoyi-lagos-2026",
+    title: "Client Advisor (Wealth Management)",
+    date: "2026-05-15",
+    location: "Ikoyi, Lagos",
+    type: "Full-time",
+    seniority: "Senior",
+    summary: "Senior advisory role within Investment Banking focused on wealth management for HNI clients.",
+    responsibilities: [
+      "Provide high-level wealth management advisory",
+      "Manage and grow client investment portfolios",
+      "Drive client acquisition and relationship management"
+    ],
+    requirements: [
+      "10-15 years of experience in wealth management or investment banking",
+      "Proven track record in client advisory",
+      "Strong financial market knowledge"
+    ],
+    apply: '<a href="https://forms.gle/xgZGYnX8X5RaHdKBA">Click here to apply online</a>',
+    salary: "₦1.4M - ₦2M",
+    deadline: "Not Specified"
+  },
+  {
+    id: "client-advisor-assistant-wealth-management-ikoyi-lagos-2026",
+    title: "Client Advisor Assistant (Wealth Management)",
+    date: "2026-05-15",
+    location: "Ikoyi, Lagos",
+    type: "Full-time",
+    seniority: "Junior",
+    summary: "Support-based role in Investment Banking assisting Client Advisors in wealth management operations.",
+    responsibilities: [
+      "Assist Client Advisors with portfolio administration",
+      "Handle client inquiries and documentation",
+      "Support wealth management operational tasks"
+    ],
+    requirements: [
+      "1-4 years of experience",
+      "Strong organizational skills",
+      "Interest in Investment Banking and Wealth Management"
+    ],
+    apply: '<a href="https://forms.gle/xgZGYnX8X5RaHdKBA">Click here to apply online</a>',
+    salary: "₦200k – ₦350k",
+    deadline: "Not Specified"
+  },
+  {
+    id: "lead-institutional-coverage-capital-origination-ikoyi-lagos-2026",
+    title: "Lead, Institutional Coverage & Capital Origination",
+    date: "2026-05-15",
+    location: "Ikoyi, Lagos",
+    type: "Full-time",
+    seniority: "Senior",
+    summary: "Strategic leadership role in Investment Banking responsible for institutional relationships and capital origination.",
+    responsibilities: [
+      "Lead institutional coverage strategies",
+      "Drive capital origination and deal structuring",
+      "Manage high-level institutional partnerships"
+    ],
+    requirements: [
+      "10-15 years of experience in capital markets or investment banking",
+      "Extensive network within institutional investment circles",
+      "Strong deal-making and negotiation capabilities"
+    ],
+    apply: '<a href="https://forms.gle/xgZGYnX8X5RaHdKBA">Click here to apply online</a>',
+    salary: "₦1.4M – ₦2M",
+    deadline: "Not Specified"
+  },
+  {
+    id: "hod-computer-science-abuja-university-2026",
+    title: "Head of Department (HOD) – Computer Science",
+    date: "2026-05-15",
+    location: "Abuja (FCT)",
+    type: "Full-time",
+    seniority: "Senior",
+    summary: "A founding academic leadership role for a new private university, shaping the Computer Science department from the ground up.",
+    responsibilities: [
+      "Design and develop NUC-compliant postgraduate programs (AI, Data Science, Cyber Security, etc.)",
+      "Recruit, mentor, and manage a high-performance team of academics",
+      "Oversee departmental operations, labs, and budgets",
+      "Establish industry partnerships with tech hubs and corporate entities",
+      "Lead NUC accreditation and professional certifications"
+    ],
+    requirements: [
+      "PhD in Computer Science, AI, Software Engineering, or related field",
+      "Minimum of 8–10 years university teaching/research experience (5 years at postgraduate level)",
+      "Previous experience as HOD or equivalent leadership role at a reputable university",
+      "Track record of high-impact scholarly publications",
+      "Experience in curriculum design and NUC accreditation processes"
+    ],
+    apply: 'Send CV and Cover Letter to: <a href="mailto:cityuniversitybiz@gmail.com">cityuniversitybiz@gmail.com</a>',
+    salary: "Competitive + Pension + Benefits",
+    deadline: "Not Specified"
+  },
+  {
+    id: "hod-international-law-abuja-university-2026",
+    title: "Head of Department (HOD) – International Law",
+    date: "2026-05-15",
+    location: "Abuja (FCT)",
+    type: "Full-time",
+    seniority: "Senior",
+    summary: " Founding leadership role to build a world-class postgraduate International Law department situated in the heart of West African diplomacy.",
+    responsibilities: [
+      "Design LL.M. and PhD curricula in specialized tracks (Humanitarian, Criminal, Human Rights Law)",
+      "Establish partnerships with ECOWAS, international tribunals, and diplomatic missions",
+      "Supervise doctoral theses and foster high-level research output",
+      "Coach advanced moot court teams and manage career pathways for students",
+      "Manage departmental budget and law library resources"
+    ],
+    requirements: [
+      "PhD in International Law (awarded by a reputable university)",
+      "LL.B, BL, and LL.M specialization in International Law",
+      "Minimum of 8–10 years teaching experience (5 years postgraduate supervision)",
+      "Previous HOD or Director-level academic leadership experience",
+      "Proven record of publications in top-tier law journals"
+    ],
+    apply: 'Send CV and Cover Letter to: <a href="mailto:cityuniversitybiz@gmail.com">cityuniversitybiz@gmail.com</a>',
+    salary: "Competitive + Pension + Benefits",
+    deadline: "Not Specified"
+  },
+  {
+    id: "hod-management-entrepreneurship-abuja-university-2026",
+    title: "Head of Department (HOD) – Management & Entrepreneurship",
+    date: "2026-05-15",
+    location: "Abuja (FCT)",
+    type: "Full-time",
+    seniority: "Senior",
+    summary: "Academic leader to establish a practice-oriented department, shaping the next generation of Nigerian business leaders.",
+    responsibilities: [
+      "Develop innovative M.Sc. programs in Business Administration and Entrepreneurship",
+      "Integrate experiential learning (business plans, lean startup) into curriculum",
+      "Recruit a blend of experienced academics and industry practitioners",
+      "Collaborate on conceptualizing a student enterprise hub or incubator",
+      "Build relationships with business communities and chambers of commerce"
+    ],
+    requirements: [
+      "PhD in Business Administration, Management, Entrepreneurship, or Economics",
+      "Minimum of 8–10 years teaching/research experience (5 years postgraduate level)",
+      "Track record of scholarly output in high-impact peer-reviewed journals",
+      "Previous academic leadership experience (HOD/Dean)",
+      "Experience in NUC accreditation visits"
+    ],
+    apply: 'Send CV and Cover Letter to: <a href="mailto:cityuniversitybiz@gmail.com">cityuniversitybiz@gmail.com</a>',
+    salary: "Competitive + Pension + Benefits",
+    deadline: "Not Specified"
+  },
+  {
+    id: "customer-relationship-officer-university-abuja-2026",
+    title: "Customer Relationship Officer",
+    date: "2026-05-15",
+    location: "Abuja (FCT)",
+    type: "Full-time",
+    seniority: "Mid-Level",
+    summary: "Heart of the student experience at a new private university, ensuring students and parents feel supported and valued.",
+    responsibilities: [
+      "Lead welcoming orientation programs for new students",
+      "Monitor student engagement and implement intervention strategies for at-risk students",
+      "Oversee front desk operations and resolve complex queries/grievances",
+      "Manage the student database/CRM system for tracking interactions",
+      "Act as a trusted liaison for parents and stakeholders"
+    ],
+    requirements: [
+      "Bachelor’s degree in Psychology, Counselling, Admin, or related field",
+      "Minimum 3-5 years experience in customer-facing supervisory roles",
+      "Experience implementing or managing CRM systems",
+      "Strong conflict resolution and active listening skills"
+    ],
+    apply: 'Send CV and Cover Letter to: <a href="mailto:cityuniversitybiz@gmail.com">cityuniversitybiz@gmail.com</a>',
+    salary: "Commensurate with experience",
+    deadline: "Not Specified"
+  },
+  {
+    id: "business-development-marketing-officer-university-abuja-2026",
+    title: "Business Development and Marketing Officer",
+    date: "2026-05-15",
+    location: "Abuja (FCT)",
+    type: "Full-time",
+    seniority: "Junior",
+    summary: "Dual-focused role to build the university brand from scratch and drive student enrolment through strategic marketing.",
+    responsibilities: [
+      "Build relationships with schools and counselors to promote the university",
+      "Manage student enquiry pipeline and convert to enrolments",
+      "Execute marketing strategies across all digital channels",
+      "Create compelling content (blog, reels, newsletters) for Gen Z demographic",
+      "Design and produce marketing collateral (brochures, flyers)"
+    ],
+    requirements: [
+      "Bachelor’s degree in Marketing, Biz Admin, Mass Comm, or related field",
+      "1-3 years experience in Marketing or Admissions (Startup experience preferred)",
+      "Proficiency in digital marketing tools (Canva, CapCut, Meta Ads)",
+      "Experience with CRM or SIS platforms"
+    ],
+    apply: 'Send CV and Cover Letter to: <a href="mailto:cityuniversitybiz@gmail.com">cityuniversitybiz@gmail.com</a>',
+    salary: "Competitive Base + Performance Incentives",
+    deadline: "Not Specified"
+  },
+  {
+    id: "spy-driver-lekki-lagos-2026",
+    title: "Spy Driver",
+    date: "2026-05-15",
+    location: "Lekki, Lagos",
+    type: "Full-time",
+    seniority: "Senior",
+    summary: "Urgent vacancy for a highly disciplined and professional driver with extensive experience for a full-time role in Lekki.",
+    responsibilities: [
+      "Ensure the vehicle is always clean and well maintained",
+      "Conduct regular engine and vehicle checks",
+      "Maintain proper dressing, discipline, and good manners",
+      "Drive safely and responsibly following employer instructions"
+    ],
+    requirements: [
+      "Minimum qualification: OND/HND",
+      "Minimum 10 years driving experience",
+      "Age range: 31–40 years; Married preferred",
+      "Must provide 2 verifiable guarantors and valid identification"
+    ],
+    apply: 'WhatsApp CV to: <a href="https://wa.me/2347044760495">wa.me/2347044760495</a> (Include name and location). DO NOT CALL.',
+    salary: "₦250,000 + Overtime + Accommodation",
+    deadline: "Not Specified"
+  },
+  {
+    id: "finished-products-store-supervisor-kwali-abuja-2026",
+    title: "Finished Products Store Supervisor",
+    date: "2026-05-15",
+    location: "Kwali, Abuja (FCT)",
+    type: "Full-time",
+    seniority: "Mid-Level",
+    summary: "Management of daily shipment operations and finished goods warehouse for a beverage company in Kwali.",
+    responsibilities: [
+      "Record and verify incoming and outgoing finished products",
+      "Organize and safeguard warehouse items",
+      "Oversee shipping process to ensure accurate inventory data",
+      "Ensure smooth flow of goods within the warehouse"
+    ],
+    requirements: [
+      "Relevant academic qualifications",
+      "3 – 10 years of experience in warehouse or store management",
+      "Strong organizational skills"
+    ],
+    apply: 'Email CV to: <a href="mailto:vijutalent@gmail.com">vijutalent@gmail.com</a> using Job Title as subject.',
+    salary: "₦100,000 – ₦250,000 monthly",
+    deadline: "2026-07-03"
+  },
+  {
     id: "nysc-members-fadac-resources-lagos-2026",
     title: "NYSC Members (Corpers)",
     date: "2026-05-14",

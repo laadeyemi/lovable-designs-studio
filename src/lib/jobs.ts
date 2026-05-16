@@ -16,6 +16,199 @@ export type Job = {
 
 const allJobs: Job[] = [
   {
+    id: "technical-operator-grand-oak-ogun-2026",
+    title: "Technical Operator",
+    date: "2026-05-16",
+    location: "Sango Ota, Ogun",
+    type: "Full-time",
+    company: "Grand Oak Limited",
+    summary: "Carry out maintenance routine checks, supervision, and monitoring of production machines to ensure smooth and efficient operation.",
+    responsibilities: [
+      "Operate production machinery according to standard operating procedure",
+      "Develop and implement preventive and corrective maintenance schedules",
+      "Diagnose and repair minor mechanical issues on equipment promptly",
+      "Maintain detailed records of maintenance activities (repairs, replacements, inspections)",
+      "Document and maintain accurate records of production activities (material consumption and wastage)"
+    ],
+    requirements: [
+      "OND in Engineering",
+      "1-3 years of relevant experience"
+    ],
+    apply: '<a href="https://docs.google.com/forms/d/e/1FAIpQLSe77SRRFv6nXy2MDopwWDuBjvf3jhwJE_-zzemU-fllMMyOxQ/viewform?usp=send_form">Click here to apply online</a>',
+    salary: "Not Specified",
+    deadline: "2026-05-30"
+  },
+  {
+    id: "assistant-manager-supply-chain-tranos-lagos-2026",
+    title: "Assistant Manager, Supply Chain",
+    date: "2026-05-16",
+    location: "Lagos",
+    type: "Full-time",
+    company: "Tranos",
+    summary: "Manage procurement, inventory management, and logistics operations within a structured engineering environment.",
+    responsibilities: [
+      "Manage end-to-end procurement processes",
+      "Oversee inventory management and logistics",
+      "Utilize ERP systems to manage supply chain processes",
+      "Optimize supply chain efficiency and reporting"
+    ],
+    requirements: [
+      "Minimum of 5 years of experience in a Supply Chain role at a Managerial level",
+      "Strong organizational and time management skills",
+      "Excellent communication and interpersonal skills",
+      "Experience in using an ERP to manage supply chain processes"
+    ],
+    apply: 'Send CV to: <a href="mailto:careers@tranos.ng">careers@tranos.ng</a> using the Job Position as the subject.',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "mechanical-design-engineer-tranos-lagos-2026",
+    title: "Mechanical Design Engineer",
+    date: "2026-05-16",
+    location: "Lagos",
+    type: "Full-time",
+    company: "Tranos",
+    summary: "Responsible for the mechanical design of generator enclosures, panels, and battery cabinets using advanced CAD software.",
+    responsibilities: [
+      "Conduct mechanical design of generator enclosures and panels",
+      "Design battery cabinets and related enclosures",
+      "Utilize Solidworks or Solid Edge for design projects",
+      "Collaborate with engineering teams to ensure design specifications are met"
+    ],
+    requirements: [
+      "BSc in Mechanical Engineering",
+      "At least 4 years of experience as a Mechanical Design Engineer",
+      "Knowledge and hands-on experience in mechanical design of generator enclosures and panels",
+      "Proficiency in Solidworks or Solid Edge",
+      "Strong problem-solving and detail-oriented skills"
+    ],
+    apply: 'Send Cover Letter and CV to: <a href="mailto:careers@tranos.ng">careers@tranos.ng</a> using the Job Position as the subject.',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "bank-teller-cco-kimberly-ryan-lagos-2026",
+    title: "Bank Teller / Customer Care Officer (CCO)",
+    date: "2026-05-16",
+    location: "Lagos",
+    type: "Full-time",
+    company: "Kimberly Ryan",
+    summary: "Deliver efficient banking services and customer support with high standards of integrity and accuracy.",
+    responsibilities: [
+      "Process cash deposits and withdrawals",
+      "Resolve customer inquiries and complaints",
+      "Maintain accurate financial and customer records"
+    ],
+    requirements: [
+      "HND (Upper Credit & Distinction only)",
+      "Must have completed NYSC",
+      "Previous banking or customer service experience is an added advantage",
+      "Strong numerical and analytical skills",
+      "High level of integrity and attention to detail"
+    ],
+    apply: '<a href="https://docs.google.com/forms/d/e/1FAIpQLScW3m3Qgkf-NTMaeiaJvNPxVa-_t3i5uOchP_lK88j9qgNsDg/viewform">Click here to apply online</a>',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "management-trainee-sims-nigeria-lagos-2026",
+    title: "Management Trainee",
+    date: "2026-05-16",
+    location: "Victoria Island, Lagos",
+    type: "Full-time",
+    company: "SIMS Nigeria Limited",
+    summary: "Structured trainee program for high-potential graduates to build a career in operations and administration within the electronics industry.",
+    responsibilities: [
+      "Support operations, customer service, and sales support functions",
+      "Assist in administrative and business development tasks",
+      "Participate in leadership development activities",
+      "Adapt to changing business needs in a fast-paced environment"
+    ],
+    requirements: [
+      "Minimum of a MSC in Operations Support or MBA from a recognized university",
+      "3-4 years of relevant experience in operations or customer service",
+      "Experience within consumer electronics or retail industry is preferred",
+      "Proficiency in Microsoft Office, especially Excel and PowerPoint",
+      "Not older than 33 years of age"
+    ],
+    apply: 'Send CV to: <a href="mailto:employment@simsng.com">employment@simsng.com</a> using the Job Title as the subject.',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "reservoir-engineer-slb-2026",
+    title: "Reservoir Engineer / Process Sales Engineer",
+    date: "2026-05-16",
+    location: "Lagos and Port Harcourt",
+    type: "Full-time",
+    company: "Schlumberger (SLB)",
+    summary: "Strategic engineering roles in a global energy company, offering high-paying opportunities and exposure to cutting-edge oil & gas technology.",
+    responsibilities: [
+      "Apply advanced engineering principles to reservoir or process sales projects",
+      "Collaborate with global teams on energy solutions",
+      "Work with cutting-edge technology in the oil & gas sector"
+    ],
+    requirements: [
+      "Suitably qualified Nigerian graduate",
+      "Experienced engineer looking to work with a global energy company",
+      "Proven technical expertise in reservoir or process engineering"
+    ],
+    apply: '<a href="https://deroundtable.com/schlumberger-slb-recruitment-2026-high-paying-oil-gas-jobs/">Click here to apply online</a>',
+    salary: "Competitive",
+    deadline: "Not Specified"
+  },
+  {
+    id: "quality-assurance-hse-officer-president-paint-ogun-2026",
+    title: "Quality Assurance / HSE Officer",
+    date: "2026-05-16",
+    location: "Ogun State",
+    type: "Full-time",
+    company: "President Paint Nigeria Limited",
+    summary: "Ensure high quality standards and strict adherence to safety regulations within a manufacturing environment.",
+    responsibilities: [
+      "Implement quality assurance and HSE protocols",
+      "Monitor production to ensure compliance with safety regulations",
+      "Prepare quality control and safety reports",
+      "Conduct routine HSE inspections"
+    ],
+    requirements: [
+      "Minimum of HND / BSc in Chemistry, Industrial Chemistry, or related discipline",
+      "Minimum of 2 years relevant experience in quality assurance or HSE",
+      "Knowledge of quality control procedures and safety regulations",
+      "Professional certification in HSE is an added advantage",
+      "Proficiency in Microsoft Office applications"
+    ],
+    apply: 'Send CV to: <a href="mailto:human.resources@presidentpaint.com">human.resources@presidentpaint.com</a> using the job title as the subject.',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "office-manager-lextorah-lagos-2026",
+    title: "Office Manager",
+    date: "2026-05-16",
+    location: "Lagos",
+    type: "Full-time",
+    company: "LexTorah",
+    summary: "Versatile manager to oversee office administration, HR operations, and support business development teams.",
+    responsibilities: [
+      "Manage day-to-day office administration and HR functions",
+      "Support business development and operational initiatives",
+      "Lead and coordinate responsibilities across various teams",
+      "Ensure effective interpersonal communication within the organization"
+    ],
+    requirements: [
+      "Bachelor’s degree in Business Administration, HR, Management, or related field",
+      "3–5 years of experience in office administration or HR roles",
+      "Must live within Yaba and its immediate environs",
+      "Must be willing to work Monday to Saturday",
+      "Proficiency in Microsoft Office and Google Workspace"
+    ],
+    apply: 'Send CV to: <a href="mailto:hr@lextorah.com">hr@lextorah.com</a> using the Job Title as the subject.',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
     id: "quality-control-analyst-lagos-mainland-2026",
     title: "Quality Control Analyst",
     date: "2026-05-15",

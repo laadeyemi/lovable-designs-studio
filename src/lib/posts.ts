@@ -10,6 +10,484 @@ export type Post = {
 
 const allPosts: Post[] = [
   {
+    id: "uniabuja-ijmb-admission-form-2026-2027",
+    title: "UNIABUJA Opens IJMB Admission Form for 2026/2027 Academic Session",
+    category: "Education",
+    date: "2026-05-16",
+    excerpt: "The University of Abuja (UNIABUJA) has started the sale of its Interim Joint Matriculation Board (IJMB) admission form for the 2026/2027 academic session. Learn about requirements, fees, and how to apply.",
+    content:
+      `<h2>UNIABUJA IJMB Admission for 2026/2027 Academic Session</h2>
+      <p>The University of Abuja, popularly known as UNIABUJA, has started the sale of its Interim Joint Matriculation Board (IJMB) admission form for the 2026/2027 academic session.</p>
+      <p>The programme runs for one academic session and offers candidates an alternative route to gain Direct Entry admission into UNIABUJA and other Nigerian universities that accept IJMB qualifications.</p>
+      <p>Interested applicants are expected to complete their registration before the application deadline.</p>
+
+      <h2>Faculties Available for UNIABUJA IJMB Admission</h2>
+      <p>Candidates applying for the IJMB programme can seek admission into several faculties across the university. The available faculties include:</p>
+      <ul>
+        <li>Agriculture</li>
+        <li>Arts</li>
+        <li>Engineering</li>
+        <li>Environmental Sciences</li>
+        <li>Health Sciences</li>
+        <li>Law</li>
+        <li>Management Sciences</li>
+        <li>Pharmaceutical Sciences</li>
+        <li>Sciences</li>
+        <li>Social Sciences</li>
+        <li>Veterinary Medicine</li>
+      </ul>
+      <p>Applicants are advised to select faculties that align with their O’Level subject combinations and intended degree programmes.</p>
+
+      <h2>UNIABUJA IJMB Entry Requirements</h2>
+      <p>To qualify for admission, candidates must possess at least five credit passes in relevant O’Level subjects. The required subjects must include:</p>
+      <ul>
+        <li>English Language</li>
+        <li>Mathematics</li>
+        <li>Three other relevant subjects related to the chosen course</li>
+      </ul>
+      <p>Applicants should carefully confirm their subject combinations before starting the online application process.</p>
+
+      <h2>UNIABUJA IJMB Application Fees</h2>
+      <p>The university stated the following fees for the application process:</p>
+      <ul>
+        <li><strong>Application Fee:</strong> ₦25,000</li>
+        <li><strong>Acceptance Fee:</strong> ₦30,000</li>
+      </ul>
+      <p>Candidates should ensure they complete payment through the approved payment channel during registration.</p>
+
+      <h2>How to Apply for UNIABUJA IJMB Admission Form</h2>
+      <p>Applicants should complete their registration through the official UNIABUJA portal by following these steps:</p>
+      <ol>
+        <li>Visit the UNIABUJA application portal.</li>
+        <li>Click on “Start Application.”</li>
+        <li>Select “Interim Joint Matriculation Board.”</li>
+        <li>Enter required details including surname, first name, other names, email address, and phone number.</li>
+        <li>Click “Next.”</li>
+        <li>On the payment preview page, click “Generate RRR.”</li>
+        <li>Click “Make Payment” to continue to the Remita platform.</li>
+        <li>Pay using a MasterCard or Visa ATM card.</li>
+        <li>After payment, check the portal for the application number.</li>
+        <li>Applicants will also receive the application number through SMS.</li>
+        <li>Return to “Main Login.”</li>
+        <li>Enter the application number and surname to continue the application.</li>
+        <li>Complete and submit the form.</li>
+      </ol>
+      <p>Candidates are advised to print or save all payment receipts and application evidence after submission.</p>
+
+      <h2>Important Rules Applicants Should Note</h2>
+      <p>UNIABUJA advised applicants to use active email addresses and phone numbers during registration. The university will communicate important updates through SMS and email, so candidates should avoid using inaccessible contact details.</p>
+      <p>The university also noted that:</p>
+      <ul>
+        <li>Candidates who fail IJMB can reapply</li>
+        <li>Fees paid will not be refunded if a student withdraws or gets withdrawn after registration</li>
+      </ul>
+
+      <h2>UNIABUJA IJMB Application Deadline</h2>
+      <p>The deadline for the 2026/2027 UNIABUJA IJMB admission application is <strong>30 June 2026</strong>. Interested candidates are encouraged to complete their applications early before the portal closes.</p>`,
+    tags: [
+      "UNIABUJA",
+      "IJMB",
+      "Admission",
+      "Nigeria",
+      "Education",
+      "2026",
+    ],
+  },
+  {
+    id: "neco-2026-ssce-internal-registration-deadline",
+    title: "NECO Announces 2026 SSCE Internal Registration Deadline for Schools",
+    category: "Education",
+    date: "2026-05-16",
+    excerpt: "The National Examinations Council (NECO) has released the official registration schedule for the 2026 Senior School Certificate Examination (SSCE) Internal, outlining deadlines for normal and late registration.",
+    content:
+      `<h2>NECO Announces 2026 SSCE Internal Registration Deadline</h2>
+      <p>The National Examinations Council has released the official registration schedule for the 2026 Senior School Certificate Examination (SSCE) Internal.</p>
+      <p>The announcement, directed at the general public and school administrators, outlines the deadlines for normal registration, late registration, and final portal closure for the 2026 examination exercise.</p>
+      <p>According to the Council, the registration timetable was issued through an internal memo from NECO’s Registration Department.</p>
+      <p>Schools and examination officers are advised to pay close attention to the schedule, as the registration portal will close immediately after the stated deadline.</p>
+
+      <h2>Normal Registration Deadline for 2026 NECO SSCE Internal</h2>
+      <p>NECO announced that normal registration for the 2026 SSCE Internal examination will end on Monday, 25 May 2026.</p>
+      <p>School administrators are expected to complete all standard candidate registrations before the deadline to avoid additional charges or registration issues.</p>
+
+      <h2>Late Registration Period</h2>
+      <p>The Council also approved a short late registration window for schools that may not complete their entries during the normal registration period.</p>
+      <p>Late registration will run from:</p>
+      <ul>
+        <li>Tuesday, 26 May 2026</li>
+        <li>To Friday, 29 May 2026</li>
+      </ul>
+      <p>Schools are encouraged to use this period only for pending registrations, as the Council has made it clear that the portal will not remain open beyond the stated timeframe.</p>
+
+      <h2>Final Closure of NECO Registration Portal</h2>
+      <p>NECO stated that the registration website for the 2026 SSCE Internal examination will officially close at exactly 11:59 pm on Friday, 29 May 2026.</p>
+      <p>After this deadline, schools will no longer be able to access the portal for candidate registration or modifications connected to the 2026 examination exercise.</p>
+
+      <h2>NECO Urges Schools to Register Candidates Early</h2>
+      <p>The Council’s Director, Dr Charles E. Udoh, advised schools and stakeholders to speed up the registration process for their candidates.</p>
+      <p>According to the notice, NECO does not plan to extend the registration period beyond 29 May 2026.</p>
+      <p>School administrators are therefore encouraged to:</p>
+      <ul>
+        <li>Review all candidate lists carefully</li>
+        <li>Complete pending registrations early</li>
+        <li>Avoid last-minute portal activity</li>
+        <li>Ensure all candidate details are correctly entered before submission</li>
+      </ul>
+      <p>Schools that fail to meet the deadline may lose the opportunity to register candidates for the 2026 NECO SSCE Internal examination.</p>`,
+    tags: [
+      "NECO",
+      "SSCE",
+      "Registration",
+      "Deadline",
+      "Education",
+      "Nigeria",
+      "2026",
+    ],
+  },
+  {
+    id: "lasued-2026-2027-indigeneship-verification-exercise",
+    title: "LASUED Opens 2026/2027 Indigeneship Verification Exercise for Lagos State Candidates",
+    category: "Education",
+    date: "2026-05-16",
+    excerpt: "The Lagos State University of Education (LASUED) has announced the commencement of its Independent Indigeneship Verification Exercise for candidates of Lagos State origin for the 2026/2027 admission session.",
+    content:
+      `<h2>LASUED Indigeneship Verification Exercise for 2026/2027</h2>
+      <p>The Lagos State University of Education has announced the commencement of its Independent Indigeneship Verification Exercise for the 2026/2027 admission session.</p>
+      <p>The exercise is specifically for candidates of Lagos State origin who selected LASUED as their first-choice institution during the 2026 Unified Tertiary Matriculation Examination (UTME) and scored at least 185.</p>
+      <p>According to the university, only candidates who successfully complete the verification process will be considered for admission under the indigeneship category.</p>
+
+      <h2>LASUED Indigeneship Verification Registration Date</h2>
+      <p>Online registration for the verification exercise will begin on <strong>Monday, 18 May 2026</strong>. The registration portal will remain open until <strong>Sunday, 14 June 2026</strong>.</p>
+      <p>Eligible candidates are advised to complete their registration within the approved period to avoid disqualification from the exercise.</p>
+
+      <h2>LASUED Verification Interview Dates</h2>
+      <p>The verification interview exercise will run for four weeks, starting from <strong>Monday, 1 June 2026</strong>, and ending on <strong>Thursday, 25 June 2026</strong>.</p>
+      <p>Candidates are expected to attend the interview according to the official schedule released by the university at the <strong>Senator Oluremi Tinubu Hall</strong> within the university campus.</p>
+
+      <h2>LASUED Verification Interview Schedule</h2>
+      <h3>First Week</h3>
+      <ul>
+        <li>Monday, 1 June 2026</li>
+        <li>Tuesday, 2 June 2026</li>
+        <li>Wednesday, 3 June 2026</li>
+        <li>Thursday, 4 June 2026</li>
+      </ul>
+      <h3>Second Week</h3>
+      <ul>
+        <li>Monday, 8 June 2026</li>
+        <li>Tuesday, 9 June 2026</li>
+        <li>Wednesday, 10 June 2026</li>
+        <li>Thursday, 11 June 2026</li>
+      </ul>
+      <h3>Third Week</h3>
+      <ul>
+        <li>Monday, 15 June 2026</li>
+        <li>Tuesday, 16 June 2026</li>
+        <li>Wednesday, 17 June 2026</li>
+        <li>Thursday, 18 June 2026</li>
+      </ul>
+      <h3>Fourth Week</h3>
+      <ul>
+        <li>Monday, 22 June 2026</li>
+        <li>Tuesday, 23 June 2026</li>
+        <li>Wednesday, 24 June 2026</li>
+        <li>Thursday, 25 June 2026</li>
+      </ul>
+
+      <h2>Documents Required for LASUED Indigeneship Verification</h2>
+      <p>Candidates must appear for the screening with the following documents:</p>
+      <ul>
+        <li>Completed indigeneship form</li>
+        <li>Payment receipt from the official LASUED verification portal</li>
+        <li>Candidate’s birth certificate (original and photocopy)</li>
+        <li>Father’s birth certificate (original and photocopy)</li>
+        <li>Letter from a recognised Oba</li>
+        <li>Letter from Chairman of the Local Government Area</li>
+        <li>Landed property documents</li>
+      </ul>
+
+      <h2>Important Information for Candidates</h2>
+      <p>LASUED clarified that only candidates of Lagos State origin are eligible for the exercise. All applicants must obtain clearance from the Independent Indigeneship Verification Committee before they can be considered for admission.</p>
+      <p>However, the institution noted that participation in the exercise does not automatically guarantee admission, and the clearance certificate does not serve as proof of admission.</p>
+
+      <h2>Information for Old Applicants and Direct Entry Candidates</h2>
+      <p>Candidates from the 2025/2026 admission cycle who were previously verified but did not gain admission are only required to revalidate their Indigeneship Clearance Certificates at the same venue.</p>
+      <p>In addition, all Direct Entry applicants of Lagos State origin must participate in the verification exercise before they can be considered for admission.</p>
+
+      <h2>LASUED Warns Against Wrong Payments</h2>
+      <p>The university warned candidates not to pay money into personal accounts or use unofficial payment channels. Applicants who make payments outside the approved platform do so at their own risk.</p>
+      <p>Only candidates who scored <strong>185 and above</strong> in the 2026 UTME are eligible to apply for the verification exercise.</p>`,
+    tags: [
+      "LASUED",
+      "Indigeneship Verification",
+      "Lagos State",
+      "Admission",
+      "Nigeria",
+      "2026",
+    ],
+  },
+  {
+    id: "uniport-2026-2027-post-utme-screening-registration",
+    title: "UNIPORT Opens 2026/2027 Post UTME Screening Registration for Admission",
+    category: "Education",
+    date: "2026-05-16",
+    excerpt: "The University of Port Harcourt has officially opened its Post UTME screening registration for the 2026/2027 undergraduate admission exercise. Learn about eligibility, fees, and how to apply.",
+    content:
+      `<h2>UNIPORT Opens 2026/2027 Post UTME Screening Registration</h2>
+      <p>The University of Port Harcourt has officially opened its Post UTME screening registration for the 2026/2027 undergraduate admission exercise.</p>
+      <p>The screening is part of the university’s admission process for candidates seeking entry into various degree programmes for the new academic session.</p>
+      <p>According to the announcement, only eligible candidates who meet the required cut-off mark and choice conditions will be considered for screening.</p>
+
+      <h2>Who Is Eligible for UNIPORT Post UTME?</h2>
+      <p>Candidates must meet the following conditions to apply:</p>
+      <ul>
+        <li>Must have selected UNIPORT as <strong>first choice</strong> in the 2026 UTME</li>
+        <li>Must have scored <strong>at least 160</strong> in the UTME</li>
+        <li>Candidates who initially chose UNIPORT as second choice must change to first choice before applying</li>
+      </ul>
+      <p>Only candidates who satisfy these requirements will be allowed to participate in the screening exercise.</p>
+
+      <h2>UNIPORT Post UTME Registration Date</h2>
+      <p>Online registration for the screening exercise begins on <strong>Friday, 15 May 2026</strong>.</p>
+      <p>The registration portal will close at <strong>midnight on Friday, 29 May 2026</strong>.</p>
+      <p>Candidates who fail to register within the stated period will not be eligible for the screening.</p>
+
+      <h2>UNIPORT Post UTME Screening Fee</h2>
+      <p>The registration fee for the screening exercise is <strong>₦2,000</strong>.</p>
+      <p>Payment can be made in two ways:</p>
+      <ul>
+        <li>Online payment using an ATM card after generating a Remita code</li>
+        <li>Payment at any bank branch after printing the Remita payment slip</li>
+      </ul>
+      <p>Applicants are advised to ensure proper payment processing to avoid registration issues.</p>
+
+      <h2>How to Apply for UNIPORT Post UTME</h2>
+      <p>Candidates are required to complete their registration through the official screening portal.</p>
+      <p>Steps include:</p>
+      <ol>
+        <li>Visit the <a href="https://utmedetails.uniport.edu.ng/welcome_utme.php">UNIPORT Post UTME registration portal</a></li>
+        <li>Enter your UTME Registration Number</li>
+        <li>Confirm your pre-loaded UTME details</li>
+        <li>Generate a Remita payment code or print the payment slip</li>
+        <li>Pay the ₦2,000 screening fee via Remita</li>
+        <li>Obtain a Remita receipt with an access code (if paid at the bank)</li>
+        <li>Log back into the portal using your UTME number and access code</li>
+        <li>Confirm payment</li>
+        <li>Fill out the online registration form</li>
+        <li>Submit the application and print your registration slip</li>
+      </ol>
+      <p>Candidates are advised to keep their printed slip safe, as it will be required during the screening exercise.</p>
+
+      <h2>Important Rules for Candidates</h2>
+      <ul>
+        <li>Candidates must be at least <strong>16 years old by 30 September 2026</strong></li>
+        <li>The use of mobile phones, tablets, smart devices, and similar gadgets is strictly prohibited at the screening venue</li>
+        <li>Registration is fully online; candidates do not need to visit the campus</li>
+        <li>Applicants must use a valid GSM number and email address for registration</li>
+      </ul>
+
+      <h2>Technical Support and Enquiries</h2>
+      <p>For technical issues during registration, candidates can contact:</p>
+      <p>📧 <a href="mailto:putme2026@uniport.edu.ng">putme2026@uniport.edu.ng</a></p>
+      <p>📞 08123241152<br>
+      📞 08032943819<br>
+      📞 07058555101</p>
+      <p>Applicants are advised to complete their registration within the official timeframe and keep checking the university portal for further updates on the screening schedule.</p>`,
+    tags: [
+      "UNIPORT",
+      "Post UTME",
+      "Admission",
+      "Nigeria",
+      "2026",
+    ],
+  },
+  {
+    id: "delta-state-bursary-registration-2025-2026",
+    title: "Delta State Opens 2025/2026 Bursary Registration for Eligible Students",
+    category: "Scholarship",
+    date: "2026-05-16",
+    excerpt: "The Delta State Bursary and Scholarship Board has officially opened registration for the 2025/2026 Students Special Assistance Scheme (SSAS) Bursary Award Programme for eligible students of Delta State origin.",
+    content:
+      `<h2>Delta State Opens 2025/2026 Bursary Registration</h2>
+      <p>The Delta State Bursary and Scholarship Board has officially opened registration for the 2025/2026 Students Special Assistance Scheme (SSAS) Bursary Award Programme.</p>
+      <p>The bursary scheme is designed to support eligible students of Delta State origin who are studying full-time in approved universities, polytechnics, monotechnics, and colleges of education across Nigeria.</p>
+      <p>According to the Board, online registration began on Monday, 11 May 2026, and interested applicants are expected to complete their applications before the closing date on Wednesday, 10 June 2026.</p>
+      <p>Students are advised to complete the registration process early, upload all required documents, and print their acknowledgement slip before the portal closes.</p>
+
+      <h2>Delta State Bursary Application Portal</h2>
+      <p>Eligible students can apply through the <a href="https://dsbsb.dl.gov.ng/register/index.php" target="_blank" rel="noopener noreferrer">official Delta State bursary registration portal</a>.</p>
+      <p>Applicants are expected to provide accurate personal and academic information during registration, as incorrect or incomplete details may affect the application process.</p>
+
+      <h2>Requirements for Delta State Bursary Application</h2>
+      <p>The Board outlined several steps applicants must complete successfully before their application can be considered.</p>
+      <p>Applicants must:</p>
+      <ul>
+        <li>Complete the online registration process</li>
+        <li>Upload all required documents</li>
+        <li>Provide correct personal and school details</li>
+        <li>Pay a non-refundable processing fee of ₦800</li>
+        <li>Print and keep the acknowledgement slip after submission</li>
+      </ul>
+      <p>The acknowledgement slip is an important document and should be kept safe throughout the application process.</p>
+
+      <h2>Who Can Apply for the 2025/2026 Delta State Bursary?</h2>
+      <p>To qualify for the bursary programme, applicants must meet the following conditions:</p>
+      <ul>
+        <li>Be of Delta State origin</li>
+        <li>Possess a valid National Identification Number (NIN)</li>
+        <li>Be a full-time student in an approved tertiary institution</li>
+        <li>Have a minimum CGPA of 2.20</li>
+        <li>Meet the approved academic level requirement for their institution category</li>
+      </ul>
+
+      <h2>Approved Academic Levels</h2>
+      <p>The Board also released the minimum academic levels required for each institution type.</p>
+      <h3>University Students</h3>
+      <p>Applicants in universities must be in 200 Level or above to qualify.</p>
+      <h3>Polytechnic and Monotechnic Students</h3>
+      <p>Students in polytechnics and monotechnics must be in either ND II or HND II.</p>
+      <h3>College of Education Students</h3>
+      <p>Eligible applicants in colleges of education must be in NCE II or NCE III.</p>
+
+      <h2>Students Not Eligible for the Bursary</h2>
+      <p>The Board clarified that postgraduate students are not eligible for the 2025/2026 bursary programme. This includes students enrolled in PGD programmes, Master’s degree programmes, and PhD programmes.</p>
+
+      <h2>What Happens After Registration?</h2>
+      <p>Applicants are encouraged to monitor the Board’s official communication channels after submitting their forms. The Board may release additional updates regarding verification exercises, screening procedures, and other important notices connected to the bursary process.</p>
+      <p>Students should therefore stay updated both before and after the application deadline.</p>
+
+      <h2>Delta State Bursary Support and Enquiries</h2>
+      <p>Applicants who need assistance or have questions regarding the application process can contact the Board through its official support channels.</p>
+      <h3>Support Email</h3>
+      <ul>
+        <li><a href="mailto:support@dsbsb.dl.gov.ng">support@dsbsb.dl.gov.ng</a></li>
+      </ul>
+      <h3>Support Lines</h3>
+      <ul>
+        <li>0810-978-6538</li>
+        <li>0805-694-9376</li>
+        <li>0810-978-6538</li>
+      </ul>
+      <p>Students who meet the requirements are advised to apply early and ensure they keep their printed acknowledgement slip for future reference.</p>`,
+    tags: [
+      "Delta State",
+      "Bursary",
+      "Scholarship",
+      "SSAS",
+      "2026",
+    ],
+  },
+  {
+    id: "lasu-wins-25-million-jamb-award-2026",
+    title: "LASU Wins ₦25 Million JAMB Award After Emerging Nigeria’s Most Preferred University Again",
+    category: "Education",
+    date: "2026-05-16",
+    excerpt: "Lagos State University has received a ₦25 million award from the Joint Admissions and Matriculation Board after emerging as Nigeria's most subscribed university for the second consecutive year.",
+    content:
+      `<h2>LASU Emerges as Nigeria’s Most Preferred University</h2>
+      <p>Lagos State University has received a ₦25 million award from the Joint Admissions and Matriculation Board following another major milestone in Nigeria’s university admission cycle.</p>
+      <p>The award came shortly after LASU emerged as the most subscribed university in the country for the second consecutive year, with 84,326 candidates selecting the institution as their first choice during the 2026 Unified Tertiary Matriculation Examination admission exercise.</p>
+      <p>JAMB presented the award during the 2026 Policy Meeting held on Monday, 11 May 2026, in Abuja.</p>
+
+      <h2>LASU Emerges Among Top Institutions in JAMB Merit Awards</h2>
+      <p>The ₦25 million prize formed part of the National Tertiary Admissions’ Performance-Merit Award, widely known as the NATAP-M Awards.</p>
+      <p>LASU finished as the Second Runner-Up in the overall category for the 2025 admission year under the 6th edition of the award programme.</p>
+      <p>According to the details presented at the policy meeting, the university recorded an aggregate score of three points across the five assessment elements used for the Mega Award category.</p>
+      <p>The recognition further strengthens LASU’s growing national profile in admission performance and institutional competitiveness.</p>
+
+      <h2>Award Presented to LASU Vice-Chancellor</h2>
+      <p>The Registrar of JAMB, Prof. Ishaq Oloyede, presented the award to the Vice-Chancellor of LASU, Prof. Ibiyemi Ibilola Olatunji-Bello.</p>
+      <p>The presentation took place before stakeholders in Nigeria’s tertiary education sector during the annual national admission policy meeting.</p>
+      <p>The ceremony added another national recognition to LASU’s recent achievements in the education sector.</p>
+
+      <h2>LASU Retains Position as Nigeria’s Most Preferred University</h2>
+      <p>The award followed LASU’s strong showing in the 2026 admission statistics released during the UTME exercise.</p>
+      <p>A total of 84,326 candidates selected LASU as their first-choice institution, placing the university at the top of Nigeria’s admission demand chart for the second year in a row.</p>
+      <p>The figure highlights the growing preference for the university among admission seekers across the country.</p>
+
+      <h2>Vice-Chancellor Reacts to the Achievement</h2>
+      <p>Reacting to the recognition, Professor Olatunji-Bello described both achievements as evidence of LASU’s commitment to excellence, innovation, transparency, and student-focused administration.</p>
+      <p>For the university, the ₦25 million JAMB award and its record-breaking first-choice application numbers now stand as two major highlights from the same admission cycle.</p>
+      <p>Both developments have also kept LASU firmly in the national spotlight as one of Nigeria’s most sought-after public universities.</p>`,
+    tags: [
+      "LASU",
+      "JAMB",
+      "NATAP-M Awards",
+      "Education",
+      "Nigeria",
+      "Admission",
+      "2026",
+    ],
+  },
+  {
+    id: "oduduwa-university-nuc-accreditation-2025",
+    title: "Oduduwa University Secures Full NUC Accreditation for 10 Academic Programmes",
+    category: "Education",
+    date: "2026-05-15",
+    excerpt: "Oduduwa University has received full accreditation from the National Universities Commission for 10 academic programmes following the October/November 2025 accreditation exercise.",
+    content:
+      `<h2>Oduduwa University Secures Full NUC Accreditation for 10 Academic Programmes</h2>
+      <p>Oduduwa University has received full accreditation from the National Universities Commission for 10 academic programmes following the October/November 2025 accreditation exercise.</p>
+      <p>The development gives students, parents, and members of the university community fresh confidence in the institution’s academic standards and approved courses. It also confirms that the affected programmes successfully met the National Universities Commission’s requirements in curriculum quality, staffing, facilities, and research output.</p>
+      <p>The accredited programmes cut across administration, health sciences, communication studies, environmental sciences, natural sciences, and social sciences.</p>
+      <p>Among the programmes expected to attract major attention are Nursing Science, Mass Communication, and Public Administration, which all secured full accreditation after the review exercise.</p>
+
+      <h2>Full List of Fully Accredited Programmes</h2>
+      <h3>Faculty of Administration and Management Science</h3>
+      <ul>
+        <li>Public Administration</li>
+      </ul>
+      <h3>Faculty of Allied Health Sciences</h3>
+      <ul>
+        <li>Nursing Science</li>
+      </ul>
+      <h3>Faculty of Communication Arts and Media Studies</h3>
+      <ul>
+        <li>Mass Communication</li>
+      </ul>
+      <h3>Faculty of Environmental Sciences</h3>
+      <ul>
+        <li>Quantity Surveying</li>
+      </ul>
+      <h3>Faculty of Science</h3>
+      <ul>
+        <li>Biochemistry</li>
+        <li>Industrial Chemistry</li>
+        <li>Microbiology</li>
+      </ul>
+      <h3>Faculty of Social Sciences</h3>
+      <ul>
+        <li>Economics</li>
+        <li>Political Science</li>
+        <li>International Relations</li>
+      </ul>
+
+      <h2>What the NUC Evaluated</h2>
+      <p>During the October/November 2025 accreditation exercise, the National Universities Commission assessed key academic and institutional standards across the university.</p>
+      <p>The evaluation focused on:</p>
+      <ul>
+        <li>Curriculum quality</li>
+        <li>Academic staffing</li>
+        <li>Learning facilities</li>
+        <li>Research output</li>
+        <li>Overall programme delivery</li>
+      </ul>
+      <p>The successful outcome indicates that the programmes satisfied the commission’s academic benchmarks and operational standards.</p>
+
+      <h2>Vice Chancellor Speaks on the Accreditation Success</h2>
+      <p>The Vice Chancellor of Oduduwa University, Prof. C. I. N. Uche, described the accreditation result as a reflection of the university’s commitment to academic excellence and graduate development.</p>
+      <p>According to him:</p>
+      <blockquote>“Accreditation ensures our programmes remain relevant and competitive.”</blockquote>
+      <p>Prof. Uche also expressed appreciation to the university’s financial supporters for providing the resources needed during the accreditation process. He further commended members of staff for their contributions toward the successful exercise.</p>
+
+      <h2>Celebration Across the University Community</h2>
+      <p>The accreditation outcome has sparked celebration within the university community, with staff, students, and stakeholders congratulated on the achievement.</p>
+      <p>For prospective students seeking admission into the institution, the accreditation serves as an important assurance that the approved programmes meet the standards required by Nigeria’s university regulatory body.</p>`,
+    tags: [
+      "Oduduwa University", "NUC", "Accreditation", "Education", "Nigeria", "2025"
+    ],
+  },
+  {
     id: "jamb-2026-2027-cut-off-marks-announcement",
     title: "JAMB Releases 2026/2027 Cut-Off Marks for Universities, Polytechnics and Nursing Schools",
     category: "Education",

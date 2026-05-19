@@ -10,6 +10,54 @@ export type Post = {
 
 const allPosts: Post[] = [
   {
+    id: "ahns-scholarship-phase-2-2026",
+    title: "AHNS Scholarship Opens Phase 2 of 2026 Student Support Programme",
+    category: "Scholarship",
+    date: "2026-05-19",
+    excerpt: "The AHNS Scholarship Programme has announced the opening of Phase 2 of its 2026 scholarship support cycle for Nigerian students, offering tuition assistance to deserving students regardless of their institution.",
+    content:
+      `<h2>AHNS Scholarship Opens Phase 2 of 2026 Student Support Programme</h2>
+      <p>The AHNS Scholarship Programme has announced the opening of Phase 2 of its 2026 scholarship support cycle for Nigerian students.</p>
+      <p>The initiative, which operates under the theme <em>“Supporting Students for a Brighter Future,”</em> is aimed at helping students who are struggling financially to continue their education.</p>
+      <p>According to the organisers, the scholarship programme is designed to provide tuition assistance to deserving students across Nigeria, regardless of their institution, course of study, or academic level.</p>
+
+      <h2>AHNS Scholarship Eligibility</h2>
+      <p>The scholarship is open to Nigerian students who can demonstrate genuine financial need.</p>
+      <p>Unlike many scholarship programmes that focus on selected courses or institutions, the AHNS Scholarship allows students from different academic backgrounds to apply.</p>
+      <p>This means applicants from universities, polytechnics, colleges of education, and other recognised institutions may be considered for support.</p>
+
+      <h2>AHNS Scholarship Benefits</h2>
+      <p>Successful applicants will receive tuition support based on their level of financial need and the availability of funds.</p>
+      <p>The organisers explained that support may cover:</p>
+      <ul>
+        <li>Full tuition payment</li>
+        <li>Partial tuition payment</li>
+      </ul>
+      <p>Shortlisted candidates will also be required to submit their official school tuition invoice to enable direct payment processing.</p>
+
+      <h2>How to Apply for AHNS Scholarship 2026</h2>
+      <p>Interested students are expected to complete their application through the <a href="https://ahnsscholarship.com/">official AHNS Scholarship application portal</a>.</p>
+      <p>The portal also contains additional information about the scholarship programme and application requirements.</p>
+      <p>Applicants are advised to:</p>
+      <ul>
+        <li>Enter accurate personal and academic details</li>
+        <li>Submit their applications early</li>
+        <li>Ensure all required information is properly completed</li>
+      </ul>
+
+      <h2>AHNS Scholarship Application Deadline</h2>
+      <p>The organisers have not announced an official closing date for Phase 2 applications.</p>
+      <p>However, interested students are encouraged to apply as early as possible to improve their chances of consideration before the programme reaches capacity.</p>`,
+    tags: [
+      "AHNS",
+      "Scholarship",
+      "Nigeria",
+      "Education",
+      "2026",
+      "Tuition Support",
+    ],
+  },
+  {
     id: "ai-revolutionizing-personal-finance-2026",
     title: "How AI Is Revolutionizing Personal Finance Management in 2026",
     category: "Technology",

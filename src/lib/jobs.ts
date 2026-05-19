@@ -16,6 +16,185 @@ export type Job = {
 
 const allJobs: Job[] = [
   {
+    id: "manager-internal-control-arnergy-lagos-2026",
+    title: "Manager, Internal Control",
+    date: "2026-05-19",
+    location: "Ilupeju, Lagos",
+    type: "Full-time",
+    company: "Arnergy",
+    summary: "Lead internal control implementation, monitoring, and audit support within a renewable energy organization.",
+    responsibilities: [
+      "Implement and maintain internal control policies, procedures, and standard operating manuals",
+      "Monitor the effectiveness of controls across key business processes",
+      "Conduct periodic control reviews and walkthroughs to identify gaps and weaknesses",
+      "Perform process-level risk assessments across operations and support functions",
+      "Design and execute internal control testing plans",
+      "Review controls over procurement, inventory, warehouse operations, and fixed assets",
+      "Support internal audits and coordinate external audit activities",
+      "Investigate suspected control breaches and fraud prevention initiatives",
+      "Review system access controls, user rights, and data integrity in ERP systems",
+      "Provide training and awareness on internal control requirements to stakeholders"
+    ],
+    requirements: [
+      "Bachelor’s degree in Accounting, Finance, Business Administration, or related field",
+      "Professional certification (ACA, ACCA, CPA, CISA, CIA) is an advantage",
+      "5–8 years of experience in internal control, audit, risk, or compliance roles",
+      "Experience in renewable energy, power, utilities, construction, or project-based organizations is an advantage",
+      "Strong knowledge of internal control principles and audit methodologies"
+    ],
+    apply: 'Qualified candidates should send CV to <a href="mailto:recruitment@arnergy.com">recruitment@arnergy.com</a> with the Job title as subject of the email.',
+    salary: "Attractive",
+    deadline: "Not Specified"
+  },
+  {
+    id: "sales-representative-pharmaceutical-benin-city-2026",
+    title: "Sales Representative",
+    date: "2026-05-19",
+    location: "Benin City",
+    type: "Full-time",
+    company: "Pharmaceutical Company",
+    summary: "Responsible for promoting and selling pharmaceutical products, driving revenue growth, and expanding market presence within Benin City.",
+    responsibilities: [
+      "Promote and sell pharmaceutical products to pharmacies, hospitals, and healthcare outlets",
+      "Identify new business opportunities and develop strategies to grow sales",
+      "Maintain strong relationships with existing customers to ensure repeat business",
+      "Achieve assigned sales targets and contribute to revenue growth",
+      "Conduct market research to understand competitor activity and customer needs",
+      "Provide regular sales reports and feedback to management",
+      "Ensure timely collection of payments where applicable",
+      "Represent the company professionally at all times"
+    ],
+    requirements: [
+      "Minimum of BSc or HND from a recognised institution",
+      "Proven experience in sales, preferably within the healthcare or pharmaceutical sector (Minimum 2 years)",
+      "Strong communication, negotiation, and interpersonal skills",
+      "Ability to work independently and meet targets",
+      "Prior experience in pharmaceutical sales and marketing is an added advantage",
+      "Existing network within pharmacies or healthcare providers is a plus"
+    ],
+    apply: 'Interested and qualified candidates should send their CV and a brief cover note to: <a href="mailto:applyresurgir@gmail.com">applyresurgir@gmail.com</a> using the job title as the subject line.',
+    salary: "₦80,000 and above",
+    deadline: "Not Specified"
+  },
+  {
+    id: "chartered-accountant-trading-onitsha-2026",
+    title: "Chartered Accountant",
+    date: "2026-05-19",
+    location: "Onitsha, Anambra State",
+    type: "Full-time",
+    company: "Trading Company",
+    summary: "Oversee all financial activities, ensure accurate reporting, inventory accountability, and efficient financial management within an import/export trading environment.",
+    responsibilities: [
+      "Prepare monthly, quarterly, and annual financial statements",
+      "Manage inventory accounting and stock reconciliation",
+      "Oversee import/export financial documentation and cost tracking",
+      "Handle tax compliance (VAT, PAYE, Company Income Tax, etc.)",
+      "Monitor cash flow, budgeting, and financial forecasting",
+      "Reconcile bank statements and supplier accounts",
+      "Maintain accurate financial records and documentation",
+      "Implement and monitor internal financial controls",
+      "Provide financial insights to management for business decisions"
+    ],
+    requirements: [
+      "Must be a Chartered Accountant (ICAN/ACCA certified)",
+      "Minimum of 2–3 years post-qualification experience",
+      "B.Sc or HND in Accounting",
+      "Strong inventory management experience and tech-savvy",
+      "Strong accounting background in a trading company preferred",
+      "Candidate from AkwaIbom State is not preferred (per employer specification)"
+    ],
+    apply: 'Interested and qualified candidates should send their CV to <a href="mailto:applyresurgir@gmail.com">applyresurgir@gmail.com</a> with “Chartered Accountant” as the subject line.',
+    salary: "₦200,000 Monthly",
+    deadline: "Not Specified"
+  },
+  {
+    id: "real-estate-marketer-lekki-lagos-2026",
+    title: "Real Estate Marketer",
+    date: "2026-05-19",
+    location: "Lekki, Lagos",
+    type: "Full-time",
+    company: "Real Estate Company",
+    summary: "Proactive and results-driven individual to promote and sell real estate properties, develop marketing strategies, and build strong client relationships.",
+    responsibilities: [
+      "Develop and implement effective marketing strategies to promote company properties",
+      "Identify and generate leads through various marketing channels",
+      "Promote property listings to prospective buyers and investors",
+      "Manage client relationships and provide professional real estate advisory services",
+      "Initiate, negotiate, and close real estate transactions",
+      "Conduct property presentations, inspections, and site visits with clients",
+      "Support brand visibility through strategic sales and marketing activities",
+      "Utilize digital marketing tools and platforms to promote property sales"
+    ],
+    requirements: [
+      "Bachelor’s Degree (B.Sc) in Marketing, Estate Management, or a related field",
+      "3 – 6 years of experience in real estate marketing or sales",
+      "Strong knowledge of real estate marketing strategies and property sales",
+      "Excellent communication, negotiation, and interpersonal skills",
+      "Candidates must reside within or close to Lekki Phase 1",
+      "Familiarity with digital marketing tools and online property platforms"
+    ],
+    apply: 'Interested and qualified candidates should send their CV to <a href="mailto:applyresurgir@gmail.com">applyresurgir@gmail.com</a> with “Real Estate Marketer” as the subject line.',
+    salary: "₦150,000 – ₦180,000 Monthly + Incentives",
+    deadline: "Not Specified"
+  },
+  {
+    id: "graduate-manager-lugbe-abuja-2026",
+    title: "Graduate Manager",
+    date: "2026-05-19",
+    location: "Lugbe, Abuja",
+    type: "Full-time",
+    company: "Manufacturing Company",
+    summary: "Manage daily production activities, coordinate factory staff, oversee supplies and materials, and support operational efficiency in a block manufacturing environment.",
+    responsibilities: [
+      "Supervise daily production and factory operations",
+      "Coordinate staff schedules, duties, and performance",
+      "Manage raw materials, supplies, and inventory (cement, sand, moulds, etc.)",
+      "Monitor production output and ensure quality control standards are met",
+      "Perform calculations for material usage, production planning, and costing",
+      "Maintain accurate records, reports, and operational documentation",
+      "Ensure compliance with safety, operational, and company policies",
+      "Liaise with management to ensure smooth workflow and timely delivery"
+    ],
+    requirements: [
+      "Male candidate, aged between 30 – 35 years",
+      "Graduate in any relevant discipline",
+      "Strong numerical and analytical skills (very important)",
+      "Minimum of 2 – 5 years relevant work experience in manufacturing or operations",
+      "Proven ability to coordinate staff and manage daily operations",
+      "Ability to work under pressure and meet production targets"
+    ],
+    apply: 'Interested and qualified candidates should send their CV to <a href="mailto:applyresurgir@gmail.com">applyresurgir@gmail.com</a> with the job title as the subject line.',
+    salary: "₦150,000 – ₦200,000",
+    deadline: "Not Specified"
+  },
+  {
+    id: "wig-maker-hairstylist-lagos-2026",
+    title: "Wig Maker / Hairstylist",
+    date: "2026-05-19",
+    location: "Lagos",
+    type: "Full-time",
+    summary: "Passionate and skilled professional for glueless wig making, styling luxury wigs, and delivering salon-ready luxury looks.",
+    responsibilities: [
+      "Wig construction and customization",
+      "Wig styling and finishing",
+      "Revamping old wigs to luxury standard",
+      "Coloring, curling, straightening, and cutting wigs",
+      "Maintaining cleanliness of tools and workspace",
+      "Assisting with client wig fittings when necessary"
+    ],
+    requirements: [
+      "Must be experienced in glueless wig making and luxury styling",
+      "Ability to create clean bob cuts and layered styles",
+      "Understand luxury finishing and salon-ready presentation",
+      "Previous experience as a wig maker or hairstylist",
+      "Must have proof/sample videos or pictures of past work",
+      "Must be available to work physically in Lagos"
+    ],
+    apply: 'Send proof of your work to our WhatsApp line: <a href="https://wa.me/2348142980924">08142980924</a>',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
     id: "technical-operator-grand-oak-ogun-2026",
     title: "Technical Operator",
     date: "2026-05-16",

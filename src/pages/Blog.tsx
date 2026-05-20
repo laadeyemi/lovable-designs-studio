@@ -1,16 +1,28 @@
+/** @jsx React.createElement */
+/** @jsxRuntime classic */
 import React, { useMemo, useState } from "react";
 import { AdBanner } from "@/components/AdBanner";
 import { Navbar } from "@/components/Navbar";
 import { Footer } from "@/components/Footer";
-import { Link } from "react-router-dom";
 import { posts } from "@/lib/posts";
+
+type BlogPost = {
+  id: string | number;
+  title: string;
+  excerpt: string;
+  date: string;
+  category: string;
+  tags?: string[];
+};
 
 const Blog = () => {
   const [query, setQuery] = useState("");
   const [category, setCategory] = useState<string | null>(null);
-  
-  const categories = useMemo(() => {
-    return Array.from(new Set(posts.map((p) => p.category)));
+
+  const blogPosts = posts as BlogPost[];
+
+  const categories = useMemo<string[]>(() => {
+    return Array.from(new Set(blogPosts.map((p) => p.category)));
   }, []);
 
   const filtered = useMemo(() => {
@@ -70,9 +82,9 @@ const Blog = () => {
                 <div className="flex items-start justify-between gap-4">
                   <div className="flex-1">
                     <h3 className="font-display text-lg font-semibold mb-2">
-                      <Link to={`/blog/${post.id}`} className="hover:underline">
+                      <a href={`/blog/${post.id}`} className="hover:underline">
                         {post.title}
-                      </Link>
+                      </a>
                     </h3>
                     <div className="text-xs text-muted-foreground mb-3">{post.date} • {post.category}</div>
                     <p className="text-sm text-muted-foreground mb-4">{post.excerpt}</p>

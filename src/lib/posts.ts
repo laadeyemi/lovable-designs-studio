@@ -10,6 +10,194 @@ export type Post = {
 
 const allPosts: Post[] = [
   {
+    id: "mountain-top-university-post-utme-admission-form-2026-2027",
+    title: "Mountain Top University Opens 2026/2027 Post UTME Admission Form",
+    category: "Education",
+    date: "2026-05-20",
+    excerpt: "Mountain Top University (MTU) has announced the release of its Post UTME application form for the 2026/2027 academic session. Discover available courses and special tuition rebates.",
+    content:
+      `<h2>Mountain Top University Opens 2026/2027 Post UTME Admission Form</h2>
+      <p>Mountain Top University has announced the release of its Post UTME application form for the 2026/2027 academic session.</p>
+      <p>The admission exercise is open to candidates seeking undergraduate degree programmes across the university’s approved colleges.</p>
+      <p>Applicants are advised to review the available courses carefully before applying, as each programme is assigned to a specific college within the institution.</p>
+
+      <h2>Colleges and Available Undergraduate Courses at MTU</h2>
+      <h3>College of Humanities, Management & Social Sciences</h3>
+      <ul>
+        <li>Accounting</li>
+        <li>Business Administration</li>
+        <li>Economics</li>
+        <li>English</li>
+        <li>Finance</li>
+        <li>Fine and Applied Arts</li>
+        <li>International Relations</li>
+        <li>Industrial Relations and Personnel Management</li>
+        <li>Mass Communication</li>
+        <li>Music</li>
+        <li>Public Administration</li>
+        <li>Religious Studies</li>
+        <li>Securities and Investment</li>
+      </ul>
+
+      <h3>College of Basic & Applied Sciences</h3>
+      <ul>
+        <li>Biology</li>
+        <li>Biochemistry</li>
+        <li>Chemistry</li>
+        <li>Biotechnology</li>
+        <li>Computer Science</li>
+        <li>Cyber Security</li>
+        <li>Data Science</li>
+        <li>Environmental Management and Toxicology</li>
+        <li>Food Science & Technology</li>
+        <li>Geology</li>
+        <li>Geophysics</li>
+        <li>Industrial Chemistry</li>
+        <li>Information and Communication Technology</li>
+        <li>Information Systems</li>
+        <li>Mathematics</li>
+        <li>Microbiology</li>
+        <li>Physics</li>
+        <li>Physics with Electronics</li>
+        <li>Software Engineering</li>
+      </ul>
+
+      <h3>College of Allied Health Sciences</h3>
+      <ul>
+        <li>Nursing Science</li>
+        <li>Medical Laboratory Science</li>
+        <li>Biomedical Technology</li>
+        <li>Community Health</li>
+        <li>Public Health</li>
+        <li>Nutrition and Dietetics</li>
+      </ul>
+
+      <h2>MTU Study Features</h2>
+      <p>The university highlighted several academic and campus facilities designed to support student learning and development, including well-equipped laboratories, air-conditioned classrooms, scholarship opportunities, a hybrid library system, and a Wi-Fi enabled campus with a morally guided learning environment.</p>
+
+      <h2>Courses With 50% Tuition Rebate</h2>
+      <p>Mountain Top University also offers a 50% tuition rebate for selected programmes. The affected courses include:</p>
+      <ul>
+        <li>Physics</li>
+        <li>Biology</li>
+        <li>Religious Studies</li>
+        <li>Mathematics</li>
+        <li>Chemistry</li>
+      </ul>
+
+      <h2>General Admission Requirements</h2>
+      <p>Candidates applying for 100 Level admission must meet the following conditions:</p>
+      <ul>
+        <li>Minimum of five (5) O’Level credit passes in WAEC, NECO, NABTEB, or equivalent in not more than two sittings.</li>
+        <li>Subjects must be relevant to the chosen course of study.</li>
+        <li>Must have sat for the UTME examination and met the approved cut-off mark.</li>
+      </ul>
+
+      <h2>How to Apply for MTU Post UTME</h2>
+      <p>Interested candidates are required to complete their application through the <a href="https://applications.mtu.edu.ng/fresh-application">official MTU admission portal</a>.</p>
+      <p>Applicants should fill in accurate personal and academic details, upload all required documents, and submit the completed application form online.</p>
+
+      <h2>Contact for Enquiries</h2>
+      <p>For further information or assistance, applicants can contact the university via:</p>
+      <p>
+        📞 0806 096 9250<br/>
+        📞 0803 780 7841<br/>
+        📞 0803 950 5596
+      </p>
+
+      <h2>Final Note</h2>
+      <p>The 2026/2027 Post UTME application process at Mountain Top University is now open. Applicants are encouraged to choose their programmes carefully, meet all requirements, and complete their registration within the application period.</p>`,
+    tags: ["MTU", "Mountain Top University", "Post UTME", "Admission", "2026/2027", "Education", "Nigeria"],
+  },
+  {
+    id: "ds-adegbenro-ict-polytechnic-post-utme-2026-2027",
+    title: "D.S. Adegbenro ICT Polytechnic Opens 2026/2027 Post UTME Admission Form",
+    category: "Education",
+    date: "2026-05-20",
+    excerpt: "D.S. Adegbenro ICT Polytechnic has commenced the sale of its Post UTME application form for the 2026/2027 academic session for candidates seeking admission into full-time National Diploma (ND) programmes.",
+    content:
+      `<h2>D.S. Adegbenro ICT Polytechnic Opens 2026/2027 Post UTME Admission Form</h2>
+      <p>D.S. Adegbenro ICT Polytechnic has commenced the sale of its Post UTME application form for the 2026/2027 academic session.</p>
+      <p>The admission exercise is for candidates seeking admission into full-time National Diploma (ND) programmes offered by the polytechnic.</p>
+      <p>According to the institution, candidates who scored 100 and above in the 2026 Unified Tertiary Matriculation Examination (UTME) are eligible to apply.</p>
+      <p>Applicants who scored below 100 may consider the institution’s part-time ND programmes, which offer weekday and weekend study options.</p>
+
+      <h2>Available ND Full-Time Courses</h2>
+      <p>The polytechnic listed the following National Diploma full-time programmes for the 2026/2027 admission session:</p>
+      <ul>
+        <li>Accountancy</li>
+        <li>Architectural Technology</li>
+        <li>Banking and Finance</li>
+        <li>Building Technology</li>
+        <li>Business Administration</li>
+        <li>Computer Engineering</li>
+        <li>Computer Science</li>
+        <li>Electrical and Electronics Engineering</li>
+        <li>Estate Management and Valuation</li>
+        <li>Library and Information Science</li>
+        <li>Marketing</li>
+        <li>Mass Communication</li>
+        <li>Office Technology Management</li>
+        <li>Public Administration</li>
+        <li>Science Laboratory Technology</li>
+        <li>Statistics</li>
+        <li>Surveying and Geo-Informatics</li>
+      </ul>
+      <p>Candidates are advised to choose courses that align with their UTME subject combination and academic interests.</p>
+
+      <h2>Eligibility for D.S. Adegbenro ICT Poly Post UTME</h2>
+      <p>To qualify for the screening exercise, applicants must:</p>
+      <ul>
+        <li>Score at least 100 in the 2026 UTME</li>
+        <li>Apply for admission into a full-time ND programme at the polytechnic</li>
+      </ul>
+      <p>Candidates should ensure all information supplied during registration is accurate.</p>
+
+      <h2>How to Apply for D.S. Adegbenro ICT Polytechnic Post UTME</h2>
+      <p>Applicants are expected to complete the application process through the <a href="https://v4.dsadegbenropoly.edu.ng/admission/apply/application">official admission portal of the institution</a>.</p>
+      <p>The portal handles:</p>
+      <ul>
+        <li>Account creation</li>
+        <li>Email verification</li>
+        <li>Fee payment</li>
+        <li>Admission form completion</li>
+        <li>Printing of screening documents</li>
+      </ul>
+      <p>Candidates must use a valid and accessible email address because login and verification details will be sent through email.</p>
+
+      <h2>Step-by-Step Application Guide</h2>
+      <p>Applicants should carefully follow the instructions below when completing the form:</p>
+      <ol>
+        <li>Read the application instructions on the portal</li>
+        <li>Tick the checkbox to confirm the instructions have been read</li>
+        <li>Click the “Continue Admission” button</li>
+        <li>Select the preferred study programme</li>
+        <li>Click “Apply” beside the chosen programme</li>
+        <li>Fill out the account creation form correctly</li>
+        <li>Provide a valid email address</li>
+        <li>Click “Create Account” to continue</li>
+        <li>Check the registered email address for the validation link</li>
+        <li>Activate the account using the email link</li>
+        <li>Log in with the username and password sent to the email</li>
+        <li>Pay the application fee</li>
+        <li>Complete the admission form carefully</li>
+        <li>Print the completed application form</li>
+        <li>Print the screening slip for reference</li>
+      </ol>
+      <p>Applicants are encouraged to review all information carefully before final submission.</p>
+
+      <h2>Information for Returning Applicants</h2>
+      <p>Candidates who already created an account previously should not open a new account.</p>
+      <p>Returning applicants should click “Return to Login Page”, sign in using their existing username and password, access the admission module within their student profile, and continue or complete their application.</p>
+
+      <h2>Important Account Security Notice</h2>
+      <p>The institution advised applicants to improve account security after registration. Candidates are encouraged to change their default password through the Edit Profile section and enable Two-Factor Authentication (2FA) for extra security.</p>
+
+      <h2>Final Note for Applicants</h2>
+      <p>The 2026/2027 D.S. Adegbenro ICT Polytechnic Post UTME form is available for candidates who scored 100 and above in UTME. Applicants should complete their registration through the official portal, select their preferred courses carefully, and print all important documents after submitting the application form.</p>`,
+    tags: ["D.S. Adegbenro", "ICT Polytechnic", "Post UTME", "Admission", "ND", "2026/2027", "Education", "Nigeria"],
+  },
+  {
     id: "adeleke-university-postgraduate-admission-2026-2027",
     title: "Adeleke University Opens 2026/2027 Postgraduate Admission Application",
     category: "Education",

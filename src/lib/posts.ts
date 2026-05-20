@@ -10,6 +10,311 @@ export type Post = {
 
 const allPosts: Post[] = [
   {
+    id: "auchi-polytechnic-post-utme-admission-2026-2027",
+    title: "Auchi Polytechnic Opens 2026/2027 Post UTME Application for ND Admission",
+    category: "Education",
+    date: "2026-05-20",
+    excerpt: "Auchi Polytechnic has officially commenced its Post UTME application for candidates seeking admission into full-time National Diploma (ND) programmes for the 2026/2027 academic session.",
+    content:
+      `<h2>Auchi Polytechnic Opens 2026/2027 Post UTME Application for ND Admission</h2>
+      <p>Auchi Polytechnic has officially commenced its Post UTME application for candidates seeking admission into full-time National Diploma (ND) programmes for the 2026/2027 academic session.</p>
+      <p>The admission exercise is open to qualified UTME candidates who meet the institution’s requirements and selected Auchi Polytechnic as their first-choice institution in the 2026 UTME.</p>
+
+      <h2>Eligibility for Auchi Polytechnic Post UTME</h2>
+      <p>To be eligible for admission screening, candidates must:</p>
+      <ul>
+        <li>Have sat for the 2026 Unified Tertiary Matriculation Examination (UTME)</li>
+        <li>Select Auchi Polytechnic as their <strong>first choice institution</strong></li>
+        <li>Meet the required JAMB cut-off mark as specified by the polytechnic</li>
+        <li>Possess at least <strong>five (5) O’Level credit passes at one sitting</strong>, or <strong>six (6) credits at not more than two sittings</strong></li>
+        <li>Credits must include <strong>English Language and Mathematics</strong></li>
+      </ul>
+      <p>Candidates who initially selected Auchi Polytechnic as second choice must change to first choice before applying.</p>
+
+      <h2>Auchi Polytechnic Post UTME Screening Fee</h2>
+      <p>All applicants are required to pay a <strong>₦2,000 CBT screening fee</strong>.</p>
+      <p>Payment must be made using the Remita Retrieval Reference (RRR) generated from the official Auchi Polytechnic portal.</p>
+
+      <h2>How to Apply for Auchi Polytechnic Post UTME</h2>
+      <p>Applicants are required to complete their registration online through the <a href="https://www.auchipoly-online.com/jamb_register1.php">official admission portal</a>.</p>
+      <p>The application process involves generating a Remita invoice, making payment, and completing the screening form.</p>
+
+      <h2>Step-by-Step Application Process</h2>
+      <ol>
+        <li>Visit the official <a href="https://www.auchipoly-online.com/jamb_register1.php">Auchi Polytechnic Post UTME portal</a></li>
+        <li>Fill in the required personal and academic details</li>
+        <li>Generate a Remita Retrieval Reference (RRR) invoice</li>
+        <li>Make payment online or through any approved bank channel</li>
+        <li>Return to the polytechnic admission portal</li>
+        <li>Complete the online application form</li>
+        <li>Upload all required academic credentials</li>
+        <li>Complete the eligibility clearance form where applicable</li>
+      </ol>
+      <p>Applicants are advised to ensure all information is correct before final submission.</p>
+
+      <h2>Important Information for Candidates</h2>
+      <p>Auchi Polytechnic has emphasized that only candidates who follow the correct application process will be considered for admission.</p>
+      <p>Applicants are expected to:</p>
+      <ul>
+        <li>Confirm their JAMB choice status before applying</li>
+        <li>Pay the ₦2,000 screening fee through the approved Remita platform</li>
+        <li>Upload all required documents</li>
+        <li>Complete the application form within the official portal</li>
+      </ul>
+
+      <h2>Final Note</h2>
+      <p>The 2026/2027 Post UTME admission process at Auchi Polytechnic is now open for eligible candidates.</p>
+      <p>Applicants are advised to complete their registration early, ensure accurate information is provided, and follow all instructions on the official admission portal.</p>`,
+    tags: [
+      "Auchi Polytechnic",
+      "Post UTME",
+      "Admission",
+      "ND",
+      "2026/2027",
+      "Education",
+      "Nigeria",
+    ],
+  },
+  {
+    id: "ndu-post-utme-screening-registration-2026-2027",
+    title: "Niger Delta University Opens 2026/2027 Post UTME Screening Registration",
+    category: "Education",
+    date: "2026-05-20",
+    excerpt: "Niger Delta University (NDU) has announced the commencement of its Post UTME and Direct Entry screening application for the 2026/2027 academic session.",
+    content:
+      `<h2>Niger Delta University Opens 2026/2027 Post UTME Screening Registration</h2>
+      <p>Niger Delta University has announced the commencement of its Post UTME and Direct Entry screening application for the 2026/2027 academic session.</p>
+      <p>The screening exercise is for qualified UTME and Direct Entry candidates seeking admission into various undergraduate programmes at the university.</p>
+      <p>According to the announcement, only eligible candidates who meet the requirements will be allowed to participate in the admission screening process.</p>
+
+      <h2>NDU Post UTME Eligibility Requirements</h2>
+      <p>Candidates are eligible to apply if they:</p>
+      <ul>
+        <li>Selected Niger Delta University as <strong>first choice</strong> in the 2026 UTME</li>
+        <li>Scored <strong>150 and above</strong> in the UTME</li>
+        <li>Are at least <strong>16 years old by 30 September 2026</strong></li>
+      </ul>
+      <p>Applicants are advised to confirm their eligibility before starting the registration process.</p>
+
+      <h2>NDU Screening Form Application Date</h2>
+      <p>The sale of the Post UTME screening form will begin on <strong>Monday, 1 June 2026</strong>.</p>
+      <p>Candidates are expected to complete and submit their application within the official registration period.</p>
+
+      <h2>How to Apply for NDU Post UTME Screening Form</h2>
+      <p>Applicants are required to complete their registration through the official NDU admission portal. The application process involves providing JAMB details, personal information, O’Level results, and making online payment.</p>
+
+      <h3>Step-by-Step Application Process</h3>
+      <ol>
+        <li>Visit the official <a href="https://nduportal.com/">NDU admission portal</a></li>
+        <li>Enter your JAMB registration number and UTME score</li>
+        <li>Fill in personal details including GSM number and email address</li>
+        <li>Pay the ₦2,000 screening fee via the online payment platform</li>
+        <li>Enter your O’Level results and grades</li>
+        <li>Preview the application form carefully</li>
+        <li>Make corrections where necessary</li>
+        <li>Submit the completed form</li>
+        <li>Print out the application slip</li>
+      </ol>
+      <p>Applicants are advised to ensure all information is accurate before submission, as incorrect details may affect admission processing.</p>
+
+      <h2>Direct Entry Candidates</h2>
+      <p>Direct Entry applicants who selected Niger Delta University as their first choice must also complete the screening form. All Direct Entry applications must be submitted on or before <strong>31 July 2026</strong>.</p>
+
+      <h2>Change of Institution Option</h2>
+      <p>Candidates who did not initially select NDU as their first choice can change their institution through JAMB. After updating their choice to NDU, they can proceed to apply for the Post UTME screening before the deadline.</p>
+
+      <h2>NDU Screening Deadline and Examination Date</h2>
+      <ul>
+        <li>Application Deadline: <strong>31 July 2026</strong></li>
+        <li>Screening Examination: <strong>3 August – 7 August 2026</strong></li>
+      </ul>
+      <p>Candidates are expected to strictly adhere to these dates.</p>
+
+      <h2>Important Instructions for Applicants</h2>
+      <p>The university has issued the following guidelines:</p>
+      <ul>
+        <li>Candidates must upload their O’Level results on the <a href="https://myschoolgist.com/news/pload-olevel-result-jamb-portal/">JAMB CAPS portal</a></li>
+        <li>Failure to upload O’Level results on CAPS will lead to disqualification</li>
+        <li>Applicants are responsible for the accuracy of all information submitted</li>
+        <li>Correct GSM number and email address must be provided for communication</li>
+        <li>Candidates must print and keep their application slip for the screening exercise</li>
+      </ul>
+
+      <h2>Final Note</h2>
+      <p>The 2026/2027 NDU Post UTME screening registration is now open for eligible candidates. Applicants are encouraged to complete their registration early, ensure accurate details, and follow all admission instructions carefully before the deadline.</p>`,
+    tags: [
+      "NDU",
+      "Niger Delta University",
+      "Post UTME",
+      "Admission",
+      "2026/2027",
+      "Education",
+      "Nigeria",
+      "Direct Entry",
+    ],
+  },
+  {
+    id: "ds-adegbenro-ict-polytechnic-hnd-admission-2026-2027",
+    title: "D.S. Adegbenro ICT Polytechnic Opens 2026/2027 HND Admission Form",
+    category: "Education",
+    date: "2026-05-20",
+    excerpt: "D.S. Adegbenro ICT Polytechnic has announced the commencement of admission into its Higher National Diploma (HND) programmes for the 2026/2027 academic session.",
+    content:
+      `<h2>D.S. Adegbenro ICT Polytechnic Opens 2026/2027 HND Admission Form</h2>
+      <p>D.S. Adegbenro ICT Polytechnic has announced the commencement of admission into its Higher National Diploma (HND) programmes for the 2026/2027 academic session.</p>
+      <p>Qualified candidates who meet the admission requirements can now apply through the institution’s official admission portal.</p>
+      <p>The admission exercise is open to applicants seeking Higher National Diploma programmes in relevant fields offered by the polytechnic.</p>
+
+      <h2>D.S. Adegbenro ICT Poly HND Admission Requirements</h2>
+      <p>Candidates applying for HND admission must satisfy the following conditions:</p>
+      <ul>
+        <li>Possess a National Diploma (ND) with at least a Lower Credit in a relevant discipline</li>
+        <li>Have five relevant O’Level credit passes in WAEC, GCE, NECO, or NABTEB obtained in not more than two sittings</li>
+        <li>English Language and Mathematics are compulsory subjects</li>
+        <li>Present evidence of one-year post-ND Industrial Training (IT) experience</li>
+        <li>Candidates with a Pass grade in ND must have at least two years of industrial experience after graduation</li>
+      </ul>
+      <p>The polytechnic also noted that professional certifications such as:</p>
+      <ul>
+        <li>ICAN</li>
+        <li>ACA</li>
+        <li>ANAN</li>
+      </ul>
+      <p>may provide applicants with an added advantage during the admission process.</p>
+      <p>Applicants are also expected to have completed both their National Diploma programme and the mandatory Industrial Training requirement before applying.</p>
+
+      <h2>Application Fee and Portal Access Fee</h2>
+      <p>The HND application process is completed online.</p>
+      <p>Applicants are required to pay:</p>
+      <ul>
+        <li>Screening Fee — ₦2,000</li>
+        <li>Portal Access Fee — ₦5,000</li>
+      </ul>
+      <p>Payments should be made online using either a Mastercard or VISA ATM card.</p>
+      <p>Candidates are advised to print their payment receipts after successful payment for record purposes.</p>
+
+      <h2>How to Apply for D.S. Adegbenro ICT Polytechnic HND Admission</h2>
+      <p>Interested candidates should complete their application through the <a href="https://v4.dsadegbenropoly.edu.ng/admission/apply/application">official admission portal of the institution</a>.</p>
+      <p>The online application process includes:</p>
+      <ul>
+        <li>Profile creation</li>
+        <li>Email verification</li>
+        <li>Fee payment</li>
+        <li>Form completion</li>
+        <li>O’Level result verification</li>
+        <li>Printing of application documents</li>
+      </ul>
+      <p>Applicants are advised to provide accurate details during registration because all login and activation information will be sent to the supplied email address.</p>
+
+      <h2>Step-by-Step Registration Guide</h2>
+      <p>Candidates should carefully follow these application steps:</p>
+      <ol>
+        <li>Click on “Apply Now” on the admission portal</li>
+        <li>Fill out the account profile creation form</li>
+        <li>Provide a valid email address and phone number</li>
+        <li>Check the inbox or spam folder for the activation link and login details</li>
+        <li>Activate the account using the link sent through email</li>
+        <li>Log in using the provided login credentials</li>
+        <li>Pay the required application fees</li>
+        <li>Complete the application form with correct information</li>
+        <li>Review all entries carefully before submission</li>
+        <li>Submit the form</li>
+        <li>Print the application form and screening slip</li>
+      </ol>
+      <p>Applicants are encouraged to keep all printed documents safely for future reference.</p>
+
+      <h2>O’Level Result Verification</h2>
+      <p>Applicants are also required to obtain the appropriate Result Checker scratch card for WAEC, NECO, or NABTEB to verify O’Level results through the online verification system.</p>
+
+      <h2>Final Note</h2>
+      <p>The 2026/2027 HND admission process at D.S. Adegbenro ICT Polytechnic is currently open for qualified applicants. Candidates are advised to review the requirements carefully and print all necessary documents after submission.</p>`,
+    tags: [
+      "D.S. Adegbenro",
+      "ICT Polytechnic",
+      "HND",
+      "Admission",
+      "2026/2027",
+      "Education",
+      "Nigeria",
+    ],
+  },
+  {
+    id: "azman-university-undergraduate-admission-2026-2027",
+    title: "Azman University Opens 2026/2027 Undergraduate Admission for UTME and Direct Entry Candidates",
+    category: "Education",
+    date: "2026-05-20",
+    excerpt: "Azman University has officially opened its undergraduate admission application for the 2026/2027 academic session for both UTME and Direct Entry candidates.",
+    content:
+      `<h2>Azman University Opens 2026/2027 Undergraduate Admission for UTME and Direct Entry Candidates</h2>
+      <p>Azman University has officially opened its undergraduate admission application for the 2026/2027 academic session.</p>
+      <p>The admission form is available for both UTME and Direct Entry candidates who meet the university’s entry requirements.</p>
+      <p>The institution stated that it welcomes qualified applicants regardless of religion, ethnicity, or gender.</p>
+
+      <h2>General Admission Requirements</h2>
+      <p>To be eligible for admission into Azman University, candidates must meet the following conditions:</p>
+      <ul>
+        <li>Minimum of five (5) O’Level credit passes, including English Language and Mathematics</li>
+        <li>Credits must be obtained in not more than two sittings (SSCE, WAEC, NECO, or equivalent)</li>
+        <li>Candidates must be at least 16 years old</li>
+        <li>Minimum JAMB score of 150</li>
+      </ul>
+      <p>Applicants are advised to ensure they meet all requirements before beginning the application process.</p>
+
+      <h2>UTME Admission (100 Level Entry)</h2>
+      <p>Candidates applying through UTME for 100 Level admission must:</p>
+      <ul>
+        <li>Sit for the JAMB UTME examination</li>
+        <li>Score at least 150</li>
+        <li>Possess five relevant O’Level credit passes, including English Language and Mathematics</li>
+      </ul>
+      <p>Eligible candidates will be considered for admission into various undergraduate programmes.</p>
+
+      <h2>Direct Entry Admission (200 Level Entry)</h2>
+      <p>Candidates applying for Direct Entry admission into 200 Level must meet the following requirements:</p>
+      <ul>
+        <li>Five O’Level credit passes, including English Language and Mathematics</li>
+        <li>One of the following qualifications:
+          <ul>
+            <li>Two A’Level passes in relevant subjects</li>
+            <li>National Diploma (ND) with credit</li>
+            <li>Recognised first degree</li>
+          </ul>
+        </li>
+      </ul>
+      <p>These qualifications allow candidates to gain admission directly into the second year of study.</p>
+
+      <h2>Important Notice on Transfer Students</h2>
+      <p>The university has stated that it will not accept transfer students until it has completed its first two academic years.</p>
+      <p>Prospective applicants seeking transfer admission are advised to take note of this policy before making enquiries.</p>
+
+      <h2>How to Apply for Azman University Admission</h2>
+      <p>The application process is fully online.</p>
+      <p>Candidates should follow these steps:</p>
+      <ol>
+        <li>Visit the official <a href="https://apply.azmanuniversity.edu.ng/auth/register.php">Azman University admission portal</a></li>
+        <li>Enter accurate personal details</li>
+        <li>Click on “Sign Up”</li>
+        <li>Log in using the email and password created during registration</li>
+        <li>Complete all sections of the application form</li>
+        <li>Review and submit the application</li>
+      </ol>
+      <p>After submission, candidates should wait for further instructions from the university regarding the next stage of the admission process.</p>
+
+      <h2>Final Note</h2>
+      <p>The 2026/2027 Post UTME and Direct Entry admission process at Azman University is now open.</p>
+      <p>Applicants are advised to carefully review all UTME, Direct Entry, and age requirements before completing the online application form.</p>`,
+    tags: [
+      "Azman University",
+      "Admission",
+      "Undergraduate",
+      "2026/2027",
+      "UTME",
+      "Direct Entry",
+      "Education",
+      "Nigeria",
+    ],
+  },
+  {
     id: "mountain-top-university-post-utme-admission-form-2026-2027",
     title: "Mountain Top University Opens 2026/2027 Post UTME Admission Form",
     category: "Education",

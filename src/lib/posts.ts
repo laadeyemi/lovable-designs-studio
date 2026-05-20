@@ -10,6 +10,406 @@ export type Post = {
 
 const allPosts: Post[] = [
   {
+    id: "adeleke-university-postgraduate-admission-2026-2027",
+    title: "Adeleke University Opens 2026/2027 Postgraduate Admission Application",
+    category: "Education",
+    date: "2026-05-20",
+    excerpt: "Adeleke University has announced the commencement of postgraduate admission for the 2026/2027 academic session through its College of Postgraduate Studies.",
+    content:
+      `<h2>Adeleke University Opens 2026/2027 Postgraduate Admission Application</h2>
+      <p>Adeleke University has announced the commencement of postgraduate admission for the 2026/2027 academic session through its College of Postgraduate Studies.</p>
+      <p>The admission exercise covers academic and professional postgraduate programmes across several faculties, including arts, sciences, engineering, law, business, social sciences, and medical sciences.</p>
+      <p>The university offers Postgraduate Diploma (PGD), Master’s, MBA, M.P.H., M.Eng., LLM, MLIS, and Ph.D. programmes for qualified candidates.</p>
+      <p>Applicants are advised to carefully review the available courses and admission requirements before starting the application process.</p>
+
+      <h2>Adeleke University Postgraduate Courses</h2>
+      <h3>Faculty of Arts</h3>
+      <p>Available programmes include:</p>
+      <ul>
+        <li>M.A./Ph.D. Religious Studies</li>
+        <li>M.A./Ph.D. History</li>
+        <li>M.A./Ph.D. English (Language)</li>
+        <li>M.A./Ph.D. English (Literature)</li>
+        <li>M.A./Ph.D. International Studies</li>
+      </ul>
+
+      <h3>Faculty of Science</h3>
+      <ul>
+        <li>PGD/M.Sc./Ph.D. Biochemistry</li>
+        <li>PGD/M.Sc./Ph.D. Microbiology</li>
+        <li>PGD/M.Sc./Ph.D. Computer Science</li>
+      </ul>
+
+      <h3>Faculty of Business and Social Sciences</h3>
+      <ul>
+        <li>PGD/M.Sc./Ph.D. Economics</li>
+        <li>PGD/M.Sc./Ph.D. Mass Communication</li>
+        <li>PGD/MPA Public Administration</li>
+        <li>M.Sc./Ph.D. Public Administration</li>
+        <li>M.Sc./Ph.D. Political Science</li>
+        <li>PGD/M.Sc./Ph.D. Accounting</li>
+        <li>MLIS/Ph.D. Library and Information Science</li>
+        <li>M.Sc./MBA/Ph.D. Business Administration</li>
+      </ul>
+
+      <h3>Faculty of Law</h3>
+      <ul>
+        <li>PGD/LLM/Ph.D. Law</li>
+      </ul>
+
+      <h3>Faculty of Basic Medical Sciences</h3>
+      <ul>
+        <li>PGD/M.P.H./Ph.D. Public Health</li>
+        <li>PGD/M.Sc. Anatomy</li>
+        <li>PGD/M.P.H./M.Sc./Ph.D. Physiology</li>
+        <li>PGD/M.P.H./M.Sc./Ph.D. Medical Laboratory Science</li>
+        <li>PGD/M.P.H./M.Sc./Ph.D. Nursing Science</li>
+      </ul>
+
+      <h3>Faculty of Engineering</h3>
+      <ul>
+        <li>PGD/M.Eng./Ph.D. Agricultural Engineering</li>
+        <li>PGD/M.Eng./Ph.D. Civil Engineering</li>
+        <li>PGD/M.Eng./Ph.D. Electrical and Electronic Engineering</li>
+        <li>PGD/M.Eng./Ph.D. Mechanical Engineering</li>
+      </ul>
+
+      <h2>Adeleke University Postgraduate School Fees</h2>
+      <p>The university explained that postgraduate fees are structured as a composite package. According to the institution, the fee covers:</p>
+      <ul>
+        <li>Tuition</li>
+        <li>Accommodation</li>
+        <li>Feeding</li>
+      </ul>
+      <p>The university also allows students to pay through a four-instalment payment plan.</p>
+
+      <h2>Duration of Programmes</h2>
+      <ul>
+        <li>Postgraduate Diploma (PGD) — 2 semesters</li>
+        <li>Master’s Degree — 3 semesters</li>
+        <li>Ph.D. Programme — 6 semesters</li>
+      </ul>
+
+      <h2>How to Apply for Adeleke University Postgraduate Admission</h2>
+      <p>Interested candidates are expected to complete their applications through the <a href="https://umis.adelekeuniversity.edu.ng/adeleke/a_application.jsp">official Adeleke University postgraduate portal</a>.</p>
+      <p>Applicants should fill out the application form carefully, upload all required documents, and complete payment before submission. The university noted that incomplete or unpaid applications will not be processed.</p>
+
+      <h2>Transcript Submission Requirement</h2>
+      <p>Adeleke University stated that all academic transcripts must be sent directly to:</p>
+      <p><strong>The Secretary, College of Postgraduate Studies, Adeleke University, Ede</strong></p>
+      <p>The institution clarified that transcripts submitted by hand will not be accepted.</p>
+
+      <h2>Special Requirement for Ph.D. Applicants</h2>
+      <p>Candidates applying for Ph.D. programmes must submit a research proposal and at least one confidential referee report from a former lecturer. At least one referee must be an academic referee; friends or family members cannot serve as referees.</p>
+
+      <h2>Important Admission Notes</h2>
+      <p>The university warned that admission offers may lapse if candidates fail to accept them within the period stated in the admission letter. Applicants are also expected to present original copies of all credentials during registration.</p>
+
+      <h2>Fraud Warning to Applicants</h2>
+      <p>The university advised candidates not to pay money into private or personal accounts. All payments should be made only into official Adeleke University accounts.</p>
+
+      <h2>Contact Information for Enquiries</h2>
+      <p>Applicants who need assistance can contact the College of Postgraduate Studies through:</p>
+      <p>📞 09069631925</p>
+      <p>📧 <a href="mailto:cpgs.admissions@adelekeuniversity.edu.ng">cpgs.admissions@adelekeuniversity.edu.ng</a></p>`,
+    tags: ["Adeleke University", "Postgraduate", "Admission", "2026/2027", "Education", "Nigeria"],
+  },
+  {
+    id: "adeleke-university-post-utme-direct-entry-admission-2026-2027",
+    title: "Adeleke University Opens 2026/2027 Post UTME and Direct Entry Admission Forms",
+    category: "Education",
+    date: "2026-05-20",
+    excerpt: "Adeleke University has commenced the sale of its Post UTME and Direct Entry admission forms for the 2026/2027 academic session, inviting qualified candidates to apply for undergraduate programmes.",
+    content:
+      `<h2>Adeleke University Opens 2026/2027 Post UTME and Direct Entry Admission Forms</h2>
+      <p>Adeleke University has commenced the sale of its Post UTME and Direct Entry admission forms for the 2026/2027 academic session.</p>
+      <p>The university is inviting qualified candidates to apply for admission into its undergraduate programmes across several faculties and professional fields.</p>
+      <p>Although Adeleke University is a Christian-owned institution, the university stated that applicants from all religious and cultural backgrounds are welcome to apply.</p>
+      <p>The institution received its operational licence from the National Universities Commission in 2011 as a private university in Nigeria.</p>
+      <p>According to the university, the campus operates a fully residential system and provides a learning environment equipped with modern classrooms, laboratories, wireless internet access, and a digital library.</p>
+
+      <h2>Adeleke University Undergraduate Courses</h2>
+
+      <h3>Faculty of Arts</h3>
+      <p>Available courses include:</p>
+      <ul>
+        <li>English Studies</li>
+        <li>History and International Studies</li>
+        <li>Religious Studies</li>
+        <li>Theatre Arts</li>
+      </ul>
+
+      <h2>Faculty of Business and Social Sciences</h2>
+      <p>Programmes offered include:</p>
+      <ul>
+        <li>Accounting</li>
+        <li>Business Administration</li>
+        <li>Economics</li>
+        <li>Mass Communication</li>
+        <li>Library and Information Science</li>
+        <li>Political Science</li>
+        <li>Public Administration</li>
+        <li>Office and Information Management</li>
+        <li>Finance</li>
+      </ul>
+
+      <h2>Faculty of Basic Medical Sciences</h2>
+      <p>Courses available are:</p>
+      <ul>
+        <li>Anatomy</li>
+        <li>Medical Laboratory Science</li>
+        <li>Nursing</li>
+        <li>Physiology</li>
+        <li>Public Health</li>
+        <li>Health Information Management</li>
+      </ul>
+
+      <h2>Faculty of Law</h2>
+      <ul>
+        <li>LL.B. Hons. Law</li>
+      </ul>
+
+      <h2>Faculty of Science</h2>
+      <p>Available programmes include:</p>
+      <ul>
+        <li>Biological Science</li>
+        <li>Biochemistry</li>
+        <li>Cyber Security</li>
+        <li>Chemistry</li>
+        <li>Computer Science</li>
+        <li>Biotechnology</li>
+        <li>Information System</li>
+        <li>Information Technology</li>
+        <li>Microbiology</li>
+        <li>Mathematical Science</li>
+        <li>Physics</li>
+        <li>Statistics</li>
+        <li>Software Engineering</li>
+        <li>Food Science and Technology (5 years)</li>
+      </ul>
+
+      <h2>Faculty of Engineering</h2>
+      <p>Programmes offered include:</p>
+      <ul>
+        <li>Agricultural and Biosystems Engineering</li>
+        <li>Civil Engineering</li>
+        <li>Computer Engineering</li>
+        <li>Chemical Engineering</li>
+        <li>Electrical and Electronics Engineering</li>
+        <li>Mechanical Engineering</li>
+      </ul>
+
+      <h2>College of Medicine</h2>
+      <ul>
+        <li>Bachelor of Medicine and Surgery (MBBS)</li>
+      </ul>
+
+      <h2>Faculty of Pharmacy</h2>
+      <ul>
+        <li>Doctor of Pharmacy (Pharm.D)</li>
+      </ul>
+
+      <h2>Adeleke University Admission Requirements</h2>
+      <p>Candidates applying for undergraduate admission must meet the following conditions:</p>
+      <ul>
+        <li>Applicants must be at least 16 years old by 31 August 2026</li>
+        <li>Candidates seeking 100 Level admission must possess at least five O’Level credit passes, including English Language and Mathematics</li>
+        <li>Results must be obtained in not more than two sittings in SSCE, GCE O’Level, or NECO examinations</li>
+      </ul>
+      <p>The university also stated that applicants for:</p>
+      <ul>
+        <li>MBBS</li>
+        <li>Pharm.D</li>
+      </ul>
+      <p>must obtain all required O’Level credits in one sitting.</p>
+      <p>In addition, candidates must possess an acceptable score in the 2026 Unified Tertiary Matriculation Examination conducted by the Joint Admissions and Matriculation Board.</p>
+
+      <h2>Adeleke University Post UTME Examination</h2>
+      <p>The university announced that a Post UTME screening examination will be conducted for candidates applying into selected professional programmes.</p>
+      <p>The affected courses include:</p>
+      <ul>
+        <li>Law</li>
+        <li>Medical Laboratory Science</li>
+        <li>Nursing Science</li>
+        <li>Bachelor of Medicine and Surgery (MBBS)</li>
+        <li>Doctor of Pharmacy (Pharm.D)</li>
+      </ul>
+      <p>Candidates applying for these programmes should prepare for the screening exercise.</p>
+
+      <h2>School Fees and Payment Plan</h2>
+      <p>Adeleke University explained that its school fees operate under a composite payment structure.</p>
+      <p>The fee package covers:</p>
+      <ul>
+        <li>Tuition</li>
+        <li>Accommodation</li>
+        <li>Feeding</li>
+      </ul>
+      <p>The university also allows students to pay fees in four instalments.</p>
+
+      <h2>How to Apply for Adeleke University Post UTME and Direct Entry Form</h2>
+      <p>Interested candidates should complete their application through the official <a href="https://umis.adelekeuniversity.edu.ng/adeleke/a_application.jsp">Adeleke University admission portal</a>.</p>
+      <p>Applicants are advised to:</p>
+      <ul>
+        <li>Fill out the application form carefully</li>
+        <li>Provide correct personal and academic details</li>
+        <li>Submit the form online after completion</li>
+      </ul>
+
+      <h2>Contact for Admission Enquiries</h2>
+      <p>Applicants who need assistance can contact the university through:</p>
+      <p>📞 09069631925</p>
+      <p>📧 <a href="mailto:admissions@adelekeuniversity.edu.ng">admissions@adelekeuniversity.edu.ng</a></p>`,
+    tags: ["Adeleke University", "Admission", "Post UTME", "Direct Entry", "Undergraduate", "2026/2027", "Education", "Nigeria"],
+  },
+  {
+    id: "ds-adegbenro-ict-polytechnic-nd-part-time-admission-2026-2027",
+    title: "D.S. Adegbenro ICT Polytechnic Opens 2026/2027 ND Part-Time Admission",
+    category: "Education",
+    date: "2026-05-20",
+    excerpt: "D.S. Adegbenro ICT Polytechnic has announced the commencement of admission into its part-time evening and weekend National Diploma (ND) programmes for the 2026/2027 academic session.",
+    content:
+      `<h2>D.S. Adegbenro ICT Polytechnic Opens 2026/2027 ND Part-Time Admission</h2>
+      <p>D.S. Adegbenro ICT Polytechnic has announced the commencement of admission into its part-time evening and weekend National Diploma (ND) programmes for the 2026/2027 academic session.</p>
+      <p>The admission opportunity is designed for qualified candidates who wish to combine their studies with work, business, family responsibilities, or other personal commitments.</p>
+      <p>The institution offers flexible learning options through evening and weekend programmes under its National Diploma curriculum.</p>
+
+      <h2>Available ND Part-Time Programmes</h2>
+      <p>Candidates can apply for admission into the following programmes:</p>
+      <ul>
+        <li>Accountancy</li>
+        <li>Architectural Technology</li>
+        <li>Banking and Finance</li>
+        <li>Building Technology</li>
+        <li>Business Administration</li>
+        <li>Computer Engineering</li>
+        <li>Computer Science</li>
+        <li>Electrical and Electronics Engineering</li>
+        <li>Estate Management and Valuation</li>
+        <li>Library and Information Science</li>
+        <li>Marketing</li>
+        <li>Mass Communication</li>
+        <li>Office Technology Management</li>
+        <li>Public Administration</li>
+        <li>Science Laboratory Technology</li>
+        <li>Statistics</li>
+        <li>Surveying and Geo-Informatics</li>
+      </ul>
+      <p>Applicants are advised to select programmes that match their academic qualifications and career interests.</p>
+
+      <h2>Admission Requirements</h2>
+      <p>The polytechnic stated that applicants must meet the approved entry requirements before applying.</p>
+      <p>Candidates are expected to have either:</p>
+      <ul>
+        <li>A minimum of four O’Level credit passes in one sitting, including English Language and Mathematics, or</li>
+        <li>Five O’Level credits obtained in not more than two sittings, including English Language, Mathematics, and three other relevant subjects</li>
+      </ul>
+      <p>The institution emphasized that credit passes in English Language and Mathematics are compulsory for all applicants.</p>
+      <p>The notice also indicated that candidates should have completed their National Diploma and the mandatory one-year Industrial Training (IT) programme.</p>
+
+      <h2>Application Fee and Portal Access Fee</h2>
+      <p>Applicants are required to pay the following fees during the application process:</p>
+      <ul>
+        <li>Screening/Application Fee — ₦2,000</li>
+        <li>Portal Access Fee — ₦5,000</li>
+      </ul>
+      <p>Payments should be made online using a Mastercard or VISA ATM card.</p>
+      <p>Candidates are advised to print their payment receipts after successful transactions.</p>
+
+      <h2>How to Apply for D.S. Adegbenro ICT Polytechnic ND Part-Time Admission</h2>
+      <p>Interested applicants should complete their registration through the <a href="https://v4.dsadegbenropoly.edu.ng/admission/apply/application">official admission portal of the polytechnic</a>.</p>
+      <p>The portal handles:</p>
+      <ul>
+        <li>Account creation</li>
+        <li>Profile activation</li>
+        <li>Fee payment</li>
+        <li>O’Level verification</li>
+        <li>Application submission</li>
+        <li>Printing of admission documents</li>
+      </ul>
+
+      <h2>Step-by-Step Registration Process</h2>
+      <p>Candidates should carefully follow the application instructions below:</p>
+      <ol>
+        <li>Click on “Apply Now” on the admission portal</li>
+        <li>Complete the account profile creation form</li>
+        <li>Provide a valid email address and active phone number</li>
+        <li>Check email inbox or spam folder for activation details</li>
+        <li>Activate the account using the email link</li>
+        <li>Log in to continue the application</li>
+        <li>Pay the required fees online</li>
+        <li>Fill out the application form correctly</li>
+        <li>Review all details before submission</li>
+        <li>Submit the completed application</li>
+        <li>Print the application form and screening slip</li>
+      </ol>
+
+      <h2>O’Level Result Verification</h2>
+      <p>The institution also directed applicants to obtain the correct scratch card for online O’Level result verification during the application process for WAEC, NECO, or NABTEB.</p>
+
+      <h2>Final Note for Applicants</h2>
+      <p>The ND part-time programme at D.S. Adegbenro ICT Polytechnic provides flexible study options through evening and weekend classes. Candidates are encouraged to apply only through the official admission portal and ensure all documents are printed after submission.</p>`,
+    tags: ["D.S. Adegbenro", "ICT Polytechnic", "ND", "Part-Time", "Admission", "2026/2027", "Education", "Nigeria"],
+  },
+  {
+    id: "ebsu-postgraduate-admission-2026-2027",
+    title: "EBSU Opens 2026/2027 Postgraduate Admission Application",
+    category: "Education",
+    date: "2026-05-20",
+    excerpt: "Ebonyi State University (EBSU) has announced the commencement of applications for its postgraduate programmes for the 2026/2027 academic session. Learn about requirements, fees, and the application process.",
+    content:
+      `<h2>EBSU Opens 2026/2027 Postgraduate Admission Application</h2>
+      <p>Ebonyi State University has announced the commencement of applications for admission into its postgraduate programmes for the 2026/2027 academic session.</p>
+      <p>Qualified candidates can now apply through the university’s official postgraduate admission portal.</p>
+      <p>Applicants are advised to review the available postgraduate courses before starting the application, as each programme must align with the candidate’s academic background.</p>
+
+      <h2>Available Postgraduate Programmes</h2>
+      <p>The postgraduate courses for the 2026/2027 academic session are listed on the official EBSU postgraduate courses page.</p>
+      <p>Candidates are expected to select programmes carefully to match their qualifications and field of study.</p>
+
+      <h2>How to Apply for EBSU Postgraduate Admission</h2>
+      <p>Applicants are required to complete their registration through the official <a href="https://portal.ebsu.edu.ng/PG/Applications/PGApplicationLogin.aspx">Ebonyi State University postgraduate application portal</a>.</p>
+      <p>The application process involves providing personal details, selecting the academic session, making payment, uploading documents, and submitting referee information.</p>
+
+      <h2>Step-by-Step Application Process</h2>
+      <p>Candidates should follow these steps:</p>
+      <ol>
+        <li>Visit the EBSU postgraduate application portal</li>
+        <li>Enter a valid phone number</li>
+        <li>Select the 2026/2027 academic session</li>
+        <li>Click “Proceed”</li>
+        <li>Fill in the initial application form</li>
+        <li>Generate an invoice</li>
+        <li>Pay the application fee of ₦10,050.00</li>
+        <li>Return to the portal after payment</li>
+        <li>Complete the full application form</li>
+        <li>Request reference letters from three referees</li>
+        <li>Upload all required original documents</li>
+        <li>Submit the completed application</li>
+      </ol>
+      <p>Applicants are advised to ensure all information entered is accurate to avoid delays in processing.</p>
+
+      <h2>Referee Requirements</h2>
+      <p>Candidates are required to provide reference letters from <strong>three referees</strong>.</p>
+      <ul>
+        <li>Two referees must be academic staff familiar with the candidate’s academic performance</li>
+        <li>The third referee may also be academic or professional, depending on the applicant’s background</li>
+      </ul>
+
+      <h2>Transcript Submission Requirement</h2>
+      <p>Applicants must request their former institutions to send official academic transcripts directly to:</p>
+      <p>📧 <a href="mailto:spgs@ebsu.edu.ng">spgs@ebsu.edu.ng</a></p>
+      <p>The university will only consider transcripts submitted directly to the official email address before the application deadline.</p>
+
+      <h2>Closing Date for EBSU Postgraduate Admission</h2>
+      <p>The deadline for submission of applications is <strong>30 June 2026</strong>.</p>
+      <p>Candidates are encouraged to complete their applications early and ensure that referee letters and transcripts are submitted before the closing date.</p>
+
+      <h2>Final Note</h2>
+      <p>The 2026/2027 postgraduate admission exercise at Ebonyi State University is now open.</p>
+      <p>Applicants should carefully follow all instructions, complete their application on time, and ensure all supporting documents are properly submitted.</p>`,
+    tags: ["EBSU", "Ebonyi State University", "Postgraduate", "Admission", "2026/2027", "Education", "Nigeria"],
+  },
+  {
     id: "ahns-scholarship-phase-2-2026",
     title: "AHNS Scholarship Opens Phase 2 of 2026 Student Support Programme",
     category: "Scholarship",

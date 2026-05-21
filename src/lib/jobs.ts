@@ -16,6 +16,276 @@ export type Job = {
 
 const allJobs: Job[] = [
   {
+    id: "management-trainee-sims-nigeria-vi-lagos-2026",
+    title: "Management Trainee",
+    date: "2026-05-21",
+    location: "Victoria Island, Lagos",
+    type: "Full-time",
+    seniority: "Junior",
+    company: "SIMS Nigeria Limited",
+    summary: "SIMS Nigeria Limited is seeking high-potential graduates for its Management Trainee programme, focusing on operations, customer service, and business development in the consumer electronics and retail industry.",
+    responsibilities: [
+      "Support operations, customer service, and sales support functions",
+      "Assist in administrative and business development tasks",
+      "Participate in leadership development activities",
+      "Adapt to changing business needs in a fast-paced environment"
+    ],
+    requirements: [
+      "Minimum of a MSC in Operations Support or MBA from a recognized university",
+      "3-4 years of relevant experience in operations, customer service, sales support, administration, or business development within the consumer electronics, retail, or related industry",
+      "Strong analytical, communication, and problem-solving skills",
+      "Proficiency in Microsoft Office applications, especially Excel and PowerPoint",
+      "Ability to multitask, work in a fast-paced environment, and adapt to changing business needs",
+      "Demonstrated leadership potential and willingness to learn",
+      "Not older than 33 years of age"
+    ],
+    apply: 'Send CV to: <a href="mailto:employment@simsng.com">employment@simsng.com</a> using the Job Title as the subject of the email.',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "executive-assistant-healthcare-vi-lagos-2026",
+    title: "Executive Assistant",
+    date: "2026-05-21",
+    location: "Victoria Island, Lagos",
+    type: "Full-time",
+    seniority: "Mid-Level",
+    company: "Leading Healthcare and Clinical Services Provider",
+    summary: "Provide high-level administrative support to senior leadership in a leading healthcare and clinical services organization.",
+    responsibilities: [
+      "Provide comprehensive administrative support to senior management",
+      "Manage executive calendars and schedule appointments",
+      "Coordinate travel and logistics arrangements",
+      "Handle confidential information with discretion",
+      "Liaise with internal and external stakeholders"
+    ],
+    requirements: [
+      "Minimum of B.Sc. in any related field",
+      "3–5 years experience as an Executive Assistant or similar role",
+      "Strong organizational and communication skills",
+      "High level of discretion and attention to detail",
+      "Experience in healthcare is an added advantage"
+    ],
+    apply: 'Interested and qualified candidates should: <a href="https://bit.ly/ExecutiveAssistantt">Click here to apply</a>',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "front-desk-officer-mtmas-consulting-lekki-2026",
+    title: "Front Desk Officer",
+    date: "2026-05-21",
+    location: "Lekki Phase 1, Lagos",
+    type: "Full-time",
+    seniority: "Junior",
+    company: "MTMAS Consultancy Agency",
+    summary: "MTMAS Consultancy Agency is urgently hiring a professional Front Desk Officer to serve as the first point of contact, manage communications, and support administrative functions.",
+    responsibilities: [
+      "Welcome and attend to clients, visitors, and guests with warmth and professionalism",
+      "Manage incoming phone calls, emails, and correspondence efficiently",
+      "Handle front office operations including scheduling, record keeping, and filing",
+      "Maintain a clean and organized reception area",
+      "Provide excellent customer service by addressing inquiries and resolving issues promptly",
+      "Support administrative functions and liaise with internal departments as needed",
+      "Utilize Microsoft Office tools to prepare reports, manage documents, and update records"
+    ],
+    requirements: [
+      "Minimum of B.Sc. in any relevant field",
+      "2–3 years proven experience as a Front Desk Officer, Receptionist, or similar role",
+      "Excellent fluency in spoken and written English",
+      "Strong knowledge of Microsoft Office Suite (Word, Excel, Outlook, PowerPoint)",
+      "Exceptional interpersonal and customer service skills",
+      "Bubbly, cheerful, and welcoming personality",
+      "Ability to multitask and work under minimal supervision",
+      "Proximity to Lekki Phase 1 is very important"
+    ],
+    apply: 'Qualified and Interested candidates should send CV to <a href="mailto:mtmasconsulting@gmail.com">mtmasconsulting@gmail.com</a> indicating the subject. Telegram MTMAS office immediately: 07045003694, 09033254476',
+    salary: "₦200,000 monthly",
+    deadline: "Not Specified"
+  },
+  {
+    id: "senior-accountant-zhanique-consulting-lekki-2026",
+    title: "Senior Accountant",
+    date: "2026-05-21",
+    location: "Lekki, Lagos",
+    type: "Full-time / Onsite",
+    seniority: "Senior",
+    company: "Zhanique Consulting (for a client in Oil & Gas)",
+    summary: "Oversee accounting operations, financial reporting, compliance, and internal controls within the oil and gas downstream sector for a client of Zhanique Consulting.",
+    responsibilities: [
+      "Prepare and review monthly, quarterly, and annual financial statements and reports",
+      "Ensure accuracy and integrity of all accounting records and financial transactions",
+      "Monitor and manage the company’s general ledger and accounting systems",
+      "Analyze financial data and provide insights to support management decisions",
+      "Prepare cash flow reports and monitor company financial performance",
+      "Supervise accounts payable and receivable processes",
+      "Ensure timely vendor payments and proper invoicing procedures",
+      "Monitor outstanding receivables and support debt recovery processes",
+      "Review and approve bank reconciliations and resolve discrepancies promptly",
+      "Maintain strong internal financial controls and accounting procedures",
+      "Ensure compliance with Nigerian financial regulations, tax laws, and company policies",
+      "Prepare and oversee VAT, WHT, PAYE, and other statutory filings",
+      "Liaise with external auditors, tax consultants, and regulatory authorities",
+      "Assist management with budgeting and financial planning",
+      "Monitor operational expenses and recommend cost-control measures",
+      "Supervise and guide junior accounting staff"
+    ],
+    requirements: [
+      "Bachelor’s degree in Accounting, Finance, Economics, or related field",
+      "Minimum of 4–7 years accounting experience",
+      "Professional certification such as ICAN, ACCA, or ACA is preferred",
+      "Strong understanding of financial reporting standards and Nigerian tax regulations",
+      "Proficiency in Microsoft Excel and accounting softwares",
+      "Experience in the oil & gas or downstream sector is an added advantage"
+    ],
+    apply: '<a href="https://forms.office.com/Pages/ResponsePage.aspx?id=DQSIkWdsW0yxEjajBLZtrQAAAAAAAAAAAANAAV5mHA9UQVFaVUpFUTVFRjZCMFRHVE5XQkxNWUdQRy4u">Click here to apply online</a>',
+    salary: "₦700,000 - ₦800,000 Monthly",
+    deadline: "Not Specified"
+  },
+  {
+    id: "it-administrator-carloha-nigeria-lagos-2026",
+    title: "IT Administrator",
+    date: "2026-05-21",
+    location: "Lagos",
+    type: "Full-time",
+    seniority: "Senior",
+    company: "Carloha Nigeria Limited",
+    summary: "Manage organization’s IT infrastructure, ensuring system availability, performance, and security for the exclusive distributor of Chery Automobile in Nigeria.",
+    responsibilities: [
+      "Maintain and troubleshoot office, showroom, and factory networks",
+      "Ensure stability of primary and backup networks",
+      "Respond to and resolve network incidents in a timely manner",
+      "Register and maintain records of all company IT assets",
+      "Track the full lifecycle of IT assets (allocation, changes, repairs, disposal)",
+      "Perform daily maintenance of computers, printers, surveillance systems, and network equipment",
+      "Support IT system development and optimization led by the China IT team",
+      "Handle local application-level troubleshooting and escalate issues to the China IT team",
+      "Conduct IT system usage training and onboarding for new employees",
+      "Manage basic network and information security controls and account permissions",
+      "Perform data backup management and basic recovery support",
+      "Coordinate with IT equipment and service vendors",
+      "Identify opportunities for IT-driven process improvement"
+    ],
+    requirements: [
+      "Bachelor’s degree in Information Technology, Computer Science, or a related field",
+      "5-6 years of experience in IT administration or a similar role",
+      "Experience with network administration and security protocols",
+      "Proficiency in operating systems (Windows, Linux, macOS)",
+      "Familiarity with networking concepts (TCP/IP, DNS, DHCP)",
+      "Knowledge of cloud services (e.g., AWS, Azure) is a plus",
+      "Relevant IT certifications (e.g., CompTIA Network+, Cisco CCNA or Huawei HCIA)",
+      "Prior experience in a cross-cultural or multinational work environment is highly desirable"
+    ],
+    apply: '<a href="https://forms.gle/Ejcxb2JAbNxyohHo7">Click here to apply online</a>',
+    salary: "Highly competitive + performance-based bonuses",
+    deadline: "2026-06-08"
+  },
+  {
+    id: "nysc-motion-graphic-design-intern-credo-advisory-abuja-2026",
+    title: "NYSC Motion & Graphic Design Intern",
+    date: "2026-05-21",
+    location: "Abuja",
+    type: "Internship",
+    seniority: "Junior",
+    company: "Credo Advisory",
+    summary: "Creative internship for a serving NYSC member to support Credo Advisory with motion and graphic design projects.",
+    responsibilities: [
+      "Assist in creating motion graphics and visual designs",
+      "Collaborate with the communications team on branding projects",
+      "Contribute to creative brainstorming and content development"
+    ],
+    requirements: [
+      "Working knowledge of Adobe Creative Suite, Canva, Capcut, etc.",
+      "A portfolio that shows how you think",
+      "Strong communication and a collaborative spirit",
+      "Must be a currently serving NYSC member in Abuja"
+    ],
+    apply: 'Send CV to: <a href="mailto:info@credoadvisory.ng">info@credoadvisory.ng</a>',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "restaurant-supervisor-jsix-group-lagos-2026",
+    title: "Restaurant Supervisor",
+    date: "2026-05-21",
+    location: "Lagos",
+    type: "Full-time",
+    seniority: "Mid-Level",
+    company: "J-Six Group",
+    summary: "Oversee operations in a fast food restaurant, manage teams, and ensure service excellence for J-Six Group.",
+    responsibilities: [
+      "Supervise and coordinate all production activities within the restaurant",
+      "Manage production staff, assign duties, and enforce discipline",
+      "Utilize Excel and iClass for restaurant management tasks",
+      "Delegate tasks and follow through until completion",
+      "Ensure adherence to NAFDAC and hygiene standards"
+    ],
+    requirements: [
+      "A tertiary Degree is required",
+      "Minimum of 1 year of work experience",
+      "Use of Excel and knowledge of iClass will be an added advantage",
+      "Must have worked in a fast food restaurant as a team lead or supervisor",
+      "Ability to delegate tasks and follow through until completion",
+      "Proactivity and the use of initiative",
+      "Must be flexible to take on any shift (morning and afternoon)",
+      "Proximity to location is required"
+    ],
+    apply: 'Send CV to: <a href="mailto:recruitment@jsixgroup.com">recruitment@jsixgroup.com</a> using the job title and preferred location as the subject of the email.',
+    salary: "₦100,000 net monthly + Staff Lunch + HMO",
+    deadline: "Not Specified"
+  },
+  {
+    id: "hr-administrative-officer-falomo-abuja-2026",
+    title: "HR & Administrative Officer",
+    date: "2026-05-21",
+    location: "Falomo, Lagos and Abuja",
+    type: "Full-time",
+    seniority: "Junior",
+    summary: "Support HR and administrative functions, including recruitment, onboarding, payroll processing, and office operations.",
+    responsibilities: [
+      "Coordinate recruitment, onboarding, and employee documentation",
+      "Support payroll processing, attendance tracking, and leave administration",
+      "Handle basic employee relations and HR records",
+      "Oversee daily office operations and administrative supplies"
+    ],
+    requirements: [
+      "HND/BSc in Human Resources, Business Administration, or related discipline",
+      "1–2 years relevant HR/Admin experience",
+      "Strong communication and Microsoft Office skills",
+      "Must reside close to Falomo (for Lagos candidates)"
+    ],
+    apply: '<a href="https://forms.gle/hC4czeM1rC18pZgw7">Click here to apply online</a>',
+    salary: "₦150,000",
+    deadline: "Not Specified"
+  },
+  {
+    id: "junior-legal-officer-tetra-maritime-apapa-2026",
+    title: "Junior Legal Officer",
+    date: "2026-05-21",
+    location: "Apapa, Lagos",
+    type: "Full-time",
+    seniority: "Junior",
+    company: "Tetra Maritime",
+    summary: "Junior legal role at Tetra Maritime focusing on company secretarial, statutory filings, compliance, and corporate documentation in the shipping and commodities sector.",
+    responsibilities: [
+      "Manage company secretarial duties and statutory filings",
+      "Prepare corporate authorities and board documentation",
+      "Handle KYC and compliance processes",
+      "Assist with cross-border corporate changes and restructurings",
+      "Interact with ship registries or overseas registries",
+      "Support joint ventures and other corporate matters"
+    ],
+    requirements: [
+      "At least 1 year’s experience in a legal, compliance, corporate services, or financial services environment",
+      "Experience in shipping, commodities, finance, or SPV-heavy groups is an advantage",
+      "Exposure to statutory filings and corporate registry submission",
+      "Knowledge of KYC and compliance procedures",
+      "Ability to handle corporate authorities and board documentation"
+    ],
+    apply: '<a href="https://jobs.workable.com/view/iA4pcJ97meidhpejU4MpcU/junior-legal-officer-in-apapa-at-tetra-maritime">Apply online</a>',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
     id: "payroll-specialist-hr-analyst-mowe-ogun-2026",
     title: "Payroll Specialist / HR Analyst",
     date: "2026-05-21",

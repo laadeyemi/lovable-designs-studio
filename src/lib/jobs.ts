@@ -16,6 +16,821 @@ export type Job = {
 
 const allJobs: Job[] = [
   {
+    id: "payroll-specialist-hr-analyst-mowe-ogun-2026",
+    title: "Payroll Specialist / HR Analyst",
+    date: "2026-05-21",
+    location: "Mowe, Ogun",
+    type: "Full-time",
+    seniority: "Mid-Level",
+    summary: "Various companies are hiring a Payroll Specialist / HR Analyst in Mowe, Ogun, to manage payroll, process payments, ensure tax and benefits compliance, build HR dashboards, and analyze HR metrics.",
+    responsibilities: [
+      "Collect and maintain information on each employee’s working hours",
+      "Determine payroll amounts, factoring in any overtime or bonuses",
+      "Prepare payments to be sent to employees in a timely manner",
+      "Process payments and checks",
+      "Ensure that employee taxes and benefits are processed correctly",
+      "Confirm suggested payments with senior management",
+      "Answer any employee inquiries about payroll",
+      "Work to increase payroll service performance",
+      "Prepare payroll reports for upper management",
+      "Data Reporting & Visualization: Build and maintain HR dashboards to track key performance indicators (KPIs) like headcount, diversity, and turnover",
+      "Metrics Tracking: Analyze recruiting metrics (e.g., time-to-fill, cost-per-hire) and workforce trends to forecast hiring and budgeting needs",
+      "Compensation Analysis: Gather benchmark data to map out competitive salary ranges and assist with remuneration reviews",
+      "Employee Feedback & Engagement: Evaluate results from performance reviews and employee satisfaction surveys to recommend policy or procedure improvements",
+      "Process Optimization: Identify discrepancies across HR Information Systems (HRIS), Applicant Tracking Systems (ATS), and payroll platforms to improve data integrity and system efficiency"
+    ],
+    requirements: [
+      "B.Sc Degree in Human Resources, Mathematics, Data Management, Accounting, Economics, Industrial Relations, or related Social Science field",
+      "Professional certification is an advantage",
+      "4 – 5 years of HR experience",
+      "Strong written and verbal communication skills",
+      "Proficiency in Microsoft Office tools, especially Excel, Word, Powerpoint",
+      "Excellent organizational and time-management skills",
+      "Strong interpersonal skills and ability to build relationships with internal and external stakeholders",
+      "Ability to work independently and manage multiple HR tasks and deadlines",
+      "Preference will be given to candidates living around Mowe, Ibafo, Magboro, Ojodu-Berger, Ojota, Sagamu, and Ikeja Axis"
+    ],
+    apply: 'Interested and qualified candidates should send their detailed CV to: <a href="mailto:metusmetus73@gmail.com">metusmetus73@gmail.com</a> or <a href="mailto:transnationalzamiva21@yahoo.com">transnationalzamiva21@yahoo.com</a> using the Job Title as the subject of the email.',
+    salary: "N300,000 – N400,000 monthly",
+    deadline: "2026-05-31"
+  },
+  {
+    id: "auditor-microfinance-guided-arrows-consulting-lagos-2026",
+    title: "Auditor",
+    date: "2026-05-21",
+    location: "Lagos Mainland",
+    type: "Full-time",
+    seniority: "Senior",
+    company: "Guided Arrows Consulting (for a Microfinance Institution)",
+    summary: "Guided Arrows Consulting is seeking an experienced Auditor for a Microfinance Institution on Lagos Mainland, with 6+ years of experience in microfinance auditing, to lead internal audits, strengthen controls, and ensure regulatory adherence.",
+    responsibilities: [
+      "Conduct internal audits of branch operations, loan disbursements, and repayments",
+      "Review internal controls, cash management, and asset quality",
+      "Prepare audit reports and recommend corrective actions",
+      "Ensure compliance with MFB policies and statutory requirements"
+    ],
+    requirements: [
+      "6+ years in microfinance auditing",
+      "Strong background in microfinance operations, loan portfolio review, and CBN compliance"
+    ],
+    apply: 'Send your CV : <a href="mailto:recruitmentguidedarrowsconsult@gmail.com">recruitmentguidedarrowsconsult@gmail.com</a>',
+    salary: "#250,000 – Above (Negotiable)",
+    deadline: "Not Specified"
+  },
+  {
+    id: "electrical-design-engineer-basscomm-group-lagos-2026",
+    title: "Electrical Design Engineer",
+    date: "2026-05-21",
+    location: "Lagos",
+    type: "Full-time",
+    seniority: "Junior",
+    company: "Basscomm Group",
+    summary: "Basscomm Group is urgently hiring an Electrical Design Engineer in Lagos with 1-2 years of experience in Engineering and Commercial design, proficient in AutoCAD, Revit, and other relevant design tools.",
+    responsibilities: [],
+    requirements: [
+      "Bsc/HND in Electrical Engineering, or a related field",
+      "1–2 years of proven experience in Engineering and Commercial design",
+      "Proficiency in AutoCAD, Revit and other relevant design tools",
+      "Good knowledge in MEP and ELVS solution",
+      "Good knowledge on costing, budgeting and commercial evaluation",
+      "Ability to work independently and as part of a team"
+    ],
+    apply: 'Experienced and qualified candidate should send their Cvs to: <a href="mailto:recruitment@basscommgroup.com">recruitment@basscommgroup.com</a>',
+    salary: "250k-300k (Negotiable)",
+    deadline: "Not Specified"
+  },
+  {
+    id: "trainee-pharmacist-nysc-intern-pharmaceutical-mowe-ogun-2026",
+    title: "Trainee Pharmacist/NYSC Intern Pharmacists",
+    date: "2026-05-21",
+    location: "Mowe, Ogun State",
+    type: "Full-time",
+    seniority: "Junior",
+    company: "Pharmaceutical Manufacturing Company",
+    summary: "A Pharmaceutical Manufacturing Company is urgently hiring Trainee Pharmacists/NYSC Intern Pharmacists in Mowe, Ogun State, with a BSc Degree in Pharmacy and 0-2 years of experience.",
+    responsibilities: [
+      "Will be trained as dispensary and production pharmacists"
+    ],
+    requirements: [
+      "BSc Degree in Pharmacy",
+      "0-2 years of experience as production or dispensary pharmacists",
+      "Successful candidates will be trained as dispensary and production pharmacists",
+      "Preference will be candidates living in Mowe, Ibafo, Magboro and neighboring cities in Lagos State. Candidates willing to relocate at their own expense are also welcome"
+    ],
+    apply: 'Interested and qualified applicants should forward their CVS to: <a href="mailto:metusmetus73@gmail.com">metusmetus73@gmail.com</a> and <a href="mailto:transnationalzamiva21@yahoo.com">transnationalzamiva21@yahoo.com</a>.',
+    salary: "Negotiable + other benefits",
+    deadline: "Not Specified"
+  },
+  {
+    id: "provisioning-officer-fintech-ikeja-lagos-2026",
+    title: "Provisioning Officer",
+    date: "2026-05-21",
+    location: "Ikeja, Lagos",
+    type: "Full-time",
+    seniority: "Junior",
+    company: "FinTech Company",
+    summary: "A FinTech company is hiring a Provisioning Officer in Ikeja, Lagos, to receive, provision, lock, process, and reconcile devices, supporting daily warehouse activities and ensuring devices are ready for deployment.",
+    responsibilities: [
+      "Receiving, provisioning, locking, processing, and reconciling devices in accordance with operational guidelines and productivity standards",
+      "Support daily warehouse activities and ensures devices are ready for deployment while maintaining quality and inventory accuracy"
+    ],
+    requirements: [
+      "ND Minimum",
+      "2 years experience",
+      "Strong attention to detail, operational discipline, and the ability to work effectively within a fast-paced, target-driven environment"
+    ],
+    apply: '<a href="https://forms.gle/QhxuRyTDcru1cAb58">Click the link below to apply</a>',
+    salary: "₦176,000 (Net Salary) + other benefits",
+    deadline: "Not Specified"
+  },
+  {
+    id: "quality-assurance-documentation-executive-mowe-ogun-2026",
+    title: "Quality Assurance Documentation Executive",
+    date: "2026-05-21",
+    location: "Mowe, Ogun State",
+    type: "Full-time",
+    seniority: "Mid-Level",
+    summary: "Various companies are hiring a Quality Assurance Documentation Executive in Mowe, Ogun State, to manage document control, batch review, version control, and audit preparation, with familiarity with GMP and ISO 9001.",
+    responsibilities: [
+      "Document Control: Manage the Document Management System (DMS). This includes overseeing the creation, review, and approval of SOPs, protocols, and technical reports",
+      "Batch Review: Review manufacturing batch records and logs to ensure they meet Good Manufacturing Practices (GMP) and internal quality guidelines prior to final product release",
+      "Version Control: Issue updated documents to relevant staff, retrieve superseded versions, and ensure only current, authorized documents are used across the organization",
+      "Audit Preparation: Maintain well-organized archives and document trails to support both internal quality audits and external regulatory inspections",
+      "Change Control & CAPA: Assist in processing document change requests and track the documentation related to process deviations and Corrective and Preventive Actions (CAPA)"
+    ],
+    requirements: [
+      "Bachelor’s degree in a relevant field such as Pharmacy, Microbiology, or Life Sciences",
+      "Compliance Knowledge: Familiarity with international regulatory standards (e.g., GMP, ISO 9001)",
+      "Attention to Detail: High level of accuracy when proofreading, verifying data, and managing document tracking systems",
+      "Technical Skills: Strong proficiency in document management software, Enterprise Resource Planning (ERP) systems (like SAP), and Microsoft Office Suite",
+      "Preference will be given to candidates living around Mowe, Magboro, Sagamu, Ibafo, Magodo-Shangisha, Ojodu-Berger, Ikeja, Ojota axis"
+    ],
+    apply: 'Interested and qualified candidates should send their detailed CV to: <a href="mailto:metusmetus73@gmail.com">metusmetus73@gmail.com</a> or <a href="mailto:transnationalzamiva21@yahoo.com">transnationalzamiva21@yahoo.com</a> using the Job Title as the subject of the email.',
+    salary: "N 300,000 per monthly net salary",
+    deadline: "Not Specified"
+  },
+  {
+    id: "digital-marketing-manager-ikeja-lagos-2026",
+    title: "Digital Marketing Manager",
+    date: "2026-05-21",
+    location: "Ikeja, Lagos",
+    type: "Full-time",
+    seniority: "Mid-Level",
+    company: "Reputable Financial Services Firm",
+    summary: "A reputable Financial Services Firm in Ikeja, Lagos, is seeking a smart, creative, and results-driven Digital Marketing Manager to develop and execute digital marketing strategies that drive brand visibility, customer engagement, and lead generation.",
+    responsibilities: [
+      "Develop and implement digital marketing campaigns across multiple channels",
+      "Manage the company’s social media platforms and online presence",
+      "Create engaging content for marketing campaigns and promotions",
+      "Monitor digital campaign performance and prepare reports",
+      "Manage SEO, SEM, email marketing, and online advertisements",
+      "Generate leads and support customer acquisition strategies",
+      "Collaborate with internal teams to enhance brand awareness and customer experience"
+    ],
+    requirements: [
+      "Bachelor’s degree in Marketing, Mass Communication, or related field",
+      "Minimum of 3 years’ experience in digital marketing, preferably in the financial sector",
+      "Strong knowledge of social media management, SEO, Google Ads, and analytics tools",
+      "Excellent communication and content creation skills",
+      "Creative, analytical, and result-oriented"
+    ],
+    apply: 'Qualified candidates should send their CV to <a href="mailto:macaboresources@gmail.com">macaboresources@gmail.com</a> using “Digital Marketing Manager” as the subject of the email or send CV to <a href="https://wa.me/2348100115082">08100115082</a>.',
+    salary: "₦250,000 – ₦300,000 Monthly",
+    deadline: "Not Specified"
+  },
+  {
+    id: "sales-representative-mafoluku-oshodi-lagos-2026",
+    title: "Sales Representative",
+    date: "2026-05-21",
+    location: "Mafoluku, Oshodi, Lagos",
+    type: "Full-time",
+    seniority: "Junior",
+    company: "Various Companies",
+    summary: "Various companies are hiring Female Sales Representatives in Mafoluku, Oshodi, Lagos, with good communication skills, social media savvy, and computer literate.",
+    responsibilities: [],
+    requirements: [
+      "Good communication skills",
+      "Social media savvy",
+      "Computer literate",
+      "Friendly and customer-oriented",
+      "Minimum qualification: SSCE",
+      "Must reside around Mafoluku/Oshodi",
+      "Female candidates preferred",
+      "Must be available to work for at least 1 year"
+    ],
+    apply: 'Send your CV to: <a href="mailto:Momust1@yahoo.com">Momust1@yahoo.com</a>',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "car-recovery-manager-exin-limited-ikeja-lagos-2026",
+    title: "Car Recovery Manager",
+    date: "2026-05-21",
+    location: "Ikeja, Lagos",
+    type: "Full-time",
+    seniority: "Mid-Level",
+    company: "Exin Limited",
+    summary: "Exin Limited is hiring a Car Recovery Manager in Ikeja, Lagos, with at least 3 years of experience in a car leasing/hire purchase company, familiar with Lagos map, and able to track vehicles.",
+    responsibilities: [
+      "Track vehicles",
+      "Lead a team"
+    ],
+    requirements: [
+      "Must have at least 3 years experience in a car leasing/ hire purchase company (This is a top requirement for the role)",
+      "Must be well familiar with Lagos map",
+      "Must be able to track vehicles",
+      "Must have experience in leading a team",
+      "Must have experience with car insurance companies",
+      "Must be able to work under pressure"
+    ],
+    apply: 'Send your CV to: <a href="mailto:jobsrecruitercareer@gmail.com">jobsrecruitercareer@gmail.com</a> Use the job title as subject of the mail',
+    salary: "N400,000 monthly including other benefits",
+    deadline: "Not Specified"
+  },
+  {
+    id: "relationship-manager-fairmoney-abuja-2026",
+    title: "Relationship Manager",
+    date: "2026-05-21",
+    location: "Abuja",
+    type: "Full-time",
+    seniority: "Senior",
+    company: "FairMoney",
+    summary: "FairMoney is hiring a Relationship Manager in Abuja, requiring a Bachelor’s Degree in Sales and Marketing or related fields, with a minimum of 6 to 8 years of experience in the Merchant business.",
+    responsibilities: [],
+    requirements: [
+      "Bachelor’s Degree in Sales and Marketing or related fields",
+      "A minimum of 6 to 8 years of experience in the Merchant business",
+      "Must have an Android phone",
+      "Proven experience managing a high-performance sales team",
+      "Ability to motivate a team of Sales Managers for performance",
+      "Extremely flexible, result-oriented, and hardworking with a strong track record of success",
+      "Ability to self-motivate and manage self",
+      "Good communication and interpersonal skills",
+      "Customer orientation and ability to adapt/respond to different characters"
+    ],
+    apply: '<a href="https://jobs.workable.com/view/hcDJHMkYx3W7dNByUYA5Rj/relationship-manager-in-abuja-at-fairmoney">Apply online</a>',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "assistant-production-supervisor-jubaili-agrotec-kakara-kano-2026",
+    title: "Assistant Production Supervisor",
+    date: "2026-05-21",
+    location: "Kakara, Kano",
+    type: "Full-time",
+    seniority: "Junior",
+    company: "Jubaili Agrotec",
+    summary: "Jubaili Agrotec is hiring an Assistant Production Supervisor in Kakara, Kano.",
+    responsibilities: [],
+    requirements: [],
+    apply: 'Interested and qualified candidates should send their CV to: <a href="mailto:victoria.oduobuk@jubailiagrotec.com">victoria.oduobuk@jubailiagrotec.com</a> using the Job Title as the subject of the email.',
+    salary: "Not Specified",
+    deadline: "2026-05-28"
+  },
+  {
+    id: "storekeeper-jubaili-agrotec-kakara-kano-2026",
+    title: "Storekeeper",
+    date: "2026-05-21",
+    location: "Kakara, Kano",
+    type: "Full-time",
+    seniority: "Junior",
+    company: "Jubaili Agrotec",
+    summary: "Jubaili Agrotec is hiring a Storekeeper in Kakara, Kano, requiring a Bachelor`s Degree with 1 – 4 years of experience.",
+    responsibilities: [],
+    requirements: [
+      "Bachelor`s Degree with 1 – 4 years experience"
+    ],
+    apply: 'Interested and qualified candidates should send their CV to: <a href="mailto:victoria.oduobuk@jubailiagrotec.com">victoria.oduobuk@jubailiagrotec.com</a> using the Job Title as the subject of the email.',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "customer-care-representative-ikeja-lagos-2026-05-21",
+    title: "Customer Care Representative",
+    date: "2026-05-21",
+    location: "Ikeja, Lagos",
+    type: "Full-time",
+    seniority: "Junior",
+    company: "Various Companies",
+    summary: "Various companies are hiring Female Customer Care Representatives in Ikeja, Lagos, to manage incoming calls, identify customer needs, handle complaints, and provide accurate information.",
+    responsibilities: [
+      "Manage incoming calls and customer inquiries",
+      "Identify and assess customer needs to ensure satisfaction",
+      "Build strong customer relationships through open and interactive communication",
+      "Provide accurate, valid, and complete information using the right tools and procedures",
+      "Handle customer complaints, provide appropriate solutions, and follow up to ensure resolution",
+      "Follow company communication procedures, guidelines, and policies",
+      "Go the extra mile to engage and assist customers",
+      "Manage online customer interactions and resolve issues effectively"
+    ],
+    requirements: [
+      "HND, ND, or BSc Degree",
+      "1 – 2 years of work experience",
+      "Gender: Female",
+      "Age: 20 to 27 years",
+      "Residence within Ikeja or areas close to Ikeja is required"
+    ],
+    apply: '<a href="https://docs.google.com/forms/d/e/1FAIpQLSf11HQfHqXm-sasYpkWruR9WbxNKCQlTuUQODH18jxdrXH81Q/viewform?usp=send_form">Click here to apply online</a>',
+    salary: "N100,000 monthly",
+    deadline: "2026-05-30"
+  },
+  {
+    id: "inventory-officer-ikeja-lagos-2026",
+    title: "Inventory Officer",
+    date: "2026-05-21",
+    location: "Ikeja, Lagos",
+    type: "Full-time",
+    seniority: "Junior",
+    company: "Various Companies",
+    summary: "Various companies are hiring Inventory Officers in Ikeja, Lagos, to manage stock, perform physical counts, prepare reports, and handle stock movement.",
+    responsibilities: [
+      "Ensure all books in store are well arranged",
+      "Perform physical stock count",
+      "Prepare stock report",
+      "Take record of in and out stock",
+      "Updates bin card",
+      "Picking stock from the warehouse for customers",
+      "Release stock to customers",
+      "Transfer stock from one warehouse to another warehouse"
+    ],
+    requirements: [
+      "OND / BSc / HND in Accounting or any other related field",
+      "2 years and above experience in inventory",
+      "Excellent communication skill",
+      "Proficiency in Microsoft Office suite",
+      "Good analytical skills"
+    ],
+    apply: 'Interested and qualified candidates should forward their CVs to: <a href="mailto:publishingjobs24@gmail.com">publishingjobs24@gmail.com</a> using the position as the subject of the mail.',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "risk-manager-microfinance-guided-arrows-consulting-lagos-2026",
+    title: "Risk Manager",
+    date: "2026-05-21",
+    location: "Lagos",
+    type: "Full-time",
+    seniority: "Senior",
+    company: "Guided Arrows Consulting (for a Microfinance Institution)",
+    summary: "Guided Arrows Consulting is seeking an experienced Risk Manager for a Microfinance Institution in Lagos, with at least 6 years of experience, to identify, assess, and mitigate credit, operational, and liquidity risks.",
+    responsibilities: [
+      "Develop and implement risk policies and early warning systems",
+      "Monitor loan portfolio quality and concentration risk",
+      "Conduct regular risk assessments and report to management",
+      "Oversee fraud prevention and business continuity planning"
+    ],
+    requirements: [
+      "At least 6 years in microfinance or financial services",
+      "Ensure compliance with CBN risk management frameworks for MFIs"
+    ],
+    apply: 'Send your CV with “Risk Manager – Lagos” to: <a href="mailto:recruitmentguidedarrowsconsult@gmail.com">recruitmentguidedarrowsconsult@gmail.com</a>',
+    salary: "₦250,000+ (Very negotiable)",
+    deadline: "Not Specified"
+  },
+  {
+    id: "sales-representatives-royal-jewelry-lekki-lagos-2026",
+    title: "Sales Representatives",
+    date: "2026-05-21",
+    location: "Oriwu Street, Lekki Phase 1",
+    type: "Full-time",
+    seniority: "Junior",
+    company: "Royal Jewelry Co. Ltd",
+    summary: "Royal Jewelry Co. Ltd is seeking motivated and capable Sales Representatives in Lekki Phase 1, Lagos, to find potential customers, promote jewelry products, and meet sales targets.",
+    responsibilities: [
+      "Actively search for and approach potential customers",
+      "Promote the company’s jewelry products and services",
+      "Build and maintain strong customer relationships",
+      "Meet sales targets and help expand the company’s customer base"
+    ],
+    requirements: [
+      "Strong sales ability and good communication skills",
+      "Must be proactive, confident, and able to find new customers",
+      "Ability to work independently and achieve targets",
+      "Previous sales experience is an advantage"
+    ],
+    apply: 'Send a message on WhatsApp: <a href="https://wa.me/2349036959150">09036959150</a>',
+    salary: "₦200,000 monthly + interest",
+    deadline: "Not Specified"
+  },
+  {
+    id: "site-engineer-caih-group-lekki-lagos-2026-05-21",
+    title: "Site Engineer",
+    date: "2026-05-21",
+    location: "Lekki, Lagos",
+    type: "Full-time",
+    seniority: "Mid-Level",
+    company: "CAIH Group",
+    summary: "CAIH Group is seeking a competent and experienced Site Engineer in Lekki, Lagos, to oversee construction activities, ensure projects are executed according to specifications, and maintain compliance with building standards and safety regulations.",
+    responsibilities: [
+      "Supervise and coordinate construction activities on-site",
+      "Read and interpret architectural and structural drawings",
+      "Ensure compliance with Lagos State building codes and standards",
+      "Monitor project progress and ensure timely delivery of tasks",
+      "Collaborate with contractors, consultants, and project stakeholders",
+      "Prepare site reports and maintain proper project documentation",
+      "Ensure quality control and adherence to safety procedures"
+    ],
+    requirements: [
+      "BSc/HND in Building Technology, Civil Engineering, or Structural Engineering",
+      "Minimum of 3 years post-graduation hands-on experience in the building industry",
+      "Ability to read and interpret drawings",
+      "Good knowledge of CAD designs",
+      "Sound knowledge of building codes and standards in Lagos State",
+      "Experience in high-rise construction",
+      "Good project management skills",
+      "Good negotiating skills",
+      "Ability to drive is an added advantage"
+    ],
+    apply: 'Send your CV to <a href="mailto:recruitment@caihgroup.com">recruitment@caihgroup.com</a> with the subject ‘Site Engineer’',
+    salary: "Not Specified",
+    deadline: "2026-05-26"
+  },
+  {
+    id: "receptionist-ruth-roots-lagos-2026-05-21",
+    title: "Receptionist",
+    date: "2026-05-21",
+    location: "Lagos",
+    type: "Full-time",
+    seniority: "Junior",
+    company: "Ruth & Roots Ltd",
+    summary: "Ruth & Roots Ltd is hiring a Receptionist in Lagos, requiring an OND / HND / BSc. Degree in Hospitality Management or a related field, with 0-3 years of experience.",
+    responsibilities: [],
+    requirements: [
+      "OND / HND / BSc. Degree in Hospitality Management or a related field",
+      "0-3 years of experience in a receptionist or administrative support role",
+      "Excellent verbal and written communication skills",
+      "Proficient in Microsoft Office Suite (Word, Excel, PowerPoint, Outlook)",
+      "Strong organizational skills and ability to multitask",
+      "Professional demeanor with a positive attitude",
+      "Ability to maintain confidentiality and handle sensitive information",
+      "Familiarity with office equipment (e.g., printers, copiers, fax machines) is a plus"
+    ],
+    apply: 'Send CV to: <a href="mailto:hr@ruthandroots.com">hr@ruthandroots.com</a> using “Receptionist – Lagos” as the subject of the email.',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "quality-assurance-hse-officer-president-paint-ogun-2026-05-21",
+    title: "Quality Assurance / HSE Officer",
+    date: "2026-05-21",
+    location: "Ogun State",
+    type: "Full-time",
+    seniority: "Junior",
+    company: "President Paint Nigeria Limited",
+    summary: "President Paint Nigeria Limited is hiring a Quality Assurance / HSE Officer in Ogun State, requiring a minimum of HND / BSc in Chemistry, Industrial Chemistry, or related discipline, with at least 2 years of relevant experience.",
+    responsibilities: [],
+    requirements: [
+      "Minimum of HND / BSc in Chemistry, Industrial Chemistry, or any related discipline",
+      "Minimum of 2 years relevant experience in quality assurance or HSE, preferably in a manufacturing environment",
+      "Knowledge of quality control procedures and safety regulations",
+      "Good analytical, organizational, and reporting skills",
+      "Proficiency in Microsoft Office applications",
+      "Professional certification in HSE is an added advantage"
+    ],
+    apply: 'Send CV to: <a href="mailto:human.resources@presidentpaint.com">human.resources@presidentpaint.com</a> using the job title as the subject of the email',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "customer-care-representative-tejuosho-yaba-lagos-2026",
+    title: "Customer Care Representative",
+    date: "2026-05-21",
+    location: "Tejuosho, Yaba, Lagos",
+    type: "Full-time",
+    seniority: "Junior",
+    company: "Various Companies",
+    summary: "Various companies are hiring Customer Care Representatives in Tejuosho, Yaba, Lagos, to manage customer interactions, maintain accurate records, and support sales and online engagement.",
+    responsibilities: [
+      "Manage customer interactions across phone, email, chat, and social media",
+      "Maintain accurate records of customer interactions and transactions",
+      "Handle orders, returns, refunds, and payments efficiently",
+      "Support sales and online engagement across social platforms"
+    ],
+    requirements: [],
+    apply: 'Send your CV with the job title as the subject line to: <a href="mailto:rebeccagabrielj@gmail.com">rebeccagabrielj@gmail.com</a>',
+    salary: "₦120,000",
+    deadline: "Not Specified"
+  },
+  {
+    id: "sales-medical-representative-tamar-pharez-pharmaceuticals-multiple-2026",
+    title: "Sales/Medical Representative",
+    date: "2026-05-21",
+    location: "Ibadan – PLATEAU – JOS, EDO/DELTA",
+    type: "Full-time",
+    seniority: "Junior",
+    company: "Tamar & Pharez Pharmaceuticals",
+    summary: "Tamar & Pharez Pharmaceuticals is recruiting passionate and result-driven Sales/Medical Representatives in multiple locations, seeking candidates with a degree in Pharmacy, Biochemistry, Microbiology, or Human Physiology.",
+    responsibilities: [],
+    requirements: [
+      "Degree in Pharmacy, Biochemistry, Microbiology, Human Physiology",
+      "1–2 years post-NYSC experience as a Sales Representative or Medical Representative",
+      "Not more than 27 years",
+      "Young, energetic, goal-oriented professionals with strong communication skills and passion for healthcare marketing"
+    ],
+    apply: 'Interested candidates should send their CV to: <a href="mailto:tamarandpharez@gmail.com">tamarandpharez@gmail.com</a>',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "health-safety-environment-hse-officer-marquise-energy-lagos-2026",
+    title: "Health, Safety & Environment (HSE) Officer",
+    date: "2026-05-21",
+    location: "Lagos",
+    type: "Full-time",
+    seniority: "Mid-Level",
+    company: "Marquise Energy Limited",
+    summary: "Marquise Energy Limited is hiring an HSE Officer in Lagos with a degree or diploma in Occupational Health & Safety and a minimum of 5 years of experience in oil & gas or industrial projects.",
+    responsibilities: [],
+    requirements: [
+      "Degree or diploma in Occupational Health & Safety or related field",
+      "NEBOSH, ISPON, OSHA, or equivalent certification",
+      "Minimum of 5 years’ experience in oil & gas or industrial projects",
+      "Strong knowledge of HSE regulations and standards"
+    ],
+    apply: 'Send CV to: <a href="mailto:recruitment@marquiseenergy.com">recruitment@marquiseenergy.com</a> using the job title as the subject of the email.',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "graphic-designer-fitcare-health-lekki-lagos-2026",
+    title: "Graphic Designer",
+    date: "2026-05-21",
+    location: "Lekki Phase 1, Lagos",
+    type: "Part-time",
+    seniority: "Mid-Level",
+    company: "Fitcare Health",
+    summary: "Fitcare Health is looking for a highly creative, fast, and proactive Part-time Graphic Designer in Lekki Phase 1, Lagos, who understands modern branding, clean design, social media marketing, and high-quality visual storytelling.",
+    responsibilities: [
+      "Create content that feels fresh, elevated, engaging and on-trend"
+    ],
+    requirements: [
+      "Minimum of 3 years graphic design experience",
+      "Strong understanding of modern social media design",
+      "Experience creating high-quality flyers, campaigns, mockups and digital content",
+      "Good knowledge of Photoshop, Illustrator and Canva",
+      "Experience using AI creative tools such as Higgsfield and other AI image/content platforms",
+      "Strong understanding of current design trends, luxury-style aesthetics and branding",
+      "Attention to detail and the ability to work quickly without reducing quality",
+      "Very proactive and hardworking",
+      "Fast and efficient",
+      "Creative and visually strong",
+      "Able to take direction well",
+      "Good at communication",
+      "Serious about growth and improving",
+      "Able to work well within a team environment",
+      "Passionate about content, branding and aesthetics"
+    ],
+    apply: 'Email: <a href="mailto:careers@fitcarehealth.com">careers@fitcarehealth.com</a>',
+    salary: "₦180,000 monthly",
+    deadline: "Not Specified"
+  },
+  {
+    id: "graduate-engineer-trainee-dufil-prima-foods-multiple-locations-2026",
+    title: "Graduate Engineer Trainee",
+    date: "2026-05-21",
+    location: "Sango Ota, Port Harcourt, Kaduna, Lagos, Aba",
+    type: "Full-time",
+    seniority: "Junior",
+    company: "Dufil Prima Foods",
+    summary: "Dufil Prima Foods is hiring Graduate Engineer Trainees in multiple locations, seeking candidates with a Bachelor’s Degree or HND in Mechanical, Electrical/Electronic, Mechatronics, or Automation/Instrumentation Engineering.",
+    responsibilities: [
+      "Learn and contribute to engineering and manufacturing operations",
+      "Work in a manufacturing environment and shifts where required"
+    ],
+    requirements: [
+      "Bachelor’s Degree or HND in: Mechanical Engineering, Electrical/Electronic Engineering, Mechatronics Engineering, Automation/Instrumentation Engineering",
+      "Minimum of Second Class Upper (2:1) or Upper Credit preferred",
+      "Not more than 30 years of age",
+      "0–2 years post-graduation experience",
+      "NYSC completed or currently serving",
+      "Strong analytical and problem-solving skills",
+      "Willingness to work in a manufacturing environment and shifts where required",
+      "Good communication and teamwork skills",
+      "Passion for engineering and manufacturing operations"
+    ],
+    apply: '<a href="https://recruitment.dragnet-solutions.com/portal/apply?d=dufilprima&details=558">Apply online</a>',
+    salary: "Not Specified",
+    deadline: "2026-06-03"
+  },
+  {
+    id: "virtual-assistant-assistant-digital-marketer-the-belle-store-remote-2026",
+    title: "Virtual Assistant / Assistant Digital Marketer",
+    date: "2026-05-21",
+    location: "Remote",
+    type: "Full-time",
+    seniority: "Junior",
+    company: "The Belle Store",
+    summary: "A fast-paced remote team is seeking a proactive and highly organized Assistant Digital Marketer (Virtual Assistant) to support digital marketing, administrative, and operational activities while leveraging AI tools.",
+    responsibilities: [
+      "Support digital marketing through basic social media editing, scheduling, and AI-assisted content creation",
+      "Conduct market, competitor, networking, and grant research",
+      "Manage calendars, meetings, scheduling, reminders, and deadlines",
+      "Handle travel, accommodation, and meal bookings",
+      "Manage personal tasks such as online grocery shopping and daily coordination",
+      "Assist with bookkeeping and reconciliation tasks",
+      "Support procurement, vendor research, and sourcing",
+      "Coordinate event planning and logistics",
+      "Supervise personal projects and ensure timely execution",
+      "Provide basic customer service support and professional communication"
+    ],
+    requirements: [
+      "Bachelor’s degree in Business Administration, Business Management, or related field",
+      "1–2 years experience in Digital Marketing, Virtual Assistant, or similar remote role"
+    ],
+    apply: 'Send CV to <a href="mailto:Thebellestorehr@gmail.com">Thebellestorehr@gmail.com</a> Use the job title as subject of the mail',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "graphic-designer-nigeria-remote-2026",
+    title: "Graphic Designer",
+    date: "2026-05-21",
+    location: "Nigeria (Remote)",
+    type: "Permanent",
+    seniority: "Mid-Level",
+    company: "Various Companies via Indeed",
+    summary: "Various companies are hiring remote Graphic Designers in Nigeria to design logos, branding assets, typography, and engaging digital visuals for client projects.",
+    responsibilities: [
+      "Design logos, branding assets, typography, and engaging digital visuals for client projects",
+      "Create cohesive visual identities that strengthen brand presence and marketing efforts",
+      "Collaborate remotely with teams to deliver high-quality creative work on time"
+    ],
+    requirements: [],
+    apply: '<a href="https://ng.indeed.com/viewjob?jk=6566a09be164cc8c&from=shareddesktop_copy">Apply online</a>',
+    salary: "Not specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "customer-service-data-entry-usa-survey-job-remote-2026",
+    title: "Customer Service Data Entry",
+    date: "2026-05-21",
+    location: "Remote",
+    type: "Part-Time",
+    seniority: "Junior",
+    company: "USA Survey Job",
+    summary: "USA Survey Job is hiring remote Customer Service Data Entry personnel for flexible part-time work involving participation in paid online surveys, research studies, and product testing.",
+    responsibilities: [
+      "Participate in paid online surveys, research studies, and focus groups",
+      "Test products/services and provide feedback through written or verbal responses",
+      "Follow instructions accurately while completing market research activities remotely"
+    ],
+    requirements: [],
+    apply: '<a href="https://jobs.lever.co/usasurveyjob/6fd7d6ac-7f68-4597-9591-ab1c7766189c?source=remote.com&utm_source=remote.com&ref=remote.com">Apply online</a>',
+    salary: "Earnings vary based on participation and rewards",
+    deadline: "Not Specified"
+  },
+  {
+    id: "graphic-design-web-designer-wing-remote-2026",
+    title: "Graphic Design Web Designer",
+    date: "2026-05-21",
+    location: "Remote (Worldwide)",
+    type: "Full-time",
+    seniority: "Mid-Level",
+    company: "Wing",
+    summary: "Wing is hiring a remote Graphic Design Web Designer to design and build landing pages and websites using WordPress, Webflow, and Framer, create sales collateral, and improve website performance.",
+    responsibilities: [
+      "Design and build landing pages and websites using WordPress, Webflow, and Framer",
+      "Create sales collateral, pitch decks, campaign assets, and brand materials",
+      "Improve website performance and conversions using UX principles, analytics, and CRO insights"
+    ],
+    requirements: [],
+    apply: '<a href="https://jobs.lever.co/getwingapp/6c7c4f6e-58cf-4eb5-8c57-0e7975ea64ee?source=remote.com&utm_source=remote.com&ref=remote.com">Apply online</a>',
+    salary: "$1.5K–$2K/month",
+    deadline: "Not Specified"
+  },
+  {
+    id: "digital-marketer-giw-writers-llp-remote-2026",
+    title: "Digital Marketer",
+    date: "2026-05-21",
+    location: "Remote",
+    type: "Full-time",
+    seniority: "Mid-Level",
+    company: "GIW Writers LLP",
+    summary: "GIW Writers LLP is hiring a remote Full-time Digital Marketer to develop and manage digital marketing campaigns, create content strategies, generate leads, and run paid advertising campaigns.",
+    responsibilities: [
+      "Develop and manage digital marketing campaigns for GIW Writers LLP",
+      "Create and execute content strategies for platforms such as Instagram, LinkedIn, Facebook, TikTok, and other relevant channels",
+      "Generate quality leads for the company’s writing services",
+      "Run and monitor paid advertising campaigns across platforms such as Meta Ads, Google Ads, and other suitable channels",
+      "Create engaging content ideas that position GIW Writers LLP as a trusted writing brand"
+    ],
+    requirements: [],
+    apply: '<a href="https://docs.google.com/forms/d/e/1FAIpQLSemX1lkI69uLClZ3RuA7MK3kMsRiL_tDctpRaPfH-7skuiSJg/viewform">Apply online</a>',
+    salary: "N100,000 naira",
+    deadline: "Not Specified"
+  },
+  {
+    id: "seo-content-writer-aral-studios-remote-2026",
+    title: "SEO Content Writer",
+    date: "2026-05-21",
+    location: "Remote",
+    type: "Full-time",
+    seniority: "Junior",
+    company: "Aral Studios",
+    summary: "Aral Studios is hiring a remote SEO Content Writer with basic knowledge of marketing & SEO, strong English writing skills, and creative thinking to write engaging content.",
+    responsibilities: [
+      "Write engaging content"
+    ],
+    requirements: [
+      "Basic knowledge of marketing & SEO",
+      "Strong English writing & vocabulary",
+      "Good communication skills",
+      "Disciplined & punctual",
+      "Creative thinking and research skills",
+      "Ability to write engaging content"
+    ],
+    apply: 'Send your CV to <a href="mailto:info@aralstudios.com">info@aralstudios.com</a>',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "social-media-manager-sprout-talent-network-remote-2026",
+    title: "Social Media Manager",
+    date: "2026-05-21",
+    location: "Remote",
+    type: "Part-time",
+    seniority: "Mid-Level",
+    company: "Sprout Talent Network",
+    summary: "Sprout Talent Network is seeking a remote Part-Time Social Media Manager to manage content and community engagement across five social platforms for both the academy and the founder’s personal brand.",
+    responsibilities: [
+      "Manage daily content and community engagement across five social platforms for both the academy and the founder’s personal brand",
+      "Edit raw footage into branded videos, and executing a strategic content calendar",
+      "Pitch weekly creative ideas and provide performance reports to track growth and lead generation"
+    ],
+    requirements: [
+      "Send your Cv, portfolio & 60 seconds Loom video"
+    ],
+    apply: 'Send your Cv, portfolio & 60 seconds Loom video to <a href="mailto:seun@newshepherdcare.co.uk">seun@newshepherdcare.co.uk</a>',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "virtual-assistant-sadecia-tutors-remote-2026",
+    title: "Virtual Assistant",
+    date: "2026-05-21",
+    location: "Remote",
+    type: "Full-time",
+    seniority: "Junior",
+    company: "Sadecia Tutors",
+    summary: "Sadecia Tutors is hiring a remote Virtual Assistant who is organized, detail-oriented, proactive, and professional, with experience in spreadsheets, calendars, CRMs, and email follow-up.",
+    responsibilities: [
+      "You love organization",
+      "You naturally notice details other people miss",
+      "You enjoy making systems smoother, you communicate professionally and warmly",
+      "You are proactive instead of waiting to be told every tiny thing"
+    ],
+    requirements: [
+      "Experience with spreadsheets, calendars, CRMs, email follow-up",
+      "Bonus points if you also have experience with marketing/data tracking, automations + tech tools"
+    ],
+    apply: 'Send your Cv & portfolio to <a href="mailto:support@sadecia.com">support@sadecia.com</a>',
+    salary: "$15/hr - $20/hr",
+    deadline: "Not Specified"
+  },
+  {
+    id: "administrative-virtual-assistant-jisa-consult-remote-2026",
+    title: "Administrative Virtual Assistant",
+    date: "2026-05-21",
+    location: "Remote",
+    type: "Full-time",
+    seniority: "Junior",
+    company: "Jisa Consult",
+    summary: "Jisa Consult is seeking a remote Administrative Virtual Assistant with strong English communication skills and experience in managing calendars, emails, scheduling, and CRM systems.",
+    responsibilities: [
+      "Manage Calendars, emails, scheduling, and follow ups"
+    ],
+    requirements: [
+      "Strong English communication skills",
+      "Manage Calendars, emails, scheduling, and follow ups",
+      "Experience with spreadsheets, CRM Systems & admin support"
+    ],
+    apply: 'Send your cv & portfolio to <a href="mailto:info@virtualtalentlatam.com">info@virtualtalentlatam.com</a>',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "multiple-internship-roles-konfirm-tech-africa-remote-2026",
+    title: "Multiple Internship Roles",
+    date: "2026-05-21",
+    location: "Remote",
+    type: "Internship",
+    seniority: "Junior",
+    company: "Konfirm Tech Africa",
+    summary: "Konfirm Tech Africa is hiring for multiple paid remote internship roles including Social Media Manager, Data Analyst, Backend Developer, and Graphic Designer.",
+    responsibilities: [
+      "Support tasks related to chosen internship role",
+      "Contribute to team projects",
+      "Learn and develop skills in a professional environment"
+    ],
+    requirements: [
+      "Send a short video link telling us why you’re the perfect fit for your chosen role",
+      "Social media handles and CV"
+    ],
+    apply: 'Send a short video link, social media handles and CV to: <a href="mailto:konfirmtechafrica@gmail.com">konfirmtechafrica@gmail.com</a>',
+    salary: "Paid internship",
+    deadline: "Not Specified"
+  },
+  {
     id: "manager-internal-control-arnergy-lagos-2026",
     title: "Manager, Internal Control",
     date: "2026-05-19",

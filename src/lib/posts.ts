@@ -10,6 +10,205 @@ export type Post = {
 
 const allPosts: Post[] = [
   {
+    id: "nsuk-pre-degree-ijmb-admission-2026-2027",
+    title: "NSUK Begins Sale of Pre-Degree and IJMB Admission Forms for 2026/2027 Session",
+    category: "Education",
+    date: "2026-05-21",
+    excerpt: "Nasarawa State University, Keffi (NSUK) has opened applications for its Pre-Degree and IJMB programmes for the 2026/2027 academic session. Sale of forms ends July 30, 2026.",
+    content:
+      `<h2>NSUK Begins Sale of Pre-Degree and IJMB Admission Forms for 2026/2027 Session</h2>
+      <p>Nasarawa State University, Keffi has opened applications for its Pre-Degree and IJMB programmes for the 2026/2027 academic session.</p>
+      <p>The School of Preliminary and Remedial Studies is inviting qualified candidates to apply for admission into the available programmes before the deadline.</p>
+      <p>According to the university, candidates are expected to carefully review the admission requirements for each programme before starting the application process, since subject combinations and entry conditions differ across programmes.</p>
+      <p>The sale of forms will close on <strong>30 July 2026</strong>.</p>
+
+      <h2>NSUK IJMB Programme Requirements</h2>
+      <p>The Interim Joint Matriculation Board (IJMB) programme is available to candidates with at least five O’Level credit passes.</p>
+      <p>Applicants must have credits in:</p>
+      <ul>
+        <li>English Language</li>
+        <li>Mathematics</li>
+        <li>Three other subjects related to their intended course of study</li>
+      </ul>
+      <p>Candidates may combine results from not more than two sittings.</p>
+      <p>The IJMB programme lasts for one year (12 months) and prepares candidates for Direct Entry admission into 200 Level at Nasarawa State University, Keffi, and other universities across Nigeria.</p>
+      <p>Candidates are advised to check the university’s official website for approved subject combinations and available undergraduate courses linked to the programme.</p>
+
+      <h2>NSUK Preliminary Science Programme</h2>
+      <p>The Preliminary Science programme is designed for candidates seeking admission into science-related degree courses.</p>
+      <p>To qualify, candidates must possess at least five O’Level credits in:</p>
+      <ul>
+        <li>English Language</li>
+        <li>Mathematics</li>
+        <li>Physics</li>
+        <li>Chemistry</li>
+        <li>Biology</li>
+      </ul>
+      <p>Candidates who successfully complete the programme must still sit for the Unified Tertiary Matriculation Examination (UTME), meet the required national minimum score, and satisfy the university’s cut-off mark before gaining admission into degree programmes.</p>
+
+      <h2>NSUK One-Year Remedial French Programme</h2>
+      <p>The university also offers a one-year Remedial French programme for candidates interested in building a career in French studies.</p>
+      <p>Applicants under this category are expected to remedy deficiencies in their O’Level results and obtain five required credits, including:</p>
+      <ul>
+        <li>English Language</li>
+        <li>Mathematics</li>
+        <li>French</li>
+      </ul>
+      <p>They must also meet the required UTME cut-off mark before qualifying for admission into the 100 Level French programme.</p>
+
+      <h2>How to Apply for NSUK Pre-Degree and IJMB Admission</h2>
+      <p>Interested candidates should complete the online application through the <a href="https://prelim.nsuk.edu.ng/">NSUK preliminary studies application portal</a>.</p>
+      <p>Applicants are required to pay a non-refundable application fee of <strong>₦10,000</strong>, alongside <strong>₦315 bank charges</strong> through the CBS Nasarawa State University payment platform before accessing the form.</p>
+      <p>Candidates are advised to provide accurate information during registration, as errors in personal or academic details may delay processing.</p>
+
+      <h2>NSUK Pre-Degree and IJMB Closing Date</h2>
+      <p>The university stated that the sale of admission forms for the 2026/2027 academic session will officially end on <strong>30 July 2026</strong>.</p>
+      <p>Candidates interested in any of the available programmes are encouraged to complete their applications before the deadline to avoid missing the opportunity.</p>`,
+    tags: [
+      "NSUK",
+      "Pre-Degree",
+      "IJMB",
+      "Admission",
+      "2026/2027",
+      "Education",
+      "Nigeria",
+    ],
+  },
+  {
+    id: "waec-gce-2026-second-series-registration",
+    title: "WAEC GCE 2026 Second Series Registration Begins as CBT Exam Fee Revealed",
+    category: "Education",
+    date: "2026-05-21",
+    excerpt: "The registration process for the 2026 WAEC GCE Second Series has officially started, with the examination set to be conducted as a Computer-Based Test (CBT).",
+    content:
+      `<h2>WAEC GCE 2026 Second Series Registration Begins</h2>
+      <p>The registration process for the 2026 Second Series of the West African Senior School Certificate Examination (WASSCE) for Private Candidates, popularly known as WAEC GCE, has officially started.</p>
+      <p>Candidates planning to sit for the examination are expected to complete their registration early to avoid late charges and possible registration issues before the deadline.</p>
+      <p>WAEC has fixed the registration fee at Twenty-Seven Thousand Naira (₦27,000), while the examination itself will be conducted as a Computer-Based Test (CBT).</p>
+
+      <h2>WAEC GCE 2026 Registration Deadline</h2>
+      <p>WAEC announced two important deadlines candidates must take seriously:</p>
+      <ul>
+        <li>Generation of Registration PIN closes on <strong>Friday, 31 July 2026</strong></li>
+        <li>Biometrics capturing and online registration will end by <strong>11:59pm on Sunday, 2 August 2026</strong></li>
+      </ul>
+      <p>Candidates are advised not to wait until the final days before beginning the process. WAEC also stated that registration should be completed within two weeks of first accessing the registration portal during the registration period.</p>
+
+      <h2>WAEC GCE 2026 Registration Process</h2>
+      <p>The registration process is completely online for private candidates. After purchasing the Registration PIN, candidates are expected to visit the <a href="https://registration.waecdirect.org/">WAEC GCE registration portal</a> and complete their entries. The registration includes biometric capturing, which WAEC will use for candidate verification at examination centres.</p>
+      <p>Candidates should carefully review all information entered before final submission because WAEC will not accept correction requests after upload.</p>
+
+      <h2>WAEC GCE Registration Fee and Payment Details</h2>
+      <p>The official registration fee for the 2026 WAEC GCE Second Series is <strong>₦27,000</strong>. Candidates can make payment at approved banks or through accredited agents. In addition to the registration fee, a commission fee of ₦500 will be charged by banks and accredited agents.</p>
+      <p>After payment, candidates will receive a Registration PIN and an Information VCD.</p>
+
+      <h2>Approved Banks for Payment</h2>
+      <p>Candidates can pay at any of the following approved banks: Access Bank Plc, Ecobank Plc, Fidelity Bank Plc, First Bank of Nigeria, First City Monument Bank Plc, GTBank, Heritage Bank, Jaiz Bank, Polaris Bank, Stanbic IBTC, Standard Chartered, Sterling Bank, Union Bank, UBA, Unity Bank, WEMA Bank, and Zenith Bank.</p>
+
+      <h2>WAEC GCE Cashless Payment Channels</h2>
+      <p>Candidates may also purchase registration tokens through approved cashless payment platforms using debit or credit cards. Approved platforms include: Bancwize Limited, Bring Africa, Broadshift Technologies Ltd, Citiserve Ltd, Xpress Payment, Paga, PalmPay, Paycom, System Specs Ltd, Interswitch, Coralpay, Etranzact, IQ Pay, Cyberspace Ltd, Fidelity Bank, Itex, Unified Payments, UBA, Capricorn Ltd, and Kudi.</p>
+
+      <h2>Walk-In Registration for WAEC GCE 2026</h2>
+      <p>Candidates who fail to register before the official closing date may still participate as Walk-in Candidates. However, WAEC requires walk-in registration to be completed at least 24 hours before the paper the candidate intends to write. The walk-in registration fee is <strong>₦45,000</strong>.</p>
+
+      <h2>Candidates With Special Needs</h2>
+      <p>Candidates with special needs are expected to register online like every other candidate. During registration, they must clearly indicate their condition (visual impairment, speech impairment, hearing difficulty, etc.) to help WAEC provide the proper examination arrangements.</p>
+
+      <h2>WAEC GCE 2026 Examination Format</h2>
+      <p>WAEC confirmed that the 2026 Second Series examination will be computer-based:</p>
+      <ul>
+        <li>Objective papers will be <strong>fully CBT</strong></li>
+        <li>Essay and practical papers will follow a <strong>hybrid format</strong></li>
+      </ul>
+      <p>Questions will appear on computer screens, while candidates will write answers in provided answer booklets. WAEC will also organise an online mock examination for interested candidates.</p>
+
+      <h2>Important Registration Guidelines</h2>
+      <ul>
+        <li>Registration fees are non-refundable.</li>
+        <li>Passport photographs must be captured digitally (JPEG only, 275 × 314 pixels).</li>
+        <li>Mobile phones and electronic gadgets are strictly prohibited in the examination hall.</li>
+        <li>Candidates must attend the examination in mufti; professional uniforms are not allowed.</li>
+        <li>Sitting for the examination in multiple centres will lead to cancellation of results.</li>
+        <li>Examination malpractice may lead to cancellation of results and prosecution.</li>
+      </ul>
+
+      <h2>Completion of Registration</h2>
+      <p>After successful registration, candidates should print their <strong>Admission Notice</strong>, which serves as identification during the examination. The Result Checker PIN will also be included on the Admission Notice. WAEC stated that the approved fingerprint scanner is the UareU DigitalPersona device.</p>
+
+      <p>Candidates are strongly advised to provide valid phone numbers and email addresses during registration to receive updates and examination information.</p>`,
+    tags: [
+      "WAEC",
+      "GCE",
+      "WASSCE",
+      "Registration",
+      "CBT",
+      "Nigeria",
+      "Education",
+      "2026",
+      "Exam Guide",
+    ],
+  },
+  {
+    id: "uniosun-secures-full-nuc-accreditation-2025",
+    title: "UNIOSUN Secures Full Accreditation for All 29 Programmes Presented to NUC",
+    category: "Education",
+    date: "2026-05-21",
+    excerpt: "Osun State University (UNIOSUN) has achieved a 100 per cent success rate in its latest accreditation exercise, with all 29 programmes receiving full approval from the NUC.",
+    content:
+      `<h2>UNIOSUN Records 100 Percent Accreditation Success</h2>
+      <p>Osun State University, popularly known as UNIOSUN, has achieved a 100 per cent success rate in its latest accreditation exercise conducted by the National Universities Commission (NUC).</p>
+      <p>The university announced that all 29 academic programmes presented during the October/November 2025 accreditation exercise received full accreditation status from the commission.</p>
+      <p>The development was disclosed in a statement issued by the university’s Public Relations Officer, Ademola Adesoji.</p>
+      <p>According to the statement, the approval was communicated through an official letter signed by Abraham Chundusu on behalf of the Executive Secretary of the National Universities Commission.</p>
+
+      <h2>Academic Areas Covered by the Accreditation Exercise</h2>
+      <p>The accredited programmes span major academic fields within the university, including:</p>
+      <ul>
+        <li>Administration and Management</li>
+        <li>Allied Health Sciences</li>
+        <li>Environmental Sciences</li>
+        <li>Arts and Humanities</li>
+        <li>Computing</li>
+        <li>Education</li>
+        <li>Sciences</li>
+        <li>Social Sciences</li>
+      </ul>
+      <p>The accreditation process examined several key areas such as:</p>
+      <ul>
+        <li>Quality of teaching</li>
+        <li>Academic staffing</li>
+        <li>Research output</li>
+        <li>Learning facilities</li>
+        <li>Infrastructure</li>
+        <li>Programme stability</li>
+      </ul>
+
+      <h2>Vice-Chancellor Commends Staff and Stakeholders</h2>
+      <p>The Vice-Chancellor of the university, Odunayo Clement Adebooye, expressed appreciation to the National Universities Commission for the confidence shown in the institution.</p>
+      <p>He described the achievement as the outcome of consistent planning, quality assurance efforts and sustained investment in academic development.</p>
+      <p>Professor Adebooye also credited the success to the collective contributions of staff members, students, the Governing Council, alumni, and university partners.</p>
+      <p>He further acknowledged the support of the Osun State Government under Governor Ademola Adeleke.</p>
+
+      <h2>Factors Behind the Accreditation Success</h2>
+      <p>According to the university administration, the positive result was supported by steady improvements in teaching quality, research activities, digital development, infrastructure expansion, and academic stability.</p>
+      <p>The institution noted that it has continued to record growth in programme expansion, staff development, research visibility and public reputation since Professor Adebooye assumed office.</p>
+
+      <h2>Why the Accreditation Matters</h2>
+      <p>The latest accreditation success is expected to strengthen the value and recognition of certificates issued by UNIOSUN.</p>
+      <p>For prospective students, current undergraduates and alumni, full accreditation across all presented programmes provides additional confidence in the university’s academic standards and long-term credibility.</p>
+      <p>The result also reinforces UNIOSUN’s position as one of the universities attracting attention for stable academic operations and quality higher education in Nigeria.</p>`,
+    tags: [
+      "UNIOSUN",
+      "Osun State University",
+      "NUC",
+      "Accreditation",
+      "Education",
+      "Nigeria",
+      "2025",
+      "Admissions",
+    ],
+  },
+  {
     id: "auchi-polytechnic-post-utme-admission-2026-2027",
     title: "Auchi Polytechnic Opens 2026/2027 Post UTME Application for ND Admission",
     category: "Education",

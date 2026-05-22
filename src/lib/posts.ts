@@ -10,6 +10,282 @@ export type Post = {
 
 const allPosts: Post[] = [
   {
+    id: "concept-academy-national-medical-essay-competition-2026",
+    title: "Concept Academy Opens 2026 National Medical Essay Competition for Nigerian Medical Students",
+    category: "Education",
+    date: "2026-05-22",
+    excerpt: "Concept Academy has announced its 2026 National Intercollegiate Medical Essay Competition, focusing on AI and telemedicine in African patient care. Top prize is ₦1,000,000.",
+    content:
+      `<h2>Concept Academy Opens 2026 National Medical Essay Competition for Nigerian Medical Students</h2>
+      <p>Concept Academy has announced the 2026 edition of its National Intercollegiate Medical Essay Competition for medical students across Nigeria.</p>
+      <p>The competition focuses on the growing role of technology in healthcare and challenges students to examine how modern digital tools may influence patient care across Africa in the coming years.</p>
+      <p>This year’s essay topic is:</p>
+      <h3>“Artificial Intelligence, Telemedicine, and the Future of Patient Care in Africa”</h3>
+      <p>According to the organisers, applicants are required to begin with a short abstract submission before moving to the full essay stage.</p>
+      <p>Only shortlisted candidates will proceed after the abstract review phase.</p>
+
+      <h2>Who Can Apply?</h2>
+      <p>The competition is strictly open to students studying Medicine and Surgery in recognised Nigerian universities and medical colleges.</p>
+      <p>Concept Academy stated that the contest is designed specifically for medical students, meaning applicants from other academic disciplines are not eligible.</p>
+
+      <h2>Abstract Submission Guidelines</h2>
+      <p>Interested participants must submit an abstract between 70 and 100 words based on the essay topic.</p>
+      <p>The organisers explained that abstracts will serve as the first screening stage for the competition. Candidates whose abstracts meet the required standard will then be invited to submit full essays.</p>
+      <p>Applicants are encouraged to keep their writing focused, concise and directly connected to the topic.</p>
+
+      <h2>Cash Prizes for Winners</h2>
+      <p>The competition offers substantial cash rewards for the top entries:</p>
+      <ul>
+        <li>First Prize — ₦1,000,000</li>
+        <li>Second Prize — ₦500,000</li>
+        <li>Third Prize — ₦250,000</li>
+      </ul>
+
+      <h2>How to Apply</h2>
+      <p>Medical students interested in participating should submit their abstracts through the <a href="https://theconcept.academy/competition-form/">official Concept Academy competition portal</a>.</p>
+      <p>Applicants are advised to:</p>
+      <ul>
+        <li>Stay within the 70–100 word limit</li>
+        <li>Address the topic directly</li>
+        <li>Avoid unnecessary details or off-topic writing</li>
+      </ul>
+      <p>A clear and well-structured abstract may improve the chances of being shortlisted for the next stage of the competition.</p>
+
+      <h2>Application Deadline</h2>
+      <p>All abstract submissions must be completed on or before 31 May 2026.</p>
+      <p>Candidates interested in the Concept Academy National Intercollegiate Medical Essay Competition are advised to apply before the deadline to avoid missing the opportunity.</p>`,
+    tags: [
+      "Concept Academy",
+      "Medical",
+      "Essay Competition",
+      "2026",
+      "Education",
+      "Nigeria",
+    ],
+  },
+  {
+    id: "mtn-foundation-scholarship-2026",
+    title: "MTN Foundation Scholarship 2026 Opens for Nigerian Students in Public Tertiary Institutions",
+    category: "Scholarship",
+    date: "2026-05-22",
+    excerpt: "MTN Foundation has announced the 2026 edition of its annual scholarship programme for Nigerian students in public tertiary institutions, covering Science and Technology, Blind Students, and Top 10 UTME scorers.",
+    content:
+      `<h2>MTN Foundation Scholarship 2026 Opens for Nigerian Students in Public Tertiary Institutions</h2>
+      <p>MTN Foundation has announced the 2026 edition of its annual scholarship programme for Nigerian students in public tertiary institutions.</p>
+      <p>The scholarship scheme, which started in 2010, continues to support high-performing students across universities, polytechnics and colleges of education in Nigeria.</p>
+      <p>For 2026, the programme will run under three different categories, each designed for a specific group of students based on course of study, academic level and performance.</p>
+
+      <h2>MTN Foundation Scholarship Categories</h2>
+      <p>The MTN Foundation Scholarship Programme is divided into:</p>
+      <ul>
+        <li>Science and Technology Scholarship (STS)</li>
+        <li>Scholarship for Blind Students (SBS)</li>
+        <li>Top 10 UTME Scholarship</li>
+      </ul>
+      <p>Students are advised to carefully check the category that matches their academic qualification before applying.</p>
+
+      <h2>MTN Science and Technology Scholarship</h2>
+      <p>The Science and Technology Scholarship supports students studying science and technology-related courses in Nigerian public tertiary institutions.</p>
+      <p>The scholarship is open to:</p>
+      <ul>
+        <li>300 Level students in universities, polytechnics and colleges of education</li>
+        <li>400 Level medical students in public universities and teaching hospitals</li>
+      </ul>
+      <p>According to MTN Foundation, 400 students will receive ₦300,000 each under this category in 2026.</p>
+      <p>Beneficiaries may continue receiving the scholarship until graduation if they maintain the required academic performance and meet other programme conditions.</p>
+
+      <h2>MTN Scholarship for Blind Students</h2>
+      <p>The Scholarship for Blind Students was introduced in 2012 to support visually impaired students in Nigerian public tertiary institutions.</p>
+      <p>The category is open to:</p>
+      <ul>
+        <li>200 Level students</li>
+        <li>300 Level students</li>
+      </ul>
+      <p>Eligible students may study any course in:</p>
+      <ul>
+        <li>Public universities</li>
+        <li>Polytechnics</li>
+        <li>Colleges of education</li>
+      </ul>
+      <p>Under this category, 100 students will receive ₦300,000 each annually.</p>
+      <p>The scholarship remains renewable until graduation, provided recipients maintain the required academic standard.</p>
+
+      <h2>MTN Top 10 UTME Scholarship</h2>
+      <p>The Top 10 UTME Scholarship began in 2020.</p>
+      <p>This category automatically rewards the top 10 highest-scoring UTME candidates announced by Joint Admissions and Matriculation Board.</p>
+      <p>Each beneficiary receives ₦300,000 yearly from 100 Level until graduation, as long as the required grades are maintained.</p>
+      <p>Unlike the other categories, this scholarship applies to:</p>
+      <ul>
+        <li>Any course of study</li>
+        <li>Both public and private tertiary institutions</li>
+      </ul>
+
+      <h2>Eligibility Requirements for MTN Scholarships 2026</h2>
+      <p>The eligibility conditions differ across categories, especially for the Science and Technology Scholarship and the Scholarship for Blind Students.</p>
+
+      <h3>School Type Requirements</h3>
+      <p>For the Science and Technology Scholarship, applicants must be students in:</p>
+      <ul>
+        <li>Public universities</li>
+        <li>Teaching hospitals</li>
+        <li>Polytechnics</li>
+        <li>Colleges of education</li>
+      </ul>
+      <p>For the Scholarship for Blind Students, applicants must also be students in Nigerian public tertiary institutions.</p>
+
+      <h3>Course of Study Requirements</h3>
+      <p>The Science and Technology Scholarship covers:</p>
+      <ul>
+        <li>Science-related courses</li>
+        <li>Technology-related courses</li>
+        <li>Medical programmes</li>
+      </ul>
+      <p>The Scholarship for Blind Students accepts candidates studying any course.</p>
+
+      <h3>Level of Study Requirements</h3>
+      <p>For the Science and Technology Scholarship:</p>
+      <ul>
+        <li>Applicants should have completed second semester examinations in 200 Level and be moving to 300 Level</li>
+        <li>Students already in 300 Level may also apply</li>
+        <li>Medical students should have completed second semester 300 Level examinations and be moving to 400 Level</li>
+      </ul>
+      <p>For the Scholarship for Blind Students:</p>
+      <ul>
+        <li>Only 200 and 300 Level students are eligible</li>
+        <li>Law students may apply only in 300 Level because of the programme structure</li>
+      </ul>
+
+      <h2>MTN Scholarship CGPA Requirements</h2>
+      <h3>Science and Technology Scholarship CGPA</h3>
+      <p>For university and college of education students:</p>
+      <ul>
+        <li>Minimum CGPA of 3.0 on a 4.0 scale</li>
+        <li>Or 3.5 on a 5.0 scale</li>
+      </ul>
+      <p>For polytechnic students:</p>
+      <ul>
+        <li>Minimum CGPA of 3.0 in OND</li>
+        <li>Must have secured admission into HND</li>
+      </ul>
+      <p>For Direct Entry students:</p>
+      <ul>
+        <li>Minimum CGPA of 3.0 in OND</li>
+        <li>Must have secured admission into 300 Level in a public university</li>
+      </ul>
+      <p>Medical students:</p>
+      <ul>
+        <li>Must possess the required pass grade or equivalent academic standing</li>
+      </ul>
+
+      <h3>Scholarship for Blind Students CGPA</h3>
+      <p>For universities and colleges of education:</p>
+      <ul>
+        <li>Minimum CGPA of 2.5</li>
+      </ul>
+      <p>For polytechnic students:</p>
+      <ul>
+        <li>Minimum CGPA of 2.0 in OND</li>
+        <li>Must have gained admission into HND</li>
+      </ul>
+
+      <h2>How to Apply for MTN Scholarships 2026</h2>
+      <p>Eligible students can apply through the <a href="https://apps.mtn.ng/scholarships/form">MTN Scholarships application portal</a>.</p>
+      <p>Applicants are expected to:</p>
+      <ul>
+        <li>Choose the correct scholarship category</li>
+        <li>Provide accurate academic details</li>
+        <li>Confirm that they meet the level and CGPA requirements before submission</li>
+      </ul>
+      <p>Students seeking additional details about the programme can also check the official <a href="https://www.mtn.ng/scholarships/">MTN Scholarships information page</a> for further guidance.</p>`,
+    tags: [
+      "MTN",
+      "Scholarship",
+      "Education",
+      "Science and Technology",
+      "Blind Students",
+      "UTME",
+      "Nigeria",
+      "2026",
+    ],
+  },
+  {
+    id: "nnpc-renaissance-jv-university-scholarship-2026",
+    title: "NNPC-Renaissance JV University Scholarship 2026 Opens for Nigerian Undergraduates",
+    category: "Scholarship",
+    date: "2026-05-22",
+    excerpt: "Renaissance African Energy Company Limited has announced the opening of applications for the 2026 NNPC-Renaissance JV University Scholarship Programme, designed to support academic excellence among Nigerian undergraduates.",
+    content:
+      `<h2>NNPC-Renaissance JV University Scholarship 2026 Opens for Nigerian Undergraduates</h2>
+      <p>Renaissance African Energy Company Limited, operator of the NNPC/Renaissance/TotalEnergies/AENR Joint Venture, has announced the opening of applications for the 2026 NNPC-Renaissance JV University Scholarship Programme.</p>
+      <p>The scholarship is designed to support academic excellence and educational development among Nigerian undergraduates studying in accredited universities across the country.</p>
+      <p>According to the organisers, successful candidates will receive yearly financial support throughout the duration of their undergraduate studies.</p>
+
+      <h2>Categories of the NNPC-Renaissance JV Scholarship</h2>
+      <p>The scholarship programme is merit-based and divided into two award categories.</p>
+
+      <h3>National Merit Award (NM)</h3>
+      <p>The National Merit Award is open to all qualified Nigerian students regardless of state of origin.</p>
+
+      <h3>Areas of Operation Merit Award (OM)</h3>
+      <p>The Areas of Operation Merit Award is specifically for students who are indigenes of Renaissance operational communities located in:</p>
+      <ul>
+        <li>Bayelsa State</li>
+        <li>Delta State</li>
+        <li>Imo State</li>
+        <li>Rivers State</li>
+      </ul>
+      <p>Applicants under this category must provide additional proof of community origin during application.</p>
+
+      <h2>Eligibility Requirements</h2>
+      <p>To qualify for the scholarship, applicants must:</p>
+      <ul>
+        <li>Be citizens of the Federal Republic of Nigeria</li>
+        <li>Be full-time undergraduate students in accredited Nigerian universities</li>
+        <li>Be currently in 200 Level</li>
+        <li>Provide proof of admission into the 2024/2025 academic session</li>
+      </ul>
+      <p>The organisers also stated that candidates already benefiting from scholarships offered by oil and gas companies or related agencies are not eligible to apply.</p>
+
+      <h2>Required Documents for Application</h2>
+      <p>Applicants are expected to upload clear scanned copies of the following documents:</p>
+      <ul>
+        <li>Recent passport photograph with white background</li>
+        <li>School identity card</li>
+        <li>University admission letter or JAMB admission letter</li>
+        <li>JAMB result slip</li>
+        <li>2024/2025 academic transcript or 100 Level result</li>
+        <li>Letter of identification from state or local government</li>
+      </ul>
+
+      <h3>Additional Requirement for Areas of Operation Applicants</h3>
+      <p>Candidates applying under the Areas of Operation Merit Award must also submit:</p>
+      <ul>
+        <li>Community identification letter signed by the Paramount Ruler</li>
+        <li>Letter endorsed by the CDC or CEC Chairman</li>
+      </ul>
+
+      <h2>How to Apply for the NNPC-Renaissance JV Scholarship</h2>
+      <p>Interested and qualified students should complete their applications online through the <a href="https://candidate.scholastica.ng/schemes/NNPCRENAISSANCEJV2026">official NNPC-Renaissance JV scholarship portal</a>.</p>
+
+      <p>The organisers stressed that:</p>
+      <ul>
+        <li>The application process is completely free</li>
+        <li>Applicants should not pay money to anyone during the application process</li>
+      </ul>
+
+      <h2>Application Deadline</h2>
+      <p>Applications for the scholarship opened on 30 April 2026 and will close on 31 May 2026.</p>
+      <p>Only shortlisted candidates will be invited to participate in the computer-based test stage of the selection process.</p>`,
+    tags: [
+      "NNPC",
+      "Renaissance",
+      "Scholarship",
+      "Undergraduate",
+      "Nigeria",
+      "2026",
+    ],
+  },
+  {
     id: "nsuk-pre-degree-ijmb-admission-2026-2027",
     title: "NSUK Begins Sale of Pre-Degree and IJMB Admission Forms for 2026/2027 Session",
     category: "Education",

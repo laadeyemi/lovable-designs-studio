@@ -16,6 +16,591 @@ export type Job = {
 
 const allJobs: Job[] = [
   {
+    id: "business-development-manager-real-estate-mainland-lagos-2026",
+    title: "Business Development Manager (Also a Successor Track to Head of Business)",
+    date: "2026-05-22",
+    location: "Mainland, Lagos",
+    type: "Full-time",
+    seniority: "Senior",
+    summary: "Strategic growth driver across all business units, with responsibility for business expansion, revenue growth, new market penetration, strategic partnerships, client acquisition, commercial positioning, and growth strategy execution.",
+    responsibilities: [
+      "Identify and penetrate new market sectors including: Manufacturing, Oil & Gas, Hospitality, Corporate Real Estate, Institutional Facilities and Industrial Estates.",
+      "Develop growth strategies for all business units.",
+      "Drive client acquisition and revenue expansion.",
+      "Build strategic relationships with corporate organizations and institutional stakeholders.",
+      "Identify emerging opportunities within the Nigerian real estate and facilities management landscape.",
+      "Develop and execute annual business development plans.",
+      "Prepare market intelligence reports and competitor analyses.",
+      "Structure commercial proposals and bids.",
+      "Support pricing strategies and profitability optimization.",
+      "Lead negotiations for strategic transactions and service engagements.",
+      "Strengthen the company’s market positioning as a premium legacy brand.",
+      "Develop institutional relationships and industry visibility.",
+      "Drive participation in strategic industry platforms and business networks.",
+      "Support brand modernization while preserving legacy brand equity."
+    ],
+    requirements: [
+      "Bachelor’s Degree in any of these: Estate Management, Engineering, Architecture, Building Technology, Business Administration, Economics or related field.",
+      "MBA or relevant postgraduate qualifications are an advantage.",
+      "Minimum 8–12 years progressive experience.",
+      "At least 5 years in: Business development, Commercial leadership, Real estate services, Facilities management, Construction/project business, Infrastructure services.",
+      "Preferred candidates may come from: Real Estate, Facilities Management, Construction, Corporate Real Estate Advisory, Property Services, Oil & Gas Support Services, Industrial Services."
+    ],
+    apply: 'To apply, kindly send your CV to <a href="mailto:humancapital@bluesteelsolutions.com.ng">humancapital@bluesteelsolutions.com.ng</a> with the role as the subject of the mail',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "animal-nutritionist-ibadan-2026",
+    title: "Animal Nutritionist",
+    date: "2026-05-22",
+    location: "Ibadan",
+    type: "Full-time",
+    seniority: "Senior",
+    company: "Reputable feed manufacturing company",
+    summary: "Experienced and knowledgeable Animal Nutritionist with strong expertise in broiler poultry nutrition and feed formulation.",
+    responsibilities: [
+      "Develop and optimize broiler feed formulations",
+      "Monitor feed quality and nutritional performance",
+      "Conduct feed trials and performance evaluations",
+      "Work closely with production and quality control teams",
+      "Ensure cost-effective feed formulation without compromising quality",
+      "Provide technical support on poultry nutrition and feed management"
+    ],
+    requirements: [
+      "Minimum of 5 years’ experience in poultry nutrition, especially broiler production",
+      "Strong knowledge of feed formulation and raw material evaluation",
+      "Experience working with poultry and fish pelletizer plants is an added advantage",
+      "Ability to optimize feed performance, cost, and productivity",
+      "Good understanding of feed additives, premixes, and quality standards",
+      "Strong analytical, reporting, and problem-solving skills",
+      "Relevant qualification in Animal Nutrition, Animal Science, or related discipline"
+    ],
+    apply: 'Qualified and interested candidates should send their CV to: <a href="mailto:recruitmentplugwithchemmy@gmail.com">recruitmentplugwithchemmy@gmail.com</a>',
+    salary: "Competitive",
+    deadline: "2026-05-22"
+  },
+  {
+    id: "feedmill-manager-ibadan-2026",
+    title: "Feedmill Manager",
+    date: "2026-05-22",
+    location: "Ibadan",
+    type: "Full-time",
+    seniority: "Senior",
+    company: "Reputable feed manufacturing company",
+    summary: "Experienced and result-oriented Feedmill Manager with strong expertise in managing large poultry and fish pelletizer plants.",
+    responsibilities: [
+      "Oversee daily feedmill and pellet production operations",
+      "Ensure efficient production planning and execution",
+      "Maintain product quality and operational standards",
+      "Supervise production and maintenance teams",
+      "Minimize downtime and improve plant productivity",
+      "Ensure compliance with safety and operational procedures"
+    ],
+    requirements: [
+      "Minimum of 5 years’ experience running poultry & fish pelletizer plants",
+      "Proven experience managing large poultry pellet production lines",
+      "Strong technical knowledge of feedmill operations and machinery",
+      "Ability to manage production targets, quality control, and plant efficiency",
+      "Strong leadership, supervisory, and problem-solving skills",
+      "Knowledge of maintenance coordination, safety, and operational best practices",
+      "Relevant qualification in Animal Science, Mechanical Engineering, or related discipline is an added advantage"
+    ],
+    apply: 'Qualified and interested candidates should send their CV to: <a href="mailto:recruitmentplugwithchemmy@gmail.com">recruitmentplugwithchemmy@gmail.com</a>',
+    salary: "₦1,000,000 Monthly",
+    deadline: "2026-05-22"
+  },
+  {
+    id: "talent-acquisition-specialist-recruiter-lekki-2026",
+    title: "Talent Acquisition Specialist/ Recruiter",
+    date: "2026-05-22",
+    location: "Lekki Phase 1",
+    type: "Full-time",
+    seniority: "Mid-Level",
+    summary: "Seeking an experienced, smart, and proactive Talent Acquisition Specialist/Recruiter with 2-3 years of recruitment experience, available for immediate resumption.",
+    responsibilities: [
+      "Manage end-to-end recruitment processes.",
+      "Source, screen, and interview candidates.",
+      "Ensure a smooth and positive candidate experience.",
+      "Collaborate with hiring managers to understand staffing needs."
+    ],
+    requirements: [
+      "Must have at least 2-3 years experience in Recruitment",
+      "Must have concluded NYSC",
+      "Must be Smart and Proactive",
+      "Should be available for immediate resumption"
+    ],
+    apply: 'Send CVs to <a href="https://wa.me/2349060977128">09060977128</a>',
+    salary: "200k – 250k",
+    deadline: "Not Specified"
+  },
+  {
+    id: "qa-technician-jos-dairy-2026",
+    title: "QA Technician",
+    date: "2026-05-22",
+    location: "Jos, Plateau State",
+    type: "Full-time",
+    seniority: "Junior",
+    company: "Dairy Processing Operations",
+    summary: "Seeking a detail-oriented and analytical QA Technician to support laboratory testing, quality control, and compliance activities within dairy processing operations.",
+    responsibilities: [
+      "Conduct sampling and analysis of raw materials, packaging materials, and finished products",
+      "Perform routine microbiological and physicochemical analysis to ensure product quality",
+      "Monitor hygiene and sanitation standards within the production environment",
+      "Inspect bulk milk tanks and cold rooms to ensure cleanliness and compliance",
+      "Monitor and record storage temperatures of products and raw milk",
+      "Check delivery vehicle conditions, including cleanliness and temperature compliance (3–7°C)",
+      "Calibrate laboratory equipment (e.g., pH meter) in line with SOPs",
+      "Prepare reagents, culture media, and colorants for production processes",
+      "Maintain cleanliness, sterilization, and proper organization of laboratory equipment and glassware",
+      "Conduct in-process quality checks including weight control and coding/date verification",
+      "Collect and analyze line samples for each production batch",
+      "Inspect returned products and document findings",
+      "Monitor sanitizer concentration (foot and boot dips)",
+      "Maintain accurate documentation of all laboratory results and generate daily shift reports",
+      "Recommend improvements for product quality and processing efficiency"
+    ],
+    requirements: [
+      "Minimum of OND in Science-related field (Microbiology, Chemistry, Biochemistry, Food Science, etc.)",
+      "Experience in FMCG or dairy processing is an added advantage",
+      "Basic knowledge of laboratory procedures and quality control practices",
+      "Understanding of GMP, hygiene, and food safety standards"
+    ],
+    apply: 'Suitable candidates send their CV to <a href="https://wa.me/2349169852721">09169852721</a> WhatsApp only before 26th of May 2026',
+    salary: "Not Specified",
+    deadline: "2026-05-26"
+  },
+  {
+    id: "factory-maintenance-technician-jos-fmcg-2026",
+    title: "Factory Maintenance Technician",
+    date: "2026-05-22",
+    location: "Jos, Plateau State",
+    type: "Full-time",
+    company: "Reputable FMCG manufacturing company",
+    summary: "Responsible for troubleshooting and preventive maintenance in a fast-paced FMCG/manufacturing industry environment.",
+    responsibilities: [
+      "Perform troubleshooting and preventive maintenance on factory equipment.",
+      "Work effectively in a fast-paced factory environment.",
+      "Apply good troubleshooting and preventive maintenance skills."
+    ],
+    requirements: [
+      "B.Eng/HND in Electrical/Electronics Engineering or related field",
+      "Experience in FMCG/manufacturing industry maintenance operations is an added advantage",
+      "Good troubleshooting and preventive maintenance skills",
+      "Ability to work in a fast-paced factory environment"
+    ],
+    apply: 'Interested and qualified candidates should send their CV via WhatsApp only to: <a href="https://wa.me/2349169852721">09169852721</a>',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "business-development-officer-lekki-briccs-2026-05-22",
+    title: "Business Development Officer",
+    date: "2026-05-22",
+    location: "Lekki Phase 1, Lagos",
+    type: "Full-time",
+    company: "Briccs Int.",
+    seniority: "Mid-Level",
+    summary: "Drive revenue and market share for a telecommunications company through strategic business development.",
+    responsibilities: [
+      "Drive revenue and market share through strategic business development.",
+      "Utilize Microsoft Office, especially Excel, for business tasks.",
+      "Apply strong analytical and communication skills.",
+      "Adapt quickly in a tech environment."
+    ],
+    requirements: [
+      "Good First Degree (B.Sc.) or HND in Business, Marketing, or related field",
+      "Minimum of 3 years relevant work experience in business development or sales",
+      "Strong proficiency in Microsoft Office, especially Excel",
+      "Strong analytical and communication skills",
+      "Creative, adaptable, and quick to learn in a tech environment",
+      "Multilingual ability is an added advantage",
+      "Proximity to Lekki Phase 1 is essential"
+    ],
+    apply: 'Interested and qualified candidates should send their CV to: <a href="mailto:recruitments@briccsint.com">recruitments@briccsint.com</a>',
+    salary: "Attractive",
+    deadline: "2026-05-22"
+  },
+  {
+    id: "accountant-lekki-briccs-2026-05-22",
+    title: "Accountant",
+    date: "2026-05-22",
+    location: "Lekki Phase 1, Lagos",
+    type: "Full-time",
+    company: "Briccs Int.",
+    seniority: "Mid-Level",
+    summary: "Manage accounting functions for a telecommunications firm, ensuring analytical accuracy and problem-solving.",
+    responsibilities: [
+      "Manage accounting functions and ensure analytical accuracy.",
+      "Perform financial record-keeping and reporting.",
+      "Utilize Microsoft Office, especially Excel, for financial tasks.",
+      "Apply strong analytical and problem-solving skills."
+    ],
+    requirements: [
+      "Good First Degree (B.Sc.) or HND in Accounting or a related field",
+      "Minimum of 3 years relevant work experience",
+      "Student member of ICAN/ACCA or already chartered",
+      "Strong proficiency in Microsoft Office, especially Excel",
+      "Strong analytical and problem-solving skills",
+      "High level of creativity and ability to learn quickly",
+      "Multilingual ability is an added advantage",
+      "Proximity to Lekki Phase 1 is essential"
+    ],
+    apply: 'Interested and qualified candidates should send their CV to: <a href="mailto:recruitments@briccsint.com">recruitments@briccsint.com</a>',
+    salary: "Attractive",
+    deadline: "2026-05-22"
+  },
+  {
+    id: "relationship-officer-ikeja-financial-services-2026",
+    title: "Relationship Officer",
+    date: "2026-05-22",
+    location: "Ikeja, Lagos",
+    type: "Full-time",
+    seniority: "Mid-Level",
+    company: "Financial Services Firm",
+    summary: "Proactive Relationship Officer to grow and manage client portfolio, responsible for acquiring new clients, deepening existing relationships, and ensuring customer satisfaction while meeting sales targets.",
+    responsibilities: [
+      "Identify and onboard new individual and SME clients",
+      "Build and maintain strong, long-term client relationships",
+      "Cross-sell financial products and services to meet client needs",
+      "Achieve monthly/quarterly sales and portfolio growth targets",
+      "Provide excellent after-sales support and resolve client issues promptly",
+      "Prepare reports on client activity and market trends"
+    ],
+    requirements: [
+      "Bachelor’s degree in Marketing, Business Administration, Finance, or related field",
+      "Minimum 3 years’ experience in relationship management, sales, or business development in financial services",
+      "Proven track record of meeting/exceeding sales targets",
+      "Strong negotiation, communication, and interpersonal skills",
+      "Knowledge of financial products and the Lagos market is an advantage"
+    ],
+    apply: 'Send your CV to <a href="mailto:macaboresources@gmail.com">macaboresources@gmail.com</a> with the subject line: _Relationship Officer – Ikeja_. Or chat via WhatsApp on <a href="https://wa.me/2348100115082">08100115082</a>',
+    salary: "₦250,000 – ₦300,000 base + target-based incentives",
+    deadline: "Not Specified"
+  },
+  {
+    id: "architect-project-manager-lagos-island-macaboresources-2026",
+    title: "Architect",
+    date: "2026-05-22",
+    location: "Lagos Island, Lagos, Nigeria",
+    type: "Full-time",
+    seniority: "Mid-Level",
+    company: "Client (via Macaboresources)",
+    summary: "Experienced professional to join a team delivering high-quality residential & commercial projects in Lagos, focusing on architectural design.",
+    responsibilities: [
+      "Perform architectural design and planning for residential & commercial projects.",
+      "Utilize AutoCAD, Revit, SketchUp for design tasks.",
+      "Ensure compliance with Nigerian building codes and approval processes.",
+      "Manage projects from concept to completion.",
+      "Communicate effectively with clients and coordinate on-site activities."
+    ],
+    requirements: [
+      "HND or BSc in Architecture",
+      "3–4 years post-NYSC experience in architectural design",
+      "Proficient in AutoCAD, Revit, SketchUp. AI knowledge is a plus",
+      "Strong knowledge of Nigerian building codes & approval processes",
+      "Ability to manage projects from concept to completion",
+      "Good client communication & site coordination skills"
+    ],
+    apply: 'Send your CV to <a href="mailto:macaboresources@gmail.com">macaboresources@gmail.com</a> or WhatsApp <a href="https://wa.me/2348100115082">08100115082</a>',
+    salary: "Competitive salary based on experience",
+    deadline: "2026-05-26"
+  },
+  {
+    id: "project-manager-lagos-island-macaboresources-2026",
+    title: "Project Manager",
+    date: "2026-05-22",
+    location: "Lagos Island, Lagos, Nigeria",
+    type: "Full-time",
+    seniority: "Mid-Level",
+    company: "Client (via Macaboresources)",
+    summary: "Experienced professional to join a team delivering high-quality residential & commercial projects in Lagos, focusing on project management.",
+    responsibilities: [
+      "Manage residential & commercial projects from concept to completion.",
+      "Utilize AutoCAD, Revit, SketchUp for project visualization.",
+      "Ensure compliance with Nigerian building codes and approval processes.",
+      "Coordinate project activities and resources effectively.",
+      "Communicate effectively with clients and coordinate on-site activities."
+    ],
+    requirements: [
+      "HND or BSc in Architecture",
+      "3–4 years post-NYSC experience in project management",
+      "Proficient in AutoCAD, Revit, SketchUp. AI knowledge is a plus",
+      "Strong knowledge of Nigerian building codes & approval processes",
+      "Ability to manage projects from concept to completion",
+      "Good client communication & site coordination skills"
+    ],
+    apply: 'Send your CV to <a href="mailto:macaboresources@gmail.com">macaboresources@gmail.com</a> or WhatsApp <a href="https://wa.me/2348100115082">08100115082</a>',
+    salary: "Competitive salary based on experience",
+    deadline: "2026-05-26"
+  },
+  {
+    id: "dispatch-rider-lagos-beuxmarkethub-2026",
+    title: "Dispatch Rider",
+    date: "2026-05-22",
+    location: "Lagos, Nigeria",
+    type: "Full-time",
+    seniority: "Junior",
+    company: "Beuxmarkethub",
+    summary: "Seeking a reliable, honest, and hardworking Dispatch Rider to join a fast-growing logistics team, with excellent knowledge of Lagos roads and commitment to safe, timely deliveries.",
+    responsibilities: [
+      "Ensure safe, secure, and timely delivery of customer orders across Lagos.",
+      "Handle the assigned motorbike with utmost care and ensure routine maintenance is reported early.",
+      "Maintain professional and polite communication with clients during drop-offs.",
+      "Reconcile daily deliveries and payments accurately."
+    ],
+    requirements: [
+      "Minimum of 2 years of proven experience as a dispatch rider in Lagos.",
+      "Must possess a valid Rider’s Permit / Driver’s License.",
+      "Excellent knowledge of Lagos mainland and island routes, traffic navigation, and shortcuts.",
+      "Ability to use smart devices, and communicate politely with customers.",
+      "Must be able to provide reliable guarantors upon request."
+    ],
+    apply: 'Interested and qualified candidates should send their updated CV to: <a href="mailto:Beuxmarkethub@gmail.com">Beuxmarkethub@gmail.com</a>',
+    salary: "₦90,000 monthly",
+    deadline: "Not Specified"
+  },
+  {
+    id: "junior-team-lead-ibadan-bat-2026",
+    title: "Junior Team Lead",
+    date: "2026-05-22",
+    location: "Ibadan",
+    type: "Full-time",
+    seniority: "Junior",
+    company: "BAT",
+    summary: "Seeking a Junior Team Lead with a background in electrical/mechanical engineering and manufacturing process knowledge to join BAT in Ibadan.",
+    responsibilities: [
+      "Lead and supervise a team in a manufacturing environment.",
+      "Apply knowledge of manufacturing processes.",
+      "Utilize strong interpersonal and organizational skills.",
+      "Contribute to problem-solving and operational efficiency."
+    ],
+    requirements: [
+      "Bachelor’s degree in electrical/mechanical engineering and maximum 2-3 years’ experience.",
+      "HND or solid relevant experience.",
+      "Proven knowledge of manufacturing process.",
+      "Strong interpersonal and organizational skills.",
+      "Strong analytical skills.",
+      "Ability to work in Excel and other computer-related systems."
+    ],
+    apply: '<a href="https://careers.bat.com/en/job/-/-/1045/35747569728">https://careers.bat.com/en/job/-/-/1045/35747569728</a>',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "customer-service-graduate-trainees-auto-spare-parts-lagos-2026",
+    title: "Customer Service Graduate Trainees (Auto-Spare Parts)",
+    date: "2026-05-22",
+    location: "Lagos (Surulere)",
+    type: "Full-time",
+    seniority: "Junior",
+    company: "Dunn & Braxton",
+    summary: "Seeking graduate trainees for customer service in the auto-spare parts industry, focusing on strong communication and problem-solving skills.",
+    responsibilities: [
+      "Provide excellent customer service to clients in the auto-spare parts sector.",
+      "Handle customer inquiries and resolve issues effectively.",
+      "Utilize strong communication and interpersonal skills.",
+      "Support sales and administrative tasks as needed."
+    ],
+    requirements: [
+      "BSc/HND in any relevant discipline",
+      "0–1 year experience in customer service or related role",
+      "Strong communication and interpersonal skills",
+      "Good problem-solving and customer handling ability",
+      "Proficiency in Microsoft Office is an added advantage",
+      "Candidates must reside in or around Surulere and its environs"
+    ],
+    apply: '<a href="https://dunnandbraxton.zohorecruit.com/jobs/Careers/595610000015822017/Customer-Service-Graduate-Trainees-Auto-Spare-Parts">https://dunnandbraxton.zohorecruit.com/jobs/Careers/595610000015822017/Customer-Service-Graduate-Trainees-Auto-Spare-Parts</a>',
+    salary: "N120k – N150k monthly + other benefits",
+    deadline: "Not Specified"
+  },
+  {
+    id: "mechanical-manager-ogun-flexfilms-2026",
+    title: "Mechanical Manager",
+    date: "2026-05-22",
+    location: "Ogun",
+    type: "Full-time",
+    company: "FlexFilms",
+    summary: "Responsible for preventive maintenance, attending and planning shutdown activities, and planning of inventory of spares.",
+    responsibilities: [
+      "Preventive maintenance",
+      "Able to do why why analysis",
+      "Attending and planning shutdown activities",
+      "Planning of inventory of spares"
+    ],
+    requirements: [
+      "Candidates should possess relevant qualifications",
+      "Knowledgeable in the use computer.",
+      "Must be Responsible, Honest and proper communication."
+    ],
+    apply: 'Interested and qualified canddiates should send their CV to: <a href="mailto:careeratflexfilms@gmail.com">careeratflexfilms@gmail.com</a> using the Job Title as the subject of the email.',
+    salary: "Not Specified",
+    deadline: "2026-06-30"
+  },
+  {
+    id: "mechanical-technician-abeokuta-may-baker-2026-05-22",
+    title: "Mechanical Technician",
+    date: "2026-05-22",
+    location: "Abeokuta, Ogun",
+    type: "Full time",
+    company: "May & Baker Nigeria Plc",
+    summary: "Responsible for the maintenance of production equipment, water bottling plant, and conducting periodic checks as specified in the Standard Operating Procedure.",
+    responsibilities: [
+      "The incumbent will be responsible for the maintenance of the production equipment, water bottling plant,",
+      "Conducting periodic checks as specified in the Standard Operating Procedure."
+    ],
+    requirements: [
+      "Applicants must possess an OND in Mechanical Engineering",
+      "Minimum 3 years’ experience, preferably from a water bottling company"
+    ],
+    apply: 'Interested and qualified candidates should forward their CV to: <a href="mailto:careers@may-bakerng.com">careers@may-bakerng.com</a> using the position as subject of email.',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "power-bi-developer-data-analyst-remote-2026",
+    title: "Power BI Developer / Data Analyst",
+    date: "2026-05-22",
+    location: "Remote",
+    type: "Full-Time",
+    seniority: "Mid-Senior",
+    summary: "Seeking a highly skilled Power BI Developer with strong backend development and data analysis experience to join our team remotely. The ideal candidate will be responsible for designing, developing, and maintaining business intelligence solutions, transforming raw data into meaningful insights, and supporting data-driven decision-making across the organization.",
+    responsibilities: [
+      "Design, develop, and maintain interactive dashboards and reports using Power BI.",
+      "Gather, clean, analyze, and interpret large datasets from multiple sources.",
+      "Develop and manage backend data structures and database integrations.",
+      "Build and optimize ETL processes for efficient data flow and reporting.",
+      "Collaborate with stakeholders to understand reporting and analytics requirements.",
+      "Create data models and implement DAX calculations for advanced reporting.",
+      "Monitor data accuracy, integrity, and consistency across systems.",
+      "Develop automated reporting solutions and business intelligence frameworks.",
+      "Work with APIs and backend services to integrate data into reporting systems.",
+      "Provide actionable insights and recommendations based on data analysis.",
+      "Troubleshoot and resolve data-related and reporting issues."
+    ],
+    requirements: [
+      "Minimum of 3–5 years experience in Power BI development and data analysis.",
+      "Strong backend development experience.",
+      "Proficiency in Power BI, DAX, Power Query, and data visualization techniques.",
+      "Strong knowledge of SQL, relational databases, and data warehousing.",
+      "Experience working with APIs and backend integrations.",
+      "Proficiency in Python, C#, Node.js, or other backend technologies is an added advantage.",
+      "Strong analytical and problem-solving skills.",
+      "Excellent communication and reporting skills.",
+      "Ability to work independently in a remote environment.",
+      "Experience with cloud platforms such as Azure or AWS.",
+      "Knowledge of ETL tools and data pipeline development.",
+      "Experience working with large datasets and business intelligence systems."
+    ],
+    apply: 'Interested and qualified candidates should send their CVs to: <a href="mailto:Resume@talentforgesolutions.com.ng">Resume@talentforgesolutions.com.ng</a>',
+    salary: "₦500,000 Monthly",
+    deadline: "Not Specified"
+  },
+  {
+    id: "tech-support-officer-healthcare-lagos-2026",
+    title: "Tech Support Officer/Engineer",
+    date: "2026-05-22",
+    location: "Lagos State",
+    type: "Full-time",
+    company: "Reputable and well-known organisation in the healthcare sector",
+    summary: "Responsible for the installation, maintenance, and troubleshooting of medical equipment in the healthcare sector.",
+    responsibilities: [
+      "Installation, maintenance, and troubleshooting of medical equipment."
+    ],
+    requirements: [
+      "Candidate must have good communication and technical problem-solving skills.",
+      "Ability to respond to emergency equipment breakdowns",
+      "Willingness to travel for installations and support",
+      "Basic computer proficiency",
+      "Understanding of healthcare compliance standards",
+      "Ability to train end users on equipment operation",
+      "HND/B.Eng./B.Sc. in Biomedical Engineering, Electrical/Electronics Engineering, or related discipline.",
+      "This role is open to male candidates as part of the organisation’s commitment to gender balance within the workforce."
+    ],
+    apply: 'Qualified and interested candidates should send their CV to: <a href="mailto:info.mycareermatters@gmail.com">info.mycareermatters@gmail.com</a> Subject of the Email: Tech Support Officer',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "head-hseq-oil-gas-lagos-2026",
+    title: "Head, Health, Safety, Environment & Quality (HSEQ)",
+    date: "2026-05-22",
+    location: "Island Lagos, Nigeria",
+    type: "Full-time",
+    seniority: "Senior",
+    company: "Not Specified",
+    summary: "Experienced and strategic leader to drive the organization’s HSEQ culture, compliance, and continuous improvement initiatives in the Oil and Gas/Engineering industry.",
+    responsibilities: [
+      "Develop and implement HSEQ strategies, policies, and management systems",
+      "Ensure compliance with regulatory and industry standards",
+      "Lead risk assessments, audits, inspections, and incident investigations",
+      "Drive continuous improvement in safety, quality, and operational performance",
+      "Provide leadership, coaching, and technical guidance across the organization",
+      "Prepare and present HSEQ performance reports to management"
+    ],
+    requirements: [
+      "Minimum of 15 years’ experience in a similar role",
+      "At least 5 years’ experience in Oil & Gas, Engineering, or Energy sector",
+      "Strong knowledge of ISO 9001, 14001 & 45001 standards",
+      "Proven leadership and stakeholder management skills",
+      "Excellent communication, analytical, and project management skills"
+    ],
+    apply: 'Click on this link to apply: <a href="https://lnkd.in/eVhW49_n">https://lnkd.in/eVhW49_n</a>',
+    salary: "Over N5,000,000 monthly net",
+    deadline: "Not Specified"
+  },
+  {
+    id: "quality-control-officer-water-treatment-allflavors-lagos-2026",
+    title: "Quality Control Officer (Water Treatment)",
+    date: "2026-05-22",
+    location: "Lagos",
+    type: "Full-time",
+    company: "AllFlavors Supreme Foods",
+    summary: "Responsible for quality control, preferably in water treatment or food manufacturing, ensuring sound knowledge of water treatment processes and laboratory testing procedures.",
+    responsibilities: [
+      "Conduct quality control checks, preferably in water treatment or food manufacturing.",
+      "Ensure adherence to water treatment processes and laboratory testing procedures.",
+      "Apply knowledge of HACCP, GMP, and food safety management systems.",
+      "Maintain accurate documentation and analytical records."
+    ],
+    requirements: [
+      "Bachelor’s Degree or HND in Microbiology, Biochemistry, Chemistry, Food Science and Technology, Industrial Chemistry, or a related discipline.",
+      "Minimum of 2 years’ experience in quality control, preferably in water treatment or food manufacturing.",
+      "Sound knowledge of water treatment processes and laboratory testing procedures.",
+      "Familiarity with HACCP, GMP, and food safety management systems.",
+      "Strong analytical and documentation skills.",
+      "Proficiency in Microsoft Office applications."
+    ],
+    apply: 'Send CV to: <a href="mailto:qc@allflavors.odoo.com">qc@allflavors.odoo.com</a> using “Quality Control Officer (Water Treatment)” as the subject of the email.',
+    salary: "Not Specified",
+    deadline: "Not Specified"
+  },
+  {
+    id: "electronics-instrumentation-engineer-ogun-flexfilms-2026",
+    title: "Electronics & Instrumentation Engineer",
+    date: "2026-05-22",
+    location: "Ogun",
+    type: "Full-time",
+    company: "FlexFilms",
+    summary: "Responsible for preventive maintenance, daily planning and execution, team management, and maintenance/troubleshooting of various industrial equipment including motors, PLCs, drives, and sensors.",
+    responsibilities: [
+      "Preventive maintenance",
+      "Documentation",
+      "Daily planning and execution",
+      "Team management",
+      "Maintenance of all kind of motor-AC/DC/SEMO/ cranes and forklift",
+      "Maintenance and troubleshooting of all industrial equipment’s like: PLC, Drive, Temp sensor, Pressure sensor, Heater, Motor, Encoding, Different types of sensors, Hydraulic and pneumatic system Etc."
+    ],
+    requirements: [
+      "Candidates should possess relevant qualifications",
+      "Must knowledge of siemens PLC and drivers",
+      "Knowledge of preventive/predictive/Target base and breakdown maintenance, planning and activities."
+    ],
+    apply: 'Interested and qualified canddiates should send their CV to: <a href="mailto:careeratflexfilms@gmail.com">careeratflexfilms@gmail.com</a> using the Job Title as the subject of the email.',
+    salary: "N500,000 – N750,000 / Month.",
+    deadline: "2026-06-30"
+  },
+  {
     id: "management-trainee-sims-nigeria-vi-lagos-2026",
     title: "Management Trainee",
     date: "2026-05-21",

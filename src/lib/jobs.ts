@@ -16,6 +16,1569 @@ export type Job = {
 
 const allJobs: Job[] = [
   {
+    id: "technical-sales-oil-gas-lagos-2026",
+    title: "Technical Sales",
+    date: "2026-05-23",
+    location: "Lagos",
+    type: "Full-time",
+    salary: "₦300,000 - ₦800,000 Monthly",
+    deadline: "Not Specified",
+    company: "Structured Resource",
+    summary: "Seeking a results-driven Technical Sales professional to support business growth in the industrial/oil & gas sector by providing technical solutions and managing key client relationships.",
+    responsibilities: [
+      "Identify and develop new business opportunities",
+      "Provide technical support and product recommendations to clients",
+      "Prepare proposals, quotations, and technical presentations",
+      "Manage client relationships and ensure customer satisfaction",
+      "Work closely with engineering and operations teams to deliver solutions",
+      "Meet and exceed sales targets and business objectives"
+    ],
+    requirements: [
+      "Bachelor’s degree in Engineering or related technical field",
+      "5–10 years’ experience in technical sales, preferably within Oil & Gas, Engineering, Energy, or Industrial sectors",
+      "Strong understanding of technical products, equipment, and solutions",
+      "Proven ability to generate leads and close high-value deals",
+      "Excellent communication, negotiation, and presentation skills",
+      "Ability to interpret technical specifications and client requirements",
+      "Strong commercial and relationship management skills"
+    ],
+    apply: 'Interested and qualified candidates should send their CV to: <a href="mailto:jobs@structuredresource.com">jobs@structuredresource.com</a> with the subject "Technical Sales"'
+  },
+  {
+    id: "factory-workers-beverage-isolo-2026",
+    title: "Male Factory Workers (10 Positions)",
+    date: "2026-05-23",
+    location: "Isolo, Lagos",
+    type: "Full-time",
+    salary: "₦70,000 Gross Monthly",
+    deadline: "Not Specified",
+    company: "Reputable Beverage Company",
+    summary: "Seeking physically fit and reliable Factory Workers to support production and distribution operations. Proximity to Isolo is required.",
+    responsibilities: [
+      "Empty bottles and replace them during production processes.",
+      "Pack finished products for distribution.",
+      "Move products within the factory environment.",
+      "Restock products as required.",
+      "Load and transfer products from one vehicle to another for delivery.",
+      "Assist with general factory operations when required.",
+      "Maintain cleanliness and comply with safety procedures at all times."
+    ],
+    requirements: [
+      "Educational qualification: Not required",
+      "Must be physically strong and fit.",
+      "Ability to lift and move products regularly.",
+      "Willingness to work flexible hours, including night shifts.",
+      "Ability to work in a fast-paced factory environment.",
+      "Must be reliable, disciplined, and hardworking.",
+      "Candidates must reside within Isolo or its environs."
+    ],
+    apply: 'Interested candidates should send their CV to <a href="mailto:secomltd1@gmail.com">secomltd1@gmail.com</a> or via WhatsApp to <a href="https://wa.me/2348080635669">08080635669</a> using "Factory Worker" as the subject.'
+  },
+  {
+    id: "governance-project-assurance-lead-bank-2026",
+    title: "Governance Project Assurance Lead",
+    date: "2026-05-23",
+    location: "Lagos",
+    type: "Full-time",
+    salary: "₦1.8m – ₦2m Monthly Net",
+    deadline: "Not Specified",
+    company: "Technology-driven Bank",
+    summary: "Governance and assurance lead to ensure technology delivery standards are upheld at every stage in a high-growth banking environment.",
+    responsibilities: [
+      "Govern and assure technology change delivery",
+      "Ensure right processes, approvals, and security standards are upheld",
+      "Manage cross-functional teams in structured delivery",
+      "Escalate risks and manage competing priorities effectively"
+    ],
+    requirements: [
+      "Prior experience in financial services, banking, or fintech",
+      "Exposure to governance, compliance, risk, or cybersecurity functions",
+      "Familiarity with PCI-DSS, ISO27001, or CBN-regulated environments",
+      "Experience working across cross-functional teams",
+      "Strong analytical, documentation, and stakeholder communication skills",
+      "Proactive mindset"
+    ],
+    apply: 'Apply here: <a href="https://forms.gle/9gdS8rnTs36ydsv49">https://forms.gle/9gdS8rnTs36ydsv49</a>'
+  },
+  {
+    id: "security-engineering-assurance-analyst-bank-2026",
+    title: "Security Engineering Assurance Analyst",
+    date: "2026-05-23",
+    location: "Lagos",
+    type: "Full-time",
+    salary: "₦1.8m – ₦2m Monthly Net",
+    deadline: "Not Specified",
+    company: "Technology-driven Bank",
+    summary: "Security analyst focused on governing and assuring technology change and upholding security standards in a bank.",
+    responsibilities: [
+      "Assure security standards are upheld at every stage of technology delivery",
+      "Review technology change processes and approvals",
+      "Work within cross-functional teams for assurance setting",
+      "Document and communicate risks to stakeholders"
+    ],
+    requirements: [
+      "Prior experience in financial services, banking, or fintech",
+      "Exposure to governance, compliance, risk, or cybersecurity functions",
+      "Familiarity with PCI-DSS, ISO27001, or CBN-regulated environments",
+      "Experience working across cross-functional teams",
+      "Strong analytical, documentation, and stakeholder communication skills",
+      "Proactive mindset"
+    ],
+    apply: 'Apply here: <a href="https://forms.gle/9gdS8rnTs36ydsv49">https://forms.gle/9gdS8rnTs36ydsv49</a>'
+  },
+  {
+    id: "factory-workers-30-slots-isolo-2026",
+    title: "Male Factory Workers (30 Positions)",
+    date: "2026-05-23",
+    location: "Isolo, Lagos",
+    type: "Full-time",
+    salary: "₦65,000 – ₦70,000 Monthly",
+    deadline: "2026-05-20",
+    company: "Reputable Beverage Company",
+    summary: "Urgent recruitment for 30 factory workers in Isolo to support production and distribution. Proximity to Isolo is mandatory.",
+    responsibilities: [
+      "Empty and replace bottles during production",
+      "Pack finished products for distribution",
+      "Move and organize products within the factory",
+      "Load and offload goods for delivery",
+      "Restock products as required",
+      "Maintain cleanliness and comply with safety regulations",
+      "Support other factory operations as assigned"
+    ],
+    requirements: [
+      "No educational qualification required",
+      "Must be physically fit and strong",
+      "Ability to lift and move heavy products",
+      "Willingness to work shifts, including night shifts and overtime",
+      "Hardworking, disciplined, and reliable",
+      "Must reside in Isolo or nearby areas (very important)"
+    ],
+    apply: 'Send CV to: <a href="mailto:secomltd1@gmail.com">secomltd1@gmail.com</a> or WhatsApp: <a href="https://wa.me/2348080635669">08080635669</a>'
+  },
+  {
+    id: "lab-manager-lekki-2026",
+    title: "Lab Manager",
+    date: "2026-05-23",
+    location: "Lekki, Lagos",
+    type: "Full-time",
+    salary: "₦500,000 Monthly",
+    deadline: "Not Specified",
+    summary: "Oversee daily operations of a diagnostic lab in Lekki, ensuring accuracy, compliance, and staff supervision.",
+    responsibilities: [
+      "Manage lab processes from sample collection to reporting",
+      "Implement QC systems and maintain HEFAMAA/MLSCN standards",
+      "Supervise and train lab staff, manage inventory, and equipment maintenance",
+      "Liaise with clinical staff on urgent results and client enquiries"
+    ],
+    requirements: [
+      "BMLS, registered with MLSCN",
+      "3+ years post-NYSC lab experience, 1+ year in a supervisory role",
+      "Strong knowledge of hematology, chemistry, microbiology, serology",
+      "Familiar with lab equipment and LIS/LIMS"
+    ],
+    apply: 'Send CV to <a href="mailto:osinmadea@gmail.com">osinmadea@gmail.com</a> Subject: Application – Lab Manager'
+  },
+  {
+    id: "business-development-officer-credit-sales-surulere-2026",
+    title: "Business Development Officer (Credit Sales)",
+    date: "2026-05-23",
+    location: "Surulere, Lagos",
+    type: "Full-time",
+    salary: "₦200,000 – ₦250,000 Monthly",
+    deadline: "Not Specified",
+    company: "Growing Financial Services Startup",
+    summary: "Drive loan product sales and grow a quality credit portfolio for a financial services startup on Lagos Mainland.",
+    responsibilities: [
+      "Drive credit sales and grow the loan portfolio",
+      "Identify, onboard, and manage clients seeking loan facilities",
+      "Meet a monthly sales target of ₦30,000,000",
+      "Manage individual loan exposures within an obligor limit of ₦5,000,000",
+      "Conduct client assessments and support credit appraisal processes",
+      "Maintain strong client relationships to ensure retention and referrals"
+    ],
+    requirements: [
+      "Minimum of a Bachelor’s degree in any relevant field",
+      "Prior experience in business development or credit sales within the financial sector (Microfinance bank experience is a plus)",
+      "Proven track record of meeting or exceeding sales targets",
+      "Strong knowledge of credit products and loan structuring",
+      "Excellent communication, negotiation, and relationship management skills",
+      "Self-driven, target-oriented"
+    ],
+    apply: 'To apply, send your CV to <a href="mailto:cdchire1@gmail.com">cdchire1@gmail.com</a> Use "Business Development Officer – Credit Sales" as subject.'
+  },
+  {
+    id: "lead-simulation-architect-tdl-fusion-2026",
+    title: "Lead Simulation Architect (TDL Fusion Lead)",
+    date: "2026-05-23",
+    location: "Remote",
+    type: "Full-time",
+    salary: "Competitive",
+    deadline: "Not Specified",
+    summary: "Build and unify the entire Millenia technical architecture, fusing simulation layers into a coherent runtime system.",
+    responsibilities: [
+      "Architect the full-stack simulation pipeline (TDL-E + TDL-L)",
+      "Design concurrency models for thousands of simultaneous agents",
+      "Lead ECS-based world modeling",
+      "Bridge AI reasoning systems with real-time simulation loop",
+      "Define technical standards across all engineering roles"
+    ],
+    requirements: [
+      "7+ years in systems engineering (Rust/C++ preferred)",
+      "Deep expertise in ECS (Entity Component System) architectures",
+      "Strong background in distributed systems and real-time networking",
+      "Experience with high-performance simulation or game engines",
+      "Familiarity with LLM orchestration, embeddings, and vector systems"
+    ],
+    apply: 'Send CV to <a href="mailto:Davidakinloluwa851@gmail.com">Davidakinloluwa851@gmail.com</a> or call <a href="tel:2348055830560">08055830560</a>'
+  },
+  {
+    id: "senior-backend-mmo-engineer-millenia-2026",
+    title: "Senior Backend/MMO Engineer (Lead)",
+    date: "2026-05-23",
+    location: "Remote",
+    type: "Full-time",
+    salary: "Competitive",
+    deadline: "Not Specified",
+    summary: "Build the persistent world infrastructure and 'source of truth' for the Millenia simulation.",
+    responsibilities: [
+      "Design and implement persistent simulation state",
+      "Integrate blockchain / ledger systems for 'Sovereign History'",
+      "Build high-throughput event pipelines",
+      "Ensure consistency across distributed simulation nodes"
+    ],
+    requirements: [
+      "Strong Rust experience (Actix, Tokio, or similar async ecosystems)",
+      "Experience with MMO-scale backend systems",
+      "Database design and optimization (PostgreSQL, NoSQL, event stores)",
+      "Familiarity with L2 scaling or distributed ledger systems",
+      "Understanding of eventual consistency and event sourcing"
+    ],
+    apply: 'Send CV to <a href="mailto:Davidakinloluwa851@gmail.com">Davidakinloluwa851@gmail.com</a> or call <a href="tel:2348055830560">08055830560</a>'
+  },
+  {
+    id: "senior-ai-ml-engineer-tdl-l-millenia-2026",
+    title: "Senior AI/ML Engineer (TDL-L Architect)",
+    date: "2026-05-23",
+    location: "Remote",
+    type: "Full-time",
+    salary: "Competitive",
+    deadline: "Not Specified",
+    summary: "Design the agentic intelligence layer; the 'Sovereign Mindset' where agents remember, decide, and adapt.",
+    responsibilities: [
+      "Build agent reasoning loops (goal-setting, planning, memory)",
+      "Design memory systems (vector retrieval + structured memory)",
+      "Fine-tune and optimize LLM-driven decision systems",
+      "Implement sociological and economic behavior models",
+      "Balance realism vs performance in agent cognition"
+    ],
+    requirements: [
+      "Strong Python/Mojo background",
+      "Experience with LLMs, RAG pipelines, and fine-tuning",
+      "Familiarity with vector databases (Pinecone, Weaviate, FAISS)",
+      "Understanding of multi-agent systems and simulation environments"
+    ],
+    apply: 'Send CV to <a href="mailto:Davidakinloluwa851@gmail.com">Davidakinloluwa851@gmail.com</a> or call <a href="tel:2348055830560">08055830560</a>'
+  },
+  {
+    id: "senior-mlops-devops-engineer-millenia-2026",
+    title: "Senior MLOps / DevOps Engineer",
+    date: "2026-05-23",
+    location: "Remote",
+    type: "Full-time",
+    salary: "Competitive",
+    deadline: "Not Specified",
+    summary: "Ensure infrastructure stability and scalability for thousands of active agents in the simulation.",
+    responsibilities: [
+      "Design and manage distributed compute infrastructure",
+      "Orchestrate GPU workloads for agent reasoning",
+      "Optimize inference pipelines for cost and latency",
+      "Monitor system performance and reliability",
+      "Implement CI/CD for simulation + AI systems"
+    ],
+    requirements: [
+      "Kubernetes, Docker, and container orchestration",
+      "GPU infrastructure management",
+      "Experience with cloud platforms (AWS, GCP, Lambda Labs)",
+      "Cost optimization strategies for AI workloads",
+      "Observability tools (Prometheus, Grafana, etc.)"
+    ],
+    apply: 'Send CV to <a href="mailto:Davidakinloluwa851@gmail.com">Davidakinloluwa851@gmail.com</a> or call <a href="tel:2348055830560">08055830560</a>'
+  },
+  {
+    id: "treasury-officer-bank-lagos-2026",
+    title: "Treasury Officer (Assets and Liabilities Management)",
+    date: "2026-05-23",
+    location: "Lagos",
+    type: "Full-time",
+    salary: "₦300,000 – ₦500,000 Monthly Net",
+    deadline: "Not Specified",
+    company: "Lagos Bank",
+    summary: "Manage assets and liabilities for a Lagos-based bank. Prior financial services experience is mandatory.",
+    responsibilities: [
+      "Manage balance sheet liquidity and interest rate risks",
+      "Analyze and report on ALM metrics",
+      "Support treasury operations and financial planning"
+    ],
+    requirements: [
+      "Prior experience within the financial services industry is mandatory",
+      "Relevant degree in Finance, Economics or related field",
+      "Strong analytical skills"
+    ],
+    apply: 'Apply via: <a href="https://forms.gle/N3LQao6BuRb6prDX6">https://forms.gle/N3LQao6BuRb6prDX6</a>'
+  },
+  {
+    id: "sales-officer-business-banking-bank-lagos-2026",
+    title: "Sales Officer (Business Banking)",
+    date: "2026-05-23",
+    location: "Lagos",
+    type: "Full-time",
+    salary: "₦400,000 – ₦600,000 Monthly Net",
+    deadline: "Not Specified",
+    company: "Lagos Bank",
+    summary: "Sales officer to drive business banking growth. Prior financial services experience is mandatory.",
+    responsibilities: [
+      "Acquire and manage business banking clients",
+      "Drive deposit mobilization and loan products",
+      "Meet sales targets and build client relationships"
+    ],
+    requirements: [
+      "Prior experience within the financial services industry is mandatory",
+      "Strong sales and relationship management skills",
+      "Good understanding of business banking products"
+    ],
+    apply: 'Apply via: <a href="https://forms.gle/N3LQao6BuRb6prDX6">https://forms.gle/N3LQao6BuRb6prDX6</a>'
+  },
+  {
+    id: "sales-officer-community-banking-bank-lagos-2026",
+    title: "Sales Officer (Community Banking)",
+    date: "2026-05-23",
+    location: "Lagos",
+    type: "Full-time",
+    salary: "₦400,000 – ₦600,000 Monthly Net",
+    deadline: "Not Specified",
+    company: "Lagos Bank",
+    summary: "Sales officer for community-based markets, cooperatives, and grassroots networks.",
+    responsibilities: [
+      "Engage cooperatives, traders, and distributors",
+      "Drive community banking products and services",
+      "Onboard grassroots agents and maintain network"
+    ],
+    requirements: [
+      "Prior experience within the financial services industry is mandatory",
+      "Deep understanding of community-based markets",
+      "Excellent field-sales and interpersonal skills"
+    ],
+    apply: 'Apply via: <a href="https://forms.gle/N3LQao6BuRb6prDX6">https://forms.gle/N3LQao6BuRb6prDX6</a>'
+  },
+  {
+    id: "head-marketing-corporate-communications-fintech-2026",
+    title: "Head of Marketing and Corporate Communications",
+    date: "2026-05-23",
+    location: "Lagos",
+    type: "Full-time",
+    salary: "₦1.5m – ₦1.8m Monthly Net",
+    deadline: "Not Specified",
+    company: "Lagos Fintech",
+    summary: "Lead marketing and communications for a fintech focusing on payments, wallets, and digital financial services.",
+    responsibilities: [
+      "Lead marketing, brand, and growth agenda",
+      "Drive customer acquisition, engagement, and retention",
+      "Position company as a leader in digital financial solutions",
+      "Manage corporate communications and public relations"
+    ],
+    requirements: [
+      "10+ years’ marketing experience, including leadership",
+      "Strong background in fintech, payments, or digital banking",
+      "Proven expertise in digital/performance marketing and growth",
+      "Solid understanding of marketing analytics and CRM tools"
+    ],
+    apply: 'Apply here: <a href="https://forms.gle/cDE2Bf5127eXLjsn7">https://forms.gle/cDE2Bf5127eXLjsn7</a>'
+  },
+  {
+    id: "accountant-ikorodu-subcity-2026",
+    title: "Accountant",
+    date: "2026-05-23",
+    location: "Ikorodu, Lagos",
+    type: "Full-time",
+    salary: "Competitive",
+    deadline: "Not Specified",
+    company: "Subcity Project Global",
+    summary: "Detail-oriented Accountant to join the team in Ikorodu. Good knowledge of reporting and software is essential.",
+    responsibilities: [
+      "Prepare and maintain financial records",
+      "Handle financial reporting",
+      "Use accounting software for daily tasks",
+      "Ensure strong attention to detail and accuracy"
+    ],
+    requirements: [
+      "B.Sc./HND in Accounting or related field",
+      "Good knowledge of accounting principles",
+      "Proficiency in Microsoft Excel and accounting software",
+      "Strong organizational skills"
+    ],
+    apply: 'Send CV to: <a href="mailto:rachael@subcityprojectglobal.com">rachael@subcityprojectglobal.com</a>'
+  },
+  {
+    id: "hr-manager-ikorodu-subcity-2026",
+    title: "HR Manager",
+    date: "2026-05-23",
+    location: "Ikorodu, Lagos",
+    type: "Full-time",
+    salary: "Competitive",
+    deadline: "Not Specified",
+    company: "Subcity Project Global",
+    summary: "Proactive HR Manager to lead operations and employee management in Ikorodu.",
+    responsibilities: [
+      "Manage recruitment and employee relations",
+      "Oversee performance management",
+      "Ensure compliance with labor laws",
+      "Lead HR administrative functions"
+    ],
+    requirements: [
+      "B.Sc./HND in Human Resource Management or related field",
+      "Proven experience in HR operations",
+      "Strong leadership and communication skills",
+      "Knowledge of labor laws"
+    ],
+    apply: 'Send CV to: <a href="mailto:rachael@subcityprojectglobal.com">rachael@subcityprojectglobal.com</a>'
+  },
+  {
+    id: "odoo-specialist-ikorodu-subcity-2026",
+    title: "ODOO Specialist",
+    date: "2026-05-23",
+    location: "Ikorodu, Lagos",
+    type: "Full-time",
+    salary: "Competitive",
+    deadline: "Not Specified",
+    company: "Subcity Project Global",
+    summary: "Seeking a result-driven ODOO Specialist to manage ERP modules and system performance.",
+    responsibilities: [
+      "Implement and support ODOO modules",
+      "Troubleshoot and optimize system performance",
+      "Train staff on system usage",
+      "Ensure data integrity within the ERP"
+    ],
+    requirements: [
+      "Experience working with ODOO ERP systems",
+      "Strong understanding of ODOO implementation",
+      "Good communication and problem-solving skills"
+    ],
+    apply: 'Send CV to: <a href="mailto:rachael@subcityprojectglobal.com">rachael@subcityprojectglobal.com</a>'
+  },
+  {
+    id: "caregiver-auxiliary-nurse-ajao-estate-2026",
+    title: "Caregiver / Auxiliary Nurse",
+    date: "2026-05-23",
+    location: "Ajao Estate, Lagos",
+    type: "Full-time",
+    salary: "₦140,000 Monthly",
+    deadline: "Not Specified",
+    summary: "Auxiliary nurse or caregiver to provide dedicated support to a patient. This is not a live-in position.",
+    responsibilities: [
+      "Checking and monitoring patient vitals",
+      "Assisting with bathing and hygiene",
+      "Preparing meals and administering medications",
+      "Accompanying patient to appointments and strolls",
+      "Engaging patient in activities like reading and physiotherapy",
+      "Managing room cleanliness and laundry"
+    ],
+    requirements: [
+      "Previous caregiving or auxiliary nursing experience is required",
+      "Auxiliary Nurse qualification is an advantage",
+      "Must be patient, compassionate, and attentive",
+      "Good personal hygiene and communication skills",
+      "Must reside within/near Ajao Estate"
+    ],
+    apply: 'Qualified candidates should apply below: <a href="https://lnkd.in/eYXPW62C">https://lnkd.in/eYXPW62C</a>'
+  },
+  {
+    id: "accountant-renewable-energy-marwa-lekki-2026",
+    title: "Accountant (ICAN/ACCA Chartered)",
+    date: "2026-05-23",
+    location: "Marwa, Lekki Phase 1, Lagos",
+    type: "Full-time",
+    salary: "₦400,000 Monthly",
+    deadline: "Not Specified",
+    company: "Renewable Energy Company",
+    summary: "Qualified Chartered Accountant needed for a growing renewable energy and power company.",
+    responsibilities: [
+      "Prepare and analyze financial reports",
+      "Manage accounts payable, receivable, and reconciliations",
+      "Oversee tax filings and statutory remittances",
+      "Monitor budgets and cash flow",
+      "Ensure compliance with standards"
+    ],
+    requirements: [
+      "Must be a Chartered Accountant (ICAN, ACA, or ACCA)",
+      "Minimum of 4 years’ accounting experience",
+      "Bachelor’s degree in Accounting or related field",
+      "Strong knowledge of taxation and compliance",
+      "Proficiency in software and Excel"
+    ],
+    apply: 'Apply here: <a href="https://lnkd.in/e5AcyWvk">https://lnkd.in/e5AcyWvk</a>'
+  },
+  {
+    id: "korope-delivery-drivers-lagos-2026",
+    title: "Korope Delivery Drivers (9 Positions)",
+    date: "2026-05-23",
+    location: "Multiple Locations, Lagos",
+    type: "Full-time",
+    salary: "₦120,000 – ₦150,000 Gross",
+    deadline: "Not Specified",
+    company: "Leading Beverage Distribution Company",
+    summary: "Hiring drivers for beverage distribution across Marina, Ajah, Berger, Ebute Metta, Ikorodu, etc.",
+    responsibilities: [
+      "Drive Korope buses for beverage deliveries",
+      "Load and offload products at warehouse",
+      "Follow assigned routes and meet daily targets",
+      "Conduct vehicle checks and report faults"
+    ],
+    requirements: [
+      "Valid Driver’s License and LASDRI Card",
+      "Good knowledge of Lagos routes",
+      "Functional smartphone",
+      "Physically fit"
+    ],
+    apply: 'Email CV, License, and LASDRI to <a href="mailto:secomltd1@gmail.com">secomltd1@gmail.com</a> or WhatsApp <a href="https://wa.me/2348080635669">08080635669</a> with subject "Korope Driver" and location.'
+  },
+  {
+    id: "field-sales-representative-ikeja-fmcg-2026",
+    title: "Field Sales Representative (Secondary Sales)",
+    date: "2026-05-23",
+    location: "Ikeja, Lagos",
+    type: "Full-time",
+    salary: "₦120,000 + Commission",
+    deadline: "Not Specified",
+    company: "FMCG – Beverage Company",
+    summary: "Result-driven field sales reps to drive distribution across Ikeja axis. Proximity to Ikeja is considered.",
+    responsibilities: [
+      "Sell directly to retail shops and supermarkets",
+      "Identify and onboard new outlets",
+      "Meet daily, weekly, and monthly targets",
+      "Submit field reports daily"
+    ],
+    requirements: [
+      "1–3 years FMCG field sales experience",
+      "Proven experience in secondary sales",
+      "Must reside on the Island (Lekki, Ajah axis etc.)",
+      "Strong sales and negotiation skills"
+    ],
+    apply: 'Send CV to: <a href="mailto:secomltd1@gmail.com">secomltd1@gmail.com</a> with subject "Field Sales Rep"'
+  },
+  {
+    id: "production-head-water-production-ilupeju-2026",
+    title: "Production Head – Water Production",
+    date: "2026-05-23",
+    location: "Ilupeju, Lagos",
+    type: "Full-time",
+    salary: "Negotiable",
+    deadline: "Not Specified",
+    company: "FMCG / Beverage Manufacturing",
+    summary: "Lead and oversee all production operations from water treatment to final packaging in a bottling facility.",
+    responsibilities: [
+      "Lead end-to-end water production activities",
+      "Ensure achievement of daily targets",
+      "Monitor production efficiency and waste reduction",
+      "Supervise water treatment and utility systems",
+      "Enforce health and safety policies (GMP/HACCP)"
+    ],
+    requirements: [
+      "B.Eng or HND in Mechanical, Chemical, or related engineering field",
+      "7–10 years’ experience in beverage manufacturing",
+      "At least 3 years in a production leadership role",
+      "Strong knowledge of bottling operations"
+    ],
+    apply: 'Send CV to <a href="mailto:cv@ascentech.com.ng">cv@ascentech.com.ng</a> using the Job Title as the subject (PHW14)'
+  },
+  {
+    id: "sales-manager-tiles-lagos-2026",
+    title: "Sales Manager – Tiles",
+    date: "2026-05-23",
+    location: "Lagos",
+    type: "Full-time",
+    salary: "₦300,000 – ₦400,000 + Incentives",
+    deadline: "Not Specified",
+    summary: "Experienced sales manager with strong tiles and building materials industry background to drive market expansion.",
+    responsibilities: [
+      "Develop and implement strategic sales plans",
+      "Manage relationships with distributors and contractors",
+      "Lead negotiations and contract agreements",
+      "Drive showroom and field sales activities"
+    ],
+    requirements: [
+      "Bachelor’s Degree in Marketing or related field",
+      "5–10 years of sales experience in tiles/building materials",
+      "Proven track record of exceeding targets",
+      "Excellent negotiation skills"
+    ],
+    apply: 'Send CV to <a href="mailto:cv@ascentech.com.ng">cv@ascentech.com.ng</a> with "Sales Manager – Tiles" as subject.'
+  },
+  {
+    id: "area-sales-manager-asm-enugu-fmcg-2026",
+    title: "Area Sales Manager (ASM)",
+    date: "2026-05-23",
+    location: "Enugu",
+    type: "Full-time",
+    salary: "Competitive + Incentives",
+    deadline: "Not Specified",
+    company: "FMCG Company",
+    summary: "Drive sales growth and oversee region-wide distribution channels in Enugu.",
+    responsibilities: [
+      "Achieve sales and revenue targets for the region",
+      "Manage distributors and retail channels",
+      "Lead and motivate the field sales team",
+      "Prepare sales reports and forecasts"
+    ],
+    requirements: [
+      "Bachelor’s Degree in a related field",
+      "3–5 years FMCG sales experience",
+      "Strong communication and leadership skills"
+    ],
+    apply: 'Send CV to <a href="mailto:cv@ascentech.com.ng">cv@ascentech.com.ng</a> with "ASM – Enugu" as subject.'
+  },
+  {
+    id: "sales-executive-kano-automotive-2026",
+    title: "Sales Executive",
+    date: "2026-05-23",
+    location: "Kano",
+    type: "Full-time",
+    salary: "₦250,000 – ₦350,000 Monthly",
+    deadline: "Not Specified",
+    company: "Automotive Team",
+    summary: "Drive vehicle sales and build client relationships for an automotive company in Kano.",
+    responsibilities: [
+      "Conduct vehicle presentations and test drives",
+      "Provide info on financing and warranties",
+      "Meet and exceed monthly sales targets",
+      "Maintain customer and sales records"
+    ],
+    requirements: [
+      "Bachelor’s Degree in Business or related field",
+      "Minimum of 3 years’ experience in automotive/motors sales",
+      "Excellent negotiation and product knowledge",
+      "Strong passion for automobiles"
+    ],
+    apply: 'Send CV to <a href="mailto:cv@ascentech.com.ng">cv@ascentech.com.ng</a> using "Sales Executive – Kano" as subject.'
+  },
+  {
+    id: "outdoor-sales-representative-lekki-ascentech-2026",
+    title: "Outdoor Sales Representative",
+    date: "2026-05-23",
+    location: "Lekki, Lagos",
+    type: "Full-time",
+    salary: "₦300,000 + Commission",
+    deadline: "Not Specified",
+    summary: "Field sales role focused on lead generation and achieved revenue targets in Lekki axis.",
+    responsibilities: [
+      "Identify and develop new business opportunities",
+      "Visit clients regularly to promote services",
+      "Achieve and exceed sales targets",
+      "Provide market feedback and competitor insights"
+    ],
+    requirements: [
+      "Proven experience in sales or similar role",
+      "Strong communication and negotiation skills",
+      "Minimum of OND/HND/B.Sc.",
+      "Self-motivated and field-ready"
+    ],
+    apply: 'Send CV to <a href="mailto:cv@ascentech.com.ng">cv@ascentech.com.ng</a> using "Outdoor Sales Representative" as subject (OSR14)'
+  },
+  {
+    id: "area-sales-manager-kogi-fmcg-2026",
+    title: "Area Sales Manager",
+    date: "2026-05-23",
+    location: "Kogi",
+    type: "Full-time",
+    salary: "₦300,000 – ₦650,000 Monthly",
+    deadline: "Not Specified",
+    company: "FMCG Company",
+    summary: "Oversee sales operations and drive revenue growth within the assigned territory in Kogi State.",
+    responsibilities: [
+      "Develop and implement sales strategies",
+      "Manage and grow distributor relationships",
+      "Supervise sales team to achieve performance goals",
+      "Ensure product availability across territories"
+    ],
+    requirements: [
+      "Bachelor’s degree in Marketing or Business",
+      "Proven experience in sales, preferably in FMCG",
+      "Strong leadership and account management skills",
+      "Proficiency in Microsoft Office"
+    ],
+    apply: 'Send CV to <a href="mailto:cv@ascentech.com.ng">cv@ascentech.com.ng</a> using "Area Sales Manager – Kogi" as subject.'
+  },
+  {
+    id: "business-development-officer-jolaj-schneider-nigeria-2026",
+    title: "Business Development Officer",
+    date: "2026-05-23",
+    location: "Lagos",
+    type: "Full-time",
+    salary: "₦250,000 Monthly",
+    deadline: "Not Specified",
+    company: "Jolaj/Schneider Nigeria",
+    summary: "Drive expansion for Schneider writing instruments across retail and institutional channels in Nigeria.",
+    responsibilities: [
+      "Map and onboard distributors across retail chains",
+      "Build and manage B2B pipeline (Banks, Schools, Government)",
+      "Handle bulk/branded procurement proposals",
+      "Manage POS visibility and trade events"
+    ],
+    requirements: [
+      "Degree in Business or Marketing",
+      "3–5 years in field sales (Stationery or FMCG preferred)",
+      "Proven target achievement record",
+      "Existing trade relationships in Nigeria"
+    ],
+    apply: 'Send CV + cover letter to <a href="mailto:cdchire1@gmail.com">cdchire1@gmail.com</a>'
+  },
+  {
+    id: "sales-executive-real-estate-ikeja-2026",
+    title: "Sales Executive (Female preferred)",
+    date: "2026-05-23",
+    location: "Ikeja, Lagos",
+    type: "Full-time",
+    salary: "₦250,000 Monthly + Commission",
+    deadline: "2026-05-24",
+    company: "Real Estate Client",
+    summary: "Sales executive for high-ticket real estate sales with attractive commissions.",
+    responsibilities: [
+      "Drive property sales independently and jointly",
+      "Manage client inquiries and viewings",
+      "Close deals and meet monthly targets"
+    ],
+    requirements: [
+      "2–4 years real estate sales experience",
+      "Available for physical interview immediately",
+      "Strong negotiation and persuasive skills"
+    ],
+    apply: 'Send CV via WhatsApp to <a href="https://wa.me/2348060782726">08060782726</a>'
+  },
+  {
+    id: "content-creator-specialist-real-estate-ikeja-2026",
+    title: "Content Creator Specialist (Female preferred)",
+    date: "2026-05-23",
+    location: "Ikeja, Lagos",
+    type: "Full-time",
+    salary: "₦200,000 Monthly",
+    deadline: "2026-05-24",
+    company: "Real Estate Client",
+    summary: "Fluent storyteller needed to create engaging real estate content 3 days weekly from the office.",
+    responsibilities: [
+      "Create storytelling content for social media",
+      "Shoot and edit marketing videos",
+      "Manage brand voice across digital channels"
+    ],
+    requirements: [
+      "1–3 years experience",
+      "Fluent and excellent at storytelling",
+      "Willing to work from office 3 days weekly"
+    ],
+    apply: 'Send CV via WhatsApp to <a href="https://wa.me/2348060782726">08060782726</a>'
+  },
+  {
+    id: "domestic-staff-fadeyi-onipanu-lagos-2026",
+    title: "Domestic Staff (Live-out Female)",
+    date: "2026-05-23",
+    location: "Fadeyi/Onipanu, Lagos",
+    type: "Full-time",
+    salary: "₦80,000 – ₦100,000 Monthly",
+    deadline: "Not Specified",
+    summary: "Live-out domestic staff for cleaning, laundry, and errands. Must live near Fadeyi/Onipanu axis.",
+    responsibilities: [
+      "Clean and arrange the house",
+      "Handle laundry and errands",
+      "Go to market for the client",
+      "Look after kids on special occasions"
+    ],
+    requirements: [
+      "Age range: 20 – 26 years",
+      "Must live close to Onipanu or Fadeyi axis",
+      "Hardworking and respectful",
+      "Available Monday to Saturday"
+    ],
+    apply: 'Message via WhatsApp only to <a href="https://wa.me/2348083295414">08083295414</a>'
+  },
+  {
+    id: "direct-sales-agent-apapa-banking-2026",
+    title: "Direct Sales Agent",
+    date: "2026-05-23",
+    location: "Apapa, Lagos",
+    type: "Full-time",
+    salary: "₦115,000 Monthly Net",
+    deadline: "Not Specified",
+    company: "Lington & Bernie",
+    summary: "Banking sales agent for retail banking services in Apapa axis.",
+    responsibilities: [
+      "Drive account opening and deposit mobilization",
+      "Promote bank products to retail customers",
+      "Meet daily sales and marketing targets"
+    ],
+    requirements: [
+      "OND Minimum",
+      "Banking or sales knowledge is an advantage",
+      "Resident around Apapa"
+    ],
+    apply: 'Apply via: <a href="https://forms.gle/zK81UBrLTPP2V4KH7">https://forms.gle/zK81UBrLTPP2V4KH7</a>'
+  },
+  {
+    id: "chief-commercial-officer-cco-bank-lagos-2026",
+    title: "Chief Commercial Officer (CCO)",
+    date: "2026-05-23",
+    location: "Lagos",
+    type: "Full-time",
+    salary: "Highly Attractive",
+    deadline: "Not Specified",
+    company: "Lagos Bank",
+    summary: "Senior leadership role to drive commercial growth, deposit mobilization, and loan portfolio expansion.",
+    responsibilities: [
+      "Lead commercial growth strategies",
+      "Oversee deposit mobilization and customer acquisition",
+      "Manage loan portfolio expansion across segments",
+      "Drive revenue generation and commercial leadership"
+    ],
+    requirements: [
+      "12–15 years experience in retail or MSME banking",
+      "At least 5 years in senior leadership roles",
+      "Strong background in Microfinance is preferred"
+    ],
+    apply: 'Apply here: <a href="https://forms.gle/KQToPFpoC8Y8Gfc6A">https://forms.gle/KQToPFpoC8Y8Gfc6A</a>'
+  },
+  {
+    id: "accountant-iyana-ipaja-beverage-2026",
+    title: "Accountant",
+    date: "2026-05-23",
+    location: "Iyana Ipaja / Alakuko, Lagos",
+    type: "Full-time",
+    salary: "₦150,000 Monthly Net",
+    deadline: "Not Specified",
+    summary: "Proactive Accountant to manage bookkeeping, payroll, and financial reporting.",
+    responsibilities: [
+      "Prepare financial records and accounts using bank statements",
+      "Manage accounts payable and receivable",
+      "Handle payroll and statutory deductions",
+      "Reconcile bank statements daily"
+    ],
+    requirements: [
+      "Bachelor’s degree in Accounting or Finance",
+      "2–3 years relevant experience",
+      "Proficiency in Excel and QuickBooks/Sage",
+      "ICAN/ACCA in view is an advantage"
+    ],
+    apply: 'Send CV to: <a href="mailto:secomltd1@gmail.com">secomltd1@gmail.com</a>'
+  },
+  {
+    id: "chief-growth-officer-technology-communication-2026",
+    title: "Chief Growth Officer",
+    date: "2026-05-23",
+    location: "Gbagada, Lagos",
+    type: "Full-time (Hybrid)",
+    salary: "Negotiable",
+    deadline: "Not Specified",
+    summary: "Lead strategic growth initiatives combining technology innovation and communications.",
+    responsibilities: [
+      "Execute growth strategies across tech and communication solutions",
+      "Drive customer acquisition across digital and enterprise channels",
+      "Identify new business partnerships and market segments",
+      "Optimize revenue growth and product performance"
+    ],
+    requirements: [
+      "Bachelor’s degree in Business or Marketing",
+      "4–6+ years of experience in growth/strategy in tech",
+      "Proven record of scaling technology products",
+      "Strong background in digital transformation"
+    ],
+    apply: 'Send CV to: <a href="mailto:recruitment@hazonholdings.com">recruitment@hazonholdings.com</a> using Job Title as subject.'
+  },
+  {
+    id: "sales-attendant-shopfloor-magodo-2026",
+    title: "Sales Attendant / Shopfloor Attendant (FMCG)",
+    date: "2026-05-23",
+    location: "Magodo, Shangisha",
+    type: "Full-time",
+    salary: "₦80,000 Monthly",
+    deadline: "Not Specified",
+    summary: "Proactive sales attendant for a retail outlet in Magodo. Female candidates preferred.",
+    responsibilities: [
+      "Welcome and assist customers on the floor",
+      "Ensure shelves are well-stocked and arranged",
+      "Monitor price tags and labels",
+      "Assist in receiving and organizing stock"
+    ],
+    requirements: [
+      "Minimum of SSCE/OND",
+      "Good communication and interpersonal skills",
+      "Punctual, responsible, and trustworthy",
+      "Available for morning or afternoon shifts"
+    ],
+    apply: 'Send CV to <a href="mailto:admin@essentialsbygv.com">admin@essentialsbygv.com</a> using subject "Application for sales attendant/Shopfloor Attendant"'
+  },
+  {
+    id: "business-development-officer-seedforce-lagos-2026",
+    title: "Business Development Officer",
+    date: "2026-05-23",
+    location: "Lagos",
+    type: "Full-time",
+    salary: "₦120,000 Net + Commission",
+    deadline: "Not Specified",
+    company: "SeedForce",
+    summary: "Target-driven role focusing on financial inclusion and field operations within community-based markets.",
+    responsibilities: [
+      "Drive financial inclusion in local communities",
+      "Onboard clients into informal savings systems (Ajo/Esusu)",
+      "Achieve field sales targets and manage collections"
+    ],
+    requirements: [
+      "Experience in field operations or microfinance",
+      "Strong understanding of informal savings systems",
+      "Proactive and target-driven"
+    ],
+    apply: 'Apply here: <a href="https://jobs.cvviz.com/careerbuddy/job_82266_Business_Development_Officer">https://jobs.cvviz.com/careerbuddy/job_82266_Business_Development_Officer</a>'
+  },
+  {
+    id: "account-support-officer-financial-institution-lagos-2026",
+    title: "Account Support Officer",
+    date: "2026-05-23",
+    location: "Alaba / Ojo / Ilupeju, Lagos",
+    type: "Full-time",
+    salary: "₦150,000 Monthly",
+    deadline: "Not Specified",
+    company: "Financial Institution",
+    summary: "Provide administrative and operational support to banking account opening and documentation processes.",
+    responsibilities: [
+      "Support account opening and KYC documentation",
+      "Assist with reconciliation of records",
+      "Respond to customer account enquiries",
+      "Ensure compliance with banking policies"
+    ],
+    requirements: [
+      "OND (Upper Credit only)",
+      "Maximum age: 27 years",
+      "Strong numerical and customer service skills",
+      "Resident close to chosen location"
+    ],
+    apply: 'Apply via: <a href="https://forms.gle/ofDW7bK2hcfdQPSr8">https://forms.gle/ofDW7bK2hcfdQPSr8</a>'
+  },
+  {
+    id: "card-experience-consultant-ilupeju-bank-2026",
+    title: "Card Experience Consultant",
+    date: "2026-05-23",
+    location: "Ilupeju, Lagos",
+    type: "Full-time",
+    salary: "₦180,000 Monthly",
+    deadline: "Not Specified",
+    company: "Lagos Bank",
+    summary: "Customer experience professional specialized in card services for a bank in Ilupeju.",
+    responsibilities: [
+      "Resolve customer complaints regarding cards efficiently",
+      "Advise customers on card usage and security",
+      "Maintain high standards of service excellence"
+    ],
+    requirements: [
+      "BSC degree (No Third Class or Pass)",
+      "Maximum age: 27 years",
+      "Experience in banking or card services is a plus",
+      "Must be willing to work in Ilupeju"
+    ],
+    apply: 'Apply via: <a href="https://forms.gle/VRneJASL4X8yAJsz7">https://forms.gle/VRneJASL4X8yAJsz7</a>'
+  },
+  {
+    id: "credit-rehabilitation-officer-vi-bank-2026",
+    title: "Credit Rehabilitation Officer",
+    date: "2026-05-23",
+    location: "Victoria Island, Lagos",
+    type: "Full-time",
+    salary: "₦180,000 Monthly",
+    deadline: "Not Specified",
+    company: "Lagos Bank",
+    summary: "Collection and recovery specialist to manage delinquent accounts and NPLs in VI.",
+    responsibilities: [
+      "Action accounts in terms of recovery strategies",
+      "Institute recovery actions on NPL/written off accounts",
+      "Engage stakeholders to maximize collections",
+      "Maintain customer service standards during collections"
+    ],
+    requirements: [
+      "BSC degree (No Third Class or Pass)",
+      "Maximum age: 27 years",
+      "Strong customer service and negotiation skills",
+      "Strong attention to detail"
+    ],
+    apply: 'Apply via: <a href="https://forms.gle/UQSCXCNbYz6eTC5E9">https://forms.gle/UQSCXCNbYz6eTC5E9</a>'
+  },
+  {
+    id: "marketing-executive-health-care-lagos-2026",
+    title: "Marketing Executive",
+    date: "2026-05-23",
+    location: "Surulere / Ikeja, Lagos",
+    type: "Full-time",
+    salary: "Competitive",
+    deadline: "Not Specified",
+    company: "Radiology and Diagnostic Center",
+    summary: "Develop and manage corporate marketing initiatives and drive business relationships with HMOs and corporate clients.",
+    responsibilities: [
+      "Execute corporate marketing strategies and campaigns",
+      "Manage relationships with HMOs and institutional partners",
+      "Promote diagnostic services through outreach and proposals",
+      "Track campaign performance and marketing reports"
+    ],
+    requirements: [
+      "Bachelor’s degree in Marketing or Business",
+      "3-5 years relevant experience in healthcare/diagnostics",
+      "Strong communication and presentation skills",
+      "Proven record in B2B marketing"
+    ],
+    apply: 'Forward CV to <a href="mailto:aawosanya@icsoutsourcing.com">aawosanya@icsoutsourcing.com</a> using "Marketing Executive" as subject.'
+  },
+  {
+    id: "cook-hospitality-qsr-lagos-2026",
+    title: "Cook",
+    date: "2026-05-23",
+    location: "Lekki / Ogudu / Ikeja, Lagos",
+    type: "Full-time",
+    salary: "₦70,000 – ₦100,000 Monthly",
+    deadline: "Not Specified",
+    company: "Hospitality (QSR)",
+    summary: "Skilled cook for a Quick Service Restaurant. Accommodation is available.",
+    responsibilities: [
+      "Prepare meals according to menu and standards",
+      "Maintain kitchen hygiene and safety",
+      "Handle food prep and stock management"
+    ],
+    requirements: [
+      "SSCE/ND/NCE with 1-2 years experience",
+      "Ability to communicate in English",
+      "Punctual and hardworking"
+    ],
+    apply: 'Send CV to <a href="mailto:ogagajude10@gmail.com">ogagajude10@gmail.com</a> with "Cook" as the subject.'
+  },
+  {
+    id: "deputy-manager-credit-sales-marketing-lekki-2026",
+    title: "Deputy Manager / Assistant Manager – Credit Sales & Marketing",
+    date: "2026-05-23",
+    location: "Lekki, Lagos",
+    type: "Full-time",
+    salary: "Negotiable",
+    deadline: "Not Specified",
+    company: "Platform Finance",
+    summary: "Senior professional with 15 years experience to lead credit sales strategy and revenue performance in a finance house.",
+    responsibilities: [
+      "Drive end-to-end credit sales strategy",
+      "Market financial products to high-value clients",
+      "Develop and maintain long-term partnerships",
+      "Supervise credit onboarding and evaluation"
+    ],
+    requirements: [
+      "Minimum of 15 years experience in credit sales within a financial institution",
+      "Strong leadership and team management experience",
+      "Deep understanding of credit products and risk assessment",
+      "Must reside within or close to Lekki"
+    ],
+    apply: 'Send CV to <a href="mailto:Victoria.omokhoa@platformfinance.ng">Victoria.omokhoa@platformfinance.ng</a>'
+  },
+  {
+    id: "credit-sales-marketing-executive-lekki-2026",
+    title: "Credit Sales/Marketing Executive",
+    date: "2026-05-23",
+    location: "Lekki, Lagos",
+    type: "Full-time",
+    salary: "Negotiable",
+    deadline: "Not Specified",
+    company: "Platform Finance",
+    summary: "Recruiting an executive with 3-5 years experience to drive credit sales in a finance house.",
+    responsibilities: [
+      "Drive credit sales and meet monthly targets",
+      "Market financial products to new and existing customers",
+      "Support credit onboarding processes"
+    ],
+    requirements: [
+      "3–5 years experience in credit sales/marketing",
+      "Background in a financial institution is mandatory",
+      "Strong communication and negotiation skills",
+      "Must reside within or close to Lekki"
+    ],
+    apply: 'Send CV to <a href="mailto:Victoria.omokhoa@platformfinance.ng">Victoria.omokhoa@platformfinance.ng</a>'
+  },
+  {
+    id: "head-of-sales-credit-sales-marketing-lekki-2026",
+    title: "Head of Sales (Credit Sales / Marketing)",
+    date: "2026-05-23",
+    location: "Lekki, Lagos",
+    type: "Full-time",
+    salary: "Negotiable",
+    deadline: "Not Specified",
+    company: "Platform Finance",
+    summary: "Lead the sales function for a finance house, reporting directly to the MD. Strong leadership and credit exp required.",
+    responsibilities: [
+      "Lead and oversee the credit sales team to achieve targets",
+      "Develop and implement effective sales strategies",
+      "Manage long-term customer relationships",
+      "Report directly to the MD on sales performance"
+    ],
+    requirements: [
+      "3–5 years proven experience in credit sales (Finance institution mandatory)",
+      "Strong leadership and team management skills",
+      "Must reside within Lekki or its environs",
+      "Proven ability to exceed sales targets"
+    ],
+    apply: 'Send CV to <a href="mailto:Victoria.omokhoa@platformfinance.ng">Victoria.omokhoa@platformfinance.ng</a>'
+  },
+  {
+    id: "experienced-auditor-microfinance-lagos-mainland-2026",
+    title: "Experienced Auditor",
+    date: "2026-05-23",
+    location: "Lagos Mainland",
+    type: "Full-time",
+    salary: "₦250,000 – Above (Negotiable)",
+    deadline: "Not Specified",
+    company: "Microfinance Institution",
+    summary: "Senior Auditor with 6+ years in microfinance auditing to lead internal audits and strengthen controls. Accommodation provided.",
+    responsibilities: [
+      "Conduct internal audits of branch operations and loan disbursements",
+      "Review internal controls, cash management, and asset quality",
+      "Prepare audit reports and recommend corrective actions",
+      "Ensure compliance with MFB policies and statutory requirements"
+    ],
+    requirements: [
+      "6+ years in microfinance auditing",
+      "Strong background in microfinance operations and loan portfolio review",
+      "Knowledge of CBN compliance"
+    ],
+    apply: 'Send CV to: <a href="mailto:recruitmentguidedarrowsconsult@gmail.com">recruitmentguidedarrowsconsult@gmail.com</a>'
+  },
+  {
+    id: "official-driver-ibadan-2026",
+    title: "Official Driver",
+    date: "2026-05-23",
+    location: "Ibadan",
+    type: "Full-time",
+    salary: "Competitive",
+    deadline: "Not Specified",
+    summary: "Urgent need for an official driver in Ibadan. Proximity to Oke-Ado is an added advantage.",
+    responsibilities: [
+      "Safely transport staff/officials",
+      "Conduct daily vehicle checks",
+      "Follow traffic and safety regulations"
+    ],
+    requirements: [
+      "Valid Driver's License",
+      "Good knowledge of Ibadan routes",
+      "Proximity to Oke-Ado is a plus"
+    ],
+    apply: 'Interested candidates should send their CVs to <a href="https://wa.me/2348170000667">08170000667</a> via WhatsApp only.'
+  },
+  {
+    id: "female-front-desk-officer-customer-service-bogije-2026",
+    title: "Female Front Desk Officer/Customer Service",
+    date: "2026-05-23",
+    location: "Bogije, Ibeju-Lekki, Lagos",
+    type: "Full-time",
+    salary: "₦200,000 Monthly",
+    deadline: "Not Specified",
+    summary: "Customer service role in Bogije. No accommodation; candidates must reside within Awoyaya-Màlete axis.",
+    responsibilities: [
+      "Welcome and assist visitors at the front desk",
+      "Manage calls and enquiries",
+      "Maintain office coordination and administrative tasks"
+    ],
+    requirements: [
+      "Must reside within Awoyaya-Màlete axis",
+      "Professional appearance and communication skills",
+      "Available Monday to Friday"
+    ],
+    apply: 'Forward CV to <a href="tel:2347078195124">07078195124</a>'
+  },
+  {
+    id: "corporate-driver-gm-lagos-island-2026",
+    title: "Corporate Driver (GM – General Manager)",
+    date: "2026-05-23",
+    location: "Lagos Island, Lagos State",
+    type: "Full-time",
+    salary: "₦150,000 – ₦200,000 Monthly",
+    deadline: "Not Specified",
+    summary: "Experienced driver to provide dedicated support to the General Manager on Lagos Island.",
+    responsibilities: [
+      "Safely transport GM to official and personal appointments",
+      "Maintain cleanliness and functionality of vehicle",
+      "Ensure timely pick-up and drop-offs",
+      "Keep accurate records of vehicle movement"
+    ],
+    requirements: [
+      "Minimum of 5 years experience as Corporate or Executive Driver",
+      "Valid driver's license with clean record",
+      "Must reside on Lagos Island or environs",
+      "High level of discretion and integrity"
+    ],
+    apply: 'Send CV to <a href="mailto:cv@ascentech.com.ng">cv@ascentech.com.ng</a> using CORPORATE DRIVER-17 as subject.'
+  },
+  {
+    id: "female-models-fashion-clothing-abijo-2026",
+    title: "Female Models",
+    date: "2026-05-23",
+    location: "Abijo-Malete Axis, Lagos",
+    type: "Contract",
+    salary: "₦300,000 Fee",
+    deadline: "Not Specified",
+    company: "Fashion Clothing Store",
+    summary: "Confident and stylish female models needed for a photoshoot campaign in Abijo area.",
+    responsibilities: [
+      "Participate in fashion photoshoot campaign",
+      "Represent brand styles and outfits in front of camera",
+      "Collaborate with photographers and stylists"
+    ],
+    requirements: [
+      "Must reside within Abijo-Malete axis",
+      "Confident, stylish, and camera-friendly",
+      "Presentable appearance",
+      "Available for scheduled shoot dates"
+    ],
+    apply: 'Send photos/portfolio and contact details to <a href="tel:2347078195124">07078195124</a>'
+  },
+  {
+    id: "consumer-sales-officer-swift-networks-2026",
+    title: "Consumer Sales Officer",
+    date: "2026-05-23",
+    location: "Lagos",
+    type: "Full-time",
+    salary: "₦200,000 – ₦350,000 Monthly",
+    deadline: "2026-06-30",
+    company: "Swift Networks Limited",
+    summary: "Tele-sales role responsible for developing new business pipelines and achieving subscriber targets.",
+    responsibilities: [
+      "Attend to outbound sales enquiry calls and online chats",
+      "Aggressively make cold calls to prospective customers",
+      "Process online orders and follow up with generated leads",
+      "Maintain customer relationships to enhance retention"
+    ],
+    requirements: [
+      "Bachelor’s Degree (2:1) or HND (Upper Credit) in Marketing/Business",
+      "1-4 years relevant work experience",
+      "Excellent listening and negotiation skills",
+      "Knowledge of CRM solutions"
+    ],
+    apply: 'Send Resumes and Cover Letter to: <a href="mailto:hr@swiftng.net">hr@swiftng.net</a> using "Consumer Sales Officer" as subject.'
+  },
+  {
+    id: "senior-game-programmer-interface-master-2026",
+    title: "Senior Game Programmer (Interface Master)",
+    date: "2026-05-23",
+    location: "Remote",
+    type: "Full-time",
+    salary: "Competitive",
+    deadline: "Not Specified",
+    summary: "Translate system complexity into intuitive gameplay interfaces for the Millenia simulation.",
+    responsibilities: [
+      "Build UI/UX systems for simulation interaction",
+      "Translate backend simulation data into visual gameplay",
+      "Implement modular interface systems",
+      "Ensure responsiveness between input and simulation state"
+    ],
+    requirements: [
+      "Strong C++ (Unreal), C# (Unity), or high-level Rust rendering",
+      "Experience building complex game interfaces",
+      "Understanding of game loops and player interaction design",
+      "Ability to abstract complex systems"
+    ],
+    apply: 'Send CV to <a href="mailto:Davidakinloluwa851@gmail.com">Davidakinloluwa851@gmail.com</a> or call <a href="tel:2348055830560">08055830560</a>'
+  },
+  {
+    id: "head-of-operations-the-shield-millenia-2026",
+    title: "Head of Operations (The Shield)",
+    date: "2026-05-23",
+    location: "Remote",
+    type: "Full-time",
+    salary: "Competitive",
+    deadline: "Not Specified",
+    summary: "Handle all non-technical complexity so the engineering team can focus on execution at Millenia.",
+    responsibilities: [
+      "Corporate structuring (Delaware + Nigeria)",
+      "Legal and compliance coordination",
+      "Hiring pipeline management",
+      "Financial tracking and internal operations"
+    ],
+    requirements: [
+      "Experience in startup operations or scaling environments",
+      "Strong understanding of legal/compliance structures",
+      "High-level project and team management capability"
+    ],
+    apply: 'Send CV to <a href="mailto:Davidakinloluwa851@gmail.com">Davidakinloluwa851@gmail.com</a> or call <a href="tel:2348055830560">08055830560</a>'
+  },
+  {
+    id: "community-social-manager-the-voice-millenia-2026",
+    title: "Community / Social Manager (The Voice)",
+    date: "2026-05-23",
+    location: "Remote",
+    type: "Full-time",
+    salary: "Competitive",
+    deadline: "Not Specified",
+    summary: "Build and maintain the Founding Class ecosystem for the Millenia simulation project.",
+    responsibilities: [
+      "Manage Discord and community channels",
+      "Execute 'Build in Public' strategy",
+      "Create narrative-driven engagement",
+      "Drive waitlist growth and retention"
+    ],
+    requirements: [
+      "Deep understanding of gaming and internet culture",
+      "Experience managing online communities",
+      "Strong storytelling and communication skills"
+    ],
+    apply: 'Send CV to <a href="mailto:Davidakinloluwa851@gmail.com">Davidakinloluwa851@gmail.com</a> or call <a href="tel:2348055830560">08055830560</a>'
+  },
+  {
+    id: "business-development-manager-opebi-real-estate-2026",
+    title: "Business Development Manager",
+    date: "2026-05-23",
+    location: "Opebi, Lagos",
+    type: "Full-time (Hybrid)",
+    salary: "₦200,000 Monthly Gross + Commission",
+    deadline: "2026-05-31",
+    company: "Crystal Global",
+    summary: "Identify and onboard new clients, investors, and partners for a real estate firm in Opebi.",
+    responsibilities: [
+      "Identify and onboard new clients and partners",
+      "Build relationships with property owners and developers",
+      "Structure entry points into client portfolios",
+      "Maintain and grow key accounts"
+    ],
+    requirements: [
+      "3-5 years in real estate sales/investment",
+      "Experience structuring JVs or SPVs",
+      "Hunter mindset with high resilience",
+      "Knowledge of Nigerian property law"
+    ],
+    apply: 'Forward CV to <a href="mailto:crystalglobal001@gmail.com">crystalglobal001@gmail.com</a>'
+  },
+  {
+    id: "content-resource-manager-opebi-real-estate-2026",
+    title: "Content & Resource Manager",
+    date: "2026-05-23",
+    location: "Opebi, Lagos",
+    type: "Full-time",
+    salary: "₦150,000 Monthly Gross + Commission",
+    deadline: "2026-05-31",
+    company: "Crystal Global",
+    summary: "Develop and execute a content strategy aligned with real estate asset creation and protection.",
+    responsibilities: [
+      "Develop content strategy for LinkedIn, brochures, and web",
+      "Translate projects into compelling investment narratives",
+      "Manage digital presence and brand consistency",
+      "Track engagement and lead performance"
+    ],
+    requirements: [
+      "B.Sc in Marketing/Mass Comm or related field",
+      "2-4 years experience (1-2 if you've built personal brand)",
+      "Hands-on with Canva, CapCut, WordPress, Google Analytics",
+      "Curious and detail-obsessed"
+    ],
+    apply: 'Forward CV to <a href="mailto:crystalglobal001@gmail.com">crystalglobal001@gmail.com</a>'
+  },
+  {
+    id: "clients-success-deal-coordinator-opebi-real-estate-2026",
+    title: "Clients Success/Deal Coordinator",
+    date: "2026-05-23",
+    location: "Opebi, Lagos",
+    type: "Full-time (Hybrid)",
+    salary: "₦150,000 Monthly Gross + Commission",
+    deadline: "2026-05-31",
+    company: "Crystal Global",
+    summary: "Coordinate client onboarding and deal timelines for a real estate firm in Opebi.",
+    responsibilities: [
+      "Coordinate client onboarding and KYC documentation",
+      "Track and manage deal timelines and deliverables",
+      "Liaise with internal sales, legal, and ops teams",
+      "Ensure high levels of client satisfaction"
+    ],
+    requirements: [
+      "B.Sc in Estate Management or Finance",
+      "2-3 years experience in Real Estate BD or Investment",
+      "Analytical and commercially aggressive",
+      "Strong relationship-building skills"
+    ],
+    apply: 'Forward CV to <a href="mailto:crystalglobal001@gmail.com">crystalglobal001@gmail.com</a>'
+  },
+  {
+    id: "personal-driver-vi-crystal-global-2026",
+    title: "Personal Driver (Victoria Island)",
+    date: "2026-05-23",
+    location: "Victoria Island, Lagos",
+    type: "Full-time",
+    salary: "Competitive",
+    deadline: "2026-05-31",
+    company: "Crystal Global Client",
+    summary: "Professional driver needed for a client in VI. Must be safety-conscious and familiar with Lagos roads.",
+    responsibilities: [
+      "Safely transport client to appointments",
+      "Conduct vehicle inspections and maintenance",
+      "Perform errands as assigned"
+    ],
+    requirements: [
+      "Valid Driver License",
+      "Reside on Lagos Island (preferably VI)",
+      "Age: 30-40 years",
+      "Good knowledge of Lagos road networks"
+    ],
+    apply: 'Forward CV to <a href="mailto:crystalglobal001@gmail.com">crystalglobal001@gmail.com</a>'
+  },
+  {
+    id: "superintendent-pharmacist-fortis-ibadan-2026",
+    title: "Superintendent Pharmacist",
+    date: "2026-05-23",
+    location: "Apata, Ibadan",
+    type: "Full-time",
+    salary: "₦330,000 Monthly",
+    deadline: "Not Specified",
+    company: "Fortis Pharmacy",
+    summary: "Superintendent Pharmacist needed for a pharmacy in Apata, Ibadan. Alternate weekend duty required.",
+    responsibilities: [
+      "Oversee clinical pharmacy operations",
+      "Ensure regulatory compliance",
+      "Counsel patients and manage stock"
+    ],
+    requirements: [
+      "Registered Pharmacist with valid license",
+      "Experienced in community pharmacy management",
+      "Available for shift work"
+    ],
+    apply: 'Send CV to <a href="tel:2349082757578">09082757578</a> or email <a href="mailto:fortis.pharmacy.ng@gmail.com">fortis.pharmacy.ng@gmail.com</a>'
+  },
+  {
+    id: "baker-lekki-phase-1-2026",
+    title: "Baker",
+    date: "2026-05-23",
+    location: "Lekki Phase 1, Lagos",
+    type: "Full-time",
+    salary: "₦150,000 – ₦200,000 Monthly",
+    deadline: "2026-06-22",
+    summary: "Responsible for producing high-quality breads and pastries while ensuring consistency and food safety.",
+    responsibilities: [
+      "Prepare breads and pastries daily",
+      "Accurately measure and scale ingredients",
+      "Maintain kitchen hygiene standards",
+      "Monitor baking processes and equipment"
+    ],
+    requirements: [
+      "SSCE qualification",
+      "Minimum of 3 years experience in baking",
+      "Strong knowledge of dough fermentation",
+      "Culinary Arts or Baking certification is an advantage"
+    ],
+    apply: 'Apply online here: <a href="https://docs.google.com/forms/d/e/1FAIpQLSc8Yk_v-6zGv_kQ_uX8p_b6x9u8y_zY5v_z_x_u8y_zY5v_z_x/viewform">Application Form</a>'
+  },
+  {
+    id: "waec-recruitment-nationwide-2026",
+    title: "WAEC Recruitment 2026 (Multiple Staff Vacancies)",
+    date: "2026-05-23",
+    location: "Nationwide, Nigeria",
+    type: "Full-time",
+    salary: "Attractive",
+    deadline: "Not Specified",
+    company: "West African Examinations Council (WAEC)",
+    summary: "WAEC is recruiting for multiple staff positions nationwide, including Examination Officers and Confidential Secretaries.",
+    responsibilities: [
+      "Varies based on role (General, Accounts, ICT, Audit)",
+      "Support examination administration and processing",
+      "Maintain records and secretarial duties"
+    ],
+    requirements: [
+      "B.Sc/HND or ND depending on role",
+      "NYSC completed/exempted",
+      "Computer literacy required",
+      "Maximum age: 40 years"
+    ],
+    apply: 'Apply here: <a href="https://Recruitment.waec.com.ng">Recruitment.waec.com.ng</a>'
+  },
+  {
+    id: "customer-service-officer-lekki-lagos-2026",
+    title: "Customer Service Officer",
+    date: "2026-05-23",
+    location: "Lekki, Lagos",
+    type: "Full-time",
+    salary: "₦200,000 – ₦250,000 Monthly",
+    deadline: "2026-06-18",
+    summary: "Handling customer complaints and troubleshooting issues in a fast-paced environment.",
+    responsibilities: [
+      "Handle customer complaints and troubleshooting",
+      "Follow up with clients via phone and email",
+      "Access databases for customer info",
+      "Update customer records accurately"
+    ],
+    requirements: [
+      "Proven customer service experience",
+      "Excellent communication skills",
+      "Proficiency in database usage",
+      "Patient and problem-solving mindset"
+    ],
+    apply: 'Submit CV to: <a href="mailto:jobs.expert@yahoo.com">jobs.expert@yahoo.com</a> and cc: <a href="mailto:faith.okpara@juwonelectric.com">faith.okpara@juwonelectric.com</a> using "CS" as subject.'
+  },
+  {
+    id: "dialysis-nurse-rencare-abuja-2026",
+    title: "Dialysis Nurse",
+    date: "2026-05-23",
+    location: "Abuja",
+    type: "Full-time",
+    salary: "₦276,000 – ₦288,000 Monthly",
+    deadline: "Not Specified",
+    company: "Rencare",
+    summary: "Nurse specialized in renal care and dialysis operations for a clinic in Abuja.",
+    responsibilities: [
+      "Operate dialysis machinery",
+      "Provide patient care during renal treatments",
+      "Monitor patient vitals and record progress"
+    ],
+    requirements: [
+      "Degree, BNSC, or RN",
+      "At least 2 years experience as a Dialysis Nurse",
+      "Expertise in renal care is mandatory"
+    ],
+    apply: 'Send CV to <a href="mailto:Valora.advisoryltd@gmail.com">Valora.advisoryltd@gmail.com</a>'
+  },
+  {
+    id: "senior-dialysis-nurse-rencare-abuja-2026",
+    title: "Senior Dialysis Nurse",
+    date: "2026-05-23",
+    location: "Abuja",
+    type: "Full-time",
+    salary: "₦336,000 – ₦384,000 Monthly",
+    deadline: "Not Specified",
+    company: "Rencare",
+    summary: "Senior nurse to manage dialysis operations and supervise nursing staff in Abuja.",
+    responsibilities: [
+      "Manage dialysis unit operations",
+      "Supervise and mentor dialysis nurses",
+      "Ensure high standards of renal patient care"
+    ],
+    requirements: [
+      "Degree, BNSC, or RN",
+      "At least 4 years experience as a Dialysis Nurse",
+      "Experience managing nurses is required"
+    ],
+    apply: 'Send CV to <a href="mailto:Valora.advisoryltd@gmail.com">Valora.advisoryltd@gmail.com</a>'
+  },
+  {
+    id: "customer-service-after-sale-manager-isolo-2026",
+    title: "Customer Service / After Sale Manager",
+    date: "2026-05-23",
+    location: "Isolo, Lagos",
+    type: "Full-time",
+    salary: "₦200,000 – ₦400,000 Monthly",
+    deadline: "2026-05-25",
+    company: "MeWe Electronics",
+    summary: "Experienced manager to oversee customer support and ensure excellent after-sales service delivery for electronics.",
+    responsibilities: [
+      "Supervise customer service and after-sales team",
+      "Handle escalations and complex complaints",
+      "Implement improvement strategies for satisfaction",
+      "Train and mentor representatives"
+    ],
+    requirements: [
+      "Minimum of 5 years experience in customer service management",
+      "HND/B.Sc. in Business or related field",
+      "Strong leadership and communication abilities",
+      "Knowledge of electronics after-sales is a plus"
+    ],
+    apply: 'Send CV to: <a href="mailto:hrmarthameweelectronics@gmail.com">hrmarthameweelectronics@gmail.com</a> using Job Position as subject.'
+  },
+  {
     id: "business-development-manager-real-estate-mainland-lagos-2026",
     title: "Business Development Manager (Also a Successor Track to Head of Business)",
     date: "2026-05-22",

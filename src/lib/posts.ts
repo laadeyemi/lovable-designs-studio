@@ -10,6 +10,79 @@ export type Post = {
 
 const allPosts: Post[] = [
   {
+    id: "nysc-batch-b-stream-i-orientation-2026",
+    title: "NYSC Batch B Stream I Orientation Course 2026 Begins June 10",
+    category: "Education",
+    date: "2026-05-23",
+    excerpt: "National Youth Service Corps has announced the official timetable for the 2026 Batch B Stream I Orientation Course, beginning June 10, 2026.",
+    content:
+      `<h2>NYSC Batch B Stream I 2026 Official Dates</h2>
+      <p>National Youth Service Corps has announced the official timetable for the 2026 Batch B Stream I Orientation Course. The orientation exercise will begin on <strong>Wednesday, 10 June 2026</strong>, and end on <strong>Tuesday, 30 June 2026</strong>.</p>
+      <p>For many Nigerian graduates, the NYSC orientation camp marks the beginning of national service and the transition from campus life into a new stage of responsibility and experience.</p>
+
+      <h3>Official Timetable Highlights</h3>
+      <ul>
+        <li><strong>Commencement:</strong> Wednesday, 10 June 2026</li>
+        <li><strong>Registration Period:</strong> Wednesday, 10 June to Friday, 12 June 2026</li>
+        <li><strong>Registration Cut-Off:</strong> Midnight, Friday, 12 June 2026</li>
+        <li><strong>Swearing-In Ceremony:</strong> Friday, 12 June 2026</li>
+        <li><strong>Closing Ceremony:</strong> Tuesday, 30 June 2026</li>
+      </ul>
+      <p>PCMs are expected to report to their assigned orientation camps within the registration window to avoid missing camp activities or facing disqualification.</p>
+
+      <h2>Essential Preparation for Prospective Corps Members</h2>
+      <p>Preparation before camp can help prospective corps members avoid stress during registration and clearance.</p>
+
+      <h3>Documentation Requirements</h3>
+      <p>The <strong>NYSC Call-Up Letter</strong> is the most critical document. PCMs should print it early and keep extra copies. Other required items include:</p>
+      <ul>
+        <li>Original academic certificates and photocopies</li>
+        <li>Passport photographs</li>
+        <li>School identity card</li>
+        <li>Valid means of identification (NIN, Voter's Card, etc.)</li>
+      </ul>
+      <p>Foreign-trained graduates must also bring their international passport and original credentials.</p>
+
+      <h3>What to Pack</h3>
+      <p>NYSC camp life is easier with practical items. Recommended gear includes:</p>
+      <ul>
+        <li>White T-shirts, shorts, and sneakers</li>
+        <li>Toiletries and basic medications</li>
+        <li>Writing materials and a power bank</li>
+        <li>Important documents stored in waterproof folders</li>
+      </ul>
+
+      <h2>Travel and Safety Tips</h2>
+      <p>PCMs are encouraged to travel during the daytime. Late-night journeys pose significant security risks. If you cannot reach your destination before nightfall, seek shelter at:</p>
+      <ul>
+        <li>NYSC offices or Corps lodges</li>
+        <li>Police or Army barracks</li>
+      </ul>
+      <p>Always board vehicles from recognized motor parks and avoid roadside pickups.</p>
+
+      <h2>Special Provisions and Warnings</h2>
+      <h3>Married, Pregnant, and Nursing Mothers</h3>
+      <p>Affected candidates may report to camps closer to their spouses by providing supporting documents like marriage certificates and medical reports during registration.</p>
+
+      <h3>Polytechnic Graduates</h3>
+      <p>Graduates from polytechnics <strong>must</strong> present their National Diploma (ND) certificates during clearance to avoid registration issues.</p>
+
+      <h3>Warning Against Fraud</h3>
+      <p>NYSC warns against fake certificates and multiple registrations. Such attempts attract severe disciplinary actions and legal consequences. PCMs who lose their call-up letters should follow official replacement procedures immediately.</p>
+
+      <p>Proper preparation is key to a smooth camp experience. PCMs who organize their documents early and follow official instructions are more likely to settle quickly once activities begin.</p>`,
+    tags: [
+      "NYSC",
+      "Orientation",
+      "Batch B",
+      "Stream I",
+      "2026",
+      "Nigeria",
+      "PCMs",
+      "National Service",
+    ],
+  },
+  {
     id: "david-oyedepo-foundation-scholarship-2026",
     title: "David Oyedepo Foundation Scholarship 2026 Opens for Young African Students",
     category: "Scholarship",
@@ -387,6 +460,86 @@ const allPosts: Post[] = [
       "Undergraduate",
       "Nigeria",
       "2026",
+    ],
+  },
+  {
+    id: "unicross-post-utme-direct-entry-2026-2027",
+    title: "UNICROSS Opens Post UTME and Direct Entry Registration for 2026/2027 Session",
+    category: "Education",
+    date: "2026-05-21",
+    excerpt: "University of Cross River State (UNICROSS) has announced the commencement of Post UTME and Direct Entry registration for the 2026/2027 academic session, starting May 21, 2026.",
+    content:
+      `<h2>UNICROSS Opens Post UTME and Direct Entry Registration for 2026/2027 Session</h2>
+      <p>University of Cross River State, formerly known as CRUTECH, has announced the commencement of Post UTME and Direct Entry registration for the 2026/2027 academic session.</p>
+      <p>The university stated that online registration officially begins on <strong>Thursday, 21 May 2026</strong>, for candidates seeking undergraduate admission into the institution.</p>
+
+      <h2>UNICROSS Post UTME Eligibility Requirements</h2>
+      <p>Candidates who selected UNICROSS as their first-choice institution in the 2026 UTME and scored at least <strong>150</strong> are eligible to apply for the screening exercise.</p>
+      <p>The university also stated that candidates who did not initially choose UNICROSS during JAMB registration may still apply after completing a change of institution through the Joint Admissions and Matriculation Board portal. Both UTME and Direct Entry candidates are eligible once the required conditions are met.</p>
+
+      <h2>UNICROSS Screening Fee</h2>
+      <p>Applicants are required to pay a non-refundable screening fee of <strong>₦2,000</strong>. Payment can be completed through:</p>
+      <ul>
+        <li>MasterCard, Visa, or Verve cards</li>
+        <li>Bank transfer or USSD</li>
+        <li>Commercial banks linked to the university portal</li>
+      </ul>
+
+      <h2>How to Apply for UNICROSS Post UTME / Direct Entry Form</h2>
+      <p>Candidates are expected to complete the application process online through the official UNICROSS Post UTME portal.</p>
+      <h3>Application Steps</h3>
+      <ol>
+        <li>Visit the UNICROSS Post UTME registration portal.</li>
+        <li>Enter your JAMB registration number under the “New Candidate” section.</li>
+        <li>Click on “Proceed to Purchase E-Pin” and confirm your details.</li>
+        <li>Update your phone number and email address, then click “Pay Now”.</li>
+        <li>Copy and save the generated <strong>E-PIN</strong>.</li>
+        <li>Return to the portal and select “Already Have an E-PIN?”.</li>
+        <li>Upload all required documents and fill the form carefully.</li>
+        <li>Print the acknowledgement slip after successful submission.</li>
+      </ol>
+      <p><em>Note: Keep your E-PIN safe as it will be needed for future access.</em></p>
+
+      <h2>Important Screening Notice</h2>
+      <ul>
+        <li>Only candidates with a minimum UTME score of 150 can participate.</li>
+        <li>Screening will be conducted <strong>online</strong>. Candidates should NOT travel to Calabar or any campus for physical screening.</li>
+        <li>Confirm the campus hosting your preferred course before completing registration.</li>
+      </ul>
+
+      <h2>UNICROSS Courses and Campuses</h2>
+      <p>The university offers programmes across its Calabar, Ogoja and Okuku campuses.</p>
+
+      <h3>Calabar Campus</h3>
+      <p><strong>Faculty of Architecture:</strong> Architecture</p>
+      <p><strong>Faculty of Biological Sciences:</strong> Plant Science and Biotechnology, Animal Health and Environmental Biology, Microbiology</p>
+      <p><strong>Faculty of Communication and Media Studies:</strong> Journalism and Media Studies, Mass Communication, Broadcasting, Library and Information Science</p>
+      <p><strong>Faculty of Education:</strong> Education and (Biology, Chemistry, Mathematics, Physics), Educational Management, Education Foundations and Administration, Business Education, Technical Education, Guidance and Counselling, Early Childhood Education, Human Kinetics and Health Education</p>
+      <p><strong>Faculty of Engineering:</strong> Electrical/Electronics, Mechanical, Civil, and Wood Products Engineering</p>
+      <p><strong>Faculty of Environmental Sciences:</strong> Estate Management, Visual Arts and Technology, Urban and Regional Planning</p>
+      <p><strong>Faculty of Physical Sciences:</strong> Chemistry, Industrial Chemistry, Biochemistry, Mathematics, Statistics, Physics</p>
+      <p><strong>Faculty of Computing:</strong> Computer Science, Information Systems, Software Engineering</p>
+
+      <h3>Ogoja Campus</h3>
+      <p><strong>Faculty of Management Sciences:</strong> Accounting, Banking and Finance, Business Administration, Economics, Entrepreneurship Studies, Peace Studies and Conflict Resolution, Sociology, Hospitality and Tourism Management, Marketing</p>
+
+      <h3>Okuku Campus</h3>
+      <p><strong>Faculty of Agriculture:</strong> Agriculture, Agricultural Economics and Extension, Agronomy, Animal Science, Fisheries, Forestry and Wildlife</p>
+      <p><strong>Faculty of Basic Medical Sciences:</strong> Medical Biochemistry, Human Anatomy, Physiology</p>
+
+      <h2>Document Upload & Help Lines</h2>
+      <p>Ensure scanned copies are clear and not below 50KB. For assistance, contact the help lines: 08189351784, 09015055999, 09053310247, 09068968666, or 07071919527.</p>
+
+      <p><strong>Final Note:</strong> Use only the official portal, upload clear documents, and print your acknowledgement slip. Careful completion will help avoid admission problems later.</p>`,
+    tags: [
+      "UNICROSS",
+      "CRUTECH",
+      "Post UTME",
+      "Direct Entry",
+      "Admission",
+      "2026/2027",
+      "Education",
+      "Nigeria",
     ],
   },
   {

@@ -10,6 +10,110 @@ export type Post = {
 
 const allPosts: Post[] = [
   {
+    id: "david-oyedepo-foundation-scholarship-2026",
+    title: "David Oyedepo Foundation Scholarship 2026 Opens for Young African Students",
+    category: "Scholarship",
+    date: "2026-05-23",
+    excerpt: "David Oyedepo Foundation has opened applications for its 2026 Scholarship Programme for young African students seeking admission into Covenant University and Landmark University.",
+    content:
+      `<h2>David Oyedepo Foundation Scholarship 2026 Opens for Young African Students</h2>
+      <p>David Oyedepo Foundation has opened applications for its 2026 Scholarship Programme for young African students seeking admission into Covenant University and Landmark University.</p>
+      <p>The scholarship programme provides full academic fee support for selected students and forms part of the Foundation’s mission to develop future African leaders through quality university education.</p>
+      <p>Applicants should note that the scholarship does not automatically grant admission into either university. Every candidate must separately apply for and secure admission through the normal university admission process.</p>
+
+      <h2>What the David Oyedepo Foundation Scholarship Covers</h2>
+      <p>The scholarship covers full academic fees for the duration of the approved course of study.</p>
+      <p>According to the Foundation, the award may run for a maximum of five years, depending on the programme duration set by the university.</p>
+      <p>However, the scholarship does not cover certain personal and extra expenses.</p>
+
+      <h3>Expenses Not Covered by the Scholarship</h3>
+      <p>The scholarship excludes:</p>
+      <ul>
+        <li>Travel expenses</li>
+        <li>Feeding allowances</li>
+        <li>Medical or health insurance</li>
+        <li>Any non-academic university charges outside approved tuition-related fees</li>
+      </ul>
+      <p>Applicants are advised to understand these conditions before applying.</p>
+
+      <h2>Eligibility Requirements for the David Oyedepo Foundation Scholarship</h2>
+      <p>The scholarship is open to young Africans who meet all the stated eligibility conditions.</p>
+      <p>Applicants must:</p>
+      <ul>
+        <li>Be citizens and permanent residents of an African country</li>
+        <li>Be between 16 and 25 years old at the time of application</li>
+        <li>Qualify for a Nigerian student visa</li>
+        <li>Be able to read, write and communicate effectively in English</li>
+        <li>Show strong academic performance in secondary school</li>
+        <li>Have already started admission applications to Covenant University or Landmark University</li>
+      </ul>
+
+      <h3>Academic Requirements</h3>
+      <p>For Nigerian applicants:</p>
+      <ul>
+        <li>A minimum JAMB score of 240 is required</li>
+      </ul>
+      <p>For applicants from other African countries:</p>
+      <ul>
+        <li>At least 80 percent average performance</li>
+        <li>Or a minimum GPA of 4.0 on a 5.0 scale</li>
+      </ul>
+
+      <h2>Scholarship Depends on University Admission</h2>
+      <p>The Foundation stressed that scholarship selection depends on successful admission into Covenant University or Landmark University.</p>
+      <p>Applicants who fail to secure admission into either institution will not qualify for the scholarship award, even if they perform well during the scholarship selection process.</p>
+
+      <h2>Selection Process for the Scholarship</h2>
+      <p>The David Oyedepo Foundation Scholarship combines:</p>
+      <ul>
+        <li>Merit-based assessment</li>
+        <li>Financial need evaluation</li>
+      </ul>
+      <p>After the application deadline, eligible applications will be reviewed by a selection panel.</p>
+      <p>Shortlisted candidates will proceed to online interviews conducted through video conferencing platforms.</p>
+      <p>Finalists will be required to present:</p>
+      <ul>
+        <li>Proof of university application</li>
+        <li>Proof of citizenship</li>
+        <li>Original copies of uploaded documents</li>
+      </ul>
+
+      <h2>Criteria Used for Selection</h2>
+      <p>The Foundation stated that applicants will be assessed based on:</p>
+      <ul>
+        <li>Academic excellence</li>
+        <li>Financial need</li>
+        <li>Leadership qualities</li>
+        <li>Community involvement</li>
+        <li>Good character</li>
+        <li>Commitment to contributing positively to their home communities</li>
+      </ul>
+
+      <h2>Important Application Guidelines</h2>
+      <p>Interested applicants should apply through the <a href="https://docs.google.com/forms/d/e/1FAIpQLSdoboBr-Qf7weSM3g7vp2YjjnYMI-FCyQXa4O7N-VTVy66osw/viewform">official David Oyedepo Foundation Scholarship application portal</a>.</p>
+      <p>Applicants are advised to use a computer with internet access and scan all required documents properly. Avoid uploading phone-snapped documents, as such submissions may lead to disqualification.</p>
+
+      <h2>Education and Examination Requirements</h2>
+      <p>Applicants must upload their secondary school transcripts and provide details of proposed university and course of study. Note that only Covenant and Landmark Universities are accepted, and combination of results is not allowed.</p>
+
+      <h2>Essay and Reference Requirements</h2>
+      <p>Applicants are required to answer four essay questions (max 500 words each) in English. Additionally, details for an academic and a religious referee must be provided, along with their recommendation letters. Parents or guardians are not allowed to serve as referees.</p>
+
+      <h2>Application Deadline</h2>
+      <p>Applications for the 2026 David Oyedepo Foundation Scholarship Programme will close at 11:59 pm GMT+1 on <b>Friday, 19 June 2026</b>. No extension will be granted.</p>
+      <p>For additional information, contact the Foundation at <a href="mailto:davidoyedepofdn@gmail.com">davidoyedepofdn@gmail.com</a>.</p>`,
+    tags: [
+      "David Oyedepo Foundation",
+      "Scholarship",
+      "Covenant University",
+      "Landmark University",
+      "Africa",
+      "Education",
+      "2026",
+      "Nigeria",
+    ],
+  },
+  {
     id: "concept-academy-national-medical-essay-competition-2026",
     title: "Concept Academy Opens 2026 National Medical Essay Competition for Nigerian Medical Students",
     category: "Education",

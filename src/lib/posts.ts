@@ -10,6 +10,343 @@ export type Post = {
 
 const allPosts: Post[] = [
   {
+    id: "futo-post-utme-direct-entry-2026-2027",
+    title: "FUTO Opens 2026/2027 Post UTME and Direct Entry Screening Registration",
+    category: "Education",
+    date: "2026-05-22",
+    excerpt: "Federal University of Technology, Owerri (FUTO) has commenced Post UTME and Direct Entry screening for the 2026/2027 academic session.",
+    content: `<h2>FUTO Opens 2026/2027 Post UTME and Direct Entry Screening Registration</h2>
+      <p>Federal University of Technology, Owerri has announced the commencement of Post UTME and Direct Entry screening registration for the 2026/2027 academic session.</p>
+      <p>The screening exercise is open to candidates who applied through Joint Admissions and Matriculation Board for undergraduate admission and selected FUTO as their first-choice institution.</p>
+      <p>Candidates who did not initially choose FUTO may still apply after changing their institution to FUTO on JAMB CAPS on or before <strong>31 July 2026</strong>.</p>
+
+      <h3>FUTO Post UTME Registration Dates and Eligibility</h3>
+      <p>The university stated that:</p>
+      <ul>
+        <li>Registration begins on <strong>Friday, 22 May 2026</strong></li>
+        <li>Registration closes on <strong>Friday, 31 July 2026</strong></li>
+      </ul>
+      <p>To qualify for the screening exercise, candidates must be at least 16 years old by 30 September 2026 and score a minimum of <strong>150</strong> in the 2026 UTME.</p>
+
+      <h3>FUTO O’Level Requirements</h3>
+      <p>Applicants must possess at least five O’Level credit passes, including English Language, Mathematics, and three other subjects relevant to the chosen course. Results must be obtained in not more than two sittings.</p>
+      <p><strong>Special Requirement for MBBS Candidates:</strong> Candidates applying for Medicine and Surgery (MBBS) must possess credit passes in English, Mathematics, Physics, Chemistry, and Biology obtained in <strong>one sitting</strong>.</p>
+
+      <h3>FUTO Courses and Minimum Score Requirements</h3>
+      <p>The university has categorized courses based on UTME performance requirements:</p>
+      
+      <h4>Programmes Requiring a Minimum JAMB Score of 150:</h4>
+      <ul>
+        <li><strong>Agriculture:</strong> Agribusiness, Agricultural Economics, Animal Science, Crop Science, Soil Science, Fisheries, Forestry.</li>
+        <li><strong>Biological Sciences:</strong> Biochemistry, Biological Science, Biotechnology, Forensic Science, Microbiology.</li>
+        <li><strong>Environmental Sciences:</strong> Building Technology, Environmental Management, Estate Management, Quantity Surveying, Urban and Regional Planning.</li>
+        <li><strong>Logistics:</strong> Entrepreneurship, Finance, Logistics & Transport, Maritime Science, Project Management, Supply Chain Management.</li>
+        <li><strong>Physical Sciences:</strong> Chemistry, Geology, Mathematics, Physics, SLT, Statistics.</li>
+      </ul>
+
+      <h4>Programmes Requiring a Minimum JAMB Score of 170:</h4>
+      <ul>
+        <li><strong>ICT:</strong> Computer Science, Cyber Security, Information Technology, Software Engineering.</li>
+        <li><strong>Engineering:</strong> Chemical, Civil, Mechanical, Petroleum, Computer, Electrical, Mechatronic, Telecommunication Engineering.</li>
+        <li><strong>Health & Medical:</strong> Architecture, Optometry, Radiography, Public Health, Human Anatomy, Human Physiology.</li>
+      </ul>
+
+      <h4>MBBS Requirement:</h4>
+      <p>The MBBS programme under the College of Medicine requires a minimum UTME score of <strong>200</strong> and a one-sitting O'Level result.</p>
+
+      <h3>FUTO Direct Entry Requirements</h3>
+      <p>Direct Entry candidates must possess A’Level passes in relevant subjects, OND, HND, or a first degree in related disciplines. Applicants must ensure academic transcripts reach the Registrar of FUTO on or before 17 August 2026.</p>
+
+      <h3>FUTO Screening Method</h3>
+      <p>FUTO stated that the 2026/2027 screening exercise will be conducted through <strong>internal screening</strong> of verified JAMB scores and uploaded O’Level results on JAMB CAPS. Candidates must upload their O’Level results on JAMB CAPS on or before <strong>17 August 2026</strong> to be considered for admission.</p>
+
+      <h3>How to Apply for FUTO Post UTME and Direct Entry Screening</h3>
+      <p>Candidates should follow these steps carefully:</p>
+      <ol>
+        <li>Visit the <a href="https://futo.edu.ng/">FUTO website</a> and click “Prospective Students”.</li>
+        <li>Select <a href="https://portal.futo.edu.ng/#undergraduate">“Undergraduate”</a>.</li>
+        <li>Click “Generate Invoice” and enter your JAMB registration number.</li>
+        <li>Generate payment invoice with Remita Retrieval Reference (RRR) and pay <strong>₦2,000</strong> at any bank or online.</li>
+        <li>Return to the <a href="https://portal.futo.edu.ng/putme_login">FUTO Post UTME portal</a> and log in.</li>
+        <li>Complete and submit the application form.</li>
+        <li>Print the acknowledgement slip.</li>
+      </ol>
+
+      <h3>Important Notice to Applicants</h3>
+      <p>Ensure that details on JAMB CAPS (Date of Birth, State of Origin, Course Choice, etc.) match the information entered on the FUTO portal. Only candidates whose selected course matches on both platforms will be considered.</p>
+
+      <h3>FUTO Support Contact</h3>
+      <p>For assistance, contact the university via:</p>
+      <ul>
+        <li>Email: <a href="mailto:ict@futo.edu.ng">ict@futo.edu.ng</a></li>
+        <li>Hotline: 08139833300</li>
+      </ul>`,
+    tags: [
+      "FUTO",
+      "Post UTME",
+      "Direct Entry",
+      "Admission",
+      "2026/2027",
+      "Nigeria",
+      "Engineering",
+      "Medicine",
+    ],
+  },
+  {
+    id: "unidel-post-utme-direct-entry-2026-2027",
+    title: "UNIDEL Opens Post UTME and Direct Entry Screening for 2026/2027 Admission",
+    category: "Education",
+    date: "2026-05-25",
+    excerpt: "University of Delta has announced the commencement of Post UTME and Direct Entry screening registration for the 2026/2027 academic session.",
+    content: `<h2>UNIDEL Opens Post UTME and Direct Entry Screening for 2026/2027 Admission</h2>
+      <p>University of Delta has announced the commencement of Post UTME and Direct Entry screening registration for the 2026/2027 academic session.</p>
+      <p>The application portal opened on <strong>25 May 2026</strong> and will close on <strong>15 June 2026</strong>.</p>
+      <p>Candidates seeking admission into the university are advised to carefully check the course list, eligibility requirements, application procedures and payment guidelines before completing the online form.</p>
+
+      <h2>UNIDEL Available Undergraduate Courses</h2>
+      <p>UNIDEL offers programmes across several faculties, including agriculture, arts, sciences, medicine, law, engineering, education and computing.</p>
+
+      <h3>Faculty of Agriculture</h3>
+      <ul>
+        <li>B.Sc. Animal Science</li>
+        <li>B.Sc. Crop Science</li>
+        <li>B.Sc. Agricultural Extension</li>
+        <li>B.Sc. Agricultural Economics</li>
+        <li>B.Sc. Family and Consumer Science</li>
+      </ul>
+
+      <h3>Faculty of Arts</h3>
+      <ul>
+        <li>B.A English and Literary Studies</li>
+        <li>B.A Linguistics</li>
+        <li>B.A French</li>
+        <li>B.A Music</li>
+        <li>B.A Philosophy</li>
+        <li>B.A Religious Studies</li>
+        <li>B.A History and International Studies</li>
+        <li>B.A Theatre Arts</li>
+      </ul>
+
+      <h3>Faculty of Basic Medical Sciences</h3>
+      <ul>
+        <li>B.Sc. Human Physiology</li>
+        <li>B.Sc. Medical Biochemistry</li>
+        <li>B.Sc. Radiography and Radiation Science</li>
+        <li>B.Sc. Anatomy</li>
+        <li>B.Sc. Public Health</li>
+        <li>B.Sc. Nursing Science</li>
+        <li>B.Sc. Medical Laboratory Science</li>
+      </ul>
+
+      <h3>Faculty of Computing</h3>
+      <ul>
+        <li>B.Sc. Computer Science</li>
+        <li>B.Sc. Cyber Security</li>
+        <li>B.Sc. Software Engineering</li>
+        <li>B.Sc. Information and Communication Technology</li>
+        <li>B.Sc. Data Science</li>
+        <li>B.Sc. Information System</li>
+      </ul>
+
+      <h3>Faculty of Education</h3>
+      <p>Programmes include:</p>
+      <ul>
+        <li>Early Childhood Care Education</li>
+        <li>Educational Management</li>
+        <li>Guidance and Counselling</li>
+        <li>Special Education</li>
+        <li>Adult and Continuing Education</li>
+        <li>English Education</li>
+        <li>History Education</li>
+        <li>French Education</li>
+        <li>Economics Education</li>
+        <li>Political Science Education</li>
+        <li>Biology Education</li>
+        <li>Chemistry Education</li>
+        <li>Computer Education</li>
+        <li>Mathematics Education</li>
+        <li>Physics Education</li>
+        <li>Agricultural Science Education</li>
+        <li>Business Education</li>
+        <li>Educational Technology</li>
+        <li>Health Education</li>
+        <li>Home Economics Education</li>
+        <li>Human Kinetics and Sports Science</li>
+      </ul>
+
+      <h3>Faculty of Engineering</h3>
+      <ul>
+        <li>Mechanical Engineering</li>
+        <li>Civil Engineering</li>
+        <li>Water Resources Engineering</li>
+        <li>Electrical/Electronics Engineering</li>
+        <li>Mechatronics Engineering</li>
+        <li>Chemical Engineering</li>
+        <li>Computer Engineering</li>
+      </ul>
+
+      <h3>Faculty of Environmental Sciences</h3>
+      <ul>
+        <li>Architecture</li>
+        <li>Estate Management</li>
+        <li>Urban and Regional Planning</li>
+        <li>Fine and Applied Arts</li>
+        <li>Geography and Environmental Management</li>
+        <li>Surveying and Geo-Informatics</li>
+      </ul>
+
+      <h3>Faculty of Law</h3>
+      <ul>
+        <li>LLB Law</li>
+      </ul>
+
+      <h3>Faculty of Management Sciences</h3>
+      <ul>
+        <li>Banking and Finance</li>
+        <li>Accounting</li>
+        <li>Public Administration</li>
+        <li>Business Administration</li>
+        <li>Entrepreneurship and Business Innovation</li>
+      </ul>
+
+      <h3>Faculty of Medicine</h3>
+      <ul>
+        <li>MBBS Medicine and Surgery</li>
+      </ul>
+
+      <h3>Faculty of Sciences</h3>
+      <ul>
+        <li>Microbiology</li>
+        <li>Biology</li>
+        <li>Industrial Chemistry</li>
+        <li>Biochemistry</li>
+        <li>Chemistry</li>
+        <li>Marine Science</li>
+        <li>Environmental Management and Toxicology</li>
+        <li>Mathematics</li>
+        <li>Statistics</li>
+        <li>Physics</li>
+        <li>Geology</li>
+        <li>Biotechnology</li>
+      </ul>
+
+      <h3>Faculty of Social Sciences</h3>
+      <ul>
+        <li>Sociology</li>
+        <li>Criminology and Security Studies</li>
+        <li>Psychology</li>
+        <li>Political Science</li>
+        <li>International Relations</li>
+        <li>Peace and Conflict Resolution</li>
+        <li>Mass Communication</li>
+        <li>Economics</li>
+        <li>Library and Information Science</li>
+      </ul>
+
+      <h2>UNIDEL Post UTME Eligibility Requirements</h2>
+      <p>Candidates applying for:</p>
+      <ul>
+        <li>Medicine and Surgery</li>
+        <li>Nursing Science</li>
+        <li>Medical Laboratory Science</li>
+        <li>Law</li>
+      </ul>
+      <p>must score at least <strong>230</strong> in the 2026 UTME.</p>
+      <p>Applicants for all other courses require a minimum UTME score of <strong>150</strong>.</p>
+      <p>Candidates must also possess:</p>
+      <ul>
+        <li>At least five O’Level credit passes</li>
+        <li>Relevant subjects related to the intended course</li>
+        <li>Results obtained in not more than two sittings</li>
+      </ul>
+      <p>Accepted examination bodies include:</p>
+      <ul>
+        <li>WAEC</li>
+        <li>NECO</li>
+        <li>GCE</li>
+      </ul>
+
+      <h2>UNIDEL Direct Entry Requirements</h2>
+      <p>Direct Entry candidates are eligible if they:</p>
+      <ul>
+        <li>Chose UNIDEL as first-choice institution</li>
+        <li>Or completed change of institution to UNIDEL through JAMB</li>
+      </ul>
+      <p>Accepted qualifications include:</p>
+      <ul>
+        <li>Diplomas</li>
+        <li>Degrees</li>
+        <li>Other recognised certificates approved by NUC, NBTE or NCCE</li>
+      </ul>
+      <p>However, the university stated clearly that Direct Entry admission is not available for:</p>
+      <ul>
+        <li>Medicine and Surgery</li>
+        <li>Nursing Science</li>
+        <li>Medical Laboratory Science</li>
+      </ul>
+
+      <h2>UNIDEL Age Requirement</h2>
+      <p>Candidates must be at least <strong>16 years old by 30 September 2026</strong> in line with the JAMB admission policy.</p>
+
+      <h2>UNIDEL Screening Fee</h2>
+      <p>The screening fee is <strong>₦2,000</strong> only.</p>
+      <p>Applicants are expected to complete payment through the university portal and print the required payment slip after validation.</p>
+
+      <h2>How to Apply for UNIDEL Post UTME and Direct Entry Screening</h2>
+      <p>Eligible candidates should follow these steps carefully.</p>
+      <ol>
+        <li>Visit the <a href="https://unidel.waeup.org/applicants/ase2026">UNIDEL application portal</a></li>
+        <li>Click “Register for application”</li>
+        <li>Enter surname exactly as written on JAMB slip</li>
+        <li>Enter JAMB registration number and active email address</li>
+        <li>Click “Send credentials to e-mail address”</li>
+        <li>Open the email inbox and check the KOFA credentials sent by the portal</li>
+        <li>Click the confirmation link in the email</li>
+        <li>Log in using the provided details</li>
+        <li>Click “Edit application record”</li>
+        <li>Fill the application form with correct information</li>
+        <li>Print the completed application form for future reference</li>
+      </ol>
+      <p>Candidates are advised to use an active email address because login credentials and updates will be sent there.</p>
+
+      <h2>How to Pay the UNIDEL Screening Fee</h2>
+      <p>After logging into the portal:</p>
+      <ol>
+        <li>Visit the <a href="https://unidel.waeup.org/login">UNIDEL KOFA login portal</a></li>
+        <li>Enter username and password</li>
+        <li>Click “Edit application record”</li>
+        <li>Scroll down and click “Add online payment ticket”</li>
+        <li>Click the generated Payment ID</li>
+        <li>Select “CollegePay”</li>
+        <li>Confirm payment details</li>
+        <li>Click “Submit”</li>
+        <li>Proceed through the Interswitch payment gateway</li>
+        <li>Select the transfer payment option</li>
+        <li>Complete payment and validation</li>
+        <li>Print the application slip</li>
+      </ol>
+      <p>The university stated that payment through Interswitch is strictly by transfer.</p>
+
+      <h2>UNIDEL Application Deadline and Screening Date</h2>
+      <p>The application portal will close on <strong>15 June 2026</strong>.</p>
+      <p>UNIDEL stated that the Post UTME screening date will later be announced through the university’s official channels.</p>
+      <p>Candidates who need assistance may contact the university through:</p>
+      <ul>
+        <li>08119064321</li>
+        <li>07026910316</li>
+      </ul>`,
+    tags: [
+      "UNIDEL",
+      "University of Delta",
+      "Post UTME",
+      "Direct Entry",
+      "Admission",
+      "2026/2027",
+      "Education",
+      "Nigeria",
+    ],
+  },
+  {
     id: "nysc-batch-b-stream-i-orientation-2026",
     title: "NYSC Batch B Stream I Orientation Course 2026 Begins June 10",
     category: "Education",

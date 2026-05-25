@@ -16,6 +16,667 @@ export type Job = {
 
 const allJobs: Job[] = [
   {
+    id: "customer-service-representative-lekki-2026",
+    title: "Customer Service Representative",
+    date: "2026-05-25",
+    location: "Lekki, Lagos",
+    type: "Full-time",
+    seniority: "Mid-Level",
+    salary: "₦300,000 Monthly",
+    deadline: "Not Specified",
+    company: "Buckeyepacific",
+    summary: "Customer Service Representative to handle calls on medical billing, insurance, and payments, resolve account issues, and document interactions.",
+    responsibilities: [
+      "Handle customer calls on medical billing, insurance, and payments",
+      "Resolve account issues professionally",
+      "Explain billing statements and payment options",
+      "Document customer interactions accurately",
+      "Meet customer satisfaction and performance targets"
+    ],
+    requirements: [
+      "Minimum of 2 years customer service experience in banking, fintech, or healthcare",
+      "Strong computer skills",
+      "Excellent spoken and written English",
+      "Strong communication, empathy, and multitasking skills",
+      "Ability to work independently and meet deadlines",
+      "Female applicants only",
+      "Must be ready for immediate resumption"
+    ],
+    apply: 'Send your CV and Cover Letter to: <a href="mailto:buckeyepacificrecruit@gmail.com">buckeyepacificrecruit@gmail.com</a>'
+  },
+  {
+    id: "office-assistant-egbeda-lagos-2026",
+    title: "Office Assistant",
+    date: "2026-05-25",
+    location: "Egbeda, Lagos",
+    type: "Full-time",
+    seniority: "Junior",
+    salary: "Not Specified",
+    deadline: "Not Specified",
+    company: "Liyahthegiftcurator",
+    summary: "Office Assistant to support general office duties, requiring smartness, organization, and willingness to learn.",
+    responsibilities: [
+      "Support general office duties",
+      "Maintain office organization and cleanliness",
+      "Assist with administrative tasks as needed",
+      "Learn and adapt to new office procedures"
+    ],
+    requirements: [
+      "SSCE/OND qualification",
+      "Male or Female",
+      "Must reside around Egbeda and its environs",
+      "Smart, organised, and willing to learn"
+    ],
+    apply: 'Send CV to: <a href="mailto:liyahthegiftcurator@gmail.com">liyahthegiftcurator@gmail.com</a>'
+  },
+  {
+    id: "oil-gas-field-readiness-training-program-2026",
+    title: "Oil & Gas Field Readiness Training Program",
+    date: "2026-05-25",
+    location: "Nationwide",
+    type: "Internship",
+    seniority: "Junior",
+    salary: "Not Specified",
+    deadline: "26 May 2026",
+    company: "NCDMB (Nigerian Content Development and Monitoring Board)",
+    summary: "Training program for young Nigerian graduates in Operations & Maintenance and Digital Skills, positioning participants for internship and career opportunities in the energy sector.",
+    responsibilities: [
+      "Participate in specialized training in Operations & Maintenance and Digital Skills",
+      "Engage in practical sessions and theoretical learning relevant to the energy sector",
+      "Prepare for internship and career opportunities in Nigeria’s Oil & Gas sector"
+    ],
+    requirements: [
+      "Be below 30 years old",
+      "Hold an HND, BSc, or BEng in Engineering, Sciences, Technology, or related disciplines",
+      "Study any of the following: Electrical & Electronics Engineering, Mechanical & Mechatronics Engineering, Instrumentation & Control, Computer Science, System Engineering, or Computer Engineering."
+    ],
+    apply: 'Apply here: <a href="https://nogicjqs.gov.ng/auth/login?redirect=/accounts">https://nogicjqs.gov.ng/auth/login?redirect=/accounts</a>'
+  },
+  {
+    id: "customer-experience-officer-online-foodstuff-store-2026",
+    title: "Customer Experience Officer",
+    date: "2026-05-25",
+    location: "Lagos",
+    type: "Full-time",
+    seniority: "Junior",
+    salary: "Not Specified",
+    deadline: "Not Specified",
+    company: "Online Foodstuff Store Limited",
+    summary: "Customer Experience Officer to manage customer interactions, ensuring satisfaction and resolving issues efficiently.",
+    responsibilities: [
+      "Manage customer interactions, ensuring satisfaction and resolving issues efficiently."
+    ],
+    requirements: [
+      "Minimum of OND / HND / BSc. Degree in any related field.",
+      "Previous experience in customer service or customer experience role is an advantage.",
+      "Strong communication and interpersonal skills.",
+      "Good problem-solving and conflict resolution abilities.",
+      "Ability to work in a fast-paced environment.",
+      "Basic computer proficiency."
+    ],
+    apply: 'Send CV to: <a href="mailto:hr@foodstuff.store">hr@foodstuff.store</a> using the job title as the subject of the email.'
+  },
+  {
+    id: "quality-control-officer-water-treatment-allflavors-supreme-foods-2026",
+    title: "Quality Control Officer (Water Treatment)",
+    date: "2026-05-25",
+    location: "Lagos",
+    type: "Full-time",
+    seniority: "Mid-Level",
+    salary: "Not Specified",
+    deadline: "Not Specified",
+    company: "AllFlavors Supreme Foods",
+    summary: "Responsible for quality control, preferably in water treatment or food manufacturing, ensuring sound knowledge of water treatment processes and laboratory testing procedures.",
+    responsibilities: [
+      "Conduct quality control checks, preferably in water treatment or food manufacturing.",
+      "Ensure adherence to water treatment processes and laboratory testing procedures.",
+      "Apply knowledge of HACCP, GMP, and food safety management systems.",
+      "Maintain accurate documentation and analytical records."
+    ],
+    requirements: [
+      "Bachelor’s Degree or HND in Microbiology, Biochemistry, Chemistry, Food Science and Technology, Industrial Chemistry, or a related discipline.",
+      "Minimum of 2 years’ experience in quality control, preferably in water treatment or food manufacturing.",
+      "Sound knowledge of water treatment processes and laboratory testing procedures.",
+      "Familiarity with HACCP, GMP, and food safety management systems.",
+      "Strong analytical and documentation skills.",
+      "Proficiency in Microsoft Office applications."
+    ],
+    apply: 'Send CV to: <a href="mailto:qc@allflavors.odoo.com">qc@allflavors.odoo.com</a> using “Quality Control Officer (Water Treatment)” as the subject of the email.'
+  },
+  {
+    id: "hr-support-intern-nysc-lagos-2026",
+    title: "HR Support Intern (NYSC)",
+    date: "2026-05-25",
+    location: "Lagos",
+    type: "Internship",
+    seniority: "Junior",
+    salary: "Not Specified",
+    deadline: "Not Specified",
+    company: "Not Specified",
+    summary: "Proactive NYSC Corps Member to join our HR team as an intern, assisting with recruitment, scheduling, and HR documentation.",
+    responsibilities: [
+      "Assist with recruitment and candidate screening",
+      "Schedule interviews and manage applicant records",
+      "Support onboarding and HR documentation",
+      "Handle basic administrative tasks"
+    ],
+    requirements: [
+      "Currently serving (NYSC)",
+      "Good communication and organizational skills",
+      "Willing to learn and work in a fast-paced environment",
+      "Basic knowledge of HR is a plus",
+      "Available to attend a physical interview is a MUST"
+    ],
+    apply: 'Apply here: <a href="https://forms.gle/rJJYtadBxgfzPGzG6">https://forms.gle/rJJYtadBxgfzPGzG6</a>'
+  },
+  {
+    id: "bar-girl-lakowe-2026",
+    title: "Bar Girl",
+    date: "2026-05-25",
+    location: "Làkowe",
+    type: "Full-time",
+    seniority: "Junior",
+    salary: "150k",
+    deadline: "Not Specified",
+    company: "Hotel",
+    summary: "Bar Girl needed for a hotel in Làkowe, must reside within the Ibeju-Lekki axis.",
+    responsibilities: [
+      "Serve drinks to customers",
+      "Maintain cleanliness of the bar area",
+      "Handle cash and card transactions",
+      "Provide excellent customer service"
+    ],
+    requirements: [
+      "Only candidate who stay within the Ibeju-Lekkilekki axis should apply as there’s no accommodation"
+    ],
+    apply: 'Candidates should send their CVs to <a href="tel:07078195124">07078195124</a>.'
+  },
+  {
+    id: "graduate-trainee-it-gbagada-2026",
+    title: "Graduate Trainee (IT)",
+    date: "2026-05-25",
+    location: "Gbagada",
+    type: "Hybrid",
+    seniority: "Junior",
+    salary: "Not Specified",
+    deadline: "Not Specified",
+    company: "Hazon Holdings",
+    summary: "Motivated Graduate Trainee with an IT background to support our technical operations, eager to learn and thrive in a fast-paced environment while gaining hands-on experience across IT functions.",
+    responsibilities: [
+      "Assist with basic software and hardware troubleshooting.",
+      "Support system maintenance, installations, and updates.",
+      "Provide technical support to internal teams.",
+      "Maintain IT documentation and asset records.",
+      "Assist with network and system monitoring.",
+      "Support IT projects and perform other assigned tasks."
+    ],
+    requirements: [
+      "Bachelor’s Degree in IT, Computer Science, or related field.",
+      "0–1 year experience (NYSC experience acceptable).",
+      "Basic knowledge of hardware, software, and networking.",
+      "Proficiency in Microsoft Office tools.",
+      "Strong problem-solving and communication skills.",
+      "Willingness to learn and adapt quickly."
+    ],
+    apply: 'Interested candidates should send their CV and cover letter to <a href="mailto:recruitment@hazonholdings.com">recruitment@hazonholdings.com</a> with the subject “Graduate Trainee (IT)”.'
+  },
+  {
+    id: "lab-manager-lekki-lagos-2026",
+    title: "Lab Manager",
+    date: "2026-05-25",
+    location: "Lekki Lagos",
+    type: "Full time",
+    seniority: "Mid-Level",
+    salary: "500k",
+    deadline: "Not Specified",
+    company: "Diagnostic Lab",
+    summary: "Experienced Lab Manager to oversee daily operations of our diagnostic lab in Lekki, ensuring accuracy and compliance.",
+    responsibilities: [
+      "Manage lab processes from sample collection to reporting, ensuring accuracy and compliance.",
+      "Implement QC systems and maintain HEFAMAA/MLSCN standards.",
+      "Supervise and train lab staff, manage inventory, and handle equipment maintenance.",
+      "Liaise with clinical staff on urgent results and client enquiries."
+    ],
+    requirements: [
+      "BMLS, registered with MLSCN.",
+      "3+ years post-NYSC lab experience, 1+ year in a supervisory role.",
+      "Strong knowledge of hematology, chemistry, microbiology, serology.",
+      "Familiar with lab equipment and LIS/LIMS."
+    ],
+    apply: 'Send CV to <a href="mailto:osinmadea@gmail.com">osinmadea@gmail.com</a> Subject: Application – Lab Manager'
+  },
+  {
+    id: "business-development-executive-renewable-energy-2026",
+    title: "Business Development Executive",
+    date: "2026-05-25",
+    location: "Lagos",
+    type: "Full-Time",
+    seniority: "Mid-Level",
+    salary: "₦250,000 Monthly",
+    deadline: "Not Specified",
+    company: "Crystal Global",
+    summary: "Proactive and results-oriented Business Development Executive to drive business growth, generate new leads, and expand our client base within the renewable energy sector.",
+    responsibilities: [
+      "Identify and pursue new business opportunities across residential, commercial, and industrial sectors.",
+      "Generate qualified leads and build a robust sales pipeline.",
+      "Develop and maintain strong relationships with prospective and existing clients.",
+      "Conduct market research to identify customer needs, industry trends, and growth opportunities.",
+      "Prepare and deliver compelling business proposals and presentations.",
+      "Negotiate contracts and close deals to achieve revenue targets.",
+      "Collaborate with internal teams to ensure seamless project delivery and customer satisfaction.",
+      "Establish strategic partnerships with businesses, real estate developers, and other key stakeholders.",
+      "Maintain accurate records of sales activities and client interactions."
+    ],
+    requirements: [
+      "Bachelor’s degree in Business Administration, Marketing, Engineering, or a related field.",
+      "Minimum of 2–4 years of experience in business development, sales, or client acquisition.",
+      "Proven track record of meeting or exceeding sales targets.",
+      "Strong communication, negotiation, and relationship-building skills.",
+      "Experience managing B2B sales and corporate accounts.",
+      "Ability to work independently and drive business growth.",
+      "Experience in renewable energy, telecoms, fintech, or solution-based sales is an added advantage."
+    ],
+    apply: 'Interested and qualified candidates should send their CV to <a href="mailto:ifeoluwa.recruit1@gmail.com">ifeoluwa.recruit1@gmail.com</a> with the subject line “Business Development Executive – Renewable Energy”.'
+  },
+  {
+    id: "sustainability-esg-management-role-bua-foods-2026",
+    title: "Sustainability & ESG Management Role",
+    date: "2026-05-25",
+    location: "Lagos",
+    type: "Full-time",
+    seniority: "Senior",
+    salary: "Not Specified",
+    deadline: "May 27, 2026",
+    company: "BUA Foods Plc",
+    summary: "Experienced professional to lead ESG & sustainability strategy execution, drive initiatives, and support reporting & compliance within FMCG operations.",
+    responsibilities: [
+      "Lead ESG & sustainability strategy execution",
+      "Drive sustainability initiatives across business units",
+      "Support ESG reporting & compliance",
+      "Monitor sustainability KPIs and reporting metrics",
+      "Coordinate stakeholder & regulatory engagement",
+      "Support operational sustainability transformation"
+    ],
+    requirements: [
+      "B.Sc/HND in Environmental Science, Engineering, Economics, or related field",
+      "5–7 years ESG/sustainability experience",
+      "FMCG or manufacturing experience preferred",
+      "Knowledge of GRI, CDSB, UNGC & SASB frameworks",
+      "Strong analytical & reporting skills"
+    ],
+    apply: 'Apply: <a href="https://jobs.revicemycv.com/job/bua-foods-%E2%80%A6">jobs.revicemycv.com/job/bua-foods-…</a>'
+  },
+  {
+    id: "customer-care-agent-fresh-graduate-swift-networks-2026",
+    title: "Customer Care Agent (Fresh Graduate)",
+    date: "2026-05-25",
+    location: "Lagos",
+    type: "Full-time",
+    seniority: "Junior",
+    salary: "Not Specified",
+    deadline: "Not Specified",
+    company: "Swift Networks",
+    summary: "Fresh graduate with a 2:1 Bachelor’s degree to provide excellent customer service, manage conflicts, and utilize sales and marketing software.",
+    responsibilities: [
+      "Provide excellent customer service",
+      "Manage customer inquiries and resolve conflicts",
+      "Utilize sales and marketing software (CRM, Excel, Outlook)",
+      "Maintain professionalism in stressful situations",
+      "Communicate effectively and empathetically",
+      "Organize tasks efficiently"
+    ],
+    requirements: [
+      "Must have a 2:1 (Upper Credit) bachelor’s degree in sales, marketing, or a related field.",
+      "NYSC Fresh Graduate",
+      "Excellent customer service skills.",
+      "Strong conflict resolution skills.",
+      "In-depth knowledge of sales and marketing software, such as CRM, Excel, Outlook, etc.",
+      "Ability to remain calm and professional in stressful situations.",
+      "Advanced communication and interpersonal skills.",
+      "Empathy and patience.",
+      "Advanced organizational skills."
+    ],
+    apply: 'Send CV and a cover letter to: <a href="mailto:hr@swiftng.net">hr@swiftng.net</a> using the Job Title as the subject of the email.'
+  },
+  {
+    id: "administrative-intern-nysc-lekki-2026",
+    title: "Administrative Intern (NYSC)",
+    date: "2026-05-25",
+    location: "Lekki Phase 1, Lagos",
+    type: "Internship",
+    seniority: "Junior",
+    salary: "Not Specified",
+    deadline: "Not Specified",
+    company: "Rentachef",
+    summary: "NYSC Corps Member to support administrative tasks, documentation, and office operations.",
+    responsibilities: [
+      "Support administrative tasks and office operations",
+      "Assist in documentation and filing systems",
+      "Handle basic correspondence and records management",
+      "Support coordination of internal activities"
+    ],
+    requirements: [
+      "NYSC members without PPA",
+      "Degree in relevant field (English, Mass Communication, etc.)",
+      "Good communication and organizational skills",
+      "Proficiency in basic office tools is an advantage"
+    ],
+    apply: 'Send CV and Cover Letter to <a href="mailto:rentachefrecruit@gmail.com">rentachefrecruit@gmail.com</a> (Subject: Administrative Intern)'
+  },
+  {
+    id: "technical-sales-engineer-lagos-2026",
+    title: "Technical Sales Engineer",
+    date: "2026-05-25",
+    location: "Lagos",
+    type: "Full-time",
+    seniority: "Mid-Level",
+    salary: "Not Specified",
+    deadline: "Not Specified",
+    company: "HRLeverage Africa (for client in Engineering)",
+    summary: "Drive sales of Flowitec’s mechanical engineering solutions and services by combining technical expertise with strong sales skills. The role involves understanding customer requirements, developing tailored solutions, and building long-term client relationships to achieve revenue targets.",
+    responsibilities: [
+      "Identify and develop new business opportunities to meet and exceed sales targets.",
+      "Conduct market research to understand customer needs, industry trends, and competitive landscape.",
+      "Prepare and deliver technical presentations, proposals, and product demonstrations to clients.",
+      "Provide expert technical advice and recommend customized engineering solutions.",
+      "Collaborate with internal sales, engineering, and supply chain teams to design and deliver client-specific solutions.",
+      "Build, maintain, and strengthen relationships with new and existing clients.",
+      "Ensure effective after-sales support, addressing customer concerns and ensuring satisfaction.",
+      "Support marketing activities such as exhibitions, trade shows, and product showcases.",
+      "Maintain accurate records of sales activities, client interactions, and pipeline progress.",
+      "Prepare and submit weekly reports on sales performance, client visits, call plans, and market insights.",
+      "Monitor market trends, identify opportunities, and assess potential risks or competitive threats.",
+      "Provide continuous technical support throughout the sales cycle."
+    ],
+    requirements: [
+      "Bachelor’s degree in Mechanical Engineering or a related field.",
+      "At least 2 years experience in technical sales, preferably within the engineering or industrial sector.",
+      "Strong understanding of mechanical systems and engineering solutions.",
+      "Excellent communication, negotiation, and presentation skills.",
+      "Ability to translate complex technical concepts into clear customer solutions.",
+      "Strong problem-solving and analytical skills.",
+      "Ability to work independently and collaboratively within a team.",
+      "Proficiency in Microsoft Office and CRM tools."
+    ],
+    apply: 'Send CV to <a href="mailto:yomade.hrleverage@gmail.com">yomade.hrleverage@gmail.com</a> using the job title _”Technical Sales Engineer – Lagos”_ as the subject of mail.'
+  },
+  {
+    id: "program-manager-victoria-island-lagos-2026",
+    title: "Program Manager",
+    date: "2026-05-25",
+    location: "Victoria Island, Lagos",
+    type: "Full-time",
+    seniority: "Mid-Level",
+    salary: "Not Specified",
+    deadline: "Not Specified",
+    company: "Foundation",
+    summary: "Passionate and experienced Program Manager to drive the execution of impactful programs, manage events, oversee grant processes, and support our mission from the ground up.",
+    responsibilities: [
+      "Drive the execution of impactful programs",
+      "Manage events",
+      "Oversee grant processes",
+      "Support our mission from the ground up"
+    ],
+    requirements: [
+      "Previous experience in program management or coordination within an NGO or non-profit",
+      "Strong organisational, communication and stakeholder management skills",
+      "Ability to monitor, evaluate and report on program outcomes",
+      "Proficiency in Microsoft Office Suite",
+      "Discretion, reliability and a collaborative spirit"
+    ],
+    apply: 'Apply here: <a href="https://forms.gle/6R3LuNT4NM5BUVzY9">https://forms.gle/6R3LuNT4NM5BUVzY9</a>'
+  },
+  {
+    id: "management-trainee-university-press-plc-2026",
+    title: "Management Trainee",
+    date: "2026-05-25",
+    location: "Nationwide",
+    type: "Full-time",
+    seniority: "Junior",
+    salary: "Not Specified",
+    deadline: "May 29, 2026",
+    company: "University Press Plc",
+    summary: "University Press Plc is hiring for multiple positions including Management Trainee, Manager (Finance), Manager (Internal Audit), Manager (IT), Manager (Marketing), Manager (Personnel & Admin), Manager (Publishing), Manager (Distribution), Confidential Secretary, Manager (Marketing & Sales), Zonal Managers, HR Officer (Recruitment, Training & Benefits Management), Account Officers, Educational Sales Representatives (ESR).",
+    responsibilities: [
+      "Participate in structured training and development programs",
+      "Gain exposure to various departments and business functions",
+      "Contribute to projects and initiatives as assigned",
+      "Develop leadership and management skills"
+    ],
+    requirements: [
+      "Bachelor's Degree in a relevant field",
+      "Strong academic record",
+      "Excellent communication and interpersonal skills",
+      "Eagerness to learn and grow within the publishing industry"
+    ],
+    apply: 'Apply here: <a href="https://bit.ly/48YeU3k">bit.ly/48YeU3k</a>'
+  },
+  {
+    id: "hr-intern-volunteer-leam-consulting-2026",
+    title: "HR Intern – Volunteer",
+    date: "2026-05-25",
+    location: "Ibadan",
+    type: "Volunteer",
+    seniority: "Junior",
+    salary: "Unpaid (Volunteer Role)",
+    deadline: "Not Specified",
+    company: "LEAM Consulting Limited",
+    summary: "Volunteer HR Intern to support HR functions, requiring academic or professional certification in HR and residing close to the office.",
+    responsibilities: [
+      "Support various HR functions",
+      "Assist with administrative tasks",
+      "Learn and apply HR best practices"
+    ],
+    requirements: [
+      "Must reside close to our office in Ibadan.",
+      "Interested candidates must have an academic certificate in HR or a Professional Certification in HR.",
+      "No prior work experience required."
+    ],
+    apply: 'Send CV to: <a href="mailto:hiring@leamconsulting.com">hiring@leamconsulting.com</a> using the Job Title as the subject of the email.'
+  },
+  {
+    id: "executive-assistant-fortis-engineering-services-2026",
+    title: "Executive Assistant",
+    date: "2026-05-25",
+    location: "Lagos",
+    type: "Full-time",
+    seniority: "Senior",
+    salary: "Not Specified",
+    deadline: "25th May, 2026",
+    company: "Fortis Engineering Services",
+    summary: "Provide high-level administrative support to senior management, managing calendars, communications, and office operations.",
+    responsibilities: [
+      "Provide comprehensive administrative support to senior management",
+      "Manage executive calendars, schedule appointments, and coordinate travel arrangements",
+      "Prepare, edit, and format documents, reports, and presentations",
+      "Conduct research and data analysis as required",
+      "Liaise with clients, vendors, and internal team members",
+      "Handle confidential information with discretion"
+    ],
+    requirements: [
+      "Bachelor’s degree in Business Administration, Management, or a related field (preferred)",
+      "5+ years proven experience as an Executive Assistant or in a similar administrative role",
+      "Strong organizational and time-management skills",
+      "Excellent written and verbal communication skills",
+      "High level of professionalism and discretion",
+      "Proficiency in office software (e.g., Microsoft Office, Google Workspace, ERP)",
+      "Ability to multitask and work under pressure",
+      "Strong attention to detail and problem-solving skills"
+    ],
+    apply: 'Send CV to: <a href="mailto:admin@fortisengineering.net">admin@fortisengineering.net</a> on or before 25th May, 2026.'
+  },
+  {
+    id: "finance-trainee-ftp-2026-lagos-2026",
+    title: "Finance Trainee (FTP 2026)",
+    date: "2026-05-25",
+    location: "Lagos",
+    type: "Full-time",
+    seniority: "Junior",
+    salary: "Not Specified",
+    deadline: "31st May, 2026",
+    company: "TGI Distri Limited",
+    summary: "Structured trainee programme for new ICAN/ACA qualified candidates to build a strong pipeline of finance professionals with real business exposure and cross-functional learning.",
+    responsibilities: [
+      "Participate in a structured trainee programme that combines real business exposure with practical, cross-functional learning",
+      "Gain hands-on experience in various finance functions",
+      "Support financial operations and reporting",
+      "Develop skills for future finance leadership roles"
+    ],
+    requirements: [
+      "New ICAN/ACA qualified candidate, and ready to learn in a fast-paced environment."
+    ],
+    apply: 'Kindly send your CV to <a href="mailto:careers.tgidistri@clicktgi.net">careers.tgidistri@clicktgi.net</a> (Use “Finance Trainee 2026” as email subject)'
+  },
+  {
+    id: "business-analyst-remote-2026",
+    title: "Business Analyst",
+    date: "2026-05-25",
+    location: "Remote",
+    type: "Full-time",
+    seniority: "Mid-Level",
+    salary: "$120,000–150,000 USD/ year",
+    deadline: "Not Specified",
+    company: "Medallion/Aka First Layer AI",
+    summary: "Business Analyst with experience in data analytics or reporting, proficient in SQL and data visualization tools.",
+    responsibilities: [
+      "Analyze data to find insights driving real decisions",
+      "Build and maintain dashboards tracking key performance indicators",
+      "Collaborate with product, risk, and finance teams to define and measure KPIs",
+      "Support modelling of customer cohorts and LTV",
+      "Translate complex data into clear, concise recommendations"
+    ],
+    requirements: [
+      "3+ years of experience working in data analytics or reporting.",
+      "Proficient in writing SQL queries to extract and transform data for reporting.",
+      "Experience with Sigma, Tableau, Looker, and Metabase for data visualization and reporting."
+    ],
+    apply: 'Apply : <a href="https://job-boards.greenhouse.io/medallionakafirstlayerai/jobs/4208158009">https://job-boards.greenhouse.io/medallionakafirstlayerai/jobs/4208158009</a>'
+  },
+  {
+    id: "remote-research-intern-2026",
+    title: "Remote Research Intern",
+    date: "2026-05-25",
+    location: "Remote",
+    type: "Part-Time",
+    seniority: "Junior",
+    salary: "USD 600 Per Month (Stipend)",
+    deadline: "2026-05-18",
+    company: "CIVICUS",
+    summary: "Remote Research Intern for a 12-month part-time contract, supporting research activities.",
+    responsibilities: [
+      "Conduct research on assigned topics",
+      "Assist with data collection and analysis",
+      "Prepare research summaries and reports",
+      "Collaborate with the research team"
+    ],
+    requirements: [
+      "Strong analytical and research skills",
+      "Ability to work independently in a remote environment",
+      "Good written and verbal communication skills",
+      "Interest in the non-profit or advocacy sector"
+    ],
+    apply: 'Apply <a href="https://civicus.bamboohr.com/careers/78">https://civicus.bamboohr.com/careers/78</a>'
+  },
+  {
+    id: "head-of-marketing-corporate-communications-fintech-2026",
+    title: "Head of Marketing and Corporate Communications",
+    date: "2026-05-25",
+    location: "Lagos",
+    type: "Full-time",
+    seniority: "Senior",
+    salary: "1.5m – 1.8m monthly net",
+    deadline: "Not Specified",
+    company: "Fintech (Payments, Wallets, Digital Financial Services)",
+    summary: "Strategic and results-driven Head of Marketing and Corporate Communications to lead our marketing, brand, and growth agenda. The role will drive customer acquisition, engagement, and retention across digital channels while positioning the company as a leader in payments, wallets, and digital financial solutions.",
+    responsibilities: [
+      "Lead marketing, brand, and growth agenda",
+      "Drive customer acquisition, engagement, and retention across digital channels",
+      "Position the company as a leader in payments, wallets, and digital financial solutions"
+    ],
+    requirements: [
+      "10+ years’ marketing experience, including leadership experience",
+      "Strong background in fintech, payments, or digital banking",
+      "Proven expertise in digital/performance marketing and growth",
+      "Solid understanding of marketing analytics, CRM, and automation tools",
+      "Strong leadership, strategic thinking, and execution capability."
+    ],
+    apply: 'Apply here: <a href="https://forms.gle/cDE2Bf5127eXLjsn7">https://forms.gle/cDE2Bf5127eXLjsn7</a>'
+  },
+  {
+    id: "chief-commercial-officer-cco-lagos-bank-2026",
+    title: "Chief Commercial Officer (CCO)",
+    date: "2026-05-25",
+    location: "Lagos, Nigeria",
+    type: "Full-time",
+    seniority: "Senior",
+    salary: "Highly Attractive",
+    deadline: "Not Specified",
+    company: "Bank in Lagos, Nigeria",
+    summary: "Senior leadership role to drive commercial growth, including deposit mobilization, loan portfolio expansion, customer acquisition, and revenue generation across key segments.",
+    responsibilities: [
+      "Drive commercial growth, including deposit mobilization, loan portfolio expansion, customer acquisition, and revenue generation across key segments."
+    ],
+    requirements: [
+      "12–15 years of experience in microfinance, retail banking, or MSME banking",
+      "At least 5 years in senior leadership roles"
+    ],
+    apply: 'Apply here: <a href="https://forms.gle/KQToPFpoC8Y8Gfc6A">https://forms.gle/KQToPFpoC8Y8Gfc6A</a>'
+  },
+  {
+    id: "security-engineering-assurance-analyst-bank-2026",
+    title: "Security Engineering Assurance Analyst",
+    date: "2026-05-25",
+    location: "Lagos",
+    type: "Full-time",
+    seniority: "Mid-Level",
+    salary: "₦1.8m – ₦2m Monthly Net",
+    deadline: "Not Specified",
+    company: "Technology-driven Bank",
+    summary: "Security analyst focused on governing and assuring technology change and upholding security standards in a bank.",
+    responsibilities: [
+      "Assure security standards are upheld at every stage of technology delivery",
+      "Review technology change processes and approvals",
+      "Work within cross-functional teams for assurance setting",
+      "Document and communicate risks to stakeholders"
+    ],
+    requirements: [
+      "Prior experience in financial services, banking, or fintech",
+      "Exposure to governance, compliance, risk, or cybersecurity functions",
+      "Familiarity with PCI-DSS, ISO27001, or CBN-regulated environments",
+      "Experience working across cross-functional teams in a structured delivery or assurance setting",
+      "Strong analytical, documentation, and stakeholder communication skills",
+      "A proactive mindset with the ability to manage competing priorities and escalate risks effectively"
+    ],
+    apply: 'Apply here: <a href="https://forms.gle/9gdS8rnTs36ydsv49">https://forms.gle/9gdS8rnTs36ydsv49</a>'
+  },
+  {
+    id: "governance-project-assurance-lead-bank-2026",
+    title: "Governance Project Assurance Lead",
+    date: "2026-05-25",
+    location: "Lagos",
+    type: "Full-time",
+    seniority: "Senior",
+    salary: "₦1.8m – ₦2m Monthly Net",
+    deadline: "Not Specified",
+    company: "Technology-driven Bank",
+    summary: "Governance and assurance lead to ensure technology delivery standards are upheld at every stage in a high-growth banking environment.",
+    responsibilities: [
+      "Govern and assure technology change delivery",
+      "Ensure right processes, approvals, and security standards are upheld",
+      "Manage cross-functional teams in structured delivery",
+      "Escalate risks and manage competing priorities effectively"
+    ],
+    requirements: [
+      "Prior experience in financial services, banking, or fintech",
+      "Exposure to governance, compliance, risk, or cybersecurity functions",
+      "Familiarity with PCI-DSS, ISO27001, or CBN-regulated environments",
+      "Experience working across cross-functional teams in a structured delivery or assurance setting",
+      "Strong analytical, documentation, and stakeholder communication skills",
+      "A proactive mindset with the ability to manage competing priorities and escalate risks effectively"
+    ],
+    apply: 'Apply here: <a href="https://forms.gle/9gdS8rnTs36ydsv49">https://forms.gle/9gdS8rnTs36ydsv49</a>'
+  },
+  {
     id: "technical-sales-oil-gas-lagos-2026",
     title: "Technical Sales",
     date: "2026-05-23",

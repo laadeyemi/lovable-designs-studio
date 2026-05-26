@@ -16,6 +16,885 @@ export type Job = {
 
 const allJobs: Job[] = [
   {
+    id: "senior-manager-operations-renewable-energy-2026",
+    title: "Senior Manager, Operations",
+    date: "2026-05-26",
+    location: "Marwa, Lekki Phase 1, Lagos",
+    type: "Full-Time",
+    seniority: "Senior",
+    salary: "₦500,000 Monthly",
+    deadline: "Not Specified",
+    company: "A leading renewable energy and power company",
+    summary: "Experienced Senior Manager, Operations to oversee and optimize operational activities, drive efficiency, and support business growth within a renewable energy and power company.",
+    responsibilities: [
+      "Lead and manage daily operational activities across the organization",
+      "Develop and implement strategies to improve efficiency and productivity",
+      "Monitor project execution, resource allocation, and operational performance",
+      "Ensure compliance with industry regulations, safety standards, and company policies",
+      "Manage budgets, operational risks, and performance metrics",
+      "Collaborate with cross-functional teams to achieve business objectives"
+    ],
+    requirements: [
+      "Bachelor’s degree in operations management, Engineering, Business Administration, or a related field",
+      "Minimum of 6 years’ relevant experience, preferably within the renewable energy, power, engineering, or related sectors",
+      "Strong leadership and team management skills",
+      "Proven experience in process improvement and operational planning",
+      "Excellent analytical, problem-solving, and communication skills"
+    ],
+    apply: 'Interested and qualified candidates should send their CVs to <a href="https://forms.gle/SKXapJa8X45LN9Fd6">https://forms.gle/SKXapJa8X45LN9Fd6</a>'
+  },
+  {
+    id: "team-lead-corporate-finance-ikoyi-2026",
+    title: "Team Lead, Corporate Finance",
+    date: "2026-05-26",
+    location: "Ikoyi, Lagos",
+    type: "Full-Time",
+    seniority: "Senior",
+    salary: "₦1,800,000 – ₦2,500,000 Gross Monthly + 13th Month",
+    deadline: "Not Specified",
+    company: "A leading financial services and advisory firm",
+    summary: "Highly experienced professional to lead its Corporate Finance & Advisory team and drive transaction execution, client acquisition, and revenue growth.",
+    responsibilities: [
+      "Develop and maintain strong relationships with corporates, institutional investors, regulators, and key market stakeholders",
+      "Identify opportunities for mergers & acquisitions, capital raising, restructuring, project finance, and transaction advisory services",
+      "Lead proposal development, client pitches, and transaction negotiations",
+      "Drive profitability and revenue targets for the Corporate Finance & Advisory business",
+      "Provide strategic financial advisory support to clients across various sectors",
+      "Lead and mentor high-performing finance and advisory teams"
+    ],
+    requirements: [
+      "7–10 years’ relevant experience in Corporate Finance, Transaction Advisory, or Financial Advisory",
+      "Bachelor’s degree in Finance, Accounting, Economics, Business Administration, or related discipline",
+      "MBA or relevant postgraduate qualification is an advantage",
+      "Professional certifications such as ACA, ACCA, CFA, or CIS are required",
+      "Strong deal execution, financial modelling, and stakeholder management skills",
+      "Excellent presentation, negotiation, and business development abilities"
+    ],
+    apply: 'Interested and qualified candidates should send their CV to: <a href="mailto:ifeoluwa.recruit1@gmail.com">ifeoluwa.recruit1@gmail.com</a> Subject of the email: Team Lead, Corporate Finance'
+  },
+  {
+    id: "sales-officer-seedforce-lagos-2026",
+    title: "Sales Officer",
+    date: "2026-05-26",
+    location: "Ayobo, Egbeda, Iyana Iba, Mushin, Oshodi, Ikeja, Yaba, Sabo, Tejuosho, Oyingbo, Bariga, Benson, Agege, Berger, Agbado, Sango, Ifo, Ibafo, Mowe, Ogijo, Ajah, Sangotedo, Eleko, Festac, Alaba, Agbara, Iyana Iyesi, Ijegun, Ilepo, Agric, Mile 12. (Deployment to the nearest bank branch)",
+    type: "Full-time",
+    seniority: "Junior",
+    salary: "₦120,000 net + unlimited commission, HMO, transport support, and other incentives.",
+    deadline: "Not Specified",
+    company: "SeedForce",
+    summary: "Seeking proactive and target-driven individuals passionate about community engagement, financial inclusion, and field operations to join the SeedForce team in Lagos.",
+    responsibilities: [
+      "Drive financial inclusion in local communities",
+      "Onboard clients into informal savings systems (Ajo/Esusu)",
+      "Achieve field sales targets and manage collections"
+    ],
+    requirements: [
+      "Experience in field operations, microfinance, cooperative systems, or related roles",
+      "Strong understanding of informal savings systems like Ajo/Esusu"
+    ],
+    apply: 'Apply here: <a href="https://forms.gle/SdtZitnqZxRiY5Zq5">https://forms.gle/SdtZitnqZxRiY5Zq5</a>'
+  },
+  {
+    id: "male-factory-workers-beverage-isolo-2026",
+    title: "Male Factory Workers",
+    date: "2026-05-26",
+    location: "Isolo, Lagos",
+    type: "Full-time",
+    seniority: "Junior",
+    salary: "₦65,000 – ₦70,000 Gross Monthly Salary + Allowances",
+    deadline: "Not Specified",
+    company: "A reputable beverage company",
+    summary: "Urgently recruiting Male Factory Workers to support its production and distribution operations in Isolo, Lagos.",
+    responsibilities: [
+      "Empty and replace bottles during production",
+      "Pack finished products for distribution",
+      "Move and organize products within the factory",
+      "Load and offload goods for delivery",
+      "Restock products as required",
+      "Maintain cleanliness and comply with safety regulations",
+      "Support other factory operations as assigned"
+    ],
+    requirements: [
+      "No educational qualification required",
+      "Must be physically fit and strong",
+      "Ability to lift and move heavy products",
+      "Willingness to work shifts, including night shifts and overtime",
+      "Hardworking, disciplined, and reliable",
+      "Must reside in Isolo or nearby areas (very important)"
+    ],
+    apply: 'Send CV to: <a href="mailto:secomltd1@gmail.com">secomltd1@gmail.com</a> Or WhatsApp: <a href="https://wa.me/2348080635669">08080635669</a> Use “Factory Worker” as the subject of your application.'
+  },
+  {
+    id: "female-live-in-domestic-staff-ikoyi-vi-2026",
+    title: "Female Live-in Domestic Staff",
+    date: "2026-05-26",
+    location: "Ikoyi/VI Axis, Lagos",
+    type: "Full-time",
+    seniority: "Junior",
+    salary: "₦80,000",
+    deadline: "Not Specified",
+    company: "Not Specified",
+    summary: "Seeking a female live-in domestic staff for a client in Ikoyi/VI, responsible for cleaning, childcare, cooking, and errands. Must not be Yoruba or Hausa.",
+    responsibilities: [
+      "Cleaning the house, arranging and washing clothes",
+      "Taking care of her child",
+      "Cooking (must know how to cook very well)",
+      "Running errands for the Client when needed"
+    ],
+    requirements: [
+      "Age range is between 20 and 23",
+      "NO YORUBA. NO HAUSA.",
+      "Must know how to cook very well",
+      "Must love children",
+      "Not rude and lazy"
+    ],
+    apply: 'Whatsapp ONLY <a href="https://wa.me/2348083295414">08083295414</a>'
+  },
+  {
+    id: "service-quality-officer-sqi-audit-control-2026",
+    title: "Service Quality Officer (SQI)",
+    date: "2026-05-26",
+    location: "Not Specified",
+    type: "Full-time",
+    seniority: "Mid-Level",
+    salary: "Not Specified",
+    deadline: "Not Specified",
+    company: "VDT Communications",
+    summary: "Seeking a competent and results-driven Service Quality Officer (SQI) to join our Audit & Control team, driving service excellence, process improvement, and compliance.",
+    responsibilities: [
+      "Develop and implement strategies for continuous process improvement",
+      "Ensure alignment of operational processes with organizational goals and business scorecard objectives",
+      "Monitor and enforce compliance with Operational Level Agreements (OLAs) across departments",
+      "Establish, implement, and maintain the Service Quality Management System across the organization",
+      "Plan and coordinate periodic audits of service quality systems and processes"
+    ],
+    requirements: [
+      "Bachelor’s Degree or HND in a relevant field",
+      "Relevant professional certifications such as CCNA, ITIL, SQA, Six Sigma, or other quality assurance/control certifications",
+      "Additional certifications such as ISO 9001 Lead Auditor, ISO 20000-1:2018 Lead Implementer, or ISO 27001 Lead Implementer will be an added advantage",
+      "Minimum of 3 years’ experience in Banking, FMCG, Telecommunications, or Technology Consulting within a large organization",
+      "Proven experience in governance structures, audit processes, IT quality frameworks, and quality assurance/control",
+      "At least 2 years of supervisory or team management experience",
+      "Strong analytical and problem-solving skills",
+      "Effective leadership and team management abilities",
+      "Sound knowledge of quality improvement methodologies",
+      "Excellent communication and interpersonal skills",
+      "Strong data analysis, interpretation, and reporting skills",
+      "High attention to detail with a process-driven mindset"
+    ],
+    apply: 'Interested and qualified candidates should send their CV to <a href="mailto:recruitment@vdtcomms.com">recruitment@vdtcomms.com</a> Using “Service Quality Officer (SQI)” as the subject of the email'
+  },
+  {
+    id: "executive-driver-surulere-2026",
+    title: "Executive driver",
+    date: "2026-05-26",
+    location: "Surulere, Lagos",
+    type: "Full-time",
+    seniority: "Mid-Level",
+    salary: "₦100,000 - ₦110,000",
+    deadline: "Not Specified",
+    company: "Not Specified",
+    summary: "Seeking a reliable executive driver for a role in Surulere, Lagos, responsible for safe and efficient transportation, vehicle maintenance, and excellent customer service.",
+    responsibilities: [
+      "Drive safely and efficiently",
+      "Pick up and drop off passengers",
+      "Maintain vehicle cleanliness",
+      "Provide excellent customer service"
+    ],
+    requirements: [
+      "Valid driver’s license",
+      "Proven driving experience (school experience a plus)",
+      "Good communication skills",
+      "Familiarity with road signs and network"
+    ],
+    apply: 'To apply send CV to <a href="mailto:recruitmentwithjoy@gmail.com">recruitmentwithjoy@gmail.com</a>'
+  },
+  {
+    id: "nysc-intern-operations-export-logistics-sagamu-2026",
+    title: "NYSC Intern (Operations & Export Logistics Support)",
+    date: "2026-05-26",
+    location: "Sagamu, Ogun State (8km from Redemption Camp)",
+    type: "Internship",
+    seniority: "Junior",
+    salary: "₦70,000",
+    deadline: "Not Specified",
+    company: "Not Specified",
+    summary: "Seeking a serving NYSC Corps Member to support operations, export logistics, and finance functions within an agribusiness and commodity trading environment at our Sagamu warehouse.",
+    responsibilities: [
+      "Verification of supplier invoices, particularly bank account details to ensure accuracy and compliance",
+      "Maintaining accurate records of payments, bank details, KYC documents, and other regulatory registrations of suppliers",
+      "Tracking and monitoring operational expenses related to sourcing, processing, and logistics activities",
+      "Preparation of container-wise Certificates of Quality for export shipments",
+      "Preparation of packing lists and verification of VGM (Verified Gross Mass) weights for shipments in line with export requirements",
+      "Tracking of stuffed containers to port, including monitoring of container seals and shipment movement",
+      "Supporting day-to-day warehouse, logistics, and export documentation activities as assigned"
+    ],
+    requirements: [
+      "Must be a serving NYSC Corps Member",
+      "Must have at least 8 months left",
+      "HND / B.Sc. in Accounting, Finance, Business Administration, Economics, Supply Chain Management, Logistics, Agricultural Economics, or any related field",
+      "Strong attention to detail and accuracy, especially in documentation and financial records",
+      "Basic knowledge of Microsoft Office tools (Excel, Word)",
+      "Good organizational and record-keeping skills",
+      "Willingness to learn and adapt in a fast-paced, operations-driven environment",
+      "Good communication and interpersonal skills"
+    ],
+    apply: 'Qualified candidates should send their CV to <a href="mailto:cv@ascentech.com.ng">cv@ascentech.com.ng</a> using NYSC-17 as the subject'
+  },
+  {
+    id: "data-mining-email-marketing-intern-remote-2026",
+    title: "Data Mining & Email Marketing Intern",
+    date: "2026-05-26",
+    location: "Remote",
+    type: "Internship",
+    seniority: "Junior",
+    salary: "Not Specified",
+    deadline: "Not Specified",
+    company: "The GAO Group, USA & Canada",
+    summary: "Seeking a motivated Data Mining & Email Marketing Intern to gain hands-on experience in digital marketing with a focus on data mining, database management, audience segmentation, and performance analysis.",
+    responsibilities: [
+      "Conduct data mining and extraction from various sources to build and maintain high-quality email databases",
+      "Clean, validate, and organize large datasets to ensure accuracy and usability",
+      "Assist in segmenting audiences based on behavior, demographics, and engagement patterns",
+      "Support the planning and execution of data-driven email campaigns",
+      "Analyze campaign data (open rates, click-through rates, conversions) to identify trends and insights",
+      "Perform A/B testing using data insights to optimize campaign performance",
+      "Generate reports and dashboards to present findings and recommendations",
+      "Collaborate with the HR team to align data strategies with business goals"
+    ],
+    requirements: [
+      "Currently pursuing or recently completed a degree in any field",
+      "Basic knowledge of data mining, data analysis, or database management",
+      "Familiarity with tools such as Excel, Google Sheets, or basic SQL (preferred)",
+      "Strong analytical and problem-solving skills",
+      "Good written and verbal communication skills",
+      "Detail-oriented with strong organizational abilities",
+      "Interest in data-driven marketing and digital analytics"
+    ],
+    apply: 'Send your resume to <a href="mailto:nkechipeter08@gmail.com">nkechipeter08@gmail.com</a> Subject: Data Mining and Email Marketing Internship'
+  },
+  {
+    id: "driver-ikoyi-lagos-2026",
+    title: "Driver",
+    date: "2026-05-26",
+    location: "Ikoyi, Lagos",
+    type: "Full-time",
+    seniority: "Mid-Level",
+    salary: "₦150,000",
+    deadline: "Not Specified",
+    company: "Not Specified",
+    summary: "Urgently seeking a reliable and experienced driver for a role based in Ikoyi, Lagos. Proximity to Ikoyi is very important.",
+    responsibilities: [
+      "Drive safely and efficiently",
+      "Maintain vehicle cleanliness and perform basic checks",
+      "Follow road safety rules and traffic regulations",
+      "Provide timely transportation services"
+    ],
+    requirements: [
+      "Proximity to Ikoyi is very important",
+      "Must have a valid driver’s license",
+      "Good knowledge of Lagos roads",
+      "Must be able to communicate clearly in English",
+      "Minimum of 3 years experience",
+      "Must be able to provide guarantors and can start immediately"
+    ],
+    apply: "Not Specified (Referral based)"
+  },
+  {
+    id: "cashier-bao-bao-house-lekki-2026",
+    title: "Cashier",
+    date: "2026-05-26",
+    location: "Lekki Phase 1, Lagos",
+    type: "Full-time",
+    seniority: "Junior",
+    salary: "₦150,000/month",
+    deadline: "Not Specified",
+    company: "Bao Bao House",
+    summary: "Seeking a friendly, reliable Cashier to join Bao Bao House in Lekki Phase 1, Lagos, responsible for customer orders, payments, and delivery coordination.",
+    responsibilities: [
+      "Take customer orders and process payments",
+      "Manage WhatsApp, Glovo, and Chowdeck orders",
+      "Pack orders and coordinate deliveries",
+      "Handle customer inquiries professionally",
+      "Reconcile daily transactions"
+    ],
+    requirements: [
+      "Cashier or customer service experience preferred",
+      "Good communication skills",
+      "Familiarity with POS systems and digital payments",
+      "Honest, organized, and detail-oriented"
+    ],
+    apply: 'Interested candidates should send their CVs <a href="https://forms.gle/Se1ptQaM1x4UdfKb9">https://forms.gle/Se1ptQaM1x4UdfKb9</a>'
+  },
+  {
+    id: "supermarket-cashier-ikorodu-2026",
+    title: "Cashier (Supermarket)",
+    date: "2026-05-26",
+    location: "Ikorodu, Lagos",
+    type: "Full-time",
+    seniority: "Junior",
+    salary: "₦70,000 + Accommodation",
+    deadline: "Not Specified",
+    company: "A fast-growing supermarket",
+    summary: "A fast-growing supermarket in Ikorodu is recruiting experienced and reliable Cashiers to support its operations.",
+    responsibilities: [
+      "Handle cash and card transactions accurately",
+      "Provide good customer service",
+      "Maintain cleanliness and organization at the till area"
+    ],
+    requirements: [
+      "Prior cashier experience",
+      "Accuracy in handling transactions",
+      "Good customer service skills",
+      "Must have relevant work experience in a supermarket or retail environment",
+      "Must be responsible, trustworthy, and hardworking",
+      "Ability to work in a fast-paced environment",
+      "Good communication and interpersonal skills"
+    ],
+    apply: 'Interested and qualified candidates should apply below <a href="https://lnkd.in/gmiSs9Zm">https://lnkd.in/gmiSs9Zm</a>'
+  },
+  {
+    id: "supermarket-floor-attendant-ikorodu-2026",
+    title: "Floor Attendant (Supermarket)",
+    date: "2026-05-26",
+    location: "Ikorodu, Lagos",
+    type: "Full-time",
+    seniority: "Junior",
+    salary: "₦80,000 + Accommodation",
+    deadline: "Not Specified",
+    company: "A fast-growing supermarket",
+    summary: "A fast-growing supermarket in Ikorodu is recruiting an experienced and reliable Floor Attendant to maintain store cleanliness and organization.",
+    responsibilities: [
+      "Maintain cleanliness and orderliness of the supermarket floor",
+      "Assist customers with product location",
+      "Ensure shelves are well-stocked and tidy"
+    ],
+    requirements: [
+      "Experience in cleaning",
+      "Must have relevant work experience in a supermarket or retail environment",
+      "Must be responsible, trustworthy, and hardworking",
+      "Ability to work in a fast-paced environment",
+      "Good communication and interpersonal skills"
+    ],
+    apply: 'Interested and qualified candidates should apply below <a href="https://lnkd.in/gmiSs9Zm">https://lnkd.in/gmiSs9Zm</a>'
+  },
+  {
+    id: "supermarket-cleaner-ikorodu-2026",
+    title: "Cleaner (Supermarket)",
+    date: "2026-05-26",
+    location: "Ikorodu, Lagos",
+    type: "Full-time",
+    seniority: "Junior",
+    salary: "₦80,000 + Accommodation",
+    deadline: "Not Specified",
+    company: "A fast-growing supermarket",
+    summary: "A fast-growing supermarket in Ikorodu is recruiting an experienced and reliable Cleaner to maintain hygiene standards.",
+    responsibilities: [
+      "Perform general cleaning duties within the supermarket premises",
+      "Ensure all areas are tidy and hygienic",
+      "Manage cleaning supplies efficiently"
+    ],
+    requirements: [
+      "Experience in cleaning",
+      "Must have relevant work experience in a supermarket or retail environment",
+      "Must be responsible, trustworthy, and hardworking",
+      "Ability to work in a fast-paced environment",
+      "Good communication and interpersonal skills"
+    ],
+    apply: 'Interested and qualified candidates should apply below <a href="https://lnkd.in/gmiSs9Zm">https://lnkd.in/gmiSs9Zm</a>'
+  },
+  {
+    id: "accountant-renewable-energy-lekki-2026",
+    title: "Accountant (ICAN/ACCA Chartered)",
+    date: "2026-05-26",
+    location: "Marwa, Lekki Phase 1, Lagos",
+    type: "Full-Time",
+    seniority: "Mid-Level",
+    salary: "₦400,000 Monthly",
+    deadline: "Not Specified",
+    company: "Renewable Energy / Power",
+    summary: "Seeking a qualified and experienced Chartered Accountant to join a growing renewable energy/Power company, overseeing financial activities, reporting, and compliance.",
+    responsibilities: [
+      "Prepare and analyze financial reports",
+      "Manage accounts payable, receivable, and reconciliations",
+      "Oversee tax filings and statutory remittances",
+      "Monitor budgets, cash flow, and financial performance",
+      "Ensure compliance with accounting standards and regulatory requirements",
+      "Support audits and provide financial insights to management"
+    ],
+    requirements: [
+      "Bachelor’s degree in accounting, Finance, or a related field",
+      "Must be a Chartered Accountant (ICAN, ACA, or ACCA)",
+      "Minimum of 4 years’ accounting experience",
+      "Strong knowledge of financial reporting, taxation, budgeting, and compliance",
+      "Proficiency in accounting software and Microsoft Excel",
+      "Excellent analytical and problem-solving skills"
+    ],
+    apply: 'Interested and qualified candidates should apply below <a href="https://lnkd.in/ezRQQjGR">https://lnkd.in/ezRQQjGR</a>'
+  },
+  {
+    id: "cost-inventory-officer-surulere-2026",
+    title: "Cost/Inventory Officer",
+    date: "2026-05-26",
+    location: "Surulere, Lagos",
+    type: "Full-time",
+    seniority: "Junior",
+    salary: "₦170,000-200,000",
+    deadline: "Not Specified",
+    company: "Not Specified",
+    summary: "Seeking a Cost/Inventory Officer to monitor and manage inventory levels, maintain accurate records, and prepare reports for management review.",
+    responsibilities: [
+      "Monitor and manage inventory levels across the campus",
+      "Maintain accurate records of stock movement (inflow and outflow)",
+      "Work closely with procurement and accounts teams on stock-related matters",
+      "Prepare inventory and cost reports for management review",
+      "Identify and report variances, wastage, or inefficiencies",
+      "Ensure compliance with internal control procedures",
+      "Other duties as assigned"
+    ],
+    requirements: [
+      "B.Sc or HND in Accounting, Finance, or a related field",
+      "Minimum of 1-2 years experience in inventory or cost management accounting",
+      "Strong analytical and numerical skills",
+      "Proficiency in Microsoft Office (especially Excel)",
+      "Knowledge of accounting or inventory management systems (e.g., Xero ERP) is an added advantage",
+      "Good communication and teamwork skills"
+    ],
+    apply: 'Interested candidates should click on the link below to apply: <a href="https://forms.gle/M9ei8BWnH2FhHd5FA">https://forms.gle/M9ei8BWnH2FhHd5FA</a>'
+  },
+  {
+    id: "primary-school-english-teacher-surulere-2026",
+    title: "Primary School English Teacher",
+    date: "2026-05-26",
+    location: "Surulere, Lagos",
+    type: "Full-time",
+    seniority: "Mid-Level",
+    salary: "Not Specified",
+    deadline: "Not Specified",
+    company: "A leading Nigerian school",
+    summary: "A leading Nigerian school offering a blended Nigerian and Cambridge curriculum is seeking an exceptional Primary School English Teacher.",
+    responsibilities: [
+      "Design and deliver engaging daily lesson plans aligned with national, local, and school English language standards",
+      "Teach core English skills, including reading, writing, speaking, listening, grammar, phonics, comprehension, and vocabulary development",
+      "Enrich classroom learning with interactive activities such as storytelling, debates, role play, guided reading, and creative writing exercises",
+      "Use a variety of instructional methods such as discussions, direct instruction, group work, and independent practice",
+      "Differentiate instruction to meet the diverse learning needs, abilities, and interests of pupils",
+      "Assess student performance through observations, written assignments, oral presentations, projects, and standardized assessments"
+    ],
+    requirements: [
+      "Bachelor’s degree in English, English Education, or a related field",
+      "Valid teaching certification",
+      "Knowledge and experience with the British Curriculum",
+      "Proficiency in the use of interactive/smart boards and digital learning tools"
+    ],
+    apply: 'Interested candidates should click on the link below to apply: <a href="https://forms.gle/757FWH4FP7VKDsPH8">https://forms.gle/757FWH4FP7VKDsPH8</a>'
+  },
+  {
+    id: "primary-school-mathematics-teacher-surulere-2026",
+    title: "Primary School Mathematics Teacher",
+    date: "2026-05-26",
+    location: "Surulere, Lagos",
+    type: "Full-time",
+    seniority: "Mid-Level",
+    salary: "Not Specified",
+    deadline: "Not Specified",
+    company: "A leading Nigerian school",
+    summary: "A leading Nigerian school offering a blended Nigerian and Cambridge curriculum is seeking an exceptional Primary School Mathematics Teacher.",
+    responsibilities: [
+      "Understanding curriculum requirements and creating lesson plans and educational content that satisfy these requirements",
+      "Develop age-appropriate lesson plans and instructional materials that support foundational numeracy skills",
+      "Use interactive and creative teaching methods to foster interest in Mathematics",
+      "Prepare pupils for internal and external assessments, including checkpoint exams and Mathematics competitions where applicable",
+      "Maintain a positive, inclusive, and well-managed classroom environment"
+    ],
+    requirements: [
+      "Bachelor’s degree in Mathematics, Education, or a related discipline",
+      "A recognized teaching qualification (e.g., PGDE, PGCE, or equivalent)",
+      "Strong understanding of international curricula (e.g., British Curriculum, Cambridge Primary)",
+      "Excellent classroom management and communication skills",
+      "Patience, creativity, and a passion for working with young learners",
+      "TRCN certification is an added advantage"
+    ],
+    apply: 'Interested candidates should click on the link below to apply: <a href="https://forms.gle/757FWH4FP7VKDsPH8">https://forms.gle/757FWH4FP7VKDsPH8</a>'
+  },
+  {
+    id: "secondary-school-civic-education-teacher-surulere-2026",
+    title: "Secondary School Civic Education Teacher",
+    date: "2026-05-26",
+    location: "Surulere, Lagos",
+    type: "Full-time",
+    seniority: "Mid-Level",
+    salary: "Not Specified",
+    deadline: "Not Specified",
+    company: "A leading Nigerian school",
+    summary: "A leading Nigerian school offering a blended Nigerian and Cambridge curriculum is seeking an exceptional Secondary School Civic Education Teacher.",
+    responsibilities: [
+      "Plan and deliver Civic Education lessons in line with curriculum standards",
+      "Promote civic responsibility, values, and national awareness among students",
+      "Assess students’ progress and provide constructive feedback",
+      "Adapt teaching methods to suit diverse learning needs",
+      "Prepare students for WAEC examinations and internal assessments",
+      "Maintain effective classroom management and discipline"
+    ],
+    requirements: [
+      "Degree in Political Science, Civic Education, or a related field",
+      "Relevant teaching certification may be required",
+      "Strong communication and classroom management skills",
+      "Ability to engage and motivate students",
+      "TRCN certification is an added advantage"
+    ],
+    apply: 'Interested candidates should click on the link below to apply: <a href="https://forms.gle/757FWH4FP7VKDsPH8">https://forms.gle/757FWH4FP7VKDsPH8</a>'
+  },
+  {
+    id: "experienced-marketer-ogba-ikeja-lagos-2026",
+    title: "Experienced Marketer",
+    date: "2026-05-26",
+    location: "Ogba, Ikeja, Lagos",
+    type: "Full-time",
+    seniority: "Mid-Level",
+    salary: "Not Specified",
+    deadline: "Not Specified",
+    company: "Not Specified",
+    summary: "Seeking a smart, result-driven, and experienced Marketer to join a growing team, focusing on sales, lead generation, customer relationships, and business growth.",
+    responsibilities: [
+      "Drive sales and marketing efforts",
+      "Generate leads and build customer relationships",
+      "Drive business growth and achieve targets"
+    ],
+    requirements: [
+      "Minimum of 2–3 years marketing experience",
+      "Strong communication and negotiation skills",
+      "Experience in sales, digital marketing, or customer acquisition is an advantage",
+      "Ability to meet sales targets and work independently"
+    ],
+    apply: 'Send your CV to: <a href="mailto:infor.uninetworktech@gmail.com">infor.uninetworktech@gmail.com</a> or <a href="tel:+2349121311594">+234 912 131 1594</a>'
+  },
+  {
+    id: "data-analyst-ikeja-lagos-2026",
+    title: "Data Analyst",
+    date: "2026-05-26",
+    location: "Ikeja, Lagos",
+    type: "Full-time",
+    seniority: "Mid-Level",
+    salary: "Not Specified",
+    deadline: "Not Specified",
+    company: "Not Specified",
+    summary: "Seeking a smart and detail-oriented Data Analyst skilled in Excel, Power BI/Tableau, SQL, and capable of translating data into actionable business insights.",
+    responsibilities: [
+      "Analyze data to find insights driving real decisions",
+      "Build and maintain dashboards tracking key performance indicators",
+      "Translate complex data into clear, concise recommendations"
+    ],
+    requirements: [
+      "Minimum of 3 years experience",
+      "Experience in e-commerce/startup environment is an advantage",
+      "Strong analytical and reporting skills required",
+      "Skilled in Excel, Power BI/Tableau, SQL"
+    ],
+    apply: 'Send your CV, cover letter & portfolio to: <a href="mailto:hr@msc.store">hr@msc.store</a>'
+  },
+  {
+    id: "electrical-electronics-engineer-oil-gas-phc-lagos-2026",
+    title: "Electrical/Electronics Engineer",
+    date: "2026-05-26",
+    location: "Port Harcourt (PHC), Lagos",
+    type: "Full-time",
+    seniority: "Mid-Level",
+    salary: "Not Specified",
+    deadline: "Not Specified",
+    company: "Chesroc",
+    summary: "Seeking a qualified and experienced Electrical/Electronics Engineer for Oil & Gas Operations, with strong knowledge of plant operations, maintenance, and troubleshooting.",
+    responsibilities: [
+      "Support plant operations, maintenance, and troubleshooting related to electrical/electronics systems",
+      "Ensure compliance with HSE standards and operational procedures",
+      "Work effectively in a team environment and under pressure",
+      "Provide excellent communication and reporting"
+    ],
+    requirements: [
+      "Minimum of 3–5 years’ experience in Oil & Gas Operations",
+      "Strong knowledge of plant operations, maintenance, and troubleshooting",
+      "Experience working in upstream, midstream, or downstream operations is an added advantage",
+      "Good understanding of HSE standards and operational procedures",
+      "Ability to work effectively in a team environment and under pressure",
+      "Excellent communication and reporting skills",
+      "Bachelor’s Degree or HND in Electrical/Electronics Engineering",
+      "Relevant professional certifications will be an added advantage"
+    ],
+    apply: 'Qualified candidates should send their CV to: <a href="mailto:hr@chesroc.com">hr@chesroc.com</a>'
+  },
+  {
+    id: "mechanical-engineer-oil-gas-phc-lagos-2026",
+    title: "Mechanical Engineer",
+    date: "2026-05-26",
+    location: "Port Harcourt (PHC), Lagos",
+    type: "Full-time",
+    seniority: "Mid-Level",
+    salary: "Not Specified",
+    deadline: "Not Specified",
+    company: "Chesroc",
+    summary: "Seeking a qualified and experienced Mechanical Engineer for Oil & Gas Operations, with strong knowledge of plant operations, maintenance, and troubleshooting.",
+    responsibilities: [
+      "Support plant operations, maintenance, and troubleshooting related to mechanical systems",
+      "Ensure compliance with HSE standards and operational procedures",
+      "Work effectively in a team environment and under pressure",
+      "Provide excellent communication and reporting"
+    ],
+    requirements: [
+      "Minimum of 3–5 years’ experience in Oil & Gas Operations",
+      "Strong knowledge of plant operations, maintenance, and troubleshooting",
+      "Experience working in upstream, midstream, or downstream operations is an added advantage",
+      "Good understanding of HSE standards and operational procedures",
+      "Ability to work effectively in a team environment and under pressure",
+      "Excellent communication and reporting skills",
+      "Bachelor’s Degree or HND in Mechanical Engineering",
+      "Relevant professional certifications will be an added advantage"
+    ],
+    apply: 'Qualified candidates should send their CV to: <a href="mailto:hr@chesroc.com">hr@chesroc.com</a>'
+  },
+  {
+    id: "instrumentation-engineer-oil-gas-phc-lagos-2026",
+    title: "Instrumentation Engineer",
+    date: "2026-05-26",
+    location: "Port Harcourt (PHC), Lagos",
+    type: "Full-time",
+    seniority: "Mid-Level",
+    salary: "Not Specified",
+    deadline: "Not Specified",
+    company: "Chesroc",
+    summary: "Seeking a qualified and experienced Instrumentation Engineer for Oil & Gas Operations, with strong knowledge of plant operations, maintenance, and troubleshooting.",
+    responsibilities: [
+      "Support plant operations, maintenance, and troubleshooting related to instrumentation systems",
+      "Ensure compliance with HSE standards and operational procedures",
+      "Work effectively in a team environment and under pressure",
+      "Provide excellent communication and reporting"
+    ],
+    requirements: [
+      "Minimum of 3–5 years’ experience in Oil & Gas Operations",
+      "Strong knowledge of plant operations, maintenance, and troubleshooting",
+      "Experience working in upstream, midstream, or downstream operations is an added advantage",
+      "Good understanding of HSE standards and operational procedures",
+      "Ability to work effectively in a team environment and under pressure",
+      "Excellent communication and reporting skills",
+      "Bachelor’s Degree or HND in Instrumentation Engineering",
+      "Relevant professional certifications will be an added advantage"
+    ],
+    apply: 'Qualified candidates should send their CV to: <a href="mailto:hr@chesroc.com">hr@chesroc.com</a>'
+  },
+  {
+    id: "financial-controller-lekki-lagos-2026",
+    title: "Financial Controller",
+    date: "2026-05-26",
+    location: "Lekki, Lagos",
+    type: "Full-time",
+    seniority: "Senior",
+    salary: "Competitive salary and performance-based incentives",
+    deadline: "Not Specified",
+    company: "Cynosure Engineering",
+    summary: "Seeking a highly analytical and experienced Financial Controller to oversee all financial activities, including budgeting, forecasting, reporting, and cross-border compliance.",
+    responsibilities: [
+      "Oversee the preparation of financial reports, budgets, and forecasts",
+      "Ensure timely and accurate monthly, quarterly, and annual financial reporting",
+      "Monitor internal controls and ensure compliance with financial regulations and policies",
+      "Manage cash flow, financial planning, and risk management processes across border",
+      "Coordinate audits and liaise with external auditors and regulatory bodies",
+      "Lead and develop the finance team to drive performance and efficiency",
+      "Provide strategic financial insights to support business decisions"
+    ],
+    requirements: [
+      "Minimum of 7 years of experience in accounting or financial management, with at least 3 years in a senior finance role",
+      "Strong understanding of accounting principles, IFRS, and Nigerian and foreign tax regulations",
+      "Excellent leadership, communication, and analytical skills",
+      "Proficiency in accounting software and Microsoft Excel",
+      "Bachelor’s degree in Accounting, Finance, or a related field (ICAN/ACCA certification preferred)"
+    ],
+    apply: 'Send your resume and a brief cover letter to <a href="mailto:hr@cynosureng.com">hr@cynosureng.com</a>'
+  },
+  {
+    id: "video-editor-content-creator-abuja-2026",
+    title: "Video Editor / Video Content Creator",
+    date: "2026-05-26",
+    location: "Abuja (FCT)",
+    type: "Full-time",
+    seniority: "Mid-Level",
+    salary: "₦200,000-300,000 monthly",
+    deadline: "Not Specified",
+    company: "A new private university",
+    summary: "Seeking a creative, technically skilled, and story-driven Video Editor / Video Content Creator to join the founding team of a new private university in Abuja, shaping its visual storytelling.",
+    responsibilities: [
+      "Conceptualise, shoot, and edit engaging video content for student recruitment, academic marketing, event coverage, campus virtual tours, and social media",
+      "Create motion graphics, lower thirds, titles, and basic animations",
+      "Record and edit audio (voiceovers, interviews, ambient sound)",
+      "Collaborate with Marketing and Academic Affairs teams to develop video scripts and storyboards",
+      "Plan shoots: location scouting, lighting setup, camera operation, talent direction",
+      "Maintain a content calendar aligned with admission cycles, academic events, and fundraising campaigns",
+      "Optimise videos for different platforms (aspect ratios, compression, subtitles)",
+      "Organise and maintain a digital video asset library",
+      "Ensure all content complies with copyright laws and university branding guidelines",
+      "Operate cameras or vision mixers during live events for recording or live streaming",
+      "Set up and troubleshoot basic audio-visual equipment for on campus events",
+      "Manage video equipment inventory and recommend new purchases",
+      "Liaise with external video production vendors when additional capacity is needed"
+    ],
+    requirements: [
+      "Bachelor’s degree or HND in Film Production, Multimedia, Mass Communication, Digital Media, or a closely related field",
+      "Minimum of 2–5 years of professional video editing and content creation experience in a corporate, agency, media house, or institutional setting",
+      "A strong portfolio/demo reel demonstrating narrative storytelling, technical editing skills, colour grading, audio mixing, motion graphics, and basic animation",
+      "Proven proficiency in industry-standard software: Adobe Premiere Pro, After Effects, Audition, and Media Encoder (DaVinci Resolve or Final Cut Pro acceptable)",
+      "Experience with camera operation (DSLR, mirrorless, or broadcast cameras) and lighting/sound capture",
+      "Understanding of video formats, codecs, export settings for web, TV, and social media"
+    ],
+    apply: 'Qualified candidates should send a detailed CV, a cover letter, and a link to their online portfolio/demo reel to <a href="mailto:cityuniversitybiz@gmail.com">cityuniversitybiz@gmail.com</a> with the subject line: “Video Editor / Video Content Creator – [Your Full Name]”'
+  },
+  {
+    id: "pharmacist-pharmaceutical-manufacturing-mowe-2026",
+    title: "Pharmacist",
+    date: "2026-05-26",
+    location: "Mowe, Ogun State",
+    type: "Full-time",
+    seniority: "Junior",
+    salary: "Negotiable",
+    deadline: "Not Specified",
+    company: "Pharmaceutical Manufacturing Company",
+    summary: "Seeking fresh graduates or NYSC pharmacists to join a pharmaceutical manufacturing company in Mowe, Ogun State.",
+    responsibilities: [
+      "Support pharmaceutical production processes",
+      "Ensure compliance with manufacturing standards",
+      "Assist in quality control and assurance activities",
+      "Contribute to overall operational efficiency"
+    ],
+    requirements: [
+      "0-4 years of experience (fresh graduates/NYSC pharmacists encouraged)",
+      "Minimum of BSC/HND in Pharmacy or relevant disciplines",
+      "Preference will be given to candidates living around Mowe and neighbouring Lagos cities like Ikeja, Ogba, Ojodu- Berge"
+    ],
+    apply: 'Interested candidates should forward their CVs to <a href="mailto:metusmetus73@gmail.com">metusmetus73@gmail.com</a> and <a href="mailto:transnationalzamiva21@yahoo.com">transnationalzamiva21@yahoo.com</a> immediately'
+  },
+  {
+    id: "procurement-officer-pharmaceutical-manufacturing-mowe-2026",
+    title: "Procurement Officer",
+    date: "2026-05-26",
+    location: "Mowe, Ogun State",
+    type: "Full-time",
+    seniority: "Mid-Level",
+    salary: "Negotiable",
+    deadline: "Not Specified",
+    company: "Pharmaceutical Manufacturing Company",
+    summary: "Seeking a Procurement Officer with advanced Excel knowledge to join a pharmaceutical manufacturing company in Mowe, Ogun State.",
+    responsibilities: [
+      "Manage procurement processes for raw materials and supplies",
+      "Negotiate with vendors and ensure cost-effective purchasing",
+      "Maintain accurate procurement records using advanced Excel skills",
+      "Ensure timely delivery of materials to support production"
+    ],
+    requirements: [
+      "0-4 years of experience",
+      "Minimum of BSC/HND in relevant disciplines",
+      "Advanced knowledge of Excel",
+      "Preference will be given to candidates living around Mowe and neighbouring Lagos cities like Ikeja, Ogba, Ojodu- Berge"
+    ],
+    apply: 'Interested candidates should forward their CVs to <a href="mailto:metusmetus73@gmail.com">metusmetus73@gmail.com</a> and <a href="mailto:transnationalzamiva21@yahoo.com">transnationalzamiva21@yahoo.com</a> immediately'
+  },
+  {
+    id: "warehouse-officer-pharmaceutical-manufacturing-mowe-2026",
+    title: "Warehouse Officer",
+    date: "2026-05-26",
+    location: "Mowe, Ogun State",
+    type: "Full-time",
+    seniority: "Mid-Level",
+    salary: "Negotiable",
+    deadline: "Not Specified",
+    company: "Pharmaceutical Manufacturing Company",
+    summary: "Seeking a Warehouse Officer with advanced Excel knowledge to join a pharmaceutical manufacturing company in Mowe, Ogun State.",
+    responsibilities: [
+      "Manage warehouse operations, including inventory control and stock movement",
+      "Ensure accurate record-keeping using advanced Excel skills",
+      "Coordinate receiving, storage, and dispatch of goods",
+      "Maintain an organized and efficient warehouse environment"
+    ],
+    requirements: [
+      "0-4 years of experience",
+      "Minimum of BSC/HND in relevant disciplines",
+      "Advanced knowledge of Excel",
+      "Preference will be given to candidates living around Mowe and neighbouring Lagos cities like Ikeja, Ogba, Ojodu- Berge"
+    ],
+    apply: 'Interested candidates should forward their CVs to <a href="mailto:metusmetus73@gmail.com">metusmetus73@gmail.com</a> and <a href="mailto:transnationalzamiva21@yahoo.com">transnationalzamiva21@yahoo.com</a> immediately'
+  },
+  {
+    id: "trainee-engineer-pharmaceutical-manufacturing-mowe-2026",
+    title: "Trainee Engineer",
+    date: "2026-05-26",
+    location: "Mowe, Ogun State",
+    type: "Full-time",
+    seniority: "Junior",
+    salary: "Negotiable",
+    deadline: "Not Specified",
+    company: "Pharmaceutical Manufacturing Company",
+    summary: "Seeking Trainee Engineers to join a pharmaceutical manufacturing company in Mowe, Ogun State, gaining hands-on experience in engineering operations.",
+    responsibilities: [
+      "Assist in the maintenance and troubleshooting of manufacturing equipment",
+      "Support engineering projects and process improvements",
+      "Learn and apply pharmaceutical engineering standards",
+      "Collaborate with experienced engineers and production teams"
+    ],
+    requirements: [
+      "0-4 years of experience",
+      "Minimum of BSC/HND in relevant engineering disciplines",
+      "Preference will be given to candidates living around Mowe and neighbouring Lagos cities like Ikeja, Ogba, Ojodu- Berge"
+    ],
+    apply: 'Interested candidates should forward their CVs to <a href="mailto:metusmetus73@gmail.com">metusmetus73@gmail.com</a> and <a href="mailto:transnationalzamiva21@yahoo.com">transnationalzamiva21@yahoo.com</a> immediately'
+  },
+  {
+    id: "pharmaceutical-manufacturing-mechanical-engineer-mowe-2026",
+    title: "Pharmaceutical Manufacturing Mechanical Engineer",
+    date: "2026-05-26",
+    location: "Mowe, Ogun State",
+    type: "Full-time",
+    seniority: "Mid-Level",
+    salary: "Negotiable",
+    deadline: "Not Specified",
+    company: "Pharmaceutical Manufacturing Company",
+    summary: "Seeking a Pharmaceutical Manufacturing Mechanical Engineer to join a company in Mowe, Ogun State, responsible for maintaining and optimizing mechanical systems.",
+    responsibilities: [
+      "Maintain and troubleshoot mechanical systems and equipment in a pharmaceutical manufacturing environment",
+      "Implement preventive maintenance schedules",
+      "Ensure compliance with GMP and safety regulations",
+      "Support continuous improvement initiatives for mechanical processes"
+    ],
+    requirements: [
+      "0-4 years of experience",
+      "Minimum of BSC/HND in Mechanical Engineering or relevant disciplines",
+      "Preference will be given to candidates living around Mowe and neighbouring Lagos cities like Ikeja, Ogba, Ojodu- Berge"
+    ],
+    apply: 'Interested candidates should forward their CVs to <a href="mailto:metusmetus73@gmail.com">metusmetus73@gmail.com</a> and <a href="mailto:transnationalzamiva21@yahoo.com">transnationalzamiva21@yahoo.com</a> immediately'
+  },
+  {
+    id: "sales-executive-fmcg-lagos-2026",
+    title: "Sales Executive (FMCG)",
+    date: "2026-05-26",
+    location: "Lagos",
+    type: "Full-time",
+    seniority: "Junior",
+    salary: "₦150,000 – ₦200,000",
+    deadline: "Not Specified",
+    company: "Not Specified",
+    summary: "Seeking a Sales Executive to drive sales and achieve targets in the FMCG industry in Lagos, developing relationships with distributors and retailers.",
+    responsibilities: [
+      "Drive sales and achieve assigned targets",
+      "Develop and maintain relationships with distributors and retailers",
+      "Identify new market opportunities",
+      "Ensure proper product visibility and merchandising",
+      "Provide timely market feedback and competitor insights"
+    ],
+    requirements: [
+      "Minimum of a year FMCG sales experience",
+      "Strong negotiation and communication skills",
+      "Ability to meet and exceed targets",
+      "Good knowledge of assigned territory",
+      "Minimum qualification: OND / HND / BSc"
+    ],
+    apply: 'Interested candidates should apply using the link below: <a href="https://forms.gle/aVaW2k2FRpZPsLVy8">https://forms.gle/aVaW2k2FRpZPsLVy8</a>'
+  },
+  {
     id: "customer-service-representative-lekki-2026",
     title: "Customer Service Representative",
     date: "2026-05-25",

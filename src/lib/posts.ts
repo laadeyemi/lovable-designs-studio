@@ -10,6 +10,279 @@ export type Post = {
 
 const allPosts: Post[] = [
   {
+    id: "jamb-2026-utme-mop-up-examination",
+    title: "JAMB Fixes 13 June 2026 for 2026 UTME Mop-Up Examination",
+    category: "Education",
+    date: "2026-05-26",
+    excerpt: "The Joint Admissions and Matriculation Board has announced Saturday, 13 June 2026, as the date for the 2026 Unified Tertiary Matriculation Examination (UTME) mop-up examination.",
+    content: `<h2>JAMB Fixes 13 June 2026 for 2026 UTME Mop-Up Examination</h2>
+      <p>The Joint Admissions and Matriculation Board (JAMB) has announced <strong>Saturday, 13 June 2026</strong>, as the date for the 2026 Unified Tertiary Matriculation Examination (UTME) mop-up examination.</p>
+      <p>The mop-up exercise is designed for candidates who participated in the main 2026 UTME but, for various reasons, were unable to complete or sit for their examinations.</p>
+
+      <h3>Who Is Eligible for the Mop-Up Exam?</h3>
+      <p>According to JAMB, the mop-up examination is strictly for:</p>
+      <ul>
+        <li>Candidates who were present during the 2026 UTME and completed biometric verification but were unable to sit for the exam</li>
+        <li>Candidates affected by technical challenges at examination centres</li>
+        <li>Candidates who experienced biometric verification issues</li>
+        <li>Candidates whose results were withdrawn due to examination infractions</li>
+      </ul>
+      <p>The board emphasized that only candidates already captured within the 2026 UTME system are eligible for this final opportunity.</p>
+
+      <h3>Background of the 2026 UTME Exercise</h3>
+      <p>The main 2026 UTME was conducted between <strong>16 April and 25 April 2026</strong> across approved centres nationwide.</p>
+      <p>However, some candidates encountered disruptions, including system failures, centre-related technical issues, and biometric verification delays. These challenges prevented them from completing the examination.</p>
+      <p>The mop-up examination now serves as the final phase of the 2026 UTME process for affected candidates.</p>
+      <p>JAMB has also made it clear that this mop-up is the <strong>final opportunity</strong> for candidates in the 2026 UTME cycle.</p>
+
+      <h3>Printing of Examination Notification Slips</h3>
+      <p>Affected candidates are expected to begin printing their examination notification slips from <strong>Saturday, 6 June 2026</strong>.</p>
+      <p>The slip will contain important information such as:</p>
+      <ul>
+        <li>Examination centre</li>
+        <li>Date and time of the exam</li>
+        <li>Candidate details and instructions</li>
+      </ul>
+      <p>Candidates are advised to print their slips early to avoid last-minute challenges and to confirm their assigned centres in advance.</p>
+
+      <h3>Important Instructions for Candidates</h3>
+      <p>Candidates scheduled for the mop-up examination are strongly advised to:</p>
+      <ul>
+        <li>Print and review their examination slips immediately they become available</li>
+        <li>Confirm their examination centre location</li>
+        <li>Plan transportation and logistics ahead of the exam date</li>
+        <li>Arrive early at their assigned centres</li>
+      </ul>
+      <p>Late preparation or failure to check details early may result in avoidable difficulties on examination day.</p>
+
+      <h3>Final Note for Affected Candidates</h3>
+      <p>The mop-up examination represents the final stage of the 2026 UTME cycle for all eligible candidates.</p>
+      <p>Candidates are advised to treat the 13 June 2026 date as final and ensure full preparation ahead of the examination.</p>
+      <p>No further opportunity will be provided after this mop-up exercise.</p>`,
+    tags: ["JAMB", "UTME", "Mop-Up Exam", "Education", "Nigeria", "2026"],
+  },
+  {
+    id: "ebonyi-state-university-post-utme-direct-entry-2026-2027",
+    title: "Ebonyi State University Begins 2026/2027 Post UTME and Direct Entry Screening",
+    category: "Education",
+    date: "2026-05-26",
+    excerpt: "Ebonyi State University has officially commenced its Post UTME and Direct Entry screening exercise for the 2026/2027 academic session.",
+    content: `<h2>Ebonyi State University Begins 2026/2027 Post UTME and Direct Entry Screening</h2>
+      <p>Ebonyi State University has officially commenced its Post UTME and Direct Entry screening exercise for the 2026/2027 academic session.</p>
+      <p>The screening process is open to candidates seeking admission into various undergraduate programmes of the institution, including both UTME and Direct Entry applicants.</p>
+
+      <h3>Who Can Apply for EBSU Post UTME?</h3>
+      <p>The application is open to:</p>
+      <ul>
+        <li>Candidates who selected EBSU as their first choice in JAMB</li>
+        <li>Candidates who did not choose EBSU initially but are willing to change their institution to EBSU</li>
+      </ul>
+      <p>All applicants must have scored <strong>150 and above in the 2026 UTME</strong> before they can be considered for admission screening.</p>
+      <p>Candidates changing their institution of choice are advised to complete the update on the JAMB portal before the application deadline.</p>
+
+      <h3>EBSU Direct Entry Screening</h3>
+      <p>Direct Entry candidates are also required to participate in the online screening exercise.</p>
+      <p>Applicants must:</p>
+      <ul>
+        <li>Possess relevant qualifications such as A’Level, OND, HND, or equivalent certificates</li>
+        <li>Ensure their previous institutions verify their credentials through the JAMB portal</li>
+        <li>Match their qualifications to the course requirements selected at EBSU</li>
+      </ul>
+
+      <h3>Application Period and Deadline</h3>
+      <p>The EBSU Post UTME and Direct Entry screening schedule is as follows:</p>
+      <ul>
+        <li><strong>Opening Date:</strong> 22 May 2026</li>
+        <li><strong>Closing Date:</strong> 22 June 2026</li>
+      </ul>
+      <p>Candidates are strongly advised to complete their registration within the stipulated period, as late applications will not be considered.</p>
+
+      <h3>Screening Fee</h3>
+      <p>The application fee is <strong>₦2,000 (non-refundable)</strong>.</p>
+      <p>Applicants must ensure that their personal details are correctly entered during payment and registration, as errors may affect their admission process.</p>
+
+      <h3>Important Guidelines for Applicants</h3>
+      <p>EBSU has issued the following key instructions:</p>
+      <ul>
+        <li>Candidates awaiting WAEC, NECO, or NABTEB results can apply but must upload results once released</li>
+        <li>All names must match across JAMB, O’Level, and registration documents</li>
+        <li>Candidates are not required to appear for physical screening</li>
+        <li>Admission status will be communicated via the EBSU portal</li>
+        <li>O’Level results must be uploaded to both the EBSU and JAMB portals</li>
+      </ul>
+      <p>Additionally, admitted candidates must accept their admission on JAMB CAPS within <strong>two weeks</strong>, or the offer will be withdrawn.</p>
+
+      <h3>How to Apply for EBSU Post UTME / Direct Entry</h3>
+      <p>Applicants should complete the process online via the official EBSU portal:</p>
+      <ol>
+        <li>Visit the <a href="https://portal.ebsu.edu.ng/">EBSU application portal</a></li>
+        <li>Click on “Online Application Forms”</li>
+        <li>Select either Post UTME or Direct Entry form</li>
+        <li>Enter your JAMB registration number</li>
+        <li>Generate invoice and proceed to payment</li>
+        <li>Pay via bank or debit card</li>
+        <li>Return to the portal after payment</li>
+        <li>Complete and submit the application form</li>
+      </ol>
+      <p>Applicants are advised to use a valid email address and phone number throughout the process.</p>
+
+      <h3>Available Courses for Screening</h3>
+      <p>EBSU offers a wide range of programmes across several faculties, including:</p>
+      <ul>
+        <li>Medicine and Surgery, Nursing Science, Medical Laboratory Science</li>
+        <li>Law</li>
+        <li>Engineering and Environmental Sciences</li>
+        <li>Management and Social Sciences</li>
+        <li>Education</li>
+        <li>Science and Technology</li>
+        <li>Agriculture</li>
+        <li>Arts, Humanities, and Social Sciences</li>
+      </ul>
+      <p>Candidates are expected to ensure their course choice aligns with their UTME subject combination and O’Level results.</p>
+
+      <h3>Final Note</h3>
+      <p>The university emphasized that all applications must be completed on or before <strong>22 June 2026</strong>.</p>
+      <p>Since the screening process is fully online, candidates are not required to appear physically for screening. However, accurate information is essential, as admission decisions will be based strictly on submitted records.</p>`,
+    tags: ["EBSU", "Ebonyi State University", "Post UTME", "Direct Entry", "Admission", "2026/2027", "Education", "Nigeria"],
+  },
+  {
+    id: "imo-state-university-post-utme-direct-entry-2026-2027",
+    title: "Imo State University Begins 2026/2027 Post UTME and Direct Entry Screening Registration",
+    category: "Education",
+    date: "2026-05-26",
+    excerpt: "Imo State University has officially announced the commencement of its Post UTME and Direct Entry screening registration for the 2026/2027 academic session.",
+    content: `<h2>Imo State University Begins 2026/2027 Post UTME and Direct Entry Screening Registration</h2>
+      <p>Imo State University has officially announced the commencement of its Post UTME and Direct Entry screening registration for the 2026/2027 academic session.</p>
+      <p>The registration exercise is set to begin on <strong>Monday, 25 May 2026</strong>, and is open to eligible candidates seeking admission into various undergraduate programmes of the university.</p>
+
+      <h2>Who Can Apply for IMSU Post UTME 2026/2027?</h2>
+      <p>The screening exercise is open to two main categories of candidates:</p>
+
+      <h3>UTME Candidates</h3>
+      <ul>
+        <li>Candidates who selected IMSU as their first choice and scored <strong>at least 160 in the UTME</strong> are eligible to apply.</li>
+        <li>Candidates who did not initially choose IMSU can still apply, but must first change their institution of choice to Imo State University, Owerri, through the JAMB portal before the application closes.</li>
+      </ul>
+
+      <h3>Direct Entry Candidates</h3>
+      <p>Direct Entry applicants must possess any of the following qualifications:</p>
+      <ul>
+        <li>OND</li>
+        <li>HND</li>
+        <li>First Degree</li>
+        <li>A’Level or equivalent qualifications</li>
+      </ul>
+      <p>However, all qualifications must be relevant to the chosen course of study, as IMSU will only consider candidates whose academic backgrounds match their intended programme.</p>
+
+      <h2>Important O’Level Requirement for All Candidates</h2>
+      <p>All applicants, whether UTME or Direct Entry, must ensure that their O’Level results are properly uploaded to the JAMB portal.</p>
+      <p>Candidates awaiting results are advised to upload them immediately once available.</p>
+      <p>The university has clearly stated that failure to upload O’Level results to JAMB will lead to automatic disqualification from the admission process.</p>
+
+      <h2>How to Apply for IMSU Post UTME / Direct Entry Screening</h2>
+      <p>Applicants are required to complete their registration online via the university portal by following these steps:</p>
+      <ol>
+        <li>Visit the <a href="https://www.imsuonline.edu.ng/">IMSU official application portal</a></li>
+        <li>Click on the 2026/2027 Post UTME/Direct Entry application link</li>
+        <li>Enter your JAMB registration number to check eligibility</li>
+        <li>Proceed to payment if eligible</li>
+        <li>Pay a fee of ₦2,000 using your JAMB registration number as the invoice number</li>
+        <li>Return to the portal after 24 hours to complete the application form</li>
+        <li>Print your acknowledgement slip for screening</li>
+      </ol>
+      <p>Candidates are also encouraged to use IMSU Microfinance Bank for smoother payment processing.</p>
+
+      <h2>IMSU Screening and Aptitude Test Details</h2>
+      <p>The university has stated that the exact date and time for the aptitude test or screening exercise will be communicated later to candidates.</p>
+      <p>Applicants are advised to regularly check their application status and keep their acknowledgement slip safe, as it will be required at the screening venue.</p>
+
+      <h2>IMSU Post UTME Closing Date</h2>
+      <p>The deadline for submission of applications for the 2026/2027 Post UTME and Direct Entry screening is <strong>Thursday, 25 June 2026</strong>.</p>
+      <p>Candidates are strongly advised to complete all registration steps early to avoid last-minute errors or system challenges.</p>
+
+      <h2>Final Note</h2>
+      <p>Prospective students are encouraged to prepare ahead of the screening exercise and may also review past questions to improve their chances of success in the IMSU admission process.</p>`,
+    tags: ["IMSU", "Imo State University", "Post UTME", "Direct Entry", "Admission", "2026/2027", "Education", "Nigeria"],
+  },
+  {
+    id: "adeseun-ogundoyin-polytechnic-post-utme-2026-2027",
+    title: "Adeseun Ogundoyin Polytechnic Opens 2026/2027 Post UTME Application for ND Full-Time Admission",
+    category: "Education",
+    date: "2026-05-26",
+    excerpt: "Adeseun Ogundoyin Polytechnic, formerly known as Ibarapa Polytechnic, has announced the commencement of its Post UTME application for National Diploma (ND) full-time admission for the 2026/2027 academic session.",
+    content: `<h2>Adeseun Ogundoyin Polytechnic Opens 2026/2027 Post UTME Application for ND Full-Time Admission</h2>
+      <p>Adeseun Ogundoyin Polytechnic, formerly known as Ibarapa Polytechnic, has announced the commencement of its Post UTME application for National Diploma (ND) full-time admission for the 2026/2027 academic session.</p>
+      <p>The admission exercise is open to candidates who selected the institution as their first-choice polytechnic during the 2026/2027 UTME and scored the required minimum mark.</p>
+      <p>Interested applicants are advised to carefully review the admission requirements and available courses before beginning the online application process.</p>
+
+      <h3>AOPE Admission Requirements for 2026/2027 ND Programmes</h3>
+      <p>Candidates seeking admission into any ND full-time programme at Adeseun Ogundoyin Polytechnic must meet the following conditions:</p>
+      <ul>
+        <li>Applicants must score at least 100 in the 2026/2027 UTME.</li>
+        <li>Candidates must have selected AOPE, Eruwa, Oyo State, as their first-choice institution.</li>
+        <li>Applicants must possess five relevant O’Level credit passes required for their chosen course of study.</li>
+      </ul>
+      <p>Candidates are encouraged to confirm the exact subject requirements for their preferred programme before submitting the application form.</p>
+
+      <h3>List of AOPE ND Courses for 2026/2027 Admission</h3>
+      <p>The polytechnic offers ND full-time programmes across four major faculties.</p>
+
+      <h4>Faculty of Communication and Management Studies</h4>
+      <ul>
+        <li>ND Accountancy</li>
+        <li>ND Business Administration and Management</li>
+        <li>ND Marketing</li>
+        <li>ND Mass Communication</li>
+        <li>ND Office Technology and Management</li>
+        <li>ND Public Administration</li>
+        <li>ND Procurement and Supply Chain Management</li>
+      </ul>
+
+      <h4>Faculty of Engineering</h4>
+      <ul>
+        <li>ND Civil Engineering</li>
+        <li>ND Computer Engineering</li>
+        <li>ND Electrical Engineering</li>
+        <li>ND Mechanical Engineering</li>
+      </ul>
+
+      <h4>Faculty of Science</h4>
+      <ul>
+        <li>ND Computer Science</li>
+        <li>ND Library and Information Science</li>
+        <li>ND Science Laboratory Technology</li>
+        <li>ND Statistics</li>
+      </ul>
+
+      <h4>Faculty of Environmental Studies</h4>
+      <ul>
+        <li>ND Architectural Technology</li>
+        <li>ND Art and Industrial Design</li>
+        <li>ND Estate Management and Valuation</li>
+        <li>ND Fashion Design and Clothing Technology</li>
+      </ul>
+      <p>Applicants are advised to carefully choose a course that matches their UTME subjects and O’Level qualifications.</p>
+
+      <h3>How to Apply for AOPE Post UTME Form</h3>
+      <p>Interested candidates should complete the application online through the official AOPE admission portal.</p>
+      <p>Applicants are expected to provide accurate details, including:</p>
+      <ul>
+        <li>UTME information</li>
+        <li>O’Level results</li>
+        <li>Personal data</li>
+        <li>Preferred course of study</li>
+      </ul>
+      <p>Candidates should ensure that all submitted information matches their official examination records.</p>
+
+      <h3>AOPE Post UTME Application Deadline</h3>
+      <p>The deadline for submission of applications is <strong>Monday, 29 June 2026</strong>.</p>
+      <p>Applicants are advised to complete the registration process early to avoid mistakes or last-minute technical issues.</p>
+
+      <h3>AOPE Contact Information</h3>
+      <p>Candidates who require further information can visit the official website of Adeseun Ogundoyin Polytechnic. For enquiries, applicants may also contact the institution through the following email addresses: <a href="mailto:info@aope.edu.ng">info@aope.edu.ng</a> or <a href="mailto:admission@aope.edu.ng">admission@aope.edu.ng</a>.</p>`,
+    tags: ["Adeseun Ogundoyin Polytechnic", "AOPE", "Post UTME", "Admission", "2026/2027", "ND", "Education", "Nigeria"],
+  },
+  {
     id: "jigawa-state-college-nursing-sciences-hadejia-post-utme-2026-2027",
     title: "Jigawa State College of Nursing Sciences Hadejia Opens 2026/2027 Post UTME Application",
     category: "Education",

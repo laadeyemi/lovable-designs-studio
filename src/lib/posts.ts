@@ -10,6 +10,92 @@ export type Post = {
 
 const allPosts: Post[] = [
   {
+    id: "jigawa-state-college-nursing-sciences-hadejia-post-utme-2026-2027",
+    title: "Jigawa State College of Nursing Sciences Hadejia Opens 2026/2027 Post UTME Application",
+    category: "Education",
+    date: "2026-05-25",
+    excerpt: "Jigawa State College of Nursing Sciences has announced the commencement of Post UTME applications for its ND/HND Nursing Programme for the 2026/2027 academic session.",
+    content: `<h2>Jigawa State College of Nursing Sciences Hadejia Opens 2026/2027 Post UTME Application</h2>
+      <p>Jigawa State College of Nursing Sciences has announced the commencement of Post UTME applications for its ND/HND Nursing Programme for the 2026/2027 academic session.</p>
+      <p>The admission form is open to candidates who selected the college as their first choice during the 2026 UTME and meet all the admission requirements. Interested applicants are advised to carefully check the eligibility conditions before beginning the online registration process, as errors in subject combination or qualifications may affect admission chances.</p>
+
+      <h3>Eligibility Requirements for Hadejia ND/HND Nursing Admission</h3>
+      <p>To qualify for admission, candidates must meet the following conditions:</p>
+      <ul>
+        <li>Applicants must be at least 18 years old.</li>
+        <li>Candidates must score a minimum of 150 in the 2026 UTME.</li>
+        <li>The approved JAMB subject combination includes:
+          <ul>
+            <li>English Language</li>
+            <li>Biology</li>
+            <li>Chemistry</li>
+            <li>Physics</li>
+          </ul>
+        </li>
+      </ul>
+      <p>The college stressed that candidates without the correct subject combination will not be considered for admission.</p>
+
+      <h4>O’Level Requirements</h4>
+      <p>Applicants must possess five credit passes in not more than two sittings in the following subjects: English Language, Mathematics, Biology, Chemistry, and Physics.</p>
+      <p>The institution accepts these result combinations: WAEC/WAEC, NECO/NECO, WAEC/NECO, and NABTEB/NABTEB.</p>
+
+      <h3>Hadejia Post UTME Application Dates</h3>
+      <p>The online application portal opened on <strong>Monday, 25 May 2026</strong>. The deadline for submission is <strong>Monday, 29 June 2026</strong>.</p>
+      <p>Applicants are expected to complete registration, payment, and print their application slip before the closing date.</p>
+
+      <h3>How to Apply for the Hadejia Post UTME Form</h3>
+      <p>Interested candidates should complete their registration through the official Hadejia Campus application portal. Applicants are required to:</p>
+      <ol>
+        <li>Visit the <a href"https://conhadejia.edu.ng/utme/newuser.php">application portal</a></li>
+        <li>Click on “Click here to Register”</li>
+        <li>Fill in the required personal details</li>
+        <li>Proceed with payment (₦2,000 fee, excluding bank charges)</li>
+        <li>Complete and submit the application form</li>
+        <li>Print the application slip after submission</li>
+      </ol>
+
+      <h3>Entrance Examination Details</h3>
+      <p>The entrance examination will be conducted as a Computer Based Test (CBT). Applicants should keep their printed registration slip safe because it contains instructions and details relating to the screening exercise.</p>
+
+      <h3>College Warns Against Fraudsters and Agents</h3>
+      <p>The college stated clearly that it has not authorised any individual or agent to process admission applications on behalf of candidates. Applicants are strongly advised to use only the official application portal and avoid making payments to third parties.</p>
+
+      <h3>Contact Information</h3>
+      <p>For further enquiries, candidates can contact the Hadejia Campus through: <strong>07034488375</strong>.</p>`,
+    tags: ["Jigawa State", "Nursing", "Post UTME", "Admission", "2026/2027", "Hadejia", "Education", "Nigeria"],
+  },
+  {
+    id: "fg-declares-public-holiday-eid-el-kabir-2026",
+    title: "Federal Government Declares Two-Day Public Holiday for Eid-el-Kabir 2026",
+    category: "News",
+    date: "2026-05-26",
+    excerpt: "The Federal Government has declared Wednesday, 27 May, and Thursday, 28 May 2026, as public holidays to mark this year’s Eid-el-Kabir celebration.",
+    content: `<h2>Federal Government Declares Two-Day Public Holiday for Eid-el-Kabir 2026</h2>
+      <p>The Federal Government has declared Wednesday, 27 May, and Thursday, 28 May 2026, as public holidays to mark this year’s Eid-el-Kabir celebration.</p>
+      <p>The announcement was made by the Minister of Interior, Olubunmi Tunji-Ojo, through a statement released on Monday by the ministry’s Permanent Secretary, Magdalene Ajani.</p>
+      <p>According to the statement, the declaration reflects the Federal Government’s recognition of the religious significance of Eid-el-Kabir and its importance to millions of Muslims in Nigeria and across the world.</p>
+
+      <h2>Eid-el-Kabir and Its Spiritual Significance</h2>
+      <p>Eid-el-Kabir, also known as Eid-ul-Adha, is one of the most important celebrations in Islam. The festival symbolises sacrifice, obedience to God, faith, and compassion for humanity.</p>
+      <p>In his message to Muslim faithful across Nigeria and in the diaspora, Tunji-Ojo described the occasion as a time for deep spiritual reflection and renewed commitment to peace and kindness.</p>
+      <p>He encouraged Nigerians to use the holiday period to pray for the nation and seek divine guidance as the country continues its pursuit of peace, security, and prosperity.</p>
+      <p>According to the statement, the Federal Government urged citizens to embrace “prayer and sober reflection” during the celebration.</p>
+
+      <h2>Call for Unity and Peaceful Coexistence</h2>
+      <p>The minister also called on Nigerians to strengthen the spirit of unity, brotherhood, and peaceful coexistence during the festive season.</p>
+      <p>He urged citizens to show love and care for one another regardless of religious or ethnic differences, stressing the importance of national unity at this time.</p>
+      <p>The Federal Government further wished Muslims across the country a peaceful, joyful, and blessed Eid-ul-Adha celebration.</p>
+
+      <h2>Public Holidays Confirmed</h2>
+      <p>With the declaration, Nigerians will observe public holidays on:</p>
+      <ul>
+        <li>Wednesday, 27 May 2026</li>
+        <li>Thursday, 28 May 2026</li>
+      </ul>
+      <p>The two-day break will allow Muslim faithful and families across the country to fully participate in the Eid-el-Kabir celebrations and related activities.</p>`,
+    tags: ["Nigeria", "Public Holiday", "Eid-el-Kabir", "Government", "News", "2026"],
+  },
+  {
     id: "futo-post-utme-direct-entry-2026-2027",
     title: "FUTO Opens 2026/2027 Post UTME and Direct Entry Screening Registration",
     category: "Education",

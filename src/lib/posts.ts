@@ -10,6 +10,297 @@ export type Post = {
 
 const allPosts: Post[] = [
   {
+    id: "kwasued-admission-screening-2026-2027",
+    title: "KWASUED Opens 2026/2027 Admission Screening Registration",
+    category: "Education",
+    date: "2026-05-28",
+    excerpt: "Kwara State University of Education has announced the commencement of its admission screening exercise for the 2026/2027 academic session.",
+    content: `<h2>KWASUED Opens 2026/2027 Admission Screening Registration</h2>
+      <p>Kwara State University of Education has announced the commencement of its admission screening exercise for the 2026/2027 academic session.</p>
+      <p>According to a statement signed by the Registrar, Mohammed Jimada Jibril, the university’s online registration portal will officially open on <strong>8 June 2026</strong> for interested candidates seeking undergraduate admission.</p>
+
+      <h2>KWASUED Cut-Off Mark for 2026/2027 Admission</h2>
+      <p>The university has approved a minimum UTME score of <strong>150</strong> for candidates applying for admission.</p>
+      <p>Candidates who scored 150 and above in the 2026 UTME and meet the required academic qualifications will be considered for admission into the available undergraduate programmes.</p>
+      <p>Direct Entry candidates are also eligible to apply for the screening exercise.</p>
+
+      <h2>List of Courses Available at KWASUED</h2>
+      <p>Kwara State University of Education has listed 20 undergraduate programmes across education, sciences, business, arts, and technical fields for the 2026/2027 academic session.</p>
+
+      <h3>Education, Business and Social Science Courses</h3>
+      <p>Applicants can apply for the following programmes:</p>
+      <ul>
+        <li>B.Sc.(Ed) Business Education</li>
+        <li>B.Ed. Entrepreneurship</li>
+        <li>B.Ed. Educational Technology</li>
+        <li>B.Ed. Educational Management</li>
+        <li>B.Ed. Guidance and Counselling</li>
+        <li>B.Ed. Sustainable Development</li>
+        <li>B.Sc.(Ed) Accounting</li>
+        <li>B.Sc.(Ed) Economics</li>
+      </ul>
+
+      <h3>Science and Technical Education Courses</h3>
+      <p>Science and technical education options include:</p>
+      <ul>
+        <li>B.Sc.(Ed) Home Economics</li>
+        <li>B.Sc.(Ed) Mathematics</li>
+        <li>B.Sc.(Ed) Physics</li>
+        <li>B.Sc.(Ed) Agriculture</li>
+        <li>B.Sc.(Ed) Biology</li>
+        <li>B.Sc.(Ed) Chemistry</li>
+        <li>B.Sc.(Ed) Computer Science</li>
+        <li>B.Tech.(Ed) Electronics and Electrical</li>
+      </ul>
+
+      <h3>Arts and Humanities Education Courses</h3>
+      <p>Candidates interested in arts and humanities education may apply for:</p>
+      <ul>
+        <li>B.A.(Ed) Creative Arts</li>
+        <li>B.A.(Ed) English Language</li>
+        <li>B.A.(Ed) Yoruba</li>
+        <li>B.A.(Ed) History</li>
+      </ul>
+
+      <h2>Important JAMB Requirements for Applicants</h2>
+      <p>The university advised all UTME and Direct Entry candidates to:</p>
+      <ul>
+        <li>Visit an accredited JAMB CBT centre</li>
+        <li>Select KWASUED as their institution of choice</li>
+        <li>Ensure that their O’Level results are uploaded on JAMB CAPS</li>
+      </ul>
+      <p>The institution emphasized that failure to upload O’Level results on the JAMB Central Admissions Processing System may delay or affect admission processing.</p>
+
+      <h2>How to Apply for KWASUED Screening Exercise</h2>
+      <p>The online screening registration portal will become active on <strong>8 June 2026</strong>.</p>
+      <p>Interested candidates should visit the <a href="https://portal.kwasued.edu.ng/">official KWASUED admission portal</a> to complete their application once registration begins.</p>
+      <p>Applicants are advised to carefully provide accurate personal information, academic records, and JAMB details during registration.</p>
+
+      <h2>KWASUED Contact Information</h2>
+      <p>Candidates who need assistance regarding the admission screening exercise can contact the university through the following lines:</p>
+      <ul>
+        <li>08056664797</li>
+        <li>08066001312</li>
+      </ul>`,
+    tags: [
+      "KWASUED",
+      "Kwara State University of Education",
+      "Admission",
+      "Post UTME",
+      "Direct Entry",
+      "2026/2027",
+      "Education",
+      "Nigeria",
+    ],
+  },
+  {
+    id: "unilesa-post-utme-direct-entry-2026-2027",
+    title: "UNILESA Opens 2026/2027 Post UTME and Direct Entry Screening Registration",
+    category: "Education",
+    date: "2026-05-28",
+    excerpt: "University of Ilesa has announced the commencement of its Post UTME and Direct Entry admission screening exercise for the 2026/2027 academic session.",
+    content: `<h2>UNILESA Opens 2026/2027 Post UTME and Direct Entry Screening Registration</h2>
+      <p>University of Ilesa has announced the commencement of its Post UTME and Direct Entry admission screening exercise for the 2026/2027 academic session.</p>
+      <p>The screening exercise covers a wide range of undergraduate programmes across nursing sciences, medical sciences, computing, law, arts, sciences, management, education, and agriculture.</p>
+
+      <h3>UNILESA Admission Eligibility Requirements</h3>
+      <p>The university invited qualified UTME and Direct Entry candidates to apply for admission into its undergraduate programmes.</p>
+
+      <h4>UTME Candidates</h4>
+      <p>Applicants seeking admission through UTME must:</p>
+      <ul>
+        <li>Score at least <strong>160</strong> in the 2026 UTME</li>
+        <li>Choose UNILESA as their preferred institution</li>
+        <li>Be at least <strong>16 years old by 30 September 2026</strong></li>
+      </ul>
+      <p>Candidates who did not initially select the university as first choice are required to change their institution to UNILESA through JAMB CAPS before applying.</p>
+
+      <h4>Direct Entry Candidates</h4>
+      <p>Direct Entry applicants must possess relevant qualifications suitable for admission into 200 Level programmes.</p>
+      <p>They are also expected to complete the Direct Entry process through the JAMB admission platform alongside the university portal.</p>
+
+      <h3>O’Level Requirements for UNILESA Admission</h3>
+      <p>University of Ilesa stated that candidates must possess at least five credit passes in relevant subjects.</p>
+      <p>Accepted examination bodies include:</p>
+      <ul>
+        <li>WAEC</li>
+        <li>NECO</li>
+        <li>NABTEB</li>
+        <li>Senior Arabic and Islamic Secondary School Certificate Examinations (SAISSCE)</li>
+      </ul>
+      <p>The university accepts a maximum of two sittings.</p>
+      <p>Candidates are advised to carefully confirm the UTME subject combination and O’Level requirements for their chosen courses before registration.</p>
+
+      <h3>Courses Available at UNILESA for 2026/2027 Admission</h3>
+      <p>The university listed programmes across several faculties.</p>
+
+      <h4>Faculty of Nursing Sciences</h4>
+      <ul>
+        <li>B.N.Sc. Nursing Sciences</li>
+      </ul>
+
+      <h4>Faculty of Basic Medical Sciences</h4>
+      <ul>
+        <li>Anatomy, Physiology, Health Information Management, Radiography, Dental Therapy, Dental Technology, Physiotherapy, Optometry, Pharmacology, Human Nutrition and Dietetics, Information Technology and Health Informatics.</li>
+      </ul>
+
+      <h4>Faculty of Medical Laboratory Science</h4>
+      <ul>
+        <li>Medical Laboratory Science</li>
+      </ul>
+
+      <h4>Faculty of Public Health</h4>
+      <ul>
+        <li>Public Health</li>
+      </ul>
+
+      <h4>Faculty of Computing</h4>
+      <ul>
+        <li>Computer Science, Cybersecurity, Software Engineering, Information and Communication Technology, Data Science.</li>
+      </ul>
+
+      <h4>Faculty of Arts</h4>
+      <ul>
+        <li>English Language, History and International Studies, Linguistics, Music, Arabic Studies, Christian Religious Studies, Islamic Studies, Theatre Arts, Chinese Studies, French, Yoruba.</li>
+      </ul>
+
+      <h4>Faculty of Sciences</h4>
+      <ul>
+        <li>Microbiology, Biochemistry, Industrial Chemistry, Mathematics, Physics and Electronics, Geology and Mining Sciences, Brewing Science and Technology, Environmental Management and Toxicology, Clothing and Textile Design, Physics, Chemistry, Biology.</li>
+      </ul>
+
+      <h4>Faculty of Social and Management Sciences</h4>
+      <ul>
+        <li>Economics, Accounting, Business Administration, Political Science, Tourism and Hospitality, Sociology, Criminology and Security Studies, Psychology, Public Administration, Peace and Conflict Studies, Finance, Marketing, Entrepreneurship, Taxation, Project Management, Social Work, Geography and Geoinformatics.</li>
+      </ul>
+
+      <h4>Faculty of Education</h4>
+      <p>Programmes include:</p>
+      <ul>
+        <li>Computer Science Education, Integrated Science Education, English Language Education, Political Science Education, Economics Education, Guidance and Counselling, Educational Management, Entrepreneurship Education, Special Education, Health Education, Music Education, Yoruba Education, Physical Education, Early Childhood Education, Library and Information Education.</li>
+      </ul>
+
+      <h4>Faculty of Agriculture</h4>
+      <ul>
+        <li>Agricultural Economics, Agribusiness, Animal Science, Crop Science, Soil Science, Fisheries and Aquaculture, Agriculture.</li>
+      </ul>
+
+      <h4>Faculty of Law</h4>
+      <ul>
+        <li>LL.B. Law</li>
+        <li>LL.B. Common and Islamic Law</li>
+      </ul>
+
+      <h3>How to Apply for UNILESA Post UTME/DE Screening</h3>
+      <p>Candidates should complete their application through the <a href="https://admissions.unilesa.edu.ng/home">UNILESA admission portal</a>.</p>
+      <p>The screening fee is <strong>₦2,000 only</strong>, and payment must be made into the university’s designated account as provided on the portal.</p>
+      <p>Applicants are advised to carefully complete all sections of the registration form using accurate information.</p>
+
+      <h3>Important Notice to Applicants</h3>
+      <p>The university warned candidates against submitting false information during registration, stating that any form of misrepresentation may lead to disqualification.</p>
+      <p>UNILESA also stated clearly that it does not operate through admission agents or consultants.</p>
+      <p>For more details about the admission process, candidates can visit the official website of University of Ilesa.</p>`,
+    tags: [
+      "UNILESA",
+      "University of Ilesa",
+      "Post UTME",
+      "Direct Entry",
+      "Admission",
+      "2026/2027",
+      "Education",
+      "Nigeria",
+    ],
+  },
+  {
+    id: "futa-post-utme-direct-entry-2026-2027",
+    title: "FUTA Opens 2026/2027 Post UTME and Direct Entry Screening Registration",
+    category: "Education",
+    date: "2026-05-28",
+    excerpt: "Federal University of Technology Akure has officially announced the commencement of online registration for its 2026/2027 Post UTME and Direct Entry screening exercise.",
+    content: `<h2>FUTA Opens 2026/2027 Post UTME and Direct Entry Screening Registration</h2>
+      <p>Federal University of Technology Akure has officially announced the commencement of online registration for its 2026/2027 Post UTME and Direct Entry screening exercise.</p>
+      <p>The registration exercise covers admission into all undergraduate programmes offered by the university and will run from <strong>Monday, 1 June 2026</strong>, to <strong>Friday, 3 July 2026</strong>.</p>
+
+      <h2>FUTA Post UTME/Direct Entry Registration Dates and Fee</h2>
+      <p>According to the university, eligible candidates are expected to complete their registration within the approved period.</p>
+      <ul>
+        <li><strong>Registration Begins:</strong> Monday, 1 June 2026</li>
+        <li><strong>Registration Closes:</strong> Friday, 3 July 2026</li>
+        <li><strong>Screening Fee:</strong> ₦2,000</li>
+      </ul>
+      <p>The screening fee must be paid through the Remita payment platform after generating the required payment code on the university portal.</p>
+      <p>FUTA warned that candidates who fail to complete their registration before the deadline will not be allowed to participate in the screening exercise.</p>
+
+      <h2>Eligibility Requirements for FUTA Post UTME</h2>
+      <h3>UTME Candidates</h3>
+      <p>Candidates applying through UTME must:</p>
+      <ul>
+        <li>Score at least <strong>180</strong> in the 2026 UTME conducted by JAMB</li>
+        <li>Choose FUTA as their first-choice institution</li>
+        <li>Possess at least five O’Level credit passes, including:
+          <ul>
+            <li>English Language</li>
+            <li>Mathematics</li>
+          </ul>
+        </li>
+      </ul>
+      <p>The required credits must be obtained in WAEC, NECO, NABTEB, or equivalent examinations in not more than two sittings.</p>
+
+      <h3>Direct Entry Candidates</h3>
+      <p>Direct Entry applicants must also select FUTA as their first-choice university before applying for the screening exercise.</p>
+      <p>The university stated that admission processing will strictly follow JAMB records.</p>
+
+      <h2>FUTA Admission Age Requirement</h2>
+      <p>FUTA has also stated that candidates seeking admission into the university must be at least <strong>16 years old by 30 September 2026</strong>.</p>
+      <p>Candidates who do not meet the age requirement may not be considered for admission.</p>
+
+      <h2>FUTA Restores MBBS Admission</h2>
+      <p>The university also announced the return of admission into its MBBS programme after an earlier suspension.</p>
+      <p>Qualified candidates interested in studying Medicine and Surgery can now apply for admission during the 2026/2027 admission exercise.</p>
+
+      <h2>How to Apply for FUTA Post UTME/DE Screening</h2>
+      <p>Interested applicants should complete the registration online through the official FUTA portal by following these steps:</p>
+      <ol>
+        <li>Visit the <a href="https://www.futa.edu.ng/">FUTA website</a></li>
+        <li>Generate the Remita payment code</li>
+        <li>Pay the ₦2,000 screening fee through Remita at any bank</li>
+        <li>Return to the FUTA portal after payment</li>
+        <li>Complete and submit the online registration form</li>
+        <li>Print the completed application slip</li>
+      </ol>
+      <p>Candidates are advised to carefully use the correct UTME registration number and ensure that their names match their JAMB records.</p>
+
+      <h2>Important Instructions for Candidates</h2>
+      <p>FUTA emphasized that all candidates must:</p>
+      <ul>
+        <li>Complete the online screening registration before the deadline</li>
+        <li>Upload their O’Level results to JAMB CAPS on or before Friday, 3 July 2026</li>
+        <li>Participate fully in the screening process</li>
+      </ul>
+      <p>The university warned that candidates who fail to upload their results or participate in the screening exercise will not be considered for admission.</p>
+
+      <h2>FUTA Contact Information</h2>
+      <p>Applicants seeking further clarification can visit the official website of Federal University of Technology Akure or contact the university through the following numbers:</p>
+      <ul>
+        <li>+2348062484770</li>
+        <li>+2347062320151</li>
+        <li>+2348034277322</li>
+        <li>+2348034655619</li>
+        <li>+2348126049786</li>
+      </ul>`,
+    tags: [
+      "FUTA",
+      "Federal University of Technology Akure",
+      "Post UTME",
+      "Direct Entry",
+      "Admission",
+      "2026/2027",
+      "Education",
+      "Nigeria",
+      "MBBS",
+    ],
+  },
+  {
     id: "futa-departmental-cut-off-mark-2026-2027",
     title: "FUTA Departmental Cut-Off Mark for 2026/2027 Admission",
     category: "Education",

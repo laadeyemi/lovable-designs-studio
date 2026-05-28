@@ -10,6 +10,190 @@ export type Post = {
 
 const allPosts: Post[] = [
   {
+    id: "futa-departmental-cut-off-mark-2026-2027",
+    title: "FUTA Departmental Cut-Off Mark for 2026/2027 Admission",
+    category: "Education",
+    date: "2026-05-28",
+    excerpt: "Federal University of Technology Akure has officially announced the departmental cut-off mark for admission into its undergraduate programmes for the 2026/2027 academic session.",
+    content: `<h2>FUTA Departmental Cut-Off Mark for 2026/2027 Admission</h2>
+      <p>Federal University of Technology Akure has officially announced the departmental cut-off mark for admission into its undergraduate programmes for the 2026/2027 academic session.</p>
+      <p>The update is important for candidates preparing for the university’s Post-UTME screening exercise, as it outlines the minimum UTME score required to qualify for admission consideration.</p>
+      <p>Founded in 1981, the Federal University of Technology, Akure (FUTA), remains one of Nigeria’s leading technology-focused universities, known for combining practical and theoretical training across science, engineering, technology, and management disciplines.</p>
+
+      <h3>FUTA Post-UTME Eligibility for 2026/2027</h3>
+      <p>According to the university, candidates who selected FUTA as their first-choice institution during the 2026 UTME and scored a minimum of <strong>180</strong> are eligible to apply for the Post-UTME screening exercise.</p>
+      <p>This cut-off mark serves as the general benchmark for admission consideration into the university’s undergraduate programmes.</p>
+
+      <h3>FUTA Courses and Approved Cut-Off Mark</h3>
+      <p>Candidates who scored at least 180 in the UTME can apply for admission into the following courses:</p>
+
+      <h4>School of Engineering and Engineering Technology</h4>
+      <ul>
+        <li>Agricultural Engineering</li>
+        <li>Civil Engineering</li>
+        <li>Computer Engineering</li>
+        <li>Electrical/Electronics Engineering</li>
+        <li>Industrial and Production Engineering</li>
+        <li>Mechanical Engineering</li>
+        <li>Metallurgical and Material Engineering</li>
+        <li>Mining Engineering</li>
+      </ul>
+
+      <h4>School of Computing and Information Technology</h4>
+      <ul>
+        <li>Computer Science</li>
+        <li>Cyber Security</li>
+        <li>Information and Communication Technology</li>
+        <li>Information Systems</li>
+        <li>Information Technology</li>
+        <li>Software Engineering</li>
+      </ul>
+
+      <h4>School of Sciences</h4>
+      <ul>
+        <li>Biochemistry</li>
+        <li>Biology</li>
+        <li>Biotechnology</li>
+        <li>Industrial Chemistry</li>
+        <li>Industrial Mathematics</li>
+        <li>Mathematics</li>
+        <li>Microbiology</li>
+        <li>Physics</li>
+        <li>Statistics</li>
+      </ul>
+
+      <h4>School of Environmental Technology</h4>
+      <ul>
+        <li>Architecture</li>
+        <li>Building</li>
+        <li>Estate Management</li>
+        <li>Quantity Surveying</li>
+        <li>Surveying and Geoinformatics</li>
+        <li>Urban and Regional Planning</li>
+      </ul>
+
+      <h4>School of Agriculture and Agricultural Technology</h4>
+      <ul>
+        <li>Agriculture and Resource Economics</li>
+        <li>Agricultural Extension and Communication Technology</li>
+        <li>Animal Production and Health</li>
+        <li>Crop, Soil and Pest Management</li>
+        <li>Fisheries and Aquaculture Technology</li>
+        <li>Forestry and Wood Technology</li>
+      </ul>
+
+      <h4>Other Available Courses</h4>
+      <ul>
+        <li>Applied Geology</li>
+        <li>Applied Geophysics</li>
+        <li>Biomedical Technology</li>
+        <li>Ecotourism and Wildlife Management</li>
+        <li>Food Science and Technology</li>
+        <li>Human Anatomy</li>
+        <li>Industrial Design</li>
+        <li>Marine Science and Technology</li>
+        <li>Meteorology</li>
+        <li>Physiology</li>
+        <li>Remote Sensing and Geosciences Information System</li>
+      </ul>
+
+      <h3>Why the FUTA Cut-Off Mark Matters</h3>
+      <p>Understanding the approved cut-off mark helps candidates:</p>
+      <ul>
+        <li>Confirm eligibility for the Post-UTME screening</li>
+        <li>Select suitable courses based on UTME performance</li>
+        <li>Prepare ahead for admission screening requirements</li>
+        <li>Avoid mistakes during the admission process</li>
+      </ul>
+      <p>Candidates are advised to carefully check course requirements and ensure that their UTME subject combination and O’Level results match the programme they intend to study.</p>
+
+      <h3>Final Advice for Prospective FUTA Students</h3>
+      <p>Admission into Federal University of Technology Akure remains competitive, especially for courses in engineering, computing, and health sciences.</p>
+      <p>Prospective candidates should prepare adequately for the Post-UTME screening exercise and ensure all required documents and results are properly uploaded through the appropriate portals to improve their admission chances for the 2026/2027 academic session.</p>`,
+    tags: ["FUTA", "Federal University of Technology Akure", "Cut-off Mark", "Admission", "2026/2027", "Education", "Nigeria"],
+  },
+  {
+    id: "aaua-post-utme-direct-entry-2026-2027",
+    title: "AAUA Opens 2026/2027 Post UTME and Direct Entry Screening Registration",
+    category: "Education",
+    date: "2026-05-26",
+    excerpt: "Adekunle Ajasin University has announced the commencement of registration for its 2026/2027 Post UTME and Direct Entry screening exercise.",
+    content: `<h2>AAUA Opens 2026/2027 Post UTME and Direct Entry Screening Registration</h2>
+      <p>Adekunle Ajasin University has announced the commencement of registration for its 2026/2027 Post UTME and Direct Entry screening exercise.</p>
+      <p>The online screening registration begins on <strong>Tuesday, 26 May 2026</strong>, for candidates seeking undergraduate admission into the university.</p>
+
+      <h3>AAUA Post UTME Eligibility Requirements</h3>
+      <p>Candidates applying for the AAUA Post UTME screening must meet the following conditions:</p>
+      <ul>
+        <li>Score at least <strong>160</strong> in the 2026/2027 UTME</li>
+        <li>Choose AAUA as first-choice institution on JAMB CAPS</li>
+        <li>Be at least <strong>16 years old by 30 September 2026</strong></li>
+      </ul>
+      <p>Candidates who did not initially select AAUA can still apply, but they must first change their institution to Adekunle Ajasin University through the JAMB portal before the registration deadline.</p>
+
+      <h3>AAUA Post UTME Registration Fee</h3>
+      <p>Eligible applicants are required to pay a total of <strong>₦5,000</strong> through the university screening portal.</p>
+      <p>The fee breakdown includes:</p>
+      <ul>
+        <li>₦2,000 for Post UTME registration</li>
+        <li>₦3,000 for portal access fee</li>
+      </ul>
+      <p>Payments are to be made online via E-tranzact through the official AAUA screening portal.</p>
+
+      <h3>How to Register for AAUA Post UTME/Direct Entry Screening</h3>
+      <p>Candidates should complete their registration online by following these steps:</p>
+      <ol>
+        <li>Visit the <a href="https://putme.aaua.edu.ng/">AAUA screening portal</a></li>
+        <li>Create an account using a valid JAMB Registration Number and email address</li>
+        <li>Confirm the email address through the verification link sent to the inbox</li>
+        <li>Check the spam folder if the email is not found in the inbox</li>
+        <li>Log in and pay the ₦5,000 screening fee through E-tranzact</li>
+        <li>Complete the biodata form carefully</li>
+        <li>Print the completed biodata slip</li>
+      </ol>
+      <p>Applicants are advised to review all entries before submission to avoid mistakes that may affect their admission processing.</p>
+
+      <h3>O’Level and Direct Entry Requirements</h3>
+      <p>AAUA accepts WAEC, NECO, and NABTEB results, with a maximum of two sittings allowed.</p>
+      <p>Candidates awaiting results can also apply, but they must upload their results to both:</p>
+      <ul>
+        <li>The AAUA portal</li>
+        <li>JAMB CAPS</li>
+      </ul>
+      <p>All candidates must possess credit passes in English Language and Mathematics alongside other course-specific requirements.</p>
+
+      <h4>Direct Entry Qualifications Accepted by AAUA</h4>
+      <p>Direct Entry applicants may apply with any of the following:</p>
+      <ul>
+        <li>First Degree with at least Second Class Lower</li>
+        <li>ND with Upper Credit</li>
+        <li>HND with Lower Credit</li>
+        <li>JUPEB with a minimum of 6 points</li>
+        <li>NCE with at least 8 points</li>
+      </ul>
+      <p>Candidates are advised to confirm the specific admission requirements for their chosen course before registration.</p>
+
+      <h3>Important Instructions for Applicants</h3>
+      <p>The university emphasized that candidates must ensure:</p>
+      <ul>
+        <li>Correct UTME subject combinations</li>
+        <li>Proper O’Level subject requirements</li>
+        <li>Accurate personal information during registration</li>
+      </ul>
+      <p>Candidates with incorrect UTME subject combinations are advised to change to suitable courses on JAMB CAPS.</p>
+      <p>AAUA warned that false information, misrepresentation, or document falsification may lead to disqualification from the admission process.</p>
+
+      <h3>Screening Participation Is Mandatory</h3>
+      <p>The university stated clearly that participation in the online screening exercise is compulsory for all applicants.</p>
+      <p>After registration, candidates should print and keep proof of payment and registration for future reference.</p>
+
+      <h3>Final Notice to AAUA Applicants</h3>
+      <p>Adekunle Ajasin University also advised candidates to provide active email addresses and reachable phone numbers during registration.</p>
+      <p>The institution warned that it will not be responsible for missed updates caused by invalid contact details or phone settings such as “Do Not Disturb” mode.</p>
+      <p>The university further stated that it does not operate through admission agents, and applicants should avoid dealing with unauthorised individuals.</p>`,
+    tags: ["AAUA", "Adekunle Ajasin University", "Post UTME", "Direct Entry", "Admission", "2026/2027", "Education", "Nigeria"],
+  },
+  {
     id: "jamb-2026-utme-mop-up-examination",
     title: "JAMB Fixes 13 June 2026 for 2026 UTME Mop-Up Examination",
     category: "Education",

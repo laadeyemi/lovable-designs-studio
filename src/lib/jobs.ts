@@ -16,6 +16,442 @@ export type Job = {
 
 const allJobs: Job[] = [
   {
+    id: "female-front-office-manager-idu-abuja-2026",
+    title: "Female Front Office Manager",
+    date: "2026-05-28",
+    location: "Idu, Abuja",
+    type: "Full-time",
+    seniority: "Senior",
+    salary: "₦250,000 – ₦300,000",
+    deadline: "Not Specified",
+    summary: "Experienced Front Office Manager to oversee daily operations, ensure excellent guest service, and manage the front desk team for a 155-room hotel in Idu, Abuja.",
+    responsibilities: [
+      "Oversee daily operations of the front desk and front office staff",
+      "Ensure excellent customer service and resolve guest enquiries or complaints",
+      "Handle special arrangements and personalized services for VIPs",
+      "Manage front office budgets and maintain expense records",
+      "Develop SOPs to guarantee consistent service quality",
+      "Coordinate with housekeeping, F&B, security, and management teams",
+      "Supervise daily processing of invoices, payments, and night audits",
+      "Collaborate with marketing to maximize room occupancy and upselling"
+    ],
+    requirements: [
+      "Diploma or first degree in hospitality management or equivalent",
+      "Certifications in hospitality management or front office administration",
+      "5–7 years of proven experience in front office operations",
+      "Strong leadership, team-building, and motivation skills",
+      "Excellent communication and high-level problem-solving skills",
+      "Tact and professionalism in approach to staff-guest relationships"
+    ],
+    apply: 'Interested candidates should send their resume to <a href="mailto:hr@grandbezerng.com">hr@grandbezerng.com</a> using the job title as the subject of the email.'
+  },
+  {
+    id: "technician-linesmate-lagos-2026",
+    title: "Technician – Linesmate",
+    date: "2026-05-28",
+    location: "Lagos",
+    type: "Full-time",
+    seniority: "Junior",
+    salary: "Not Specified",
+    deadline: "Not Specified",
+    summary: "Seeking a dedicated Technician – Linesmate to join the Operations & Services team, contributing to preventive maintenance of the distribution network and ensuring operational efficiency.",
+    responsibilities: [
+      "Execute operation & maintenance procedures in line with company policies",
+      "Diagnose and resolve network faults in substations",
+      "Calibrate, maintain, troubleshoot, and repair electrical instruments",
+      "Collaborate with engineers to solve technical problems",
+      "Conduct inspections for quality control and assurance programs",
+      "Maintain transformer sub-station site tidiness and resolve issues",
+      "Ensure compliance with QMS and OH&S requirements"
+    ],
+    requirements: [
+      "SSCE/GCE/NECO/NABTEB with credits in five science subjects (inc. English & Math)",
+      "Minimum of 3 years’ relevant experience",
+      "Age: Not more than 35 years old",
+      "Knowledge of substation planning and operation implementation",
+      "Knowledge of High & Low Tension operation management"
+    ],
+    apply: 'Interested candidates should submit their CV via the link: <a href="https://forms.gle/ymFCvKznnQyCu7QU8">https://forms.gle/ymFCvKznnQyCu7QU8</a>'
+  },
+  {
+    id: "personal-driver-ikoyi-200k-2026",
+    title: "Personal Driver",
+    date: "2026-05-28",
+    location: "Ikoyi, Lagos",
+    type: "Full-time",
+    salary: "₦200,000",
+    deadline: "Not specified",
+    summary: "Disciplined and professional Personal Driver needed for full-time employment in Ikoyi. Role requires early resumption and strict adherence to maintenance logs.",
+    responsibilities: [
+      "Safely transport employer to assigned destinations",
+      "Conduct daily vehicle checks and upkeep logs",
+      "Ensure the vehicle is always clean and properly maintained",
+      "Maintain professional conduct and confidentiality",
+      "Report maintenance concerns promptly"
+    ],
+    requirements: [
+      "Minimum qualification: SSCE",
+      "Minimum 3 years driving experience",
+      "Must resume by 5:50 AM on working days",
+      "Must provide 2 verifiable guarantors (MANDATORY)",
+      "Proactive, patient, and level-headed while driving",
+      "Ability to communicate in English and Pidgin"
+    ],
+    apply: 'Send CV via WhatsApp ONLY to <a href="https://wa.me/2347044760495">07044760495</a>. Subject: Personal Driver – Ikoyi. Include full name and current location.'
+  },
+  {
+    id: "digital-marketer-symphony-prime-lekki-2026",
+    title: "Digital Marketer",
+    date: "2026-05-28",
+    location: "Lekki Phase 1 & Environs, Lagos",
+    type: "Full-time",
+    seniority: "Mid-Level",
+    salary: "₦250,000 Net",
+    deadline: "Not Specified",
+    company: "Symphony Prime Limited",
+    summary: "Experienced Digital Marketer to plan, execute, and optimize marketing campaigns that drive brand visibility, customer acquisition, and sales growth.",
+    responsibilities: [
+      "Plan and execute digital marketing campaigns",
+      "Optimize campaigns for brand visibility and customer acquisition",
+      "Analyze marketing metrics and performance",
+      "Work closely with teams to achieve business sales goals"
+    ],
+    requirements: [
+      "Minimum of 2 years experience in digital marketing",
+      "Strong understanding of digital marketing strategies",
+      "Ability to work closely with cross-functional teams"
+    ],
+    apply: 'Send your resume to: <a href="mailto:symphonyprimelimited@gmail.com">symphonyprimelimited@gmail.com</a>'
+  },
+  {
+    id: "sales-business-development-executive-insurance-lekki-2026",
+    title: "Sales / Business Development Executive",
+    date: "2026-05-28",
+    location: "Lekki, Lagos",
+    type: "Full-time",
+    seniority: "Senior",
+    salary: "Not Specified",
+    deadline: "Not Specified",
+    summary: "Experienced Sales Executive with a background in the insurance industry, focusing on underwriting, operations, and client relationship management.",
+    responsibilities: [
+      "Drive insurance product sales and meet revenue targets",
+      "Manage and deepen client relationships",
+      "Oversee underwriting and insurance operations",
+      "Identify new business opportunities in the insurance sector"
+    ],
+    requirements: [
+      "Minimum of 5 years’ experience in the insurance sector",
+      "Strong knowledge of underwriting and operations",
+      "Excellent communication and negotiation skills",
+      "Bachelor’s degree in a related field"
+    ],
+    apply: 'Send CV to <a href="mailto:ukobasicynthia3@gmail.com">ukobasicynthia3@gmail.com</a> using the subject line "Sales / Business Development Executive".'
+  },
+  {
+    id: "accountant-gbagada-ajah-reliable-electrics-2026",
+    title: "Accountant",
+    date: "2026-05-28",
+    location: "Gbagada & Ajah, Lagos",
+    type: "Full-time",
+    seniority: "Junior",
+    salary: "Not Specified",
+    deadline: "Not Specified",
+    company: "Reliable Electrics",
+    summary: "Detail-oriented Accountant to manage financial records, ensure regulatory compliance, and support the company's financial health.",
+    responsibilities: [
+      "Prepare and maintain accurate financial records and ledger entries",
+      "Prepare monthly, quarterly, and annual financial statements (IFRS)",
+      "Reconcile bank accounts and balance sheet accounts",
+      "Assist in the preparation of budgets and forecasts",
+      "Ensure timely filing of statutory returns (VAT, PAYE)",
+      "Manage accounts payable and receivable"
+    ],
+    requirements: [
+      "Minimum of 1–3 years’ experience in accounting",
+      "Bachelor’s degree or HND in Accounting, Finance, or related field",
+      "Strong knowledge of accounting principles and financial reporting",
+      "Proficiency in accounting software and Microsoft Excel",
+      "Professional certification (ICAN, ACCA) is an added advantage"
+    ],
+    apply: 'Interested candidates should send their CV with role as subject to <a href="mailto:hr.reliable.electrics@gmail.com">hr.reliable.electrics@gmail.com</a>'
+  },
+  {
+    id: "internal-audit-officer-mainland-contract-2026",
+    title: "Internal Audit Officer (Renewable Contract)",
+    date: "2026-05-28",
+    location: "Mainland, Lagos",
+    type: "Contract",
+    seniority: "Junior",
+    salary: "₦198,000 Net Monthly",
+    deadline: "Not Specified",
+    summary: "Seeking an Internal Audit Officer on a renewable contract basis to support the audit function by ensuring compliance and contributing to process improvement.",
+    responsibilities: [
+      "Ensure compliance with internal controls and policies",
+      "Verify adherence to regulatory requirements",
+      "Contribute to process improvement and risk mitigation",
+      "Support the general audit function"
+    ],
+    requirements: [
+      "Minimum of BSc or HND in any discipline",
+      "0–2 years of experience",
+      "Strong communication and analytical skills",
+      "High attention to detail and accountability"
+    ],
+    apply: 'Interested candidates should apply via the link: <a href="https://forms.gle/HphmVaE9DPTCdHmq9">https://forms.gle/HphmVaE9DPTCdHmq9</a>'
+  },
+  {
+    id: "crm-administrator-maryland-lagos-2026",
+    title: "CRM Administrator",
+    date: "2026-05-28",
+    location: "Maryland, Lagos",
+    type: "Contract",
+    seniority: "Mid-Level",
+    salary: "₦150,000 – ₦250,000",
+    deadline: "8th June, 2026",
+    summary: "Highly organized CRM Administrator for a 6-month contract to join the Revenue Operations Team and manage system administration, workflows, and data integrity.",
+    responsibilities: [
+      "Provide system administration support for the CRM (permissions, custom objects, etc.)",
+      "Create and manage complex workflow rules and approval processes",
+      "Analyze data to provide insights into team effectiveness",
+      "Coordinate integrations with third-party apps and plugins",
+      "Support user adoption, training, and troubleshooting",
+      "Maintain high data integrity and resolve anomalies"
+    ],
+    requirements: [
+      "2+ years of CRM Administration experience (Salesforce, Microsoft Dynamics)",
+      "Experience working directly with sales teams",
+      "Ability to configure custom objects, workflows, and reports",
+      "Interest in marketing strategy, SEO, and tech",
+      "Salesforce certification is a plus"
+    ],
+    apply: 'Interested and qualified candidates should send CV to: <a href="mailto:hronyizconsult@gmail.com">hronyizconsult@gmail.com</a> using the Job Title as subject.'
+  },
+  {
+    id: "budget-analyst-maryland-lagos-2026",
+    title: "Budget Analyst",
+    date: "2026-05-28",
+    location: "Maryland, Lagos",
+    type: "Full-time",
+    seniority: "Mid-Level",
+    salary: "₦200,000 – ₦300,000",
+    deadline: "1st June, 2026",
+    summary: "Reliable Budget Analyst to assist in effective budget planning, expenditure oversight, and funding allocation through detailed data analysis.",
+    responsibilities: [
+      "Review budget proposals and funding requests",
+      "Conduct cost/benefit and other analytical reviews",
+      "Collaborate with managers to develop consolidated budgets",
+      "Ensure budget adheres to legal regulations",
+      "Forecast future budget needs and suggest profit improvements",
+      "Prepare periodical and special reports"
+    ],
+    requirements: [
+      "BSc / MSc Degree in Accounting, Finance, or Business",
+      "Proven experience as a budget analyst",
+      "Knowledge of data analysis and forecasting methods",
+      "Excellent mathematical ability and analytical mind",
+      "Proficient in MS Office and databases"
+    ],
+    apply: 'Interested and qualified candidates should send CV to: <a href="mailto:hronyizconsult@gmail.com">hronyizconsult@gmail.com</a> using the Job Title as subject.'
+  },
+  {
+    id: "female-live-in-domestic-staff-lekki-ajah-90k-2026",
+    title: "Female Live-in Domestic Staff",
+    date: "2026-05-28",
+    location: "Lekki-Ajah Axis, Lagos",
+    type: "Full-time (Live-in)",
+    seniority: "Junior",
+    salary: "₦90,000",
+    deadline: "Not Specified",
+    summary: "Experienced live-in domestic staff needed for a client in Lekki-Ajah. Specifically seeking Benue, Crossriver, or Akwaibom indigenes.",
+    responsibilities: [
+      "Clean and arrange the house",
+      "Professional cooking",
+      "Take care of children",
+      "Run errands outside the house"
+    ],
+    requirements: [
+      "Age: 23 to 27 years",
+      "Indigene of Benue, Crossriver, or Akwaibom ONLY",
+      "Must have prior experience as a Domestic Staff",
+      "Must provide two (2) verifiable guarantors with ID cards",
+      "Available for monthly off-days (last weekend of every month)"
+    ],
+    apply: 'Apply via WhatsApp ONLY: <a href="https://wa.me/2348083295414">08083295414</a>'
+  },
+  {
+    id: "sales-personnel-greatmindsng-lekki-2026",
+    title: "Sales Personnel",
+    date: "2026-05-28",
+    location: "Lekki, Lagos",
+    type: "Part-time (Weekend)",
+    seniority: "Junior",
+    salary: "Not Specified",
+    deadline: "Not Specified",
+    company: "GreatmindsNG Digital Services",
+    summary: "Sales Personnel needed for weekend shifts (Saturday & Sunday) in Lekki. Requires smart, target-driven graduates with strong numerical skills.",
+    responsibilities: [
+      "Drive sales and digital service adoption",
+      "Maintain weekend operations and customer engagement",
+      "Manage transactions and figures accurately"
+    ],
+    requirements: [
+      "Must reside in Lekki",
+      "Age: 20 – 27 years",
+      "Graduate with a minimum of 2:1",
+      "Excellent communication and multitasking skills",
+      "Good with numbers and analytical tasks"
+    ],
+    apply: 'Send CV, WhatsApp/call number, and a recent picture to: <a href="mailto:greatmindsnga@gmail.com">greatmindsnga@gmail.com</a>'
+  },
+  {
+    id: "customer-service-officer-teller-marina-gti-2026",
+    title: "Customer Service Officer / Teller",
+    date: "2026-05-28",
+    location: "Marina, Lagos",
+    type: "Full-time",
+    seniority: "Junior",
+    salary: "Not Specified",
+    deadline: "10th June, 2026",
+    summary: "Professional Customer Service Officer / Teller to process transactions, balance cash drawers, and promote positive client relationships for a financial institution in Marina.",
+    responsibilities: [
+      "Process customer deposits, withdrawals, and cheque cashing",
+      "Maintain and reconcile cash drawer daily",
+      "Identify and escalate suspicious activities",
+      "Promote bank products and services",
+      "Maintain confidentiality of account information"
+    ],
+    requirements: [
+      "Minimum of OND / HND / B.Sc in any related field",
+      "Strong customer service and communication skills",
+      "Attention to detail and accuracy in cash handling",
+      "Prior experience in banking/microfinance is an advantage"
+    ],
+    apply: 'Send CV to <a href="mailto:career@gti.com.ng">career@gti.com.ng</a> (Subject: Customer Service Officer / Teller).'
+  },
+  {
+    id: "graduate-trainee-program-telmek-energy-2026",
+    title: "2026 Graduate Trainee Program",
+    date: "2026-05-28",
+    location: "Lagos",
+    type: "Graduate Trainee",
+    seniority: "Junior",
+    salary: "Not Specified",
+    deadline: "25th June 2026",
+    company: "Telmek Energy Solutions Limited",
+    summary: "Structured development initiative for Mechanical and Electrical Engineering graduates to gain hands-on experience in off-grid power and energy infrastructure.",
+    responsibilities: [
+      "Participate in off-grid power generation projects",
+      "Support power distribution systems maintenance",
+      "Assist in technical project execution",
+      "Gain exposure to operational excellence in the power sector"
+    ],
+    requirements: [
+      "Bachelor’s Degree in Mechanical or Electrical Engineering",
+      "Minimum of Second Class Lower (2:2)",
+      "Completed mandatory NYSC program",
+      "Knowledge of CAD software/tools is an added advantage",
+      "Strong analytical and communication skills"
+    ],
+    apply: 'Send CV to: <a href="mailto:careers@telmekglobal.com">careers@telmekglobal.com</a>'
+  },
+  {
+    id: "factory-workers-production-assistants-valerie-paints-2026",
+    title: "Factory Workers / Production Assistants",
+    date: "2026-05-28",
+    location: "Not Specified",
+    type: "Full-time",
+    seniority: "Junior",
+    salary: "Competitive",
+    deadline: "Not Specified",
+    company: "Valerie Paints",
+    summary: "Valerie Paints is recruiting hardworking individuals to support its paint production and factory operations.",
+    responsibilities: [
+      "Assist in the production and mixing of paints",
+      "Support factory packaging and logistics",
+      "Maintain a clean and safe work environment"
+    ],
+    requirements: [
+      "Hardworking and dedicated",
+      "Willingness to learn and grow in a manufacturing setting",
+      "Must be physically fit"
+    ],
+    apply: 'Send CV and application to: <a href="mailto:careers@valeriepaints.com">careers@valeriepaints.com</a>'
+  },
+  {
+    id: "marketing-sales-executive-valerie-paints-2026",
+    title: "Marketing / Sales Executive",
+    date: "2026-05-28",
+    location: "Not Specified",
+    type: "Full-time",
+    seniority: "Junior",
+    salary: "Competitive",
+    deadline: "Not Specified",
+    company: "Valerie Paints",
+    summary: "Valerie Paints is seeking passionate sales professionals to join its expanding team and drive market growth.",
+    responsibilities: [
+      "Identify and approach potential clients",
+      "Achieve monthly sales targets",
+      "Maintain strong customer relationships"
+    ],
+    requirements: [
+      "Driven and dedicated mindset",
+      "Good communication and persuasive skills",
+      "Ready to grow in a supportive work environment"
+    ],
+    apply: 'Send CV and application to: <a href="mailto:careers@valeriepaints.com">careers@valeriepaints.com</a>'
+  },
+  {
+    id: "cjid-environmental-journalism-fellowship-2026",
+    title: "Environmental Journalism Storytelling Fellowship",
+    date: "2026-05-28",
+    location: "Remote / Multiple",
+    type: "Fellowship",
+    seniority: "Junior",
+    salary: "Stipend Provided",
+    deadline: "8 June 2026",
+    company: "Centre for Journalism Innovation and Development (CJID)",
+    summary: "A six-month fellowship in partnership with UNESCO GMDF to strengthen investigative reporting on violence against environmental reporters.",
+    responsibilities: [
+      "Conduct investigative reporting on violence against environmental reporters",
+      "Produce and publish stories in line with international standards",
+      "Participate in capacity-building workshops and dissemination activities"
+    ],
+    requirements: [
+      "Practicing environmental journalists",
+      "Passion for investigative storytelling",
+      "Commitment to the six-month fellowship duration"
+    ],
+    apply: 'Apply here: <a href="https://docs.google.com/forms/d/e/1FAIpQLSdSdYbh7jxSDpqjqLLire-pL-AkvAbPw_fXEMzssdouBDZasQ/viewform">Fellowship Application Form</a>'
+  },
+  {
+    id: "area-sales-manager-pharma-abuja-ibadan-2026",
+    title: "Area Sales Manager (Medical)",
+    date: "2026-05-28",
+    location: "Abuja & Ibadan",
+    type: "Full-time",
+    seniority: "Senior",
+    salary: "Competitive + Incentives",
+    deadline: "Not Specified",
+    company: "A reputable pharmaceutical company",
+    summary: "Result-driven Area Sales Manager to drive sales growth, manage medical sales reps, and build relationships with healthcare professionals in Abuja and Ibadan.",
+    responsibilities: [
+      "Drive sales growth and achieve business targets within assigned territory",
+      "Manage, supervise, and motivate Medical Sales Representatives",
+      "Develop and implement strategic sales plans",
+      "Build strong relationships with hospitals, pharmacies, and distributors",
+      "Monitor market trends and competitor activities",
+      "Prepare periodic sales performance analysis"
+    ],
+    requirements: [
+      "Bachelor’s degree in Pharmacy, Life Science, or related field (MBA is a plus)",
+      "Minimum 5–7 years’ experience in the pharmaceutical industry (MANDATORY)",
+      "Previous experience as an Area Sales Manager or in a supervisory role",
+      "Strong leadership, negotiation, and relationship management abilities",
+      "Good knowledge of pharmaceutical sales operations"
+    ],
+    apply: 'Send CV to <a href="mailto:hr@pharmaethics.com">hr@pharmaethics.com</a> using "Area Sales Manager – Abuja" or "Area Sales Manager – Ibadan" as the subject.'
+  },
+  {
     id: "senior-manager-operations-renewable-energy-2026",
     title: "Senior Manager, Operations",
     date: "2026-05-26",

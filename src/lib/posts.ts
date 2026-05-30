@@ -10,6 +10,566 @@ export type Post = {
 
 const allPosts: Post[] = [
   {
+    id: "oauthc-school-of-community-health-higher-diploma-admission-2026-2027",
+    title: "OAUTHC School of Community Health Opens Admission for 2026/2027 Higher Diploma Programme",
+    category: "Education",
+    date: "2026-05-30",
+    excerpt: "Obafemi Awolowo University Teaching Hospitals Complex (OAUTHC) has announced the commencement of applications for admission into its School of Community Health for the 2026/2027 academic session.",
+    content: `<h2>OAUTHC School of Community Health Opens Admission for 2026/2027 Higher Diploma Programme</h2>
+      <p>Obafemi Awolowo University Teaching Hospitals Complex (OAUTHC) has announced the commencement of applications for admission into its School of Community Health for the 2026/2027 academic session.</p>
+      <p>The programme is designed for qualified Community Health practitioners seeking advanced professional training and leads to the award of a <strong>Higher Diploma in Community Health</strong>. Successful candidates will begin their studies in <strong>September 2026</strong>.</p>
+
+      <h3>Programme Duration and Award</h3>
+      <p>The School of Community Health offers two admission routes:</p>
+      <table class="w-full border-collapse border border-gray-300 my-4 text-sm">
+        <thead>
+          <tr class="bg-gray-100 text-left">
+            <th class="border border-gray-300 p-2">Programme Route</th>
+            <th class="border border-gray-300 p-2">Duration</th>
+            <th class="border border-gray-300 p-2">Qualification Award</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td class="border border-gray-300 p-2">One-Year Programme</td><td class="border border-gray-300 p-2">One Calendar Year</td><td class="border border-gray-300 p-2">Higher Diploma in Community Health</td></tr>
+          <tr><td class="border border-gray-300 p-2">Two-Year Programme</td><td class="border border-gray-300 p-2">Two Calendar Years</td><td class="border border-gray-300 p-2">Higher Diploma in Community Health</td></tr>
+        </tbody>
+      </table>
+      <p>Applicants are advised to select the route that matches their academic qualifications, professional certifications, and work experience.</p>
+
+      <h3>General Admission Requirements</h3>
+      <p>All applicants must possess five credit passes in relevant subjects obtained in not more than two sittings from WAEC, GCE O’Level, NECO, or NABTEB. The required subjects are:</p>
+      <ul>
+        <li>English Language</li>
+        <li>Mathematics</li>
+        <li>Biology</li>
+        <li>Chemistry</li>
+        <li>Physics</li>
+      </ul>
+
+      <h3>Eligibility for the One-Year Programme</h3>
+      <p>Candidates applying for the one-year Higher Diploma programme must be qualified as a Community Health Extension Worker (CHEW) and possess a First Degree in Community Health Science, Health Education, or Public Health, <strong>OR</strong> hold an HND in Community Health. Candidates must be registered with the Community Health Practitioners Registration Board of Nigeria and possess a valid practising licence.</p>
+
+      <h3>Eligibility for the Two-Year Programme</h3>
+      <p>Applicants seeking admission into the two-year programme must possess a Diploma in Community Health <strong>OR</strong> a CHEW Certificate with at least five years of professional experience. Candidates must be registered with the CHPRBN and hold a valid practising licence.</p>
+
+      <h3>Application Fee and How to Apply</h3>
+      <p>The admission form costs <strong>₦15,000</strong> only, payable online through Remita.</p>
+      <p>Interested candidates should complete their application through the <a href="https://oauthc.gov.ng/schools/index.php">OAUTHC School application website</a> by following these steps:</p>
+      <ol>
+        <li>Follow all application instructions carefully.</li>
+        <li>Complete the online application form.</li>
+        <li>Select <strong>CHEW and BSc</strong> for the One-Year Programme or <strong>CHEW</strong> for the Two-Year Programme.</li>
+        <li>Pay the fee through Remita and submit the form before the deadline.</li>
+      </ol>
+
+      <h3>Application Deadline and Selection Schedule</h3>
+      <p>The closing date for submission is <strong>Wednesday, 24 July 2026</strong>. Selection will be based on a competitive written test and oral interview.</p>
+      <table class="w-full border-collapse border border-gray-300 my-4 text-sm">
+        <thead>
+          <tr class="bg-gray-100 text-left">
+            <th class="border border-gray-300 p-2">Activity</th>
+            <th class="border border-gray-300 p-2">Date</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td class="border border-gray-300 p-2">Written Test</td><td class="border border-gray-300 p-2">Monday, 27 July 2026</td></tr>
+          <tr><td class="border border-gray-300 p-2">Oral Interview</td><td class="border border-gray-300 p-2">Tuesday, 28 July 2026</td></tr>
+        </tbody>
+      </table>
+
+      <h3>Required Documents for Screening</h3>
+      <p>Applicants must bring the following to the venue:</p>
+      <ul>
+        <li>Examination slip</li>
+        <li>Original academic and professional certificates</li>
+        <li>Valid practising licence</li>
+      </ul>
+
+      <h3>Contact Information</h3>
+      <p>For enquiries, contact the School of Community Health through:</p>
+      <ul>
+        <li>+234 8152092797</li>
+        <li>+234 7058537022</li>
+        <li>Email: <a href="mailto:schoolofcommunityhealthobafemi@gmail.com">schoolofcommunityhealthobafemi@gmail.com</a></li>
+      </ul>`,
+    tags: [
+      "OAUTHC",
+      "Community Health",
+      "Admission",
+      "Higher Diploma",
+      "2026/2027",
+      "Education",
+      "Nigeria",
+    ],
+  },
+  {
+    id: "lagos-state-college-of-nursing-nd-hnd-nursing-admission-2026-2027",
+    title: "Lagos State College of Nursing Opens 2026/2027 ND/HND Nursing Admission Application",
+    category: "Education",
+    date: "2026-05-29",
+    excerpt: "Lagos State College of Nursing (LASCON) has announced the commencement of applications for admission into its National Diploma (ND) and Higher National Diploma (HND) Nursing programme for the 2026/2027 academic session.",
+    content: `<h2>Lagos State College of Nursing Opens 2026/2027 ND/HND Nursing Admission Application</h2>
+      <p>Lagos State College of Nursing (LASCON) has announced the commencement of applications for admission into its National Diploma (ND) and Higher National Diploma (HND) Nursing programme for the 2026/2027 academic session.</p>
+      <p>Qualified candidates are invited to apply for the Computer Assisted Screening Exercise scheduled for later in the year. The programme is offered at the college's Igando campus and runs on a four-year non-terminal HND/RM/RPHN pathway.</p>
+
+      <h3>Application Period</h3>
+      <p>The online application portal will be open from:</p>
+      <ul>
+        <li><strong>Opening Date:</strong> Tuesday, 26 May 2026</li>
+        <li><strong>Closing Date:</strong> Tuesday, 21 July 2026</li>
+      </ul>
+      <p>Prospective applicants are encouraged to complete their registration before the deadline, as no provision has been announced for late applications.</p>
+
+      <h3>Eligibility Requirements for LASCON ND/HND Nursing Admission</h3>
+      <p>Candidates seeking admission into the nursing programme must satisfy the following requirements:</p>
+      <ul>
+        <li>Score a minimum of <strong>200</strong> in the 2026 UTME</li>
+        <li>Select Lagos State College of Nursing as their <strong>first-choice institution</strong></li>
+        <li>Be at least <strong>17 years old</strong> before the end of the 2026 admission exercise</li>
+        <li>Possess five relevant O’Level credit passes</li>
+      </ul>
+
+      <h4>Required O’Level Subjects</h4>
+      <p>Applicants must have credit passes in English Language, Mathematics, Biology, Chemistry, and Physics. The college accepts:</p>
+      <ul>
+        <li>WAEC and/or NECO results in not more than two sittings</li>
+        <li>NABTEB results in one sitting only</li>
+      </ul>
+      <p>Candidates are advised to verify that they meet all admission requirements before proceeding with payment.</p>
+
+      <h3>Programme Duration</h3>
+      <p>The ND/HND Nursing programme runs for <strong>four years</strong> and follows a non-terminal pathway leading to Higher National Diploma (HND), Registered Midwife (RM), and Registered Public Health Nurse (RPHN). Training is fully residential.</p>
+
+      <h3>Fees Payable</h3>
+      <table class="w-full border-collapse border border-gray-300 my-4 text-sm">
+        <thead>
+          <tr class="bg-gray-100 text-left">
+            <th class="border border-gray-300 p-2">Fee Category</th>
+            <th class="border border-gray-300 p-2">Amount</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td class="border border-gray-300 p-2">Application Fee</td><td class="border border-gray-300 p-2">₦25,000</td></tr>
+          <tr><td class="border border-gray-300 p-2">Acceptance Fee</td><td class="border border-gray-300 p-2">₦100,000</td></tr>
+          <tr><td class="border border-gray-300 p-2">First-Year Tuition Fee</td><td class="border border-gray-300 p-2">₦300,000</td></tr>
+        </tbody>
+      </table>
+      <p>The application and acceptance fees are non-refundable.</p>
+
+      <h3>How to Apply</h3>
+      <p>Interested candidates should complete their application through the official LASCON admission portal by following these steps:</p>
+      <ol>
+        <li>Visit the <a href="https://admissions.lascon.edu.ng/Main/freshman">LASCON freshman application portal</a>.</li>
+        <li>Create a new application account.</li>
+        <li>Enter the required details, including Surname, First Name, Email, Phone Number, JAMB Registration Number, and Course Selection.</li>
+        <li>Submit the registration form and check the registered email address for the confirmation message.</li>
+        <li>Open the email and access the payment link to pay the non-refundable application fee of ₦25,000.</li>
+        <li>Receive your application number and password via email, then log in to continue the application.</li>
+        <li>Complete all required sections, submit the form, and print the examination slip.</li>
+      </ol>
+
+      <h3>Screening Date and Venue</h3>
+      <table class="w-full border-collapse border border-gray-300 my-4 text-sm">
+        <thead>
+          <tr class="bg-gray-100 text-left">
+            <th class="border border-gray-300 p-2">Activity</th>
+            <th class="border border-gray-300 p-2">Date</th>
+            <th class="border border-gray-300 p-2">Time</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="border border-gray-300 p-2">Computer Assisted Screening</td>
+            <td class="border border-gray-300 p-2">Saturday, 22 August 2026</td>
+            <td class="border border-gray-300 p-2">8:00 a.m.</td>
+          </tr>
+        </tbody>
+      </table>
+
+      <h4>Venue</h4>
+      <p>Lagos State College of Nursing, Inside Alimosho General Hospital, Igando, Lagos State.</p>
+      <p>The examination will be computer-based and will cover English Language, Mathematics, Biology, Chemistry, Physics, and Current Affairs.</p>
+
+      <h3>Fraud Warning</h3>
+      <p>The college has warned applicants to be cautious of fraudsters and unauthorised admission agents. Candidates are advised to rely only on the official admission portal and approved communication channels.</p>
+
+      <h3>Contact Information</h3>
+      <ul>
+        <li>08027247149</li>
+        <li>08033270037</li>
+        <li>08026944259</li>
+      </ul>`,
+    tags: [
+      "LASCON",
+      "Lagos State College of Nursing",
+      "Nursing Admission",
+      "ND",
+      "HND",
+      "2026/2027",
+      "Education",
+      "Nigeria",
+      "Igando",
+    ],
+  },
+  {
+    id: "delsu-post-utme-direct-entry-screening-admission-2026-2027",
+    title: "DELSU Opens 2026/2027 Post UTME and Direct Entry Screening for Admission",
+    category: "Education",
+    date: "2026-05-29",
+    excerpt: "Delta State University (DELSU) has officially announced the commencement of its Post UTME and Direct Entry screening application for the 2026/2027 academic session.",
+    content: `<h2>DELSU Opens 2026/2027 Post UTME and Direct Entry Screening for Admission</h2>
+      <p>Delta State University has officially announced the commencement of its Post UTME and Direct Entry screening application for the 2026/2027 academic session.</p>
+      <p>The admission exercise is open to qualified candidates seeking undergraduate placement into various programmes offered by the university.</p>
+
+      <h3>Who Can Apply for DELSU Post UTME?</h3>
+      <p>Candidates are eligible to apply if they:</p>
+      <ul>
+        <li>Chose Delta State University, Abraka as their <strong>first choice</strong> during UTME registration</li>
+        <li>Scored <strong>150 and above</strong> in the 2026 UTME</li>
+      </ul>
+      <p>Candidates who did not initially select DELSU can still apply, but they must first change their institution of choice on the JAMB portal to DELSU before the application deadline.</p>
+
+      <h3>Application Timeline</h3>
+      <table class="w-full border-collapse border border-gray-300 my-4 text-sm">
+        <thead>
+          <tr class="bg-gray-100 text-left">
+            <th class="border border-gray-300 p-2">Item</th>
+            <th class="border border-gray-300 p-2">Details</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td class="border border-gray-300 p-2">Institution</td><td class="border border-gray-300 p-2">Delta State University, Abraka</td></tr>
+          <tr><td class="border border-gray-300 p-2">Admission Type</td><td class="border border-gray-300 p-2">Post UTME and Direct Entry</td></tr>
+          <tr><td class="border border-gray-300 p-2">Academic Session</td><td class="border border-gray-300 p-2">2026/2027</td></tr>
+          <tr><td class="border border-gray-300 p-2">Application Starts</td><td class="border border-gray-300 p-2">Friday, 29 May 2026</td></tr>
+          <tr><td class="border border-gray-300 p-2">Application Closes</td><td class="border border-gray-300 p-2">Tuesday, 30 June 2026 (12:00 midnight)</td></tr>
+          <tr><td class="border border-gray-300 p-2">UTME Cut-Off Mark</td><td class="border border-gray-300 p-2">150 and above</td></tr>
+          <tr><td class="border border-gray-300 p-2">Application Fee</td><td class="border border-gray-300 p-2">₦2,000</td></tr>
+        </tbody>
+      </table>
+      <p>Applicants are strongly advised to complete their registration before the deadline, as late applications will not be accepted.</p>
+
+      <h3>How to Apply for DELSU Post UTME</h3>
+      <p>Candidates are required to complete their application online through the official DELSU portal by following these steps:</p>
+      <ol>
+        <li>Visit the <a href="https://portal.delsuces.online/">DELSU Post UTME application portal</a></li>
+        <li>Click on “POST UTME 2026/2027”</li>
+        <li>Select “Start Form”</li>
+        <li>Enter your JAMB registration number</li>
+        <li>Complete the application form and pay the ₦2,000 fee</li>
+        <li>Fill in O’Level and guardian details</li>
+        <li>Upload a passport photograph</li>
+        <li>Submit the application</li>
+        <li>Print and keep a copy of the completed form</li>
+      </ol>
+
+      <h3>Direct Entry Admission Requirements</h3>
+      <p>Direct Entry candidates can also apply using the same screening portal. Eligible qualifications include: NCE, OND, HND, First Degree, and A’Level or equivalent qualifications. Candidates must ensure their qualifications match the requirements of their chosen course of study.</p>
+
+      <h3>Important O’Level and JAMB Upload Rules</h3>
+      <ul>
+        <li>Their O’Level results are uploaded to the JAMB portal</li>
+        <li>Awaiting results are uploaded immediately once available</li>
+        <li>A’Level results (for Direct Entry candidates) are properly verified</li>
+      </ul>
+      <p>Joint Admissions and Matriculation Board requires proper result upload for admission consideration, and failure to comply may lead to disqualification.</p>
+
+      <h3>Communication and Screening Updates</h3>
+      <p>The university will communicate screening details using the phone numbers and email address provided during registration. Applicants are advised to use active and accessible contact information to avoid missing important updates.</p>
+
+      <h3>Important Information to Check Before Submission</h3>
+      <ul>
+        <li>JAMB registration number</li>
+        <li>O’Level details</li>
+        <li>Passport photograph</li>
+        <li>Payment status</li>
+        <li>Email and phone number</li>
+        <li>Guardian information</li>
+      </ul>
+
+      <h3>Contact Information</h3>
+      <p>For enquiries and support, candidates can contact the university via:</p>
+      <ul>
+        <li>Email: <a href="mailto:admission@delsu.edu.ng">admission@delsu.edu.ng</a></li>
+        <li>WhatsApp: 08060264240, 07039151870</li>
+      </ul>
+
+      <h3>Final Note</h3>
+      <p>Candidates are advised to complete their registration early, ensure accurate information is provided, and confirm that all required JAMB and O’Level details are properly uploaded before the <strong>30 June 2026</strong> deadline.</p>
+      <p>Admission into DELSU remains competitive, and only candidates who meet all requirements and complete their application correctly will be considered for the 2026/2027 screening exercise.</p>`,
+    tags: [
+      "DELSU",
+      "Delta State University",
+      "Admission",
+      "Post UTME",
+      "Direct Entry",
+      "2026/2027",
+      "Education",
+      "Nigeria",
+    ],
+  },
+  {
+    id: "lacohtmas-admission-form-health-management-science-programmes",
+    title: "LACOHTMAS Admission Form Now Available for Health and Management Science Programmes",
+    category: "Education",
+    date: "2026-05-30",
+    excerpt: "Lafia College of Health Technology and Management Science (LACOHTMAS) has commenced the sale of admission forms for various professional health and management programmes.",
+    content: `<h2>LACOHTMAS Admission Form Now Available for Health and Management Science Programmes</h2>
+      <p>Lafia College of Health Technology and Management Science, popularly known as LACOHTMAS, has commenced the sale of admission forms for the current academic session.</p>
+      <p>The institution is inviting qualified candidates to apply for admission into its various health and management science programmes. Prospective students are advised to review the available courses, application fee, and contact information before purchasing the admission form.</p>
+
+      <h3>LACOHTMAS Admission Form Details</h3>
+      <p>The admission form provides an opportunity for candidates to gain entry into professional health-related and management science programmes offered by the college. Applicants are encouraged to choose a programme that aligns with their interests and career goals before beginning the admission process.</p>
+
+      <h3>Available Courses at LACOHTMAS</h3>
+      <p>The college offers admission into the following professional programmes:</p>
+      <ul>
+        <li>Community Health Extension Workers (CHEW)</li>
+        <li>Junior Community Health Extension Workers (JCHEW)</li>
+        <li>Public Health Technology (PHT)</li>
+        <li>Epidemiology and Disease Control Technology</li>
+        <li>Nutrition and Dietetics</li>
+        <li>Health Education</li>
+        <li>Medical Laboratory Technology (MLT)</li>
+        <li>Health Information Management</li>
+        <li>Medical Imaging Processing/X-Ray Technician (MIPT)</li>
+        <li>Dental Surgery Technician (DST)</li>
+        <li>Dental Therapy (HND)</li>
+        <li>Abridgement Programme</li>
+        <li>Pharmacy Technician (PT)</li>
+      </ul>
+
+      <h3>Cost of the Admission Form</h3>
+      <p>The admission form costs <strong>₦7,500 only</strong>. According to the admission notice, applicants are required to purchase the form directly from the college campus.</p>
+
+      <h3>How to Purchase the LACOHTMAS Admission Form</h3>
+      <ol>
+        <li>Visit the LACOHTMAS campus in Lafia, Nasarawa State.</li>
+        <li>Request the admission form for the current academic session.</li>
+        <li>Confirm the programme you wish to apply for.</li>
+        <li>Pay the admission form fee of ₦7,500.</li>
+        <li>Obtain guidance from the college if additional information is required.</li>
+      </ol>
+      <p>The institution advises applicants to rely only on official communication channels when seeking admission information.</p>
+
+      <h3>LACOHTMAS Campus Address</h3>
+      <p>The college is located at:<br />
+      <strong>Behind Ta’al Conference Hotel Annex</strong><br />
+      <strong>Jos Road, Lafia</strong><br />
+      <strong>Nasarawa State</strong><br />
+      <strong>P.O. Box 665</strong></p>
+
+      <h3>Official Contact Information</h3>
+      <p>Applicants can contact the college through the following channels:</p>
+      <h4>Phone Numbers</h4>
+      <ul>
+        <li><a href="tel:08087154240">08087154240</a></li>
+        <li><a href="tel:09150745015">09150745015</a></li>
+      </ul>
+      <h4>WhatsApp</h4>
+      <ul>
+        <li><a href="https://wa.me/2348121111106">08121111106</a></li>
+      </ul>
+      <h4>Email Addresses</h4>
+      <ul>
+        <li><a href="mailto:lacohtmas@gmail.com">lacohtmas@gmail.com</a></li>
+        <li><a href="mailto:shtlafia@yahoo.com">shtlafia@yahoo.com</a></li>
+        <li><a href="mailto:chtlafia@gmail.com">chtlafia@gmail.com</a></li>
+      </ul>
+
+      <h3>Important Information for Applicants</h3>
+      <p>Before purchasing the admission form, candidates should confirm the course they intend to study, verify the fee, and visit the correct campus location. Candidates interested in building a career in the health sector are encouraged to contact the college early and obtain complete admission details before applying.</p>`,
+    tags: [
+      "LACOHTMAS",
+      "Lafia",
+      "Admission",
+      "Health Technology",
+      "Nasarawa",
+    ],
+  },
+  {
+    id: "kogi-state-polytechnic-post-utme-registration-2026-2027",
+    title: "Kogi State Polytechnic Opens 2026/2027 Post UTME Registration for ND Full-Time Admission",
+    category: "Education",
+    date: "2026-05-25",
+    excerpt: "Kogi State Polytechnic has announced the commencement of its Post UTME screening registration for National Diploma (ND) full-time programmes for the 2026/2027 academic session.",
+    content: `<h2>Kogi State Polytechnic Opens 2026/2027 Post UTME Registration for ND Full-Time Admission</h2>
+      <p>Kogi State Polytechnic has announced the commencement of its Post UTME screening registration for candidates seeking admission into National Diploma (ND) full-time programmes for the 2026/2027 academic session.</p>
+      <p>The admission exercise covers a wide range of programmes across agriculture, engineering, applied sciences, environmental technology, communication studies, art and design, and management sciences.</p>
+
+      <h3>KSP Post UTME Registration Dates</h3>
+      <p>Eligible candidates can begin registration from:</p>
+      <ul>
+        <li><strong>Opening Date:</strong> Monday, 25 May 2026</li>
+        <li><strong>Closing Date:</strong> Tuesday, 30 June 2026</li>
+      </ul>
+      <p>Applicants are advised to complete their registration before the deadline to avoid missing the opportunity.</p>
+
+      <h4>Admission Overview</h4>
+      <table class="w-full border-collapse border border-gray-300 my-4 text-sm">
+        <thead>
+          <tr class="bg-gray-100 text-left">
+            <th class="border border-gray-300 p-2">Item</th>
+            <th class="border border-gray-300 p-2">Details</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td class="border border-gray-300 p-2">Institution</td><td class="border border-gray-300 p-2">Kogi State Polytechnic, Lokoja</td></tr>
+          <tr><td class="border border-gray-300 p-2">Admission Type</td><td class="border border-gray-300 p-2">ND Full-Time</td></tr>
+          <tr><td class="border border-gray-300 p-2">Academic Session</td><td class="border border-gray-300 p-2">2026/2027</td></tr>
+          <tr><td class="border border-gray-300 p-2">Registration Opens</td><td class="border border-gray-300 p-2">Monday, 25 May 2026</td></tr>
+          <tr><td class="border border-gray-300 p-2">Registration Closes</td><td class="border border-gray-300 p-2">Tuesday, 30 June 2026</td></tr>
+          <tr><td class="border border-gray-300 p-2">Minimum UTME Score</td><td class="border border-gray-300 p-2">100</td></tr>
+          <tr><td class="border border-gray-300 p-2">Application Fee</td><td class="border border-gray-300 p-2">₦2,000</td></tr>
+          <tr><td class="border border-gray-300 p-2">Mode of Application</td><td class="border border-gray-300 p-2">Online</td></tr>
+        </tbody>
+      </table>
+
+      <h3>Eligibility Requirements</h3>
+      <p>Candidates seeking admission into Kogi State Polytechnic must meet the following conditions:</p>
+      <ul>
+        <li>Have participated in the 2026 UTME</li>
+        <li>Score a minimum of <strong>100</strong> in the examination</li>
+        <li>Possess at least five O’Level credits, including English Language and Mathematics</li>
+        <li>Obtain the required credits in not more than two sittings</li>
+      </ul>
+      <p>The institution also gives preference to candidates who selected Kogi State Polytechnic as their first-choice institution during UTME registration.</p>
+
+      <h3>Can Awaiting-Result Candidates Apply?</h3>
+      <p><strong>Yes.</strong> Candidates awaiting the release of their O’Level results are eligible to apply, provided they meet the minimum UTME score requirement. Such candidates must correctly indicate their awaiting-result status during registration.</p>
+
+      <h3>Importance of Correct Subject Combinations</h3>
+      <p>The polytechnic has advised candidates to carefully check the subject requirements for their chosen programmes. Meeting the UTME cut-off mark alone does not guarantee admission if the candidate's subject combination does not match the course requirements.</p>
+
+      <h3>Available ND Full-Time Programmes</h3>
+      <h4>School of Agricultural Technology</h4>
+      <ul><li>Agricultural Technology</li><li>Animal Health and Production Technology</li><li>Horticultural Technology</li></ul>
+      <h4>School of Applied Sciences</h4>
+      <ul><li>Computer Science</li><li>Science Laboratory Technology</li><li>Statistics</li></ul>
+      <h4>School of Art, Design and Printing</h4>
+      <ul><li>Art & Design</li><li>Fashion Design and Clothing Technology</li><li>Printing Technology</li></ul>
+      <h4>School of Engineering Technology</h4>
+      <ul><li>Agricultural & Bio-Environmental Engineering Technology</li><li>Civil Engineering Technology</li><li>Computer Engineering Technology</li><li>Electrical/Electronic Engineering Technology</li><li>Foundry Engineering Technology</li><li>Mechanical Engineering Technology</li><li>Mechatronics Engineering Technology</li><li>Metallurgical Engineering Technology</li><li>Mineral & Petroleum Resources Engineering Technology</li></ul>
+      <h4>School of Environmental Technology</h4>
+      <ul><li>Architectural Technology</li><li>Building Technology</li><li>Surveying & Geo-Informatics</li><li>Urban & Regional Planning</li></ul>
+      <h4>School of General and Communication Studies</h4>
+      <ul><li>Mass Communication</li></ul>
+      <h4>School of Management Studies</h4>
+      <ul><li>Accountancy</li><li>Business Administration</li><li>Library & Information Science</li><li>Office Technology & Management</li><li>Public Administration</li></ul>
+
+      <h3>Application Fee and Registration Process</h3>
+      <p>The Post UTME application fee is <strong>₦2,000</strong> only (non-refundable).</p>
+      <p>Interested candidates should complete their application through the official admission portal by following these steps:</p>
+      <ol>
+        <li>Visit the <a href="https://portal.kogistatepolytechnic.edu.ng/">Kogi State Polytechnic admission portal</a></li>
+        <li>Click on <strong>"Apply Now"</strong></li>
+        <li>Fill in the required information</li>
+        <li>Pay the ₦2,000 screening fee</li>
+        <li>Complete and submit the application form</li>
+      </ol>
+
+      <h3>Important Admission Guidelines</h3>
+      <ul>
+        <li>Upload your O’Level results to the JAMB portal</li>
+        <li>Use correct personal and academic information during registration</li>
+        <li>Verify your course choice and subject combinations before submission</li>
+        <li>Keep your contact details active throughout the admission process</li>
+      </ul>
+
+      <h3>Warning Against Admission Fraud</h3>
+      <p>The polytechnic has stated that it does not engage admission agents for the screening exercise. Applicants should avoid dealing with third parties and complete their registration only through the official application platform.</p>
+
+      <h3>What Can Lead to Disqualification?</h3>
+      <p>Kogi State Polytechnic warns that any candidate found providing false information during registration will be automatically disqualified. Applicants should carefully review their names, UTME information, O’Level records, and course selection before submitting their application.</p>
+      <p>Candidates who meet the requirements and complete their registration before <strong>30 June 2026</strong> will be considered for admission into the 2026/2027 ND full-time programmes.</p>`,
+    tags: [
+      "KSP",
+      "Kogi State Polytechnic",
+      "Admission",
+      "Post UTME",
+      "ND",
+      "2026/2027",
+      "Education",
+      "Nigeria",
+    ],
+  },
+  {
+    id: "ogun-state-college-of-nursing-sciences-nd-nursing-admission-2026-2027",
+    title: "Ogun State College of Nursing Sciences Opens ND Nursing Admission for 2026/2027 Session",
+    category: "Education",
+    date: "2026-05-30",
+    excerpt: "Ogun State College of Nursing Sciences has commenced the sale of application forms for its National Diploma (ND) Nursing programme for the 2026/2027 academic session.",
+    content: `<h2>Ogun State College of Nursing Sciences Opens ND Nursing Admission for 2026/2027 Session</h2>
+      <p>Ogun State College of Nursing Sciences has commenced the sale of application forms for admission into its National Diploma (ND) Nursing programme for the 2026/2027 academic session.</p>
+      <p>The admission exercise covers the college's campuses in Abeokuta, Ijebu-Ode, and Ilaro. Prospective candidates are advised to carefully review the admission requirements, application dates, and eligibility criteria before beginning the online registration process.</p>
+
+      <h3>Application Period</h3>
+      <p>The application portal opens on <strong>25 May 2026</strong> and will close on <strong>20 July 2026</strong>.</p>
+      <p>Interested applicants are encouraged to complete their registration early and ensure they meet all admission requirements before making payment.</p>
+
+      <h3>Eligibility Requirements for OGCON ND Nursing Admission</h3>
+      <p>To qualify for admission, candidates must meet the following conditions:</p>
+
+      <h4>UTME Requirement</h4>
+      <p>Applicants must:</p>
+      <ul>
+        <li>Have participated in the 2026 UTME</li>
+        <li>Score a minimum of <strong>180</strong> in the examination</li>
+        <li>Select Ogun State College of Nursing Sciences (Abeokuta, Ijebu-Ode, or Ilaro Campus) as their <strong>first-choice institution</strong></li>
+      </ul>
+      <p>Candidates who did not choose the college as their first choice should take note of this requirement before applying.</p>
+
+      <h3>O’Level Requirements</h3>
+      <p>Applicants must possess at least five credit passes in the following subjects:</p>
+      <ul>
+        <li>English Language</li>
+        <li>Mathematics</li>
+        <li>Biology</li>
+        <li>Chemistry</li>
+        <li>Physics</li>
+      </ul>
+      <p>The required credits must be obtained in <strong>not more than two sittings</strong>.</p>
+      <p>The college has also stated that <strong>awaiting results will not be accepted</strong> for this admission exercise.</p>
+
+      <h3>Age Requirement</h3>
+      <p>Candidates applying for the ND Nursing programme must be at least <strong>16 years old on or before 31 August 2026</strong>.</p>
+      <p>Applicants who do not meet the age requirement will not be considered for admission.</p>
+
+      <h3>Application Fee and Registration Process</h3>
+      <p>The application processing fee is <strong>₦23,200</strong>.</p>
+      <p>Eligible candidates are required to complete their registration through the official <a href="https://apply.ogcon.edu.ng/">OGCON ND Nursing application portal</a>, where payment and submission of application details will be carried out.</p>
+      <p>Applicants should ensure that all information provided during registration is accurate and consistent with their academic records.</p>
+
+      <h3>Support and Enquiries</h3>
+      <p>Candidates requiring technical assistance or admission-related support can contact the college during official working hours, Monday to Friday, from <strong>9:00 a.m. to 4:00 p.m.</strong></p>
+
+      <h4>Phone and WhatsApp Support (Text Messages Only)</h4>
+      <ul>
+        <li>08035702722</li>
+        <li>09097348494</li>
+        <li>09039891825</li>
+      </ul>
+
+      <h4>Official Email</h4>
+      <ul>
+        <li><a href="mailto:admissions@nursingcollege.edu.ng">admissions@nursingcollege.edu.ng</a></li>
+      </ul>
+
+      <h3>Final Reminder</h3>
+      <p>Prospective applicants should verify that they meet the JAMB score requirement, possess the required O’Level credits, satisfy the age condition, and have selected Ogun State College of Nursing Sciences as their first choice before proceeding with the application.</p>
+      <p>All applications must be submitted on or before <strong>20 July 2026</strong> to be considered for admission into the 2026/2027 ND Nursing programme.</p>`,
+    tags: [
+      "Ogun State",
+      "Nursing",
+      "Admission",
+      "ND Nursing",
+      "2026/2027",
+      "Education",
+      "Nigeria",
+      "Abeokuta",
+    ],
+  },
+  {
     id: "kwasued-admission-screening-2026-2027",
     title: "KWASUED Opens 2026/2027 Admission Screening Registration",
     category: "Education",

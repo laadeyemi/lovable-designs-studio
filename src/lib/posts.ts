@@ -10,10 +10,517 @@ export type Post = {
 
 const allPosts: Post[] = [
   {
+    id: "opay-national-innovation-challenge-2026",
+    title: "OPay National Innovation Challenge 2026: Win Up to ₦10 Million Grant, Scholarships and Career Opportunities",
+    category: "Scholarship",
+    date: "2026-05-31",
+    excerpt: "OPay opens applications for its 2026 National Innovation Challenge, offering Nigerian undergraduates up to ₦10 million in grants, scholarships, and career pathways.",
+    content: `<h2>OPay National Innovation Challenge 2026: Win Up to ₦10 Million Grant, Scholarships and Career Opportunities</h2>
+      <p>The OPay National Innovation Challenge 2026 is now open to Nigerian undergraduate students with innovative technology-driven solutions to real-world problems. The programme combines project grants, scholarship awards, mentorship, professional development, and career opportunities to help young innovators transform their ideas into impactful solutions.</p>
+      <p>The initiative is part of OPay's ₦1.2 billion, 10-year scholarship commitment aimed at empowering Nigerian students through innovation, technology, and entrepreneurship.</p>
+
+      <h3>About the OPay National Innovation Challenge 2026</h3>
+      <p>The challenge is designed to encourage students to develop practical technology-based solutions that address pressing social and economic challenges across various sectors such as healthcare, agriculture, education, and financial services.</p>
+
+      <h3>Eligibility Requirements</h3>
+      <table class="w-full border-collapse border border-gray-300 my-4 text-sm">
+        <thead>
+          <tr class="bg-gray-100 text-left">
+            <th class="border border-gray-300 p-2">Requirement</th>
+            <th class="border border-gray-300 p-2">Details</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td class="border border-gray-300 p-2">Student Status</td><td class="border border-gray-300 p-2">Undergraduate student in a Nigerian tertiary institution</td></tr>
+          <tr><td class="border border-gray-300 p-2">Course of Study</td><td class="border border-gray-300 p-2">Open to all disciplines</td></tr>
+          <tr><td class="border border-gray-300 p-2">Design Skill</td><td class="border border-gray-300 p-2">Proficiency in AI-assisted design using Canva-Gemini workflow</td></tr>
+          <tr><td class="border border-gray-300 p-2">Polytechnic CGPA</td><td class="border border-gray-300 p-2">Minimum 2.8 on a 4.0 scale</td></tr>
+          <tr><td class="border border-gray-300 p-2">University CGPA</td><td class="border border-gray-300 p-2">Minimum 3.5 on a 5.0 scale (2.1 equivalent)</td></tr>
+          <tr><td class="border border-gray-300 p-2">Financial Need</td><td class="border border-gray-300 p-2">Preference given to applicants with demonstrated hardship</td></tr>
+        </tbody>
+      </table>
+
+      <h3>Innovation Areas</h3>
+      <ul>
+        <li><strong>Fintech:</strong> Digital transactions and financial inclusion.</li>
+        <li><strong>Healthtech:</strong> Healthcare delivery and accessibility.</li>
+        <li><strong>Cybersecurity:</strong> Data protection and fraud prevention.</li>
+        <li><strong>EdTech:</strong> Learning platforms and student support.</li>
+        <li><strong>Agritech:</strong> Farming practices and supply chains.</li>
+        <li><strong>SMEs:</strong> Digital tools for informal sector operators.</li>
+      </ul>
+
+      <h3>Prize Awards and Benefits</h3>
+      <h4>First Place Prize (OPay National Innovator of the Year)</h4>
+      <ul>
+        <li>₦10,000,000 project grant</li>
+        <li>₦300,000 scholarship award</li>
+        <li>National media recognition & Mentorship</li>
+        <li>Job opportunity placement support</li>
+      </ul>
+
+      <h4>Second Place Prize</h4>
+      <ul>
+        <li>₦5,000,000 project grant</li>
+        <li>₦300,000 scholarship award</li>
+        <li>OPay Innovation Fellowship</li>
+      </ul>
+
+      <h4>Third Place Prize</h4>
+      <ul>
+        <li>₦3,000,000 project grant</li>
+        <li>₦300,000 scholarship award</li>
+        <li>OPay Innovation Fellowship</li>
+      </ul>
+
+      <h3>Programme Timeline</h3>
+      <table class="w-full border-collapse border border-gray-300 my-4 text-sm">
+        <thead>
+          <tr class="bg-gray-100 text-left">
+            <th class="border border-gray-300 p-2">Period</th>
+            <th class="border border-gray-300 p-2">Stage</th>
+            <th class="border border-gray-300 p-2">Details</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td class="border border-gray-300 p-2">May – June 2026</td><td class="border border-gray-300 p-2">Application</td><td class="border border-gray-300 p-2">Screening of over 100k applicants; 48 teams shortlisted</td></tr>
+          <tr><td class="border border-gray-300 p-2">June – Aug 2026</td><td class="border border-gray-300 p-2">Examination</td><td class="border border-gray-300 p-2">6-week training followed by timed examination</td></tr>
+          <tr><td class="border border-gray-300 p-2">Aug – Sept 2026</td><td class="border border-gray-300 p-2">Bootcamp</td><td class="border border-gray-300 p-2">Virtual bootcamp facilitated by OPay experts</td></tr>
+          <tr><td class="border border-gray-300 p-2">6 Nov 2026</td><td class="border border-gray-300 p-2">Grand Finale</td><td class="border border-gray-300 p-2">Top 4 teams pitch at Empowering Futures Conference 2.0</td></tr>
+        </tbody>
+      </table>
+
+      <h3>How to Apply</h3>
+      <ol>
+        <li>Visit the <a href="https://forms.gle/XrBeCYeMvPyY81wr5">official OPay Challenge 2026 application portal</a>.</li>
+        <li>Carefully read all instructions and eligibility requirements.</li>
+        <li>Complete all required sections of the application form in English.</li>
+        <li>Submit your proposal and review carefully before the deadline.</li>
+      </ol>
+
+      <h3>Application Checklist</h3>
+      <ul>
+        <li>Undergraduate status confirmed.</li>
+        <li>CGPA meets minimum requirements (2.8 for Poly, 3.5 for Uni).</li>
+        <li>Proficient in Canva-Gemini AI design workflow.</li>
+        <li>Project aligns with approved innovation sectors.</li>
+      </ul>
+
+      <h3>Conclusion</h3>
+      <p>The OPay National Innovation Challenge 2026 offers more than just financial rewards; it is a launchpad for the next generation of African tech leaders. Eligible students are encouraged to prepare their applications early to secure their chance at this life-changing opportunity.</p>`,
+    tags: [
+      "OPay",
+      "Innovation Challenge",
+      "Scholarship",
+      "Tech",
+      "Grant",
+      "Nigeria",
+      "2026",
+      "Undergraduate",
+    ],
+  },
+  {
+    id: "nnpc-snepco-postgraduate-scholarship-2026",
+    title: "NNPC–SNEPCo Postgraduate Scholarship 2026: Study MSc in the UK Fully Supported",
+    category: "Scholarship",
+    date: "2026-05-31",
+    excerpt: "NNPC and SNEPCo invite Nigerian graduates to apply for a fully supported one-year MSc scholarship in the UK at the University of Aberdeen or Newcastle University.",
+    content: `<h2>NNPC–SNEPCo Postgraduate Scholarship 2026: Study MSc in the UK Fully Supported</h2>
+      <p>The NNPC–SNEPCo Postgraduate Scholarship 2026 is a competitive award designed to support qualified Nigerian graduates who wish to pursue a one-year MSc programme in the United Kingdom. The scholarship is open to applicants from all 36 states of Nigeria and the Federal Capital Territory (FCT), Abuja.</p>
+      <p>The programme is jointly run by Shell Nigeria Exploration and Production Company Limited (SNEPCo), operating under Oil Mining Lease 118 in partnership with Nigerian National Petroleum Company Limited (NNPC) and co-venturers Esso Exploration and Production Nigeria and Nigerian Agip Exploration Company Limited.</p>
+      <hr>
+      <h3>What the Scholarship Covers</h3>
+      <p>The award provides partial financial support for studying in the UK, including:</p>
+      <ul>
+        <li>Full tuition coverage</li>
+        <li>One economy return flight ticket (Nigeria–UK–Nigeria)</li>
+        <li>Contribution to living expenses based on Association of Commonwealth Universities (ACU) rates</li>
+        <li>Medical insurance in line with UK Student Visa requirements</li>
+      </ul>
+      <hr>
+      <h3>Participating Universities</h3>
+      <table class="w-full border-collapse border border-gray-300 my-4 text-sm">
+        <thead>
+          <tr class="bg-gray-100 text-left">
+            <th class="border border-gray-300 p-2">University</th>
+            <th class="border border-gray-300 p-2">Application Link</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td class="border border-gray-300 p-2">University of Aberdeen</td><td class="border border-gray-300 p-2"><a href="https://www.abdn.ac.uk/">Official university website</a></td></tr>
+          <tr><td class="border border-gray-300 p-2">Newcastle University</td><td class="border border-gray-300 p-2"><a href="https://www.ncl.ac.uk/">Official university website</a></td></tr>
+        </tbody>
+      </table>
+      <hr>
+      <h3>Eligible MSc Courses</h3>
+      <h4>University of Aberdeen</h4>
+      <ul>
+        <li>MSc Geophysics</li>
+        <li>MSc Safety and Reliability Engineering for Oil and Gas</li>
+        <li>MSc Advanced Chemical Engineering</li>
+        <li>MSc Integrated Petroleum Geoscience</li>
+      </ul>
+      <h4>Newcastle University</h4>
+      <ul>
+        <li>MSc Data Science</li>
+        <li>MSc Data Science and Artificial Intelligence</li>
+        <li>MSc Artificial Intelligence</li>
+        <li>MSc Robotics and Artificial Intelligence</li>
+        <li>MSc Engineering Management</li>
+        <li>MSc Sustainable Chemical Engineering</li>
+        <li>MSc Marine and Ocean Engineering</li>
+      </ul>
+      <hr>
+      <h3>Eligibility Criteria</h3>
+      <p>Applicants must meet strict requirements:</p>
+      <ul>
+        <li><strong>Nationality:</strong> Must be Nigerian and resident in Nigeria.</li>
+        <li><strong>Age:</strong> 21 to 28 years by 30 September 2026.</li>
+        <li><strong>Academic:</strong> Hold or expect a UK Upper Second-Class Honours equivalent degree.</li>
+        <li><strong>NYSC:</strong> Completed NYSC by September 2026.</li>
+        <li><strong>Language:</strong> Minimum IELTS score of 6.5.</li>
+        <li><strong>Travel:</strong> Must possess a valid Nigerian international passport (valid until Dec 2026).</li>
+      </ul>
+      <hr>
+      <h3>How to Apply</h3>
+      <ol>
+        <li><strong>Choose an Eligible Course:</strong> Select a supported programme at Aberdeen or Newcastle.</li>
+        <li><strong>Apply for Admission:</strong> Submit an application through the university's portal.</li>
+        <li><strong>Receive Offer:</strong> Obtain a formal offer of admission.</li>
+        <li><strong>Submit Scholarship Application:</strong> Complete the form via the university website after receiving an offer.</li>
+      </ol>
+      <hr>
+      <h3>Application Deadline</h3>
+      <ul>
+        <li><strong>Closing date:</strong> 30 June 2026</li>
+        <li><strong>Academic session begins:</strong> September 2026</li>
+      </ul>
+      <hr>
+      <h3>Application Checklist</h3>
+      <table class="w-full border-collapse border border-gray-300 my-4 text-sm">
+        <thead>
+          <tr class="bg-gray-100 text-left">
+            <th class="border border-gray-300 p-2">Checklist Item</th>
+            <th class="border border-gray-300 p-2">Requirement</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td class="border border-gray-300 p-2">Age</td><td class="border border-gray-300 p-2">Between 21 and 28 years</td></tr>
+          <tr><td class="border border-gray-300 p-2">IELTS Score</td><td class="border border-gray-300 p-2">At least 6.5</td></tr>
+          <tr><td class="border border-gray-300 p-2">Passport</td><td class="border border-gray-300 p-2">Valid until Dec 2026</td></tr>
+          <tr><td class="border border-gray-300 p-2">Deadline</td><td class="border border-gray-300 p-2">Before 30 June 2026</td></tr>
+        </tbody>
+      </table>
+      <hr>
+      <h3>Conclusion</h3>
+      <p>The NNPC–SNEPCo Postgraduate Scholarship 2026 offers a valuable opportunity for Nigerian graduates to pursue advanced MSc studies in the United Kingdom. With full tuition support and living contributions, the programme is designed to build skilled professionals in the energy and technology sectors. Interested applicants should begin early by securing university admission.</p>`,
+    tags: [
+      "NNPC",
+      "SNEPCo",
+      "Scholarship",
+      "Postgraduate",
+      "UK Study",
+      "MSc",
+      "Nigeria",
+      "Aberdeen",
+      "Newcastle",
+      "2026",
+    ],
+  },
+  {
+    id: "heirs-insurance-essay-championship-2026",
+    title: "Heirs Insurance Essay Championship 2026: Win Up to ₦5 Million Scholarship Award",
+    category: "Scholarship",
+    date: "2026-05-31",
+    excerpt: "Heirs Insurance opens its 2026 Essay Championship for Nigerian JSS1-JSS3 students, offering a grand prize of a ₦5,000,000 scholarship and ₦1,000,000 school grant.",
+    content: `<h2>Heirs Insurance Essay Championship 2026: Win Up to ₦5 Million Scholarship Award</h2>
+      <p>The Heirs Insurance Essay Championship 2026 is now open to junior secondary school students across Nigeria. The annual competition provides an opportunity for students in JSS1 to JSS3 to showcase their writing skills, creativity, and understanding of insurance through a structured essay contest.</p>
+      <p>This year's competition offers scholarship prizes worth millions of naira, with the overall winner receiving a ₦5,000,000 scholarship award. In addition, the winner's school will receive a ₦1,000,000 educational grant.</p>
+      <p>Students interested in participating are encouraged to carefully review the competition requirements and submit their entries before the application deadline.</p>
+
+      <h3>Eligibility Requirements</h3>
+      <p>The competition is open to junior secondary school students in Nigeria. Applicants must meet the following requirements:</p>
+      <table class="w-full border-collapse border border-gray-300 my-4 text-sm">
+        <thead>
+          <tr class="bg-gray-100 text-left">
+            <th class="border border-gray-300 p-2">Eligibility Criteria</th>
+            <th class="border border-gray-300 p-2">Requirement</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td class="border border-gray-300 p-2">School Level</td><td class="border border-gray-300 p-2">JSS1 to JSS3</td></tr>
+          <tr><td class="border border-gray-300 p-2">Location</td><td class="border border-gray-300 p-2">Nigeria</td></tr>
+          <tr><td class="border border-gray-300 p-2">Essay Format</td><td class="border border-gray-300 p-2">Typed essay (Word Document)</td></tr>
+          <tr><td class="border border-gray-300 p-2">Topic Area</td><td class="border border-gray-300 p-2">Insurance and safer, more secure societies</td></tr>
+          <tr><td class="border border-gray-300 p-2">Submission Deadline</td><td class="border border-gray-300 p-2">8 July 2026</td></tr>
+        </tbody>
+      </table>
+
+      <h3>Essay Topic for 2026</h3>
+      <p>The 2026 essay competition focuses on the role of insurance in creating safer and more secure societies. Participants are expected to discuss how insurance contributes to protecting individuals, families, businesses, and communities from unexpected risks and losses.</p>
+
+      <h3>Scholarship Prizes and Awards</h3>
+      <table class="w-full border-collapse border border-gray-300 my-4 text-sm">
+        <thead>
+          <tr class="bg-gray-100 text-left">
+            <th class="border border-gray-300 p-2">Position</th>
+            <th class="border border-gray-300 p-2">Prize</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td class="border border-gray-300 p-2">Winner</td><td class="border border-gray-300 p-2">₦5,000,000 Scholarship</td></tr>
+          <tr><td class="border border-gray-300 p-2">First Runner-Up</td><td class="border border-gray-300 p-2">₦3,000,000 Scholarship</td></tr>
+          <tr><td class="border border-gray-300 p-2">Second Runner-Up</td><td class="border border-gray-300 p-2">₦1,000,000 Scholarship</td></tr>
+          <tr><td class="border border-gray-300 p-2">Winner's School</td><td class="border border-gray-300 p-2">₦1,000,000 Educational Grant</td></tr>
+        </tbody>
+      </table>
+
+      <h3>Submission Guidelines</h3>
+      <ul>
+        <li>The essay must contain no more than <strong>500 words</strong>.</li>
+        <li>Must be typed and submitted as a <strong>Microsoft Word document</strong>.</li>
+        <li>Must include the student's full name, school, and class.</li>
+        <li>File must be saved using the <strong>student's full name</strong> as the file name.</li>
+        <li>A recent passport photograph and valid identification must be uploaded.</li>
+      </ul>
+
+      <h3>Artificial Intelligence Policy</h3>
+      <p>The use of artificial intelligence (AI) tools is <strong>strictly prohibited</strong>. Participants must not use AI tools to generate, rewrite, or expand content. All submissions must reflect the student's original thoughts and writing ability.</p>
+
+      <h3>How to Apply</h3>
+      <ol>
+        <li>Prepare a typed essay on the approved topic (max 500 words).</li>
+        <li>Ensure your full name, school name, and class are clearly stated on the document.</li>
+        <li>Save the document using your full name.</li>
+        <li>Visit the <a href="https://forms.heirsinsurance.com/essaychampionship">official Heirs Insurance Essay Championship portal</a> to submit.</li>
+      </ol>
+      <p>For additional details, visit the <a href="https://www.heirsinsurancegroup.com/essay/">Heirs Insurance Championship page</a>.</p>
+
+      <h3>Application Checklist</h3>
+      <table class="w-full border-collapse border border-gray-300 my-4 text-sm">
+        <thead>
+          <tr class="bg-gray-100 text-left">
+            <th class="border border-gray-300 p-2">Checklist Item</th>
+            <th class="border border-gray-300 p-2">Requirement</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td class="border border-gray-300 p-2">Word Count</td><td class="border border-gray-300 p-2">Under 500 words</td></tr>
+          <tr><td class="border border-gray-300 p-2">File Format</td><td class="border border-gray-300 p-2">.doc or .docx</td></tr>
+          <tr><td class="border border-gray-300 p-2">AI Usage</td><td class="border border-gray-300 p-2">Zero AI assistance</td></tr>
+          <tr><td class="border border-gray-300 p-2">Deadline</td><td class="border border-gray-300 p-2">Before 8 July 2026</td></tr>
+        </tbody>
+      </table>
+
+      <h3>Conclusion</h3>
+      <p>The Heirs Insurance Essay Championship 2026 offers Nigerian junior secondary school students a valuable opportunity to showcase their writing talent while competing for substantial scholarship awards. Eligible candidates should prepare their entries early to avoid the deadline rush.</p>`,
+    tags: [
+      "Heirs Insurance",
+      "Essay Competition",
+      "Scholarship",
+      "Junior Secondary",
+      "Nigeria",
+      "Education",
+      "JSS",
+      "2026",
+    ],
+  },
+  {
+    id: "long-empowerment-foundation-scholarship-2026",
+    title: "LONG Empowerment Foundation Scholarship 2026 for Nigerian Students: Eligibility, Benefits and How to Apply",
+    category: "Scholarship",
+    date: "2026-05-31",
+    excerpt: "The LONG Empowerment Foundation has opened applications for its 2026 scholarship programme, providing comprehensive support to Nigerian students across secondary, polytechnic, and university levels.",
+    content: `<h2>LONG Empowerment Foundation Scholarship 2026 for Nigerian Students: Eligibility, Benefits and How to Apply</h2>
+      <p>The LONG Empowerment Foundation Scholarship 2026 is now open to eligible Nigerian students from low-income families. The scholarship programme is designed to provide financial support to students at different levels of education, including secondary schools, polytechnics, and universities.</p>
+      <p>The initiative aims to remove financial barriers to education by covering essential academic expenses such as tuition fees, accommodation, living expenses, examination fees, and learning materials.</p>
+
+      <h3>Scholarship Categories Available</h3>
+      <table class="w-full border-collapse border border-gray-300 my-4 text-sm">
+        <thead>
+          <tr class="bg-gray-100 text-left">
+            <th class="border border-gray-300 p-2">Scholarship Category</th>
+            <th class="border border-gray-300 p-2">Target Beneficiaries</th>
+            <th class="border border-gray-300 p-2">Support Provided</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td class="border border-gray-300 p-2">Undergraduate Scholarship</td><td class="border border-gray-300 p-2">Students in accredited Nigerian universities</td><td class="border border-gray-300 p-2">Tuition, accommodation, and living expenses for one academic year</td></tr>
+          <tr><td class="border border-gray-300 p-2">OND/HND Scholarship</td><td class="border border-gray-300 p-2">Polytechnic students</td><td class="border border-gray-300 p-2">Tuition, accommodation, and living expenses for one academic year</td></tr>
+          <tr><td class="border border-gray-300 p-2">Young Achievers Scholarship</td><td class="border border-gray-300 p-2">Junior and senior secondary school students</td><td class="border border-gray-300 p-2">Educational support for up to six academic years</td></tr>
+          <tr><td class="border border-gray-300 p-2">WAEC/JAMB Support Scheme</td><td class="border border-gray-300 p-2">Final-year secondary school students</td><td class="border border-gray-300 p-2">WAEC and JAMB registration fees</td></tr>
+        </tbody>
+      </table>
+
+      <h3>Undergraduate and OND/HND Scholarship Benefits</h3>
+      <p>The LONG Scholars Program provides financial assistance to students enrolled in accredited Nigerian institutions. Successful applicants may receive support covering tuition fees, accommodation expenses, and living stipends. These awards are valid for one academic session and may be renewed based on academic performance and continued financial need.</p>
+
+      <h3>Young Achievers and Examination Support</h3>
+      <p>The Young Achievers Scholarship targets exceptional secondary school students at risk of dropping out. Additionally, the foundation provides registration fee support for WAEC and JAMB to ensure financially disadvantaged final-year students can transition to tertiary education.</p>
+
+      <h3>Eligibility Requirements for Undergraduate Applicants</h3>
+      <table class="w-full border-collapse border border-gray-300 my-4 text-sm">
+        <thead>
+          <tr class="bg-gray-100 text-left">
+            <th class="border border-gray-300 p-2">Requirement</th>
+            <th class="border border-gray-300 p-2">Details</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td class="border border-gray-300 p-2">Age</td><td class="border border-gray-300 p-2">Between 16 and 26 years</td></tr>
+          <tr><td class="border border-gray-300 p-2">Admission Status</td><td class="border border-gray-300 p-2">Must have gained admission into an accredited Nigerian university</td></tr>
+          <tr><td class="border border-gray-300 p-2">Continuing Students</td><td class="border border-gray-300 p-2">Minimum CGPA of 3.5 on a 5.0 scale or Second Class Upper equivalent</td></tr>
+          <tr><td class="border border-gray-300 p-2">WAEC Result</td><td class="border border-gray-300 p-2">Minimum of five credit passes</td></tr>
+          <tr><td class="border border-gray-300 p-2">JAMB Score</td><td class="border border-gray-300 p-2">At least 200</td></tr>
+          <tr><td class="border border-gray-300 p-2">Family Income</td><td class="border border-gray-300 p-2">Less than ₦3 million annually</td></tr>
+        </tbody>
+      </table>
+
+      <h3>Eligibility Requirements for Secondary School Applicants</h3>
+      <table class="w-full border-collapse border border-gray-300 my-4 text-sm">
+        <thead>
+          <tr class="bg-gray-100 text-left">
+            <th class="border border-gray-300 p-2">Requirement</th>
+            <th class="border border-gray-300 p-2">Details</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td class="border border-gray-300 p-2">Age</td><td class="border border-gray-300 p-2">10 to 19 years</td></tr>
+          <tr><td class="border border-gray-300 p-2">School Level</td><td class="border border-gray-300 p-2">JSS1 to SS3</td></tr>
+          <tr><td class="border border-gray-300 p-2">Academic Performance</td><td class="border border-gray-300 p-2">Preference for students in the top 20% of their class</td></tr>
+          <tr><td class="border border-gray-300 p-2">Financial Need</td><td class="border border-gray-300 p-2">Evidence of financial hardship (lack of support or bank statements)</td></tr>
+        </tbody>
+      </table>
+
+      <h3>How to Apply</h3>
+      <p>The application process is completed through the following steps:</p>
+      <ol>
+        <li>Access the <a href="https://docs.google.com/forms/d/e/1FAIpQLSc8Uvn9yJ4kq9PoHjVMau4n6bew066rf4mLqP1etAZFPZjS4A/viewform">LONG Empowerment Foundation Scholarship application form</a>.</li>
+        <li>Fill in all required personal and academic information.</li>
+        <li>Upload necessary academic documents (Admission letters, Results, Transcripts).</li>
+        <li>Submit relevant financial documents/proof of need.</li>
+        <li>Review and submit the application.</li>
+      </ol>
+      <p>Candidates can find more detailed information <a href="https://longempowerment.org/scholarships">HERE</a>.</p>
+
+      <h3>Important Information</h3>
+      <ul>
+        <li><strong>Fee:</strong> The application is completely free. Do not pay anyone claiming to facilitate the process.</li>
+        <li><strong>Documentation:</strong> Providing complete and accurate documentation improves the chances of successful consideration.</li>
+        <li><strong>Selection:</strong> Only shortlisted candidates will be contacted by the foundation for the next stage.</li>
+      </ul>
+
+      <h3>Conclusion</h3>
+      <p>The LONG Empowerment Foundation Scholarship 2026 offers a valuable opportunity for Nigerian students facing financial challenges to continue their education without excessive financial pressure. Eligible students are encouraged to prepare their documents early and submit their applications before the deadline.</p>`,
+    tags: [
+      "Scholarship",
+      "LONG Foundation",
+      "Nigeria",
+      "Education",
+      "Undergraduate",
+      "Secondary School",
+      "WAEC",
+      "JAMB",
+      "2026",
+    ],
+  },
+  {
+    id: "ospohas-post-utme-form-nd-admission-2026-2027",
+    title: "OSPOHAS Post UTME Form 2026/2027: Apply for ND Full-Time Admission",
+    category: "Education",
+    date: "2026-05-31",
+    excerpt: "The Ogun State Polytechnic of Health and Allied Sciences (OSPOHAS), Ilese-Ijebu, has commenced the sale of its Post UTME screening form for the 2026/2027 academic session.",
+    content: `<h2>OSPOHAS Post UTME Form 2026/2027: Apply for ND Full-Time Admission</h2>
+      <p>The Ogun State Polytechnic of Health and Allied Sciences (OSPOHAS), Ilese-Ijebu, has commenced the sale of its Post UTME screening form for admission into National Diploma (ND) full-time programmes for the 2026/2027 academic session.</p>
+      <p>Interested candidates who meet the admission requirements can now apply online through the institution's admission portal. The application fee is <strong>₦2,000 only</strong>.</p>
+
+      <h3>Who Is Eligible to Apply?</h3>
+      <p>Candidates seeking admission into OSPOHAS must meet the following requirements:</p>
+      <ul>
+        <li>Must have participated in the 2026 UTME.</li>
+        <li>Must score at least <strong>100</strong> in the UTME.</li>
+        <li>Must have selected OSPOHAS as their first-choice institution.</li>
+      </ul>
+      <p>Candidates who did not initially choose OSPOHAS can still apply after completing a change of institution through any JAMB-accredited CBT centre and selecting OSPOHAS as their first choice. Applicants must also be at least <strong>16 years old on or before 30 September 2026</strong>.</p>
+
+      <h3>OSPOHAS Post UTME Application Fee</h3>
+      <p>The Post UTME screening form costs <strong>₦2,000 only</strong>. The Polytechnic has stated that payment must be made online through its official portal. Manual payments and POS transactions are not accepted.</p>
+
+      <h3>Available ND Programmes</h3>
+      <p>OSPOHAS offers admission into various health, science, engineering, and technology-related programmes, including Statistics, Computer Engineering, Public Health Technology, Nutrition and Dietetics, Computer Science, Pharmacy Technician, and Science Laboratory Technology.</p>
+      <p>They also offer ND/HND integrated programmes in Community Health, Dental Therapy, Dental Technology, Environmental Health Technology, and Health Information Management.</p>
+
+      <h3>O’Level Requirements</h3>
+      <p>Applicants must possess a minimum of five credit passes in relevant subjects obtained in not more than two sittings from WAEC, NECO, or NABTEB. The required subjects are:</p>
+      <ul>
+        <li>English Language</li>
+        <li>Mathematics</li>
+        <li>Biology</li>
+        <li>Chemistry</li>
+        <li>Physics</li>
+      </ul>
+
+      <h3>Requirements for HND Applicants</h3>
+      <p>Applicants seeking admission into HND-related programmes must possess a National Diploma (ND) with at least a Lower Credit in a relevant discipline, a valid JAMB admission letter for the ND programme, and five O'Level credits in the required science subjects.</p>
+
+      <h3>How to Apply for OSPOHAS Post UTME</h3>
+      <ol>
+        <li>Visit the <a href="https://my.ospohasilese.edu.ng/admission/apply/application">official OSPOHAS admission portal</a>.</li>
+        <li>Select the Post UTME screening application option.</li>
+        <li>Complete the online application form with accurate details.</li>
+        <li>Pay the ₦2,000 application fee online.</li>
+        <li>Submit the application and print any required acknowledgement documents.</li>
+      </ol>
+
+      <h3>Key Admission Details at a Glance</h3>
+      <table class="w-full border-collapse border border-gray-300 my-4 text-sm">
+        <thead>
+          <tr class="bg-gray-100 text-left">
+            <th class="border border-gray-300 p-2">Item</th>
+            <th class="border border-gray-300 p-2">Details</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="border border-gray-300 p-2">Institution</td>
+            <td class="border border-gray-300 p-2">Ogun State Polytechnic of Health and Allied Sciences (OSPOHAS)</td>
+          </tr>
+          <tr>
+            <td class="border border-gray-300 p-2">Minimum UTME Score</td>
+            <td class="border border-gray-300 p-2">100</td>
+          </tr>
+          <tr>
+            <td class="border border-gray-300 p-2">Application Fee</td>
+            <td class="border border-gray-300 p-2">₦2,000</td>
+          </tr>
+          <tr>
+            <td class="border border-gray-300 p-2">O'Level Requirement</td>
+            <td class="border border-gray-300 p-2">Five Credits including English, Mathematics, Biology, Chemistry, and Physics</td>
+          </tr>
+          <tr>
+            <td class="border border-gray-300 p-2">Payment Method</td>
+            <td class="border border-gray-300 p-2">Online Only</td>
+          </tr>
+        </tbody>
+      </table>
+
+      <p>Prospective applicants are encouraged to complete their applications early and ensure all admission requirements are met before the closing date.</p>`,
+    tags: [
+      "OSPOHAS",
+      "Ogun State",
+      "Post UTME",
+      "Admission",
+      "2026/2027",
+      "ND",
+      "Education",
+      "Nigeria",
+    ],
+  },
+  {
     id: "uniben-post-utme-direct-entry-screening-2026-2027",
     title: "University of Benin Opens 2026/2027 Post UTME and Direct Entry Screening",
     category: "Education",
-    date: "2026-06-02",
+    date: "2026-05-31",
     excerpt: "University of Benin (UNIBEN) has officially released details for its Post UTME and Direct Entry screening exercise for the 2026/2027 academic session. Application window closes July 3, 2026.",
     content: `<h2>University of Benin Opens 2026/2027 Post UTME and Direct Entry Screening</h2>
       <p>University of Benin has officially released details for its Post UTME and Direct Entry screening exercise for the 2026/2027 academic session.</p>
@@ -108,7 +615,7 @@ const allPosts: Post[] = [
     id: "unical-post-utme-direct-entry-screening-2026-2027",
     title: "University of Calabar Opens 2026/2027 Post UTME and Direct Entry Screening",
     category: "Education",
-    date: "2026-06-01",
+    date: "2026-05-31",
     excerpt: "University of Calabar (UNICAL) has officially announced the commencement of its Post UTME and Direct Entry screening registration for the 2026/2027 undergraduate admission exercise.",
     content: `<h2>University of Calabar Opens 2026/2027 Post UTME and Direct Entry Screening</h2>
       <p>University of Calabar has officially announced the commencement of its Post UTME and Direct Entry screening registration for the 2026/2027 undergraduate admission exercise.</p>
@@ -193,6 +700,95 @@ const allPosts: Post[] = [
       "Direct Entry",
       "Admission",
       "2026/2027",
+      "Education",
+      "Nigeria",
+    ],
+  },
+  {
+    id: "ebsconsu-nd-hnd-nursing-admission-form-2026-2027",
+    title: "EBSCONSU ND/HND Nursing Admission Form 2026/2027 Now Available",
+    category: "Education",
+    date: "2026-05-31",
+    excerpt: "The Ebonyi State College of Nursing Sciences (EBSCONSU), Uburu, Ebonyi State, has commenced the sale of admission forms into its National Diploma (ND) and Higher National Diploma (HND) Nursing programmes for the 2026/2027 academic session.",
+    content: `<h2>EBSCONSU ND/HND Nursing Admission Form 2026/2027 Now Available</h2>
+      <p>The Ebonyi State College of Nursing Sciences (EBSCONSU), Uburu, Ebonyi State, has commenced the sale of admission forms into its National Diploma (ND) and Higher National Diploma (HND) Nursing programmes for the 2026/2027 academic session.</p>
+      <p>Interested and qualified candidates can now apply through the college admission portal. Applicants must possess a valid 2026 UTME registration number, score at least 160 in the UTME, and meet the required O'Level qualifications.</p>
+
+      <h3>Admission Requirements for EBSCONSU Nursing Programmes</h3>
+      <p>Candidates seeking admission into the ND/HND Nursing programme must satisfy the following requirements:</p>
+      <table class="w-full border-collapse border border-gray-300 my-4 text-sm">
+        <thead>
+          <tr class="bg-gray-100 text-left">
+            <th class="border border-gray-300 p-2">Requirement</th>
+            <th class="border border-gray-300 p-2">Details</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td class="border border-gray-300 p-2">UTME Year</td><td class="border border-gray-300 p-2">2026 UTME</td></tr>
+          <tr><td class="border border-gray-300 p-2">UTME Registration</td><td class="border border-gray-300 p-2">Valid UTME registration number required</td></tr>
+          <tr><td class="border border-gray-300 p-2">Minimum UTME Score</td><td class="border border-gray-300 p-2">160</td></tr>
+          <tr><td class="border border-gray-300 p-2">O'Level Results</td><td class="border border-gray-300 p-2">WAEC, GCE, NECO, or NABTEB</td></tr>
+          <tr><td class="border border-gray-300 p-2">Required Subjects</td><td class="border border-gray-300 p-2">English Language, Mathematics, Biology, Chemistry, and Physics</td></tr>
+          <tr><td class="border border-gray-300 p-2">Number of Sittings</td><td class="border border-gray-300 p-2">Not more than two sittings</td></tr>
+          <tr><td class="border border-gray-300 p-2">NABTEB Combination Rule</td><td class="border border-gray-300 p-2">NABTEB can only be combined with NABTEB</td></tr>
+        </tbody>
+      </table>
+      <p>Applicants are advised to carefully verify that they possess all the required subjects before proceeding with the application process, as failure to meet any requirement may affect their eligibility during screening.</p>
+
+      <h3>NABTEB Result Combination Policy</h3>
+      <p>The college has stated clearly that NABTEB results can only be combined with another NABTEB result. Candidates using NABTEB should not combine it with WAEC, GCE, or NECO results. Applicants are encouraged to take note of this requirement before submitting their O'Level details.</p>
+
+      <h3>Application Fee</h3>
+      <p>The EBSCONSU admission form costs <strong>₦25,200</strong>, and the fee is non-refundable. Payment can be made online or at any commercial bank after generating a Remita Retrieval Reference (RRR) through the application portal.</p>
+      <p>Applicants should ensure that all payments are made strictly through the approved process and avoid making payments to individuals claiming to facilitate admission.</p>
+
+      <h3>How to Apply for EBSCONSU Admission</h3>
+      <p>Candidates should follow the steps below to complete their application:</p>
+      <ol>
+        <li>Visit the <a href="https://www.ebsconsu.edu.ng/apply">EBSCONSU application portal</a>.</li>
+        <li>Generate a Remita Retrieval Reference (RRR).</li>
+        <li>Pay the non-refundable application fee of ₦25,200 online or at any commercial bank using the generated RRR.</li>
+        <li>Return to the <a href="https://www.ebsconsu.edu.ng/continueApplication">application continuation portal</a>.</li>
+        <li>Complete the online application form.</li>
+        <li>Submit the form and print the application slip.</li>
+      </ol>
+
+      <h3>Screening Examination Details</h3>
+      <p>Qualified candidates will participate in a Computer-Based Test (CBT) as part of the admission screening exercise.</p>
+      <table class="w-full border-collapse border border-gray-300 my-4 text-sm">
+        <thead>
+          <tr class="bg-gray-100 text-left">
+            <th class="border border-gray-300 p-2">Screening Details</th>
+            <th class="border border-gray-300 p-2">Information</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td class="border border-gray-300 p-2">Examination Type</td><td class="border border-gray-300 p-2">Computer-Based Test (CBT)</td></tr>
+          <tr><td class="border border-gray-300 p-2">Date</td><td class="border border-gray-300 p-2">Saturday, 29 August 2026</td></tr>
+          <tr><td class="border border-gray-300 p-2">Time</td><td class="border border-gray-300 p-2">9:00 a.m. Prompt</td></tr>
+          <tr><td class="border border-gray-300 p-2">Venue</td><td class="border border-gray-300 p-2">College of Nursing Sciences, Uburu</td></tr>
+        </tbody>
+      </table>
+
+      <h3>Documents Required for Screening</h3>
+      <p>Applicants are expected to come to the screening venue with their printed application slip, UTME registration details, O'Level result details, and evidence of payment. The application slip serves as proof that the online application process was successfully completed.</p>
+
+      <h3>Important Fraud Warning</h3>
+      <p>The college management has warned applicants to be vigilant and avoid fraudsters. The management does not authorize any agent or representative to collect admission fees on its behalf. All payments must be made only through the official RRR payment process.</p>
+
+      <h3>Contact Information</h3>
+      <p>For enquiries regarding admission, candidates may contact the college through the following phone numbers: 08167346493 or 08144943583. Applicants are advised to have their application details readily available before making enquiries.</p>
+
+      <h3>Summary</h3>
+      <p>Candidates seeking admission into the EBSCONSU ND/HND Nursing programme for the 2026/2027 academic session must score at least 160 in the 2026 UTME and have the required five O'Level science credits. Applicants must complete the online application and attend the CBT screening on Saturday, 29 August 2026.</p>`,
+    tags: [
+      "EBSCONSU",
+      "Ebonyi",
+      "Nursing",
+      "Admission",
+      "2026/2027",
+      "ND",
+      "HND",
       "Education",
       "Nigeria",
     ],

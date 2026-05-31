@@ -16,6 +16,354 @@ export type Job = {
 
 const allJobs: Job[] = [
   {
+    id: "hr-admin-officer-phc-lagos-2026-v2",
+    title: "HR & Admin Officer",
+    date: "2026-05-31",
+    location: "Lagos & Port Harcourt",
+    type: "Full-time",
+    salary: "₦400,000 (Net)",
+    deadline: "2026-05-31",
+    summary: "Provide efficient HR and admin support by coordinating recruitment, employee relations, and office operations across office and field sites.",
+    responsibilities: [
+      "Manage recruitment and onboarding processes efficiently",
+      "Maintain accurate and up-to-date HR records",
+      "Support employee relations and ensure timely issue resolution",
+      "Coordinate administrative activities and reporting timelines",
+      "Track manpower, recruitment, and deployment activities"
+    ],
+    requirements: [
+      "B.Sc./HND in HR, Business Admin, or related field",
+      "Minimum of 2 years’ experience in HR and administrative functions",
+      "Strong reporting and documentation skills",
+      "Professional HR certification is an added advantage",
+      "Experience in oil & gas, engineering, or field operations is a plus"
+    ],
+    apply: 'Interested and qualified candidates should apply here: <a href="https://forms.gle/4Xc1MYUnDmreaK2q6">Online Form</a>'
+  },
+  {
+    id: "fraud-monitoring-officer-bank-lagos-2026-v2",
+    title: "Fraud Monitoring Officer",
+    date: "2026-05-31",
+    location: "Lagos",
+    type: "Full-time",
+    salary: "₦400k – ₦500k net/month",
+    deadline: "Not Specified",
+    company: "Technology-driven Bank",
+    summary: "Crucial role in governing and delivering technology change, ensuring processes, approvals, and security standards are upheld.",
+    responsibilities: [
+      "Monitor transactions and activities for potential fraud",
+      "Govern and assure technology change delivery",
+      "Ensure security standards are upheld at every stage",
+      "Escalate risks and manage competing priorities effectively"
+    ],
+    requirements: [
+      "Prior experience in financial services, banking, or fintech",
+      "Exposure to governance, compliance, risk, or cybersecurity",
+      "Strong analytical, documentation, and communication skills",
+      "Familiarity with PCI-DSS or ISO27001 is a plus"
+    ],
+    apply: 'Interested candidates should apply here: <a href="https://forms.gle/9gdS8rnTs36ydsv49">Online Form</a>'
+  },
+  {
+    id: "event-supervisor-oregun-lagos-2026",
+    title: "Event Supervisor",
+    date: "2026-05-31",
+    location: "Lagos Mainland (Oregun)",
+    type: "Full-time",
+    salary: "₦200,000 - ₦250,000",
+    deadline: "Not Specified",
+    company: "Event Rentals Industry",
+    summary: "Oversee daily operations, supervise staff activities, and ensure smooth coordination of event rental projects.",
+    responsibilities: [
+      "Supervise event rental services, logistics, and dismantling",
+      "Coordinate and monitor staff activities for efficiency",
+      "Maintain operational records and documentation",
+      "Ensure proper handling and accountability of event materials",
+      "Communicate with management, clients, and vendors"
+    ],
+    requirements: [
+      "ND, HND, or B.Sc qualification in any related field",
+      "Minimum of 2 to 4 years experience in event management or hospitality",
+      "Strong supervisory and team management skills",
+      "Proximity to Ojota is preferred"
+    ],
+    apply: 'Interested candidates should send their CV to <a href="mailto:hr@startupplaceng.com">hr@startupplaceng.com</a> with Job title: Event Supervisor'
+  },
+  {
+    id: "key-account-sales-representative-safety-lagos-2026",
+    title: "Key Account / Sales Representative",
+    date: "2026-05-31",
+    location: "Lagos, Nigeria",
+    type: "Full-time",
+    salary: "Salary + Commission",
+    deadline: "Not Specified",
+    summary: "Drive sales and revenue growth for a fast-growing safety solutions company, managing strategic industrial accounts across Lagos.",
+    responsibilities: [
+      "Achieve and exceed assigned sales targets consistently",
+      "Develop and maintain relationships with key decision-makers",
+      "Execute account mapping to identify and prioritize opportunities",
+      "Track customer projects for product specification",
+      "Monitor market trends and competitor activities"
+    ],
+    requirements: [
+      "Minimum of 5 years’ experience in industrial or B2B sales",
+      "Proven experience managing key accounts",
+      "Excellent communication and negotiation skills",
+      "Strong entrepreneurial drive and proactive attitude",
+      "Residency in Agbara, Apapa, or Ikeja axis is an advantage"
+    ],
+    apply: 'Send your CV to <a href="mailto:gismomconsults@gmail.com">gismomconsults@gmail.com</a>'
+  },
+  {
+    id: "wordpress-elementor-designer-developer-remote-2026",
+    title: "WordPress / Elementor Designer & Developer",
+    date: "2026-05-31",
+    location: "Remote",
+    type: "Full-time (Remote)",
+    salary: "$85.00 – $95.00 per hour",
+    deadline: "Not Specified",
+    summary: "Skilled designer to build landing pages and website updates in WordPress using Elementor for a digital agency.",
+    responsibilities: [
+      "Build landing pages and website pages in Elementor from designs",
+      "Convert pages from other platforms to WordPress",
+      "Integrate tracking scripts, GTM, GA4, and Meta Pixels",
+      "Troubleshoot layout and plugin issues"
+    ],
+    requirements: [
+      "Strong experience using Elementor and WordPress",
+      "Experience with WooCommerce and basic SEO",
+      "Familiarity with Figma or Adobe XD",
+      "Ability to build conversion-focused, mobile-friendly pages"
+    ],
+    apply: 'Apply via: <a href="https://au.indeed.com/m/viewjob?jk=973cb2c0e0feb129">Indeed Link</a>'
+  },
+  {
+    id: "marketing-manager-real-estate-ng-2026",
+    title: "Marketing Manager",
+    date: "2026-05-31",
+    location: "Lagos, Nigeria",
+    type: "Full-time",
+    salary: "₦700,000 – ₦900,000",
+    deadline: "Not Specified",
+    summary: "Lead strategy and execution of marketing initiatives to drive brand visibility and property sales through HNI networks and realtors.",
+    responsibilities: [
+      "Design and execute 360° marketing campaigns",
+      "Identify and secure corporate partnerships",
+      "Recruit and manage a database of independent Realtors",
+      "Organize site tours and training for agents",
+      "Represent company at high-net-worth networking events"
+    ],
+    requirements: [
+      "5–10 years experience in Marketing or Business Development",
+      "Ability to engage corporate entities and close partnership deals",
+      "High-level negotiation and communication skills",
+      "Strong persuasion and networking prowess"
+    ],
+    apply: 'Email CV to <a href="mailto:Moses@klarmamanement.com.ng">Moses@klarmamanement.com.ng</a>'
+  },
+  {
+    id: "sales-administration-officer-lagos-2026",
+    title: "Sales Administration Officer",
+    date: "2026-05-31",
+    location: "Lagos, Nigeria",
+    type: "Full-time",
+    salary: "₦350,000",
+    deadline: "Not Specified",
+    summary: "Support sales operations and administrative workflows for a consulting firm in Lagos.",
+    responsibilities: [
+      "Support sales administration and order processing",
+      "Manage documentation and sales records",
+      "Work with internal systems and ERP tools",
+      "Provide operational support to the sales team"
+    ],
+    requirements: [
+      "Bachelor’s degree in Business Admin, Accounting, or related field",
+      "1–3 years of experience in sales administration or operations",
+      "Experience with ERP tools is an advantage"
+    ],
+    apply: 'Send CV to <a href="mailto:fixgapconsulting@gmail.com">fixgapconsulting@gmail.com</a> with subject "Sales Administrator".'
+  },
+  {
+    id: "hr-assistant-jakande-lekki-2026",
+    title: "HR Assistant",
+    date: "2026-05-31",
+    location: "Jakande Lekki, Lagos",
+    type: "Full-time",
+    salary: "₦180,000 Gross",
+    deadline: "Not Specified",
+    summary: "Detail-oriented assistant to support the HR Outsourcing team with admin tasks, documentation, and operations.",
+    responsibilities: [
+      "Assist with employee onboarding and documentation",
+      "Handle staff queries and maintain HR files",
+      "Schedule interviews and coordinate meetings",
+      "Ensure compliance with labor laws"
+    ],
+    requirements: [
+      "B.Sc in HR, Business Admin, or related field",
+      "1-2 years relevant experience",
+      "Proficiency in MS Excel and Word",
+      "Strong organization and communication skills"
+    ],
+    apply: 'Send CV to <a href="tel:09039123628">09039123628</a> (WhatsApp Only).'
+  },
+  {
+    id: "assistant-manager-accounts-ota-ogun-2026",
+    title: "Assistant Manager – Accounts",
+    date: "2026-05-31",
+    location: "Ota, Ogun State",
+    type: "Full-time",
+    salary: "₦200,000 – ₦300,000",
+    deadline: "Not Specified",
+    summary: "Oversee financial operations at the Ota plant, ensuring accurate records and timely reconciliations.",
+    responsibilities: [
+      "Manage debtors & creditors reconciliation",
+      "Perform bank reconciliation and general accounting",
+      "Ensure compliance and internal controls at the factory",
+      "Prepare weekly and monthly MIS reports"
+    ],
+    requirements: [
+      "Bachelor’s Degree in Accounting or Finance",
+      "Minimum of 5 years’ experience",
+      "Manufacturing industry experience is a plus",
+      "ICAN membership or ongoing professional qualification preferred"
+    ],
+    apply: 'Send CV to <a href="mailto:cv@ascentech.com.ng">cv@ascentech.com.ng</a> using Assistant Manager – Accounts as subject.'
+  },
+  {
+    id: "assistant-manager-accounts-vi-lagos-2026",
+    title: "Assistant Manager – Accounts",
+    date: "2026-05-31",
+    location: "Victoria Island, Lagos",
+    type: "Full-time",
+    salary: "₦200,000 – ₦300,000",
+    deadline: "Not Specified",
+    summary: "Detail-oriented professional to oversee financial operations and reconciliations at the Head Office.",
+    responsibilities: [
+      "Manage reconciliation of customer and vendor accounts",
+      "Support month-end closing activities",
+      "Coordinate with auditors for documentation",
+      "Maintain and reconcile the general ledger"
+    ],
+    requirements: [
+      "Bachelor’s Degree in Accounting or Finance",
+      "Minimum of 5 years’ experience",
+      "Proficiency in SAP, QuickBooks, or ERP systems",
+      "Advanced proficiency in Microsoft Excel"
+    ],
+    apply: 'Send CV to <a href="mailto:cv@ascentech.com.ng">cv@ascentech.com.ng</a> using Assistant Manager – Accounts as subject.'
+  },
+  {
+    id: "collections-officer-littleant-ikeja-2026",
+    title: "Collections Officer",
+    date: "2026-05-31",
+    location: "Ikeja, Lagos",
+    type: "Full-time",
+    salary: "Not Specified",
+    deadline: "Not Specified",
+    company: "LittleAnt Limited",
+    summary: "Confident and target-driven individuals to join the collections team. Immediate resumption available.",
+    responsibilities: [
+      "Handle debt collection processes professionally",
+      "Meet daily and monthly recovery targets",
+      "Maintain communication records with debtors"
+    ],
+    requirements: [
+      "SSCE / OND / HND",
+      "Good communication skills",
+      "Resilient and result-oriented mindset",
+      "Proximity to Agege, Ketu, or Ogba is preferred"
+    ],
+    apply: 'Send CV via WhatsApp to <a href="tel:08078695081">08078695081</a> including location and experience.'
+  },
+  {
+    id: "sales-agents-pharmaceutical-ilupeju-2026",
+    title: "Sales Agents (Pharmaceutical)",
+    date: "2026-05-31",
+    location: "Ilupeju, Lagos",
+    type: "Full-time",
+    salary: "₦150,000 Base + Performance Pay",
+    deadline: "Not Specified",
+    summary: "Reputable healthcare organization seeking sales agents with a science or pharmacy background for territory growth.",
+    responsibilities: [
+      "Drive sales for pharmaceutical products",
+      "Visit assigned territories and clinics",
+      "Submit regular sales and market reports"
+    ],
+    requirements: [
+      "B.Sc. or B.Pharm. in a science or healthcare field",
+      "Experience in pharmaceutical sales",
+      "Strong communication and reporting skills"
+    ],
+    apply: 'Apply through the link: <a href="https://forms.gle/38pBzvAN3KL4rM619">Online Form</a> or WhatsApp CV to 08061977177.'
+  },
+  {
+    id: "finance-manager-manufacturing-lagos-2026",
+    title: "Finance Manager",
+    date: "2026-05-31",
+    location: "Lagos",
+    type: "Full-time",
+    seniority: "Senior",
+    salary: "Competitive",
+    deadline: "Not Specified",
+    summary: "Result-driven manager to oversee financial operations, reporting, and budgeting for a reputable manufacturing company.",
+    responsibilities: [
+      "Manage daily financial and accounting operations",
+      "Prepare monthly, quarterly, and annual reports",
+      "Ensure compliance with tax and statutory requirements",
+      "Coordinate audit activities and cost-control measures"
+    ],
+    requirements: [
+      "B.Sc/HND in Accounting or Finance",
+      "ICAN, ACCA, or ACA certification is compulsory",
+      "Minimum of 5 years relevant experience",
+      "Manufacturing or FMCG background preferred"
+    ],
+    apply: 'Send CV to <a href="mailto:adejumo.fuhad@sunbirdsnutrition.com">adejumo.fuhad@sunbirdsnutrition.com</a>.'
+  },
+  {
+    id: "principal-secondary-school-isolo-2026",
+    title: "Principal – Secondary School",
+    date: "2026-05-31",
+    location: "Isolo, Lagos",
+    type: "Full-time",
+    seniority: "Senior",
+    salary: "₦500,000 Gross",
+    deadline: "Not Specified",
+    summary: "Visionary leader to oversee academic and administrative operations, driving excellence and ensuring curriculum implementation.",
+    responsibilities: [
+      "Oversee daily school operations",
+      "Supervise and evaluate teaching and non-teaching staff",
+      "Ensure implementation of Nigerian and IGCSE curriculum",
+      "Monitor student academic performance and welfare"
+    ],
+    requirements: [
+      "Bachelor’s Degree in Education or related field",
+      "5–10 years teaching experience with leadership history",
+      "Excellent communication and administrative skills"
+    ],
+    apply: 'Send application to <a href="mailto:olamide.hrleverageafrica@gmail.com">olamide.hrleverageafrica@gmail.com</a>.'
+  },
+  {
+    id: "auditor-alaba-ojoo-lagos-2026",
+    title: "Auditor",
+    date: "2026-05-31",
+    location: "Alaba Ojoo, Lagos",
+    type: "Full-time",
+    salary: "Not Specified",
+    deadline: "Not Specified",
+    summary: "Perform internal audits for an organization in Alaba Ojoo. Experience in FMCG is an advantage.",
+    responsibilities: [
+      "Conduct internal audits and verify records",
+      "Monitor internal controls and compliance",
+      "Generate audit findings and reports"
+    ],
+    requirements: [
+      "Bachelor’s Degree/HND in Accounting or Finance",
+      "Minimum 2–5 years working experience in Audit"
+    ],
+    apply: 'Send CV to <a href="mailto:Hrfedan2021@gmail.com">Hrfedan2021@gmail.com</a>.'
+  },
+  {
     id: "female-front-office-manager-idu-abuja-2026",
     title: "Female Front Office Manager",
     date: "2026-05-28",

@@ -10,6 +10,397 @@ export type Post = {
 
 const allPosts: Post[] = [
   {
+    id: "uniben-post-utme-direct-entry-screening-2026-2027",
+    title: "University of Benin Opens 2026/2027 Post UTME and Direct Entry Screening",
+    category: "Education",
+    date: "2026-06-02",
+    excerpt: "University of Benin (UNIBEN) has officially released details for its Post UTME and Direct Entry screening exercise for the 2026/2027 academic session. Application window closes July 3, 2026.",
+    content: `<h2>University of Benin Opens 2026/2027 Post UTME and Direct Entry Screening</h2>
+      <p>University of Benin has officially released details for its Post UTME and Direct Entry screening exercise for the 2026/2027 academic session.</p>
+      <p>The application window will run from <strong>Friday, 5 June 2026</strong> to <strong>midnight on Friday, 3 July 2026</strong>, and is open to qualified candidates seeking admission into undergraduate programmes of the institution.</p>
+
+      <h3>Who Can Apply for UNIBEN Post UTME?</h3>
+      <p>To be eligible, candidates must:</p>
+      <ul>
+        <li>Choose University of Benin as <strong>first choice through JAMB</strong></li>
+        <li>Score <strong>200 and above in the 2026 UTME</strong></li>
+      </ul>
+      <p>Direct Entry candidates who selected UNIBEN as their first choice through Joint Admissions and Matriculation Board are also eligible to participate in the screening exercise.</p>
+
+      <h3>Application Period</h3>
+      <table class="w-full border-collapse border border-gray-300 my-4 text-sm">
+        <thead>
+          <tr class="bg-gray-100 text-left">
+            <th class="border border-gray-300 p-2">Item</th>
+            <th class="border border-gray-300 p-2">Details</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td class="border border-gray-300 p-2">Institution</td><td class="border border-gray-300 p-2">University of Benin</td></tr>
+          <tr><td class="border border-gray-300 p-2">Screening Type</td><td class="border border-gray-300 p-2">Post UTME & Post Direct Entry</td></tr>
+          <tr><td class="border border-gray-300 p-2">Session</td><td class="border border-gray-300 p-2">2026/2027</td></tr>
+          <tr><td class="border border-gray-300 p-2">Application Starts</td><td class="border border-gray-300 p-2">8:00 a.m., Friday, 5 June 2026</td></tr>
+          <tr><td class="border border-gray-300 p-2">Application Closes</td><td class="border border-gray-300 p-2">Midnight, Friday, 3 July 2026</td></tr>
+          <tr><td class="border border-gray-300 p-2">Screening Dates</td><td class="border border-gray-300 p-2">27 July – 1 August 2026</td></tr>
+          <tr><td class="border border-gray-300 p-2">Mode</td><td class="border border-gray-300 p-2">Computer-Based Test (CBT)</td></tr>
+          <tr><td class="border border-gray-300 p-2">Venue</td><td class="border border-gray-300 p-2">Ugbowo Campus Centres</td></tr>
+          <tr><td class="border border-gray-300 p-2">Fee</td><td class="border border-gray-300 p-2">₦2,000 (excluding portal charges)</td></tr>
+        </tbody>
+      </table>
+      <p>Candidates are strongly advised to complete all registration and payment before the deadline, as late submissions will not be considered.</p>
+
+      <h3>O’Level Requirements</h3>
+      <p>Applicants must possess at least <strong>five credit passes</strong> in relevant subjects obtained in WAEC, NECO, GCE O’Level, or equivalent examinations.</p>
+      <p>Key conditions include:</p>
+      <ul>
+        <li>English Language is compulsory</li>
+        <li>Mathematics is required for courses that demand it</li>
+        <li>Three other relevant subjects based on the chosen course</li>
+        <li>A maximum of <strong>two sittings</strong> is allowed</li>
+      </ul>
+
+      <h3>How to Apply for UNIBEN Post UTME</h3>
+      <p>Candidates are required to apply online through the university portal by following these steps:</p>
+      <ol>
+        <li>Visit the <a href="https://unibenportal.com/#application">UNIBEN admission portal</a></li>
+        <li>Navigate to the Application Menu</li>
+        <li>Read instructions under Post UTME Application</li>
+        <li>Click “Begin Application Process”</li>
+        <li>Enter JAMB Registration Number, score, and password</li>
+        <li>Log in using JAMB number as User ID</li>
+        <li>Fill in required personal details</li>
+        <li>Make payment of ₦2,000 via Remita</li>
+        <li>Use an ATM-enabled bank card</li>
+        <li>Preview and submit the application</li>
+      </ol>
+      <p>Applicants are warned that <strong>no correction will be allowed after submission</strong>, so all details must be carefully checked.</p>
+
+      <h3>Screening Examination Details</h3>
+      <p>The CBT screening exercise is scheduled to hold from <strong>Monday, 27 July 2026 – Saturday, 1 August 2026</strong>. Candidates will be assigned specific dates, venues, and times within this period. The screening will take place at designated centres within the <strong>Ugbowo Campus</strong>.</p>
+
+      <h3>Checking Screening Schedule</h3>
+      <p>Candidates are expected to return to the portal from <strong>Friday, 17 July 2026</strong>, to check their screening date, venue, and time.</p>
+
+      <h3>Documents Required at the Screening Centre</h3>
+      <p>Candidates must bring their Acknowledgement Slip and Screening Invitation Slip. These documents are compulsory for entry into the examination hall.</p>
+
+      <h3>Screening Rules and Guidelines</h3>
+      <ul>
+        <li>Candidates must arrive at least <strong>one hour before</strong> their scheduled time</li>
+        <li>Mobile phones and calculators are prohibited</li>
+        <li>Only approved materials will be permitted inside the venue</li>
+      </ul>
+
+      <h3>Conclusion</h3>
+      <p>The UNIBEN Post UTME and Direct Entry screening remains one of the most competitive admission processes in Nigeria. Candidates are advised to complete their registration early and prepare adequately for the CBT screening ahead of the <strong>2026/2027 admission exercise</strong>.</p>`,
+    tags: [
+      "UNIBEN",
+      "University of Benin",
+      "Post UTME",
+      "Direct Entry",
+      "Admission",
+      "2026/2027",
+      "Education",
+      "Nigeria",
+    ],
+  },
+  {
+    id: "unical-post-utme-direct-entry-screening-2026-2027",
+    title: "University of Calabar Opens 2026/2027 Post UTME and Direct Entry Screening",
+    category: "Education",
+    date: "2026-06-01",
+    excerpt: "University of Calabar (UNICAL) has officially announced the commencement of its Post UTME and Direct Entry screening registration for the 2026/2027 undergraduate admission exercise.",
+    content: `<h2>University of Calabar Opens 2026/2027 Post UTME and Direct Entry Screening</h2>
+      <p>University of Calabar has officially announced the commencement of its Post UTME and Direct Entry screening registration for the 2026/2027 undergraduate admission exercise.</p>
+      <p>The application process is strictly online, and candidates are required to complete registration, pay the ₦2,000 screening fee, and print their registration slip before the closing date.</p>
+
+      <h3>Who Can Apply for UNICAL Post UTME?</h3>
+      <p>The screening exercise is open to JAMB UTME candidates in two categories:</p>
+      <ul>
+        <li>Candidates who selected UNICAL as <strong>first choice</strong> and scored <strong>150 and above</strong></li>
+        <li>Candidates who did not select UNICAL as first choice but wish to study there and also scored <strong>150 and above</strong></li>
+      </ul>
+      <p>The minimum requirement remains a UTME score of <strong>150</strong>, and applicants below this mark are not eligible.</p>
+
+      <h3>Application Period</h3>
+      <table class="w-full border-collapse border border-gray-300 my-4 text-sm">
+        <thead>
+          <tr class="bg-gray-100 text-left">
+            <th class="border border-gray-300 p-2">Item</th>
+            <th class="border border-gray-300 p-2">Details</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td class="border border-gray-300 p-2">Institution</td><td class="border border-gray-300 p-2">University of Calabar</td></tr>
+          <tr><td class="border border-gray-300 p-2">Screening Type</td><td class="border border-gray-300 p-2">Post UTME & Direct Entry</td></tr>
+          <tr><td class="border border-gray-300 p-2">Session</td><td class="border border-gray-300 p-2">2026/2027</td></tr>
+          <tr><td class="border border-gray-300 p-2">Registration Opens</td><td class="border border-gray-300 p-2">Monday, 1 June 2026</td></tr>
+          <tr><td class="border border-gray-300 p-2">Registration Closes</td><td class="border border-gray-300 p-2">Friday, 31 July 2026</td></tr>
+          <tr><td class="border border-gray-300 p-2">Application Fee</td><td class="border border-gray-300 p-2">₦2,000 (non-refundable)</td></tr>
+          <tr><td class="border border-gray-300 p-2">Payment Methods</td><td class="border border-gray-300 p-2">ATM card, bank transfer, USSD</td></tr>
+        </tbody>
+      </table>
+      <p>Applicants are strongly advised to complete registration early, as late applications will not be considered.</p>
+
+      <h3>How to Apply for UNICAL Post UTME</h3>
+      <p>Candidates must complete the application through the official UNICAL portal by following these steps:</p>
+      <ol>
+        <li>Visit the <a href="https://postutme.unical.edu.ng/">UNICAL Post UTME portal</a></li>
+        <li>Enter your JAMB registration number to verify eligibility</li>
+        <li>Fill in the required personal details</li>
+        <li>Provide a valid email address and phone number</li>
+        <li>Pay the ₦2,000 screening fee online</li>
+        <li>Confirm all entries carefully</li>
+        <li>Click SUBMIT</li>
+        <li>Print the completed registration slip</li>
+      </ol>
+
+      <h3>Important O’Level Requirement</h3>
+      <p>All applicants must possess the required O’Level credits in relevant subjects. A special note applies to Medicine and Surgery applicants: Only <strong>one sitting</strong> O’Level result is accepted, in line with CCMAS guidelines.</p>
+
+      <h3>Direct Entry Applicants</h3>
+      <p>Direct Entry candidates are also eligible to apply if they possess relevant qualifications such as OND, HND, NCE, or A’Level. Applicants must ensure their qualifications match their intended course of study.</p>
+
+      <h3>Payment Information</h3>
+      <p>The screening fee is <strong>₦2,000 (non-refundable)</strong>. Accepted payment methods include ATM debit card, bank transfer, and USSD payment. The university has discontinued E-transact and scratch card PIN payments.</p>
+
+      <h3>Important Application Warnings</h3>
+      <p>UNICAL has warned that candidates may be disqualified for:</p>
+      <ul>
+        <li>False UTME score declarations</li>
+        <li>Incorrect O’Level result details</li>
+        <li>False state of origin information</li>
+      </ul>
+
+      <h3>Required Documents After Registration</h3>
+      <p>After completing the application, candidates must print and keep the Registration slip and Payment confirmation details. The slip serves as proof of successful registration and may be required during screening.</p>
+
+      <h3>Contact and Support</h3>
+      <p>Candidates needing assistance can reach the ICT support team via:</p>
+      <ul>
+        <li>+234-706-859-7968</li>
+        <li>+234-806-933-1454</li>
+        <li>+234-0802-363-0209</li>
+        <li>Email: <a href="mailto:ictsupport@unical.edu.ng">ictsupport@unical.edu.ng</a></li>
+      </ul>
+
+      <h3>Final Note</h3>
+      <p>Admission into the University of Calabar remains competitive, and only candidates who follow the correct process and meet all requirements will be considered for the 2026/2027 screening exercise.</p>`,
+    tags: [
+      "UNICAL",
+      "University of Calabar",
+      "Post UTME",
+      "Direct Entry",
+      "Admission",
+      "2026/2027",
+      "Education",
+      "Nigeria",
+    ],
+  },
+  {
+    id: "uniport-post-utme-registration-2026-2027-official",
+    title: "UNIPORT Opens 2026/2027 Post UTME Screening Registration",
+    category: "Education",
+    date: "2026-05-31",
+    excerpt: "University of Port Harcourt has officially announced the commencement of its Post UTME screening registration for the 2026/2027 undergraduate admission exercise.",
+    content: `<h2>UNIPORT Opens 2026/2027 Post UTME Screening Registration</h2>
+      <p>University of Port Harcourt has officially announced the commencement of its Post UTME screening registration for the 2026/2027 undergraduate admission exercise.</p>
+      <p>The screening exercise is open to qualified candidates seeking admission into various degree programmes offered by the university.</p>
+
+      <h3>Who Can Apply for UNIPORT Post UTME?</h3>
+      <p>Candidates are eligible if they:</p>
+      <ul>
+        <li>Selected UNIPORT as <strong>first choice</strong> during the 2026 UTME</li>
+        <li>Scored <strong>160 and above</strong> in the UTME</li>
+      </ul>
+      <p>Candidates who initially selected UNIPORT as second choice must first change their institution to first choice on the JAMB portal before they can apply.</p>
+
+      <h3>Registration Timeline</h3>
+      <table class="w-full border-collapse border border-gray-300 my-4 text-sm">
+        <thead>
+          <tr class="bg-gray-100 text-left">
+            <th class="border border-gray-300 p-2">Item</th>
+            <th class="border border-gray-300 p-2">Details</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td class="border border-gray-300 p-2">Institution</td><td class="border border-gray-300 p-2">University of Port Harcourt</td></tr>
+          <tr><td class="border border-gray-300 p-2">Admission Type</td><td class="border border-gray-300 p-2">Post UTME Screening</td></tr>
+          <tr><td class="border border-gray-300 p-2">Session</td><td class="border border-gray-300 p-2">2026/2027</td></tr>
+          <tr><td class="border border-gray-300 p-2">Registration Opens</td><td class="border border-gray-300 p-2">Friday, 15 May 2026</td></tr>
+          <tr><td class="border border-gray-300 p-2">Registration Closes</td><td class="border border-gray-300 p-2">Friday, 29 May 2026 (official deadline notice as stated)</td></tr>
+          <tr><td class="border border-gray-300 p-2">Application Fee</td><td class="border border-gray-300 p-2">₦2,000</td></tr>
+          <tr><td class="border border-gray-300 p-2">Mode of Payment</td><td class="border border-gray-300 p-2">Remita</td></tr>
+        </tbody>
+      </table>
+      <p>Applicants are strongly advised to complete registration within the official window, as late applications will not be accepted.</p>
+
+      <h3>How to Apply for UNIPORT Post UTME</h3>
+      <p>Candidates are required to complete their registration online through the official UNIPORT screening portal by following these steps:</p>
+      <ol>
+        <li>Visit the <a href="https://utmedetails.uniport.edu.ng/welcome_utme.php">UNIPORT Post UTME registration portal</a></li>
+        <li>Enter your JAMB Registration Number</li>
+        <li>Confirm pre-loaded UTME details</li>
+        <li>Generate a Remita payment code</li>
+        <li>Pay the ₦2,000 screening fee via Remita</li>
+        <li>Print payment slip or obtain Remita receipt (with access code)</li>
+        <li>Return to the portal and log in with JAMB number and access code</li>
+        <li>Complete the application form</li>
+        <li>Submit and print the registration slip</li>
+      </ol>
+      <p>Candidates are advised to keep their printed slip safe, as it will be required during screening.</p>
+
+      <h3>Screening Fee</h3>
+      <p>The screening fee is <strong>₦2,000</strong>.</p>
+      <p>Payment can be made:</p>
+      <ul>
+        <li>Online using ATM debit card</li>
+        <li>At any bank supporting Remita payment</li>
+      </ul>
+
+      <h3>Important Eligibility Rule</h3>
+      <p>Applicants must be at least <strong>16 years old by 30 September 2026</strong> to be eligible for admission consideration.</p>
+
+      <h3>JAMB CAPS Requirement</h3>
+      <p>All candidates must upload their O’Level results to the Joint Admissions and Matriculation Board CAPS portal.</p>
+      <p>Failure to upload O’Level results may lead to automatic disqualification from admission consideration.</p>
+
+      <h3>Screening Guidelines</h3>
+      <ul>
+        <li>Candidates must appear on their scheduled screening date once announced</li>
+        <li>Missing the screening schedule may result in disqualification</li>
+        <li>Parents, guardians, and unauthorized persons are not allowed at the screening venue</li>
+        <li>Candidates are expected to complete registration online only</li>
+      </ul>
+
+      <h3>Examination Rules</h3>
+      <p>The university has strictly prohibited the use of:</p>
+      <ul>
+        <li>Mobile phones</li>
+        <li>iPads, iPods, Walkman devices</li>
+        <li>Any unauthorized electronic gadgets or materials</li>
+      </ul>
+      <p>Candidates are advised to comply strictly with all instructions to avoid disqualification.</p>
+
+      <h3>Screening Schedule</h3>
+      <p>UNIPORT has not yet released the official screening timetable. Candidates are advised to regularly check the university website for updates regarding:</p>
+      <ul>
+        <li>Screening dates</li>
+        <li>Venue allocation</li>
+        <li>Examination instructions</li>
+      </ul>
+
+      <h3>Technical Support and Enquiries</h3>
+      <p>For assistance during registration, candidates can contact via email at <a href="mailto:putme2026@uniport.edu.ng">putme2026@uniport.edu.ng</a> or via phone at 08123241152, 08032943819, or 07058555101.</p>
+
+      <h3>Final Note</h3>
+      <p>Admission into the University of Port Harcourt remains competitive, and only candidates who meet the requirements and follow the correct application process will be considered for the 2026/2027 screening exercise.</p>`,
+    tags: ["UNIPORT", "Admission", "Post UTME", "2026/2027", "Education", "Nigeria"],
+  },
+  {
+    id: "fuoye-admission-cut-off-marks-2026-2027",
+    title: "FUOYE Releases 2026/2027 Admission Cut-Off Marks for All Courses",
+    category: "Education",
+    date: "2026-05-31",
+    excerpt: "Federal University Oye-Ekiti has published the approved minimum UTME scores required for admission into its undergraduate programmes for the 2026/2027 academic session.",
+    content: `<h2>FUOYE Releases 2026/2027 Admission Cut-Off Marks for All Courses</h2>
+      <p>Federal University Oye-Ekiti has published the approved minimum UTME scores required for admission into its undergraduate programmes for the 2026/2027 academic session.</p>
+      <p>The announcement applies to candidates who selected FUOYE as their <strong>first choice during the 2026 UTME</strong>, and it serves as a guide for determining eligibility before the Post UTME screening process begins.</p>
+
+      <h3>What the FUOYE Cut-Off Mark Means</h3>
+      <p>The FUOYE cut-off mark refers to the <strong>minimum UTME score required for admission consideration</strong> into a specific course.</p>
+      <ul>
+        <li>The lowest approved score is <strong>150</strong></li>
+        <li>The highest approved score is <strong>280 (Medicine and Surgery)</strong></li>
+        <li>Each course has its own requirement depending on competitiveness and capacity</li>
+      </ul>
+      <p>Meeting the cut-off mark does not guarantee admission, but it is the first requirement for screening consideration.</p>
+
+      <h3>FUOYE Courses With the Highest Cut-Off Marks</h3>
+      <p>Some of the most competitive programmes include:</p>
+      <ul>
+        <li>Medicine and Surgery — <strong>280</strong></li>
+        <li>Nursing Science — <strong>240</strong></li>
+        <li>Medical Laboratory Science — <strong>230</strong></li>
+        <li>Doctor of Pharmacy — <strong>230</strong></li>
+        <li>Radiography — <strong>220</strong></li>
+        <li>Criminology and Security Studies — <strong>210</strong></li>
+        <li>Computer Science / Mass Communication — <strong>200</strong></li>
+      </ul>
+      <p>These courses require high UTME performance due to demand and limited admission slots.</p>
+
+      <h3>FUOYE Cut-Off Marks by Faculty (Overview)</h3>
+      <p>Below is a summary of minimum scores across major faculties:</p>
+      
+      <h4>Faculty of Agriculture</h4>
+      <p>Most programmes: <strong>150–180</strong></p>
+
+      <h4>Faculty of Arts</h4>
+      <ul>
+        <li>English and Literary Studies — 180</li>
+        <li>Theatre and Media Arts — 200</li>
+        <li>Philosophy — 160–180 range</li>
+      </ul>
+
+      <h4>Basic Medical Sciences</h4>
+      <ul>
+        <li>Nursing Science — 240</li>
+        <li>Medical Laboratory Science — 230</li>
+        <li>Radiography — 220</li>
+      </ul>
+
+      <h4>College of Medicine</h4>
+      <ul>
+        <li>Medicine and Surgery — 280</li>
+      </ul>
+
+      <h4>Engineering</h4>
+      <ul>
+        <li>Civil Engineering — 190</li>
+        <li>Electrical/Electronics Engineering — 190</li>
+        <li>Mechanical Engineering — 180</li>
+      </ul>
+
+      <h4>Management Sciences</h4>
+      <ul>
+        <li>Accounting — 200</li>
+        <li>Business Administration — 200</li>
+        <li>Public Administration — 170–180</li>
+      </ul>
+
+      <h4>Computing & ICT Courses</h4>
+      <ul>
+        <li>Computer Science — 200</li>
+        <li>Cyber Security — 180</li>
+        <li>Software Engineering — 160–180</li>
+      </ul>
+
+      <h4>Social Sciences</h4>
+      <ul>
+        <li>Economics — 180</li>
+        <li>Political Science — 180</li>
+        <li>Criminology — 210</li>
+      </ul>
+
+      <h4>Education, Sciences & Others</h4>
+      <p>Many programmes fall within <strong>150–180</strong>, especially in Education, Physical Sciences, Agriculture, and Environmental Sciences.</p>
+
+      <h3>Courses With 150 Minimum Score</h3>
+      <p>A large number of FUOYE programmes accept <strong>150 as the entry benchmark</strong>, particularly in:</p>
+      <ul>
+        <li>Agriculture-related courses</li>
+        <li>Education programmes</li>
+        <li>Physical sciences (Chemistry, Physics, Mathematics, Statistics)</li>
+        <li>Environmental and life sciences (Biology, Plant Science, etc.)</li>
+        <li>Some computing and engineering support courses</li>
+      </ul>
+      <p>However, candidates must still verify their <strong>exact course line</strong>, as similar programme names may carry different requirements.</p>
+
+      <h3>Final Note</h3>
+      <p>FUOYE’s 2026/2027 cut-off list gives candidates a clear picture of their admission chances. The key is not just meeting the minimum score, but aligning your UTME result with a realistic course choice before the Post UTME stage begins.</p>`,
+    tags: ["FUOYE", "Admission", "Cut-off Marks", "2026/2027", "Education", "Nigeria"],
+  },
+  {
     id: "oauthc-school-of-community-health-higher-diploma-admission-2026-2027",
     title: "OAUTHC School of Community Health Opens Admission for 2026/2027 Higher Diploma Programme",
     category: "Education",

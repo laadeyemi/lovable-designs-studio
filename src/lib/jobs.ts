@@ -14,6 +14,39 @@ export type Job = {
   company?: string;
 }
 
+// Helper function to parse various deadline string formats into a comparable 'YYYY-MM-DD' string
+function parseDeadline(deadlineString: string): string | null {
+  if (deadlineString === "Not Specified") {
+    return null; // Keep jobs with unspecified deadlines
+  }
+
+  const monthMap: { [key: string]: string } = {
+    "January": "01", "February": "02", "March": "03", "April": "04", "May": "05", "June": "06",
+    "July": "07", "August": "08", "September": "09", "October": "10", "November": "11", "December": "12"
+  };
+
+  // Handle "YYYY-MM-DD" format
+  if (/\d{4}-\d{2}-\d{2}/.test(deadlineString)) {
+    return deadlineString;
+  }
+
+  // Handle "DDth Month, YYYY" or "DD Month, YYYY" (e.g., "8th June, 2026", "1 June 2026", "19th May, 2026 (12 Midnight)")
+  let match = deadlineString.match(/(\d{1,2})(?:st|nd|rd|th)? (\w+),? (\d{4})/);
+  if (match) {
+    const day = parseInt(match[1]);
+    const monthName = match[2];
+    const year = parseInt(match[3]);
+    const month = monthMap[monthName];
+    if (month) {
+      return `${year}-${month}-${day.toString().padStart(2, '0')}`;
+    }
+  }
+
+  return null; // Unable to parse, treat as non-expired
+}
+
+const currentDate = '2026-06-01'; // Current date for comparison (June 1, 2026)
+
 const allJobs: Job[] = [
   {
     id: "hr-admin-officer-phc-lagos-2026-v2",
@@ -14881,5 +14914,12 @@ const allJobs: Job[] = [
 },
 ];
 
-// Sort jobs by date descending (most recent first)
-export const jobs = [...allJobs].sort((a, b) => b.date.localeCompare(a.date));
+// Filter out expired jobs and then sort by date descending (most recent first)
+export const jobs = allJobs.filter(job => {
+  const parsedDeadline = parseDeadline(job.deadline);
+  if (parsedDeadline === null) {
+    return true; // Keep jobs with unspecified or unparseable deadlines
+  }
+  // Keep jobs where the deadline is on or after the current date
+  return parsedDeadline >= currentDate;
+}).sort((a, b) => b.date.localeCompare(a.date));

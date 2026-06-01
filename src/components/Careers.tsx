@@ -34,7 +34,7 @@ export function Careers({ limit, showAllLink = true }: { limit?: number; showAll
         </motion.div>
 
         {/* Jobs List */}
-        <div className="max-w-4xl mx-auto space-y-4">
+        <div className="w-full space-y-4">
           {displayJobs.map((job, index) => (
             <motion.div
               key={job.title}
@@ -61,13 +61,13 @@ export function Careers({ limit, showAllLink = true }: { limit?: number; showAll
                 </div>
 
                 {/* Meta */}
-                <div className="flex items-center gap-4 text-sm text-muted-foreground">
-                  <span className="flex items-center gap-1">
-                    <MapPin className="w-4 h-4" />
+                <div className="flex flex-wrap items-center gap-4 text-sm text-muted-foreground lg:min-w-[200px] lg:max-w-[400px]">
+                  <span className="flex items-start gap-1">
+                    <MapPin className="w-4 h-4 mt-0.5 shrink-0" />
                     {job.location}
                   </span>
                   <span className="flex items-center gap-1">
-                    <Clock className="w-4 h-4" />
+                    <Clock className="w-4 h-4 shrink-0" />
                     {job.type}
                   </span>
                 </div>

@@ -10,6 +10,379 @@ export type Post = {
 
 const allPosts: Post[] = [
   {
+    id: "fulokoja-admission-schedule-2026-2027",
+    title: "FULOKOJA Admission Schedule 2026/2027: Post-UTME, JAMB CAPS, Registration and Resumption Dates",
+    category: "Education",
+    date: "2026-06-02",
+    excerpt: "Federal University Lokoja (FULOKOJA) has released the official 2026/2027 admission schedule, covering Post-UTME, JAMB CAPS registration, and resumption dates.",
+    content: `<h2>FULOKOJA Admission Schedule 2026/2027</h2>
+      <p>The management of Federal University Lokoja (FULOKOJA) has approved and released the official schedule of activities for the 2026/2027 admission exercise.</p>
+      <p>The timeline covers every major stage of the admission process, including the Post-UTME screening exercise, approval of screening results, departmental and faculty recommendations, submission of admissions through JAMB CAPS, registration of newly admitted students, and resumption for the new academic session.</p>
+      <p>Candidates seeking admission into FULOKOJA for the 2026/2027 academic session are advised to take note of the important dates and follow the admission process accordingly.</p>
+
+      <h3>FULOKOJA 2026/2027 Admission Exercise Timeline</h3>
+      <table class="w-full border-collapse border border-gray-300 my-4 text-sm">
+        <thead>
+          <tr class="bg-gray-100 text-left">
+            <th class="border border-gray-300 p-2">Date</th>
+            <th class="border border-gray-300 p-2">Activity</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td class="border border-gray-300 p-2">Tuesday, 2 June 2026</td><td class="border border-gray-300 p-2">Advertisement of Post-UTME Screening Exercise</td></tr>
+          <tr><td class="border border-gray-300 p-2">Tuesday, 9 June 2026</td><td class="border border-gray-300 p-2">Opening of Post-UTME Registration and Screening Portal</td></tr>
+          <tr><td class="border border-gray-300 p-2">Sunday, 13 September 2026</td><td class="border border-gray-300 p-2">Closing of Post-UTME Registration and Screening Portal</td></tr>
+          <tr><td class="border border-gray-300 p-2">Thursday, 17 September 2026</td><td class="border border-gray-300 p-2">Approval of Post-UTME Results and Admission Parameters by Central Admissions Committee</td></tr>
+          <tr><td class="border border-gray-300 p-2">Monday, 21 September 2026</td><td class="border border-gray-300 p-2">Forwarding of Post-UTME Results to Faculties and Departments</td></tr>
+          <tr><td class="border border-gray-300 p-2">Thursday, 24 September 2026</td><td class="border border-gray-300 p-2">Submission of Admission Recommendations by Faculties and Departments</td></tr>
+          <tr><td class="border border-gray-300 p-2">Tuesday, 29 September 2026</td><td class="border border-gray-300 p-2">Approval of Undergraduate, Diploma, Remedial and JUPEB Admission Recommendations</td></tr>
+          <tr><td class="border border-gray-300 p-2">Monday, 5 October 2026</td><td class="border border-gray-300 p-2">Forwarding of Admission Recommendations to JAMB CAPS</td></tr>
+          <tr><td class="border border-gray-300 p-2">Monday, 26 October 2026</td><td class="border border-gray-300 p-2">Opening of Fresh Students Registration Portal</td></tr>
+          <tr><td class="border border-gray-300 p-2">Monday, 2 November 2026</td><td class="border border-gray-300 p-2">Resumption of Fresh Students</td></tr>
+        </tbody>
+      </table>
+
+      <h3>Post-UTME Advertisement and Registration Dates</h3>
+      <p>The admission process begins with the public announcement of the Post-UTME screening exercise.</p>
+      <ul>
+        <li><strong>Advertisement Date:</strong> Tuesday, 2 June 2026</li>
+        <li><strong>Portal Opening Date:</strong> Tuesday, 9 June 2026</li>
+        <li><strong>Portal Closing Date:</strong> Sunday, 13 September 2026</li>
+      </ul>
+
+      <h3>Approval and Recommendation Stages</h3>
+      <p>Following the close of the screening portal, the Central Admissions Committee will meet on <strong>Thursday, 17 September 2026</strong> to approve results and parameters. Subsequently, results will be forwarded to faculties on <strong>Monday, 21 September 2026</strong>.</p>
+      <p>Faculties and departments are expected to submit recommendations for Undergraduate, Diploma, Remedial, and JUPEB programmes by <strong>Thursday, 24 September 2026</strong>. The final institutional approval of these recommendations is set for <strong>Tuesday, 29 September 2026</strong>.</p>
+
+      <h3>Submission to JAMB CAPS</h3>
+      <p>Institutional recommendations will be uploaded to the JAMB Central Admissions Processing System (CAPS) on <strong>Monday, 5 October 2026</strong>. Candidates are advised to monitor their profiles regularly after this date.</p>
+
+      <h3>Fresh Students Registration and Resumption</h3>
+      <p>Newly admitted candidates can begin their official journey shortly after:</p>
+      <ul>
+        <li><strong>Registration Portal Opens:</strong> Monday, 26 October 2026</li>
+        <li><strong>Resumption Date:</strong> Monday, 2 November 2026</li>
+      </ul>
+
+      <h3>Admission Timeline by Stage</h3>
+      <table class="w-full border-collapse border border-gray-300 my-4 text-sm">
+        <thead>
+          <tr class="bg-gray-100 text-left">
+            <th class="border border-gray-300 p-2">Stage</th>
+            <th class="border border-gray-300 p-2">Period</th>
+            <th class="border border-gray-300 p-2">Activity</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td class="border border-gray-300 p-2">Post-UTME Stage</td><td class="border border-gray-300 p-2">2 June – 13 September 2026</td><td class="border border-gray-300 p-2">Advertisement, registration and screening activities</td></tr>
+          <tr><td class="border border-gray-300 p-2">Results and Recommendation Stage</td><td class="border border-gray-300 p-2">17 – 29 September 2026</td><td class="border border-gray-300 p-2">Approval of results and departmental recommendations</td></tr>
+          <tr><td class="border border-gray-300 p-2">JAMB CAPS Stage</td><td class="border border-gray-300 p-2">5 October 2026</td><td class="border border-gray-300 p-2">Uploading of admission recommendations to JAMB CAPS</td></tr>
+          <tr><td class="border border-gray-300 p-2">Fresh Students Stage</td><td class="border border-gray-300 p-2">26 October – 2 November 2026</td><td class="border border-gray-300 p-2">Registration and resumption of newly admitted students</td></tr>
+        </tbody>
+      </table>
+
+      <h3>Important Dates Every Applicant Should Remember</h3>
+      <ul>
+        <li><strong>2 June 2026:</strong> Post-UTME advertisement</li>
+        <li><strong>9 June 2026:</strong> Registration portal opens</li>
+        <li><strong>13 September 2026:</strong> Registration portal closes</li>
+        <li><strong>17 September 2026:</strong> Approval of Post-UTME results</li>
+        <li><strong>5 October 2026:</strong> Admissions forwarded to JAMB CAPS</li>
+        <li><strong>26 October 2026:</strong> Fresh students registration begins</li>
+        <li><strong>2 November 2026:</strong> Fresh students resume</li>
+      </ul>
+
+      <p>Following the approved schedule closely will help applicants avoid missing important admission deadlines and requirements.</p>`,
+    tags: [
+      "FULOKOJA",
+      "Admission",
+      "Post-UTME",
+      "JAMB CAPS",
+      "2026/2027",
+      "Education",
+      "Nigeria",
+      "University News",
+    ],
+  },
+  {
+    id: "lasued-post-utme-direct-entry-form-2026-2027",
+    title: "LASUED Post UTME/Direct Entry Form 2026/2027: Eligibility, Requirements and Application Guide",
+    category: "Education",
+    date: "2026-06-01",
+    excerpt: "LASUED has commenced the sale of Post UTME and Direct Entry screening forms for the 2026/2027 session. Registration runs from June 1 to July 5, 2026.",
+    content: `<h2>LASUED Post UTME/Direct Entry Form 2026/2027</h2>
+      <p>The management of Lagos State University of Education (LASUED) has commenced the sale of Post UTME and Direct Entry (DE) screening forms for admission into its undergraduate programmes for the 2026/2027 academic session.</p>
+      <p>The online registration exercise begins on <strong>1 June 2026</strong> and closes on <strong>5 July 2026</strong>. Interested candidates are advised to carefully follow the application guidelines and complete their registration before the deadline.</p>
+
+      <h3>Eligibility Requirements</h3>
+      <h4>For UTME Candidates</h4>
+      <ul>
+        <li>Choose LASUED as their first-choice institution in the 2026 UTME.</li>
+        <li>Score a minimum of <strong>185</strong> in the 2026 UTME.</li>
+        <li>Possess at least five relevant O'Level credits, including English Language and Mathematics.</li>
+        <li>Be at least 16 years old by <strong>1 October 2026</strong>.</li>
+      </ul>
+
+      <h4>For Direct Entry Candidates</h4>
+      <ul>
+        <li>Select LASUED as their first-choice institution during the 2026 Direct Entry admission exercise.</li>
+        <li>Possess relevant Direct Entry qualifications such as NCE, ND, or Diploma certificates.</li>
+        <li>Meet the required O'Level subject requirements.</li>
+      </ul>
+
+      <h3>Screening Requirements at a Glance</h3>
+      <table class="w-full border-collapse border border-gray-300 my-4 text-sm">
+        <thead>
+          <tr class="bg-gray-100 text-left">
+            <th class="border border-gray-300 p-2">Requirement</th>
+            <th class="border border-gray-300 p-2">Details</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td class="border border-gray-300 p-2">Institution Choice</td><td class="border border-gray-300 p-2">LASUED must be first choice</td></tr>
+          <tr><td class="border border-gray-300 p-2">Minimum UTME Score</td><td class="border border-gray-300 p-2">185</td></tr>
+          <tr><td class="border border-gray-300 p-2">Minimum Age</td><td class="border border-gray-300 p-2">16 years by 1 October 2026</td></tr>
+          <tr><td class="border border-gray-300 p-2">O'Level Requirement</td><td class="border border-gray-300 p-2">Five credits including English and Math</td></tr>
+          <tr><td class="border border-gray-300 p-2">Registration Period</td><td class="border border-gray-300 p-2">1 June – 5 July 2026</td></tr>
+          <tr><td class="border border-gray-300 p-2">JAMB CAPS Upload</td><td class="border border-gray-300 p-2">By 17 July 2026</td></tr>
+        </tbody>
+      </table>
+
+      <h3>How to Apply</h3>
+      <ol>
+        <li>Visit the <a href="https://www.lasued.edu.ng/">LASUED admission portal</a>.</li>
+        <li>Read the screening guidelines carefully.</li>
+        <li>Register for either the Post UTME or Direct Entry screening exercise.</li>
+        <li>Upload all required academic credentials.</li>
+        <li>Confirm that your O'Level results have been uploaded to JAMB CAPS.</li>
+        <li>Complete and submit the online screening form before the deadline.</li>
+      </ol>
+
+      <h3>Available Undergraduate Courses</h3>
+      <h4>College of Humanities Education (COHED)</h4>
+      <ul>
+        <li>B.A. Ed. History / B.A. History and Diplomatic Studies</li>
+        <li>B.A. Ed. Christian Religious Studies / B.A. Christian Religious Studies</li>
+        <li>B.A. Ed. Islamic Studies / B.A. Islamic Studies</li>
+        <li>B.A. Fine and Applied Arts</li>
+        <li>B.A. Ed. Music / B.A. Music</li>
+        <li>B.A. Theatre Arts</li>
+      </ul>
+
+      <h4>College of Sciences Education (COSED)</h4>
+      <ul>
+        <li>B.Sc. Ed. Biology / B.Sc. Biology</li>
+        <li>B.Sc. Ed. Chemistry / B.Sc. Chemistry</li>
+        <li>B.Sc. Ed. Physics / B.Sc. Physics</li>
+        <li>B.Sc. Ed. Mathematics / B.Sc. Mathematics</li>
+        <li>B.Sc. Statistics</li>
+        <li>B.Sc. Ed. Integrated Science</li>
+        <li>B.Sc. Ed. Health Education</li>
+        <li>B.Sc. Ed. Human Kinetics</li>
+      </ul>
+
+      <h4>College of Information and Technology Education (COITED)</h4>
+      <ul>
+        <li>B.Sc. Computer Science / B.Sc. Ed. Computer Science</li>
+        <li>B.Tech Education (Automobile, Woodwork, Electrical, Metalwork, Building)</li>
+        <li>B.Ed. Library and Information Science</li>
+      </ul>
+
+      <h4>College of Vocational and Entrepreneurship Education (COVED)</h4>
+      <ul>
+        <li>B.Sc. Ed. Agricultural Education</li>
+        <li>B.Ed. Home Economics</li>
+        <li>B.Sc. Ed. Business Education</li>
+        <li>B.Ed. Entrepreneurship</li>
+      </ul>
+
+      <h4>College of Social Sciences Education (COSSCIED)</h4>
+      <ul>
+        <li>B.Sc. Ed. Economics / B.Sc. Economics</li>
+        <li>B.Sc. Ed. Political Science / B.Sc. Political Science</li>
+        <li>B.Sc. Ed. Geography / B.Sc. Geography</li>
+        <li>B.Sc. Transport Management</li>
+        <li>B.Sc. Social Studies and Civic Education</li>
+      </ul>
+
+      <h4>College of Management Sciences Education (COMSED)</h4>
+      <ul>
+        <li>B.Sc. Marketing / B.Sc. Ed. Marketing</li>
+        <li>B.Sc. Office and Information Management</li>
+        <li>B.Sc. Accounting</li>
+        <li>B.Sc. Hospitality and Tourism Management</li>
+      </ul>
+
+      <h4>College of Specialised and Professional Education (COSPED)</h4>
+      <ul>
+        <li>B.Ed. Early Childhood / Primary Education</li>
+        <li>B.Ed. Guidance and Counselling</li>
+        <li>B.Ed. Special Needs Education</li>
+        <li>B.Ed. Adult and Continuous Education</li>
+        <li>B.Ed. Educational Management</li>
+      </ul>
+
+      <h4>College of Language and Communication Arts Education (COLCAED)</h4>
+      <ul>
+        <li>B.A. English Language and Literature / B.A. Ed. English Language</li>
+        <li>B.A. Ed. Language Arts and Communication</li>
+        <li>B.A. Ed. French / B.A. French</li>
+        <li>B.A. Ed. Arabic / B.A. Arabic</li>
+        <li>B.A. Ed. Yoruba / B.A. Yoruba</li>
+        <li>B.A. Ed. Igbo / B.A. Igbo</li>
+      </ul>
+
+      <h3>Application Checklist</h3>
+      <ul>
+        <li>LASUED is selected as first-choice institution.</li>
+        <li>UTME score is at least 185 (for UTME applicants).</li>
+        <li>Direct Entry registration is valid (for DE applicants).</li>
+        <li>Five relevant O'Level credits including English and Mathematics are available.</li>
+        <li>O'Level results have been uploaded to JAMB CAPS.</li>
+        <li>Candidate will be at least 16 years old by 1 October 2026.</li>
+        <li>All required credentials have been uploaded.</li>
+        <li>Registration is completed before 5 July 2026.</li>
+      </ul>
+
+      <p>Direct Entry applicants should also remember to submit their screening report and qualification documents to the Admission Office for further processing.</p>`,
+    tags: [
+      "LASUED",
+      "Post UTME",
+      "Direct Entry",
+      "Admission",
+      "2026/2027",
+      "Lagos",
+      "Education",
+      "Nigeria",
+      "College of Education",
+    ],
+  },
+  {
+    id: "lasoma-scholarship-programme-2026-african-students",
+    title: "LASOMA Scholarship Programme 2026 for African Students: Fully Funded MSc and PhD Opportunities",
+    category: "Scholarship",
+    date: "2026-06-02",
+    excerpt: "Applications are now open for the LASOMA Scholarship Programme 2026, offering fully funded postgraduate opportunities for African students in engineering and solar manufacturing.",
+    content: `<h2>LASOMA Scholarship Programme 2026 for African Students: Fully Funded MSc and PhD Opportunities</h2>
+      <p>Applications are now open for the LASOMA Scholarship Programme 2026, a fully funded postgraduate scholarship designed for African students seeking Master's and PhD degrees in engineering and related disciplines.</p>
+      <p>LASOMA, which stands for <strong>Laser Enabled Manufacturing of Solar Systems</strong>, is an international research initiative focused on strengthening Africa's capacity in solar manufacturing through advanced laser technologies and artificial intelligence (AI)-powered systems.</p>
+      <p>The programme is supported by the African Union and co-funded by the European Union, highlighting its importance in developing the next generation of researchers and innovators in engineering, renewable energy, and advanced manufacturing.</p>
+
+      <h3>About the LASOMA Scholarship Programme</h3>
+      <p>The LASOMA Scholarship Programme aims to build a network of highly skilled African researchers capable of driving innovation in solar manufacturing and related technological fields.</p>
+      <p>The scholarship supports postgraduate studies in areas such as:</p>
+      <ul>
+        <li>Engineering Physics</li>
+        <li>Mechatronic Engineering</li>
+        <li>Materials and Metallurgical Engineering</li>
+        <li>Industrial and Production Engineering</li>
+        <li>Mechanical Engineering</li>
+        <li>Solid State Physics</li>
+        <li>Intelligent Engineering Systems</li>
+        <li>AI-powered Manufacturing Systems</li>
+      </ul>
+
+      <h3>Scholarship Benefits</h3>
+      <p>Selected candidates will receive comprehensive financial and academic support throughout their studies. Benefits include:</p>
+      <ul>
+        <li>Full tuition coverage</li>
+        <li>Monthly living stipend</li>
+        <li>Health insurance</li>
+        <li>Access to technical research workshops</li>
+        <li>Research and professional development opportunities</li>
+      </ul>
+
+      <h4>Monthly Stipend</h4>
+      <table class="w-full border-collapse border border-gray-300 my-4 text-sm">
+        <thead>
+          <tr class="bg-gray-100 text-left">
+            <th class="border border-gray-300 p-2">Study Level</th>
+            <th class="border border-gray-300 p-2">Monthly Stipend</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td class="border border-gray-300 p-2">PhD Students</td><td class="border border-gray-300 p-2">€1,230</td></tr>
+          <tr><td class="border border-gray-300 p-2">MSc Students</td><td class="border border-gray-300 p-2">€890</td></tr>
+        </tbody>
+      </table>
+
+      <h3>Eligibility Requirements</h3>
+      <p>Applicants must:</p>
+      <ul>
+        <li>Be a citizen of an African country</li>
+        <li>Hold a Bachelor's degree and/or Master's degree in a relevant engineering or related discipline</li>
+        <li>Demonstrate strong academic achievement and research potential</li>
+        <li>Meet the academic admission requirements of the chosen host university</li>
+        <li>Meet the language proficiency requirements of the host university</li>
+      </ul>
+
+      <h3>Participating Universities and Available Programmes</h3>
+      <h4>Pentecost University, Ghana</h4>
+      <ul>
+        <li>PhD Engineering Physics / Actuating Intelligence Engineering Systems</li>
+        <li>MSc Intelligent Engineering Systems</li>
+      </ul>
+      <h4>Jomo Kenyatta University of Agriculture and Technology (JKUAT), Kenya</h4>
+      <ul>
+        <li>PhD Mechatronic Engineering</li>
+        <li>MSc Mechatronic Engineering</li>
+      </ul>
+      <h4>Federal University Lokoja, Nigeria</h4>
+      <ul>
+        <li>PhD Engineering Physics</li>
+        <li>MSc Engineering Physics</li>
+        <li>MSc Solid State Physics</li>
+      </ul>
+      <h4>Federal University of Technology, Minna, Nigeria</h4>
+      <ul>
+        <li>PhD Industrial and Production Engineering</li>
+        <li>PhD Materials and Metallurgical Engineering</li>
+        <li>M.Eng Mechanical Engineering (Materials and Metallurgical Option)</li>
+        <li>M.Eng Mechanical Engineering (Industrial and Production Option)</li>
+      </ul>
+
+      <h3>Required Application Documents</h3>
+      <ul>
+        <li>Academic transcripts and certificates</li>
+        <li>Curriculum Vitae (CV)</li>
+        <li>Motivation letter</li>
+        <li>Research proposal</li>
+        <li>Two recommendation letters</li>
+        <li>Completed application form</li>
+        <li><strong>For PhD Only:</strong> A two-minute elevator pitch video</li>
+      </ul>
+
+      <h3>Important Dates</h3>
+      <table class="w-full border-collapse border border-gray-300 my-4 text-sm">
+        <thead>
+          <tr class="bg-gray-100 text-left">
+            <th class="border border-gray-300 p-2">Event</th>
+            <th class="border border-gray-300 p-2">Date</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td class="border border-gray-300 p-2">Applications Open</td><td class="border border-gray-300 p-2">8 May 2026</td></tr>
+          <tr><td class="border border-gray-300 p-2">Application Deadline</td><td class="border border-gray-300 p-2">22 June 2026</td></tr>
+          <tr><td class="border border-gray-300 p-2">Notification of Successful Applicants</td><td class="border border-gray-300 p-2">13 July 2026</td></tr>
+          <tr><td class="border border-gray-300 p-2">Programme Commencement</td><td class="border border-gray-300 p-2">September 2026</td></tr>
+        </tbody>
+      </table>
+
+      <h3>Contact Information</h3>
+      <p>Email: <a href="mailto:infolasoma@pentvars.edu.gh">infolasoma@pentvars.edu.gh</a></p>`,
+    tags: [
+      "LASOMA",
+      "Scholarship",
+      "Africa",
+      "Postgraduate",
+      "Engineering",
+      "Solar Manufacturing",
+      "MSc",
+      "PhD",
+      "2026",
+    ],
+  },
+  {
     id: "opay-national-innovation-challenge-2026",
     title: "OPay National Innovation Challenge 2026: Win Up to ₦10 Million Grant, Scholarships and Career Opportunities",
     category: "Scholarship",

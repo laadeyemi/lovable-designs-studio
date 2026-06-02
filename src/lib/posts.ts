@@ -10,6 +10,574 @@ export type Post = {
 
 const allPosts: Post[] = [
   {
+    id: "kwasu-post-utme-direct-entry-screening-form-2026-2027",
+    title: "KWASU Post UTME/Direct Entry Screening Form 2026/2027: Eligibility, Requirements and Application Guide",
+    category: "Education",
+    date: "2026-06-03",
+    excerpt: "The management of Kwara State University (KWASU), Malete, has commenced the sale of its Post UTME and Direct Entry screening form for the 2026/2027 session. Registration runs from July 18 to August 17, 2026.",
+    content: `<h2>KWASU Post UTME/Direct Entry Screening Form 2026/2027</h2>
+      <p>The management of Kwara State University (KWASU), Malete, has commenced the sale of its Post UTME and Direct Entry screening form for admission into undergraduate programmes for the 2026/2027 academic session.</p>
+      <p>All candidates seeking admission into KWASU must participate in the Pre-Admission Screening Exercise as part of the admission process.</p>
+      <p>Candidates who selected KWASU as their first-choice institution during the 2026 UTME or Direct Entry application are eligible to apply. Those who did not initially choose the university can still participate after changing their institution of first choice to KWASU through the JAMB portal.</p>
+
+      <h3>KWASU Post UTME and Direct Entry Eligibility Requirements</h3>
+      <p>To qualify for the 2026/2027 Pre-Admission Screening Exercise, candidates must:</p>
+      <ul>
+        <li>Choose Kwara State University as their first-choice institution.</li>
+        <li>Possess the required O’Level qualifications for their chosen programme.</li>
+        <li>Participate in the online screening exercise within the registration period.</li>
+        <li>Provide accurate personal and academic information during registration.</li>
+      </ul>
+      <p>Candidates who did not select KWASU initially must first complete a Change of Institution on the JAMB portal before proceeding with the screening registration.</p>
+
+      <h3>KWASU Screening Registration Dates</h3>
+      <table class="w-full border-collapse border border-gray-300 my-4 text-sm">
+        <thead>
+          <tr class="bg-gray-100 text-left">
+            <th class="border border-gray-300 p-2">Activity</th>
+            <th class="border border-gray-300 p-2">Date</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td class="border border-gray-300 p-2">Registration Opens</td><td class="border border-gray-300 p-2">18 July 2026</td></tr>
+          <tr><td class="border border-gray-300 p-2">Registration Closes</td><td class="border border-gray-300 p-2">17 August 2026</td></tr>
+        </tbody>
+      </table>
+
+      <h3>Registration Fee and Screening Formula</h3>
+      <p>The screening application fee is <strong>₦2,000 (Two Thousand Naira Only)</strong>. The fee is non-refundable and must be paid through the official KWASU application portal.</p>
+      <p>KWASU uses a screening formula that combines candidates’ UTME or Direct Entry scores with their O’Level performance:</p>
+      <table class="w-full border-collapse border border-gray-300 my-4 text-sm">
+        <thead>
+          <tr class="bg-gray-100 text-left">
+            <th class="border border-gray-300 p-2">Screening Component</th>
+            <th class="border border-gray-300 p-2">Weight</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td class="border border-gray-300 p-2">UTME/Direct Entry Score</td><td class="border border-gray-300 p-2">70%</td></tr>
+          <tr><td class="border border-gray-300 p-2">O’Level Results</td><td class="border border-gray-300 p-2">30%</td></tr>
+        </tbody>
+      </table>
+
+      <h3>O’Level Requirements</h3>
+      <p>Candidates must possess at least five credit passes in relevant subjects.</p>
+      <table class="w-full border-collapse border border-gray-300 my-4 text-sm">
+        <thead>
+          <tr class="bg-gray-100 text-left">
+            <th class="border border-gray-300 p-2">Programme Category</th>
+            <th class="border border-gray-300 p-2">Maximum Sittings</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td class="border border-gray-300 p-2">Most Courses</td><td class="border border-gray-300 p-2">Two sittings</td></tr>
+          <tr><td class="border border-gray-300 p-2">MBBS</td><td class="border border-gray-300 p-2">One sitting only</td></tr>
+        </tbody>
+      </table>
+
+      <h3>How to Apply for KWASU Post UTME/Direct Entry Screening</h3>
+      <ol>
+        <li><strong>Step 1: Visit the Application Portal</strong> – Visit the KWASU admission portal, click "Click Here to Apply," and select "Undergraduate."</li>
+        <li><strong>Step 2: Enter Registration Details</strong> – Enter your JAMB Registration Number, click "Continue," and provide a valid phone number and email address.</li>
+        <li><strong>Step 3: Make Payment</strong> – Click "Make Payment," enter your ATM card details, and complete the process using the OTP from your bank.</li>
+        <li><strong>Step 4: Complete Registration</strong> – Return to the Main Login page, log in with your credentials, fill out the form, and submit.</li>
+        <li><strong>Step 5: Print Application Documents</strong> – After successful registration, print the application form and payment receipt.</li>
+      </ol>
+
+      <h3>Admission Support Contacts</h3>
+      <table class="w-full border-collapse border border-gray-300 my-4 text-sm">
+        <thead>
+          <tr class="bg-gray-100 text-left">
+            <th class="border border-gray-300 p-2">Contact Option</th>
+            <th class="border border-gray-300 p-2">Details</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td class="border border-gray-300 p-2">Helpdesk Email</td><td class="border border-gray-300 p-2"><a href="mailto:helpdesk@kwasu.edu.ng">helpdesk@kwasu.edu.ng</a></td></tr>
+          <tr><td class="border border-gray-300 p-2">Admission Email</td><td class="border border-gray-300 p-2"><a href="mailto:admissions@kwasu.edu.ng">admissions@kwasu.edu.ng</a></td></tr>
+          <tr><td class="border border-gray-300 p-2">Mr. Aliyu</td><td class="border border-gray-300 p-2">+234 807 754 5977</td></tr>
+          <tr><td class="border border-gray-300 p-2">Mr. Ibrahim</td><td class="border border-gray-300 p-2">+234 806 017 9373</td></tr>
+          <tr><td class="border border-gray-300 p-2">Mr. Sanusi</td><td class="border border-gray-300 p-2">+234 703 967 7503</td></tr>
+        </tbody>
+      </table>
+
+      <h3>KWASU Post UTME/DE 2026/2027 at a Glance</h3>
+      <table class="w-full border-collapse border border-gray-300 my-4 text-sm">
+        <thead>
+          <tr class="bg-gray-100 text-left">
+            <th class="border border-gray-300 p-2">Item</th>
+            <th class="border border-gray-300 p-2">Details</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td class="border border-gray-300 p-2">Institution</td><td class="border border-gray-300 p-2">Kwara State University (KWASU), Malete</td></tr>
+          <tr><td class="border border-gray-300 p-2">Registration Period</td><td class="border border-gray-300 p-2">18 July – 17 August 2026</td></tr>
+          <tr><td class="border border-gray-300 p-2">Application Fee</td><td class="border border-gray-300 p-2">₦2,000</td></tr>
+          <tr><td class="border border-gray-300 p-2">Screening Formula</td><td class="border border-gray-300 p-2">70% UTME/DE, 30% O’Level</td></tr>
+          <tr><td class="border border-gray-300 p-2">Awaiting Results</td><td class="border border-gray-300 p-2">Accepted</td></tr>
+        </tbody>
+      </table>
+
+      <h3>Final Note for Applicants</h3>
+      <p>Candidates seeking admission into Kwara State University for the 2026/2027 academic session should ensure that KWASU is selected as their first-choice institution and complete the online screening registration within the stipulated period. Review every detail carefully before final submission, as incorrect entries can lead to automatic disqualification.</p>`,
+    tags: [
+      "KWASU",
+      "Post UTME",
+      "Direct Entry",
+      "Admission",
+      "2026/2027",
+      "Education",
+      "Nigeria",
+      "Malete",
+    ],
+  },
+  {
+    id: "lasu-post-utme-direct-entry-form-2026-2027",
+    title: "LASU Post UTME/Direct Entry Form 2026/2027: Eligibility, Courses, Requirements and Application Guide",
+    category: "Education",
+    date: "2026-06-02",
+    excerpt: "Lagos State University (LASU) has commenced the sale of its Post UTME and Direct Entry screening form for the 2026/2027 academic session. Registration runs from June 3 to June 23, 2026.",
+    content: `<h2>LASU Post UTME/Direct Entry Form 2026/2027: Eligibility, Courses, Requirements and Application Guide</h2>
+      <p>The management of Lagos State University (LASU) has commenced the sale of its Post UTME and Direct Entry screening form for admission into undergraduate programmes for the 2026/2027 academic session.</p>
+      <p>Suitably qualified candidates can now participate in the online admission screening exercise.</p>
+      <p>Candidates are eligible for the LASU Post UTME screening if they selected LASU as their first-choice institution during the 2026 Unified Tertiary Matriculation Examination (UTME) and obtained a minimum score of 195. Applicants must also be at least 16 years old by 1 October 2026.</p>
+
+      <h3>LASU Post UTME and Direct Entry Eligibility Requirements</h3>
+      <p>To participate in the 2026/2027 admission screening exercise, candidates must satisfy the following conditions:</p>
+      <ul>
+        <li>LASU must be selected as the first-choice institution.</li>
+        <li>UTME candidates must score at least 195 in the 2026 UTME.</li>
+        <li>Candidates must be at least 16 years old by 1 October 2026.</li>
+        <li>Applicants must possess the required O’Level credits relevant to their chosen course.</li>
+        <li>O’Level results must be uploaded on JAMB CAPS before the screening exercise closes.</li>
+      </ul>
+
+      <h4>Eligibility for LASU Pre-Degree Students</h4>
+      <p>Students who successfully completed the LASU Pre-Degree Studies (PDS) programme are eligible to apply.</p>
+      <ul>
+        <li>Select LASU as their first-choice institution in the 2026 UTME.</li>
+        <li>Obtain a minimum UTME score of 195.</li>
+      </ul>
+
+      <h4>Eligibility for Direct Entry Candidates</h4>
+      <p>Direct Entry applicants must:</p>
+      <ul>
+        <li>Obtain the JAMB Direct Entry Form.</li>
+        <li>Select LASU as their first-choice institution.</li>
+        <li>Meet the admission requirements for their chosen programme.</li>
+      </ul>
+      <p>LASU School of Basic and Advanced Studies (JUPEB) candidates are also eligible. The university states that only LASU Diploma qualifications are acceptable for Direct Entry admission, except for NCE holders applying to programmes in the Faculty of Education.</p>
+
+      <h3>Lagos State Origin Verification Requirement</h3>
+      <p>Candidates claiming Lagos State origin for admission into 100-level and 200-level programmes must have undergone verification by the Independent Indigeneship Verification Committee (IIVC).</p>
+      <p>Verified status will be automatically reflected during the online admission screening process.</p>
+
+      <h3>LASU Post UTME Cut-Off Mark 2026/2027</h3>
+      <p>The minimum UTME score required for participation in the LASU online admission screening exercise is 195.</p>
+      <p>Candidates who score below 195 are not eligible for the screening exercise.</p>
+
+      <h3>LASU Post UTME Registration Period</h3>
+      <p>Registration and payment for the screening exercise will run for 21 days.</p>
+      <ul>
+        <li><strong>Opening Date:</strong> Wednesday, 3 June 2026</li>
+        <li><strong>Closing Date:</strong> Tuesday, 23 June 2026</li>
+        <li><strong>Closing Time:</strong> 12:00 midnight</li>
+      </ul>
+      <p>Candidates are advised to complete registration before the deadline.</p>
+
+      <h3>LASU Courses Available for 2026/2027 Admission</h3>
+      <p>LASU offers admission into approved programmes across various faculties, colleges, and schools.</p>
+
+      <h4>Faculty of Arts</h4>
+      <ul>
+        <li>Arabic, Christian Religious Studies, English, French, History and International Studies, Islamic Studies, Linguistics, Music, Peace Studies, Philosophy, Portuguese/English, Theatre Arts, Yoruba</li>
+      </ul>
+
+      <h4>Faculty of Communication and Media Studies</h4>
+      <ul>
+        <li>Mass Communication</li>
+      </ul>
+
+      <h4>Faculty of Education</h4>
+      <ul>
+        <li>Arabic Education, Biology Education, Business Education, Chemistry Education, Christian Religious Studies Education, Computer Science Education, Early Childhood Education, Economics Education, Educational Management, English Education, French Education, Geography Education, Guidance and Counselling, Health Education, History Education, Islamic Studies Education, Mathematics Education, Music Education, Physical and Health Education, Physics Education, Political Science Education, Social Studies and Civic Education, Special Education, Technology and Vocational Education, Yoruba Education</li>
+      </ul>
+
+      <h4>Faculty of Engineering</h4>
+      <ul>
+        <li>Aeronautic and Astronautic Engineering, Chemical Engineering, Civil Engineering, Electronics and Computer Engineering, Industrial Engineering, Mechanical Engineering</li>
+      </ul>
+
+      <h4>Faculty of Environmental Sciences</h4>
+      <ul>
+        <li>Architecture, Building, Estate Management, Environmental Management, Fine Arts, Industrial Design, Survey and Geo-Informatics, Quantity Surveying, Urban and Regional Planning</li>
+      </ul>
+
+      <h4>Faculty of Law</h4>
+      <ul>
+        <li>Common/Civil Law, Common/Islamic Law</li>
+      </ul>
+
+      <h4>Faculty of Management Sciences</h4>
+      <ul>
+        <li>Accounting, Banking and Finance, Business Administration, Industrial Relations and Human Resource Management, Insurance, Local Government Development and Administration, Management Technology, Marketing, Public Administration, Taxation</li>
+      </ul>
+
+      <h4>Faculty of Science</h4>
+      <ul>
+        <li>Biochemistry, Botany, Chemistry, Fisheries and Aquatic Biology, Mathematics, Microbiology, Physics, Science Laboratory Technology, Zoology</li>
+      </ul>
+
+      <h4>Faculty of Social Sciences</h4>
+      <ul>
+        <li>Economics, Geography and Planning, Political Science, Sociology, Psychology</li>
+      </ul>
+
+      <h4>College of Medicine</h4>
+      <ul>
+        <li>Dentistry, Medical Laboratory Science, Medicine and Surgery, Nursing, Pharmacy, Pharmacology, Physiology, Physiotherapy, Radiography and Radiation Science</li>
+      </ul>
+
+      <h4>Faculty of Computing and Information Technology</h4>
+      <ul>
+        <li>Computer Science, Cyber Security, Data Science, Information and Communication Technology, Software Engineering</li>
+      </ul>
+
+      <h4>School of Agriculture</h4>
+      <ul>
+        <li>Agricultural Economics, Agricultural Extension and Rural Development, Animal Science, Crop Production</li>
+      </ul>
+
+      <h4>School of Library, Archival and Information Science</h4>
+      <ul>
+        <li>Library and Information Science</li>
+      </ul>
+
+      <h4>School of Transport and Logistics</h4>
+      <ul>
+        <li>Transport Management and Operations, Logistics and Supply Chain Management</li>
+      </ul>
+
+      <h3>Direct Entry Document Submission</h3>
+      <p>All Direct Entry candidates are required to submit:</p>
+      <ul>
+        <li>One copy of the online Admission Screening Report</li>
+        <li>One copy of their LASU Diploma result notification or NCE result</li>
+      </ul>
+      <p>Documents should be submitted to:</p>
+      <p><strong>Admission Annex/Liaison Office</strong><br>Room 7, Administrative Block II, LASU.</p>
+
+      <h3>LASU Post UTME Application Procedure</h3>
+      <p>Applicants should complete payment and registration through the LASU admission portal.</p>
+
+      <h4>Step 1: Make Payment</h4>
+      <ol>
+        <li>Visit the <a href="https://services.lidc.lasu.edu.ng/admissionscreening/">LASU admission screening portal</a>.</li>
+        <li>Log in with your UTME registration number and surname.</li>
+        <li>Select "Make Payment (Admission Screening)".</li>
+        <li>Choose "Admission Screening Fee".</li>
+        <li>Select "Ojo" as campus and "Student" as category.</li>
+        <li>Complete payment successfully.</li>
+      </ol>
+
+      <h4>Step 2: Complete Online Screening</h4>
+      <p>After payment:</p>
+      <ol>
+        <li>Return to the screening portal.</li>
+        <li>Log in and enter your transaction ID.</li>
+        <li>Fill in all personal and academic details.</li>
+        <li>Select your preferred course.</li>
+        <li>Enter O’Level results.</li>
+        <li>Review all information carefully.</li>
+        <li>Certify and submit the application.</li>
+      </ol>
+
+      <h4>Step 3: Download Screening Report</h4>
+      <p>Upon successful submission:</p>
+      <ol>
+        <li>Return to the screening homepage.</li>
+        <li>Enter your UTME registration number.</li>
+        <li>Download and print the screening result.</li>
+      </ol>
+
+      <h3>O’Level Requirements for LASU Admission</h3>
+      <p>Candidates must possess at least five relevant O’Level credits in subjects related to their chosen programme at not more than two sittings.</p>
+
+      <h4>Special Requirements</h4>
+      <ul>
+        <li><strong>Medicine and Dentistry:</strong> O’Level results must be obtained in one sitting only.</li>
+        <li><strong>Engineering Programmes:</strong> Candidates using two sittings must possess six credits including English Language, Mathematics, Physics, Chemistry.</li>
+        <li><strong>Aeronautic and Astronautic Engineering:</strong> Credit in Further Mathematics is compulsory.</li>
+        <li><strong>English Language Requirement:</strong> A credit pass in English Language is compulsory for all courses.</li>
+      </ul>
+
+      <h3>JAMB CAPS O’Level Upload Requirement</h3>
+      <p>All applicants must upload their O’Level results to JAMB CAPS before the screening exercise closes.</p>
+      <p>LASU will not consider results uploaded after the screening deadline.</p>
+      <p>The university also states that any examination taken after July 2026 will not be accepted.</p>
+
+      <h3>LASU Screening Method</h3>
+      <p>LASU will use a point-based grading system for admission screening.</p>
+      <p>The grading system considers:</p>
+      <ul>
+        <li>UTME score</li>
+        <li>O’Level grades in five relevant subjects</li>
+      </ul>
+      <p>Candidates should consult the JAMB Brochure for subject combinations relevant to their chosen course.</p>
+
+      <h3>Important Checklist Before Submission</h3>
+      <p>Before submitting the screening form, candidates should verify:</p>
+      <ul>
+        <li>LASU is selected as first choice.</li>
+        <li>UTME score is at least 195.</li>
+        <li>Personal information is accurate.</li>
+        <li>Correct course is selected.</li>
+        <li>O’Level results are properly entered.</li>
+        <li>O’Level results have been uploaded to JAMB CAPS.</li>
+        <li>Transaction ID is correct.</li>
+        <li>Lagos State origin verification status is valid where applicable.</li>
+        <li>Direct Entry records are accurate where applicable.</li>
+      </ul>
+      <p>Incorrect information may affect the admission screening outcome.</p>
+
+      <h3>LASU Screening Support Contact</h3>
+      <p>Candidates experiencing issues during the online screening process can contact the university through:</p>
+      <p><strong>Email:</strong> <a href="mailto:screeningsupport@lasu.edu.ng">screeningsupport@lasu.edu.ng</a></p>
+
+      <h3>LASU Post UTME 2026/2027 at a Glance</h3>
+      <table class="w-full border-collapse border border-gray-300 my-4 text-sm">
+        <thead>
+          <tr class="bg-gray-100 text-left">
+            <th class="border border-gray-300 p-2">Item</th>
+            <th class="border border-gray-300 p-2">Details</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td class="border border-gray-300 p-2">Institution</td><td class="border border-gray-300 p-2">Lagos State University (LASU)</td></tr>
+          <tr><td class="border border-gray-300 p-2">Admission Type</td><td class="border border-gray-300 p-2">UTME and Direct Entry</td></tr>
+          <tr><td class="border border-gray-300 p-2">Screening Mode</td><td class="border border-gray-300 p-2">Online</td></tr>
+          <tr><td class="border border-gray-300 p-2">Minimum UTME Score</td><td class="border border-gray-300 p-2">195</td></tr>
+          <tr><td class="border border-gray-300 p-2">Age Requirement</td><td class="border border-gray-300 p-2">16 years by 1 October 2026</td></tr>
+          <tr><td class="border border-gray-300 p-2">Registration Opens</td><td class="border border-gray-300 p-2">3 June 2026</td></tr>
+          <tr><td class="border border-gray-300 p-2">Registration Closes</td><td class="border border-gray-300 p-2">23 June 2026</td></tr>
+          <tr><td class="border border-gray-300 p-2">Closing Time</td><td class="border border-gray-300 p-2">12 Midnight</td></tr>
+          <tr><td class="border border-gray-300 p-2">O’Level Requirement</td><td class="border border-gray-300 p-2">Five relevant credits</td></tr>
+          <tr><td class="border border-gray-300 p-2">Direct Entry Requirement</td><td class="border border-gray-300 p-2">JAMB DE Form</td></tr>
+          <tr><td class="border border-gray-300 p-2">Complaints Email</td><td class="border border-gray-300 p-2"><a href="mailto:screeningsupport@lasu.edu.ng">screeningsupport@lasu.edu.ng</a></td></tr>
+        </tbody>
+      </table>
+
+      <h3>Final Note</h3>
+      <p>LASU Post UTME and Direct Entry registration for the 2026/2027 academic session is open to qualified candidates who selected the university as their first choice and meet the admission requirements. Applicants should complete payment, fill out the online screening form correctly, upload their O’Level results to JAMB CAPS, and download their screening report before the registration deadline.</p>`,
+    tags: [
+      "LASU",
+      "Lagos State University",
+      "Post UTME",
+      "Direct Entry",
+      "Admission",
+      "2026/2027",
+      "Education",
+      "Nigeria",
+    ],
+  },
+  {
+    id: "funaab-post-utme-direct-entry-form-2026-2027",
+    title: "FUNAAB Post-UTME/Direct Entry Form 2026/2027: Eligibility, Requirements and Application Guide",
+    category: "Education",
+    date: "2026-06-02",
+    excerpt: "Federal University of Agriculture, Abeokuta (FUNAAB) has commenced the sale of Post-UTME and Direct Entry screening forms for the 2026/2027 session. Registration starts June 2.",
+    content: `<h2>FUNAAB Post-UTME and Direct Entry Screening 2026/2027</h2>
+      <p>The management of the Federal University of Agriculture, Abeokuta (FUNAAB), Ogun State, has announced the commencement of the sale of Post-UTME and Direct Entry screening for the 2026/2027 academic session undergraduate admission exercise.</p>
+      <p>FUNAAB Post-UTME and Direct Entry screening registration starts on <strong>Tuesday, 2 June 2026</strong>. Prospective students can now proceed online to register.</p>
+
+      <h3>Eligibility Requirements</h3>
+      <p>Candidates can apply if they meet the university’s stated conditions for the 2026/2027 session:</p>
+      <ul>
+        <li>Candidates who chose FUNAAB as their first-choice university in the 2026/2027 UTME and scored <strong>160 or above</strong>.</li>
+        <li>Direct Entry candidates with at least <strong>Upper Credit</strong> or its equivalent who chose FUNAAB as their first-choice.</li>
+        <li>Candidates who sat for the 2026/2027 UTME, scored 160 or above, and are ready to complete a change of institution to FUNAAB as their first choice before registration closes.</li>
+        <li>Applicants must be at least <strong>16 years old by 30 September 2026</strong>.</li>
+      </ul>
+
+      <h3>Screening Fees</h3>
+      <p>The total payment is <strong>₦5,000</strong>, excluding REMITA charges. The breakdown is as follows:</p>
+      <table class="w-full border-collapse border border-gray-300 my-4 text-sm">
+        <thead>
+          <tr class="bg-gray-100 text-left">
+            <th class="border border-gray-300 p-2">Fee Item</th>
+            <th class="border border-gray-300 p-2">Amount</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td class="border border-gray-300 p-2">Post-UTME Registration</td><td class="border border-gray-300 p-2">₦2,000</td></tr>
+          <tr><td class="border border-gray-300 p-2">Portal Access Fee</td><td class="border border-gray-300 p-2">₦3,000</td></tr>
+          <tr class="font-bold"><td class="border border-gray-300 p-2">Total</td><td class="border border-gray-300 p-2">₦5,000</td></tr>
+        </tbody>
+      </table>
+
+      <h3>How to Apply for FUNAAB Post-UTME Online</h3>
+      <ol>
+        <li>Visit the <a href="https://admission.funaab.edu.ng/2026/">FUNAAB admission screening portal</a>.</li>
+        <li>Log in with your UTME registration number.</li>
+        <li>Generate an application invoice for payment.</li>
+        <li>Pay the fees online through the university screening portal.</li>
+        <li>Return to the portal after payment, log in again, and complete the e-application form.</li>
+        <li>Review all entries carefully before clicking the submit button.</li>
+        <li>Print your registration slip.</li>
+      </ol>
+
+      <h3>Important Information for Direct Entry and O'Level</h3>
+      <p><strong>O'Level Results:</strong> FUNAAB accepts WAEC, NECO, or NABTEB results with a maximum of two sittings. Ensure results match the admission requirements for your chosen course.</p>
+      <p><strong>Direct Entry Transcripts:</strong> DE candidates (OND, HND, and NCE) must ensure their official transcripts reach the Registrar, Federal University of Agriculture, Abeokuta, not later than <strong>Friday, 31 July 2026</strong>.</p>
+      <p><strong>Subject Combination:</strong> Candidates with the wrong UTME subject combination must change to suitable courses on JAMB CAPS before registration to avoid disqualification.</p>
+
+      <h3>Application Checklist</h3>
+      <p>Before final submission, verify the following:</p>
+      <ul>
+        <li>UTME registration number accuracy.</li>
+        <li>First-choice university status (Must be FUNAAB).</li>
+        <li>O'Level result details and sittings.</li>
+        <li>Course and subject combination compatibility.</li>
+        <li>Payment confirmation status.</li>
+      </ul>
+
+      <h3>FUNAAB Screening Details at a Glance</h3>
+      <table class="w-full border-collapse border border-gray-300 my-4 text-sm">
+        <thead>
+          <tr class="bg-gray-100 text-left">
+            <th class="border border-gray-300 p-2">Item</th>
+            <th class="border border-gray-300 p-2">Details</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td class="border border-gray-300 p-2">University</td><td class="border border-gray-300 p-2">Federal University of Agriculture, Abeokuta</td></tr>
+          <tr><td class="border border-gray-300 p-2">Registration Start</td><td class="border border-gray-300 p-2">Tuesday, 2 June 2026</td></tr>
+          <tr><td class="border border-gray-300 p-2">UTME Cut-off</td><td class="border border-gray-300 p-2">160 and above</td></tr>
+          <tr><td class="border border-gray-300 p-2">DE Requirement</td><td class="border border-gray-300 p-2">Upper Credit or equivalent</td></tr>
+          <tr><td class="border border-gray-300 p-2">DE Transcript Deadline</td><td class="border border-gray-300 p-2">Friday, 31 July 2026</td></tr>
+          <tr><td class="border border-gray-300 p-2">Accepted Results</td><td class="border border-gray-300 p-2">WAEC, NECO, NABTEB (Max 2 sittings)</td></tr>
+        </tbody>
+      </table>
+
+      <h3>Contact Enquiries</h3>
+      <p>For assistance, contact the university between 8:00 am and 4:00 pm, Monday to Friday:</p>
+      <ul>
+        <li>Phone: 08033000807, 08100368431</li>
+        <li>Email: <a href="mailto:registrar@funaab.edu.ng">registrar@funaab.edu.ng</a></li>
+      </ul>`,
+    tags: [
+      "FUNAAB",
+      "Post UTME",
+      "Direct Entry",
+      "Admission",
+      "2026/2027",
+      "Abeokuta",
+      "Education",
+      "Nigeria",
+    ],
+  },
+  {
+    id: "auchi-polytechnic-hnd-admission-form-2026-2027",
+    title: "Auchi Polytechnic HND Admission Form 2026/2027: Requirements, Courses, Fees and Application Guide",
+    category: "Education",
+    date: "2026-06-02",
+    excerpt: "Auchi Polytechnic has commenced the sale of HND application forms for the 2026/2027 session. Learn about requirements, available courses, and the step-by-step application guide.",
+    content: `<h2>Auchi Polytechnic HND Admission Form 2026/2027</h2>
+      <p>Auchi Polytechnic has commenced the sale of application forms for admission into its Higher National Diploma (HND) programmes for the 2026/2027 academic session. The online application portal is now open to qualified candidates seeking admission into various HND programmes offered by the institution.</p>
+      <p>Prospective applicants must possess a National Diploma (ND) from Auchi Polytechnic or any other recognized institution with programmes accredited by the National Board for Technical Education (NBTE). In addition, the ND admission must be linked to the Joint Admissions and Matriculation Board (JAMB).</p>
+
+      <h3>General Entry Requirements</h3>
+      <ul>
+        <li>Possess a National Diploma (ND) or equivalent qualification from an NBTE-accredited institution.</li>
+        <li>Have a valid JAMB admission letter and JAMB registration number used during the ND programme.</li>
+        <li>Possess at least five O'Level credit passes obtained in not more than two sittings (including English and Mathematics).</li>
+        <li>Have at least one year of post-ND Industrial Training (IT) experience (two years for those with a Pass grade).</li>
+        <li>Submit an academic transcript (except graduates of Auchi Polytechnic).</li>
+      </ul>
+
+      <h3>Available HND Programmes</h3>
+      <h4>School of Information and Communication Technology</h4>
+      <ul>
+        <li>HND Artificial Intelligence Technology</li>
+        <li>HND Cyber Security Technology and Data Protection</li>
+        <li>HND Software and Web Development</li>
+        <li>HND Computer Networking and Cloud Computing Technology</li>
+        <li>HND Journalism and Media Production</li>
+        <li>HND Library and Information Science</li>
+        <li>HND Statistics</li>
+      </ul>
+
+      <h4>School of Engineering Technology</h4>
+      <ul>
+        <li>HND Agricultural and Bio-Environmental Engineering (Farm Power, Soil & Water, Post-Harvest)</li>
+        <li>HND Chemical / Civil / Computer Engineering Technology</li>
+        <li>HND Electrical/Electronic Engineering (Electronics/Telecommunication, Power/Machines)</li>
+        <li>HND Mechanical Engineering (Manufacturing, Plant Engineering)</li>
+        <li>HND Mechatronics Engineering</li>
+      </ul>
+
+      <h4>School of Financial Studies</h4>
+      <ul>
+        <li>HND Accountancy</li>
+        <li>HND Banking and Finance</li>
+        <li>HND Taxation</li>
+        <li>HND Microfinance and Enterprise Development</li>
+      </ul>
+
+      <h3>Special O'Level Requirements</h3>
+      <table class="w-full border-collapse border border-gray-300 my-4 text-sm">
+        <thead>
+          <tr class="bg-gray-100 text-left">
+            <th class="border border-gray-300 p-2">Department</th>
+            <th class="border border-gray-300 p-2">Required Subject(s)</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td class="border border-gray-300 p-2">Computer Science / Quantity Surveying</td><td class="border border-gray-300 p-2">Physics</td></tr>
+          <tr><td class="border border-gray-300 p-2">Accountancy / Estate Management</td><td class="border border-gray-300 p-2">Economics</td></tr>
+          <tr><td class="border border-gray-300 p-2">Public Administration</td><td class="border border-gray-300 p-2">Government, History, or Civic Education</td></tr>
+          <tr><td class="border border-gray-300 p-2">Mass Communication</td><td class="border border-gray-300 p-2">Literature in English</td></tr>
+          <tr><td class="border border-gray-300 p-2">Food Technology</td><td class="border border-gray-300 p-2">English, Math, Physics, Chemistry, and Biology</td></tr>
+        </tbody>
+      </table>
+
+      <h3>Application Fee</h3>
+      <p>The application fee for the 2026/2027 HND admission exercise is <strong>₦32,500 (Thirty-Two Thousand Five Hundred Naira Only)</strong>. The fee is non-refundable and payable through the Remita platform.</p>
+
+      <h3>How to Apply</h3>
+      <ol>
+        <li>Visit the <a href="https://www.auchipoly-online.com/apprequest.php/">Auchi Polytechnic admission portal</a>.</li>
+        <li>Complete the application request form and create a username/password.</li>
+        <li>Generate a Remita Retrieval Reference (RRR) and pay the fee.</li>
+        <li>Return to the portal, log in, and click "Continue With My Application Form."</li>
+        <li>Upload your passport photograph and required credentials.</li>
+        <li>Submit and print your acknowledgement slip and application summary sheet.</li>
+      </ol>
+
+      <h3>Required Documents for Verification</h3>
+      <ul>
+        <li>Printed copies of the application form and summary sheet.</li>
+        <li>Remita payment receipt.</li>
+        <li>O'Level results and ND credentials.</li>
+        <li>NBTE-certified Industrial Training completion certificate.</li>
+        <li>Academic transcript (for non-Auchi Polytechnic graduates).</li>
+        <li>Birth certificate and recent passport photographs.</li>
+      </ul>
+
+      <h3>Support and Enquiries</h3>
+      <p>Email: <a href="mailto:missupport2@auchipoly.edu.gh">missupport2@auchipoly.edu.ng</a><br>
+      Hours: Monday to Friday, 9:00 a.m. – 4:00 p.m.</p>`,
+    tags: [
+      "Auchi Polytechnic",
+      "HND",
+      "Admission",
+      "2026/2027",
+      "Education",
+      "Nigeria",
+      "Polytechnic News",
+    ],
+  },
+  {
     id: "fulokoja-admission-schedule-2026-2027",
     title: "FULOKOJA Admission Schedule 2026/2027: Post-UTME, JAMB CAPS, Registration and Resumption Dates",
     category: "Education",

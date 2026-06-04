@@ -10,6 +10,618 @@ export type Post = {
 
 const allPosts: Post[] = [
   {
+    id: "mapoly-expels-365-students-fake-admission-documents",
+    title: "Moshood Abiola Polytechnic Expels 365 Students Over Fake Admission Documents",
+    category: "Education",
+    date: "2026-06-04",
+    excerpt: "Moshood Abiola Polytechnic (MAPOLY), Abeokuta, has expelled 365 students for gaining admission into the institution using falsified academic credentials.",
+    content: `<h2>Moshood Abiola Polytechnic Expels 365 Students Over Fake Admission Documents</h2>
+      <p>Moshood Abiola Polytechnic (MAPOLY), Abeokuta, has expelled <strong>365 students</strong> for gaining admission into the institution using falsified academic credentials.</p>
+      <p>The affected students were discovered to have submitted <strong>fake National Diploma (ND) results and forged academic transcripts</strong> from various institutions during the admission process for Higher National Diploma (HND) programmes.</p>
+
+      <h3>Why Were the Students Expelled?</h3>
+      <p>The expulsion followed investigations that revealed the use of fake academic documents during admission and registration. The Polytechnic confirmed that the affected students gained admission through <strong>forged ND results and counterfeit transcripts</strong>.</p>
+
+      <h3>How Were the False Documents Discovered?</h3>
+      <p>According to the institution, the misconduct was uncovered during a <strong>credential verification exercise</strong> conducted on students’ admission documents. The verification process exposed inconsistencies and outright forgery in several submitted records.</p>
+
+      <h3>Breakdown of Affected Schools</h3>
+      <p>The 365 expelled students were distributed across five schools within the Polytechnic:</p>
+      <ul>
+        <li>School of Communication and Information Technology – 156 students</li>
+        <li>School of Engineering – 36 students</li>
+        <li>School of Business and Management Studies – 117 students</li>
+        <li>School of Science and Technology – 54 students</li>
+        <li>School of Environmental Studies – 2 students</li>
+      </ul>
+      <p>The School of Communication and Information Technology recorded the highest number of affected students.</p>
+
+      <h3>Rector’s Warning to Applicants</h3>
+      <p>The Rector, Arc. Dr. ‘Koye Jolaoso, warned prospective applicants against the use of fake academic credentials. He emphasized that MAPOLY maintains a strict <strong>zero-tolerance policy for academic fraud and misconduct</strong>.</p>
+      <p>He urged candidates seeking admission into any programme of the institution to ensure that all submitted documents are genuine and verifiable.</p>
+
+      <h3>What This Means for Future Applicants</h3>
+      <p>The development serves as a strong warning to admission seekers, especially those applying for HND programmes. The Polytechnic stressed that any candidate found with falsified records risks <strong>immediate expulsion or disqualification</strong>.</p>
+      <p>Applicants are advised to carefully verify:</p>
+      <ul>
+        <li>ND results and certificates</li>
+        <li>Academic transcripts</li>
+        <li>Admission records from previous institutions</li>
+      </ul>
+
+      <h3>Polytechnic’s Position on Academic Integrity</h3>
+      <p>Moshood Abiola Polytechnic reaffirmed its commitment to academic integrity, transparency, and professionalism. The institution stated that it will continue to enforce strict verification processes to maintain standards in tertiary education.</p>`,
+    tags: [
+      "MAPOLY",
+      "Expulsion",
+      "Admission",
+      "Education",
+      "Nigeria",
+      "Abeokuta",
+    ],
+  },
+  {
+    id: "federal-polytechnic-ede-post-utme-nd-admission-2026-2027",
+    title: "Federal Polytechnic Ede Post UTME Form for 2026/2027 ND Admission Now Available",
+    category: "Education",
+    date: "2026-06-04",
+    excerpt: "Federal Polytechnic Ede, Osun State, has commenced the sale of its Post UTME screening form for admission into National Diploma (ND) full-time programmes for the 2026/2027 academic session.",
+    content: `<h2>Federal Polytechnic Ede Post UTME Form for 2026/2027 ND Admission Now Available</h2>
+      <p>Federal Polytechnic Ede, Osun State, has commenced the sale of its Post UTME screening form for admission into National Diploma (ND) full-time programmes for the 2026/2027 academic session.</p>
+      <p>Qualified candidates who selected the Polytechnic as their first-choice institution in the 2026 UTME can now apply through the official admission portal.</p>
+
+      <h2>Eligibility Requirements</h2>
+      <p>To be eligible for the Federal Polytechnic Ede Post UTME screening, candidates must:</p>
+      <ul>
+        <li>Choose Federal Polytechnic Ede as their first-choice institution.</li>
+        <li>Score at least 110 in the 2026 UTME.</li>
+        <li>Be at least 16 years old by 31 October 2026.</li>
+      </ul>
+      <p>Candidates who did not sit for the 2026 UTME or scored below the required cut-off mark may consider applying for the Polytechnic's ND Part-Time programmes.</p>
+
+      <h2>Available ND Full-Time Courses</h2>
+      <h3>School of Agriculture and Agricultural Technology</h3>
+      <ul>
+        <li>Agricultural Technology</li>
+        <li>Horticulture and Landscape</li>
+      </ul>
+      <h3>School of Applied Sciences</h3>
+      <ul>
+        <li>Geological Technology</li>
+        <li>Hospitality Management</li>
+        <li>Tourism Management and Technology</li>
+        <li>Nutrition and Dietetics</li>
+        <li>Statistics</li>
+      </ul>
+      <h3>School of Business and Management Studies</h3>
+      <ul>
+        <li>Accountancy</li>
+        <li>Banking and Finance</li>
+        <li>Business Administration</li>
+        <li>Management</li>
+        <li>Insurance</li>
+        <li>Marketing</li>
+        <li>Public Administration</li>
+        <li>Taxation</li>
+      </ul>
+      <h3>School of Communication and Information Science</h3>
+      <ul>
+        <li>Library and Information Science</li>
+        <li>Mass Communication</li>
+        <li>Office Technology and Management</li>
+      </ul>
+      <h3>School of Computing</h3>
+      <ul>
+        <li>Computer Science</li>
+      </ul>
+      <h3>School of Engineering Technology</h3>
+      <ul>
+        <li>Agricultural and Bio-Environmental Engineering Technology</li>
+        <li>Chemical Engineering Technology</li>
+        <li>Civil Engineering Technology</li>
+        <li>Computer Engineering Technology</li>
+        <li>Electrical and Electronic Engineering Technology</li>
+        <li>Mechanical Engineering Technology</li>
+        <li>Mechatronics Engineering Technology</li>
+      </ul>
+      <h3>School of Environmental Studies</h3>
+      <ul>
+        <li>Architectural Technology</li>
+        <li>Building Technology</li>
+        <li>Estate Management and Valuation</li>
+        <li>Fashion Design and Clothing</li>
+        <li>Quantity Surveying</li>
+        <li>Surveying and Geo-Informatics</li>
+        <li>Urban and Regional Planning</li>
+      </ul>
+      <h3>School of General and Administrative Studies</h3>
+      <ul>
+        <li>Crime Management</li>
+        <li>Social Development</li>
+      </ul>
+      <h3>School of Science and Technology</h3>
+      <ul>
+        <li>Pharmaceutical Technology</li>
+        <li>Science Laboratory Technology</li>
+      </ul>
+
+      <h2>How to Apply</h2>
+      <p>Interested candidates should complete their application online through the Polytechnic's admission portal by following these steps:</p>
+      <ol>
+        <li>Visit the <a href="https://eportal.federalpolyede.edu.ng/apply/register.php">Federal Polytechnic Ede application portal</a>.</li>
+        <li>Select the ND Full-Time Post UTME application option.</li>
+        <li>Complete the online form with accurate personal and UTME details.</li>
+        <li>Generate a payment invoice.</li>
+        <li>Pay the application fee through any approved Remita payment channel.</li>
+        <li>Complete the registration process.</li>
+        <li>Print and keep the application slip for future reference.</li>
+      </ol>
+
+      <h2>Application Fee</h2>
+      <p>The Post UTME application fee is <strong>₦2,000</strong>.</p>
+      <p>Payments can be made through any Remita-supported channel, including bank branches, ATM cards, internet banking, and the Remita App.</p>
+
+      <h2>Key Details at a Glance</h2>
+      <table class="w-full border-collapse border border-gray-300 my-4 text-sm">
+        <thead>
+          <tr class="bg-gray-100 text-left">
+            <th class="border border-gray-300 p-2">Item</th>
+            <th class="border border-gray-300 p-2">Details</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td class="border border-gray-300 p-2">Institution</td><td class="border border-gray-300 p-2">Federal Polytechnic Ede</td></tr>
+          <tr><td class="border border-gray-300 p-2">Admission Type</td><td class="border border-gray-300 p-2">ND Full-Time</td></tr>
+          <tr><td class="border border-gray-300 p-2">Academic Session</td><td class="border border-gray-300 p-2">2026/2027</td></tr>
+          <tr><td class="border border-gray-300 p-2">UTME Cut-Off Mark</td><td class="border border-gray-300 p-2">110</td></tr>
+          <tr><td class="border border-gray-300 p-2">Minimum Age</td><td class="border border-gray-300 p-2">16 years by 31 October 2026</td></tr>
+          <tr><td class="border border-gray-300 p-2">Application Fee</td><td class="border border-gray-300 p-2">₦2,000</td></tr>
+          <tr><td class="border border-gray-300 p-2">Application Method</td><td class="border border-gray-300 p-2">Online</td></tr>
+        </tbody>
+      </table>`,
+    tags: [
+      "Federal Polytechnic Ede",
+      "Post UTME",
+      "ND Admission",
+      "2026/2027",
+      "Osun State",
+      "Education",
+      "Nigeria",
+    ],
+  },
+  {
+    id: "unilorin-postgraduate-qualifying-entrance-examination-2026-2027",
+    title: "UNILORIN Postgraduate Qualifying Entrance Examination Schedule for 2026/2027 Session",
+    category: "Education",
+    date: "2026-06-04",
+    excerpt: "The University of Ilorin (UNILORIN) has announced the date and guidelines for the 2026/2027 Postgraduate Qualifying Entrance Examination.",
+    content: `<h2>UNILORIN Postgraduate Qualifying Entrance Examination Schedule for 2026/2027 Session</h2>
+      <p>The University of Ilorin (UNILORIN) has announced the date and guidelines for the 2026/2027 Postgraduate Qualifying Entrance Examination.</p>
+      <p>Candidates applying for postgraduate admission are expected to take note of the examination date, required documents, prohibited items, and exemption categories.</p>
+
+      <h2>Examination Date and Arrival Time</h2>
+      <p>The Postgraduate Qualifying Entrance Examination has been scheduled for:</p>
+      <p><strong>Date:</strong> Saturday, 13 June 2026</p>
+      <p>Candidates are advised to arrive at their examination venue at least <strong>30 minutes before the commencement of the examination</strong>.</p>
+      <p>Early arrival will allow sufficient time for verification, seating arrangements, and other pre-examination procedures.</p>
+
+      <h2>Documents Required at the Examination Venue</h2>
+      <p>All candidates are expected to come to the examination venue with the following documents:</p>
+      <ul>
+        <li>Photocopy of the completed application form</li>
+        <li>Other relevant supporting documents</li>
+      </ul>
+      <p>Applicants should ensure that all required documents are available before the examination day, as failure to present them may affect clearance or participation in the examination.</p>
+
+      <h2>Prohibited Items</h2>
+      <p>In line with the University of Ilorin Examination Guidelines, the following items are strictly prohibited in the examination hall:</p>
+      <ul>
+        <li>Mobile phones and handsets</li>
+        <li>Calculators and calculating devices</li>
+        <li>Digital wristwatches</li>
+        <li>Sunshades</li>
+        <li>Food items</li>
+        <li>Drinks and beverages</li>
+      </ul>
+      <p>Candidates found in possession of any prohibited item may be sanctioned in accordance with university regulations.</p>
+
+      <h2>Dress Code Requirement</h2>
+      <p>Candidates are expected to dress decently and comply with the approved University of Ilorin dress code throughout the examination process.</p>
+      <p>Applicants are advised to familiarise themselves with the university's dress code guidelines before the examination date.</p>
+
+      <h2>Examination Malpractice Warning</h2>
+      <p>The University of Ilorin maintains a strict zero-tolerance policy on examination malpractice.</p>
+      <p>Any candidate found engaging in any form of malpractice will face disciplinary measures in line with the university's examination regulations.</p>
+
+      <h2>Candidates Exempted from the Entrance Examination</h2>
+      <p>The following categories of applicants are exempt from the Postgraduate Qualifying Entrance Examination:</p>
+      <ul>
+        <li>M.Phil./Ph.D. candidates</li>
+        <li>Ph.D. candidates</li>
+        <li>University of Ilorin graduates with First Class Honours applying within their field of graduation</li>
+        <li>University of Ilorin graduates with Second Class Upper Division applying within their field of graduation</li>
+      </ul>
+      <p>The exemption for qualified UNILORIN graduates was approved by the University Senate.</p>
+
+      <h2>Information for M.Phil./Ph.D. and Ph.D. Applicants</h2>
+      <p>Applicants seeking admission into M.Phil./Ph.D. and Ph.D. programmes will not sit for the qualifying entrance examination.</p>
+      <p>Instead, they will be contacted directly by their respective departments regarding further admission procedures and requirements.</p>
+
+      <h2>Where to Get Further Information</h2>
+      <p>Applicants should regularly visit the <a href="https://www.unilorin.edu.ng/">University of Ilorin official website</a> for updates, announcements, and additional information regarding the postgraduate admission process.</p>
+      <p>Candidates are advised to rely only on official university communication channels for accurate information.</p>
+
+      <h2>Examination Day Checklist</h2>
+      <p>Before leaving for the examination venue, candidates should confirm the following:</p>
+      <ul>
+        <li>Examination date and venue</li>
+        <li>Arrival time (at least 30 minutes early)</li>
+        <li>Photocopy of application form</li>
+        <li>Supporting documents</li>
+        <li>Compliance with the university dress code</li>
+        <li>Absence of prohibited items</li>
+      </ul>
+      <p>Applicants who fall within the exempted categories should verify their status and await communication from their departments where applicable.</p>
+
+      <h2>Key Takeaway</h2>
+      <p>The University of Ilorin Postgraduate Qualifying Entrance Examination for the 2026/2027 academic session will hold on Saturday, 13 June 2026. Candidates should arrive early, bring all required documents, comply with the university's dress code, and avoid prohibited items. Eligible M.Phil./Ph.D., Ph.D., and qualified UNILORIN graduates are exempt from the examination and will receive further instructions from their respective departments.</p>`,
+    tags: [
+      "UNILORIN",
+      "Postgraduate",
+      "Admission",
+      "Examination",
+      "2026/2027",
+      "Education",
+      "Nigeria",
+    ],
+  },
+  {
+    id: "cross-river-college-nursing-ogoja-nd-admission-2026-2027",
+    title: "Cross River State College of Nursing Sciences Ogoja ND Nursing Admission Form 2026/2027",
+    category: "Education",
+    date: "2026-06-04",
+    excerpt: "Cross River State College of Nursing Sciences, Ogoja, has commenced the sale of admission forms for its National Diploma (ND) Nursing Programme for the 2026/2027 academic session.",
+    content: `<h2>Cross River State College of Nursing Sciences Ogoja ND Nursing Admission Form 2026/2027</h2>
+      <p>Cross River State College of Nursing Sciences, Ogoja, has commenced the sale of admission forms for its National Diploma (ND) Nursing Programme for the 2026/2027 academic session.</p>
+      <p>The admission exercise covers candidates seeking admission into the ND Nursing programme at both the <strong>Ogoja Campus</strong> and <strong>Moniaya Campus</strong>.</p>
+      <p>Candidates who selected Cross River State College of Nursing Sciences, Ogoja or Moniaya Campus during the 2026 UTME are eligible to apply.</p>
+
+      <h3>Eligibility Requirements</h3>
+      <p>Applicants must possess five credit passes in the following subjects:</p>
+      <ul>
+        <li>English Language</li>
+        <li>Mathematics</li>
+        <li>Biology</li>
+        <li>Chemistry</li>
+        <li>Physics</li>
+      </ul>
+      <p>The credits must be obtained in WAEC, NECO, or NABTEB at not more than two sittings.</p>
+
+      <h4>Important Note on NABTEB Results</h4>
+      <p>Candidates using NABTEB results should note that <strong>NABTEB cannot be combined with results from other examination bodies</strong>. Applicants must present NABTEB results as a standalone qualification.</p>
+
+      <h3>Required Documents</h3>
+      <p>Applicants are required to provide the following documents during the application process:</p>
+      <ul>
+        <li>Five O'Level credit passes in the required subjects</li>
+        <li>2026 UTME result slip</li>
+        <li>Two recent passport photographs with a white background</li>
+        <li>First School Leaving Certificate (FSLC)</li>
+        <li>Birth Certificate or Sworn Affidavit of Age Declaration</li>
+      </ul>
+      <p>Candidates should make photocopies of all documents before submission.</p>
+
+      <h3>Application Fee</h3>
+      <p>The total application fee is <strong>₦32,000</strong>, broken down as follows:</p>
+      <table class="w-full border-collapse border border-gray-300 my-4 text-sm">
+        <thead>
+          <tr class="bg-gray-100 text-left">
+            <th class="border border-gray-300 p-2">Fee Type</th>
+            <th class="border border-gray-300 p-2">Amount</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td class="border border-gray-300 p-2">Screening Fee</td><td class="border border-gray-300 p-2">₦2,000</td></tr>
+          <tr><td class="border border-gray-300 p-2">Administrative Fee</td><td class="border border-gray-300 p-2">₦30,000</td></tr>
+          <tr class="font-bold"><td class="border border-gray-300 p-2">Total</td><td class="border border-gray-300 p-2">₦32,000</td></tr>
+        </tbody>
+      </table>
+      <p>Please note that both fees are non-refundable.</p>
+
+      <h3>Payment Details</h3>
+      <p>Applicants should pay the required amount into the college account below:</p>
+      <p><strong>Bank:</strong> Eco Bank<br>
+      <strong>Account Number:</strong> 3130078153<br>
+      <strong>Account Name:</strong> College of Nursing Ogoja Extra Charges Account</p>
+      <p>After payment, candidates must present their bank teller or payment evidence at the College Bursary Department for verification and documentation.</p>
+
+      <h3>How to Obtain the Admission Form</h3>
+      <p>The admission form is available through a <strong>physical application process only</strong>. Follow these steps:</p>
+      <ol>
+        <li>Visit any Eco Bank branch and pay the required fee of ₦32,000.</li>
+        <li>Take the payment teller or proof of payment to the College Bursary Department.</li>
+        <li>Obtain an official receipt after payment verification.</li>
+        <li>Present the verified receipt to the designated school authorities.</li>
+        <li>Collect the UTME Screening Form.</li>
+        <li>Complete the form and prepare all required documents.</li>
+        <li>Submit photocopies of the required credentials in two separate office file jackets.</li>
+      </ol>
+      <p><strong>Warning:</strong> Applicants are advised not to use any online platform claiming to sell the form, as the College has clearly stated that <strong>forms are not sold online</strong>.</p>
+
+      <h3>Application Deadline</h3>
+      <p>The sale of admission forms closes on <strong>18 July 2026</strong>. Candidates should complete payment, receipt verification, form collection, and document submission before this date.</p>
+
+      <h3>Screening Exercise Schedule</h3>
+      <table class="w-full border-collapse border border-gray-300 my-4 text-sm">
+        <thead>
+          <tr class="bg-gray-100 text-left">
+            <th class="border border-gray-300 p-2">Activity</th>
+            <th class="border border-gray-300 p-2">Date</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td class="border border-gray-300 p-2">Screening Exercise</td><td class="border border-gray-300 p-2">21 July – 23 July 2026</td></tr>
+        </tbody>
+      </table>
+      <p>Applicants must attend the screening with all original credentials and required documents.</p>
+
+      <h3>Contact Information</h3>
+      <p>For enquiries regarding payment, form collection, screening, or admission requirements, applicants can contact the College through any of the following numbers:</p>
+      <ul>
+        <li>08137567134</li>
+        <li>08065924723</li>
+        <li>09027030357</li>
+      </ul>
+
+      <h3>Things to Check Before Applying</h3>
+      <ul>
+        <li>Ensure you selected Ogoja Campus or Moniaya Campus during the 2026 UTME.</li>
+        <li>Verify you possess the required O'Level credits (English, Maths, Bio, Chem, Phy).</li>
+        <li>Confirm your subject combination meets the Nursing admission requirements.</li>
+        <li>Note the NABTEB standalone policy.</li>
+        <li>Ensure payment is made to the correct Eco Bank account.</li>
+      </ul>
+
+      <h3>Key Takeaway</h3>
+      <p>Cross River State College of Nursing Sciences, Ogoja is accepting applications for admission into its ND Nursing Programme for the 2026/2027 academic session. Eligible candidates must possess the required O'Level credits, have participated in the 2026 UTME, pay the prescribed ₦32,000 application fee, and complete the physical application process before the 18 July 2026 deadline.</p>`,
+    tags: [
+      "Cross River",
+      "Nursing",
+      "Admission",
+      "Ogoja",
+      "2026/2027",
+      "Education",
+      "Nigeria",
+      "Moniaya",
+    ],
+  },
+  {
+    id: "imo-state-college-of-nursing-sciences-orlu-post-utme-2026-2027",
+    title: "Imo State College of Nursing Sciences Orlu Post UTME Form 2026/2027 for General Nursing Admission",
+    category: "Education",
+    date: "2026-06-04",
+    excerpt: "Imo State College of Nursing Sciences (IMCONS), Orlu, has announced the commencement of registration for its 2026/2027 Post UTME screening exercise for admission into the General Nursing Programme.",
+    content: `<h2>Imo State College of Nursing Sciences Orlu Post UTME Form 2026/2027 for General Nursing Admission</h2>
+      <p>Imo State College of Nursing Sciences (IMCONS), Orlu, has announced the commencement of registration for its 2026/2027 Post UTME screening exercise for admission into the General Nursing Programme.</p>
+      <p>Registration begins on <strong>Tuesday, 2 June 2026</strong>.</p>
+      <p>Candidates who selected Imo State College of Nursing Sciences, Orlu as their first-choice institution in the 2026 UTME and scored at least <strong>170</strong> are eligible to apply.</p>
+      <p>Applicants must also have chosen <strong>General Nursing</strong> as their preferred programme.</p>
+
+      <h3>Who Can Apply?</h3>
+      <p>To qualify for the IMCONS Post UTME screening exercise, candidates must:</p>
+      <ul>
+        <li>Choose Imo State College of Nursing Sciences, Orlu as their first-choice institution.</li>
+        <li>Score a minimum of <strong>170</strong> in the 2026 UTME.</li>
+        <li>Select <strong>General Nursing</strong> as their programme of study.</li>
+        <li>Possess the required O'Level qualifications.</li>
+        <li>Upload their qualifying results to JAMB.</li>
+      </ul>
+
+      <h3>Can Candidates Who Did Not Choose IMCONS Apply?</h3>
+      <p>Yes. Candidates who did not initially choose Imo State College of Nursing Sciences, Orlu may still apply if they meet the required cut-off mark.</p>
+      <p>However, they must first visit a JAMB office or the JAMB portal and change their institution choice to Imo State College of Nursing Sciences, Orlu before the application deadline.</p>
+
+      <h3>O'Level Requirements</h3>
+      <p>Applicants must possess at least five credit passes in the following subjects:</p>
+      <ul>
+        <li>English Language</li>
+        <li>Mathematics</li>
+        <li>Biology</li>
+        <li>Chemistry</li>
+        <li>Physics</li>
+      </ul>
+      <p>The credits must be obtained in not more than two sittings in WAEC, NECO, NABTEB, or an equivalent examination.</p>
+
+      <h3>Upload of Results on JAMB Portal</h3>
+      <p>All applicants must ensure that their O'Level results are uploaded to JAMB CAPS.</p>
+      <p>Candidates whose results are not available on the JAMB portal will not be considered for admission, even if they complete the online application successfully.</p>
+
+      <h3>How to Apply for IMCONS Post UTME</h3>
+      <p>Candidates should follow these steps to complete the application process:</p>
+      <ol>
+        <li>Visit the <a href="https://www.imcons.edu.ng/">IMCONS website</a>.</li>
+        <li>Follow the application instructions provided on the homepage.</li>
+        <li>Complete the online application form.</li>
+        <li>Print the application form and examination slip after submission.</li>
+        <li>Proceed to the College Bursary Unit for payment.</li>
+        <li>Submit copies of the application form, examination slip, and payment receipt to the Registrar's Office.</li>
+        <li>Collect and keep the acknowledgement slip for the screening exercise.</li>
+      </ol>
+      <p>Applicants should carefully review their JAMB details, programme selection, and O'Level information before submitting the application.</p>
+
+      <h3>Application Fee</h3>
+      <p>The Post UTME application fee is <strong>₦29,500</strong>.</p>
+      <p>Payment should be made at the College Bursary Unit after printing the application form and examination slip.</p>
+
+      <h3>Application Period</h3>
+      <table class="w-full border-collapse border border-gray-300 my-4 text-sm">
+        <thead>
+          <tr class="bg-gray-100 text-left">
+            <th class="border border-gray-300 p-2">Activity</th>
+            <th class="border border-gray-300 p-2">Date</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td class="border border-gray-300 p-2">Application Portal Opens</td><td class="border border-gray-300 p-2">2 June 2026</td></tr>
+          <tr><td class="border border-gray-300 p-2">Application Portal Closes</td><td class="border border-gray-300 p-2">1 July 2026</td></tr>
+        </tbody>
+      </table>
+
+      <h3>Aptitude Test Date</h3>
+      <table class="w-full border-collapse border border-gray-300 my-4 text-sm">
+        <thead>
+          <tr class="bg-gray-100 text-left">
+            <th class="border border-gray-300 p-2">Activity</th>
+            <th class="border border-gray-300 p-2">Date</th>
+            <th class="border border-gray-300 p-2">Time</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td class="border border-gray-300 p-2">Aptitude Test</td><td class="border border-gray-300 p-2">2–3 July 2026</td><td class="border border-gray-300 p-2">9:00 a.m. daily</td></tr>
+        </tbody>
+      </table>
+      <p>Candidates should arrive early and come with all required documents.</p>
+
+      <h3>Documents Required at the Screening Venue</h3>
+      <p>Applicants must present their acknowledgement slip at the screening venue.</p>
+      <p>The acknowledgement slip serves as proof of successful registration and completion of the required application procedures.</p>
+
+      <h3>Important Checklist Before Submission</h3>
+      <p>Before submitting the application, candidates should confirm that:</p>
+      <ul>
+        <li>They scored at least 170 in the 2026 UTME.</li>
+        <li>IMCONS Orlu is selected as their first-choice institution.</li>
+        <li>General Nursing is their chosen programme.</li>
+        <li>Their O'Level results meet the admission requirements.</li>
+        <li>Their O'Level results have been uploaded to JAMB CAPS.</li>
+        <li>Copies of the application form, examination slip, and payment receipt have been submitted to the Registrar's Office.</li>
+        <li>Their acknowledgement slip has been collected and kept safely.</li>
+      </ul>
+
+      <h3>Key Takeaway</h3>
+      <p>Imo State College of Nursing Sciences, Orlu is accepting applications for the 2026/2027 General Nursing Post UTME screening exercise. Eligible candidates must score at least 170 in UTME, possess the required O'Level credits, upload their results to JAMB, complete the application process, and participate in the aptitude test scheduled for 2–3 July 2026.</p>`,
+    tags: [
+      "IMCONS",
+      "Imo State College of Nursing Sciences Orlu",
+      "Post UTME",
+      "Admission",
+      "General Nursing",
+      "2026/2027",
+      "Education",
+      "Nigeria",
+    ],
+  },
+  {
+    id: "federal-poly-oko-post-utme-form-nd-admission-2026-2027",
+    title: "Federal Polytechnic Oko Post UTME Form for ND Admission 2026/2027 Now Available",
+    category: "Education",
+    date: "2026-06-04",
+    excerpt: "Federal Polytechnic Oko has opened its Post UTME screening application for candidates seeking admission into its full-time National Diploma (ND) programmes for the 2026/2027 academic session.",
+    content: `<h2>Federal Polytechnic Oko Post UTME Form for ND Admission 2026/2027</h2>
+      <p>Federal Polytechnic Oko has opened its Post UTME screening application for candidates seeking admission into its full-time National Diploma (ND) programmes for the 2026/2027 academic session.</p>
+      <p>Candidates who scored at least 100 in the 2026 Unified Tertiary Matriculation Examination (UTME) and possess the required O'Level qualifications can apply for admission.</p>
+
+      <h3>Eligibility Requirements</h3>
+      <p>To qualify for the Federal Polytechnic Oko Post UTME screening exercise, candidates must:</p>
+      <ul>
+        <li>Score a minimum of 100 in the 2026 UTME.</li>
+        <li>Possess at least five O'Level credit passes from WAEC, NECO, or NABTEB.</li>
+        <li>Have credit passes in English Language and Mathematics.</li>
+        <li>Obtain the required credits in not more than two sittings.</li>
+      </ul>
+      <p>Only candidates who meet these requirements should proceed with the application.</p>
+
+      <h3>Available ND Programmes</h3>
+      <h4>School of Applied Sciences and Technology</h4>
+      <ul>
+        <li>Agricultural Technology, Computer Science, Food Science and Technology, Home and Rural Economics, Horticultural Technology, Hospitality Management and Tourism, Statistics</li>
+      </ul>
+
+      <h4>School of Arts, Design and Printing Technology</h4>
+      <ul>
+        <li>Fine and Applied Arts, Fashion Design and Clothing Technology, Printing Technology</li>
+      </ul>
+
+      <h4>School of Business Studies</h4>
+      <ul>
+        <li>Business Administration and Management, Marketing, Office Technology and Management, Public Administration</li>
+      </ul>
+
+      <h4>School of Engineering Technology</h4>
+      <ul>
+        <li>Agricultural Engineering, Chemical Engineering, Civil Engineering, Computer Engineering, Electrical and Electronics Engineering, Mechanical Engineering</li>
+      </ul>
+
+      <h4>School of Environmental Design and Technology</h4>
+      <ul>
+        <li>Architectural Technology, Building Technology, Estate Management, Quantity Surveying, Surveying and Geo-informatics, Urban and Regional Planning</li>
+      </ul>
+
+      <h4>School of Financial Studies</h4>
+      <ul>
+        <li>Accountancy, Banking and Finance, Insurance</li>
+      </ul>
+
+      <h4>School of Information Technology</h4>
+      <ul>
+        <li>Library and Information Science, Mass Communication</li>
+      </ul>
+
+      <h4>School of Science and Technology</h4>
+      <ul>
+        <li>Geological Technology, Science Laboratory Technology</li>
+      </ul>
+
+      <h3>How to Apply</h3>
+      <p>Interested candidates should complete their application through the Federal Polytechnic Oko admission portal by following these steps:</p>
+      <ol>
+        <li><strong>Step 1: Visit the Official Website</strong> – Visit the <a href="https://federalpolyoko.edu.ng/">Federal Polytechnic Oko official website</a>.</li>
+        <li><strong>Step 2: Admissions Menu</strong> – Click on <strong>Admissions</strong>.</li>
+        <li><strong>Step 3: Online Application</strong> – Select <strong>Online Application Forms</strong> or access the <a href="https://portal.federalpolyoko.edu.ng/">application portal directly</a>.</li>
+        <li><strong>Step 4: Select Programme</strong> – Choose <strong>ND – Regular Screening Application</strong>.</li>
+        <li><strong>Step 5: Sign In</strong> – Enter your JAMB registration number and sign in.</li>
+        <li><strong>Step 6: Fill Information</strong> – Complete the required information accurately.</li>
+        <li><strong>Step 7: Generate Invoice</strong> – Generate a payment invoice.</li>
+        <li><strong>Step 8: Make Payment</strong> – Pay the screening fee of <strong>₦2,000</strong> using the generated Remita Retrieval Reference (RRR).</li>
+        <li><strong>Step 9: Submit Application</strong> – Return to the portal after payment to complete and submit the form.</li>
+        <li><strong>Step 10: Print Slip</strong> – After successful registration, print the acknowledgement slip for future reference.</li>
+      </ol>
+      <p>Candidates may make payment online with an ATM card or at any bank through the Remita platform.</p>
+
+      <h3>Important Notice on O'Level Upload</h3>
+      <p>Applicants must upload their O'Level results to the JAMB portal. Federal Polytechnic Oko has stated that candidates whose results are not uploaded on JAMB CAPS will not be considered for admission.</p>
+
+      <h3>Application Fee</h3>
+      <p>The Post UTME screening fee is <strong>₦2,000 only</strong>. This fee is non-refundable and payable through the official portal.</p>
+
+      <h3>Application Deadline</h3>
+      <p>The Polytechnic has not yet announced a closing date for the application. Candidates are advised to complete their registration as early as possible and regularly check the official portal for updates.</p>
+
+      <h3>Things to Check Before Submission</h3>
+      <p>Before submitting the application, candidates should confirm:</p>
+      <ul>
+        <li>JAMB registration number accuracy</li>
+        <li>Chosen ND programme selection</li>
+        <li>O'Level details and grades</li>
+        <li>Remita payment confirmation</li>
+        <li>Personal details and contact information</li>
+      </ul>
+      <p>Mistakes in the application may affect admission processing.</p>
+
+      <h3>Final Note</h3>
+      <p>Federal Polytechnic Oko's 2026/2027 ND Post UTME screening is open to candidates who scored 100 and above in UTME and possess the required O'Level credits. Applicants should complete the online application, upload their O'Level results to JAMB CAPS, and keep their acknowledgement slip safely while awaiting further admission updates.</p>`,
+    tags: [
+      "Federal Polytechnic Oko",
+      "Oko Poly",
+      "Post UTME",
+      "Admission",
+      "2026/2027",
+      "ND Admission",
+      "Anambra",
+      "Education",
+    ],
+  },
+  {
     id: "kwasu-post-utme-direct-entry-screening-form-2026-2027",
     title: "KWASU Post UTME/Direct Entry Screening Form 2026/2027: Eligibility, Requirements and Application Guide",
     category: "Education",

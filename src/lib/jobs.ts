@@ -49,6 +49,527 @@ const currentDate = '2026-06-03'; // Current date for comparison (June 3, 2026)
 
 const allJobs: Job[] = [
   {
+    id: "talent-acquisition-associate-reliance-health-remote-2026",
+    title: "Talent Acquisition Associate",
+    date: "2026-06-03",
+    location: "Remote (Lagos, Nigeria)",
+    type: "Full-time",
+    company: "Reliance Health",
+    salary: "Not Specified",
+    deadline: "Not Specified",
+    summary: "Join a high-growth healthcare technology company to support talent acquisition and recruitment operations.",
+    responsibilities: [
+      "Manage full-cycle recruitment processes",
+      "Source and engage top talent for various roles",
+      "Collaborate with hiring managers to define requirements",
+      "Maintain recruitment records and pipelines"
+    ],
+    requirements: [
+      "Minimum of 1 year of experience in a high-growth talent acquisition organization"
+    ],
+    apply: 'Apply online: <a href="https://apply.workable.com/get-reliance-health/j/FC7AD11558/">Application Link</a>'
+  },
+  {
+    id: "hr-intern-remote-epvate-fortune-2026",
+    title: "HR Intern",
+    date: "2026-06-03",
+    location: "Remote",
+    type: "Internship",
+    company: "Epvate Fortune",
+    salary: "Not Specified",
+    deadline: "Not Specified",
+    summary: "Remote internship supporting core HR functions including recruitment, onboarding, and documentation.",
+    responsibilities: [
+      "Support onboarding activities for new employees",
+      "Assist in drafting HR documents such as contracts and letters",
+      "Assist in the recruitment process, including screening and scheduling",
+      "Perform general administrative tasks within the HR department",
+      "Support payroll preparation by providing relevant employee information"
+    ],
+    requirements: [
+      "Relevant academic background in HR or Business Admin",
+      "Strong communication and organizational skills",
+      "Ability to work independently in a remote setting"
+    ],
+    apply: 'Send CV & cover letter to <a href="mailto:Recruitment2@epvate-fortune.com">Recruitment2@epvate-fortune.com</a>'
+  },
+  {
+    id: "application-database-security-specialist-union-bank-2026",
+    title: "Application & Database Security Specialist",
+    date: "2026-06-03",
+    location: "Lagos",
+    type: "Full-time",
+    company: "Union Bank",
+    salary: "Not Specified",
+    deadline: "Not Specified",
+    summary: "Manage enterprise-level application and database security, driving secure coding practices and vulnerability management.",
+    responsibilities: [
+      "Drive secure coding practices and Secure SDLC initiatives",
+      "Manage SAST/DAST, penetration testing, and vulnerability assessments",
+      "Strengthen database security (encryption, RBAC, monitoring)",
+      "Partner with DevOps, IT, and Compliance teams on security alignment",
+      "Support enterprise application and database protection"
+    ],
+    requirements: [
+      "5–10 years’ experience in application/database security",
+      "Strong knowledge of secure coding and security tools (Veracode, Burp Suite, Fortify, etc.)",
+      "Certifications such as CISSP, CISM, CSSLP, CEH are an advantage",
+      "Strong DevSecOps and vulnerability management experience"
+    ],
+    apply: 'Apply via email: <a href="mailto:talents@unionbankng.com">talents@unionbankng.com</a> (use job title as subject)'
+  },
+  {
+    id: "field-sales-representative-ikeja-revocube-2026",
+    title: "Field Sales Representative",
+    date: "2026-06-03",
+    location: "Ikeja, Lagos",
+    type: "Full-time (Onsite)",
+    company: "Revocube",
+    salary: "Not Specified",
+    deadline: "Not Specified",
+    summary: "Identify and visit potential clients to promote technology solutions and services.",
+    responsibilities: [
+      "Identify and visit potential clients, schools, and businesses",
+      "Promote the company’s technology solutions and services",
+      "Generate leads and convert prospects into customers",
+      "Conduct product presentations and client meetings",
+      "Build and maintain customer relationships",
+      "Meet sales targets and submit activity reports"
+    ],
+    requirements: [
+      "B.Sc/HND in Marketing, Business Administration, or related field",
+      "2–4 years experience in field sales or business development",
+      "Strong communication and negotiation skills",
+      "Ability to work independently and achieve targets",
+      "Knowledge of technology products/services is an advantage"
+    ],
+    apply: 'Send CV to: <a href="mailto:hr@revocubelinks.com">hr@revocubelinks.com</a>'
+  },
+  {
+    id: "social-media-executive-epe-lagos-2026",
+    title: "Social Media Executive",
+    date: "2026-06-03",
+    location: "Epe, Lagos",
+    type: "Full-time",
+    salary: "Not Specified",
+    deadline: "Not Specified",
+    summary: "Manage social media presence and engagement for B2B and B2C brands.",
+    responsibilities: [
+      "Manage brand accounts on various social media platforms",
+      "Create and schedule engaging content",
+      "Monitor engagement and respond to inquiries"
+    ],
+    requirements: [
+      "At least 1 year of experience managing social media accounts for B2B and/or B2C brands"
+    ],
+    apply: 'Send CV to <a href="mailto:info@d-lipafrifoods.com">info@d-lipafrifoods.com</a> and CC <a href="mailto:aadewuyi@d-lipafrifoods.com">aadewuyi@d-lipafrifoods.com</a>'
+  },
+  {
+    id: "front-desk-intern-nysc-norrenberger-abuja-2026",
+    title: "Front Desk Intern (NYSC)",
+    date: "2026-06-03",
+    location: "Abuja",
+    type: "Internship",
+    company: "Norrenberger Financial Group",
+    salary: "Not Specified",
+    deadline: "Not Specified",
+    summary: "Professional and articulate intern to manage the front desk and guest experience for a financial group.",
+    responsibilities: [
+      "Manage front desk reception and guest inquiries",
+      "Coordinate office communication and correspondence",
+      "Provide administrative support to various teams",
+      "Ensure reception area is professional and welcoming"
+    ],
+    requirements: [
+      "Currently serving in the NYSC (Preferably Batch A2/B1 2026)",
+      "Bachelor’s degree with a minimum of 2:1",
+      "Excellent verbal and written communication skills",
+      "Professional appearance and demeanor"
+    ],
+    apply: 'Apply via: <a href="https://norrenberger.seamlesshiring.com/job/view/9523#/">Online Portal</a>'
+  },
+  {
+    id: "internal-auditor-hospitality-palmtime-2026",
+    title: "Internal Auditor (Hospitality)",
+    date: "2026-06-03",
+    location: "Lagos",
+    type: "Full-time",
+    company: "Palmtime Resort",
+    salary: "₦200,000 + Accommodation & Feeding",
+    deadline: "Not Specified",
+    summary: "Highly skilled auditor to ensure accuracy and compliance across hotel, eatery, and bakery sales points.",
+    responsibilities: [
+      "Conduct daily stock audits across all hospitality units",
+      "Perform cash, POS, and petty cash spot checks",
+      "Verify store supplies and stock transfers",
+      "Review financial documents and reconciliations for accuracy",
+      "Identify risks and areas for cost reduction",
+      "Prepare clear and timely audit reports"
+    ],
+    requirements: [
+      "Bachelor’s degree in Accounting, Finance, or Economics",
+      "Minimum of 3 years proven experience in hospitality auditing",
+      "ACA, ACCA, or ICAN certification is an added advantage",
+      "High level of integrity and attention to detail"
+    ],
+    apply: 'Send CV to <a href="mailto:Kennychrizy@gmail.com">Kennychrizy@gmail.com</a> or WhatsApp <a href="https://wa.me/2348055217416">08055217416</a>'
+  },
+  {
+    id: "production-manager-kachelan-abeokuta-2026",
+    title: "Production Manager",
+    date: "2026-06-03",
+    location: "Abeokuta, Ogun",
+    type: "Full-time",
+    company: "Kachelan Pharma Research Ltd",
+    salary: "Not Specified",
+    deadline: "12th June 2026",
+    summary: "Oversee production operations, ensuring quality standards and efficiency in a pharmaceutical environment.",
+    responsibilities: [
+      "Oversee production operations and schedules",
+      "Ensure quality control and compliance standards",
+      "Drive efficiency in manufacturing processes",
+      "Lead and supervise production staff"
+    ],
+    requirements: [
+      "DVM / BSc / HND in relevant fields",
+      "Proven experience in pharma/manufacturing"
+    ],
+    apply: 'Send CV to <a href="mailto:requirements.kachelan@gmail.com">requirements.kachelan@gmail.com</a> with subject "Production Manager"'
+  },
+  {
+    id: "sales-executive-lekki-glammaniac-2026",
+    title: "Sales Executive",
+    date: "2026-06-03",
+    location: "Lekki Phase 1, Lagos",
+    type: "Full-time (5 days)",
+    salary: "₦150,000 + Benefits",
+    deadline: "Not Specified",
+    summary: "Engaging customers, driving sales, and maintaining a visually appealing fashion store environment.",
+    responsibilities: [
+      "Greet and assist customers with selection and styling",
+      "Drive sales through upselling and cross-selling",
+      "Maintain store cleanliness and merchandise displays"
+    ],
+    requirements: [
+      "Minimum of OND or equivalent",
+      "At least 1 year of retail sales experience (fashion/lifestyle preferred)"
+    ],
+    apply: 'Send CV to <a href="mailto:finance.glammaniac@gmail.com">finance.glammaniac@gmail.com</a>'
+  },
+  {
+    id: "referral-coordinator-scheduler-chevron-lagos-2026",
+    title: "Referral Coordinator / Scheduler",
+    date: "2026-06-03",
+    location: "Chevron, Lagos",
+    type: "Full-time",
+    salary: "₦300,000 – ₦400,000",
+    deadline: "Not Specified",
+    summary: "Ensure seamless communication between providers, insurance companies, and staff in a cardiology environment.",
+    responsibilities: [
+      "Manage new patient referrals via phone and EMR systems",
+      "Review medical records and insurance info",
+      "Schedule appointments using eClinical Works",
+      "Coordinate appointment flow and cancellations"
+    ],
+    requirements: [
+      "BSc./HND in English, Mass Comm, Health Info Management, or Nursing",
+      "Minimum of 2 years’ experience in medical scheduling or patient coordination",
+      "Knowledge of cardiology medical terminology is a plus"
+    ],
+    apply: 'Send CV to <a href="mailto:gileadrecruitmentng@gmail.com">gileadrecruitmentng@gmail.com</a> with subject "Referral Coordinator / Scheduler"'
+  },
+  {
+    id: "client-engagement-voice-specialist-remote-2026",
+    title: "Client Engagement (Voice) Specialist",
+    date: "2026-06-03",
+    location: "Remote (Nigeria)",
+    type: "Full-time",
+    salary: "Not Specified",
+    deadline: "Not Specified",
+    summary: "Polished and people-smart professional delivering world-class voice support services.",
+    responsibilities: [
+      "Handle client inquiries and provide voice-based assistance",
+      "Deliver exceptional customer service",
+      "Maintain brand voice and professional confidence"
+    ],
+    requirements: [
+      "2–3 years related experience",
+      "Voice that commands confidence and professional clarity"
+    ],
+    apply: 'Apply here: <a href="https://app.dover.com/apply/pesa/3be3a804-4d2d-4582-b51e-91f93a14021b">Online Application</a>'
+  },
+  {
+    id: "unops-seforall-stem-trainee-abuja-2026",
+    title: "STEM Trainee (UNOPS/SEforALL)",
+    date: "2026-06-03",
+    location: "Abuja",
+    type: "Internship (6 Months)",
+    salary: "Paid Stipend",
+    deadline: "June 12, 2026",
+    summary: "Work at the critical intersection of sustainable energy, private equity, and national policy.",
+    responsibilities: [
+      "Support sustainable energy projects and research",
+      "Assist in policy analysis and data coordination",
+      "Contribute to technical workstreams"
+    ],
+    requirements: [
+      "Nigerian women aged 18 to 35",
+      "Enrolled or recently graduated from a STEM program",
+      "No prior work experience required"
+    ],
+    apply: 'Apply at: <a href="https://careers.unops.org/careersmarketplace/JobDetail/STEM-Trainee-Nigeria/3365">UNOPS Portal</a>'
+  },
+  {
+    id: "lmi-graduate-trainee-programme-2026",
+    title: "Graduate Trainee Programme (Engineering)",
+    date: "2026-06-03",
+    location: "Lagos",
+    type: "Graduate Trainee",
+    salary: "Not Specified",
+    deadline: "Not Specified",
+    summary: "Hands-on experience for ambitious engineering graduates to sharpen skills and build a career foundation.",
+    responsibilities: [
+      "Participate in rotational engineering projects",
+      "Learn and apply technical skills in a practical environment",
+      "Support team initiatives and innovation"
+    ],
+    requirements: [
+      "Recent graduate in an Engineering discipline",
+      "Ambitious and eager to learn",
+      "Strong foundational engineering knowledge"
+    ],
+    apply: 'Fill the form: <a href="https://docs.google.com/forms/d/e/1FAIpQLSfb42fuPuX6PgRl6AKEmSu13MWEiizDUT3OkLH8leFdK9TITQ/viewform">Online Application</a>'
+  },
+  {
+    id: "service-quality-officer-vdt-2026",
+    title: "Service Quality Officer (SQI)",
+    date: "2026-06-03",
+    location: "Lagos",
+    type: "Full-time",
+    company: "VDT Communications",
+    salary: "Not Specified",
+    deadline: "Not Specified",
+    summary: "Drive service excellence, process improvement, and compliance across the organization.",
+    responsibilities: [
+      "Implement strategies for continuous process improvement",
+      "Enforce compliance with Operational Level Agreements (OLAs)",
+      "Maintain Service Quality Management System",
+      "Coordinate periodic audits of systems and processes"
+    ],
+    requirements: [
+      "Bachelor’s Degree or HND in relevant field",
+      "Professional certifications (CCNA, ITIL, Six Sigma, etc.) is a plus",
+      "Minimum of 3 years’ experience in Banking, FMCG, or Telco",
+      "Experience in audit and quality frameworks"
+    ],
+    apply: 'Send CV to <a href="mailto:recruitment@vdtcomms.com">recruitment@vdtcomms.com</a> using “Service Quality Officer (SQI)” as subject.'
+  },
+  {
+    id: "accounts-inventory-officer-anthony-2026",
+    title: "Accounts & Inventory Officer",
+    date: "2026-06-03",
+    location: "Anthony, Lagos",
+    type: "Full-time",
+    salary: "₦200,000 Monthly",
+    deadline: "Not Specified",
+    summary: "Manage financial records, inventory tracking, and daily business operations for a retail footwear company.",
+    responsibilities: [
+      "Record and reconcile daily sales transactions",
+      "Prepare weekly/monthly financial reports",
+      "Monitor expenses and supplier payments",
+      "Track inventory movement and maintain accurate records",
+      "Conduct stock reconciliation and identify discrepancies"
+    ],
+    requirements: [
+      "BSc/HND in Accounting, Finance, or related field",
+      "Minimum of 2 years experience in retail operations/accounting",
+      "Good knowledge of Microsoft Excel and accounting software"
+    ],
+    apply: 'Send CV to <a href="mailto:jobsrecruitercareer@gmail.com">jobsrecruitercareer@gmail.com</a>'
+  },
+  {
+    id: "social-media-manager-remote-africa-2026",
+    title: "Social Media Manager",
+    date: "2026-06-03",
+    location: "Remote (Africa)",
+    type: "Full-time",
+    salary: "Not Specified",
+    deadline: "Not Specified",
+    summary: "Grow and manage brand accounts across major social platforms for a remote digital team.",
+    responsibilities: [
+      "Grow and manage accounts on Instagram, LinkedIn, TikTok, X, and Facebook",
+      "Develop and execute strategic content calendars",
+      "Utilize scheduling and analytics tools (Buffer, Hootsuite)",
+      "Engage with the community and build brand visibility"
+    ],
+    requirements: [
+      "2+ years’ experience in social media management",
+      "Strong English copywriting and visual creativity",
+      "Portfolio of previous work is required"
+    ],
+    apply: 'Send CV to <a href="mailto:tobechukwu@stafflinkexpress.info">tobechukwu@stafflinkexpress.info</a>'
+  },
+  {
+    id: "junior-project-manager-erp-surulere-2026",
+    title: "Project Manager (Junior) - ERP Implementation",
+    date: "2026-06-03",
+    location: "Surulere (Hybrid)",
+    type: "Full-time",
+    seniority: "Junior to Mid",
+    salary: "Not Specified",
+    deadline: "Not Specified",
+    summary: "Support the successful implementation of ERP systems for clients in the tech sector.",
+    responsibilities: [
+      "Coordinate ERP implementation project steps",
+      "Liaise with technical teams and stakeholders",
+      "Monitor project timelines and deliverables"
+    ],
+    requirements: [
+      "Relevant degree and background in IT/Tech",
+      "Interest or experience in ERP systems",
+      "Strong coordination and communication skills"
+    ],
+    apply: 'Review JD and apply: <a href="https://drive.google.com/file/d/1gjOlWq03DDwFpUnmFU2JXoj04iLL-xdk/view?usp=sharing">Online Link</a>'
+  },
+  {
+    id: "executive-assistant-pr-talent45-ikeja-2026",
+    title: "Executive Assistant/PR",
+    date: "2026-06-03",
+    location: "Ikeja, Lagos",
+    type: "Full-time",
+    company: "Talent45",
+    salary: "₦150,000 - ₦200,000 Net",
+    deadline: "Not Specified",
+    summary: "Combine executive support with public relations functions in Ikeja.",
+    responsibilities: [
+      "Provide high-level support to executives",
+      "Manage PR and brand communication activities",
+      "Coordinate scheduling and logistics"
+    ],
+    requirements: [
+      "2 to 3 years relevant experience",
+      "Female candidates preferred",
+      "Strong communication and multitasking skills"
+    ],
+    apply: 'Send Application to: <a href="mailto:hire@talent45.com">hire@talent45.com</a>'
+  },
+  {
+    id: "logistics-officer-port-harcourt-sommet-vine-2026",
+    title: "Logistics Officer",
+    date: "2026-06-03",
+    location: "Port Harcourt",
+    type: "Full-time",
+    company: "Sommet Vine",
+    salary: "Not Specified",
+    deadline: "Not Specified",
+    summary: "Coordinate operations, track orders, and ensure timely delivery of products.",
+    responsibilities: [
+      "Coordinate and monitor logistics operations",
+      "Track dispatched orders and ensure timely delivery",
+      "Communicate with agents and customers",
+      "Maintain logistics records and reports",
+      "Monitor performance and efficiency"
+    ],
+    requirements: [
+      "BSc/HND qualification",
+      "Strong communication and coordination skills",
+      "Good knowledge of Microsoft Excel",
+      "Previous logistics experience is an advantage"
+    ],
+    apply: 'Send your CV to: <a href="mailto:peace.hr@sommetvine.com">peace.hr@sommetvine.com</a>'
+  },
+  {
+    id: "siwes-it-internship-ikorodu-2026",
+    title: "Internship / SIWES Opportunity (Non-Science)",
+    date: "2026-06-03",
+    location: "Ikorodu, Lagos",
+    type: "Internship",
+    salary: "Not Specified",
+    deadline: "Not Specified",
+    summary: "Place to complete SIWES or Industrial Training (IT) for students in non-science disciplines.",
+    responsibilities: [
+      "Gain hands-on work experience",
+      "Participate in practical learning opportunities",
+      "Experience professional workplace exposure"
+    ],
+    requirements: [
+      "Must be a current student on SIWES/IT",
+      "Valid proof of studentship required",
+      "Open to non-science students only"
+    ],
+    apply: 'Apply via form: <a href="https://docs.google.com/forms/d/e/1FAIpQLSdEuz3usHD6Fk2MB48AdDrzPbuu74VVjeuX9lh_IxtTkdzN2Q/viewform">Online Application</a>'
+  },
+  {
+    id: "fashion-editorial-intern-lagos-2026",
+    title: "Fashion & Editorial Intern (Part-Time)",
+    date: "2026-06-03",
+    location: "Lagos, Nigeria",
+    type: "Part-time",
+    salary: "Not Specified",
+    deadline: "Not Specified",
+    summary: "Creative and fashion-conscious role focused on discovery, curation, and storytelling.",
+    responsibilities: [
+      "Research emerging and established fashion brands",
+      "Reach out to brands for partnerships",
+      "Curate fashion content and lookbooks",
+      "Assist with editorial writing and brand features",
+      "Support social and creative direction"
+    ],
+    requirements: [
+      "Strong interest in fashion and contemporary culture",
+      "Familiarity with fashion brands and aesthetics",
+      "Strong written communication and storytelling skills",
+      "Interest in journalism or creative writing"
+    ],
+    apply: 'Send CV and portfolio to: <a href="mailto:Emmanuel@amonahofficial.com">Emmanuel@amonahofficial.com</a>'
+  },
+  {
+    id: "hr-professional-restructuring-lagos-2026",
+    title: "HR Professional (Restructuring & Talent Strategy)",
+    date: "2026-06-03",
+    location: "Lagos (On-site)",
+    type: "Full-time",
+    salary: "Highly Competitive",
+    deadline: "2nd June, 2026",
+    summary: "Strategic role focused on organizational restructuring, talent acquisition, and business transformation.",
+    responsibilities: [
+      "Manage organizational restructuring and transformation",
+      "Lead talent acquisition and workforce planning",
+      "Drive HR strategy and change management",
+      "Ensure compliance and HR governance"
+    ],
+    requirements: [
+      "Bachelor’s degree in HR or related field",
+      "Minimum of 5 years progressive HR experience",
+      "Relevant certifications (CIPM, SHRM, HRCI)",
+      "Experience in restructuring projects"
+    ],
+    apply: 'Submit interest via <a href="https://forms.gle/H83WtTnj7cG1wNDv9">Online Form</a>'
+  },
+  {
+    id: "international-breweries-graduate-trainee-2026",
+    title: "Graduate Management Trainee – Nigeria",
+    date: "2026-06-03",
+    location: "Nigeria",
+    type: "Graduate Trainee",
+    company: "International Breweries Plc",
+    salary: "Not Specified",
+    deadline: "June 30, 2026",
+    summary: "Talented recent graduates looking to build a career in a multinational beverage company.",
+    responsibilities: [
+      "Participate in structured management rotation programs",
+      "Gain exposure to various business functions",
+      "Contribute to team projects and operational goals"
+    ],
+    requirements: [
+      "Recent talented graduates with a bachelor’s degree",
+      "Proficiency in English",
+      "No formal work experience required (Internship is a plus)",
+      "Full mobility across Nigeria"
+    ],
+    apply: 'Apply at: <a href="https://wd1.myworkdaysite.com/en-US/recruiting/abinbev/NGA/job/Graduate-Management-Trainee---Nigeria_30096405">Workday Portal</a>'
+  },
+  {
     id: "personal-assistant-influencer-fashion-lekki-2026",
     title: "Personal Assistant to Influencer & Fashion Brand CEO",
     date: "2026-06-03",
@@ -325,7 +846,9 @@ const allJobs: Job[] = [
       "Strong knowledge of HSE and pipeline operations",
       "Ability to work in high-pressure operational environments"
     ],
-    apply: 'Send CV to <a href="mailto:hesprojectrecruitment@gmail.com">hesprojectrecruitment@gmail.com</a>'
+    apply: 'Send CV to <a href="mailto:hesprojectrecruitment@gmail.com">hesprojectrecruitment@gmail.com</a>',
+    salary: "Not specified",
+    deadline: "Not Specified"
   },
   {
     id: "front-desk-officer-receptionist-ibadan-davric-2026",

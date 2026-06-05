@@ -10,6 +10,92 @@ export type Post = {
 
 const allPosts: Post[] = [
   {
+    id: "ppafan-scholarship-programme-2026-fct-undergraduates",
+    title: "PPAfan Scholarship Programme 2026 Opens for FCT Undergraduate Students",
+    category: "Scholarship",
+    date: "2026-06-05",
+    excerpt: "Applications are now open for the 2026 PPAfan Scholarship Programme, an annual educational support initiative of Precious People's Assembly for All Nations (PPAFAN) for FCT indigenes.",
+    content: `<h2>PPAfan Scholarship Programme 2026 Opens for FCT Undergraduate Students</h2>
+      <p>Applications are now open for the <strong>2026 PPAfan Scholarship Programme</strong>, an annual educational support initiative of Precious People's Assembly for All Nations (PPAFAN).</p>
+      <p>The scholarship programme is designed to provide financial and educational support to eligible students pursuing higher education. Interested applicants should review the eligibility requirements carefully and submit their applications within the specified period.</p>
+      <p>Over the years, the programme has contributed to educational development and youth empowerment by supporting deserving students across the Federal Capital Territory (FCT).</p>
+
+      <h3>Application Period</h3>
+      <p>Applications for the 2026 PPAfan Scholarship Programme will be accepted from:</p>
+      <ul>
+        <li><strong>Opening Date:</strong> 1 June 2026</li>
+        <li><strong>Closing Date:</strong> 14 June 2026</li>
+      </ul>
+      <p>Applicants are encouraged to complete their applications early and avoid waiting until the deadline.</p>
+
+      <h3>Eligibility Requirements</h3>
+      <p>To qualify for the scholarship, applicants must meet all of the following conditions:</p>
+      <table class="w-full border-collapse border border-gray-300 my-4 text-sm">
+        <thead>
+          <tr class="bg-gray-100 text-left">
+            <th class="border border-gray-300 p-2">Requirement</th>
+            <th class="border border-gray-300 p-2">Details</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td class="border border-gray-300 p-2">Indigene Status</td><td class="border border-gray-300 p-2">Must be an indigene of the Federal Capital Territory (FCT)</td></tr>
+          <tr><td class="border border-gray-300 p-2">Study Level</td><td class="border border-gray-300 p-2">Must be a full-time undergraduate student</td></tr>
+          <tr><td class="border border-gray-300 p-2">Institution Type</td><td class="border border-gray-300 p-2">Must be enrolled in a public university</td></tr>
+        </tbody>
+      </table>
+      <p>Students who do not meet these requirements are advised not to apply.</p>
+
+      <h3>How to Apply</h3>
+      <p>Eligible candidates should submit their applications through the official PPAfan Scholarship application portal.</p>
+      <p>To apply:</p>
+      <ol>
+        <li>Visit the <a href="https://ppafan.org/scholarship">official scholarship application portal</a>.</li>
+        <li>Review the eligibility requirements carefully.</li>
+        <li>Confirm your FCT indigene status.</li>
+        <li>Verify that you are a full-time undergraduate student in a public university.</li>
+        <li>Complete and submit your application before 14 June 2026.</li>
+      </ol>
+      <p>Applicants may also visit the <a href="https://ppafan.org/">official PPAFAN website</a> to learn more about the organisation and its educational support initiatives.</p>
+
+      <h3>Why This Scholarship Matters</h3>
+      <p>Access to quality higher education remains a challenge for many students due to financial constraints. Scholarship programmes such as the PPAfan Scholarship Programme help reduce that burden by providing support to deserving students and encouraging academic excellence.</p>
+      <p>The programme continues to play an important role in empowering young people and promoting educational opportunities within the Federal Capital Territory.</p>
+
+      <h3>Help Spread the Opportunity</h3>
+      <p>PPAFAN has encouraged individuals, student groups, educational platforms, community organisations, and publishers to share this scholarship opportunity widely.</p>
+      <p>Sharing the information through websites, social media platforms, newsletters, and student communities can help eligible students learn about the programme and apply before the deadline.</p>
+
+      <h3>Key Details at a Glance</h3>
+      <table class="w-full border-collapse border border-gray-300 my-4 text-sm">
+        <thead>
+          <tr class="bg-gray-100 text-left">
+            <th class="border border-gray-300 p-2">Item</th>
+            <th class="border border-gray-300 p-2">Details</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td class="border border-gray-300 p-2">Scholarship</td><td class="border border-gray-300 p-2">PPAfan Scholarship Programme 2026</td></tr>
+          <tr><td class="border border-gray-300 p-2">Sponsor</td><td class="border border-gray-300 p-2">Precious People's Assembly for All Nations (PPAFAN)</td></tr>
+          <tr><td class="border border-gray-300 p-2">Application Opens</td><td class="border border-gray-300 p-2">1 June 2026</td></tr>
+          <tr><td class="border border-gray-300 p-2">Application Closes</td><td class="border border-gray-300 p-2">14 June 2026</td></tr>
+          <tr><td class="border border-gray-300 p-2">Eligibility</td><td class="border border-gray-300 p-2">FCT indigenes</td></tr>
+          <tr><td class="border border-gray-300 p-2">Study Level</td><td class="border border-gray-300 p-2">Full-time undergraduate</td></tr>
+          <tr><td class="border border-gray-300 p-2">Institution Type</td><td class="border border-gray-300 p-2">Public universities</td></tr>
+          <tr><td class="border border-gray-300 p-2">Application Method</td><td class="border border-gray-300 p-2">Online through the official scholarship portal</td></tr>
+        </tbody>
+      </table>
+      <p>Eligible students are advised to complete their applications before the closing date and share the opportunity with other qualified FCT undergraduates who may benefit from the programme.</p>`,
+    tags: [
+      "PPAfan",
+      "Scholarship",
+      "FCT",
+      "Undergraduate",
+      "Nigeria",
+      "Education",
+      "2026",
+    ],
+  },
+  {
     id: "mapoly-expels-365-students-fake-admission-documents",
     title: "Moshood Abiola Polytechnic Expels 365 Students Over Fake Admission Documents",
     category: "Education",

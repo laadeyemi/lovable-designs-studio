@@ -45,9 +45,619 @@ function parseDeadline(deadlineString: string): string | null {
   return null; // Unable to parse, treat as non-expired
 }
 
-const currentDate = '2026-06-03'; // Current date for comparison (June 3, 2026)
+const currentDate = '2026-06-05'; // Current date for comparison (June 5, 2026)
 
 const allJobs: Job[] = [
+  {
+    id: "developer-senior-developer-mostly-serious-remote-2026",
+    title: "Developer / Senior Developer",
+    date: "2026-06-05",
+    location: "Remote",
+    type: "Full-time",
+    company: "Mostly Serious",
+    salary: "Competitive Base + Performance Bonuses & Profit Sharing",
+    deadline: "Not Specified",
+    summary: "Seeking a full-stack developer obsessed with clean web apps and AI-powered workflows.",
+    responsibilities: [
+      "Build & maintain client sites using Craft CMS, React, Next.js, Svelte, and Tailwind",
+      "Write tested, maintainable code and run projects from start to finish",
+      "Leverage and build agentic AI coding workflows (Cursor, Claude Code) to ship faster"
+    ],
+    requirements: [
+      "3+ years of professional full-stack web development experience",
+      "Deep experience building, customizing, and scaling CMS platforms",
+      "Mandatory: Heavy experimentation with AI coding tools"
+    ],
+    apply: 'Apply via email: <a href="mailto:jarad.johnson@mostlyserious.io">jarad.johnson@mostlyserious.io</a> with subject "Developer Application"'
+  },
+  {
+    id: "front-end-developer-mykazza-remote-2026",
+    title: "Front-end Developer",
+    date: "2026-06-05",
+    location: "Remote",
+    type: "Full-time",
+    company: "Mykazza",
+    salary: "₦300,000 – ₦400,000",
+    deadline: "Not Specified",
+    summary: "Seeking a React expert with a track record of building high-quality fintech or crypto products.",
+    responsibilities: [
+      "Develop user interfaces using React + Redux, React Native, and TypeScript",
+      "Integrate third-party services and APIs",
+      "Ensure high-quality delivery of fintech/crypto features"
+    ],
+    requirements: [
+      "Proficiency in React, Redux, React Native, and TypeScript",
+      "Experience with API integration",
+      "Experience in fintech or crypto sectors preferred"
+    ],
+    apply: 'Send CV & Portfolio to: <a href="mailto:abi@mykazza.com">abi@mykazza.com</a>'
+  },
+  {
+    id: "product-manager-ai-ux-hayrok-remote-2026",
+    title: "Product Manager (AI + UI/UX Focus)",
+    date: "2026-06-05",
+    location: "Remote (Nigeria)",
+    type: "Full-time",
+    company: "Hayrok",
+    salary: "Not Specified",
+    deadline: "Not Specified",
+    summary: "Shape the future of an AI-powered security validation platform focused on UX and intelligent workflows.",
+    responsibilities: [
+      "Shape product strategy and roadmap",
+      "Design AI-powered workflows and experiences",
+      "Create UX flows, wireframes, and dashboards",
+      "Manage features from concept to execution"
+    ],
+    requirements: [
+      "Strong product thinking and execution skills",
+      "Comfortable using AI tools and AI-assisted workflows",
+      "Deep understanding of UI/UX and SaaS product experiences"
+    ],
+    apply: 'Send Resume, Portfolio & LinkedIn profile to: <a href="mailto:careers@hayrok.com">careers@hayrok.com</a>'
+  },
+  {
+    id: "motion-designer-milu-media-remote-2026",
+    title: "Motion Designer",
+    date: "2026-06-05",
+    location: "Remote",
+    type: "Full-time",
+    company: "Milu Media",
+    salary: "₦500,000 Monthly",
+    deadline: "Not Specified",
+    summary: "Creative agency seeking a talented Motion Designer to translate concepts into visual stories.",
+    responsibilities: [
+      "Create engaging motion graphics and animations",
+      "Edit and produce high-quality visual content",
+      "Collaborate with the creative team on campaigns"
+    ],
+    requirements: [
+      "Strong proficiency in Adobe After Effects, Premiere Pro, Photoshop, and Illustrator",
+      "Experience with A.I tools/workflows for creative production"
+    ],
+    apply: 'Send application to: <a href="mailto:Chidera.Mbagwu@milu.media">Chidera.Mbagwu@milu.media</a> (Subject: Motion Designer/Animator – Your Name)'
+  },
+  {
+    id: "swift-ios-developer-rideshare-remote-2026",
+    title: "Swift iOS Developer",
+    date: "2026-06-05",
+    location: "Remote (Nigeria)",
+    type: "Contract",
+    salary: "₦300,000 Monthly",
+    deadline: "Not Specified",
+    summary: "iOS Developer to build and maintain mobile applications for a rideshare platform.",
+    responsibilities: [
+      "Design and maintain secure, scalable iOS applications using Swift",
+      "Integrate RESTful APIs and third-party services (Maps, Payments)",
+      "Build features like real-time tracking and in-app payments"
+    ],
+    requirements: [
+      "Minimum of 3 years experience developing iOS applications with Swift",
+      "Strong understanding of UIKit, SwiftUI, and Combine",
+      "Experience with MapKit and CoreLocation"
+    ],
+    apply: 'Send CV & Portfolio to: <a href="mailto:talktome@analogueshifts.com">talktome@analogueshifts.com</a> (Subject: iOS Developer)'
+  },
+  {
+    id: "content-creator-remote-nigeria-2026",
+    title: "Content Creator",
+    date: "2026-06-05",
+    location: "Remote (Nigeria)",
+    type: "Full-time",
+    salary: "Not Specified",
+    deadline: "Not Specified",
+    summary: "Digital marketing agency looking for an authentic storyteller to manage brand content across industries.",
+    responsibilities: [
+      "Plan and create content strategies for clients",
+      "Design graphics and edit short-form videos (Instagram/TikTok)",
+      "Manage community engagement and track performance"
+    ],
+    requirements: [
+      "Excellent written English and storytelling skills",
+      "Graphic design and video editing skills",
+      "Active Instagram/TikTok user"
+    ],
+    apply: 'Email: <a href="mailto:Support@mydigitalltd.com">Support@mydigitalltd.com</a> (Subject: Content Creator – Your Name)'
+  },
+  {
+    id: "multiple-remote-roles-tech-creative-2026",
+    title: "Multiple Remote Roles (Developer, Designer, Marketing)",
+    date: "2026-06-05",
+    location: "Remote",
+    type: "Full-time",
+    salary: "Not Specified",
+    deadline: "Not Specified",
+    summary: "Hiring for React Native Developers, Backend Engineers, Graphic Designers, Community Managers, and more.",
+    responsibilities: [
+      "Varies by role (Tech, Creative, or Business Development)"
+    ],
+    requirements: [
+      "Relevant experience in the applied role",
+      "Strong communication and collaboration skills",
+      "Portfolio required for creative roles"
+    ],
+    apply: 'Apply via form: <a href="https://docs.google.com/forms/d/e/1FAIpQLScWqhjyPXpcM81aL5ed2TEUZLfdMnOHFc9a0ATL6L2HhqPr6w/viewform">Online Application</a>'
+  },
+  {
+    id: "operations-officer-ogba-lagos-2026",
+    title: "Operations Officer",
+    date: "2026-06-05",
+    location: "Ogba, Lagos (Hybrid)",
+    type: "Full-time",
+    salary: "₦200,000 – ₦250,000 Net",
+    deadline: "Not Specified",
+    summary: "Detail-oriented professional to manage daily operational activities and loan processing.",
+    responsibilities: [
+      "Process loan applications and ensure compliance",
+      "Maintain accurate customer and transaction records",
+      "Prepare operational reports and performance updates"
+    ],
+    requirements: [
+      "Bachelor’s degree in Business Admin, Finance, or related field",
+      "1–3 years experience in operations (Fintech/Banking preferred)",
+      "Strong analytical and problem-solving skills"
+    ],
+    apply: 'Send CV to: <a href="mailto:Cynthiagodwin20@gmail.com">Cynthiagodwin20@gmail.com</a>'
+  },
+  {
+    id: "nysc-telesales-customer-service-intern-ogba-2026",
+    title: "NYSC Telesales & Customer Service Intern",
+    date: "2026-06-05",
+    location: "Ogba, Lagos (Hybrid)",
+    type: "Internship",
+    salary: "₦60,000 – ₦70,000",
+    deadline: "Not Specified",
+    summary: "Serving NYSC member to join a fintech team as a Telesales and Customer Service Intern.",
+    responsibilities: [
+      "Contact prospective customers to introduce loan products",
+      "Follow up on leads and convert prospects",
+      "Maintain records of customer interactions"
+    ],
+    requirements: [
+      "Must be a serving NYSC Corps Member",
+      "Strong communication and persuasion skills",
+      "Hausa speaking is an added advantage"
+    ],
+    apply: 'Send CV to: <a href="mailto:cynthiagodwin20@gmail.com">cynthiagodwin20@gmail.com</a> (Subject: NYSC Telesales & Customer Service Intern Application)'
+  },
+  {
+    id: "warehouse-manager-unitop-ph-2026",
+    title: "Warehouse Manager",
+    date: "2026-06-05",
+    location: "Port Harcourt",
+    type: "Full-time",
+    company: "Unitop Catering Services Limited",
+    salary: "₦600,000 Monthly Gross",
+    deadline: "Not Specified",
+    summary: "Manage warehouse operations for industrial catering, supporting oil & gas and offshore sectors.",
+    responsibilities: [
+      "Manage daily warehouse operations and personnel",
+      "Maintain accurate inventory for food items and catering supplies",
+      "Conduct periodic stock counts and audits"
+    ],
+    requirements: [
+      "Minimum of 5 years experience in warehouse management",
+      "Mandatory experience in Industrial/Offshore Catering or Hospitality",
+      "Bachelor's Degree/HND in Supply Chain or related field"
+    ],
+    apply: 'Send CV to: <a href="mailto:kufre.e@unitopservices.com">kufre.e@unitopservices.com</a>'
+  },
+  {
+    id: "hospitality-roles-hr-steward-2026",
+    title: "Restaurant Manager / Stock Keeper / Waiters",
+    date: "2026-06-05",
+    location: "Lagos",
+    type: "Full-time",
+    company: "Hospitality Client",
+    salary: "₦80,000 – ₦300,000 (Based on role)",
+    deadline: "Not Specified",
+    summary: "Multiple positions open for a restaurant/hospitality establishment through HR Steward Consulting.",
+    responsibilities: [
+      "Manage restaurant operations (Manager)",
+      "Maintain stock records (Stock Keeper)",
+      "Provide table service (Waiters/Waitresses)"
+    ],
+    requirements: [
+      "Relevant experience in the hospitality industry",
+      "Good communication skills"
+    ],
+    apply: 'Send CV to: <a href="mailto:hrstewardconsulting@gmail.com">hrstewardconsulting@gmail.com</a> and CC: 09070005135'
+  },
+  {
+    id: "heritage-petroleum-various-roles-2026",
+    title: "HSE Advisor / Facilities Engineer / Reservoir Engineer",
+    date: "2026-06-05",
+    location: "Various",
+    type: "Full-time / Contract",
+    company: "Heritage Petroleum Company Limited",
+    salary: "Competitive",
+    deadline: "9 June 2026",
+    summary: "Multiple vacancies across engineering, legal, finance, and procurement disciplines at a leading energy firm.",
+    responsibilities: [
+      "Varies by position applied for"
+    ],
+    requirements: [
+      "Relevant professional qualifications for the specific discipline"
+    ],
+    apply: 'Apply via: <a href="https://career41.sapsf.com/career?company=heritagepe">Heritage Petroleum Careers</a>'
+  },
+  {
+    id: "hr-intern-lumos-lagos-2026",
+    title: "HR Intern (Employee Relations & L&D)",
+    date: "2026-06-05",
+    location: "Lagos Mainland",
+    type: "Internship (3 Months)",
+    company: "Lumos",
+    salary: "₦150,000",
+    deadline: "Not Specified",
+    summary: "Intern to assist with records, onboarding, training coordination, and engagement activities.",
+    responsibilities: [
+      "Assist with employee records management and onboarding",
+      "Support training coordination and learning programs",
+      "Maintain HR documentation"
+    ],
+    requirements: [
+      "Degree/HND in HR, Business Admin, or related field",
+      "Good communication and organizational skills",
+      "Proficiency in MS Office"
+    ],
+    apply: 'Send Resume & Cover Letter to: <a href="mailto:careers@lumos.com.ng">careers@lumos.com.ng</a>'
+  },
+  {
+    id: "female-sales-representative-abuja-2026",
+    title: "Female Sales Representative",
+    date: "2026-06-05",
+    location: "Gwarinpa, Abuja",
+    type: "Full-time",
+    salary: "₦100,000",
+    deadline: "Not Specified",
+    summary: "Passionate sales professional needed for a store in Gwarinpa. 5 working days a week.",
+    responsibilities: [
+      "Attend to customers and drive sales",
+      "Maintain customer service excellence"
+    ],
+    requirements: [
+      "Must reside in Gwarinpa or nearby",
+      "Not more than 30 years old",
+      "Not open to students/married/nursing mothers"
+    ],
+    apply: 'Send CV to: <a href="mailto:theflairstore19@gmail.com">theflairstore19@gmail.com</a>'
+  },
+  {
+    id: "sales-executive-neutratech-ph-2026",
+    title: "Sales Executive",
+    date: "2026-06-05",
+    location: "Port Harcourt",
+    type: "Full-time",
+    company: "Neutratech – Coway",
+    salary: "₦320,000+ Potential monthly",
+    deadline: "5 Days from posting",
+    summary: "Ambitious individuals to join a world-class water/air purification machine provider.",
+    responsibilities: [
+      "Drive sales for purification machines",
+      "Acquire and manage clients in Port Harcourt",
+      "Maintain professional appearance"
+    ],
+    requirements: [
+      "Bachelor’s/HND/Master’s/OND",
+      "2+ years experience in sales/retail",
+      "Age: 28 – 60 years"
+    ],
+    apply: 'Send CV to: <a href="mailto:neutratech.ph@gmail.com">neutratech.ph@gmail.com</a>'
+  },
+  {
+    id: "data-analyst-intern-jasper-wildon-remote-2026",
+    title: "Data Analyst Intern",
+    date: "2026-06-05",
+    location: "Remote",
+    type: "Internship (Paid)",
+    salary: "₦200,000 – ₦300,000",
+    deadline: "Not Specified",
+    summary: "Paid internship for aspiring analysts to work on live datasets and reporting projects.",
+    responsibilities: [
+      "Collect, clean, and analyze datasets",
+      "Build reports and dashboards using Power BI/Tableau",
+      "Perform exploratory data analysis"
+    ],
+    requirements: [
+      "0–1 year experience",
+      "Strong Excel/Google Sheets skills",
+      "Basic knowledge of SQL & Python"
+    ],
+    apply: 'Send CV to: <a href="mailto:jasperwildon@gmail.com">jasperwildon@gmail.com</a>'
+  },
+  {
+    id: "social-media-manager-salve-lekki-2026",
+    title: "Social Media Manager",
+    date: "2026-06-05",
+    location: "Lekki, Lagos (Hybrid)",
+    type: "Full-time",
+    salary: "₦150,000 – ₦200,000",
+    deadline: "Not Specified",
+    summary: "Creative professional to drive audience engagement and platform growth.",
+    responsibilities: [
+      "Manage company social platforms (IG, FB, TikTok, etc.)",
+      "Execute content calendars and multimedia posts",
+      "Track performance and engagement analytics"
+    ],
+    requirements: [
+      "2–3 years experience in Social Media Management",
+      "Proficiency in Canva, CapCut, or Adobe Creative Suite",
+      "Strong copywriting and analytical skills"
+    ],
+    apply: 'Send application to: <a href="mailto:recruitment@salveconsultinglimite.com">recruitment@salveconsultinglimite.com</a>'
+  },
+  {
+    id: "hse-manager-kogi-fixgap-2026",
+    title: "HSE Manager",
+    date: "2026-06-05",
+    location: "Kogi State",
+    type: "Full-time",
+    salary: "₦400,000 – ₦600,000 Gross",
+    deadline: "Not Specified",
+    summary: "Motivation-driven HSE professional for implementation and improvement of safety and environmental standards.",
+    responsibilities: [
+      "Implement site-specific safety plans",
+      "Conduct risk assessments and hazard identification",
+      "Manage waste and emissions compliance"
+    ],
+    requirements: [
+      "Bachelor’s degree in Environmental Science or related field",
+      "2–5 years HSE experience",
+      "Certifications (NEBOSH, IOSH) are an advantage"
+    ],
+    apply: 'Send CV to: <a href="mailto:fixgapconsulting@gmail.com">fixgapconsulting@gmail.com</a> (Subject: HSE Manager Kogi)'
+  },
+  {
+    id: "female-office-cleaner-ilasamaja-2026",
+    title: "Female Office Cleaner",
+    date: "2026-06-05",
+    location: "Ilasamaja, Lagos",
+    type: "Full-time",
+    salary: "₦60,000 – ₦70,000",
+    deadline: "30th June 2026",
+    summary: "Responsible for maintaining office cleanliness and supporting a healthy environment.",
+    responsibilities: [
+      "Clean office spaces, furniture, and surroundings",
+      "Ensure restrooms are hygienic"
+    ],
+    requirements: [
+      "Minimum of SSCE",
+      "Must reside close to Ilasamaja/Ijesha axis",
+      "Immediate resumption"
+    ],
+    apply: 'Send CV to: <a href="mailto:grpmesg@gmail.com">grpmesg@gmail.com</a>'
+  },
+  {
+    id: "fleet-coordinator-isolo-ascentech-2026",
+    title: "Fleet Coordinator (Technical)",
+    date: "2026-06-05",
+    location: "Isolo, Lagos",
+    type: "Full-time",
+    salary: "₦200,000 – ₦280,000",
+    deadline: "Not Specified",
+    summary: "Technical Fleet Coordinator with mechanical background to oversee fleet operations and vehicle maintenance.",
+    responsibilities: [
+      "Coordinate and monitor daily fleet operations",
+      "Supervise vehicle repairs and servicing",
+      "Track performance, fuel usage, and logs"
+    ],
+    requirements: [
+      "HND/B.Sc. in Mechanical or Automobile Engineering",
+      "3–5 years experience in fleet coordination",
+      "Strong technical knowledge of trucks"
+    ],
+    apply: 'Send CV to: <a href="mailto:cv@ascentech.com.ng">cv@ascentech.com.ng</a> (Subject: FLEET COORDINATOR)'
+  },
+  {
+    id: "tele-collection-agent-yaba-bad-debt-2026",
+    title: "Tele-Collection Agent (Bad Debt)",
+    date: "2026-06-05",
+    location: "Yaba, Lagos (Hybrid)",
+    type: "Full-time",
+    salary: "₦120,000 Net + Incentives",
+    deadline: "Not Specified",
+    summary: "Recover overdue and bad debt payments (365 days & above) through professional negotiation.",
+    responsibilities: [
+      "Contact customers to recover overdue payments",
+      "Negotiate repayment terms",
+      "Escalate unresolved cases"
+    ],
+    requirements: [
+      "Experience in debt recovery",
+      "Strong verbal communication and negotiation skills",
+      "Minimum of OND Degree"
+    ],
+    apply: 'Apply here: <a href="https://forms.gle/bEeiJDSHzKJdcGdm9">Online Portal</a>'
+  },
+  {
+    id: "operations-admin-assistant-remote-nigeria-2026",
+    title: "Operations Admin Assistant",
+    date: "2026-06-05",
+    location: "Nigeria (Remote)",
+    type: "Full-time",
+    salary: "₦150,000",
+    deadline: "Not Specified",
+    summary: "Support backend operations, payout monitoring, and issue resolution tracking for digital platforms.",
+    responsibilities: [
+      "Monitor payouts and escalate unresolved issues",
+      "Track user complaints and timely resolution",
+      "Maintain operational logs and dashboards"
+    ],
+    requirements: [
+      "1–3 years experience",
+      "Proficiency in Google Sheets/Excel",
+      "Fast learner for startup environments"
+    ],
+    apply: 'Apply here: <a href="https://lnkd.in/dcac_yUr">Online Application</a>'
+  },
+  {
+    id: "site-supervisor-macaboresources-lagos-island-2026",
+    title: "Site Supervisor",
+    date: "2026-06-05",
+    location: "Lagos Island, Lagos",
+    type: "Full-time",
+    salary: "₦200,000 – ₦300,000",
+    deadline: "10th June 2026",
+    summary: "Oversee live construction projects for high-quality residential and commercial buildings.",
+    responsibilities: [
+      "Manage projects from concept to completion",
+      "Project reporting and site coordination",
+      "Ensure compliance with building codes"
+    ],
+    requirements: [
+      "HND/BSc in Civil Engineering or Building",
+      "3–4 years post-NYSC experience in construction",
+      "Knowledge of Nigerian building codes"
+    ],
+    apply: 'Send CV to: <a href="mailto:macaboresources@gmail.com">macaboresources@gmail.com</a> or WhatsApp 08100115082'
+  },
+  {
+    id: "personal-assistant-senior-leadership-lagos-2026",
+    title: "Personal Assistant",
+    date: "2026-06-05",
+    location: "Lagos",
+    type: "Full-time",
+    salary: "Not Specified",
+    deadline: "Not Specified",
+    summary: "Tech-savvy PA to provide high-level support and leverage AI tools for senior leadership.",
+    responsibilities: [
+      "Manage calendars, travel, and appointments",
+      "Prepare reports and presentations",
+      "Use AI tools like ChatGPT for productivity"
+    ],
+    requirements: [
+      "Proven experience as an Executive Assistant",
+      "Proficiency in Microsoft Office & Google Workspace",
+      "Knowledge of AI productivity tools"
+    ],
+    apply: 'Apply via: <a href="https://forms.gle/p3zwvr3yUB6Zxtne7">Online Form</a>'
+  },
+  {
+    id: "ac-technician-bank-anthony-2026",
+    title: "AC Technician (Bank)",
+    date: "2026-06-05",
+    location: "Anthony, Lagos",
+    type: "Full-time",
+    salary: "Not Specified",
+    deadline: "Not Specified",
+    summary: "Skilled technician to ensure zero downtime of AC units within a banking facility.",
+    responsibilities: [
+      "Perform installations, maintenance, and troubleshooting",
+      "Ensure 100% availability of units",
+      "Maintain records and follow shift schedules"
+    ],
+    requirements: [
+      "Diploma/B.Sc./HND in Mechanical Engineering",
+      "1–5 years technical experience",
+      "Experience in an industrial setting is a plus"
+    ],
+    apply: 'Send CV to: <a href="mailto:hr.solidgroups@gmail.com">hr.solidgroups@gmail.com</a>'
+  },
+  {
+    id: "accountant-impco-lagos-2026",
+    title: "Accountant",
+    date: "2026-06-05",
+    location: "Lagos",
+    type: "Full-time",
+    company: "Medium-level Manufacturing Company",
+    salary: "₦300,000 – ₦400,000",
+    deadline: "Not Specified",
+    summary: "Experienced accountant for a manufacturing firm. ICAN membership required.",
+    responsibilities: [
+      "Manage company financial accounts and reporting",
+      "Ensure tax and regulatory compliance"
+    ],
+    requirements: [
+      "Minimum HND/BSc in Accountancy",
+      "5+ years of experience",
+      "Membership of ICAN is mandatory"
+    ],
+    apply: 'Send CV to: <a href="mailto:frank@impco.biz">frank@impco.biz</a>'
+  },
+  {
+    id: "shift-production-manager-lagos-mainland-2026",
+    title: "Shift Production Manager",
+    date: "2026-06-05",
+    location: "Lagos Mainland",
+    type: "Full-time",
+    company: "Reputable Manufacturing Company",
+    salary: "Not Specified",
+    deadline: "Rolling Basis",
+    summary: "Oversee production activities during shifts, ensuring safety and quality standards.",
+    responsibilities: [
+      "Supervise production operations during assigned shifts",
+      "Monitor performance and implement corrective actions",
+      "Drive continuous improvement to reduce waste"
+    ],
+    requirements: [
+      "Bachelor’s/HND in Engineering or Production Management",
+      "Minimum of 5 years experience in a manufacturing supervisory role",
+      "Strong knowledge of quality management systems"
+    ],
+    apply: 'Forward CV to: <a href="mailto:Abuat.joseph@yahoo.com">Abuat.joseph@yahoo.com</a> (Subject: Application for Shift Production Manager)'
+  },
+  {
+    id: "store-keeper-charvet-lagos-2026",
+    title: "Store Keeper",
+    date: "2026-06-05",
+    location: "Lagos",
+    type: "Full-time",
+    salary: "₦120,000",
+    deadline: "Open until filled",
+    summary: "Diligently manage receiving, storage, and inventory records for stock.",
+    responsibilities: [
+      "Receive, store, and issue inventory items",
+      "Maintain accurate stock records",
+      "Ensure proper organization of the warehouse"
+    ],
+    requirements: [
+      "Minimum of OND/HND/Degree in relevant field",
+      "Experience in storekeeping is an advantage",
+      "Proficiency in MS Office"
+    ],
+    apply: 'Send CV to: <a href="mailto:hroffice@charvet.com">hroffice@charvet.com</a> or WhatsApp 08037240243'
+  },
+  {
+    id: "business-development-manager-automobile-ibadan-2026",
+    title: "Business Development Manager (Automobile – Two Wheeler)",
+    date: "2026-06-05",
+    location: "Ibadan, Oyo State",
+    type: "Full-time",
+    salary: "Not Specified",
+    deadline: "Not Specified",
+    summary: "Drive business growth in the two-wheeler segment through dealer onboarding and market strategy.",
+    responsibilities: [
+      "Appoint new dealers and strengthen existing relations",
+      "Identify new market and geographical opportunities",
+      "Explore fleet sales and government contracts"
+    ],
+    requirements: [
+      "HND/BSc in Business Administration or related field",
+      "1–3 years experience in a related field",
+      "Market-driven mindset"
+    ],
+    apply: 'Send CV to: <a href="mailto:kenneth.marcus@tolaram.com">kenneth.marcus@tolaram.com</a>'
+  },
   {
     id: "talent-acquisition-associate-reliance-health-remote-2026",
     title: "Talent Acquisition Associate",

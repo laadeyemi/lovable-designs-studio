@@ -10,6 +10,468 @@ export type Post = {
 
 const allPosts: Post[] = [
   {
+    id: "university-of-offa-scholarship-applications-2026-2027",
+    title: "University of Offa Opens Full and Partial Scholarship Applications for 2026/2027 Session",
+    category: "Scholarship",
+    date: "2026-06-06",
+    excerpt: "The University of Offa (UNIOFFA), Kwara State, has announced the commencement of applications for its Full and Partial Scholarship Scheme for the 2026/2027 academic session.",
+    content: `<h2>University of Offa Opens Full and Partial Scholarship Applications for 2026/2027 Session</h2>
+      <p>The University of Offa (UNIOFFA), Kwara State, has announced the commencement of applications for its Full and Partial Scholarship Scheme for the 2026/2027 academic session.</p>
+      <p>The scholarship programme is designed to support qualified students seeking admission into the university and covers selected undergraduate programmes. Interested candidates are expected to complete the admission process before proceeding with the scholarship application.</p>
+
+      <h3>Available Scholarship Opportunities</h3>
+      <p>The university offers both full and partial scholarships to eligible candidates.</p>
+
+      <h4>Programmes Eligible for Full and Partial Scholarships</h4>
+      <p>Applicants seeking admission into any of the following programmes may apply for scholarship consideration:</p>
+      <ul>
+        <li>Computer Science</li>
+        <li>Microbiology</li>
+        <li>Cyber Security</li>
+        <li>Software Engineering</li>
+        <li>Economics</li>
+        <li>Mass Communication</li>
+        <li>Political Science</li>
+        <li>Accounting</li>
+        <li>Business Administration</li>
+      </ul>
+
+      <h4>Programmes Eligible for Partial Scholarships</h4>
+      <p>Candidates applying for the following programmes will be considered for partial scholarship awards:</p>
+      <ul>
+        <li>Education Programmes</li>
+        <li>Physics with Electronics</li>
+      </ul>
+
+      <h3>Scholarship Eligibility Requirements</h3>
+      <p>To qualify for the scholarship scheme, candidates must:</p>
+      <ul>
+        <li>Apply for admission into the University of Offa for the 2026/2027 academic session.</li>
+        <li>Participate in the university admission screening exercise.</li>
+        <li>Obtain an official admission letter from the university.</li>
+        <li>Complete the scholarship application process.</li>
+        <li>Participate in the scholarship screening exercise.</li>
+      </ul>
+      <p>Scholarship awards will be granted to the most qualified candidates after the screening process.</p>
+
+      <h3>Required Documents</h3>
+      <p>Applicants must provide the following documents when applying:</p>
+      <ul>
+        <li>WAEC, NECO, NABTEB, NBAIS, or equivalent examination results</li>
+        <li>UTME result slip (for Nigerian applicants)</li>
+        <li>Recent passport photograph</li>
+        <li>University of Offa admission letter</li>
+      </ul>
+      <p>International applicants are not required to submit a UTME result slip.</p>
+
+      <h3>Scholarship Application Fee</h3>
+      <p>The scholarship application fee is:</p>
+      <ul>
+        <li>₦10,000 for UTME candidates</li>
+        <li>USD 50 for international applicants</li>
+      </ul>
+      <p>Applicants should ensure they pay the correct fee based on their category.</p>
+
+      <h3>How to Apply for the UNIOFFA Scholarship</h3>
+      <p>Follow these steps to apply:</p>
+      <ol>
+        <li>Apply for admission through the <a href="https://unioffa.edu.ng/public/admission/register">University of Offa admission portal</a>.</li>
+        <li>Participate in the admission screening exercise.</li>
+        <li>Obtain your admission letter upon successful admission.</li>
+        <li>Submit an application for the scholarship scheme.</li>
+        <li>Attend the scholarship screening exercise.</li>
+      </ol>
+
+      <h3>Application Deadline</h3>
+      <p>The deadline for scholarship applications is: <strong>Friday, 24 July 2026</strong></p>
+      <p>Candidates are advised to begin the admission process early to allow enough time to obtain their admission letter and complete the scholarship application before the deadline.</p>
+
+      <h3>Why Apply?</h3>
+      <p>The University of Offa scholarship scheme aims to provide financial support to deserving students while promoting access to quality higher education. Beneficiaries will study in a conducive learning environment supported by experienced academics, modern technology, practical training, and industry-focused education.</p>
+
+      <h3>Enquiries</h3>
+      <p>For further information, applicants can contact the university through the following numbers:</p>
+      <ul>
+        <li>+2348109668798</li>
+        <li>+2348066814330</li>
+        <li>+2347037331206</li>
+      </ul>
+      <p>Applicants may also visit the <a href="https://unioffa.edu.ng/">official University of Offa website</a> for additional details.</p>
+
+      <h3>Important Checklist Before Applying</h3>
+      <p>Before submitting your scholarship application, ensure that:</p>
+      <ul>
+        <li>Your chosen course is eligible for scholarship consideration.</li>
+        <li>You have completed the admission application process.</li>
+        <li>You have participated in the admission screening.</li>
+        <li>Your admission letter is available.</li>
+        <li>Your examination results are ready.</li>
+        <li>Your UTME result slip is available (where applicable).</li>
+        <li>Your passport photograph is recent.</li>
+        <li>Your application is submitted before <strong>24 July 2026</strong>.</li>
+      </ul>
+      <p>Candidates who meet all requirements are encouraged to apply early and complete the process before the closing date.</p>`,
+    tags: [
+      "University of Offa",
+      "Scholarship",
+      "Admission",
+      "2026/2027",
+      "Undergraduate",
+      "Education",
+      "Nigeria",
+    ],
+  },
+  {
+    id: "federal-polytechnic-ugep-hnd-admission-2026-2027",
+    title: "Federal Polytechnic Ugep HND Admission Form 2026/2027 Now Available",
+    category: "Education",
+    date: "2026-06-06",
+    excerpt: "Federal Polytechnic Ugep, Cross River State, has commenced the sale of admission forms for its full-time Higher National Diploma (HND) programmes for the 2026/2027 academic session.",
+    content: `<h2>Federal Polytechnic Ugep HND Admission Form 2026/2027 Now Available</h2>
+      <p>Federal Polytechnic Ugep, Cross River State, has commenced the sale of admission forms for its full-time Higher National Diploma (HND) programmes for the 2026/2027 academic session.</p>
+      <p>Applications are invited from suitably qualified candidates who possess a National Diploma (ND) in a relevant field and meet the Polytechnic's admission requirements.</p>
+
+      <h3>Available HND Programmes</h3>
+      <p>The Polytechnic is offering admission into the following full-time HND programmes:</p>
+      <ul>
+        <li>Software and Web Development</li>
+        <li>Networking and Cloud Computing</li>
+      </ul>
+      <p>Applicants are advised to choose a programme that aligns with their National Diploma qualification and Industrial Training experience.</p>
+
+      <h3>Admission Requirements</h3>
+      <p>To qualify for admission, candidates must satisfy the following conditions:</p>
+      <ul>
+        <li>Possess five O'Level credit passes, including English Language and Mathematics.</li>
+        <li>Have credit passes in three other subjects relevant to the chosen programme.</li>
+        <li>Hold a National Diploma (ND) in a related discipline from a recognized institution.</li>
+        <li>Have completed at least one year of Industrial Training (IT).</li>
+      </ul>
+      <p>Candidates who do not meet these requirements may not be considered for admission.</p>
+
+      <h3>How to Apply</h3>
+      <p>Interested applicants should complete their application through the official Federal Polytechnic Ugep admission portal.</p>
+      <h4>Application Steps</h4>
+      <ol>
+        <li>Visit the <a href="https://fedpolyugep.edu.ng/admission/apply-now/">Federal Polytechnic Ugep application portal</a>.</li>
+        <li>Select the Full-Time HND Admission option.</li>
+        <li>Choose the preferred HND programme.</li>
+        <li>Complete the online application form with accurate personal and academic information.</li>
+        <li>Review all details carefully.</li>
+        <li>Submit the application online.</li>
+      </ol>
+      <p>Applicants should ensure that all information provided matches their academic records and supporting documents.</p>
+
+      <h3>Student Support and Facilities</h3>
+      <p>Federal Polytechnic Ugep highlighted several support services and facilities available to students, including:</p>
+      <ul>
+        <li>NELFUND student loan opportunities</li>
+        <li>Fully equipped STEM laboratories</li>
+        <li>Scholarship opportunities</li>
+        <li>Safe outdoor recreational areas</li>
+        <li>Comfortable hostel accommodation</li>
+      </ul>
+
+      <h3>Enquiries and Contact Information</h3>
+      <p>Candidates seeking further information may contact the Polytechnic through any of the following channels:</p>
+      <p><strong>Website:</strong> Federal Polytechnic Ugep Official Website</p>
+      <p><strong>Email:</strong> <a href="mailto:info@fedpolyugep.edu.ng">info@fedpolyugep.edu.ng</a></p>
+      <p><strong>Phone Numbers:</strong></p>
+      <ul>
+        <li>08083899662</li>
+        <li>07069096874</li>
+      </ul>
+
+      <h3>Important Checklist Before Submission</h3>
+      <p>Before submitting the application, candidates should confirm that:</p>
+      <ul>
+        <li>Their ND qualification is related to the chosen HND programme.</li>
+        <li>They have completed at least one year of Industrial Training.</li>
+        <li>English Language and Mathematics are included among their O'Level credits.</li>
+        <li>They possess three additional relevant O'Level credits.</li>
+        <li>The selected programme is either Software and Web Development or Networking and Cloud Computing.</li>
+        <li>All information entered on the application form is accurate and complete.</li>
+      </ul>
+      <p>Submitting correct information and supporting documents will help ensure a smooth admission process.</p>`,
+    tags: [
+      "Federal Polytechnic Ugep",
+      "HND Admission",
+      "Cross River State",
+      "2026/2027",
+      "Education",
+      "Nigeria",
+    ],
+  },
+  {
+    id: "komu-post-utme-direct-entry-form-2026-2027",
+    title: "KOMU Post UTME/Direct Entry Form 2026/2027: Registration Begins June 1",
+    category: "Education",
+    date: "2026-06-06",
+    excerpt: "Kingsley Ozumba Mbadiwe University (KOMU) has announced the commencement of its 2026/2027 Post UTME and Direct Entry screening exercise. Registration opens June 1 and closes July 31, 2026.",
+    content: `<h2>KOMU Post UTME/Direct Entry Form 2026/2027: Registration Begins June 1</h2>
+      <p>Kingsley Ozumba Mbadiwe University (KOMU) has announced the commencement of its 2026/2027 Post UTME and Direct Entry screening exercise.</p>
+      <p>Registration opens on <strong>Monday, 1 June 2026</strong> and closes on <strong>Friday, 31 July 2026</strong>. Eligible UTME and Direct Entry candidates are invited to complete the online screening application before the deadline.</p>
+      <p>Candidates must pay a non-refundable processing fee of <strong>₦2,000</strong> and print their acknowledgement slip after registration.</p>
+
+      <h3>Who Can Apply for KOMU Post UTME?</h3>
+      <p>Candidates are eligible to apply if they:</p>
+      <ul>
+        <li>Chose Kingsley Ozumba Mbadiwe University as their first-choice institution in the 2026 UTME.</li>
+        <li>Applied for admission through Direct Entry into KOMU.</li>
+        <li>Meet the minimum JAMB score required for their chosen programme.</li>
+      </ul>
+      <p>Candidates who did not initially choose KOMU may still apply after completing a Change of Institution to KOMU through JAMB, provided they scored at least 150 in UTME and meet the admission requirements for their preferred course.</p>
+
+      <h3>Courses Restricted to Original First-Choice Candidates</h3>
+      <p>The following programmes are available only to candidates who selected KOMU as their first-choice institution during the original 2026 UTME registration:</p>
+      <ul>
+        <li>Medicine and Surgery</li>
+        <li>Nursing Science</li>
+        <li>Law</li>
+        <li>Medical Laboratory Science</li>
+      </ul>
+      <p>Candidates who changed to KOMU after UTME registration will not be considered for admission into these programmes.</p>
+
+      <h3>KOMU Cut-Off Marks for 2026/2027 Admission</h3>
+      <h4>Programmes Requiring a Minimum Score of 150</h4>
+      <p><strong>Faculty of Arts</strong></p>
+      <ul>
+        <li>English and Literary Studies</li>
+        <li>History and International Studies</li>
+        <li>Linguistics</li>
+        <li>Philosophy</li>
+      </ul>
+      <p><strong>Faculty of Allied Health Sciences</strong></p>
+      <ul>
+        <li>Environmental Health Science</li>
+        <li>Public Health Science</li>
+      </ul>
+      <p><strong>Faculty of Computing</strong></p>
+      <ul>
+        <li>Computer Science</li>
+        <li>Cyber Security</li>
+        <li>Information Technology</li>
+      </ul>
+      <p><strong>Faculty of Environmental Sciences</strong></p>
+      <ul>
+        <li>Architecture</li>
+        <li>Estate Management</li>
+      </ul>
+      <p><strong>Faculty of Science</strong></p>
+      <ul>
+        <li>Animal and Environmental Biology</li>
+        <li>Biochemistry</li>
+        <li>Biology</li>
+        <li>Chemistry</li>
+        <li>Mathematics</li>
+        <li>Microbiology</li>
+        <li>Plant Science and Biotechnology</li>
+        <li>Physics</li>
+        <li>Statistics</li>
+      </ul>
+      <p><strong>Faculty of Management Sciences</strong></p>
+      <ul>
+        <li>Accounting</li>
+        <li>Banking and Finance</li>
+        <li>Business Administration</li>
+        <li>Entrepreneurship</li>
+        <li>Industrial Relations and Personnel Management</li>
+        <li>Marketing</li>
+      </ul>
+      <p><strong>Faculty of Social Sciences</strong></p>
+      <ul>
+        <li>Economics</li>
+        <li>Political Science</li>
+        <li>Psychology</li>
+        <li>Sociology</li>
+      </ul>
+
+      <h4>Programme Requiring a Minimum Score of 200</h4>
+      <ul>
+        <li>Medical Laboratory Science</li>
+      </ul>
+
+      <h4>Programmes Requiring a Minimum Score of 210</h4>
+      <ul>
+        <li>Law</li>
+        <li>Nursing Science</li>
+      </ul>
+
+      <h4>Programme Requiring a Minimum Score of 220</h4>
+      <ul>
+        <li>Medicine and Surgery</li>
+      </ul>
+
+      <h3>Direct Entry Requirements</h3>
+      <p>Direct Entry candidates must possess:</p>
+      <ul>
+        <li>OND, HND, A'Level qualifications, or a First Degree in a relevant discipline.</li>
+        <li>Five O'Level credit passes in relevant subjects at not more than two sittings.</li>
+      </ul>
+      <p>Applicants should ensure that their qualifications align with their intended course of study.</p>
+
+      <h3>Screening Method</h3>
+      <p>The screening exercise will be based on:</p>
+      <ul>
+        <li>Verified JAMB scores</li>
+        <li>O'Level results uploaded on JAMB CAPS</li>
+      </ul>
+      <p>Accepted O'Level examinations include WAEC, NECO, NABTEB, and GCE. Candidates must upload their O'Level results to JAMB CAPS before the screening process is completed.</p>
+
+      <h3>Application Fee</h3>
+      <p>The application fee is <strong>₦2,000</strong> only. Payment is made through the Remita platform during registration.</p>
+      <p>Before making payment, candidates should verify Name, Phone number, Email address, Remita reference number, and Amount payable.</p>
+
+      <h3>How to Apply for KOMU Post UTME/DE Screening</h3>
+      <ol>
+        <li>Visit the <a href="https://komu.edu.ng/admissions/programs/undergraduate-degree/application-form-guide">KOMU Undergraduate Application Portal</a>.</li>
+        <li>Click <strong>"Start Your Admission Process."</strong></li>
+        <li>Select <strong>"Start Application Process."</strong></li>
+        <li>Complete the application form accurately.</li>
+        <li>Submit the form.</li>
+        <li>Pay the ₦2,000 processing fee through Remita.</li>
+        <li>Select a preferred payment method and complete payment.</li>
+      </ol>
+      <p>Available payment options include ATM card payment, Bank transfer, USSD, Bank invoice, Remita Wallet, and Phone number payment.</p>
+
+      <h3>How to Print the Acknowledgement Slip</h3>
+      <ol>
+        <li>Visit the <a href="https://komu.edu.ng/admissions/programs/undergraduate-degree/continue-application">KOMU Continue Application page</a>.</li>
+        <li>Enter your Application Number.</li>
+        <li>Print the acknowledgement slip.</li>
+        <li>Keep the slip and bring it on the screening day.</li>
+      </ol>
+
+      <h3>How to Retrieve a Forgotten Application Number</h3>
+      <ol>
+        <li>Visit the <a href="https://komu.edu.ng/">KOMU website</a>.</li>
+        <li>Click <strong>Online Application</strong>.</li>
+        <li>Select <strong>Apply Online</strong>.</li>
+        <li>Click <strong>Click Here to Apply</strong>.</li>
+        <li>Choose <strong>Continue Previous Admission Process</strong>.</li>
+        <li>Enter your JAMB Registration Number.</li>
+        <li>Continue and retrieve your application details.</li>
+      </ol>
+
+      <h3>Support and Enquiries</h3>
+      <p><strong>Email:</strong> <a href="mailto:admissions@komu.edu.ng">admissions@komu.edu.ng</a></p>
+      <p><strong>Hotlines:</strong></p>
+      <ul>
+        <li>08134435535</li>
+        <li>08060722027</li>
+        <li>07034918110</li>
+      </ul>
+
+      <h3>Important Checklist Before Submission</h3>
+      <ul>
+        <li>Registration is completed before <strong>31 July 2026</strong>.</li>
+        <li>Your JAMB score meets the requirement for your chosen course.</li>
+        <li>Restricted programmes are selected only if you qualify.</li>
+        <li>O'Level results have been uploaded to JAMB CAPS.</li>
+        <li>Names, date of birth, and state of origin match across all records.</li>
+        <li>Your phone number and email address are active and correct.</li>
+        <li>The ₦2,000 application fee has been paid successfully.</li>
+        <li>The acknowledgement slip has been printed and kept safely.</li>
+      </ul>
+      <p>Failure to provide accurate information may affect admission processing, as KOMU will verify all details using JAMB and uploaded academic records.</p>`,
+    tags: [
+      "KOMU",
+      "Post UTME",
+      "Direct Entry",
+      "Admission",
+      "2026/2027",
+      "Education",
+      "Nigeria",
+    ],
+  },
+  {
+    id: "al-maarif-college-health-sciences-technology-nd-admission-2026-2027",
+    title: "Al-Ma'arif College of Health Sciences and Technology ND Admission Form 2026/2027 Now Available",
+    category: "Education",
+    date: "2026-06-06",
+    excerpt: "Al-Ma'arif College of Health Sciences and Technology, Potiskum, has commenced the sale of admission forms for its National Diploma (ND) programmes for the 2026/2027 academic session.",
+    content: `<h2>Al-Ma'arif College of Health Sciences and Technology ND Admission Form 2026/2027 Now Available</h2>
+      <p>Al-Ma'arif College of Health Sciences and Technology, Potiskum, has commenced the sale of admission forms for its National Diploma (ND) programmes for the 2026/2027 academic session.</p>
+      <p>Applications are invited from suitably qualified candidates who meet the UTME and O'Level requirements for admission into the College's health-related programmes.</p>
+
+      <h3>Available ND Programmes</h3>
+      <p>The College offers the following National Diploma programmes, each with a duration of two years:</p>
+      <ul>
+        <li>ND Health Information Management</li>
+        <li>ND Orthopedic Cast Technology</li>
+        <li>ND Medical Laboratory Technology</li>
+      </ul>
+      <p>Candidates should choose a programme that aligns with their academic background and career goals.</p>
+
+      <h3>Admission Requirements</h3>
+      <p>To be eligible for admission, applicants must:</p>
+      <ul>
+        <li>Have participated in the 2026 Unified Tertiary Matriculation Examination (UTME).</li>
+        <li>Score a minimum of 100 in the UTME.</li>
+        <li>Choose Al-Ma'arif College of Health Sciences and Technology, Potiskum as their institution of choice.</li>
+        <li>Possess at least five O'Level credit passes in relevant subjects.</li>
+        <li>Include English Language, Mathematics, Biology, Chemistry, and Physics among the required credits.</li>
+        <li>Present results from WAEC, NECO, or NABTEB.</li>
+        <li>Obtain the required credits in not more than two sittings.</li>
+      </ul>
+      <p>Candidates with results from two sittings may apply provided all required subjects are covered.</p>
+
+      <h3>Application Fee</h3>
+      <p>The admission form costs <strong>₦11,000</strong> only.</p>
+      <p>The fee is non-refundable and must be paid before the application form can be obtained either online or at the College ICT Centre.</p>
+      <p>Applicants are advised to keep their payment receipt or evidence of payment for future reference.</p>
+
+      <h3>How to Apply</h3>
+      <p>Interested candidates can obtain the application form at the College ICT Centre or apply online through the College application portal.</p>
+      <h4>Application Steps</h4>
+      <ol>
+        <li>Visit the College ICT Centre or the <a href="https://almaarifcnm.edu.ng/">official application website</a>.</li>
+        <li>Pay the non-refundable application fee of ₦11,000.</li>
+        <li>Obtain the admission form.</li>
+        <li>Complete the form with accurate personal and academic information.</li>
+        <li>Verify that your UTME score and O'Level subjects meet the admission requirements.</li>
+        <li>Submit the completed application through the approved channel.</li>
+      </ol>
+      <p>Applicants should review all information carefully before submission to avoid errors that may affect admission processing.</p>
+
+      <h3>Application Period</h3>
+      <p>The application window opens on:</p>
+      <p><strong>Monday, 1 June 2026</strong></p>
+      <p>and closes on:</p>
+      <p><strong>Saturday, 4 July 2026</strong></p>
+      <p>Candidates are encouraged to complete their applications well before the deadline, as no late registration date has been announced.</p>
+
+      <h3>Enquiries and Support</h3>
+      <p>For admission-related enquiries, applicants may contact the College through any of the following numbers:</p>
+      <ul>
+        <li>08105502096</li>
+        <li>08039319049</li>
+      </ul>
+
+      <h3>Important Checklist Before Applying</h3>
+      <p>Before purchasing the admission form, candidates should ensure that:</p>
+      <ul>
+        <li>Their 2026 UTME score is at least 100.</li>
+        <li>They selected Al-Ma'arif College of Health Sciences and Technology, Potiskum during UTME registration.</li>
+        <li>They possess five relevant O'Level credits.</li>
+        <li>English Language and Mathematics are included among the credits.</li>
+        <li>Biology, Chemistry, and Physics are included among the credits.</li>
+        <li>Their results are from WAEC, NECO, or NABTEB.</li>
+        <li>The required credits were obtained in not more than two sittings.</li>
+        <li>Their preferred course is one of the approved ND programmes offered by the College.</li>
+      </ul>
+      <p>Meeting these requirements before applying will help ensure a smoother admission process.</p>`,
+    tags: [
+      "Al-Ma'arif",
+      "ND Admission",
+      "Health Sciences",
+      "2026/2027",
+      "Potiskum",
+      "Education",
+      "Nigeria",
+    ],
+  },
+  {
     id: "ppafan-scholarship-programme-2026-fct-undergraduates",
     title: "PPAfan Scholarship Programme 2026 Opens for FCT Undergraduate Students",
     category: "Scholarship",

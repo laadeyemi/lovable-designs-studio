@@ -10,6 +10,438 @@ export type Post = {
 
 const allPosts: Post[] = [
   {
+    id: "fuoye-post-utme-direct-entry-screening-2026-2027",
+    title: "FUOYE Opens 2026/2027 Post UTME and Direct Entry Screening Registration",
+    category: "Education",
+    date: "2026-06-07",
+    excerpt: "Federal University Oye-Ekiti (FUOYE) has commenced its online Post UTME and Direct Entry screening exercise for the 2026/2027 academic session. Registration closes July 3, 2026.",
+    content: `
+      <p>The Federal University Oye-Ekiti (FUOYE) has commenced its online Post UTME and Direct Entry screening exercise for the 2026/2027 academic session.</p>
+      <p>All candidates who applied to FUOYE through the 2026 Unified Tertiary Matriculation Examination (UTME) are required to visit the screening portal and complete the online screening process before the deadline.</p>
+      <p>The registration portal will close on <strong>Friday, 3 July 2026</strong>.</p>
+
+      <h3>Who Is Eligible for FUOYE Screening?</h3>
+      <p>Candidates are eligible to participate in the screening exercise if they:</p>
+      <ul>
+        <li>Chose Federal University Oye-Ekiti as their preferred institution during the 2026 UTME.</li>
+        <li>Scored a minimum of <strong>150</strong> in the 2026 UTME.</li>
+        <li>Meet the specific cut-off mark for their chosen course.</li>
+        <li>Possess the required O'Level qualifications.</li>
+      </ul>
+      <p>Applicants are advised to check the FUOYE departmental cut-off marks to confirm eligibility for their selected programme. Candidates must also print their UTME Result Slip, which forms part of the admission requirements.</p>
+
+      <h3>O'Level Requirements</h3>
+      <p>Applicants must possess at least five O'Level credit passes, including English Language and Mathematics. The credits must be relevant to the chosen course of study and obtained in not more than two sittings.</p>
+
+      <h4>Special Requirement for MBBS</h4>
+      <p>Candidates applying for Medicine and Surgery (MBBS) must obtain all required O'Level credits in <strong>one sitting only</strong>.</p>
+      <p>Applicants should carefully review the subject requirements for their intended course on the screening portal.</p>
+
+      <h3>Direct Entry Requirements</h3>
+      <p>Direct Entry candidates must satisfy both the O'Level requirements and possess an approved higher qualification relevant to their course of study.</p>
+      <p>Acceptable qualifications include:</p>
+      <ul>
+        <li>At least two A'Level credit passes in relevant subjects</li>
+        <li>National Diploma (ND) with Upper Credit</li>
+        <li>Nigeria Certificate in Education (NCE) with Credit Pass</li>
+        <li>Higher National Diploma (HND) with at least Lower Credit</li>
+        <li>A good first degree in another discipline</li>
+      </ul>
+      <p>Direct Entry applicants must upload their Statement of Result or Notification of Result during registration.</p>
+
+      <h3>FUOYE Screening Fee</h3>
+      <p>The screening fee is <strong>₦2,000 only</strong>.</p>
+      <p>Payment must be made online through the FUOYE Screening Portal using a valid debit card. Applicants should ensure that all details supplied during payment are correct, as screening records will be linked to the information provided.</p>
+
+      <h3>How to Register for FUOYE Post UTME Screening</h3>
+      <p>Follow these steps to complete your registration:</p>
+      <ol>
+        <li>Visit the <a href="https://putme.fuoye.edu.ng/utme/">FUOYE Post UTME Screening Portal</a>.</li>
+        <li>Locate the Admission Menu on the right-hand side.</li>
+        <li>Click <strong>"Registration Steps"</strong> and read all instructions carefully.</li>
+        <li>Log in using your JAMB Registration Number.</li>
+        <li>Complete your profile on the portal.</li>
+        <li>Provide a valid email address and phone number.</li>
+        <li>Check your email for the activation link.</li>
+        <li>Click the activation link to verify your account.</li>
+        <li>Log in again after verification.</li>
+        <li>Proceed to payment and complete the screening fee payment.</li>
+        <li>Upload your O'Level result(s).</li>
+        <li>Direct Entry candidates should upload their Statement or Notification of Result.</li>
+        <li>Submit the application.</li>
+        <li>Print the Registration Slip and Screening Report.</li>
+      </ol>
+      <p>Note that candidates will log in using their JAMB Registration Number only.</p>
+
+      <h3>Required Information and Documents</h3>
+      <p>Applicants should ensure the following are available before registration:</p>
+      <ul>
+        <li>JAMB Registration Number</li>
+        <li>Valid email address</li>
+        <li>Active phone number</li>
+        <li>O'Level result(s)</li>
+        <li>UTME Result Slip</li>
+        <li>Direct Entry qualification documents (where applicable)</li>
+      </ul>
+
+      <h3>What Should Candidates Print?</h3>
+      <p>After successful registration, candidates should print the <strong>Screening Report</strong> and <strong>Registration Slip</strong> containing the summary of registration. These documents should be kept safely for future reference.</p>
+
+      <h3>Important Warning</h3>
+      <p>FUOYE has warned that failure to follow the registration instructions may result in disqualification. Candidates should carefully verify names, personal details, O'Level grades, and uploaded documents. Incorrect information may negatively affect admission processing.</p>
+
+      <h3>Support and Enquiries</h3>
+      <p>Candidates experiencing difficulties during registration can contact the university through <strong>Email:</strong> <a href="mailto:support@fuoye.edu.ng">support@fuoye.edu.ng</a>.</p>
+      <p>When sending an email, applicants should clearly explain the issue and include their correct registration details for easy identification.</p>
+
+      <h3>Registration Deadline</h3>
+      <p>The deadline for FUOYE Post UTME and Direct Entry screening registration is <strong>Friday, 3 July 2026</strong>. Interested candidates are advised to complete payment, upload required documents, and print their registration records before the closing date.</p>
+    `,
+    tags: [
+      "FUOYE",
+      "Post UTME",
+      "Direct Entry",
+      "Admission",
+      "2026/2027",
+      "Education",
+      "Nigeria",
+    ],
+  },
+  {
+    id: "uniuyo-post-utme-direct-entry-screening-2026-2027",
+    title: "University of Uyo (UNIUYO) Releases 2026/2027 Post UTME and Direct Entry Screening Details",
+    category: "Education",
+    date: "2026-06-07",
+    excerpt: "The University of Uyo (UNIUYO) has announced the commencement of its Post UTME and Direct Entry screening exercise for the 2026/2027 academic session.",
+    content: `
+      <p>The University of Uyo (UNIUYO) has announced the commencement of its Post UTME and Direct Entry screening exercise for the 2026/2027 academic session. Qualified candidates who selected the institution as their first choice in JAMB are invited to apply.</p>
+      <p>The screening exercise is a mandatory step for admission consideration into undergraduate programmes offered by the University.</p>
+
+      <h3>Who is Eligible to Apply?</h3>
+      <h4>UTME Candidates</h4>
+      <p>Candidates are eligible if they:</p>
+      <ul>
+        <li>Chose the University of Uyo as first choice in the 2026/2027 UTME</li>
+        <li>Scored <strong>150 and above</strong> in the UTME</li>
+        <li>Are at least <strong>16 years old by 30 September 2026</strong></li>
+        <li>Complete online registration before the deadline</li>
+      </ul>
+      <p>The age requirement applies to all applicants without exception.</p>
+
+      <h4>Direct Entry Candidates</h4>
+      <p>Direct Entry applicants are also invited if they:</p>
+      <ul>
+        <li>Selected UNIUYO as first choice during JAMB Direct Entry registration</li>
+        <li>Possess relevant higher academic qualifications</li>
+        <li>Upload clear copies of their academic credentials during registration</li>
+      </ul>
+
+      <h3>Application Fee</h3>
+      <p>The screening fee is <strong>₦2,000.00</strong>, which is non-refundable.</p>
+      <p>Payment must be made through the university portal using the Remita platform after generating a Remita Retrieval Reference (RRR).</p>
+
+      <h3>How to Apply for UNIUYO Screening</h3>
+      <p>Candidates are required to complete their application online through the university admissions portal.</p>
+      
+      <h4>Step 1: Create an Account</h4>
+      <ul>
+        <li>Visit the <a href="https://admissions.uniuyo.edu.ng/">UNIUYO admissions portal</a></li>
+        <li>Click “Apply Now”</li>
+        <li>Select “Create Account”</li>
+        <li>Fill in required details</li>
+        <li>Verify email to activate account</li>
+      </ul>
+
+      <h4>Step 2: Make Payment</h4>
+      <ul>
+        <li>Log in to the portal</li>
+        <li>Select “Application Fee”</li>
+        <li>Choose Post UTME or Direct Entry</li>
+        <li>Generate RRR</li>
+        <li>Pay via bank or online transfer</li>
+      </ul>
+
+      <h4>Step 3: Complete Application Form</h4>
+      <ul>
+        <li>Click “Start New Application”</li>
+        <li>Fill in biodata and academic details</li>
+        <li>Ensure all information is accurate</li>
+        <li>Submit application</li>
+      </ul>
+
+      <h4>Step 4: Print Acknowledgement Slip</h4>
+      <p>After submission, candidates must print the 2026/2027 screening slip as proof of registration.</p>
+
+      <h3>Required Documents and Instructions</h3>
+      <p>Applicants must ensure that:</p>
+      <ul>
+        <li>Biodata is correctly filled and submitted only once</li>
+        <li>O’Level results are uploaded to JAMB CAPS by <strong>31 August 2026</strong></li>
+        <li>Direct Entry candidates upload valid academic certificates</li>
+        <li>All details match JAMB records to avoid disqualification</li>
+      </ul>
+      <p>Candidates should also refresh their CAPS profile after uploading results to confirm successful submission.</p>
+
+      <h3>Awaiting Result Candidates</h3>
+      <p>Candidates with Awaiting Result status are allowed to apply. However, they must upload their final results to JAMB CAPS before the deadline.</p>
+
+      <h3>Who is Exempted from Screening?</h3>
+      <p>The following categories are exempted from the Post UTME screening exercise:</p>
+      <ul>
+        <li>Foreign candidates</li>
+        <li>Inmates of correctional centres</li>
+        <li>Blind candidates</li>
+        <li>Deaf candidates</li>
+      </ul>
+      <p>These candidates will be processed under special consideration where applicable.</p>
+
+      <h3>Deadline for Application</h3>
+      <p>The closing date for registration is: <strong>Friday, 7 August 2026</strong></p>
+      <p>Late registration will not be entertained.</p>
+
+      <h3>Important Warning</h3>
+      <p>Candidates are advised to provide accurate information during registration. Any inconsistency in biodata or academic records may lead to automatic disqualification.</p>
+
+      <h3>Conclusion</h3>
+      <p>UNIUYO’s Post UTME and Direct Entry screening remains a key requirement for admission into the 2026/2027 academic session. Applicants are encouraged to complete their registration early, ensure correct data entry, and comply with all JAMB CAPS requirements before the deadline.</p>
+    `,
+    tags: [
+      "UNIUYO",
+      "Post UTME",
+      "Direct Entry",
+      "Admission",
+      "2026/2027",
+    ],
+  },
+  {
+    id: "maranatha-university-admission-form-2026-2027",
+    title: "Maranatha University Admission Form for 2026/2027 Academic Session Now Available",
+    category: "Education",
+    date: "2026-06-07",
+    excerpt: "Maranatha University, Lagos, has commenced undergraduate admissions for the 2026/2027 academic session. Applications are now open to qualified candidates seeking admission into full-time and part-time programmes.",
+    content: `
+      <p>Maranatha University, Lagos, has commenced undergraduate admissions for the 2026/2027 academic session. Applications are now open to qualified candidates seeking admission into the university's full-time and part-time undergraduate programmes.</p>
+      <p>The admission exercise covers UTME candidates, Direct Entry applicants, transfer students, and pre-degree scholars. Prospective students are advised to review the admission requirements carefully before beginning the application process.</p>
+
+      <h3>Who Can Apply?</h3>
+      <p>Maranatha University welcomes applications from:</p>
+      <ul>
+        <li>UTME candidates seeking 100 Level admission</li>
+        <li>Direct Entry candidates seeking 200 Level admission</li>
+        <li>Transfer students from other institutions</li>
+        <li>Pre-degree scholars</li>
+      </ul>
+      <p>All admissions into the university are processed through the Joint Admissions and Matriculation Board (JAMB). Qualified candidates will be invited for a screening interview conducted by the university.</p>
+
+      <h3>Available Undergraduate Programmes</h3>
+      <p>The university offers degree programmes across management sciences, natural sciences, computing, environmental studies, architecture, and engineering.</p>
+
+      <h4>Management and Social Sciences</h4>
+      <ul>
+        <li>B.Sc Accounting</li>
+        <li>B.Sc Business Administration</li>
+        <li>B.Sc Economics</li>
+        <li>B.Sc Criminology and Security Studies</li>
+      </ul>
+
+      <h4>Science Programmes</h4>
+      <ul>
+        <li>B.Sc Biochemistry</li>
+        <li>B.Sc Industrial Chemistry</li>
+        <li>B.Sc Mathematics</li>
+        <li>B.Sc Physics and Electronics</li>
+      </ul>
+
+      <h4>Computing and Information Technology</h4>
+      <ul>
+        <li>B.Sc Computer Science</li>
+        <li>B.Sc Software Engineering</li>
+        <li>B.Sc Cyber Security</li>
+        <li>B.Sc Information Technology</li>
+      </ul>
+
+      <h4>Environmental Studies</h4>
+      <ul>
+        <li>B.Sc Geography</li>
+        <li>B.Sc Estate Management</li>
+        <li>B.Sc Quantity Surveying</li>
+        <li>B.Sc Urban and Regional Planning</li>
+      </ul>
+
+      <h4>Architecture</h4>
+      <ul>
+        <li>B. Architecture</li>
+      </ul>
+
+      <h4>Engineering Programmes</h4>
+      <ul>
+        <li>B.Eng Computer Engineering</li>
+        <li>B.Eng Electrical and Electronic Engineering</li>
+        <li>B.Eng Mechanical Engineering</li>
+      </ul>
+
+      <h3>General Admission Requirements</h3>
+      <ul>
+        <li>Admission must be processed through JAMB.</li>
+        <li>Credit passes in English Language and Mathematics are compulsory.</li>
+        <li>Candidates must meet departmental and faculty-specific admission requirements.</li>
+        <li>Successful applicants will be invited for a screening interview.</li>
+      </ul>
+
+      <h3>Requirements for UTME Candidates (100 Level)</h3>
+      <ul>
+        <li>Sit for the 2026 UTME and score a minimum of 150.</li>
+        <li>Possess at least five relevant O'Level credit passes at not more than two sittings, including English Language and Mathematics.</li>
+      </ul>
+
+      <h3>Requirements for Direct Entry Candidates (200 Level)</h3>
+      <ul>
+        <li>Possess five O'Level credits including English Language and Mathematics.</li>
+        <li>Hold at least two A'Level passes or an equivalent qualification (ND with credit, a good first degree in another discipline, etc.).</li>
+      </ul>
+
+      <h3>How to Apply</h3>
+      <ol>
+        <li>Upload O'Level results to the JAMB Central Admissions Processing System (CAPS).</li>
+        <li>Visit the <a href="https://maranathauniversitylagos.edu.ng/apply/">Maranatha University admission portal</a>.</li>
+        <li>Download and complete the application form.</li>
+        <li>Pay the required application processing fee.</li>
+        <li>Scan the completed application form and payment receipt and send to <strong><a href="mailto:deputyregistrar@maranathauniversitylagos.edu.ng">deputyregistrar@maranathauniversitylagos.edu.ng</a></strong>.</li>
+      </ol>
+
+      <h3>Application Fees</h3>
+      <table class="w-full border-collapse border border-gray-300 my-4 text-sm">
+        <thead>
+          <tr class="bg-gray-100 text-left">
+            <th class="border border-gray-300 p-2">Category</th>
+            <th class="border border-gray-300 p-2">Bank</th>
+            <th class="border border-gray-300 p-2">Account Name</th>
+            <th class="border border-gray-300 p-2">Account Number</th>
+            <th class="border border-gray-300 p-2">Fee</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td class="border border-gray-300 p-2">FBMS Applicants</td><td class="border border-gray-300 p-2">Keystone Bank</td><td class="border border-gray-300 p-2">Maranatha University</td><td class="border border-gray-300 p-2">1014158248</td><td class="border border-gray-300 p-2">₦20,000</td></tr>
+          <tr><td class="border border-gray-300 p-2">Other Programmes</td><td class="border border-gray-300 p-2">Stanbic IBTC Bank</td><td class="border border-gray-300 p-2">Maranatha University</td><td class="border border-gray-300 p-2">0013877350</td><td class="border border-gray-300 p-2">₦10,000</td></tr>
+        </tbody>
+      </table>
+
+      <h3>Key Admission Summary</h3>
+      <table class="w-full border-collapse border border-gray-300 my-4 text-sm">
+        <tbody>
+          <tr><td class="border border-gray-300 p-2 font-bold">UTME Minimum Score</td><td class="border border-gray-300 p-2">150</td></tr>
+          <tr><td class="border border-gray-300 p-2 font-bold">O'Level Requirement</td><td class="border border-gray-300 p-2">Five credits (inc. English and Math)</td></tr>
+          <tr><td class="border border-gray-300 p-2 font-bold">Screening</td><td class="border border-gray-300 p-2">Interview-based</td></tr>
+          <tr><td class="border border-gray-300 p-2 font-bold">Support Phone</td><td class="border border-gray-300 p-2">07032323034</td></tr>
+        </tbody>
+      </table>
+
+      <p>Interested candidates are encouraged to complete their applications early to avoid delays in processing.</p>
+    `,
+    tags: [
+      "Maranatha University",
+      "Lagos",
+      "Admission",
+      "2026/2027",
+      "UTME",
+      "Direct Entry",
+      "Education",
+      "Nigeria",
+    ],
+  },
+  {
+    id: "ikirun-college-of-health-technology-nd-admission-2026-2027",
+    title: "Ikirun College of Health Technology Opens ND Admission for 2026/2027 Academic Session",
+    category: "Education",
+    date: "2026-06-07",
+    excerpt: "Ikirun College of Health Technology has announced the commencement of admission into its National Diploma (ND) health technology programmes for the 2026/2027 academic session.",
+    content: `
+      <p>Ikirun College of Health Technology has announced the commencement of admission into its National Diploma (ND) health technology programmes for the 2026/2027 academic session. Applications are invited from suitably qualified candidates who meet the stated UTME, O’Level, and age requirements.</p>
+      <p>The institution is privately owned and licensed by the National Board for Technical Education (NBTE), with accreditation from the Community Health Practitioners Registration Board of Nigeria and other relevant regulatory bodies.</p>
+      <p>Applicants are expected to complete their registration via the college admission portal or by visiting the Admission Office physically.</p>
+
+      <h3>Who Can Apply?</h3>
+      <p>Candidates are eligible to apply if they:</p>
+      <ul>
+        <li>Chose Ikirun College of Health Technology as first choice on JAMB CAPS and scored <strong>100 and above</strong> in the 2026 UTME</li>
+        <li>OR are willing to change their institution to the college on JAMB CAPS and meet the required cut-off mark</li>
+        <li>Possess the required O’Level credits and meet the age requirement</li>
+      </ul>
+
+      <h3>Available ND Programmes</h3>
+      <p>The college offers four National Diploma programmes for the 2026/2027 academic session:</p>
+      <ul>
+        <li>ND Community Health Technology</li>
+        <li>ND Public Health Technology</li>
+        <li>ND Health Education and Promotion</li>
+        <li>ND Health Information Management</li>
+      </ul>
+      <p>Candidates are advised to select a programme that aligns with their UTME subject combination and O’Level qualifications.</p>
+
+      <h3>Admission Requirements</h3>
+      <p>Applicants must possess at least five (5) credit passes in WAEC, NECO, or NABTEB, obtained in not more than two sittings.</p>
+      <p>Required subjects include:</p>
+      <ul>
+        <li>English Language</li>
+        <li>Mathematics</li>
+        <li>Biology or Health Science</li>
+        <li>Chemistry</li>
+        <li>Physics</li>
+      </ul>
+      <p>In addition, candidates must have sat for the 2026 UTME and scored at least 100.</p>
+
+      <h3>Age Requirement</h3>
+      <p>All applicants must be <strong>at least 16 years old</strong> at the time of admission. Candidates who do not meet this requirement are advised not to proceed with application.</p>
+
+      <h3>Application Fee</h3>
+      <p>The application fee is <strong>₦10,000</strong> (excluding portal charges). The fee is non-refundable, and applicants are advised to confirm eligibility before making payment.</p>
+
+      <h3>How to Apply</h3>
+      <p>Applicants should follow the steps below:</p>
+      <ol>
+        <li>Visit the <a href="https://ikirunhealthtech.edu.ng/application/register">Ikirun College of Health Technology admission portal</a> or the Admission Office</li>
+        <li>Complete the online application form</li>
+        <li>Enter correct personal and academic details</li>
+        <li>Upload required credentials</li>
+        <li>Pay the ₦10,000 application fee (excluding portal charges)</li>
+        <li>Submit the completed application form</li>
+        <li>Monitor the admission portal and JAMB CAPS for updates</li>
+        <li>Accept admission on JAMB CAPS when offered</li>
+      </ol>
+      <p>Candidates who did not initially choose the college must complete a change of institution on JAMB CAPS before processing admission.</p>
+
+      <h3>Admission Notification</h3>
+      <p>Successful candidates will receive admission notifications through both the college portal and JAMB CAPS. Applicants are strongly advised to monitor both platforms regularly.</p>
+      <p>To secure admission, candidates must accept their offer on JAMB CAPS once it is released.</p>
+
+      <h3>Important Notes for Applicants</h3>
+      <p>Before submitting the application, candidates should ensure that:</p>
+      <ul>
+        <li>UTME score is 100 or above</li>
+        <li>Candidate is at least 16 years old</li>
+        <li>Five O’Level credits are available</li>
+        <li>Required science subjects are included</li>
+        <li>O’Level results are from WAEC, NECO, or NABTEB</li>
+        <li>Results are from not more than two sittings</li>
+        <li>Institution has been selected on JAMB CAPS (or change has been completed)</li>
+        <li>Application fee has been paid</li>
+        <li>Admission offer will be accepted promptly on JAMB CAPS</li>
+      </ul>
+
+      <h3>Regulatory Status</h3>
+      <p>Ikirun College of Health Technology is approved and regulated by relevant national bodies, including NBTE and the Community Health Practitioners Registration Board of Nigeria. The college emphasizes practical, community-oriented health training.</p>
+      <p>Applicants are encouraged to use only the official admission portal or Admission Office channels for all application procedures.</p>
+    `,
+    tags: [
+      "Ikirun College",
+      "Health Technology",
+      "ND Admission",
+      "2026/2027",
+      "Education",
+      "Nigeria",
+    ],
+  },
+  {
     id: "university-of-offa-scholarship-applications-2026-2027",
     title: "University of Offa Opens Full and Partial Scholarship Applications for 2026/2027 Session",
     category: "Scholarship",

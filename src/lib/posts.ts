@@ -10,6 +10,265 @@ export type Post = {
 
 const allPosts: Post[] = [
   {
+    id: "unilag-post-utme-form-2026-2027",
+    title: "UNILAG Post UTME Form for 2026/2027 Admission Now Open: Eligibility, Registration Dates and Screening Details",
+    category: "Education",
+    date: "2026-06-10",
+    excerpt: "The University of Lagos (UNILAG) has announced the commencement of online registration for its 2026/2027 Post-UTME Screening Exercise for admission into all undergraduate programmes.",
+    content: `
+      <h2>UNILAG Post UTME Form for 2026/2027 Admission Now Open: Eligibility, Registration Dates and Screening Details</h2>
+      <p>The University of Lagos (UNILAG) has announced the commencement of online registration for its 2026/2027 Post-UTME Screening Exercise for admission into all undergraduate programmes.</p>
+      <p>Registration will open on <strong>Monday, 15 June 2026</strong> and close on <strong>Wednesday, 8 July 2026</strong>. Candidates who selected UNILAG as their first-choice institution in the 2026 UTME and meet the admission requirements can now proceed with the screening application.</p>
+
+      <h2>UNILAG Post UTME Eligibility Requirements</h2>
+      <p>To qualify for the 2026/2027 UNILAG Post-UTME Online Screening Exercise, candidates must:</p>
+      <ul>
+        <li>Choose the University of Lagos as their first-choice institution in the 2026 UTME.</li>
+        <li>Score a minimum of 200 in the UTME.</li>
+        <li>Possess at least five credit passes in relevant O'Level subjects at one sitting.</li>
+        <li>Have credit passes in both English Language and Mathematics.</li>
+        <li>Be at least 16 years old by 30 September 2026.</li>
+      </ul>
+      <p>The university stated that candidates who do not meet these requirements should not apply.</p>
+
+      <h2>Minimum UTME Score for UNILAG Post UTME</h2>
+      <p>The minimum UTME score required for participation in the 2026/2027 UNILAG Post-UTME Screening Exercise is <strong>200</strong>.</p>
+      <p>Candidates who scored below 200 are not eligible for the screening, regardless of their O'Level performance.</p>
+
+      <h2>O'Level Requirements for UNILAG Admission Screening</h2>
+      <p>Applicants must have five relevant O'Level credit passes obtained at one sitting, including English Language and Mathematics.</p>
+      <p>Candidates are also required to upload their O'Level results on both:</p>
+      <ul>
+        <li>JAMB CAPS</li>
+        <li>UNILAG Application Portal</li>
+      </ul>
+      <p>The deadline for uploading results is <strong>Friday, 14 August 2026</strong>. Failure to upload the results on both platforms may affect admission consideration.</p>
+
+      <h2>Age Requirement for Admission</h2>
+      <p>UNILAG requires all candidates seeking admission for the 2026/2027 academic session to be at least <strong>16 years old by 30 September 2026</strong>.</p>
+      <p>Candidates who do not meet this age requirement are not eligible for the screening exercise.</p>
+
+      <h2>UNILAG Post UTME Registration Dates</h2>
+      <p>Online registration for the screening exercise will run from:</p>
+      <p><strong>Monday, 15 June 2026 to Wednesday, 8 July 2026</strong></p>
+      <p>Candidates are advised to complete their registration before the closing date to avoid last-minute issues.</p>
+
+      <h2>UNILAG Post UTME Screening Fee</h2>
+      <p>The university has fixed the following charges for the screening exercise:</p>
+      <ul>
+        <li>Screening Fee: ₦2,000</li>
+        <li>Application Fee: ₦3,500</li>
+      </ul>
+      <p>Applicants are required to generate a payment advice through the university portal before making payment. After payment, candidates should return to the portal to complete their screening registration.</p>
+
+      <h2>How to Apply for UNILAG Post UTME 2026/2027</h2>
+      <p>Eligible candidates should follow these steps to complete their application:</p>
+      <ol>
+        <li>Visit the <a href="https://applications.unilag.edu.ng/home">University of Lagos application portal</a>.</li>
+        <li>Click <strong>"Start New Application."</strong></li>
+        <li>Select <strong>"Undergraduate"</strong> under Application Type.</li>
+        <li>Log in using your UTME Registration Number as the username.</li>
+        <li>Use your surname written in lowercase letters as the password.</li>
+        <li>Generate and print the payment advice.</li>
+        <li>Make payment online or at any commercial bank.</li>
+        <li>Return to the portal and complete the screening application form.</li>
+        <li>Print the Post-UTME Examination Pass.</li>
+      </ol>
+      <p>Candidates are advised to use a personal and active email address throughout the registration process, as all official communication will be sent through email.</p>
+
+      <h2>UNILAG Mock Examination Schedule</h2>
+      <p>The university has scheduled mock examinations to hold from:</p>
+      <p><strong>Monday, 22 June 2026 to Sunday, 26 July 2026</strong></p>
+      <p>Candidates are encouraged to participate in the mock exercise as part of their preparation for the online aptitude test.</p>
+
+      <h2>UNILAG Post UTME Online Aptitude Test Date</h2>
+      <p>The online Post-UTME Aptitude Test will take place from:</p>
+      <p><strong>Monday, 27 July 2026 to Friday, 31 July 2026</strong></p>
+      <p>UNILAG has emphasized that candidates who fail to participate in the aptitude test will not be considered for admission.</p>
+
+      <h2>Re-admission Opportunity for Former UNILAG Students</h2>
+      <p>Former students whose admissions were withdrawn due to poor academic performance or absence status may apply again for admission.</p>
+      <p>However, such candidates must apply for a programme different from the one they previously studied.</p>
+
+      <h2>Fresh Admission for Expelled Students</h2>
+      <p>The university has stated that students who were previously expelled from UNILAG are not eligible for fresh admission under any circumstance.</p>
+
+      <h2>UNILAG's Policy on Drug Abuse</h2>
+      <p>The University of Lagos maintains a strict zero-tolerance policy on drug abuse.</p>
+      <p>The institution warned that any admitted student who tests positive for drug use during screening or after registration may have their admission withdrawn.</p>
+
+      <h2>Important Checklist Before Registration</h2>
+      <p>Candidates should ensure they meet the following conditions before starting their application:</p>
+      <ul>
+        <li>UNILAG is selected as first choice.</li>
+        <li>UTME score is at least 200.</li>
+        <li>Five relevant O'Level credits are available at one sitting.</li>
+        <li>English Language and Mathematics are included among the credits.</li>
+        <li>Candidate will be 16 years old by 30 September 2026.</li>
+        <li>O'Level results will be uploaded on JAMB CAPS and the UNILAG portal before 14 August 2026.</li>
+        <li>A valid and active personal email address is available.</li>
+      </ul>
+
+      <h2>UNILAG Post UTME Enquiries and Contact Details</h2>
+      <p>Candidates seeking clarification or assistance regarding the screening exercise can contact the university through the following channels:</p>
+      <p><strong>Email:</strong> <a href="mailto:postutme@unilag.edu.ng">postutme@unilag.edu.ng</a></p>
+      <p><strong>Phone Numbers:</strong></p>
+      <ul>
+        <li>09053006772</li>
+        <li>08141656802</li>
+      </ul>
+    `,
+    tags: [
+      "UNILAG",
+      "Post UTME",
+      "Admission",
+      "2026/2027",
+      "Education",
+      "Nigeria",
+    ],
+  },
+  {
+    id: "absu-post-utme-direct-entry-screening-2026-2027",
+    title: "ABSU Post UTME & Direct Entry Screening Form 2026/2027: Eligibility, Fee and Registration Guide",
+    category: "Education",
+    date: "2026-06-10",
+    excerpt: "Abia State University (ABSU), Uturu, has commenced its online screening exercise for candidates seeking admission into its regular undergraduate degree programmes for the 2026/2027 academic session.",
+    content: `
+      <h2>ABSU Post UTME & Direct Entry Screening Form 2026/2027: Eligibility, Fee and Registration Guide</h2>
+      <p>Abia State University (ABSU), Uturu, has commenced its online screening exercise for candidates seeking admission into its regular undergraduate degree programmes for the 2026/2027 academic session.</p>
+      <p>The screening exercise is open to UTME candidates, Direct Entry applicants, and candidates who wish to change their institution of choice to ABSU, provided they meet the University's admission requirements.</p>
+
+      <h2>Who Can Apply for ABSU Screening?</h2>
+      <p>The ABSU online screening exercise is open to:</p>
+      <ul>
+        <li>Candidates who selected Abia State University as their first choice institution.</li>
+        <li>Candidates who selected Abia State University as their second choice institution.</li>
+        <li>Candidates who did not initially choose ABSU but are willing to change to the University.</li>
+        <li>Candidates who scored 150 and above in the 2026 UTME.</li>
+        <li>Candidates who possess the required O'Level qualifications.</li>
+        <li>All Direct Entry candidates.</li>
+      </ul>
+      <p>Applicants who did not choose ABSU during UTME registration must first change their institution to Abia State University through JAMB before admission can be processed.</p>
+
+      <h2>How Will ABSU Conduct the Screening?</h2>
+      <p>The screening exercise will be conducted entirely online.</p>
+      <p>Candidates are required to upload their academic records and admission credentials through both the ABSU Portal and the JAMB portal.</p>
+      <p>The screening process will be based on the documents submitted online. Applicants should therefore ensure that all uploaded records are accurate, complete and consistent across both platforms.</p>
+
+      <h2>ABSU Post UTME Eligibility Requirements</h2>
+      <h3>For UTME Candidates</h3>
+      <p>To qualify for the screening exercise, candidates must:</p>
+      <ul>
+        <li>Score at least 150 in the 2026 Unified Tertiary Matriculation Examination (UTME).</li>
+        <li>Possess a minimum of five relevant O'Level credit passes.</li>
+        <li>Meet the specific subject requirements for their chosen course.</li>
+      </ul>
+      <p>Candidates who did not initially select ABSU may still apply after changing their institution to Abia State University.</p>
+
+      <h3>For Direct Entry Candidates</h3>
+      <p>All Direct Entry applicants are eligible for the screening exercise.</p>
+      <p>Candidates are expected to upload relevant academic qualifications and certificates required for their chosen programme.</p>
+
+      <h2>Documents Required for ABSU Screening</h2>
+      <p>Applicants should upload the following documents where applicable:</p>
+      <ul>
+        <li>UTME result</li>
+        <li>O'Level result(s)</li>
+        <li>Degree certificate or other relevant qualifications (for Direct Entry candidates)</li>
+      </ul>
+      <p>The documents must be uploaded on:</p>
+      <ul>
+        <li>ABSU Admission Portal</li>
+        <li>JAMB Portal</li>
+      </ul>
+      <p>Candidates should verify that all uploaded records are clear and correct before submission.</p>
+
+      <h2>How to Apply for ABSU Post UTME Screening</h2>
+      <p>Eligible candidates should complete their registration online through the official ABSU website.</p>
+
+      <h3>Registration Steps</h3>
+      <ol>
+        <li>Visit the <a href="https://www.portal.abiastateuniversity.edu.ng/">ABSU admission portal</a>.</li>
+        <li>Generate a payment invoice.</li>
+        <li>Pay the screening fee of ₦2,000.</li>
+        <li>Complete the online registration form.</li>
+        <li>Upload all required documents.</li>
+        <li>Submit the application successfully.</li>
+      </ol>
+
+      <h2>ABSU Screening Fee</h2>
+      <p>The registration fee for the ABSU Post UTME and Direct Entry screening exercise is:</p>
+      <p><strong>₦2,000 only</strong></p>
+      <p>Payment can be made through any of the approved channels below:</p>
+      <ul>
+        <li>ABSU Micro-Finance Bank, Uturu</li>
+        <li>Signature Bank</li>
+        <li>First Bank Plc</li>
+        <li>Eco Bank Plc</li>
+        <li>Zenith Bank Plc</li>
+        <li>Fidelity Bank Plc</li>
+        <li>Union Bank Plc</li>
+        <li>UBA Plc</li>
+        <li>Bank debit cards</li>
+      </ul>
+      <p>Candidates should keep evidence of payment after completing the transaction.</p>
+
+      <h2>What Happens If You Do Not Register?</h2>
+      <p>Abia State University has stated clearly that any eligible candidate who fails to register for the screening exercise will not be considered for admission.</p>
+      <p>Meeting the UTME cut-off mark alone does not guarantee admission. Completion of the online screening registration is compulsory.</p>
+
+      <h2>Important Information for Applicants</h2>
+      <p>Before submitting the application, candidates should ensure that:</p>
+      <ul>
+        <li>Their UTME score is correctly uploaded.</li>
+        <li>Their O'Level results are available on both ABSU and JAMB portals.</li>
+        <li>Direct Entry qualifications are uploaded where applicable.</li>
+        <li>Personal details match across all admission records.</li>
+        <li>Payment has been successfully completed.</li>
+      </ul>
+      <p>Incorrect or incomplete information may affect admission consideration.</p>
+
+      <h2>ABSU Screening 2026/2027 at a Glance</h2>
+      <table class="w-full border-collapse border border-gray-300 my-4 text-sm">
+        <thead>
+          <tr class="bg-gray-100 text-left">
+            <th class="border border-gray-300 p-2">Item</th>
+            <th class="border border-gray-300 p-2">Details</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr><td class="border border-gray-300 p-2">Institution</td><td class="border border-gray-300 p-2">Abia State University (ABSU)</td></tr>
+          <tr><td class="border border-gray-300 p-2">Academic Session</td><td class="border border-gray-300 p-2">2026/2027</td></tr>
+          <tr><td class="border border-gray-300 p-2">Screening Type</td><td class="border border-gray-300 p-2">Online Post UTME & Direct Entry Screening</td></tr>
+          <tr><td class="border border-gray-300 p-2">UTME Cut-Off Mark</td><td class="border border-gray-300 p-2">150</td></tr>
+          <tr><td class="border border-gray-300 p-2">Screening Fee</td><td class="border border-gray-300 p-2">₦2,000</td></tr>
+          <tr><td class="border border-gray-300 p-2">Eligible Candidates</td><td class="border border-gray-300 p-2">UTME & Direct Entry</td></tr>
+          <tr><td class="border border-gray-300 p-2">First Choice Requirement</td><td class="border border-gray-300 p-2">Preferred, change of institution allowed</td></tr>
+          <tr><td class="border border-gray-300 p-2">Required O'Level Credits</td><td class="border border-gray-300 p-2">Five relevant credits</td></tr>
+          <tr><td class="border border-gray-300 p-2">Screening Method</td><td class="border border-gray-300 p-2">Online document verification</td></tr>
+          <tr><td class="border border-gray-300 p-2">Required Uploads</td><td class="border border-gray-300 p-2">UTME, O'Level and DE qualifications</td></tr>
+          <tr><td class="border border-gray-300 p-2">Registration Status</td><td class="border border-gray-300 p-2">Ongoing</td></tr>
+        </tbody>
+      </table>
+
+      <h2>Contact for Enquiries</h2>
+      <p>Candidates seeking additional information or clarification may contact the University's Registrar through the official email address:</p>
+      <p><strong><a href="mailto:registrar@abiastateuniversity.edu.ng">registrar@abiastateuniversity.edu.ng</a></strong></p>
+
+      <h2>Final Note</h2>
+      <p>Candidates are advised to complete the screening registration as early as possible and ensure that all required documents have been uploaded correctly on both the ABSU and JAMB portals. Failure to register for the screening exercise will automatically disqualify an applicant from admission consideration for the 2026/2027 academic session.</p>
+    `,
+    tags: [
+      "ABSU",
+      "Admission",
+      "Post UTME",
+      "Direct Entry",
+      "2026/2027",
+      "Education",
+      "Nigeria",
+    ],
+  },
+  {
     id: "waec-explains-delay-wassce-2026",
     title: "WAEC Explains Delay in 2026 WASSCE Mathematics and Agricultural Science Papers",
     category: "Education",

@@ -45,9 +45,72 @@ function parseDeadline(deadlineString: string): string | null {
   return null; // Unable to parse, treat as non-expired
 }
 
-const currentDate = '2026-06-05'; // Current date for comparison (June 5, 2026)
+const currentDate = '2026-06-11'; // Current date for comparison (June 11, 2026)
 
 const allJobs: Job[] = [
+  {
+    id: "sales-engineer-lagos-oil-gas-2026",
+    title: "Sales Engineer",
+    date: "2026-06-11",
+    location: "Lagos",
+    type: "Full-Time",
+    company: "Oil & Gas industry company",
+    salary: "₦800,000 Net",
+    deadline: "Not Specified",
+    summary: "We are seeking an experienced Sales Engineer to drive business growth, develop client relationships, and promote technical solutions within the Oil & Gas industry.",
+    responsibilities: [
+      "Identify and pursue new business opportunities",
+      "Develop and maintain relationships with key clients",
+      "Prepare technical and commercial proposals",
+      "Provide technical support and product recommendations to customers",
+      "Achieve sales targets and contribute to business growth"
+    ],
+    requirements: [
+      "Bachelor’s degree in Engineering or a related field",
+      "Minimum of 5 years’ experience in technical sales within the Oil & Gas sector",
+      "Knowledge of TCP, E-Line, or Coiled Tubing (CT) services will be an added advantage",
+      "Strong business development, negotiation, and client relationship management skills",
+      "Proven ability to identify opportunities and close sales deals",
+      "Excellent communication and presentation skills"
+    ],
+    apply: 'Interested and qualified candidates should send their CV to: <a href="mailto:ifeoluwa.recruit1@gmail.com">ifeoluwa.recruit1@gmail.com</a>'
+  },
+  {
+    id: "general-manager-operations-oil-gas-2026",
+    title: "General Manager – Operations",
+    date: "2026-06-11",
+    location: "Not Specified",
+    type: "Full-time",
+    seniority: "Senior",
+    company: "Oil & Gas/Energy sector client (via Avoda Solutions)",
+    salary: "Not Specified",
+    deadline: "Not Specified",
+    summary: "The role provides strategic and operational leadership across Engineering, Projects, Sales, and Business Development, driving efficiency, project delivery, and business growth while ensuring strong safety, quality, and compliance standards.",
+    responsibilities: [
+      "Provide strategic and operational leadership across Engineering, Projects, Sales, and Business Development",
+      "Drive efficiency, project delivery, and business growth",
+      "Ensure strong safety, quality, and compliance standards"
+    ],
+    requirements: [
+      "15+ years’ experience in Oil & Gas/Energy, including 7+ years in senior leadership/operations roles",
+      "Strong track record in managing complex engineering projects and leading multidisciplinary teams"
+    ],
+    apply: 'If you or someone you know fits this profile, kindly send CV to: <a href="mailto:recruit@avodasolutions.com">recruit@avodasolutions.com</a>'
+  },
+  {
+    id: "japaul-gold-ventures-plc-niger-state-2026",
+    title: "Various Positions",
+    date: "2026-06-11",
+    location: "Niger State",
+    type: "Full-time",
+    company: "Japaul Gold & Ventures Plc",
+    salary: "Not Specified",
+    deadline: "2026-06-19",
+    summary: "Japaul Gold & Ventures Plc is hiring for various positions.",
+    responsibilities: ["Responsibilities will vary depending on the role."],
+    requirements: ["Requirements will vary depending on the role."],
+    apply: 'Interested and qualified candidates should send their CV and relevant credentials to: <a href="mailto:careers@japaulgroup.com">careers@japaulgroup.com</a>'
+  },
   {
     id: "indorama-multiple-engineering-roles-2026",
     title: "Multiple Engineering & Professional Roles (Contracts Professional, Electrical Engineer, Tankage Engineer (Lead), Mechanical Inspection Engineer)",

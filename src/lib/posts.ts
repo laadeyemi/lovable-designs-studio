@@ -10,6 +10,297 @@ export type Post = {
 
 const allPosts: Post[] = [
   {
+    id: "eksuth-college-nursing-post-utme-2026-2027",
+    title: "EKSUTH College of Nursing Sciences Post UTME Form 2026/2027: Apply for ND/HND Nursing Admission",
+    category: "Education",
+    date: "2026-06-11",
+    excerpt: "EKSUTH College of Nursing Sciences, Ado-Ekiti, has commenced applications for its National Diploma (ND) and Higher National Diploma (HND) Nursing Programme for the 2026/2027 session.",
+    content: `
+      <h2>EKSUTH College of Nursing Sciences Post UTME Form 2026/2027</h2>
+      <p>The Ekiti State University Teaching Hospital (EKSUTH) College of Nursing Sciences, Ado-Ekiti, has commenced applications for admission into its National Diploma (ND) and Higher National Diploma (HND) Nursing Programme for the 2026/2027 academic session.</p>
+      <p>Suitably qualified candidates are invited to participate in the computer-based screening exercise for admission into the four-year nursing programme.</p>
+      <p>Applicants are advised to carefully review the admission requirements and application procedures before starting their registration.</p>
+
+      <h2>EKSUTH College of Nursing Admission Requirements</h2>
+      <p>Candidates seeking admission into the ND/HND Nursing Programme must meet the following requirements:</p>
+      <ul>
+        <li>Score at least 180 in the 2026 UTME.</li>
+        <li>Choose the College of Nursing Sciences (CONS), EKSUTH as their First Choice institution.</li>
+        <li>Possess WAEC, NECO, GCE, SSCE, or NABTEB O'Level results.</li>
+        <li>Obtain credit passes in English Language, Mathematics, Biology, Physics, and Chemistry.</li>
+        <li>Present O'Level results obtained in not more than two sittings.</li>
+      </ul>
+      <p>Applicants are advised to ensure that their UTME subject combination and O'Level results meet the programme requirements before applying.</p>
+
+      <h2>Duration of the ND/HND Nursing Programme</h2>
+      <p>The ND/HND Nursing Programme at EKSUTH College of Nursing Sciences runs for <strong>four years</strong>.</p>
+      <p>According to the admission notice, the programme is designed as a four-year uninterrupted course of study leading to the award of National Diploma and Higher National Diploma qualifications in Nursing.</p>
+
+      <h2>EKSUTH Nursing Application Fee</h2>
+      <p>The application fee for the 2026/2027 admission exercise is <strong>₦15,500</strong>.</p>
+      <p>All payments must be made through the official College portal. Payments made outside the approved platform will not be accepted.</p>
+
+      <h2>Official Application Portal</h2>
+      <p>All applicants are required to complete their admission registration through the EKSUTH College of Nursing Sciences eCampus portal. Candidates who have already started an application can return to the same portal to continue and complete their registration.</p>
+
+      <h2>How to Apply for EKSUTH College of Nursing Post UTME</h2>
+      <p>Eligible candidates should follow the steps below to complete their application:</p>
+      <ol>
+        <li>Visit the <a href="https://ecampus.eksuthcons.edu.ng/">EKSUTH College of Nursing Sciences eCampus portal</a>.</li>
+        <li>Click on <strong>"Click Here to Apply."</strong></li>
+        <li>Create an application profile.</li>
+        <li>Fill in the required personal and academic information.</li>
+        <li>Copy and save the generated application number.</li>
+        <li>Log in using the application number.</li>
+        <li>Use your surname as the password.</li>
+        <li>Proceed to payment through the available payment options.</li>
+        <li>Upload all required documents.</li>
+        <li>Complete the application process.</li>
+        <li>Print the registration slip for future reference.</li>
+      </ol>
+
+      <h2>Information Required During Registration</h2>
+      <p>During profile creation, applicants will be required to provide the following information:</p>
+      <ul>
+        <li>Valid phone number and Active email address</li>
+        <li>Nationality, Religion, and Date of birth</li>
+        <li>Passport photograph with red background (where required)</li>
+        <li>O'Level examination results (maximum of two sittings)</li>
+        <li>WAEC or NECO scratch card details corresponding to the uploaded results</li>
+      </ul>
+
+      <h2>Application Number and Confirmation Message</h2>
+      <p>Upon successful profile creation, the system will generate an application number. Applicants should save this number carefully, as it will be required throughout the admission process. A confirmation message containing the application details will also be sent to the email address provided during registration.</p>
+
+      <h2>Payment Procedure</h2>
+      <p>After logging into the portal, applicants must complete payment before proceeding with document uploads and final submission. The payment process includes:</p>
+      <ol>
+        <li>Selecting a preferred payment platform.</li>
+        <li>Reviewing payment details on the confirmation page.</li>
+        <li>Clicking <strong>"Make Payment."</strong></li>
+        <li>Paying through any available method (Debit card, Credit card, Internet banking, etc.).</li>
+        <li>Returning to the application portal after successful payment.</li>
+        <li>Uploading all required documents and completing the registration.</li>
+      </ol>
+
+      <h2>ATM Card Details Required for Online Payment</h2>
+      <p>Candidates making payments with an ATM card may be required to provide the card type, number, expiry date, CVV2 security code, and Card PIN. Applicants are advised not to close their browser while payment is being processed.</p>
+
+      <h2>Printing the Registration Slip</h2>
+      <p>After completing the application and uploading all required documents, candidates should print their registration slip. The slip serves as proof of successful registration and contains a summary of the submitted application.</p>
+
+      <h2>Important Checks Before Final Submission</h2>
+      <p>Before submitting the application, candidates should verify the following:</p>
+      <ul>
+        <li>UTME score is at least 180.</li>
+        <li>EKSUTH College of Nursing Sciences is selected as First Choice.</li>
+        <li>Required O'Level subjects have the necessary credit passes.</li>
+        <li>O'Level results do not exceed two sittings.</li>
+        <li>Scratch card details correspond with uploaded examination results.</li>
+        <li>Uploaded documents are clear and accurate.</li>
+      </ul>
+
+      <h2>Final Note to Applicants</h2>
+      <p>The College advises all candidates to carefully follow the application guidelines and provide accurate information throughout the registration process. Only candidates who meet the stated admission requirements and successfully complete the online application will be considered for admission into the 2026/2027 ND/HND Nursing Programme.</p>
+    `,
+    tags: [
+      "EKSUTH",
+      "Nursing",
+      "Post UTME",
+      "Admission",
+      "2026/2027",
+      "Education",
+      "Nigeria",
+    ],
+  },
+  {
+    id: "universities-approved-law-nigeria-2026",
+    title: "Full List of Universities Approved to Offer Law (LL.B) in Nigeria for 2026",
+    category: "Education",
+    date: "2026-06-11",
+    excerpt: "The Council of Legal Education (CLE) has released the updated list of universities approved to admit students into the Bachelor of Laws (LL.B) programme in Nigeria for 2026.",
+    content: `
+      <h2>Full List of Universities Approved to Offer Law (LL.B) in Nigeria for 2026</h2>
+      <p>The Council of Legal Education (CLE) has released the updated list of universities approved to admit students into the Bachelor of Laws (LL.B) programme in Nigeria.</p>
+      <p>The Council advised prospective students, parents, guardians, and members of the public to verify the accreditation status of any university before accepting admission into a Law programme. Students admitted into unapproved Law programmes will not be eligible for admission into the Nigerian Law School, regardless of their academic performance.</p>
+
+      <h2>Council of Legal Education Warns Against Unapproved Law Programmes</h2>
+      <p>According to the Council, only universities that have received approval to run the LL.B programme are authorised to admit students into Law.</p>
+      <p>Any institution that admits students into a Law programme without approval from the Council of Legal Education is acting contrary to the regulations governing legal education in Nigeria and may face sanctions under existing laws and policies.</p>
+      <p>Prospective candidates are therefore encouraged to confirm the approval status of their preferred university before applying through UTME, Direct Entry, or any other admission route.</p>
+
+      <h2>Consequences of Studying Law in an Unapproved University</h2>
+      <p>Students admitted into Law programmes at universities that are not accredited by the Council of Legal Education will not be eligible for admission into the Nigerian Law School.</p>
+      <p>Since attendance at the Nigerian Law School is compulsory for qualification as a legal practitioner in Nigeria, studying Law at an unapproved institution can prevent graduates from progressing into the legal profession.</p>
+
+      <h2>Approved Universities Offering LL.B in Nigeria</h2>
+      <p>The following universities are currently approved by the Council of Legal Education to admit students into the Bachelor of Laws (LL.B) programme, subject to any moratorium conditions attached to specific institutions.</p>
+
+      <h3>Federal Universities</h3>
+      <ul>
+        <li>Ahmadu Bello University, Zaria</li>
+        <li>Alex Ekwueme Federal University, Ndufu-Alike</li>
+        <li>Federal University, Dutsin-Ma</li>
+        <li>Federal University, Lokoja</li>
+        <li>Federal University, Otuoke</li>
+        <li>Federal University, Wukari</li>
+        <li>Modibbo Adama University, Yola</li>
+        <li>University of Abuja</li>
+        <li>University of Benin</li>
+        <li>University of Calabar</li>
+        <li>University of Ibadan</li>
+        <li>University of Ilorin</li>
+        <li>University of Jos</li>
+        <li>University of Lagos</li>
+        <li>University of Maiduguri</li>
+        <li>University of Nigeria, Nsukka</li>
+        <li>University of Port Harcourt</li>
+        <li>University of Uyo</li>
+        <li>Usman Danfodio University, Sokoto</li>
+      </ul>
+
+      <h3>State Universities</h3>
+      <ul>
+        <li>Abia State University</li>
+        <li>Adamawa State University</li>
+        <li>Adekunle Ajasin University</li>
+        <li>Ambrose Alli University</li>
+        <li>Bauchi State University</li>
+        <li>Chukwuemeka Odumegwu Ojukwu University</li>
+        <li>Confluence University of Science and Technology</li>
+        <li>Delta State University</li>
+        <li>Ebonyi State University</li>
+        <li>Edo University, Iyamho</li>
+        <li>Ekiti State University</li>
+        <li>Enugu State University of Science and Technology</li>
+        <li>Gombe State University</li>
+        <li>Ibrahim Babangida University</li>
+        <li>Imo State University</li>
+        <li>Kingsley Ozumba Mbadiwe University</li>
+        <li>Kwara State University</li>
+        <li>Lagos State University</li>
+        <li>Nasarawa State University</li>
+        <li>Niger Delta University</li>
+        <li>Nnamdi Azikiwe University</li>
+        <li>Northwest University, Kano (Yusuf Maitama Sule University)</li>
+        <li>Northwest University, Sokoto</li>
+        <li>Olabisi Onabanjo University</li>
+        <li>Osun State University</li>
+        <li>Plateau State University</li>
+        <li>Prince Abubakar Audu University</li>
+        <li>Reverend Father Moses Orshio Adasu University (formerly Benue State University)</li>
+        <li>Rivers State University</li>
+        <li>Taraba State University</li>
+        <li>Umaru Musa Yar'Adua University</li>
+        <li>University of Delta</li>
+        <li>University of Ilesa</li>
+        <li>Yobe State University</li>
+      </ul>
+
+      <h3>Private Universities</h3>
+      <p>The Council also approved several private universities, including:</p>
+      <ul>
+        <li>Achievers University</li>
+        <li>Adeleke University</li>
+        <li>Admiralty University</li>
+        <li>Afe Babalola University</li>
+        <li>Ajayi Crowther University</li>
+        <li>Al-Ansar University</li>
+        <li>Al-Hikmah University</li>
+        <li>Aletheia University</li>
+        <li>American University of Nigeria</li>
+        <li>Anchor University</li>
+        <li>Arthur Jarvis University</li>
+        <li>Ave-Maria University</li>
+        <li>Azman University</li>
+        <li>Babcock University</li>
+        <li>Baze University*</li>
+        <li>Benson Idahosa University</li>
+        <li>Bingham University</li>
+        <li>Bowen University</li>
+        <li>Caleb University</li>
+        <li>Chrisland University</li>
+        <li>Christopher University</li>
+        <li>Crescent University</li>
+        <li>Edwin Clark University</li>
+        <li>El-Amin University</li>
+        <li>Elizade University</li>
+        <li>Fountain University</li>
+        <li>Godfrey Okoye University</li>
+        <li>Gregory University</li>
+        <li>Hensard University</li>
+        <li>Igbinedion University</li>
+        <li>Joseph Ayo Babalola University</li>
+        <li>Koladaisi University</li>
+        <li>Lead City University*</li>
+        <li>Lux Mundi University</li>
+        <li>Madonna University</li>
+        <li>Maduka University</li>
+        <li>Margaret Lawrence University</li>
+        <li>Maryam Abacha American University</li>
+        <li>McPherson University</li>
+        <li>Mewar International University</li>
+        <li>Newgate University</li>
+        <li>Nigerian-British University</li>
+        <li>Nile University</li>
+        <li>North-Eastern University</li>
+        <li>Novena University</li>
+        <li>Peter University</li>
+        <li>Philomath University</li>
+        <li>Prime University</li>
+        <li>Rayhaan University</li>
+        <li>Redeemer's University</li>
+        <li>Renaissance University</li>
+        <li>Salem University</li>
+        <li>Sam Maris University</li>
+        <li>Shanahan University</li>
+        <li>Skyline University</li>
+        <li>Thomas Adewumi University</li>
+        <li>Topfaith University</li>
+        <li>University on the Niger</li>
+        <li>Veritas University</li>
+        <li>Wesley University</li>
+        <li>Western Delta University</li>
+      </ul>
+
+      <h3>Specialised Institutions</h3>
+      <ul>
+        <li>Nigeria Police Academy, Wudil*</li>
+      </ul>
+
+      <h2>Universities With Admission Moratoriums</h2>
+      <p>The Council's list includes a number of universities that are currently under admission moratoriums for their Law programmes.</p>
+      <p><strong>Baze University, Abuja:</strong> The Council imposed a three-year moratorium on Law admissions from the 2023/2024 session to the 2025/2026 academic session.</p>
+      <p><strong>Lead City University, Ibadan:</strong> Lead City University is under a five-year moratorium on Law admissions from the 2023/2024 session to the 2027/2028 academic session.</p>
+      <p><strong>Nigeria Police Academy, Wudil:</strong> The Nigeria Police Academy is under a two-year moratorium on Law admissions from the 2024/2025 session to the 2025/2026 academic session.</p>
+
+      <h2>Important Checks Before Accepting Law Admission</h2>
+      <p>Candidates planning to study Law should verify the following before accepting admission:</p>
+      <ol>
+        <li>Confirm that the university appears on the Council of Legal Education's approved list.</li>
+        <li>Check the exact campus and institution name.</li>
+        <li>Verify whether any moratorium or restriction applies to the Law programme.</li>
+        <li>Ensure the institution is currently authorised to admit LL.B students.</li>
+      </ol>
+
+      <h2>Importance of Nigerian Law School Eligibility</h2>
+      <p>Admission into the Nigerian Law School is a compulsory step for graduates seeking to qualify as legal practitioners in Nigeria. choosing a university that is recognised by the Council of Legal Education is one of the most important decisions prospective Law students can make.</p>
+      <p>Failure to attend an approved institution may prevent graduates from proceeding to professional legal training after completing their LL.B degree.</p>
+
+      <h2>Future Updates to the Approved LL.B List</h2>
+      <p>The Council of Legal Education stated that the list of approved universities will continue to be updated as necessary. Students and parents are advised to rely on official Council publications for accurate information.</p>
+    `,
+    tags: [
+      "Law",
+      "LL.B",
+      "Nigeria",
+      "CLE",
+      "Admission",
+      "2026",
+      "Education",
+    ],
+  },
+  {
     id: "unilag-post-utme-form-2026-2027",
     title: "UNILAG Post UTME Form for 2026/2027 Admission Now Open: Eligibility, Registration Dates and Screening Details",
     category: "Education",

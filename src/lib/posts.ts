@@ -10,6 +10,916 @@ export type Post = {
 
 const allPosts: Post[] = [
   {
+    id: "zamsu-academic-calendar-2025-2026",
+    title: "ZAMSU Academic Calendar for 2025/2026 Session Released",
+    category: "Education",
+    date: "2026-06-12",
+    excerpt: "Zamfara State University (ZAMSU) has published the approved academic calendar for the 2025/2026 academic session, outlining key activities for both semesters.",
+    content: `<h2>ZAMSU Academic Calendar for 2025/2026 Session Released</h2>
+<p>Zamfara State University (ZAMSU) has published the approved academic calendar for the 2025/2026 academic session.</p>
+<p>The calendar outlines key academic activities for both semesters, including registration periods, lecture schedules, mid-semester breaks, examinations, marking periods, and the commencement date for the 2026/2027 academic session.</p>
+<p>Students, academic staff, and other members of the university community are advised to familiarize themselves with the schedule to ensure proper planning throughout the session.</p>
+
+<h2>First Semester Registration Period</h2>
+<p>Registration for both new and returning students was scheduled to run for six weeks.</p>
+<p><strong>Registration Period:</strong><br>3 November 2025 – 20 December 2025</p>
+<p>Students were expected to complete all registration processes within the approved period to qualify for academic activities during the semester.</p>
+
+<h2>First Semester Lecture Schedule</h2>
+<p>The first semester lecture period was approved for thirteen weeks.</p>
+<p><strong>Lecture Period:</strong><br>22 December 2025 – 28 March 2026</p>
+<p>The teaching period included a one-week mid-semester break before lectures continued until the end of the semester.</p>
+
+<h2>First Semester Mid-Semester Break</h2>
+<p>To provide students and staff with a short academic break, the University approved a one-week mid-semester break.</p>
+<p><strong>Mid-Semester Break:</strong><br>9 February 2026 – 14 February 2026</p>
+<p>Academic activities resumed immediately after the break.</p>
+
+<h2>Continuation of Lectures and Revision</h2>
+<p>Following the mid-semester break, lectures and revision classes continued for six weeks.</p>
+<p><strong>Continuation Period:</strong><br>16 February 2026 – 28 March 2026</p>
+<p>This period allowed students to complete course content and prepare for examinations.</p>
+
+<h2>First Semester Examination Period</h2>
+<p>The first semester examination exercise was scheduled to last five weeks.</p>
+<p><strong>Examination Period:</strong><br>30 March 2026 – 10 May 2026</p>
+<p>Students were expected to participate in all scheduled examinations according to their departmental timetables.</p>
+
+<h2>First Semester Break and Marking Period</h2>
+<p>After examinations, the University approved a two-week break for students while lecturers carried out marking and result processing.</p>
+<p><strong>Break and Marking Period:</strong><br>11 May 2026 – 24 May 2026</p>
+
+<h2>Second Semester Lecture Schedule</h2>
+<p>The second semester lecture period is scheduled to run for thirteen weeks.</p>
+<p><strong>Lecture Period:</strong><br>25 May 2026 – 29 August 2026</p>
+<p>Students are expected to attend lectures regularly throughout the semester.</p>
+
+<h2>Second Semester Mid-Semester Break</h2>
+<p>A one-week mid-semester break has been approved during the second semester.</p>
+<p><strong>Mid-Semester Break:</strong><br>13 July 2026 – 19 July 2026</p>
+<p>Academic activities will resume immediately after the break.</p>
+
+<h2>Continuation of Second Semester Lectures</h2>
+<p>Following the mid-semester break, lectures will continue for an additional six weeks.</p>
+<p><strong>Continuation Period:</strong><br>20 July 2026 – 23 August 2026</p>
+<p>This period will allow departments to conclude course delivery before examinations.</p>
+
+<h2>Second Semester Examination Schedule</h2>
+<p>The second semester examinations have been scheduled for three weeks.</p>
+<p><strong>Examination Period:</strong><br>31 August 2026 – 26 September 2026</p>
+<p>Students should begin preparations early and ensure they meet all examination requirements before the examination period begins.</p>
+
+<h2>End-of-Session Break, Marking and Moderation</h2>
+<p>At the conclusion of the second semester examinations, the University has approved a four-week period for marking, moderation, and sessional break activities.</p>
+<p><strong>Break and Moderation Period:</strong><br>28 September 2026 – 31 October 2026</p>
+<p>During this period, departments and faculties will process examination results and complete academic moderation activities.</p>
+
+<h2>Commencement of 2026/2027 Academic Session</h2>
+<p>The University has approved the start of the next academic session as:</p>
+<p><strong>Monday, 2 November 2026</strong></p>
+<p>Students are expected to resume academic activities in line with the approved schedule.</p>
+
+<h2>Full ZAMSU Academic Calendar for 2025/2026</h2>
+<table class="w-full border-collapse border border-gray-300 my-4 text-sm">
+  <thead>
+    <tr class="bg-gray-100 text-left">
+      <th class="border border-gray-300 p-2">Academic Activity</th>
+      <th class="border border-gray-300 p-2">Duration</th>
+      <th class="border border-gray-300 p-2">Date</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td class="border border-gray-300 p-2">Registration of New and Returning Students</td><td class="border border-gray-300 p-2">6 Weeks</td><td class="border border-gray-300 p-2">3 November 2025 – 20 December 2025</td></tr>
+    <tr><td class="border border-gray-300 p-2">First Semester Lectures</td><td class="border border-gray-300 p-2">13 Weeks</td><td class="border border-gray-300 p-2">22 December 2025 – 28 March 2026</td></tr>
+    <tr><td class="border border-gray-300 p-2">First Semester Mid-Semester Break</td><td class="border border-gray-300 p-2">1 Week</td><td class="border border-gray-300 p-2">9 February 2026 – 14 February 2026</td></tr>
+    <tr><td class="border border-gray-300 p-2">Continuation of Lectures and Revision</td><td class="border border-gray-300 p-2">6 Weeks</td><td class="border border-gray-300 p-2">16 February 2026 – 28 March 2026</td></tr>
+    <tr><td class="border border-gray-300 p-2">First Semester Examinations</td><td class="border border-gray-300 p-2">5 Weeks</td><td class="border border-gray-300 p-2">30 March 2026 – 10 May 2026</td></tr>
+    <tr><td class="border border-gray-300 p-2">First Semester Break and Marking</td><td class="border border-gray-300 p-2">2 Weeks</td><td class="border border-gray-300 p-2">11 May 2026 – 24 May 2026</td></tr>
+    <tr><td class="border border-gray-300 p-2">Second Semester Lectures</td><td class="border border-gray-300 p-2">13 Weeks</td><td class="border border-gray-300 p-2">25 May 2026 – 29 August 2026</td></tr>
+    <tr><td class="border border-gray-300 p-2">Second Semester Mid-Semester Break</td><td class="border border-gray-300 p-2">1 Week</td><td class="border border-gray-300 p-2">13 July 2026 – 19 July 2026</td></tr>
+    <tr><td class="border border-gray-300 p-2">Continuation of Second Semester Lectures</td><td class="border border-gray-300 p-2">6 Weeks</td><td class="border border-gray-300 p-2">20 July 2026 – 23 August 2026</td></tr>
+    <tr><td class="border border-gray-300 p-2">Second Semester Examinations</td><td class="border border-gray-300 p-2">3 Weeks</td><td class="border border-gray-300 p-2">31 August 2026 – 26 September 2026</td></tr>
+    <tr><td class="border border-gray-300 p-2">End-of-Session Break, Marking and Moderation</td><td class="border border-gray-300 p-2">4 Weeks</td><td class="border border-gray-300 p-2">28 September 2026 – 31 October 2026</td></tr>
+    <tr><td class="border border-gray-300 p-2">Commencement of 2026/2027 Session</td><td class="border border-gray-300 p-2">—</td><td class="border border-gray-300 p-2">2 November 2026</td></tr>
+  </tbody>
+</table>
+
+<h2>Important Information for Students</h2>
+<p>Students are encouraged to study the academic calendar carefully and plan their academic activities accordingly.</p>
+<p>Particular attention should be paid to:</p>
+<ul>
+  <li>Registration deadlines</li>
+  <li>Lecture schedules</li>
+  <li>Mid-semester breaks</li>
+  <li>Examination periods</li>
+  <li>End-of-session activities</li>
+  <li>Resumption date for the 2026/2027 academic session</li>
+</ul>
+<p>Keeping track of these dates will help students avoid missing important academic activities and ensure smooth participation throughout the session.</p>
+
+<h2>Final Note</h2>
+<p>The release of the 2025/2026 academic calendar provides students and staff with a clear roadmap for the academic year.</p>
+<p>All members of the University community are advised to adhere strictly to the approved schedule and monitor official University announcements for any updates or adjustments that may arise during the session.</p>`,
+    tags: [
+      "ZAMSU",
+      "Zamfara State University",
+      "Academic Calendar",
+      "2025/2026",
+      "Education",
+      "Nigeria",
+    ],
+  },
+  {
+    id: "federal-university-dutse-cut-off-marks-2026-2027",
+    title: "Federal University Dutse (FUD) Cut-Off Marks for 2026/2027 Admission Released",
+    category: "Education",
+    date: "2026-06-12",
+    excerpt: "Federal University Dutse (FUD) has released the approved minimum UTME scores for admission into its undergraduate programmes for the 2026/2027 academic session.",
+    content: `<h2>Federal University Dutse (FUD) Cut-Off Marks for 2026/2027 Admission Released</h2>
+<p>Federal University Dutse (FUD) has released the approved minimum UTME scores for admission into its undergraduate programmes for the 2026/2027 academic session.</p>
+<p>The cut-off marks are course-specific, meaning candidates must check the minimum score required for their chosen programme rather than relying on a general university cut-off mark.</p>
+<p>While some courses accept a minimum score of <strong>150</strong>, highly competitive programmes such as <strong>MBBS</strong>, <strong>Nursing Science</strong>, <strong>Public Health</strong>, and several Computing-related courses require significantly higher scores.</p>
+
+<h2>FUD Uses Course-Based Cut-Off Marks</h2>
+<p>The University has assigned different UTME score requirements to individual programmes across its faculties.</p>
+<p>This means that meeting the cut-off mark for one course does not automatically qualify a candidate for another programme within the same faculty.</p>
+<p>For example:</p>
+<ul>
+  <li><strong>MBBS</strong> requires a minimum score of <strong>240</strong></li>
+  <li><strong>Nursing Science</strong> requires <strong>210</strong></li>
+  <li><strong>Computer Science</strong> requires <strong>180</strong></li>
+  <li><strong>Agriculture Science</strong> requires <strong>150</strong></li>
+</ul>
+<p>Candidates are therefore advised to carefully verify the requirement for their specific course before proceeding with any admission-related process.</p>
+
+<h2>FUD Cut-Off Marks for 2026/2027 by Faculty and Course</h2>
+
+<h3>Faculty of Agriculture</h3>
+<table class="w-full border-collapse border border-gray-300 my-4 text-sm">
+  <thead>
+    <tr class="bg-gray-100 text-left">
+      <th class="border border-gray-300 p-2">Programme</th>
+      <th class="border border-gray-300 p-2">Minimum UTME Score</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td class="border border-gray-300 p-2">B. Agriculture Science</td><td class="border border-gray-300 p-2">150</td></tr>
+    <tr><td class="border border-gray-300 p-2">B. Fisheries and Aquaculture</td><td class="border border-gray-300 p-2">150</td></tr>
+    <tr><td class="border border-gray-300 p-2">B. Forestry and Wildlife Management</td><td class="border border-gray-300 p-2">150</td></tr>
+    <tr><td class="border border-gray-300 p-2">B. Food Science and Technology</td><td class="border border-gray-300 p-2">150</td></tr>
+  </tbody>
+</table>
+
+<h3>Faculty of Arts and Social Sciences</h3>
+<table class="w-full border-collapse border border-gray-300 my-4 text-sm">
+  <thead>
+    <tr class="bg-gray-100 text-left">
+      <th class="border border-gray-300 p-2">Programme</th>
+      <th class="border border-gray-300 p-2">Minimum UTME Score</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td class="border border-gray-300 p-2">B.A. Arabic</td><td class="border border-gray-300 p-2">150</td></tr>
+    <tr><td class="border border-gray-300 p-2">B.Sc. Criminology and Security Studies</td><td class="border border-gray-300 p-2">160</td></tr>
+    <tr><td class="border border-gray-300 p-2">B.Sc. Economics</td><td class="border border-gray-300 p-2">150</td></tr>
+    <tr><td class="border border-gray-300 p-2">B.A. English Language</td><td class="border border-gray-300 p-2">150</td></tr>
+    <tr><td class="border border-gray-300 p-2">B. Library and Information Science</td><td class="border border-gray-300 p-2">150</td></tr>
+    <tr><td class="border border-gray-300 p-2">B.A. Linguistics (Arabic)</td><td class="border border-gray-300 p-2">150</td></tr>
+    <tr><td class="border border-gray-300 p-2">B.A. Linguistics (English)</td><td class="border border-gray-300 p-2">150</td></tr>
+    <tr><td class="border border-gray-300 p-2">B.Sc. Political Science</td><td class="border border-gray-300 p-2">160</td></tr>
+  </tbody>
+</table>
+
+<h3>Faculty of Basic Medical Sciences</h3>
+<table class="w-full border-collapse border border-gray-300 my-4 text-sm">
+  <thead>
+    <tr class="bg-gray-100 text-left">
+      <th class="border border-gray-300 p-2">Programme</th>
+      <th class="border border-gray-300 p-2">Minimum UTME Score</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td class="border border-gray-300 p-2">B.Sc. Environmental Health Sciences</td><td class="border border-gray-300 p-2">170</td></tr>
+    <tr><td class="border border-gray-300 p-2">B.Sc. Human Anatomy</td><td class="border border-gray-300 p-2">160</td></tr>
+    <tr><td class="border border-gray-300 p-2">B.Sc. Human Physiology</td><td class="border border-gray-300 p-2">160</td></tr>
+    <tr><td class="border border-gray-300 p-2">B.NSc. Nursing Science</td><td class="border border-gray-300 p-2">210</td></tr>
+    <tr><td class="border border-gray-300 p-2">B.Sc. Public Health</td><td class="border border-gray-300 p-2">190</td></tr>
+  </tbody>
+</table>
+
+<h3>Faculty of Clinical Sciences</h3>
+<table class="w-full border-collapse border border-gray-300 my-4 text-sm">
+  <thead>
+    <tr class="bg-gray-100 text-left">
+      <th class="border border-gray-300 p-2">Programme</th>
+      <th class="border border-gray-300 p-2">Minimum UTME Score</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td class="border border-gray-300 p-2">MBBS</td><td class="border border-gray-300 p-2">240</td></tr>
+  </tbody>
+</table>
+
+<h3>Faculty of Computing</h3>
+<table class="w-full border-collapse border border-gray-300 my-4 text-sm">
+  <thead>
+    <tr class="bg-gray-100 text-left">
+      <th class="border border-gray-300 p-2">Programme</th>
+      <th class="border border-gray-300 p-2">Minimum UTME Score</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td class="border border-gray-300 p-2">B.Sc. Computer Science</td><td class="border border-gray-300 p-2">180</td></tr>
+    <tr><td class="border border-gray-300 p-2">B.Sc. Cyber Security</td><td class="border border-gray-300 p-2">180</td></tr>
+    <tr><td class="border border-gray-300 p-2">B.Sc. Information Technology</td><td class="border border-gray-300 p-2">180</td></tr>
+    <tr><td class="border border-gray-300 p-2">B.Sc. Software Engineering</td><td class="border border-gray-300 p-2">180</td></tr>
+  </tbody>
+</table>
+
+<h3>Faculty of Education</h3>
+<table class="w-full border-collapse border border-gray-300 my-4 text-sm">
+  <thead>
+    <tr class="bg-gray-100 text-left">
+      <th class="border border-gray-300 p-2">Programme</th>
+      <th class="border border-gray-300 p-2">Minimum UTME Score</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td class="border border-gray-300 p-2">B.(Ed.) Islamic Studies</td><td class="border border-gray-300 p-2">150</td></tr>
+    <tr><td class="border border-gray-300 p-2">B.Ed. Primary Education</td><td class="border border-gray-300 p-2">150</td></tr>
+  </tbody>
+</table>
+
+<h3>Faculty of Management Sciences</h3>
+<table class="w-full border-collapse border border-gray-300 my-4 text-sm">
+  <thead>
+    <tr class="bg-gray-100 text-left">
+      <th class="border border-gray-300 p-2">Programme</th>
+      <th class="border border-gray-300 p-2">Minimum UTME Score</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td class="border border-gray-300 p-2">B.Sc. Accounting</td><td class="border border-gray-300 p-2">160</td></tr>
+    <tr><td class="border border-gray-300 p-2">B.Sc. Actuarial Science</td><td class="border border-gray-300 p-2">150</td></tr>
+    <tr><td class="border border-gray-300 p-2">B.Sc. Banking and Finance</td><td class="border border-gray-300 p-2">150</td></tr>
+    <tr><td class="border border-gray-300 p-2">B.Sc. Business Administration</td><td class="border border-gray-300 p-2">170</td></tr>
+    <tr><td class="border border-gray-300 p-2">B.Sc. Insurance</td><td class="border border-gray-300 p-2">150</td></tr>
+    <tr><td class="border border-gray-300 p-2">B.Sc. Taxation</td><td class="border border-gray-300 p-2">150</td></tr>
+  </tbody>
+</table>
+
+<h3>Faculty of Life Sciences</h3>
+<table class="w-full border-collapse border border-gray-300 my-4 text-sm">
+  <thead>
+    <tr class="bg-gray-100 text-left">
+      <th class="border border-gray-300 p-2">Programme</th>
+      <th class="border border-gray-300 p-2">Minimum UTME Score</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td class="border border-gray-300 p-2">B.Sc. Biochemistry</td><td class="border border-gray-300 p-2">180</td></tr>
+    <tr><td class="border border-gray-300 p-2">B.Sc. Biology</td><td class="border border-gray-300 p-2">160</td></tr>
+    <tr><td class="border border-gray-300 p-2">B.Sc. Biotechnology</td><td class="border border-gray-300 p-2">180</td></tr>
+    <tr><td class="border border-gray-300 p-2">B.Sc. Botany</td><td class="border border-gray-300 p-2">150</td></tr>
+    <tr><td class="border border-gray-300 p-2">B.Sc. Microbiology</td><td class="border border-gray-300 p-2">180</td></tr>
+    <tr><td class="border border-gray-300 p-2">B.Sc. Zoology</td><td class="border border-gray-300 p-2">150</td></tr>
+  </tbody>
+</table>
+
+<h3>Faculty of Physical Sciences</h3>
+<table class="w-full border-collapse border border-gray-300 my-4 text-sm">
+  <thead>
+    <tr class="bg-gray-100 text-left">
+      <th class="border border-gray-300 p-2">Programme</th>
+      <th class="border border-gray-300 p-2">Minimum UTME Score</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td class="border border-gray-300 p-2">B.Sc. Chemistry</td><td class="border border-gray-300 p-2">150</td></tr>
+    <tr><td class="border border-gray-300 p-2">B.Sc. Environmental Management and Toxicology</td><td class="border border-gray-300 p-2">150</td></tr>
+    <tr><td class="border border-gray-300 p-2">B.Sc. Industrial Chemistry</td><td class="border border-gray-300 p-2">150</td></tr>
+    <tr><td class="border border-gray-300 p-2">B.Sc. Industrial Mathematics</td><td class="border border-gray-300 p-2">150</td></tr>
+    <tr><td class="border border-gray-300 p-2">B.Sc. Mathematics</td><td class="border border-gray-300 p-2">150</td></tr>
+    <tr><td class="border border-gray-300 p-2">B.Sc. Physics</td><td class="border border-gray-300 p-2">150</td></tr>
+  </tbody>
+</table>
+
+<h2>Courses with the Highest Cut-Off Marks</h2>
+<table class="w-full border-collapse border border-gray-300 my-4 text-sm">
+  <thead>
+    <tr class="bg-gray-100 text-left">
+      <th class="border border-gray-300 p-2">Programme</th>
+      <th class="border border-gray-300 p-2">Minimum UTME Score</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td class="border border-gray-300 p-2">MBBS</td><td class="border border-gray-300 p-2">240</td></tr>
+    <tr><td class="border border-gray-300 p-2">Nursing Science</td><td class="border border-gray-300 p-2">210</td></tr>
+    <tr><td class="border border-gray-300 p-2">Public Health</td><td class="border border-gray-300 p-2">190</td></tr>
+    <tr><td class="border border-gray-300 p-2">Computer Science</td><td class="border border-gray-300 p-2">180</td></tr>
+    <tr><td class="border border-gray-300 p-2">Cyber Security</td><td class="border border-gray-300 p-2">180</td></tr>
+    <tr><td class="border border-gray-300 p-2">Information Technology</td><td class="border border-gray-300 p-2">180</td></tr>
+    <tr><td class="border border-gray-300 p-2">Software Engineering</td><td class="border border-gray-300 p-2">180</td></tr>
+    <tr><td class="border border-gray-300 p-2">Biochemistry</td><td class="border border-gray-300 p-2">180</td></tr>
+    <tr><td class="border border-gray-300 p-2">Biotechnology</td><td class="border border-gray-300 p-2">180</td></tr>
+    <tr><td class="border border-gray-300 p-2">Microbiology</td><td class="border border-gray-300 p-2">180</td></tr>
+  </tbody>
+</table>
+
+<h2>Courses That Accept 150</h2>
+<p>A large number of programmes have a minimum UTME requirement of <strong>150</strong>.</p>
+<p>These include courses in:</p>
+<ul>
+  <li>Agriculture</li>
+  <li>Education</li>
+  <li>Physical Sciences</li>
+  <li>Some Arts and Social Sciences programmes</li>
+  <li>Some Management Sciences programmes</li>
+  <li>Some Life Sciences programmes</li>
+</ul>
+<p>Candidates with scores around 150 should focus on programmes within these categories where they meet the admission requirements.</p>
+
+<h2>Does Meeting the Cut-Off Mark Guarantee Admission?</h2>
+<p>No.</p>
+<p>The cut-off mark only indicates the minimum UTME score required to be considered for admission.</p>
+<p>Candidates who meet the required score must still participate in subsequent admission processes, including any Post-UTME screening exercise or admission verification procedures announced by the University.</p>
+<p>Meeting the minimum score improves eligibility but does not automatically secure admission.</p>
+
+<h2>New Programmes Under Consideration</h2>
+<p>Federal University Dutse has also announced that it is processing approval for additional academic programmes.</p>
+<p>According to the University, these programmes are currently undergoing final approval before being uploaded to the JAMB Central Admissions Processing System (CAPS).</p>
+<p>Details regarding the new programmes, admission requirements, and application procedures will be published on the University's official website once approval is completed.</p>
+
+<h2>What Candidates Should Do Next</h2>
+<p>After checking the approved cut-off marks, candidates should:</p>
+<ul>
+  <li>Compare their UTME score with the requirement for their chosen course.</li>
+  <li>Confirm that they meet the subject combination requirements.</li>
+  <li>Monitor updates on the FUD Post-UTME screening exercise.</li>
+  <li>Prepare all required admission documents.</li>
+  <li>Consider changing to a related programme if their score falls below the requirement for their preferred course.</li>
+</ul>
+
+<h2>Final Note</h2>
+<p>Federal University Dutse advises all applicants to carefully review the cut-off mark attached to their specific programme before proceeding with admission-related activities.</p>
+<p>Because admission requirements vary across faculties and departments, candidates should avoid assuming that a score accepted for one course will automatically qualify them for another.</p>
+<p>Checking the correct course requirement early can help applicants make informed admission decisions and improve their chances of securing admission into the University for the 2026/2027 academic session.</p>`,
+    tags: [
+      "Federal University Dutse",
+      "FUD",
+      "Cut-Off Marks",
+      "Admission",
+      "2026/2027",
+      "Education",
+      "Nigeria",
+    ],
+  },
+  {
+    id: "first-bank-pan-african-graduate-trainee-programme-2026",
+    title: "First Bank Pan-African Graduate Trainee Programme 2026 Opens for Applications",
+    category: "Career",
+    date: "2026-06-12",
+    excerpt: "First Bank of Nigeria Limited has announced applications for its 2026 Pan-African Graduate Trainee Programme, offering young graduates an opportunity to begin their careers with one of Africa's leading financial institutions.",
+    content: `<h2>First Bank Pan-African Graduate Trainee Programme 2026 Opens for Applications</h2>
+<p>First Bank of Nigeria Limited has announced applications for its <strong>2026 Pan-African Graduate Trainee Programme</strong>, offering young graduates an opportunity to begin their careers with one of Africa's leading financial institutions.</p>
+<p>The programme is a full-time graduate recruitment initiative designed to attract talented and ambitious individuals who meet the Bank's academic, age, and professional requirements.</p>
+<p>Interested candidates are encouraged to review the eligibility criteria carefully and submit their applications before the deadline.</p>
+
+<h2>About the First Bank Pan-African Graduate Trainee Programme</h2>
+<p>The First Bank Pan-African Graduate Trainee Programme is a structured talent development initiative aimed at preparing young professionals for successful careers in banking and financial services.</p>
+<p>Successful candidates will have the opportunity to gain industry experience, develop professional skills, and contribute to the growth of one of Africa's most established financial institutions.</p>
+
+<h3>Programme Details</h3>
+<ul>
+  <li><strong>Programme Title:</strong> 2026 First Bank Pan-African Graduate Trainee Programme (Nigeria)</li>
+  <li><strong>Job Identification:</strong> 1768</li>
+  <li><strong>Location:</strong> Nigeria</li>
+  <li><strong>Employment Type:</strong> Full-Time</li>
+</ul>
+
+<h2>About First Bank of Nigeria Limited</h2>
+<p>First Bank of Nigeria Limited is Nigeria's largest financial services institution by total assets and gross earnings.</p>
+<p>The Bank serves more than 10 million customer accounts through a network of over 750 business locations across Nigeria.</p>
+<p>Beyond Nigeria, FirstBank maintains an international presence through subsidiaries and representative offices across Africa, Europe, Asia, and the Middle East.</p>
+<p>Its international operations include:</p>
+<ul>
+  <li>FBN Bank (UK) Limited – London and Paris</li>
+  <li>FBNBank DRC</li>
+  <li>FBNBank Ghana</li>
+  <li>FBNBank Gambia</li>
+  <li>FBNBank Guinea</li>
+  <li>FBNBank Sierra Leone</li>
+  <li>FBNBank Senegal</li>
+</ul>
+<p>The Bank also operates representative offices in:</p>
+<ul>
+  <li>Johannesburg, South Africa</li>
+  <li>Beijing, China</li>
+  <li>Abu Dhabi, United Arab Emirates</li>
+</ul>
+
+<h2>Eligibility Requirements</h2>
+<p>Candidates interested in the Graduate Trainee Programme must satisfy all eligibility requirements before submitting an application.</p>
+<p>Applicants must:</p>
+<ul>
+  <li>Be a maximum of <strong>27 years old as of 30 June 2026</strong></li>
+  <li>Possess at least <strong>five credits in SSCE</strong>, including English Language and Mathematics</li>
+  <li>Hold a minimum of <strong>Second-Class Lower Division</strong> Bachelor's degree in any discipline</li>
+  <li>Or possess an <strong>HND with Upper Credit</strong></li>
+  <li>Have completed the National Youth Service Corps (NYSC) programme on or before <strong>30 June 2026</strong></li>
+</ul>
+<p>Only candidates who meet all stated requirements will be considered.</p>
+
+<h2>Academic Qualifications Required</h2>
+<p>The programme is open to graduates from all academic disciplines.</p>
+<p>Accepted qualifications include:</p>
+
+<h3>Bachelor's Degree Holders</h3>
+<ul>
+  <li>Minimum of Second-Class Honours (Lower Division)</li>
+</ul>
+
+<h3>HND Holders</h3>
+<ul>
+  <li>Minimum of Upper Credit</li>
+</ul>
+<p>In addition to tertiary qualifications, candidates must possess the required SSCE credits, including English Language and Mathematics.</p>
+
+<h2>Age Requirement</h2>
+<p>Applicants must not be older than <strong>27 years by 30 June 2026</strong>.</p>
+<p>Candidates are advised to verify their age eligibility before applying, as applications that do not meet the age requirement may not be considered.</p>
+
+<h2>NYSC Requirement</h2>
+<p>Completion of the National Youth Service Corps (NYSC) programme is mandatory.</p>
+<p>Applicants must have obtained their NYSC discharge certificate or completed the programme on or before <strong>30 June 2026</strong>.</p>
+<p>Candidates who will complete NYSC after this date are not eligible for the 2026 Graduate Trainee Programme.</p>
+
+<h2>Skills and Competencies Required</h2>
+<p>FirstBank is seeking candidates who demonstrate strong professional and personal qualities.</p>
+<p>Preferred competencies include:</p>
+<ul>
+  <li>Excellent communication skills</li>
+  <li>Strong analytical abilities</li>
+  <li>Good interpersonal and relationship management skills</li>
+  <li>Problem-solving capability</li>
+  <li>Results-oriented mindset</li>
+  <li>Ability to work effectively within a team</li>
+  <li>Adaptability and willingness to learn</li>
+</ul>
+<p>These qualities are essential for success in a dynamic banking environment.</p>
+
+<h2>Benefits of Joining FirstBank</h2>
+<p>As one of Africa's leading financial institutions, FirstBank offers graduates the opportunity to:</p>
+<ul>
+  <li>Build a professional career in banking</li>
+  <li>Gain practical industry experience</li>
+  <li>Work with experienced professionals</li>
+  <li>Develop leadership and technical skills</li>
+  <li>Contribute to a globally recognized financial institution</li>
+</ul>
+<p>The programme is designed to prepare participants for long-term career growth within the organization.</p>
+
+<h2>Application Deadline</h2>
+<p>Applications for the 2026 First Bank Pan-African Graduate Trainee Programme will close on:</p>
+<p><strong>28 June 2026 at 10:00 PM</strong></p>
+<p>Interested candidates are encouraged to complete their applications before the deadline, as late submissions may not be accepted.</p>
+
+<h2>How to Apply</h2>
+<p>Qualified candidates should submit their applications through the <a href="https://hdbc.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/1768">official FirstBank recruitment portal</a>.</p>
+<p>Before submitting an application, candidates should ensure that all personal, academic, and NYSC details are accurate and consistent with the eligibility requirements.</p>
+
+<h2>Important Checklist Before Applying</h2>
+<p>Applicants should confirm the following before proceeding with their application:</p>
+<ul>
+  <li>They will not be older than 27 years by 30 June 2026.</li>
+  <li>They possess at least five SSCE credits, including English Language and Mathematics.</li>
+  <li>They hold a minimum of Second-Class Lower Division degree or HND Upper Credit.</li>
+  <li>They have completed NYSC on or before 30 June 2026.</li>
+  <li>They can demonstrate strong communication, analytical, and interpersonal skills.</li>
+  <li>Their application will be submitted before 28 June 2026 at 10:00 PM.</li>
+</ul>
+<p>Meeting these requirements will improve the chances of a successful application.</p>
+
+<h2>Final Note</h2>
+<p>The First Bank Pan-African Graduate Trainee Programme 2026 presents an excellent opportunity for young graduates to launch a rewarding career in the banking industry.</p>
+<p>Interested candidates who meet the stated requirements should apply early and ensure that all information provided during the application process is accurate and complete before the closing date.</p>`,
+    tags: [
+      "First Bank",
+      "Graduate Trainee",
+      "Pan-African",
+      "Banking",
+      "Career",
+      "2026",
+      "Nigeria",
+    ],
+  },
+  {
+    id: "unimaid-post-utme-direct-entry-screening-2026-2027",
+    title: "UNIMAID Post UTME and Direct Entry Screening Form 2026/2027 Now Available",
+    category: "Education",
+    date: "2026-06-12",
+    excerpt: "The University of Maiduguri (UNIMAID) has announced the commencement of its Post-Admission Screening Exercise for the 2026/2027 academic session.",
+    content: `<h2>UNIMAID Post UTME and Direct Entry Screening Form 2026/2027 Now Available</h2>
+<p>The University of Maiduguri (UNIMAID) has announced the commencement of its Post-Admission Screening Exercise for the 2026/2027 academic session.</p>
+<p>The screening exercise is open to eligible UTME and Direct Entry candidates seeking admission into the university's undergraduate programmes.</p>
+<p>According to the institution, registration for the screening exercise will begin on <strong>Monday, 14 June 2026</strong> and close on <strong>Friday, 14 August 2026</strong>.</p>
+<p>Only candidates who selected the University of Maiduguri as their first-choice institution during the 2026 JAMB admission process will be eligible to participate.</p>
+
+<h2>Eligibility for UNIMAID Post UTME Screening</h2>
+<p>The screening exercise is strictly for candidates who chose UNIMAID as their first-choice institution.</p>
+<p>Candidates who selected another university as their first choice will not be considered for admission through the screening exercise.</p>
+<p>Applicants are advised to verify their admission details on the JAMB portal before proceeding with registration.</p>
+
+<h2>UNIMAID Cut-Off Mark for 2026/2027 Admission</h2>
+<p>UTME candidates must score a minimum of <strong>150</strong> in the 2026 Unified Tertiary Matriculation Examination (UTME) to be eligible for screening.</p>
+<p>However, some programmes require higher scores than the general minimum cut-off mark. Candidates should therefore confirm the cut-off mark for their preferred course before completing the screening application.</p>
+
+<h2>Course Requirements and Subject Combination</h2>
+<p>Candidates must meet the admission requirements for their chosen course of study.</p>
+<p>In addition to meeting the required cut-off mark, applicants must ensure that their UTME subject combination matches the requirements stated in the 2026 JAMB Brochure.</p>
+<p>Candidates who do not satisfy the requirements for their selected course may be allowed to change to another programme for which they qualify.</p>
+
+<h2>O'Level Requirements</h2>
+<p>All applicants must possess at least five relevant O'Level credit passes obtained in not more than two sittings.</p>
+<p>The required credits must include:</p>
+<ul>
+  <li>English Language</li>
+  <li>Mathematics</li>
+  <li>Other subjects relevant to the chosen course</li>
+</ul>
+<p>Candidates are advised to ensure that their O'Level results meet the specific requirements of their intended programme.</p>
+
+<h2>Direct Entry Admission Requirements</h2>
+<p>Direct Entry candidates must satisfy the O'Level requirements and possess one of the following qualifications:</p>
+<ul>
+  <li>National Diploma (ND) with a minimum of Lower Credit</li>
+  <li>Higher National Diploma (HND) with a minimum of Lower Credit</li>
+  <li>Nigeria Certificate in Education (NCE) with at least Merit</li>
+</ul>
+<p>Only candidates who meet these requirements will be considered during the admission process.</p>
+
+<h2>Accepted O'Level Documents for Verification</h2>
+<p>During verification, UNIMAID will only accept:</p>
+<ul>
+  <li>O'Level result printouts downloaded directly from the official examination body websites</li>
+  <li>Photocopies of original WAEC certificates</li>
+  <li>Photocopies of original NECO certificates</li>
+  <li>Photocopies of original NABTEB certificates</li>
+</ul>
+<p>Candidates should ensure that the documents submitted are clear, authentic, and verifiable.</p>
+
+<h2>Upload of O'Level Results on JAMB CAPS</h2>
+<p>The University has made it mandatory for candidates to upload their O'Level results on the JAMB Central Admission Processing System (CAPS).</p>
+<p>Failure to upload O'Level results on JAMB CAPS may affect admission consideration.</p>
+<p>Applicants should complete the upload before attending the verification process.</p>
+
+<h2>UNIMAID Screening Fee</h2>
+<p>Candidates are required to pay a non-refundable screening fee of <strong>₦2,000</strong>.</p>
+<p>All payments must be made through the Remita platform as directed by the university.</p>
+
+<h2>How to Apply for UNIMAID Post UTME Screening</h2>
+<p>Eligible candidates should complete their registration through the University's screening portal.</p>
+<p>The application process is outlined below:</p>
+<ol>
+  <li>Visit the <a href="https://www.unimaid.edu.ng/">UNIMAID website</a>.</li>
+  <li>Click on the Post UTME portal.</li>
+  <li>Access the <a href="https://www.umstad.online/">UMSTAD screening portal</a>.</li>
+  <li>Log in using your JAMB Registration Number as the username.</li>
+  <li>Use <strong>"umstad@2026"</strong> as the default password.</li>
+  <li>Upload a passport photograph not exceeding 200KB.</li>
+  <li>Create a new password.</li>
+  <li>Provide a valid phone number and email address.</li>
+  <li>Generate a Remita payment invoice for the ₦2,000 screening fee.</li>
+  <li>Complete your bio-data information.</li>
+  <li>Enter your O'Level results.</li>
+  <li>Upload all required supporting documents.</li>
+  <li>Submit the application.</li>
+  <li>Download and print the completed application form.</li>
+</ol>
+<p>Applicants are advised to carefully review all information before final submission.</p>
+
+<h2>Important Checklist Before Submitting Your Application</h2>
+<p>Before completing the registration process, candidates should ensure that:</p>
+<ul>
+  <li>UNIMAID is selected as their first-choice institution.</li>
+  <li>Their UTME score meets the minimum requirement for the chosen course.</li>
+  <li>Their subject combination complies with the 2026 JAMB Brochure.</li>
+  <li>They possess at least five relevant O'Level credits.</li>
+  <li>English Language and Mathematics are included among the credits.</li>
+  <li>Their O'Level results have been uploaded on JAMB CAPS.</li>
+  <li>The screening fee is paid through the official Remita platform.</li>
+  <li>All uploaded documents are correct and legible.</li>
+</ul>
+<p>Candidates who do not meet the requirements for their preferred course should consider changing to a programme for which they qualify.</p>
+
+<h2>UNIMAID Screening Registration Deadline</h2>
+<p>The registration exercise will close on <strong>14 August 2026</strong>.</p>
+<p>The university has stated that there will be no extension beyond the announced deadline. Applicants are therefore encouraged to complete their registration early.</p>
+
+<h2>Contact Information for Enquiries</h2>
+<p>Candidates who require clarification or assistance regarding the screening exercise can contact the Admissions Office through the official email address below:</p>
+<p><strong>Email:</strong> <a href="mailto:admissionsoffice@unimaid.edu.ng">admissionsoffice@unimaid.edu.ng</a></p>
+<p>Applicants should use this channel for all admission-related enquiries concerning the 2026/2027 Post-Admission Screening Exercise.</p>
+
+<h2>Final Note to Applicants</h2>
+<p>The University of Maiduguri advises all candidates to carefully review the admission requirements before applying.</p>
+<p>Applicants should ensure that they meet the cut-off mark, course requirements, O'Level conditions, and JAMB CAPS upload requirements to improve their chances of securing admission for the 2026/2027 academic session.</p>`,
+    tags: [
+      "UNIMAID",
+      "University of Maiduguri",
+      "Post UTME",
+      "Direct Entry",
+      "Admission",
+      "2026/2027",
+      "Education",
+      "Nigeria",
+    ],
+  },
+  {
+    id: "bagco-graduate-trainee-programme-2026",
+    title: "BAGCO Graduate Trainee Programme 2026 Opens for Young Graduates in Kano",
+    category: "Career",
+    date: "2026-06-12",
+    excerpt: "BAGCO, a subsidiary of Flour Mills of Nigeria Plc (FMN), has announced the commencement of applications for its 2026 Graduate Trainee Programme.",
+    content: `<h2>BAGCO Graduate Trainee Programme 2026 Opens for Young Graduates in Kano</h2>
+<p>BAGCO, a subsidiary of Flour Mills of Nigeria Plc (FMN), has announced the commencement of applications for its 2026 Graduate Trainee Programme.</p>
+<p>The programme is designed for young graduates seeking to build a career in the manufacturing and packaging industry. Successful candidates will be based in Kano and will participate in structured training, mentorship programmes, and hands-on departmental assignments.</p>
+<p>Applications are currently open to qualified candidates who meet the academic and professional requirements outlined by the company.</p>
+
+<h3>About Flour Mills of Nigeria Plc</h3>
+<p>Flour Mills of Nigeria Plc is one of Nigeria's leading food and agro-allied companies, known for producing quality food products consumed across the country and beyond.</p>
+<p>The company operates several popular brands, including:</p>
+<ul>
+  <li>Golden Penny Flour</li>
+  <li>Golden Penny Semovita</li>
+  <li>Goldenvita</li>
+  <li>Golden Pasta</li>
+  <li>Golden Noodles</li>
+</ul>
+<p>Its flagship brand, Golden Penny, remains one of the most recognized food brands in Nigeria and is widely used by households, bakers, and food manufacturers.</p>
+
+<h3>Overview of the BAGCO Graduate Trainee Programme</h3>
+<p>The BAGCO Graduate Trainee Programme is aimed at developing talented young graduates for future leadership and technical roles within the organisation.</p>
+<p>Participants will gain practical industry experience through:</p>
+<ul>
+  <li>Structured learning programmes</li>
+  <li>Professional mentorship</li>
+  <li>Hands-on departmental rotations</li>
+  <li>Exposure to manufacturing and packaging operations</li>
+  <li>Career development opportunities</li>
+</ul>
+<p>The programme offers a pathway for graduates to build valuable skills while contributing to a leading packaging solutions company.</p>
+
+<h3>Programme Location</h3>
+<p>The 2026 Graduate Trainee Programme will be conducted in <strong>Kano State</strong>.</p>
+<p>Candidates should consider the programme location before applying, as successful applicants will be expected to work and train in Kano.</p>
+
+<h3>Eligible Fields of Study</h3>
+<p>Applications are invited from graduates who studied any of the following disciplines:</p>
+<ul>
+  <li>Mechanical Engineering</li>
+  <li>Electrical Engineering</li>
+  <li>Mechatronics Engineering</li>
+  <li>Industrial Engineering</li>
+  <li>Polymer Engineering</li>
+  <li>Textile Engineering</li>
+  <li>Chemical Engineering</li>
+  <li>Chemistry</li>
+  <li>Related Engineering and Science courses</li>
+</ul>
+<p>Applicants from closely related disciplines may also be considered, provided their qualifications align with the programme requirements.</p>
+
+<h3>Educational and Professional Requirements</h3>
+<p>To qualify for the BAGCO Graduate Trainee Programme, candidates must possess:</p>
+<ul>
+  <li>A Bachelor's Degree or Higher National Diploma (HND) in a relevant field.</li>
+  <li>NYSC discharge certificate or official exemption certificate.</li>
+  <li>Not more than one year of post-NYSC work experience.</li>
+</ul>
+<p>Applicants are also expected to demonstrate:</p>
+<ul>
+  <li>Strong communication skills</li>
+  <li>Analytical thinking abilities</li>
+  <li>Problem-solving capabilities</li>
+  <li>Willingness to learn and adapt</li>
+  <li>Ability to work effectively in a dynamic environment</li>
+</ul>
+
+<h3>Benefits of the Graduate Trainee Programme</h3>
+<p>Successful trainees will enjoy several development opportunities, including:</p>
+
+<h4>Structured Training and Mentorship</h4>
+<p>Participants will receive formal training designed to strengthen technical and professional competencies while learning from experienced industry professionals.</p>
+
+<h4>Real-World Industry Exposure</h4>
+<p>Trainees will work on actual projects and operational activities, gaining practical knowledge of manufacturing and packaging processes.</p>
+
+<h4>Career Development Opportunities</h4>
+<p>The programme is designed to prepare high-performing graduates for future career opportunities within the organisation.</p>
+
+<h4>Competitive Stipend and Benefits</h4>
+<p>Selected candidates will receive a competitive stipend alongside other employment-related benefits.</p>
+
+<h4>Supportive Work Environment</h4>
+<p>Participants will work within a professional and inclusive workplace that encourages learning, innovation, and collaboration.</p>
+
+<h3>Important Eligibility Checklist</h3>
+<p>Before applying, candidates should ensure that they meet the following requirements:</p>
+<ul>
+  <li>Possess a Bachelor's Degree or HND in an approved field.</li>
+  <li>Have completed NYSC or obtained an exemption certificate.</li>
+  <li>Have no more than one year of post-NYSC experience.</li>
+  <li>Studied one of the accepted disciplines or a closely related course.</li>
+  <li>Are willing to work in Kano.</li>
+  <li>Use the correct email subject line, <strong>"GT KANO"</strong>, when submitting their application.</li>
+</ul>
+<p>Failure to meet any of these requirements may affect the application process.</p>
+
+<h3>Application Deadline</h3>
+<p>The deadline for submitting applications is <strong>15 June 2026</strong>.</p>
+<p>Interested candidates are encouraged to submit their applications before the closing date, as late submissions may not be considered.</p>
+
+<h3>How to Apply</h3>
+<p>Qualified and interested candidates should submit their applications via email.</p>
+<p><strong>Application Email:</strong> <a href="mailto:recruitment@bagco-ng.com">recruitment@bagco-ng.com</a></p>
+<p><strong>Email Subject:</strong> GT KANO</p>
+<p>Applicants should ensure that all application details, academic qualifications, and supporting information are accurate before submission.</p>
+
+<h3>Final Note to Applicants</h3>
+<p>The BAGCO Graduate Trainee Programme offers an excellent opportunity for young graduates to gain valuable industry experience and begin a rewarding career with one of Nigeria's leading manufacturing companies.</p>
+<p>Candidates who meet the requirements are encouraged to apply early and ensure that their applications are properly completed before the closing date of 15 June 2026.</p>`,
+    tags: [
+      "BAGCO",
+      "Graduate Trainee",
+      "Kano",
+      "Manufacturing",
+      "Packaging",
+      "Career",
+      "2026",
+      "Nigeria",
+    ],
+  },
+  {
+    id: "fuahse-post-utme-direct-entry-form-2026-2027",
+    title: "FUAHSE Post UTME and Direct Entry Form 2026/2027 Now Available",
+    category: "Education",
+    date: "2026-06-12",
+    excerpt: "The Federal University of Allied Health Sciences, Enugu (FUAHSE), has announced the commencement of applications for undergraduate admission into its various degree programmes for the 2026/2027 academic session.",
+    content: `<h2>FUAHSE Post UTME and Direct Entry Form 2026/2027 Now Available</h2>
+<p>The Federal University of Allied Health Sciences, Enugu (FUAHSE), has announced the commencement of applications for undergraduate admission into its various degree programmes for the 2026/2027 academic session.</p>
+<p>The admission exercise is open to both UTME and Direct Entry candidates who meet the University's requirements.</p>
+<p>Online registration began on <strong>8 June 2026</strong> and will close on <strong>19 August 2026</strong>.</p>
+<p>Candidates who selected FUAHSE as their first-choice institution and those willing to change their institution to FUAHSE through JAMB are eligible to apply.</p>
+
+<h2>Eligibility for FUAHSE Post UTME Screening</h2>
+<p>UTME candidates seeking admission into FUAHSE must:</p>
+<ul>
+  <li>Score at least <strong>150</strong> in the 2026 UTME.</li>
+  <li>Be at least <strong>16 years old</strong>.</li>
+  <li>Possess the required O'Level qualifications for their chosen course.</li>
+  <li>Upload their O'Level results on the JAMB Central Admissions Processing System (CAPS).</li>
+  <li>Complete the online registration before the closing date.</li>
+</ul>
+<p>Candidates who did not initially choose FUAHSE as their first-choice institution may still apply after changing their institution to FUAHSE through the JAMB portal.</p>
+
+<h2>Direct Entry Admission Requirements</h2>
+<p>Direct Entry candidates must possess:</p>
+<ul>
+  <li>National Diploma (ND), Higher National Diploma (HND), or a First Degree in a relevant discipline.</li>
+  <li>Required O'Level credits relevant to the chosen programme.</li>
+</ul>
+<p>In addition, Direct Entry applicants must ensure that their academic transcripts are sent to:</p>
+<p><strong>The Registrar</strong><br>Federal University of Allied Health Sciences, Enugu</p>
+<p>The transcript must reach the University on or before <strong>19 August 2026</strong>.</p>
+<p>Candidates whose transcripts are not received before the deadline will not be considered for admission.</p>
+
+<h2>Available Courses at FUAHSE</h2>
+<p>The University offers admission into the following undergraduate programmes:</p>
+
+<h3>Allied Health and Medical Sciences Programmes</h3>
+<ul>
+  <li>B.Sc. Alternative and Complementary Medicine</li>
+  <li>B.Sc. Community Health</li>
+  <li>B.Sc. Dental Technology</li>
+  <li>B.Sc. Dental Therapy</li>
+  <li>B.Sc. Healthcare Management</li>
+  <li>B.HIM. Health Information Management</li>
+  <li>B.Sc. Human Anatomy</li>
+  <li>B.MLS. Medical Laboratory Science</li>
+  <li>B.NSc. Nursing Science</li>
+  <li>B.Sc. Occupational Therapy</li>
+  <li>B.PO. Prosthetics and Orthotics</li>
+  <li>B.Sc. Public Health</li>
+  <li>B.Sc. Physiology</li>
+  <li>B.Rad. Radiography</li>
+  <li>Doctor of Physiotherapy</li>
+  <li>B.Sc. Speech Therapy</li>
+</ul>
+
+<h3>Science Programmes</h3>
+<ul>
+  <li>B.Sc. Artificial Intelligence</li>
+  <li>B.Sc. Biochemistry</li>
+  <li>B.Sc. Biotechnology</li>
+  <li>B.Sc. Microbiology</li>
+  <li>B.Sc. Parasitology and Entomology</li>
+  <li>B.Sc. Water Hygiene and Sanitation</li>
+</ul>
+
+<h3>Engineering and Technology Programmes</h3>
+<ul>
+  <li>B.Eng. Biomedical Engineering</li>
+  <li>B.Eng. Electrical and Electronics Engineering</li>
+  <li>B.Eng. Mechanical Engineering</li>
+  <li>B.Eng. Mechatronics Engineering</li>
+  <li>B.Eng. Software Engineering</li>
+</ul>
+
+<h3>Social and Management Programmes</h3>
+<ul>
+  <li>B.Sc. Social Work</li>
+</ul>
+<p>Applicants should carefully review the admission requirements for their chosen programme before making payment or completing registration.</p>
+
+<h2>FUAHSE Post UTME Application Fee</h2>
+<p>UTME candidates are required to pay a non-refundable screening fee of:</p>
+<p><strong>₦2,000</strong></p>
+<p>Payment should be made through the approved University payment platform.</p>
+
+<h2>FUAHSE Direct Entry Application Fee</h2>
+<p>Direct Entry candidates are required to purchase the Direct Entry application form at a cost of:</p>
+<p><strong>₦30,000</strong></p>
+<p>The fee is non-refundable and must be paid through the official University portal.</p>
+
+<h2>How to Apply for FUAHSE Admission</h2>
+<p>Eligible candidates should complete their application through the University's admission portal.</p>
+
+<h3>Registration Procedure</h3>
+<ol>
+  <li>Visit the <a href="https://eportal.fuahse.edu.ng/">FUAHSE admission portal</a>.</li>
+  <li>Enter your JAMB Registration Number.</li>
+  <li>Generate a payment invoice containing a Remita Retrieval Reference (RRR) number.</li>
+  <li>Proceed to any commercial bank or pay online using an ATM card.</li>
+  <li>Return to the portal after payment.</li>
+  <li>Click on <strong>"Apply"</strong> to continue the application.</li>
+  <li>Complete the application form.</li>
+  <li>Enter your O'Level results accurately.</li>
+  <li>Review all information carefully.</li>
+  <li>Submit the application.</li>
+  <li>Print the acknowledgement slip.</li>
+</ol>
+<p>After successful registration, candidates will gain access to the portal for uploading their O'Level credentials for screening purposes.</p>
+
+<h2>Screening Process</h2>
+<p>The 2026/2027 Post UTME and Direct Entry screening exercise will be based on:</p>
+<ul>
+  <li>Verified JAMB scores</li>
+  <li>WAEC, NECO, or GCE O'Level results</li>
+  <li>Records uploaded on JAMB CAPS</li>
+</ul>
+<p>Applicants are advised to ensure that all information on their JAMB profile is accurate and updated before the deadline.</p>
+
+<h2>Important Requirements Before Submission</h2>
+<p>Before submitting the application, candidates should ensure that:</p>
+<ul>
+  <li>Their UTME score is at least 150 (where applicable).</li>
+  <li>FUAHSE is selected as their first-choice institution.</li>
+  <li>O'Level results are available and ready for upload.</li>
+  <li>A valid phone number and email address have been provided.</li>
+  <li>Direct Entry transcripts will reach the Registrar before 19 August 2026.</li>
+  <li>Registration is completed before the closing date.</li>
+</ul>
+<p>Candidates who require JAMB regularisation are responsible for completing the process before admission consideration.</p>
+
+<h2>Application Deadline</h2>
+<p>The deadline for the 2026/2027 Post UTME and Direct Entry registration is:</p>
+<p><strong>19 August 2026</strong></p>
+<p>Candidates who fail to complete registration before the deadline will not be considered for admission.</p>
+
+<h2>Contact Information for Enquiries</h2>
+<p>Applicants seeking additional information regarding the admission exercise may contact the University through the following phone numbers:</p>
+<ul>
+  <li>08031524449</li>
+  <li>08034564533</li>
+</ul>
+<p>These lines are available for enquiries relating to the 2026/2027 undergraduate admission process.</p>
+
+<h2>Final Note to Applicants</h2>
+<p>The Federal University of Allied Health Sciences, Enugu, advises all applicants to carefully review admission requirements before submitting their applications.</p>
+<p>Candidates should ensure that all academic records, O'Level uploads, and personal details are correctly submitted to avoid issues during the screening and admission process.</p>
+<p>Early registration is strongly recommended to avoid delays and last-minute challenges before the application deadline.</p>`,
+    tags: [
+      "FUAHSE",
+      "Federal University of Allied Health Sciences Enugu",
+      "Post UTME",
+      "Direct Entry",
+      "Admission",
+      "2026/2027",
+      "Education",
+      "Nigeria",
+    ],
+  },
+  {
     id: "eksuth-college-nursing-post-utme-2026-2027",
     title: "EKSUTH College of Nursing Sciences Post UTME Form 2026/2027: Apply for ND/HND Nursing Admission",
     category: "Education",
@@ -108,6 +1018,277 @@ const allPosts: Post[] = [
       "Nursing",
       "Post UTME",
       "Admission",
+      "2026/2027",
+      "Education",
+      "Nigeria",
+    ],
+  },
+  {
+    id: "delta-state-colleges-nursing-nd-admission-2026-2027",
+    title: "Delta State Colleges of Nursing Sciences ND Nursing Admission Form 2026/2027 Now Open",
+    category: "Education",
+    date: "2026-06-12",
+    excerpt: "The Delta State Colleges of Nursing Sciences has announced the commencement of admission into its National Diploma (ND) Nursing Programme for the 2026/2027 academic session.",
+    content: `<h2>Delta State Colleges of Nursing Sciences ND Nursing Admission Form 2026/2027 Now Open</h2>
+<p>The Delta State Colleges of Nursing Sciences has announced the commencement of admission into its National Diploma (ND) Nursing Programme for the 2026/2027 academic session.</p>
+<p>Applications are invited from suitably qualified candidates seeking admission into any of its campuses located in <strong>Agbor, Asaba, Eku, Warri, and Sapele</strong>.</p>
+<p>Prospective applicants are advised to carefully review the requirements and application procedures before beginning the admission process.</p>
+
+<h2>Eligibility for Delta State Colleges of Nursing Sciences ND Nursing Admission</h2>
+<p>Candidates eligible to apply must meet the following requirements:</p>
+<ul>
+  <li>Minimum UTME score of <strong>150</strong> or above</li>
+  <li>Must select or later change institution to any of the Delta State Colleges of Nursing Sciences campuses through a JAMB accredited centre</li>
+  <li>Must be at least <strong>16 years of age</strong></li>
+</ul>
+<p>Applicants are strongly advised to confirm all eligibility conditions before making payment or proceeding with registration.</p>
+
+<h2>O’Level Requirements for Nursing Admission</h2>
+<p>Candidates must possess at least five (5) credit passes in the following subjects:</p>
+<ul>
+  <li>English Language</li>
+  <li>Mathematics</li>
+  <li>Biology</li>
+  <li>Chemistry</li>
+  <li>Physics</li>
+</ul>
+<p>Accepted examination bodies include WAEC, NECO, and NABTEB.</p>
+<p>For WAEC and NECO, results must be obtained in not more than two sittings. NABTEB results are accepted only in one sitting.</p>
+
+<h2>Application Fee for ND Nursing Form</h2>
+<p>The application form costs <strong>₦20,500 (Twenty Thousand Five Hundred Naira only)</strong>.</p>
+<p>Payment is non-refundable and must be made before proceeding to collect the application form.</p>
+
+<h2>How to Pay for the Application Form</h2>
+<p>Candidates are required to make payment through any Zenith Bank branch using the details below:</p>
+<ul>
+  <li><strong>Account Name:</strong> Ministry of Health, Dept of Nursing and Midwifery</li>
+  <li><strong>Account Number:</strong> 1015649624</li>
+  <li><strong>Bank:</strong> Zenith Bank</li>
+  <li><strong>Amount:</strong> ₦20,500</li>
+</ul>
+<p>After payment, applicants will receive a bank teller which will be used for further processing.</p>
+
+<h2>How to Collect the Application Form</h2>
+<p>After payment, candidates should proceed to the Bursary Department of any chosen campus to collect the physical application form.</p>
+<p>Available campuses include:</p>
+<ul>
+  <li>Agbor</li>
+  <li>Asaba</li>
+  <li>Eku</li>
+  <li>Warri</li>
+  <li>Sapele</li>
+</ul>
+<p>The form contains a unique application ID required for the online registration stage. Candidates are advised to keep this ID safe.</p>
+
+<h2>How to Complete Online Registration</h2>
+<p>After collecting the form, candidates must complete their registration online through the official portal.</p>
+
+<h3>Application Steps:</h3>
+<ol>
+  <li>Visit the <a href="https://applications.dscns.ng/">official application portal</a>.</li>
+  <li>Enter the unique application ID from the physical form.</li>
+  <li>Click continue.</li>
+  <li>Upload a passport photograph.</li>
+  <li>Fill in personal and academic details.</li>
+  <li>Submit and print the completed form with QR code.</li>
+  <li>Submit photocopies of both physical and online forms to the chosen campus.</li>
+</ol>
+<p>Applicants must ensure that all JAMB and O’Level details are correctly entered before final submission.</p>
+
+<h2>Submission of Application Documents</h2>
+<p>Candidates are required to submit:</p>
+<ul>
+  <li>Photocopy of the completed physical application form</li>
+  <li>Printed online application form with QR code</li>
+</ul>
+<p>The original documents should be kept safely for the entrance examination.</p>
+
+<h2>Entrance Examination Details</h2>
+<p>The computer-based screening examination will hold on <strong>15 August 2026</strong> at <strong>9:00 AM</strong>.</p>
+<p>Candidates are expected to report early to their assigned examination centres.</p>
+
+<h2>CBT Screening Venues</h2>
+<p>Candidates will be grouped based on their selected campuses:</p>
+<ul>
+  <li><strong>West Gate ICT Centre:</strong> Eku, Asaba, Sapele campuses</li>
+  <li><strong>Delta State Library:</strong> Warri, Agbor campuses</li>
+</ul>
+<p>Applicants must check their assigned centre before the examination date.</p>
+
+<h2>Requirements for Examination Day</h2>
+<p>Candidates must come with the following:</p>
+<ul>
+  <li>Original copy of the application form</li>
+  <li>Printed online application form containing QR code</li>
+</ul>
+<p>These documents are mandatory for entry into the examination hall.</p>
+
+<h2>Important Guidelines Before Applying</h2>
+<p>Applicants should carefully confirm the following before starting the process:</p>
+<ul>
+  <li>UTME score is <strong>150 or above</strong></li>
+  <li>Candidate is at least <strong>16 years old</strong></li>
+  <li>Required O’Level subjects are credited (English, Mathematics, Biology, Chemistry, Physics)</li>
+  <li>WAEC/NECO results do not exceed two sittings</li>
+  <li>NABTEB results are from one sitting only</li>
+  <li>JAMB institution choice will be changed at an accredited centre</li>
+  <li>Payment is made before form collection at Zenith Bank</li>
+  <li>Bank teller is required for form collection at the Bursary Department</li>
+</ul>
+<p>Proper verification of these details will help prevent errors during registration.</p>
+
+<h2>Enquiries and Contact Information</h2>
+<p>For further enquiries, candidates may contact the following campus lines:</p>
+<ul>
+  <li>Agbor: 08021127762</li>
+  <li>Asaba: 08027445818</li>
+  <li>Sapele: 08130730288</li>
+  <li>Eku: 08035823941</li>
+  <li>Warri: 08037738052</li>
+</ul>
+<p>Applicants are advised to contact the campus relevant to their chosen location for accurate guidance.</p>
+
+<h2>Final Note</h2>
+<p>The Delta State Colleges of Nursing Sciences encourages all interested candidates to complete their application early and ensure all requirements are met before the deadline. Only candidates who successfully complete both physical and online registration will be considered for admission into the 2026/2027 ND Nursing Programme.</p>`,
+    tags: [
+      "Delta State",
+      "Nursing",
+      "Admission",
+      "ND Nursing",
+      "2026/2027",
+      "Education",
+      "Nigeria",
+    ],
+  },
+  {
+    id: "plateau-state-polytechnic-admission-2026-2027",
+    title: "Plateau State Polytechnic Admission Form 2026/2027 Now on Sale for ND, HND and ND II Special Programmes",
+    category: "Education",
+    date: "2026-06-12",
+    excerpt: "Plateau State Polytechnic (PLAPOLY), Barkin Ladi, has commenced the sale of admission forms for the 2026/2027 academic session.",
+    content: `<h2>Plateau State Polytechnic Admission Form 2026/2027 Now on Sale for ND, HND and ND II Special Programmes</h2>
+<p>Plateau State Polytechnic (PLAPOLY), Barkin Ladi, has commenced the sale of admission forms for the 2026/2027 academic session.</p>
+<p>The institution has invited qualified candidates and members of the public seeking admission into its National Diploma (ND), Higher National Diploma (HND), and ND II Special programmes to apply through the official admission portal.</p>
+<p>According to the admission notice, the online application process began on <strong>Monday, 1 June 2026</strong>, and will close on <strong>Friday, 26 August 2026</strong>.</p>
+<p>Prospective applicants are advised to review the available courses and ensure they meet the admission requirements before submitting their applications.</p>
+
+<h2>PLAPOLY Admission Application Period</h2>
+<p>The sale of admission forms for the 2026/2027 academic session commenced on <strong>1 June 2026</strong>.</p>
+<p>Interested candidates have until <strong>26 August 2026</strong> to complete and submit their applications through the Polytechnic's admission portal.</p>
+<p>Applicants are encouraged to apply early to avoid last-minute registration challenges.</p>
+
+<h2>Available ND and HND Engineering Programmes</h2>
+<p>Plateau State Polytechnic offers several Engineering programmes at both National Diploma and Higher National Diploma levels.</p>
+<p>The available Engineering courses include:</p>
+<ul>
+  <li>Civil Engineering</li>
+  <li>Electrical/Electronics Engineering Technology
+    <ul>
+      <li>Machines Option</li>
+      <li>Telecommunication Technology Option</li>
+    </ul>
+  </li>
+  <li>Mechanical Engineering Technology
+    <ul>
+      <li>Plant Option</li>
+      <li>Manufacturing Option</li>
+    </ul>
+  </li>
+  <li>Mineral and Petroleum Resources Engineering Technology
+    <ul>
+      <li>Mining Engineering Technology Option</li>
+      <li>Mineral Engineering Option</li>
+    </ul>
+  </li>
+  <li>Urban and Regional Planning</li>
+</ul>
+<p>Candidates interested in Engineering programmes should carefully select the option that aligns with their academic background and career goals.</p>
+
+<h2>Available HND Science Programmes</h2>
+<p>The Polytechnic has also listed a number of Higher National Diploma programmes in the Science and Applied Science category.</p>
+<p>Available HND Science courses include:</p>
+<ul>
+  <li>Science Laboratory Technology
+    <ul>
+      <li>Physics/Electronics Option</li>
+      <li>Microbiology Option</li>
+      <li>Biology Option</li>
+      <li>Applied Chemistry Option</li>
+      <li>Biochemistry Option</li>
+    </ul>
+  </li>
+  <li>Hospitality Management</li>
+  <li>Leisure and Tourism</li>
+  <li>Mathematics and Statistics</li>
+</ul>
+<p>Applicants should pay attention to programme specialisations where applicable.</p>
+
+<h2>Available HND Humanities and Management Programmes</h2>
+<p>Candidates seeking admission into the Humanities and Management Sciences category can apply for the following HND programmes:</p>
+<ul>
+  <li>Public Administration</li>
+  <li>Accountancy</li>
+  <li>Office Technology and Management</li>
+  <li>Business Administration and Management</li>
+  <li>Marketing</li>
+  <li>Banking and Finance</li>
+  <li>Social Development</li>
+</ul>
+<p>These programmes are designed for candidates looking to build careers in administration, business, finance, and social services.</p>
+
+<h2>Available ND II Special Programmes</h2>
+<p>Plateau State Polytechnic has also opened admission into its ND II Special programmes for qualified candidates.</p>
+<p>The available ND II Special courses are:</p>
+<ul>
+  <li>Accountancy</li>
+  <li>Banking and Finance</li>
+  <li>Business Administration and Management</li>
+  <li>Electrical/Electronics Engineering</li>
+  <li>Library and Information Science</li>
+  <li>Marketing</li>
+  <li>Mass Communication</li>
+  <li>Mechanical Engineering</li>
+  <li>Office Technology and Management</li>
+  <li>Public Administration</li>
+  <li>Science Laboratory Technology</li>
+  <li>Social Development</li>
+</ul>
+<p>Candidates interested in direct entry into ND II Special programmes should verify that they meet the institution's admission requirements before applying.</p>
+
+<h2>How to Apply for Plateau State Polytechnic Admission</h2>
+<p>Interested applicants should complete their registration through the <a href="https://apply.plapolyportal.com/login#jamb-applicant">official Plateau State Polytechnic admission portal</a>.</p>
+<p>During the application process, candidates should:</p>
+<ul>
+  <li>Select the correct programme category (ND, HND, or ND II Special).</li>
+  <li>Provide accurate personal and academic information.</li>
+  <li>Carefully review all entries before final submission.</li>
+  <li>Ensure the chosen course matches the programme category selected.</li>
+</ul>
+<p>Using incorrect information may affect the admission process.</p>
+
+<h2>Important Things to Check Before Applying</h2>
+<p>Before submitting an application, candidates should confirm the following:</p>
+<ul>
+  <li>The intended course is included in the approved admission list for the 2026/2027 academic session.</li>
+  <li>The correct programme level has been selected.</li>
+  <li>The application is being completed before the closing date of 26 August 2026.</li>
+  <li>The registration is being carried out through the official PLAPOLY application portal.</li>
+  <li>Personal and academic details are entered correctly.</li>
+</ul>
+<p>Taking time to verify these details can help applicants avoid common admission mistakes and improve the chances of a successful application.</p>
+
+<h2>Final Note to Prospective Applicants</h2>
+<p>Plateau State Polytechnic has provided a wide range of programmes across Engineering, Science, Humanities, and Management disciplines for the 2026/2027 academic session.</p>
+<p>Interested candidates are advised to apply within the stipulated period and ensure they follow all admission guidelines provided by the institution.</p>
+<p>Applications submitted after the closing date may not be considered.</p>`,
+    tags: [
+      "Plateau State Polytechnic",
+      "PLAPOLY",
+      "Admission",
+      "ND",
+      "HND",
+      "ND II Special",
       "2026/2027",
       "Education",
       "Nigeria",

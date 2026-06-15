@@ -10,6 +10,76 @@ export type Post = {
 
 const allPosts: Post[] = [
   {
+    id: "jamb-2026-admission-chances-by-score",
+    title: "JAMB 2026: What Admission Chances Do Candidates with 140, 150, 180, 200, and 250 Scores Have?",
+    category: "Education",
+    date: "2026-06-15",
+    excerpt: "The Joint Admissions and Matriculation Board (JAMB) 2026 Unified Tertiary Matriculation Examination (UTME) results are out, and many candidates are wondering what their scores mean for their admission chances. This guide breaks down the prospects for candidates with scores ranging from 140 to 250 and above, considering the official JAMB cut-off marks for various institutions.",
+    content: `<h2>JAMB 2026: What Admission Chances Do Candidates with 140, 150, 180, 200, and 250 Scores Have?</h2>
+<p>The Joint Admissions and Matriculation Board (JAMB) 2026 Unified Tertiary Matriculation Examination (UTME) results are out, and many candidates are eagerly wondering what their scores mean for their admission chances. Securing admission into a tertiary institution in Nigeria is a competitive process, and your UTME score is a critical first step. This guide breaks down the prospects for candidates across various score ranges, considering the official JAMB cut-off marks for different institution types.</p>
+
+<h3>Understanding the Official JAMB 2026 Cut-Off Marks</h3>
+<p>The Joint Admissions and Matriculation Board recently announced the minimum acceptable cut-off marks for the 2026/2027 academic session. These are the baseline scores below which no institution is permitted to offer admission. However, individual institutions and specific courses often set their own higher cut-off marks due to competitiveness.</p>
+
+<table class="w-full border-collapse border border-gray-300 my-4 text-sm">
+  <thead>
+    <tr class="bg-gray-100 text-left">
+      <th class="border border-gray-300 p-2">Institution Type</th>
+      <th class="border border-gray-300 p-2">Minimum UTME Score</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td class="border border-gray-300 p-2">Universities</td><td class="border border-gray-300 p-2">150</td></tr>
+    <tr><td class="border border-gray-300 p-2">Colleges of Nursing</td><td class="border border-gray-300 p-2">150</td></tr>
+    <tr><td class="border border-gray-300 p-2">Polytechnics</td><td class="border border-gray-300 p-2">100</td></tr>
+    <tr><td class="border border-gray-300 p-2">Colleges of Education/Agriculture</td><td class="border border-gray-300 p-2">No UTME score required (but JAMB registration and CAPS verification still mandatory)</td></tr>
+  </tbody>
+</table>
+<p>It's important to note that while some Colleges of Education and agriculture-related programmes no longer require a UTME score, JAMB registration and verification through the Central Admissions Processing System (CAPS) are still mandatory.</p>
+
+<h3>Your Admission Chances Based on UTME Score</h3>
+
+<h4>Scores Below 100</h4>
+<p>Candidates scoring below 100 generally have very limited chances of gaining admission into any institution that requires a UTME score. Your best bet would be to explore institutions that do not require UTME, such as some Colleges of Education or certain specialized programmes, or consider re-sitting the JAMB examination next year. Ensure you verify the specific admission criteria for such institutions.</p>
+
+<h4>Scores Between 100 and 149</h4>
+<p>If your score falls within this range, you are eligible for admission into Polytechnics, Monotechnics, Colleges of Agriculture, and Innovation Enterprise Institutions (IEIs). Many of these institutions offer excellent technical and vocational training. While you might not be eligible for universities or Colleges of Nursing based on the minimum JAMB cut-off, some state or private polytechnics might be a good fit. Focus on researching institutions and courses where your score is competitive, and prepare thoroughly for any Post-UTME screening they might conduct.</p>
+
+<h4>Scores Between 150 and 179</h4>
+<p>With a score of 150 and above, you meet the minimum eligibility for admission into universities and Colleges of Nursing. This opens up more options, particularly for state and private universities, as well as some federal universities with less competitive courses. However, for highly sought-after courses in federal universities, a score in this range might still be challenging. Your chances are significantly better for polytechnics and other non-university institutions. Ensure your O'Level results are strong, as they will play a crucial role in the screening process.</p>
+
+<h4>Scores Between 180 and 199</h4>
+<p>A score in this range significantly improves your chances for admission into many university programmes, especially in state and private universities. For federal universities, while you meet the general cut-off, admission into highly competitive courses like Medicine, Law, or Engineering might still be tough. However, many science, arts, education, and management courses in federal universities could be within reach. Focus on institutions whose departmental cut-off marks align with your score, and prepare diligently for any Post-UTME or screening exercises.</p>
+
+<h4>Scores Between 200 and 249</h4>
+<p>This is a strong score range that puts you in a good position for admission into most university courses, including some competitive ones, across federal, state, and private institutions. You will likely meet the departmental cut-off marks for a wide array of programmes. Your focus should be on excelling in the Post-UTME or screening exercise of your chosen institution, as this will be the deciding factor. Ensure your O'Level results are impeccable.</p>
+
+<h4>Scores of 250 and Above</h4>
+<p>Congratulations! A score of 250 and above places you in an excellent position for admission into virtually any course and institution in Nigeria, including the most competitive federal universities and highly sought-after professional programmes like Medicine and Surgery, Law, Pharmacy, and various Engineering disciplines. Your primary focus should be on performing well in the Post-UTME or screening exercise and ensuring all your O'Level requirements are met. This score gives you a significant advantage in the admission race.</p>
+
+<h3>Important Considerations Beyond Your JAMB Score</h3>
+
+<ul>
+  <li><strong>Departmental Cut-Off Marks:</strong> Remember that institutions set their own departmental cut-off marks, which are often higher than the general JAMB minimum. Always check the specific requirements for your desired course and university.</li>
+  <li><strong>O'Level Results:</strong> Your O'Level grades are paramount. Most institutions require at least five credit passes in relevant subjects, including English Language and Mathematics, obtained in one or two sittings. For highly competitive courses like Medicine, one sitting is often mandatory.</li>
+  <li><strong>Post-UTME/Screening:</strong> Many universities conduct a Post-UTME examination or an internal screening process. Your performance in this stage is crucial and can significantly impact your admission chances, even with a high JAMB score.</li>
+  <li><strong>Catchment Area/Indigeneship:</strong> For state and some federal universities, being an indigene of the state or falling within the institution's catchment area can offer a slight advantage.</li>
+  <li><strong>Course Competitiveness:</strong> Courses like Medicine and Surgery, Law, Pharmacy, Nursing, and various Engineering fields are consistently highly competitive and demand higher scores and stronger academic profiles.</li>
+</ul>
+
+<h3>Conclusion</h3>
+<p>Your JAMB 2026 UTME score is a vital indicator, but it's just one piece of the admission puzzle. Regardless of your score, thorough research into your chosen institutions and courses, diligent preparation for Post-UTME/screening, and ensuring all your O'Level requirements are met will significantly boost your chances. Don't be discouraged by a lower score; explore all available options, including polytechnics and Colleges of Education, which offer valuable qualifications and career pathways. Good luck!</p>`,
+    tags: [
+      "JAMB",
+      "UTME",
+      "Admission",
+      "Cut-off Marks",
+      "Education",
+      "Nigeria",
+      "2026",
+    ],
+  },
+  {
     id: "zamsu-academic-calendar-2025-2026",
     title: "ZAMSU Academic Calendar for 2025/2026 Session Released",
     category: "Education",

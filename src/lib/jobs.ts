@@ -45,9 +45,422 @@ function parseDeadline(deadlineString: string): string | null {
   return null; // Unable to parse, treat as non-expired
 }
 
-const currentDate = '2026-06-11'; // Current date for comparison (June 11, 2026)
+const currentDate = '2026-06-17'; // Current date for comparison (June 17, 2026)
 
 const allJobs: Job[] = [
+  {
+    id: "purchasing-supervisor-detergent-ikoyi-2026",
+    title: "Purchasing Supervisor (Detergent Factory)",
+    date: "2026-06-17",
+    location: "Ikoyi, Lagos",
+    type: "Full-Time",
+    salary: "Not Specified",
+    deadline: "Not Specified",
+    summary: "Supervise daily purchasing activities, ensuring procurement processes are efficient and meet company standards within the FMCG industry.",
+    responsibilities: [
+      "Supervise daily purchasing activities, ensuring procurement processes are efficient and meet company standards",
+      "Oversee the sourcing and procurement of materials, equipment and services",
+      "Ensure purchase orders are accurate and issued on time",
+      "Identify and evaluate supplier to ensure reliability, quality and cost-effectiveness",
+      "Assign tasks and monitor team performance to ensure goals and deadline are met",
+      "Ensure procurement activities adhere to company policies, legal requirements and industry standards",
+      "Prepare and present reports on procurement performance",
+      "Work closely with other departments to align purchasing activities with business needs"
+    ],
+    requirements: [
+      "B.Sc. in a related field",
+      "Minimum of 5 years’ experience in procurement",
+      "At least 2 years in a supervisory role in an FMCG industry"
+    ],
+    apply: 'Qualified candidate should send CVs to: <a href="mailto:uchenna.edeh@esrnl.com">uchenna.edeh@esrnl.com</a> using the job role as the subject'
+  },
+  {
+    id: "supply-chain-officer-trax-apparel-lekki-2026",
+    title: "Supply Chain Officer",
+    date: "2026-06-17",
+    location: "Lekki, Lagos (On-site)",
+    type: "Full-Time",
+    company: "Trax Apparel Global Limited",
+    salary: "Competitive based on experience",
+    deadline: "30th June, 2026",
+    summary: "Manage the flow of materials and products from suppliers to our workshop and out to customers for a luxury bespoke clothing brand.",
+    responsibilities: [
+      "Source fabrics, leather, hardware, and packaging from reliable suppliers",
+      "Track raw materials and finished goods; conduct regular stock checks",
+      "Coordinate with tailors and craftsmen to ensure materials are available",
+      "Arrange deliveries for raw materials and customer orders",
+      "Maintain relationships with suppliers and onboard new vendors",
+      "Prepare weekly reports on inventory, purchases, and delivery status",
+      "Monitor material costs and ensure quality standards are met"
+    ],
+    requirements: [
+      "3 years + experience in supply chain, procurement, inventory, or logistics",
+      "Familiar with Lagos markets and supplier networks for fashion materials",
+      "Proficient in Excel/Google Sheets; experience with inventory apps is a plus",
+      "Strong negotiation and communication skills in English",
+      "Based in Lagos and available for occasional market visits"
+    ],
+    apply: 'Send your CV to: <a href="mailto:people@traxapparel.fashion">people@traxapparel.fashion</a> with subject "Application – Supply Chain Officer"'
+  },
+  {
+    id: "hr-officer-lagos-island-fadac-2026",
+    title: "Human Resources Officer",
+    date: "2026-06-17",
+    location: "Lagos Island",
+    type: "Full-Time",
+    salary: "Not Specified",
+    deadline: "Not Specified",
+    summary: "Coordinate recruitment, onboarding, and general HR support across departments for a growing organization.",
+    responsibilities: [
+      "Coordinate recruitment and onboarding activities",
+      "Maintain employee records and HR documentation",
+      "Support performance management and employee engagement initiatives",
+      "Assist with payroll, leave administration, and HR reporting",
+      "Ensure compliance with company policies and labour regulations",
+      "Handle employee inquiries and provide HR support"
+    ],
+    requirements: [
+      "Bachelor’s degree in Human Resources, Business Administration, or related field",
+      "2–3 years’ relevant HR experience",
+      "Strong knowledge of HR processes and labour laws",
+      "Proficiency in Microsoft Office Suite",
+      "Male preferred"
+    ],
+    apply: 'Apply to: <a href="mailto:favour.a@fadacresources.com">favour.a@fadacresources.com</a> with subject "HR OFFICER"'
+  },
+  {
+    id: "facility-manager-apapa-engineering-2026",
+    title: "Facility Manager",
+    date: "2026-06-17",
+    location: "Apapa, Lagos",
+    type: "Full-Time",
+    salary: "₦500,000 - ₦600,000",
+    deadline: "25th June, 2026",
+    summary: "Experienced Facility Manager for immediate employment to oversee building operations and maintenance in Apapa.",
+    responsibilities: [
+      "Oversee day-to-day facility operations and maintenance",
+      "Manage utility systems and vendor contracts",
+      "Ensure structural and mechanical systems are in top condition",
+      "Handle administrative reporting and facility budgets"
+    ],
+    requirements: [
+      "B.Sc Engineering / Building",
+      "7-10 years experience in facility management",
+      "MBA is an added advantage"
+    ],
+    apply: 'Send CV to: <a href="mailto:Gpm@oreguncl.com">Gpm@oreguncl.com</a> or call 08145857803'
+  },
+  {
+    id: "operations-lead-storage-hubs-lagos-2026",
+    title: "Operations Lead – Storage Hubs",
+    date: "2026-06-17",
+    location: "Lagos",
+    type: "Full-Time",
+    company: "Pan Africas Advisory and Consulting LLP",
+    salary: "Not Specified",
+    deadline: "Not Specified",
+    summary: "Oversee aggregation, warehousing, and operational performance for storage hub facilities.",
+    responsibilities: [
+      "Lead operational planning and warehousing management",
+      "Monitor performance and drive process improvements",
+      "Coordinate with stakeholders to ensure efficient operations",
+      "Supervise daily activities at storage hubs"
+    ],
+    requirements: [
+      "7+ years operations, warehousing, logistics, or supply chain experience"
+    ],
+    apply: 'Apply to: <a href="mailto:timilehinadekunle@tri-inspire.com">timilehinadekunle@tri-inspire.com</a> with subject "Operations Lead – Storage Hubs"'
+  },
+  {
+    id: "minzo-africa-tech-talent-remote-2026",
+    title: "Tech Talent (Full-Stack Developers, AI Engineers, UI/UX Designers)",
+    date: "2026-06-17",
+    location: "Remote (Nigeria)",
+    type: "Remote / Project-Based",
+    company: "Minzo Africa",
+    salary: "₦400,000 – ₦1,500,000",
+    deadline: "Not Specified",
+    summary: "Work on impactful cross-border technology projects and contribute to innovative digital products with social and economic impact.",
+    responsibilities: [
+      "Develop platforms, systems, or digital experiences",
+      "Collaborate across borders (Nigeria and Liberia)",
+      "Contribute to products with real social and economic impact"
+    ],
+    requirements: [
+      "Strong technical expertise in your specific field",
+      "Experience building real-world digital products",
+      "Ability to work independently and collaboratively"
+    ],
+    apply: 'Apply here: <a href="https://docs.google.com/forms/d/e/1FAIpQLSfwF3pTQe5Nw94wTF4NCIuNC3ppVbQ8Jz2Gw2S1NOq_Ck-nxQ/viewform">Online Application</a>'
+  },
+  {
+    id: "executive-assistant-dear-hr-lagos-2026",
+    title: "Executive Assistant",
+    date: "2026-06-17",
+    location: "Lagos",
+    type: "Full-Time",
+    company: "Dear HR Consulting",
+    salary: "₦300,000/month",
+    deadline: "Not Specified",
+    summary: "Serve as the Founder’s operational right hand, managing calendars, deliverables, and correspondence with high discretion.",
+    responsibilities: [
+      "Manage calendar and track deliverables",
+      "Coordinate meetings and handle correspondence",
+      "Ensure commitments get executed efficiently",
+      "Maintain high-level executive etiquette"
+    ],
+    requirements: [
+      "3 to 8 years of EA/executive support experience",
+      "Skilled with Notion, Excel, PowerPoint, and AI tools",
+      "Strong writing, discretion, and follow-through"
+    ],
+    apply: 'Apply to: <a href="mailto:applications@dearhrconsulting.com">applications@dearhrconsulting.com</a> with subject "Executive Assistant"'
+  },
+  {
+    id: "head-communications-procurement-abuja-2026",
+    title: "Head of Communications / Procurement Officer / Maintenance Officer",
+    date: "2026-06-17",
+    location: "Abuja",
+    type: "Full-Time",
+    salary: "Competitive",
+    deadline: "Not Specified",
+    summary: "Multiple strategic and operational roles available for exceptional talent in Abuja.",
+    responsibilities: [
+      "Head of Communications: Execute communication strategies and manage brand reputation",
+      "Procurement Officer: Manage vendors, sourcing, negotiation, and inventory control",
+      "Maintenance Officer: Plumbing and general facility maintenance and equipment repair",
+      "Hostesses: Create a warm guest experience and manage customer focus"
+    ],
+    requirements: [
+      "Bachelor’s degree in any discipline",
+      "Completion of NYSC is mandatory",
+      "Head of Communications: Minimum 12 years’ experience",
+      "Procurement Officer: Minimum 3 years’ experience"
+    ],
+    apply: 'Send CV to: <a href="mailto:femi@maishayicoffee.com">femi@maishayicoffee.com</a> with the job title as the subject'
+  },
+  {
+    id: "ai-ml-engineer-macro-shifts-remote-2026",
+    title: "AI/ML Engineer",
+    date: "2026-06-17",
+    location: "Remote",
+    type: "Full-Time",
+    company: "Macro Shifts",
+    salary: "Not Specified",
+    deadline: "Not Specified",
+    summary: "Design and ship ML / LLM features into live products, working directly with founders.",
+    responsibilities: [
+      "Design and ship ML / LLM features into live products",
+      "Build data pipelines, models and evaluation loops",
+      "Work directly with founders on what to build"
+    ],
+    requirements: [
+      "3+ years in applied ML / AI engineering",
+      "Strong Python and modern ML/LLM tooling (Cursor, Claude, etc.)",
+      "Proven track record of shipping research that reaches users"
+    ],
+    apply: 'Send CV and portfolio to: <a href="mailto:careers@macroshifts.com">careers@macroshifts.com</a>'
+  },
+  {
+    id: "carpenter-luxury-furniture-oshodi-2026",
+    title: "Carpenter",
+    date: "2026-06-17",
+    location: "Oshodi, Lagos",
+    type: "Full-Time",
+    company: "Luxury Furniture Manufacturing",
+    salary: "Not Specified",
+    deadline: "Not Specified",
+    summary: "Seeking a skilled Carpenter with experience in luxury furniture production to join a premium team in Oshodi.",
+    responsibilities: [
+      "Execute luxury furniture production tasks",
+      "Working with hardwoods, veneers, and laminates",
+      "Read and interpret technical drawings",
+      "Apply premium finishing techniques"
+    ],
+    requirements: [
+      "Minimum of 3 years’ carpentry experience",
+      "Must have worked with a luxury furniture company",
+      "Excellent attention to detail and craftsmanship"
+    ],
+    apply: 'Send CV to: <a href="mailto:cv@ascentech.com.ng">cv@ascentech.com.ng</a> using "Carpenter – Gladys" as subject'
+  },
+  {
+    id: "hr-operations-manager-interior-ikoyi-2026",
+    title: "HR/Operations Manager",
+    date: "2026-06-17",
+    location: "Ikoyi, Lagos",
+    type: "Full-Time (Hybrid)",
+    company: "Interior Firm",
+    salary: "₦500,000 – ₦550,000 Net",
+    deadline: "Not Specified",
+    summary: "Lead HR and operations for a top interior firm, managing teams, vendors, and office standards in Ikoyi.",
+    responsibilities: [
+      "Manage recruitment, payroll, and employee relations",
+      "Oversee day-to-day office operations and maintenance",
+      "Manage relationships with vendors and contractors",
+      "Lead various projects related to HR and operations"
+    ],
+    requirements: [
+      "3+ years in Operations/HR/Admin",
+      "Proven record in managing teams of 10+ people",
+      "Must reside within Ikoyi, VI or central Mainland (Ikeja/Surulere)",
+      "Ready to work 2-3 Saturdays in a month"
+    ],
+    apply: 'Send CV to: <a href="mailto:patricianwanozie@yahoo.com">patricianwanozie@yahoo.com</a>'
+  },
+  {
+    id: "hr-manager-baruwa-ipaja-qsr-2026",
+    title: "HR Manager (QSR)",
+    date: "2026-06-17",
+    location: "Baruwa, Ipaja, Lagos",
+    type: "Full-Time",
+    salary: "₦350,000 – ₦400,000 Net",
+    deadline: "Not Specified",
+    summary: "Lead HR strategies and administrative duties for a Quick Service Restaurant brand in Ipaja.",
+    responsibilities: [
+      "Develop and implement HR strategies aligned with business goals",
+      "Manage high-volume recruitment for restaurant and corporate roles",
+      "Oversee onboarding, training, and employee development",
+      "Ensure compliance with Nigerian labour laws",
+      "Oversee Administrative duties including Lawma and maintenance tasks"
+    ],
+    requirements: [
+      "Bachelor’s degree in HR or related field",
+      "3–5 years HR experience (minimum 1–2 years in QSR/FMCG/Retail)",
+      "Professional certification (CIPM, SHRM, or HRCI) is an advantage"
+    ],
+    apply: 'Send CV to: <a href="mailto:cynthiagodwin20@gmail.com">cynthiagodwin20@gmail.com</a> with subject "HR Manager – Lagos (QSR)"'
+  },
+  {
+    id: "technical-support-officer-lekki-briccs-2026",
+    title: "Technical Support Officer",
+    date: "2026-06-17",
+    location: "Lekki Phase 1, Lagos",
+    type: "Full-Time",
+    company: "Briccs Int.",
+    salary: "Attractive",
+    deadline: "27th June, 2026",
+    summary: "Provide technical assistance, support software operations, and contribute to system improvement initiatives in a tech-driven environment.",
+    responsibilities: [
+      "Provide technical assistance and support software operations",
+      "Contribute to system improvement initiatives",
+      "Troubleshoot software and system-related issues",
+      "Work in an Agile environment to support application development"
+    ],
+    requirements: [
+      "B.Sc./HND in Computer Science, IT, Engineering or related discipline",
+      "Minimum of 2 years relevant technical support experience",
+      "Proximity to Lekki Phase 1 is essential"
+    ],
+    apply: 'Send CV to: <a href="mailto:recruitments@briccsint.com">recruitments@briccsint.com</a> with subject "Technical Support Officer Application"'
+  },
+  {
+    id: "internal-audit-manager-yaba-2026",
+    title: "Internal Audit Manager",
+    date: "2026-06-17",
+    location: "Yaba, Lagos (On-site)",
+    type: "Full-Time",
+    salary: "₦500,000 – ₦600,000 Monthly",
+    deadline: "Not Specified",
+    summary: "Provide independent assurance and strengthen risk management for a client across multiple business operations.",
+    responsibilities: [
+      "Strengthen risk management, internal controls, and compliance",
+      "Oversee audit across QSR outlets, supply chain, and head office",
+      "Utilize POS systems and financial ERPs for auditing",
+      "Draft and present independent assurance reports"
+    ],
+    requirements: [
+      "BSc/HND in Accounting/Finance obtained not later than 2014",
+      "Must be a chartered accountant (ICAN/ACCA/ACA required)",
+      "Minimum 5–7 years internal audit experience, preferably in QSR"
+    ],
+    apply: 'Send CV to: <a href="mailto:fixgapconsulting@gmail.com">fixgapconsulting@gmail.com</a> with subject "Internal Audit Manager Lagos"'
+  },
+  {
+    id: "executive-driver-aja-vi-2026",
+    title: "Executive Driver",
+    date: "2026-06-17",
+    location: "Aja, Lagos",
+    type: "Full-Time",
+    salary: "₦150,000 (Non-negotiable)",
+    deadline: "Not Specified",
+    summary: "Urgent need for a reliable Executive Driver residing around Aja axis. Interview to hold in VI.",
+    responsibilities: [
+      "Safely transport personnel to designated locations",
+      "Maintain vehicle cleanliness and log maintenance checks"
+    ],
+    requirements: [
+      "Minimum 2 years experience as an executive driver",
+      "Must reside around Aja environment"
+    ],
+    apply: 'Send WhatsApp message to: <a href="https://wa.me/2348138943587">+234 813 894 3587</a>'
+  },
+  {
+    id: "head-of-sales-hmo-lagos-mainland-2026",
+    title: "Head of Sales",
+    date: "2026-06-17",
+    location: "Lagos Mainland",
+    type: "Full-Time",
+    salary: "Not Specified",
+    deadline: "Not Specified",
+    company: "Health Insurance (HMO)",
+    summary: "Lead the sales function, drive revenue growth, and manage high-performing teams across multiple channels.",
+    responsibilities: [
+      "Develop and execute sales strategies aligned with goals",
+      "Lead, mentor, and manage sales teams to exceed targets",
+      "Identify new business opportunities and distribution channels",
+      "Build and maintain strong relationships with corporate clients and brokers"
+    ],
+    requirements: [
+      "8–10 years’ progressive sales experience, with 5 years in senior leadership",
+      "Experience within HMO, insurance, or healthcare sector is highly preferred",
+      "Strong strategic planning and relationship management skills"
+    ],
+    apply: 'Apply via form: <a href="https://forms.gle/4cfY2bV6eQ8J1Hnv8">Online Application</a>'
+  },
+  {
+    id: "it-executive-mowe-pharma-2026",
+    title: "IT Executive",
+    date: "2026-06-17",
+    location: "Mowe, Ogun State",
+    type: "Full-Time",
+    salary: "₦250,000 – ₦300,000 Monthly Net",
+    deadline: "Not Specified",
+    company: "Pharmaceutical Manufacturing Company",
+    summary: "Perform IT functions and support technical infrastructure within a pharmaceutical manufacturing environment.",
+    responsibilities: [
+      "Perform IT functions in a pharmaceutical manufacturing setting",
+      "Maintain hardware, software, and networking systems",
+      "Provide technical support to staff and troubleshoot issues"
+    ],
+    requirements: [
+      "BSc / HND in Computer Science, Engineering, ICT or related field",
+      "5-6 years of experience as an ICT personnel",
+      "Proximity to Mowe, Ikeja, Ojodu-Berger axis is a plus"
+    ],
+    apply: 'Send CV to: <a href="mailto:metusmetus73@gmail.com">metusmetus73@gmail.com</a> or <a href="mailto:transnationalzamiva21@yahoo.com">transnationalzamiva21@yahoo.com</a>'
+  },
+  {
+    id: "lawyer-ogba-law-firm-2026",
+    title: "Lawyer",
+    date: "2026-06-17",
+    location: "Ogba, Lagos",
+    type: "Full-Time",
+    salary: "₦200,000 Monthly",
+    deadline: "Not Specified",
+    summary: "A law firm in Ogba requires the services of a young male lawyer for legal operations and client representation.",
+    responsibilities: [
+      "Legal representation and research",
+      "Drafting legal documents and contracts",
+      "Managing client files and schedules (9am-5pm)"
+    ],
+    requirements: [
+      "Must have been called to the bar",
+      "1-5 years post-bar experience",
+      "Computer literate"
+    ],
+    apply: 'Email CV to: <a href="mailto:eakpuduvo@gmail.com">eakpuduvo@gmail.com</a> or WhatsApp to 09055515077'
+  },
   {
     id: "sales-engineer-lagos-oil-gas-2026",
     title: "Sales Engineer",

@@ -45,9 +45,582 @@ function parseDeadline(deadlineString: string): string | null {
   return null; // Unable to parse, treat as non-expired
 }
 
-const currentDate = '2026-06-17'; // Current date for comparison (June 17, 2026)
+const currentDate = '2026-06-18'; // Current date for comparison (June 18, 2026)
 
 const allJobs: Job[] = [
+  {
+    id: "video-editor-ai-specialist-remote-2026",
+    title: "Video Editor (AI Specialist)",
+    date: "2026-06-18",
+    location: "Remote",
+    type: "Full-Time",
+    salary: "Not Specified",
+    deadline: "26th June, 2026",
+    summary: "Visual storyteller leveraging generative video and AI workflow tools to edit content creatively and efficiently.",
+    responsibilities: [
+      "Edit long-form content for YouTube and short-form content for TikTok/Reels/Shorts",
+      "Utilize AI for color grading, audio enhancement, and auto-captioning",
+      "Use generative fill and AI visual effects to create new assets",
+      "Turn text scripts into visual storyboards or preliminary assets"
+    ],
+    requirements: [
+      "Proficiency in Adobe Premiere Pro, CapCut, or DaVinci Resolve",
+      "Experience with AI video tools like Runway Gen-2, Pika Labs, and Topaz Video AI",
+      "Experience with AI audio tools (Adobe Podcast, ElevenLabs)",
+      "Strong visual storytelling skills"
+    ],
+    apply: 'Send CV and Portfolio to: <a href="mailto:resourcelinkintegratedservices@gmail.com">resourcelinkintegratedservices@gmail.com</a> using formatting: [Role Name] – [Your Name]'
+  },
+  {
+    id: "full-stack-ai-developer-remote-estrada-2026",
+    title: "Full Stack AI Developer",
+    date: "2026-06-18",
+    location: "Fully Remote (Daily Check-ins Required)",
+    type: "Full-Time",
+    company: "Estrada International",
+    salary: "N400,000 gross monthly",
+    deadline: "27th July, 2026",
+    summary: "High-ownership role focused on building and shipping AI-accelerated software products from zero to launch.",
+    responsibilities: [
+      "Build and ship full-stack software products end-to-end",
+      "Take ownership of development from idea to first paying customer",
+      "Lead bi-weekly technical architecture and design reviews",
+      "Deploy AI tools to accelerate development speed and quality",
+      "Align technical decisions with business priority and revenue goals"
+    ],
+    requirements: [
+      "Experience as technical founder or early-stage engineer in a high-growth startup",
+      "Strong bias for execution and shipping usable products quickly",
+      "Comfortable in ambiguous, zero-to-one environments",
+      "Strong understanding of full-stack systems and product architecture"
+    ],
+    apply: 'Send CV to: <a href="mailto:a.adebayo@estradaintl.com">a.adebayo@estradaintl.com</a>'
+  },
+  {
+    id: "product-manager-tutor-remote-conclase-2026",
+    title: "Product Manager",
+    date: "2026-06-18",
+    location: "Remote",
+    type: "Full-Time",
+    company: "Conclase",
+    salary: "Not Specified",
+    deadline: "Not Specified",
+    summary: "Guide and mentor aspiring product management professionals through online instruction and feedback.",
+    responsibilities: [
+      "Create and deliver lesson plans for product management",
+      "Conduct virtual training sessions and evaluate progress",
+      "Provide mentorship and feedback to aspiring professionals",
+      "Stay updated on PM practices to enhance course relevance"
+    ],
+    requirements: [
+      "Bachelor’s degree in a relevant field or equivalent professional experience in product management",
+      "Strong understanding of product management principles, product lifecycle, and agile methodologies",
+      "Experience with project management tools such as JIRA, Trello, or Asana",
+      "Excellent communication and mentoring skills"
+    ],
+    apply: 'Forward Resume to: <a href="mailto:careers@conclaseint.com">careers@conclaseint.com</a>'
+  },
+  {
+    id: "ecommerce-cro-retention-manager-abuja-remote-2026",
+    title: "E-commerce CRO & Retention Manager",
+    date: "2026-06-18",
+    location: "Abuja (Remote)",
+    type: "Full-Time",
+    salary: "N500,000 – N600,000 monthly (gross)",
+    deadline: "Not Specified",
+    summary: "Optimize Shopify conversion rates, boost Average Order Value (AOV), and drive recurring revenue through retention strategies.",
+    responsibilities: [
+      "Design and execute A/B tests across Shopify site (landing, product, checkout pages)",
+      "Analyze user behavior using heatmaps and recordings (Hotjar, Clarity)",
+      "Own email and SMS marketing channels (Klaviyo, Postscript)",
+      "Manage and grow 'Subscribe & Save' and loyalty programs",
+      "Execute Amazon-to-D2C customer migration strategies"
+    ],
+    requirements: [
+      "3–5+ years of experience in E-commerce CRO, Retention, or Lifecycle Marketing",
+      "Deep expertise in Shopify ecosystem and Google Analytics 4",
+      "Hands-on experience with Klaviyo and subscription apps (Recharge, Skio)",
+      "Analytical mindset with high proficiency in Excel/Google Sheets"
+    ],
+    apply: 'Apply: <a href="https://herbalgoodness.bamboohr.com/careers/159?utm_source=HNJ">Online Portal</a>'
+  },
+  {
+    id: "social-media-content-manager-johnolans-designs-lagos-2026",
+    title: "Experienced Social Media & Content Manager",
+    date: "2026-06-18",
+    location: "Lagos (Remote / Hybrid)",
+    type: "Full-Time",
+    company: "Johnolans Designs",
+    salary: "Based on experience",
+    deadline: "Not Specified",
+    summary: "Help build and position an architecture brand across digital platforms ahead of official launch.",
+    responsibilities: [
+      "Develop and manage monthly content calendars for major platforms",
+      "Create and publish content across IG, FB, LI, Pinterest, TikTok",
+      "Plan launch campaigns for stock home plans and design collections",
+      "Write compelling captions, hooks, and short-form video scripts",
+      "Manage community engagement and analyze performance reports"
+    ],
+    requirements: [
+      "Proven experience managing social media accounts for a professional service brand",
+      "Strong understanding of short-form content strategy and audience growth",
+      "Excellent writing skills for brand storytelling and campaign copy",
+      "Experience in architecture, real estate, or construction is a strong advantage"
+    ],
+    apply: 'Send Portfolio and samples to: <a href="mailto:careers@johnolansdesigns.com">careers@johnolansdesigns.com</a>'
+  },
+  {
+    id: "digital-ads-manager-remote-fashion-2026",
+    title: "Digital Ads Manager",
+    date: "2026-06-18",
+    location: "Remote",
+    type: "Full-Time",
+    salary: "N150,000 – N200,000 / Month + Bonus",
+    deadline: "30th July, 2026",
+    summary: "Handle and scale paid advertising campaigns for a fashion brand on Meta and TikTok.",
+    responsibilities: [
+      "Run Meta (Instagram/Facebook) and TikTok ad campaigns",
+      "Optimize ads for sales and ROAS (Return on Ad Spend)",
+      "Manage targeting, retargeting, and audience segmentation",
+      "Scale winning campaigns and report results to the team"
+    ],
+    requirements: [
+      "HND / Bachelor’s Degree",
+      "3-5 years experience running successful e-commerce ads",
+      "Strong knowledge of Meta Ads Manager",
+      "Experience in fashion or retail ads is an advantage"
+    ],
+    apply: 'Send CV to: <a href="mailto:bevanyresources@gmail.com">bevanyresources@gmail.com</a>'
+  },
+  {
+    id: "social-media-manager-remote-homeowners-2026",
+    title: "Social Media Manager",
+    date: "2026-06-18",
+    location: "Remote",
+    type: "Full-Time (8AM PST – 4PM PST)",
+    salary: "$500 - $800 monthly",
+    deadline: "15th July, 2026",
+    summary: "Own social channels and grow brand presence with homeowners across various markets.",
+    responsibilities: [
+      "Own social media channels and drive engagement with core audience",
+      "Build and manage social strategy and content calendar",
+      "Create image posts, copy, and graphic designs",
+      "Produce and edit short-form and AI-generated video content",
+      "Track performance and test new ideas for continuous improvement"
+    ],
+    requirements: [
+      "Strong writing skills with platform-specific tone matching",
+      "Design and video editing skills (inc. AI video tools)",
+      "Comfort reading analytics and turning results into insights"
+    ],
+    apply: 'Interested candidates should: <a href="https://forms.gle/2q9hmYpCaibskuBK8">Apply Online</a>'
+  },
+  {
+    id: "hse-compliance-monitoring-officer-itm-africa-abuja-2026",
+    title: "HSE, Compliance and Monitoring Officer",
+    date: "2026-06-18",
+    location: "Abuja",
+    type: "Full-Time",
+    company: "ITM Africa",
+    salary: "Not Specified",
+    deadline: "Not Specified",
+    summary: "Drive health, safety, environmental, and compliance initiatives across the organization.",
+    responsibilities: [
+      "Monitor and report HSE incidents and workplace hazards",
+      "Develop and implement strategies to reduce accidents",
+      "Conduct investigations and recommend corrective actions",
+      "Organize safety awareness and compliance training programs",
+      "Maintain compliance documentation and audit records"
+    ],
+    requirements: [
+      "Bachelors Degree in OHS, Engineering, Statistics, or related field",
+      "Relevant HSE Certification is mandatory",
+      "Minimum of 4 years’ experience in HSE and compliance",
+      "Strong knowledge of Nigerian regulatory and compliance requirements"
+    ],
+    apply: 'Send CV to: <a href="mailto:recruitment.ng@itmafrica.com">recruitment.ng@itmafrica.com</a>'
+  },
+  {
+    id: "qhse-officers-ieng-group-ogun-kaduna-2026",
+    title: "QHSE Officers",
+    date: "2026-06-18",
+    location: "Ogun & Kaduna",
+    type: "Full-Time",
+    company: "IENG Group Nigeria",
+    salary: "Not Specified",
+    deadline: "Not Specified",
+    summary: "Support health, safety, environmental compliance, inspections, and operational safety standards across project sites.",
+    responsibilities: [
+      "Support health, safety, and environmental compliance on sites",
+      "Conduct site inspections and safety audits",
+      "Maintain operational safety standards and reporting",
+      "Coordinate QHSE documentation across project locations"
+    ],
+    requirements: [
+      "0–1 year QHSE experience",
+      "Basic knowledge of safety procedures and compliance",
+      "Strong reporting and documentation skills",
+      "Willingness to work in field environments"
+    ],
+    apply: 'Apply: <a href="mailto:pops.ng@ieng-group.com">pops.ng@ieng-group.com</a> Subject: QHSE Officer'
+  },
+  {
+    id: "facility-manager-apapa-lagos-2026-v2",
+    title: "Facility Manager",
+    date: "2026-06-18",
+    location: "Apapa, Lagos",
+    type: "Full-Time",
+    salary: "500-600k",
+    deadline: "25th June, 2026",
+    summary: "Experienced Facility Manager for immediate employment to oversee building operations and maintenance in Apapa.",
+    responsibilities: [
+      "Oversee day-to-day facility management and building operations",
+      "Manage engineering maintenance and building systems",
+      "Supervise facility staff and third-party contractors",
+      "Maintain facility budgets and vendor contracts"
+    ],
+    requirements: [
+      "B.Sc Engineering / Building",
+      "7-10 years experience in facility management",
+      "MBA is an added advantage"
+    ],
+    apply: 'Send CV to: <a href="mailto:Gpm@oreguncl.com">Gpm@oreguncl.com</a>'
+  },
+  {
+    id: "graduate-trainee-american-christian-academy-ibadan-2026",
+    title: "Graduate Trainee",
+    date: "2026-06-18",
+    location: "Ibadan",
+    type: "Graduate Trainee",
+    company: "American Christian Academy",
+    salary: "Not Specified",
+    deadline: "Not Specified",
+    summary: "10-month development programme in Teaching, Academic, or Administrative support.",
+    responsibilities: [
+      "Participate in rotational training across assigned academy areas",
+      "Support teaching, academic, or administrative support functions",
+      "Show initiative and take ownership of assigned responsibilities",
+      "Contribute to a Christian environment guided by Biblical values"
+    ],
+    requirements: [
+      "Minimum of a Bachelor’s degree (Second Class Upper Division)",
+      "Strong communication and critical thinking skills",
+      "Comfortable working within a Christian environment",
+      "Fresh graduates are encouraged to apply"
+    ],
+    apply: 'Send CV and cover letter to: <a href="mailto:recruitment@acaonefamily.com">recruitment@acaonefamily.com</a>'
+  },
+  {
+    id: "multiple-remote-roles-kodangs-2026",
+    title: "Multiple Remote Roles (Graphic Designer, Operations Assistant, Content Creator)",
+    date: "2026-06-18",
+    location: "Remote",
+    type: "Full-time / Freelance",
+    salary: "Not Specified",
+    deadline: "Not Specified",
+    summary: "Various remote opportunities in design, operations, and content creation for a creative team.",
+    responsibilities: [
+      "Design visuals (Graphic Designer role)",
+      "Manage and support content creation (Content Creator role)",
+      "Support business operations and administrative tasks (Operations Assistant)"
+    ],
+    requirements: [
+      "CV and Portfolio (for design roles)",
+      "Instagram profile required",
+      "Ability to work remotely and meet deadlines",
+      "Experience in relevant role is an advantage"
+    ],
+    apply: 'Apply: <a href="mailto:kodangs.info@gmail.com">kodangs.info@gmail.com</a> (Subject: KDSWORK + job title)'
+  },
+  {
+    id: "head-executive-chef-lekki-2026",
+    title: "Head/Executive Chef",
+    date: "2026-06-18",
+    location: "Lekki Phase 1, Lagos",
+    type: "Full-Time",
+    salary: "Negotiable",
+    deadline: "Not Specified",
+    summary: "Lead kitchen operations, manage staff, and ensure culinary excellence for a Restaurant and Lounge.",
+    responsibilities: [
+      "Interview, hire, and train kitchen staff",
+      "Plan and supervise food preparation tasks",
+      "Manage food menus and ensure fresh, well-presented dishes",
+      "Oversee inventory and supplier dealing",
+      "Ensure compliance with health and safety laws and regulations"
+    ],
+    requirements: [
+      "Minimum of OND or equivalent",
+      "Training at a culinary arts school",
+      "At least 10 years’ experience working as a head cook",
+      "Proven ability to create unique and delicious dishes",
+      "Excellent leadership and communication skills"
+    ],
+    apply: 'Interested and qualified candidates should send their CV to: <a href="mailto:omoaregahr@gmail.com">omoaregahr@gmail.com</a>'
+  },
+  {
+    id: "sales-officers-microfinance-lagos-2026",
+    title: "Sales Officers",
+    date: "2026-06-18",
+    location: "Lagos",
+    type: "Full-Time",
+    salary: "350k Net + Incentives",
+    deadline: "Not Specified",
+    summary: "Promote financial products, acquire new customers, and meet deposit targets for a Microfinance Bank.",
+    responsibilities: [
+      "Promote and market the bank’s financial products and services",
+      "Identify and acquire new customers",
+      "Support customer onboarding and account opening",
+      "Meet and exceed assigned sales and deposit targets",
+      "Prepare and submit periodic activity reports"
+    ],
+    requirements: [
+      "Minimum of OND / HND / B.Sc in any discipline",
+      "Minimum of 3 years experience in sales and marketing",
+      "Strong communication and interpersonal skills",
+      "Basic knowledge of financial services or banking is an advantage"
+    ],
+    apply: 'Send CV to: <a href="mailto:recruitmenthr850@gmail.com">recruitmenthr850@gmail.com</a> Subject: RELATIONSHIP OFFICER'
+  },
+  {
+    id: "deposit-mobilizer-treasury-officer-lagos-2026",
+    title: "Deposit Mobilizer / Treasury Officer",
+    date: "2026-06-18",
+    location: "Lagos",
+    type: "Full-Time",
+    salary: "400k Net + Incentives",
+    deadline: "Not Specified",
+    summary: "Drive the growth of the bank’s deposit base while supporting treasury functions.",
+    responsibilities: [
+      "Source and mobilize deposits from individuals, SMEs, and corporates",
+      "Develop strategies to grow the bank’s deposit portfolio",
+      "Maintain relationships with high-net-worth individuals",
+      "Promote and cross-sell treasury and investment products",
+      "Support treasury operations and liquidity management"
+    ],
+    requirements: [
+      "Bachelor’s degree in Finance, Economics, Business Administration, or related field",
+      "3–6 years’ experience in deposit mobilization or treasury",
+      "Proven track record of meeting mobilization targets",
+      "Strong communication and negotiation skills"
+    ],
+    apply: 'Send CV to: <a href="mailto:recruitmenthr850@gmail.com">recruitmenthr850@gmail.com</a>'
+  },
+  {
+    id: "technical-support-officer-briccs-lekki-2026-06-18",
+    title: "Technical Support Officer",
+    date: "2026-06-18",
+    location: "Lekki Phase 1, Lagos",
+    type: "Full-Time",
+    company: "Briccs Int.",
+    salary: "Attractive",
+    deadline: "27th June, 2026",
+    summary: "Provide technical assistance, support software operations, and contribute to system improvement within a telecommunications firm.",
+    responsibilities: [
+      "Provide technical assistance and support software operations",
+      "Contribute to system improvement initiatives",
+      "Troubleshoot software and system-related issues",
+      "Work in an Agile environment to support application development"
+    ],
+    requirements: [
+      "Good First Degree (B.Sc.) or HND in Computer Science, Information Technology, Engineering, or related discipline",
+      "Minimum of 2 years relevant work experience",
+      "Ability to build or support application development (basic to intermediate level)",
+      "Proximity to Lekki Phase 1 is essential",
+      "Strong knowledge of Microsoft Office tools (especially Excel)"
+    ],
+    apply: 'Send CV to: <a href="mailto:recruitments@briccsint.com">recruitments@briccsint.com</a> Subject: Technical Support Officer Application'
+  },
+  {
+    id: "executive-virtual-assistant-arakem-ikorodu-2026",
+    title: "Executive / Virtual Assistant (3 Positions)",
+    date: "2026-06-18",
+    location: "Agric, Ikorodu, Lagos (Onsite & Remote)",
+    type: "Full-Time",
+    company: "Arakem Nigeria Limited",
+    salary: "₦100,000 – ₦150,000",
+    deadline: "Not Specified",
+    summary: "Support administrative, content management, and book publishing operations for a smart, tech-savvy candidate.",
+    responsibilities: [
+      "Support administrative and office operations",
+      "Assist in content management tasks",
+      "Support book publishing processes",
+      "Coordinate digital and office workflows"
+    ],
+    requirements: [
+      "OND, HND, or BSc",
+      "Strong English communication skills",
+      "Knowledge of Microsoft Word & digital tools",
+      "Age 30 years or below",
+      "Laptop ownership is an added advantage"
+    ],
+    apply: 'Send CV & Cover Letter to: <a href="mailto:arakemnigerialimited@gmail.com">arakemnigerialimited@gmail.com</a>'
+  },
+  {
+    id: "finance-programs-officer-thamani-initiative-2026",
+    title: "Finance Officer / Programs Officer",
+    date: "2026-06-18",
+    location: "Not Specified",
+    type: "Full-Time",
+    company: "Thamani Initiative",
+    salary: "Not Specified",
+    deadline: "19th June 2026",
+    summary: "Multiple roles available at Thamani Initiative for graduates in Finance and Programs management.",
+    responsibilities: [
+      "Varies by role (Finance or Programs management)",
+      "Support organizational goals and mission execution",
+      "Assist in program planning and financial documentation"
+    ],
+    requirements: [
+      "Minimum of a Bachelor’s Degree in Finance, Accounting, Business Administration, Social Sciences, Development Studies, or related field",
+      "Proficient in the use of Microsoft Office applications",
+      "Willingness to learn, adapt, and thrive"
+    ],
+    apply: 'Apply: <a href="https://jobs.smartyacad.com/finance-officer-and-programs-officer-opportunities-at-thamani-initiative/">Online Application</a>'
+  },
+  {
+    id: "sales-associates-neutratech-lekki-2026",
+    title: "Sales Associates",
+    date: "2026-06-18",
+    location: "Lekki Phase 1, Lagos",
+    type: "Full-Time",
+    company: "Neutratech Lagos",
+    salary: "₦250,000 + Commissions",
+    deadline: "Not Specified",
+    summary: "Join a dynamic team to help people access clean, safe drinking water in a high-earning environment.",
+    responsibilities: [
+      "Identify and acquire new customers for water solutions",
+      "Meet sales targets and performance goals",
+      "Provide excellent communication and customer service",
+      "Maintain high-level product knowledge"
+    ],
+    requirements: [
+      "Bachelor’s Degree / HND / Master’s / NCE / OND qualification",
+      "2+ years’ experience in sales, marketing, or retail",
+      "Excellent communication and interpersonal skills",
+      "Must live in or near Lekki Phase 1, Lagos",
+      "Car ownership is a plus"
+    ],
+    apply: 'Send your CV to: <a href="mailto:kyjobsopportunity@gmail.com">kyjobsopportunity@gmail.com</a>'
+  },
+  {
+    id: "software-engineering-intern-xigenix-remote-2026",
+    title: "Software Engineering Intern",
+    date: "2026-06-18",
+    location: "Remote / Not Specified",
+    type: "Internship",
+    company: "Xigenix",
+    salary: "Not Specified",
+    deadline: "Not Specified",
+    summary: "Internship role for candidates passionate about coding to gain real-world experience in software engineering.",
+    responsibilities: [
+      "Participate in software development and coding projects",
+      "Learn real-world software engineering practices",
+      "Work in a collaborative development environment"
+    ],
+    requirements: [
+      "Passion for coding and software development",
+      "Strong curiosity and willingness to learn",
+      "Ability to work in a collaborative development environment"
+    ],
+    apply: 'Apply: <a href="mailto:careers@xigenix.net">careers@xigenix.net</a>'
+  },
+  {
+    id: "sales-executive-freight-forwarding-lagos-2026",
+    title: "Sales Executive (Entry-Level)",
+    date: "2026-06-18",
+    location: "Ikeja & Amuwo Odofin, Lagos",
+    type: "Full-Time",
+    company: "HRLeverage Africa (Client)",
+    salary: "100,000 NGN monthly + commission",
+    deadline: "Not Specified",
+    summary: "Motivated individual to start a career in sales and business development within the Freight & Forwarding industry.",
+    responsibilities: [
+      "Identify and develop new business opportunities within logistics",
+      "Generate new clients through cold calling and networking",
+      "Build and maintain strong relationships with clients",
+      "Promote freight forwarding services to potential customers",
+      "Support in preparing proposals and closing deals"
+    ],
+    requirements: [
+      "Minimum of OND/HND/BSc in Social Sciences",
+      "No prior experience required (0-1 year)",
+      "Strong communication and interpersonal skills",
+      "Computer literacy"
+    ],
+    apply: 'Send CV to <a href="mailto:resume@hrleverageafrica.com">resume@hrleverageafrica.com</a> Subject: Entry-Level Sales Executive'
+  },
+  {
+    id: "ai-video-ads-creator-remote-2026",
+    title: "AI Video Ads Creator",
+    date: "2026-06-18",
+    location: "Remote",
+    type: "Full-Time",
+    salary: "Not Specified",
+    deadline: "Not Specified",
+    summary: "Produce high-converting short-form video ads using AI tools for a multi-service business.",
+    responsibilities: [
+      "Create video ads using AI tools like Runway and Pika Labs",
+      "Edit content with CapCut for major social platforms",
+      "Develop ad ideas, hooks, and simple scripts",
+      "Add captions and engaging edits",
+      "Test and improve performance for lead generation"
+    ],
+    requirements: [
+      "Experience with AI video tools and short-form content",
+      "Understanding of what makes ads perform",
+      "Portfolio of previous work"
+    ],
+    apply: 'Send CV to: <a href="mailto:recruitment@checkaroundemail.com">recruitment@checkaroundemail.com</a> Subject: AI Video Ads Creator'
+  },
+  {
+    id: "social-media-manager-thinkmint-nigeria-lagos-2026",
+    title: "Social Media Manager",
+    date: "2026-06-18",
+    location: "Lagos",
+    type: "Full-Time",
+    company: "Thinkmint Nigeria",
+    salary: "Not Specified",
+    deadline: "Not Specified",
+    summary: "Lead social media strategy and audience engagement for Thinkmint Nigeria.",
+    responsibilities: [
+      "Manage brand presence across major social platforms",
+      "Plan content and manage content calendars",
+      "Create designs using Canva and management tools",
+      "Analyze and report on social media metrics"
+    ],
+    requirements: [
+      "Proven experience in social media management",
+      "Strong understanding of major social platforms (IG, LI, FB, X, TikTok)",
+      "Proficiency in Canva and social tools",
+      "Strong copywriting, communication, and storytelling skills"
+    ],
+    apply: 'Send CV to: <a href="mailto:thinkminthr@thinkmint.ng">thinkminthr@thinkmint.ng</a> Subject: Social Media Manager'
+  },
+  {
+    id: "senior-customer-care-associate-reliance-health-remote-2026",
+    title: "Senior Customer Care Associate",
+    date: "2026-06-18",
+    location: "Remote",
+    type: "Full-Time",
+    company: "Reliance Health",
+    salary: "Not Specified",
+    deadline: "Not Specified",
+    summary: "Senior role to lead customer support operations and quality assurance for Reliance Health.",
+    responsibilities: [
+      "Lead and supervise a team of 5+ customer support associates",
+      "Manage support QA and operations",
+      "Oversee ticketing software and performance",
+      "Optimize customer interactions and support efficiency"
+    ],
+    requirements: [
+      "Minimum 3 years in customer support operations",
+      "1–2 years in support QA",
+      "Experience leading 5+ people",
+      "Bachelor’s degree with completed NYSC or exemption",
+      "Proficiency in ticketing software and Excel"
+    ],
+    apply: 'Apply: <a href="https://jobs.workable.com/view/7vsU25pjSBdmtwRcV7vcKH/remote-senior-reliance-care-associate-in-nigeria-at-reliance-health">Online Application</a>'
+  },
   {
     id: "purchasing-supervisor-detergent-ikoyi-2026",
     title: "Purchasing Supervisor (Detergent Factory)",

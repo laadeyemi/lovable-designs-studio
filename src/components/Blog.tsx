@@ -3,9 +3,13 @@ import { ArrowRight } from "lucide-react";
 
 import { posts } from "@/lib/posts";
 
-// show latest three posts by date
+const today = new Date().toISOString().split("T")[0];
+const todaysPost = posts.find((post) => post.date === today);
+
+// show latest three posts by date, excluding today's featured post
 const latestPosts = [...posts]
   .sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime())
+  .filter((post) => post.id !== todaysPost?.id)
   .slice(0, 3);
 
 export function Blog() {
@@ -36,6 +40,33 @@ export function Blog() {
             <ArrowRight className="w-5 h-5" />
           </a>
         </motion.div>
+
+        {/* Today's Featured Post */}
+        {todaysPost ? (
+          <motion.article
+            key={todaysPost.id}
+            initial={{ opacity: 0, y: 30 }}
+            whileInView={{ opacity: 1, y: 0 }}
+            viewport={{ once: true }}
+            transition={{ duration: 0.6 }}
+            className="group mb-12 rounded-3xl border border-primary/10 bg-primary/5 p-8"
+          >
+            <div className="flex flex-col gap-4 mb-6 md:flex-row md:items-center md:justify-between">
+              <span className="inline-flex items-center rounded-full bg-primary/10 px-3 py-1 text-primary text-sm font-medium">
+                Today&apos;s Post
+              </span>
+              <span className="text-sm text-muted-foreground">{todaysPost.date}</span>
+            </div>
+
+            <h3 className="font-display text-3xl font-semibold mb-4 text-foreground group-hover:text-primary transition-colors duration-300">
+              <a href={`/blog/${todaysPost.id}`}>{todaysPost.title}</a>
+            </h3>
+            <p className="text-muted-foreground leading-relaxed mb-6">
+              {todaysPost.excerpt}
+            </p>
+            <span className="text-sm text-muted-foreground">{todaysPost.category}</span>
+          </motion.article>
+        ) : null}
 
         {/* Blog Grid */}
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">

@@ -10,6 +10,243 @@ export type Post = {
 
 const allPosts: Post[] = [
   {
+    id: "oau-post-utme-direct-entry-form-2026-2027",
+    title: "OAU Post-UTME and Direct Entry Form 2026/2027 Now Available",
+    category: "Education",
+    date: "2026-06-20",
+    excerpt: "Obafemi Awolowo University (OAU) has opened registration for its 2026/2027 Post-UTME and Direct Entry screening exercise. Eligible candidates who scored 200+ in UTME can apply.",
+    content: `<h2>OAU Post UTME/Direct Entry Form for 2026/2027 Admission Now Available</h2>
+<p>Obafemi Awolowo University (OAU), Ile-Ife, has commenced registration for its 2026/2027 Post-UTME and Direct Entry (DE) screening exercise.</p>
+<p>The online registration portal opened on <strong>Tuesday, 16 June 2026</strong>, and will remain open until <strong>Friday, 14 August 2026</strong>.</p>
+<p>The screening exercise is open to candidates who selected OAU as their <strong>first-choice institution</strong> in the 2026 UTME and scored <strong>200 or above</strong>. Direct Entry applicants who chose the University are also eligible to apply.</p>
+<p>The University has also published separate eligibility guidelines for UTME candidates, Direct Entry candidates, foreign applicants, and candidates with disabilities on its official website.</p>
+
+<h3>OAU Post-UTME Registration Dates</h3>
+<p>Registration for the 2026/2027 OAU Post-UTME and Direct Entry screening begins on <strong>Tuesday, 16 June 2026</strong>, and closes on <strong>Friday, 14 August 2026</strong>. Applicants are advised to complete their registration before the deadline, as late applications will not be accepted.</p>
+
+<h3>Eligibility Requirements</h3>
+<p>To qualify for the screening exercise, candidates must:</p>
+<ul>
+  <li>Choose Obafemi Awolowo University as their first-choice institution in the 2026 UTME.</li>
+  <li>Score <strong>200 or above</strong> in the 2026 UTME.</li>
+  <li>Meet the admission requirements for their chosen course.</li>
+  <li>Complete the online registration before the closing date.</li>
+</ul>
+<p>Direct Entry candidates who applied to OAU are also eligible to participate in the screening exercise.</p>
+
+<h3>How to Apply for OAU Post-UTME and Direct Entry Screening</h3>
+<p>Eligible candidates should complete their application through the OAU Post-UTME portal by following these steps:</p>
+<ol>
+  <li>Visit the <a href="https://eportal2.oauife.edu.ng/ug/admissions" target="_blank" rel="noreferrer">OAU Post-UTME portal</a>.</li>
+  <li>Click <strong>"Verify Your Details." </strong></li>
+  <li>Enter your JAMB Registration Number, email address, and phone number.</li>
+  <li>Confirm your surname and first name displayed on the portal.</li>
+  <li>Proceed to payment through the approved payment gateway.</li>
+  <li>Check your email for your login credentials after payment.</li>
+  <li>Visit the <a href="https://eportal2.oauife.edu.ng/" target="_blank" rel="noreferrer">OAU ePortal login page</a>.</li>
+  <li>Log in using your JAMB Registration Number as both your username and password.</li>
+  <li>Click <strong>"My Application"</strong> and complete the application form.</li>
+  <li>Review all entered information carefully before submitting.</li>
+</ol>
+<p>The generated password is <strong>not case-sensitive</strong>, so candidates can enter it using either uppercase or lowercase letters.</p>
+
+<h3>What to Do If You Do Not Receive Your Login Details</h3>
+<p>Candidates who do not receive their login credentials after payment should:</p>
+<ul>
+  <li>Return to the OAU Post-UTME portal.</li>
+  <li>Click <strong>"Confirm Your Payment."</strong></li>
+  <li>Enter their JAMB Registration Number or registered email address.</li>
+  <li>Validate the payment record.</li>
+</ul>
+<p>Once the payment is confirmed, the system will resend the login details to the registered email address.</p>
+
+<h3>OAU Post-UTME Screening Fee</h3>
+<p>The screening fee is <strong>₦2,000 only</strong>. Please note that <strong>portal access charges are separate</strong> from the screening fee.</p>
+
+<h3>Payment Methods</h3>
+<p>Applicants can pay through any of the following approved payment channels:</p>
+<ul>
+  <li>ATM Card</li>
+  <li>Bank Transfer</li>
+  <li>USSD</li>
+  <li>Physical Bank Payment</li>
+</ul>
+<p>Payments should only be made through the official OAU Post-UTME portal.</p>
+
+<h3>OAU Screening Schedule</h3>
+<p>Candidates can begin checking their screening schedule from <strong>Monday, 24 August 2026</strong> through the admission portal. Each applicant will receive an assigned screening date and time and must attend only on the scheduled date.</p>
+
+<h3>OAU Post-UTME Screening Date</h3>
+<p>The physical screening exercise will hold from <strong>Tuesday, 1 September to Saturday, 5 September 2026</strong>. Candidates are expected to report to their designated screening venue according to the schedule assigned on the admission portal.</p>
+
+<h3>Important Information for Applicants</h3>
+<p>Candidates should ensure that every detail provided during registration is correct. Any applicant who supplies false information or uploads incorrect credentials will be <strong>automatically disqualified</strong> from the admission process.</p>
+<p>Before submitting the application, candidates should carefully verify:</p>
+<ul>
+  <li>JAMB Registration Number</li>
+  <li>Full name</li>
+  <li>Email address</li>
+  <li>Phone number</li>
+  <li>Uploaded documents</li>
+  <li>Other application details</li>
+</ul>
+
+<h3>OAU Does Not Recognise Admission Agents</h3>
+<p>Obafemi Awolowo University has warned applicants not to patronise admission agents or individuals claiming to facilitate admission. Candidates should complete their registration through the official University portal and rely only on official communication channels for admission updates.</p>
+
+<h3>Enquiries</h3>
+<p>Candidates who have questions regarding the 2026/2027 Post-UTME and Direct Entry screening exercise can send their enquiries to:</p>
+<p><strong>Email:</strong> <a href="mailto:postutme2026@oauife.edu.ng">postutme2026@oauife.edu.ng</a></p>
+<p>Applicants are advised to complete their registration early and follow all official instructions carefully to avoid mistakes that could affect their admission.</p>`,
+    tags: [
+      "OAU",
+      "Post-UTME",
+      "Direct Entry",
+      "Admission",
+      "2026",
+    ],
+  },
+  {
+    id: "ui-post-utme-direct-entry-form-2026-2027",
+    title: "UI Post-UTME and Direct Entry Form 2026/2027 Now Available",
+    category: "Education",
+    date: "2026-06-20",
+    excerpt: "The University of Ibadan (UI) has opened registration for the 2026/2027 Post-UTME and Direct Entry screening exercise. Eligible UTME candidates with 200+ can apply online.",
+    content: `<h2>University of Ibadan (UI) Post UTME and Direct Entry Form for 2026/2027 Admission</h2>
+<p>The University of Ibadan (UI) has announced the commencement of registration for its <strong>2026/2027 Post UTME and Direct Entry screening exercise</strong>.</p>
+<p>The online admission portal will open on <strong>Monday, 22 June 2026</strong>, and close on <strong>Sunday, 19 July 2026</strong>.</p>
+<p>Candidates who selected the University of Ibadan as their preferred institution and meet the admission requirements are advised to complete their registration before the deadline.</p>
+
+<h3>UI Post UTME Eligibility Requirements</h3>
+<p>Only candidates who scored <strong>200 and above</strong> in the <strong>2026 Unified Tertiary Matriculation Examination (UTME)</strong> are eligible to register for the UI Post UTME screening. Candidates who scored below 200 do not meet the University's minimum requirement and will not be eligible for the screening exercise.</p>
+<p>Applicants should confirm that they satisfy all admission requirements before beginning the online registration process.</p>
+
+<h3>How to Log In to the UI Admission Portal</h3>
+<p>Candidates are required to log in to the <a href="https://admissions.ui.edu.ng/#/" target="_blank" rel="noreferrer">UI admission portal</a> using their JAMB Registration Number and surname.</p>
+<p>The login details are as follows:</p>
+<ul>
+  <li><strong>Username:</strong> JAMB Registration Number</li>
+  <li><strong>Initial Password:</strong> Candidate's surname</li>
+</ul>
+<p>For example:</p>
+<ul>
+  <li>Username: <strong>202612345678EG</strong></li>
+  <li>Password: <strong>OYESANMI</strong>, <strong>CHIBUZOR</strong>, or <strong>UMAR</strong></li>
+</ul>
+<p>Applicants should enter their details carefully to avoid login errors or delays during registration.</p>
+
+<h3>UI Post UTME and Direct Entry Screening Fee</h3>
+<p>Candidates are required to pay the following fees through the University admission portal:</p>
+<ul>
+  <li>Portal Access Fee: <strong>₦3,000</strong></li>
+  <li>Screening Fee: <strong>₦2,000</strong></li>
+</ul>
+<p><strong>Total Amount Payable:</strong> <strong>₦5,000</strong></p>
+<p>After making payment, applicants should print and keep the payment success receipt, as it may be required during the admission process.</p>
+
+<h3>Available Payment Methods</h3>
+<p>The University provides multiple payment options through its admission portal. Applicants may choose any of the following:</p>
+<ul>
+  <li>Debit or credit ATM card payment</li>
+  <li>Internet banking or direct bank transfer</li>
+  <li>Cash payment at any designated bank branch using the payment slip generated from the portal</li>
+</ul>
+<p>Candidates should keep their payment receipt safely after completing the transaction.</p>
+
+<h3>UI Post UTME Examination Date</h3>
+<p>The Post UTME screening examination has been scheduled to hold from <strong>Monday, 27 July 2026 to Wednesday, 29 July 2026</strong>. Each candidate's specific examination date, time, and venue will be communicated later by the University.</p>
+<p>Applicants are advised to provide valid email addresses and active phone numbers during registration, as all examination updates will be sent through these channels.</p>
+
+<h3>Age Requirement for Admission</h3>
+<p>Candidates must be <strong>at least 16 years old by 30 September 2025</strong> to qualify for admission clearance. Applicants who do not meet the minimum age requirement will not be considered for admission, regardless of their UTME score.</p>
+
+<h3>O'Level Requirements for College of Medicine and Faculty of Pharmacy</h3>
+<p>Candidates seeking admission into programmes offered by the <strong>College of Medicine</strong> or the <strong>Faculty of Pharmacy</strong> must possess:</p>
+<ul>
+  <li>Five relevant O'Level credit passes</li>
+  <li>The credits must be obtained in <strong>one sitting</strong></li>
+</ul>
+<p>Applicants should ensure they meet this requirement before applying.</p>
+
+<h3>O'Level Requirements for Other Programmes</h3>
+<p>For all other undergraduate programmes, candidates who combine two O'Level results must possess <strong>at least six relevant credit passes</strong>. Applicants should ensure that all uploaded O'Level results are complete, accurate, and relevant to their chosen course of study.</p>
+
+<h3>Accepted Qualifications for Direct Entry Admission</h3>
+<p>The University of Ibadan accepts the following qualifications for Direct Entry admission:</p>
+<ul>
+  <li>WAEC</li>
+  <li>NECO</li>
+  <li>Cambridge Advanced Level</li>
+  <li>Nigeria Certificate in Education (NCE)</li>
+  <li>National Diploma (ND)</li>
+  <li>Higher National Diploma (HND)</li>
+  <li>Bachelor's Degree from recognized institutions</li>
+</ul>
+<p>However, the University <strong>does not accept IJMB or JUPEB</strong> for Direct Entry admission. Applicants should confirm that their qualification is accepted before submitting their application.</p>
+
+<h3>Submission of Direct Entry Credentials</h3>
+<p>Direct Entry applicants are required to submit their academic credentials electronically to <a href="mailto:ugadmissions@stu.ui.edu.ng">ugadmissions@stu.ui.edu.ng</a>. Applicants are advised to ensure that all uploaded documents are clear, complete, and legible before submission.</p>
+
+<h3>Approved Matriculating Subjects</h3>
+<p>The University Senate recognizes the following subjects as acceptable matriculating subjects:</p>
+<ul>
+  <li>English Language</li>
+  <li>Mathematics</li>
+  <li>Biology</li>
+  <li>Chemistry</li>
+  <li>Physics</li>
+  <li>Literature in English</li>
+  <li>Yoruba</li>
+  <li>Igbo</li>
+  <li>Hausa</li>
+  <li>French</li>
+  <li>Arabic</li>
+  <li>Economics</li>
+  <li>Commerce</li>
+  <li>Government</li>
+  <li>Principles of Accounts</li>
+  <li>Fine Arts</li>
+  <li>History</li>
+  <li>Christian Religious Studies</li>
+  <li>Islamic Studies</li>
+  <li>Geography</li>
+  <li>Further Mathematics</li>
+  <li>Agricultural Science</li>
+  <li>Technical Drawing</li>
+  <li>Metal Work</li>
+  <li>Wood Work</li>
+  <li>Building Construction</li>
+  <li>Land Surveying</li>
+</ul>
+<p>Applicants should ensure that their O'Level subjects correspond with the University's approved subject list.</p>
+
+<h3>Important Checklist Before Submission</h3>
+<p>Before completing the application, candidates should verify that:</p>
+<ul>
+  <li>Their UTME score is <strong>200 or above</strong></li>
+  <li>Their JAMB Registration Number and surname are entered correctly</li>
+  <li>Their O'Level results meet the admission requirements for their chosen course</li>
+  <li>They possess the correct subject combination</li>
+  <li>Their email address and phone number are valid and active</li>
+  <li>They have successfully paid the required <strong>₦5,000</strong> screening fee</li>
+  <li>They have printed and saved the payment receipt</li>
+  <li>Direct Entry applicants have uploaded all required credentials</li>
+  <li>All information entered on the portal is accurate</li>
+</ul>
+<p>Carefully reviewing these details before submission can help prevent delays or disqualification during the admission process.</p>
+
+<h3>Final Note</h3>
+<p>Prospective students seeking admission into the University of Ibadan for the <strong>2026/2027 academic session</strong> are encouraged to complete their Post UTME or Direct Entry registration within the approved application period.</p>
+<p>Applicants should ensure they meet all admission requirements, make payment through the official admission portal, and monitor their email and phone number regularly for examination updates and further instructions from the University.</p>`,
+    tags: [
+      "UI",
+      "Post-UTME",
+      "Direct Entry",
+      "Admission",
+      "2026",
+    ],
+  },
+  {
     id: "15-university-courses-best-job-opportunities-nigeria-2026",
     title: "15 University Courses with the Best Job Opportunities in Nigeria in 2026",
     category: "Career",

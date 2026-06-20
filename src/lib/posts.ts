@@ -10,6 +10,368 @@ export type Post = {
 
 const allPosts: Post[] = [
   {
+    id: "fuhsa-post-utme-screening-form-2026-2027",
+    title: "FUHSA Post UTME Screening Form for 2026/2027 Admission Now Available",
+    category: "Education",
+    date: "2026-06-20",
+    excerpt: "Federal University of Health Sciences, Azare (FUHSA) has opened online registration for its 2026/2027 Post UTME screening exercise, with the portal closing on 17 July 2026.",
+    content: `<h2>FUHSA Post UTME Screening Form for 2026/2027 Admission Now Available</h2>
+<p>The Federal University of Health Sciences, Azare (FUHSA) has announced the commencement of its online Post UTME screening exercise for the <strong>2026/2027 academic session</strong>.</p>
+<p>Eligible candidates seeking admission into the University's undergraduate programmes can begin online registration from <strong>Monday, 22 June 2026</strong>, while the application portal will close on <strong>Friday, 17 July 2026</strong>.</p>
+<p>Candidates are advised to review the admission requirements carefully before registering, as only those who meet the University's eligibility criteria will be considered for admission.</p>
+
+<h3>FUHSA Post UTME Eligibility Requirements</h3>
+<p>To qualify for the 2026/2027 admission screening exercise, applicants must satisfy the following conditions:</p>
+<ul>
+  <li>Have participated in the <strong>2026 JAMB UTME</strong></li>
+  <li>Score the approved minimum UTME cut-off mark for their chosen course</li>
+  <li>Select <strong>Federal University of Health Sciences, Azare (FUHSA)</strong> as their first-choice institution</li>
+  <li>Possess at least <strong>five relevant O'Level credit passes</strong>, including English Language, Mathematics, Biology, Chemistry, and Physics</li>
+  <li>Obtain the required O'Level credits in <strong>not more than two sittings</strong></li>
+  <li>Have the correct UTME subject combination for the intended course</li>
+</ul>
+<p>Applicants should ensure that all admission requirements are met before completing the registration process, as incorrect subject combinations or missing O'Level requirements may affect admission.</p>
+
+<h3>FUHSA Cut-Off Marks for 2026/2027 Admission</h3>
+<p>The University Senate has approved different UTME cut-off marks for various programmes in line with the admission policy of the Joint Admissions and Matriculation Board (JAMB).</p>
+
+<h4>Courses with a Minimum Cut-Off Mark of 220</h4>
+<ul>
+  <li>MBBS (Medicine and Surgery)</li>
+  <li>BDS Dentistry</li>
+</ul>
+
+<h4>Courses with a Minimum Cut-Off Mark of 200</h4>
+<ul>
+  <li>Nursing Sciences</li>
+  <li>Optometry</li>
+  <li>Physiotherapy</li>
+  <li>Radiography</li>
+  <li>Medical Laboratory Science (BMLS)</li>
+  <li>Audiology</li>
+</ul>
+
+<h4>Courses with a Minimum Cut-Off Mark of 160</h4>
+<ul>
+  <li>Nutrition and Dietetics</li>
+  <li>Information Technology and Health Informatics</li>
+  <li>Environmental Health Sciences</li>
+  <li>Epidemiology and Biostatistics</li>
+  <li>Speech Language Therapy</li>
+  <li>Occupational Therapy</li>
+  <li>Health Information Management</li>
+  <li>Public Health</li>
+  <li>Pharmacology</li>
+</ul>
+
+<h4>Courses with a Minimum Cut-Off Mark of 150</h4>
+<ul>
+  <li>Human Anatomy</li>
+  <li>Human Physiology</li>
+  <li>Biochemistry</li>
+  <li>Biotechnology</li>
+  <li>Microbiology</li>
+</ul>
+
+<h3>How to Apply for FUHSA Post UTME Screening</h3>
+<p>Eligible candidates should complete their registration through the official FUHSA screening portal.</p>
+<p>The application process includes the following steps:</p>
+<ol>
+  <li>Visit the <a href="https://www.fuhsa.edu.ng/" target="_blank" rel="noreferrer">FUHSA official website</a>.</li>
+  <li>Access the <a href="https://fuhsa.admissions.cloud/" target="_blank" rel="noreferrer">online screening portal</a>.</li>
+  <li>Create a personal account.</li>
+  <li>Complete the online registration form using accurate personal and academic information.</li>
+  <li>Make payment of the screening fee through the portal.</li>
+  <li>Submit the completed application.</li>
+  <li>Print or save the acknowledgement slip.</li>
+</ol>
+<p>Applicants are advised to provide correct information throughout the registration process, as the acknowledgement slip will contain the date assigned for physical screening.</p>
+
+<h3>FUHSA Post UTME Screening Fee</h3>
+<p>The Post UTME screening fee is:</p>
+<p><strong>₦2,000 (Two Thousand Naira Only)</strong></p>
+<p>Payment should be made online through the University's screening portal after creating an account.</p>
+
+<h3>FUHSA Physical Screening Date</h3>
+<p>The physical screening exercise has been scheduled to hold from:</p>
+<p><strong>Monday, 27 July 2026 to Friday, 31 July 2026</strong></p>
+<p>Each applicant will receive a specific screening date after completing the online registration successfully.</p>
+<p>The assigned date will appear on the acknowledgement slip generated after submission.</p>
+<p>Candidates should print or safely keep the acknowledgement slip, as it will be required during the physical screening exercise.</p>
+
+<h3>Important Information After Registration</h3>
+<p>Candidates who successfully complete the online registration should prepare for the physical screening by checking the date on their acknowledgement slip.</p>
+<p>The University has advised applicants to rely only on official FUHSA communication channels for admission updates and to ignore messages or information from unofficial sources in order to avoid admission scams.</p>
+
+<h3>Important Checklist Before Applying</h3>
+<p>Before submitting the application, candidates should confirm that:</p>
+<ul>
+  <li>They sat for the 2026 UTME.</li>
+  <li>FUHSA is their first-choice institution.</li>
+  <li>Their UTME score meets the cut-off mark for their chosen course.</li>
+  <li>They possess at least five relevant O'Level credits.</li>
+  <li>English Language, Mathematics, Biology, Chemistry, and Physics are included in their O'Level results.</li>
+  <li>Their O'Level results were obtained in not more than two sittings.</li>
+  <li>Their UTME subject combination matches their intended programme.</li>
+  <li>They complete the online registration before <strong>17 July 2026</strong>.</li>
+  <li>They keep their acknowledgement slip after registration.</li>
+</ul>
+
+<h3>Final Note</h3>
+<p>Prospective students seeking admission into the Federal University of Health Sciences, Azare are encouraged to complete their online registration within the approved application period.</p>
+<p>Applicants should ensure they meet all admission requirements, pay the screening fee through the official portal, and attend the physical screening on the date assigned to them. Following the University's official guidelines will help ensure a smooth admission process for the <strong>2026/2027 academic session</strong>.</p>`,
+    tags: [
+      "FUHSA",
+      "Post-UTME",
+      "Admission",
+      "Screening",
+      "2026",
+    ],
+  },
+  {
+    id: "futminna-utme-cut-off-marks-2026-2027",
+    title: "FUTMINNA Releases 2026/2027 UTME Cut-Off Marks for Admission",
+    category: "Education",
+    date: "2026-06-20",
+    excerpt: "FUTMINNA has released the official 2026/2027 UTME cut-off marks, with general minimums starting at 150 and higher scores required for competitive programs.",
+    content: `<h2>FUTMINNA Releases 2026/2027 UTME Cut-Off Marks for Admission</h2>
+
+<h4>School of Pharmaceutical Sciences (SPhS)</h4>
+<ul>
+  <li>Doctor of Pharmacy – 230</li>
+</ul>
+
+<h4>School of Physical Sciences (SPS)</h4>
+<p>All programs (Chemistry, Physics, Mathematics, Statistics, Geology, etc.) – 150</p>
+
+<h4>School of Science and Technology Education (SSTE)</h4>
+<p>All Education Science programmes – 150</p>
+
+<h3>Highest FUTMINNA Cut-Off Marks</h3>
+<p>The most competitive programmes include:</p>
+<ul>
+  <li>Medicine and Surgery – <strong>250</strong></li>
+  <li>Doctor of Pharmacy – <strong>230</strong></li>
+  <li>Nursing Science – <strong>220</strong></li>
+</ul>
+<p>Other highly competitive courses like Computer Science, Civil Engineering, Mechatronics, Cyber Security and Architecture require <strong>200 and above</strong>.</p>
+
+<h3>Courses With 150 Cut-Off Mark</h3>
+<p>Many programmes across Agriculture, Education, Technology, Sciences and Environmental fields require a minimum of <strong>150</strong>.</p>
+<p>These include Agricultural programmes, Environmental Technology courses, Education programmes, and several Arts and Science-based courses.</p>
+
+<h3>Other Admission Requirements</h3>
+<p>Apart from meeting the cut-off mark, candidates must also ensure:</p>
+<ul>
+  <li>Correct UTME subject combination for their course</li>
+  <li>Required O'Level credit passes</li>
+  <li>Compliance with JAMB brochure requirements</li>
+</ul>
+<p>Candidates are advised to cross-check all requirements before proceeding to Post-UTME registration.</p>
+
+<h3>What Candidates Should Do Next</h3>
+<p>Applicants should:</p>
+<ul>
+  <li>Confirm the cut-off mark for their chosen course</li>
+  <li>Verify UTME subject combination</li>
+  <li>Ensure O'Level requirements are met</li>
+  <li>Prepare for FUTMINNA Post-UTME updates</li>
+</ul>
+
+<h3>Final Advice for Applicants</h3>
+<p>Candidates are strongly advised to avoid assumptions when choosing courses.</p>
+<p>Each programme has a specific cut-off mark, and meeting one department’s requirement does not automatically qualify a candidate for another.</p>
+<p>Careful verification before Post-UTME registration will improve admission chances and prevent costly mistakes.</p>`,
+    tags: [
+      "FUTMINNA",
+      "UTME",
+      "Cut-Off Marks",
+      "Admission",
+      "2026",
+    ],
+  },
+  {
+    id: "afued-post-utme-direct-entry-form-2026-2027",
+    title: "AFUED Post UTME/Direct Entry Form for 2026/2027 Admission Now Available",
+    category: "Education",
+    date: "2026-06-20",
+    excerpt: "Adeyemi Federal University of Education (AFUED) Ondo has opened registration for its 2026/2027 Post-UTME and Direct Entry screening exercise. Eligible UTME and Direct Entry candidates can apply.",
+    content: `<h2>AFUED Post UTME/Direct Entry Form for 2026/2027 Admission Now Available</h2>
+<p>Adeyemi Federal University of Education (AFUED), Ondo, has commenced the sale of its Post-UTME and Direct Entry screening forms for the 2026/2027 academic session.</p>
+<p>The application is open to qualified UTME and Direct Entry candidates seeking admission into the University's undergraduate degree programmes.</p>
+<p>To be eligible, UTME applicants must have scored <strong>150 or above</strong> in the 2026 Unified Tertiary Matriculation Examination (UTME) and selected Adeyemi Federal University of Education, Ondo, as their <strong>first-choice institution</strong>.</p>
+<p>Candidates who did not initially choose AFUED but wish to study at the University must first complete a <strong>Change of Institution</strong> through JAMB before applying.</p>
+
+<h3>AFUED Post-UTME Eligibility Requirements</h3>
+<p>Candidates applying through UTME must meet the following requirements:</p>
+<ul>
+  <li>Score at least <strong>150</strong> in the 2026 UTME.</li>
+  <li>Choose Adeyemi Federal University of Education, Ondo as their first-choice institution.</li>
+  <li>Meet the O'Level requirements for their chosen course.</li>
+  <li>Complete the online application before the closing date.</li>
+</ul>
+<p>Applicants who have not yet changed AFUED to their first choice should do so before beginning the application.</p>
+
+<h3>Direct Entry Admission Requirements</h3>
+<p>Direct Entry candidates are also invited to apply provided they satisfy the University's admission requirements.</p>
+<p>Applicants must possess:</p>
+<ul>
+  <li>A minimum of <strong>7 points</strong>.</li>
+  <li>At least <strong>one Merit Pass</strong> in the relevant course of study.</li>
+  <li>NCE or ND qualifications relevant to the chosen programme.</li>
+</ul>
+<p>In addition, Direct Entry candidates must submit hard copies of their <strong>NCE or ND certificates and academic transcripts</strong> to the Directorate of Senate Matters and Admissions.</p>
+
+<h3>Available Degree Programmes</h3>
+<p>Candidates who scored <strong>150 and above</strong> are eligible to apply for the following undergraduate programmes.</p>
+
+<h4>Faculty of Education</h4>
+<ul>
+  <li>B.A.Ed. Christian Religious Studies</li>
+  <li>B.A.Ed. Islamic Studies</li>
+  <li>B.A.Ed. History</li>
+  <li>B.A.Ed. Music Education</li>
+  <li>B.A.Ed. Creative Arts</li>
+  <li>B.A.Ed. Fine and Applied Arts</li>
+  <li>B.A.Ed. Yoruba</li>
+  <li>B.A.Ed. French</li>
+  <li>B.A.Ed. English Language</li>
+  <li>B.Sc.Ed. Economics</li>
+  <li>B.Sc.Ed. Agricultural Science</li>
+  <li>B.Sc.Ed. Home Economics</li>
+  <li>B.Sc.Ed. Geography</li>
+  <li>B.Sc.Ed. Biology</li>
+  <li>B.Sc.Ed. Physics</li>
+  <li>B.Sc.Ed. Chemistry</li>
+  <li>B.Sc.Ed. Computer Science</li>
+  <li>B.Sc.Ed. Mathematics</li>
+  <li>B.Sc.Ed. Integrated Science</li>
+  <li>B.Sc.Ed. Physical and Health Education</li>
+  <li>B.Sc.Ed. Entrepreneurship</li>
+  <li>B.Sc.Ed. Business Education</li>
+  <li>B.Ed. Social Studies and Civic Education</li>
+  <li>B.Ed. Counselling Psychology</li>
+  <li>B.Ed. Adult and Continuing Education</li>
+  <li>B.Ed. Special Needs Education</li>
+  <li>B.Ed. Educational Management</li>
+  <li>B.Ed. Early Childhood Care and Education</li>
+  <li>B.Ed. Primary Education</li>
+</ul>
+
+<h4>Other Undergraduate Degree Programmes</h4>
+<ul>
+  <li>B.Sc. Accounting</li>
+  <li>B.Sc. Biology</li>
+  <li>B.Sc. Chemistry</li>
+  <li>B.Sc. Computer Science</li>
+  <li>B.Sc. Economics</li>
+  <li>B.Sc. Geography</li>
+  <li>B.Sc. Library and Information Science</li>
+  <li>B.Sc. Mathematics</li>
+  <li>B.Sc. Physics</li>
+  <li>B.Sc. Political Science</li>
+  <li>B.A. Christian Religious Studies</li>
+  <li>B.A. English Language</li>
+  <li>B.A. History and Diplomatic Studies</li>
+  <li>B.A. Linguistics</li>
+  <li>B.A. Music</li>
+  <li>B.A. Theatre Arts</li>
+  <li>B.A. Yoruba</li>
+  <li>B.A. French</li>
+  <li>B.LIS Library and Information Science</li>
+</ul>
+<p>Applicants are advised to confirm that they meet the admission requirements for their preferred programme before submitting the application.</p>
+
+<h3>AFUED Post-UTME Screening Fee</h3>
+<p>The screening fee is <strong>₦2,000</strong> only.</p>
+<p>The payment is <strong>non-refundable</strong> and can be made through:</p>
+<ul>
+  <li>Etranzact</li>
+  <li>REMITA</li>
+  <li>Any commercial bank</li>
+  <li>Online payment using a debit or credit card</li>
+</ul>
+
+<h3>How to Apply for AFUED Post-UTME/Direct Entry Screening</h3>
+<p>Eligible candidates should complete their application by following these steps:</p>
+<ol>
+  <li>Visit the <a href="https://portal.afued.edu.ng/" target="_blank" rel="noreferrer">AFUED admission portal</a>.</li>
+  <li>Complete the online application form.</li>
+  <li>Upload a clear passport photograph.</li>
+  <li>Upload your SSCE result.</li>
+  <li>Upload your NCE or ND result where applicable.</li>
+  <li>Fill in all required information correctly.</li>
+  <li>Review every entry carefully.</li>
+  <li>Submit the completed application form.</li>
+  <li>Print the Post-UTME screening slip.</li>
+  <li>Upload your O'Level results on JAMB CAPS.</li>
+</ol>
+<p>Candidates whose O'Level results are still pending should wait until the results are available before applying.</p>
+
+<h3>Important Instructions Before Submission</h3>
+<p>Applicants should ensure that every detail entered on the portal is accurate.</p>
+<p>The University has stated that <strong>submitted forms cannot be edited</strong>, so candidates should carefully review all information before clicking the submit button.</p>
+<p>All information provided must correspond with the applicant's official documents.</p>
+
+<h3>Passport Photograph Requirements</h3>
+<p>Candidates are required to upload a passport photograph that meets the following specifications:</p>
+<ul>
+  <li>Clear recent passport photograph</li>
+  <li>No eyeglasses</li>
+  <li>No face veil</li>
+  <li>JPEG format</li>
+  <li>Maximum file size of <strong>50KB</strong></li>
+</ul>
+<p>Failure to meet these specifications may affect the application.</p>
+
+<h3>Required Documents</h3>
+<p>Applicants are expected to upload:</p>
+<ul>
+  <li>WAEC, NECO or NABTEB O'Level results</li>
+  <li>NCE or ND results where applicable</li>
+</ul>
+<p>Candidates must ensure that every uploaded document is genuine and accurate.</p>
+<p>The University warned that providing false information may result in <strong>withdrawal of admission</strong> and possible prosecution by law enforcement agencies.</p>
+
+<h3>O'Level Upload on JAMB CAPS</h3>
+<p>All applicants must upload their O'Level results to the <strong>JAMB Central Admissions Processing System (CAPS)</strong>.</p>
+<p>Failure to upload the required results on JAMB CAPS may delay or prevent admission processing.</p>
+
+<h3>Communication with Successful Candidates</h3>
+<p>Candidates who are considered qualified will be contacted by the University.</p>
+<p>Applicants should therefore provide:</p>
+<ul>
+  <li>A valid email address</li>
+  <li>An active phone number</li>
+</ul>
+<p>AFUED will not be responsible for missed notifications caused by incorrect email addresses or inactive phone numbers.</p>
+
+<h3>AFUED Post-UTME Application Deadline</h3>
+<p>The deadline for submission of the 2026/2027 Post-UTME and Direct Entry application is <strong>Wednesday, 30 September 2026</strong>.</p>
+<p>Candidates are advised to complete their registration well before the deadline and print their screening slip after submission.</p>
+
+<h3>AFUED Contact Details</h3>
+<p>Applicants and parents who require further clarification should use only the University's approved contact channels.</p>
+<p><strong>Telephone Numbers</strong></p>
+<ul>
+  <li>07030357978</li>
+  <li>08066580030</li>
+  <li>08062667026</li>
+  <li>08052503165</li>
+  <li>08034275100</li>
+</ul>
+<p><strong>Email</strong></p>
+<p><a href="mailto:admissions@afued.edu.ng">admissions@afued.edu.ng</a></p>
+<p>Candidates may also visit the official AFUED website for additional admission updates and announcements.</p>`,
+    tags: [
+      "AFUED",
+      "Post-UTME",
+      "Direct Entry",
+      "Admission",
+      "2026",
+    ],
+  },
+  {
     id: "oau-post-utme-direct-entry-form-2026-2027",
     title: "OAU Post-UTME and Direct Entry Form 2026/2027 Now Available",
     category: "Education",

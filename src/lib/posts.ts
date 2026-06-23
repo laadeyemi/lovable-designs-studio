@@ -10,6 +10,322 @@ export type Post = {
 
 const allPosts: Post[] = [
   {
+    id: "lens-university-post-utme-form-2026-2027",
+    title: "Lens University Post UTME Form for 2026/2027 Admission Now Available",
+    category: "Education",
+    date: "2026-06-23",
+    excerpt: "Lens University has commenced the sale of its Post UTME form for the 2026/2027 academic session, inviting qualified candidates to apply for various undergraduate degree programmes.",
+    content: `<h2>Lens University Post UTME Form for 2026/2027 Admission Now Available</h2>
+<p>Lens University has commenced the sale of its Post UTME form for the 2026/2027 academic session.</p>
+<p>Suitably qualified candidates are invited to apply for undergraduate admission into the University's various degree programmes across Science, Engineering, Health Sciences, Social Sciences, Pharmacy and Law.</p>
+<p>Located in Ilemona, Oyun Local Government Area of Kwara State, Lens University offers students a modern learning environment supported by experienced lecturers and research-driven education.</p>
+
+<h2>Lens University Admission Requirements</h2>
+<p>Candidates seeking admission into Lens University must meet the University's minimum admission requirements before applying.</p>
+<p>Applicants are expected to have:</p>
+<ul>
+  <li>A minimum of five O'Level credit passes in relevant subjects</li>
+  <li>A valid 2026 UTME result</li>
+  <li>A minimum JAMB score of 150</li>
+</ul>
+<p>Candidates should also ensure that they satisfy the admission requirements for their chosen programme.</p>
+
+<h2>Lens University JAMB Cut-Off Mark</h2>
+<p>The minimum JAMB cut-off mark for admission into Lens University for the 2026/2027 academic session is <strong>150</strong>.</p>
+<p>Candidates who scored 150 or above in the UTME and possess the required O'Level credits are eligible to begin the admission process.</p>
+
+<h2>Lens University School Fees</h2>
+<p>The University has announced the following fees for prospective students:</p>
+<ul>
+  <li>Tuition Fee: <strong>₦190,000</strong></li>
+  <li>Admission Form and Acceptance Fee: <strong>₦30,000</strong></li>
+</ul>
+<p>Applicants are advised to confirm all payment details through the University's official channels before making any payment.</p>
+
+<h2>Undergraduate Courses Available at Lens University</h2>
+<p>Lens University offers undergraduate programmes across several faculties.</p>
+
+<h3>Faculty of Science and Computing</h3>
+<p>The Faculty of Science and Computing offers the following programmes:</p>
+<ul>
+  <li>B.Sc. Microbiology</li>
+  <li>B.Sc. Computer Science</li>
+  <li>B.Sc. Cyber Security</li>
+  <li>B.Sc. Information and Communication Technology</li>
+  <li>B.Sc. Software Engineering</li>
+</ul>
+
+<h3>Faculty of Engineering</h3>
+<p>Available programmes include:</p>
+<ul>
+  <li>B.Eng. Computer Engineering</li>
+  <li>B.Eng. Electrical and Electronics Engineering</li>
+</ul>
+
+<h3>Faculty of Basic Medical and Allied Sciences</h3>
+<p>Candidates interested in health-related programmes can apply for:</p>
+<ul>
+  <li>B. Medical Laboratory Science</li>
+  <li>Doctor of Optometry (O.D.)</li>
+  <li>B.Sc. Public Health</li>
+  <li>B.NSc. Nursing Science</li>
+  <li>B.Rad. Radiography</li>
+  <li>Doctor of Physiotherapy</li>
+  <li>B.Ch. Community Health Science</li>
+  <li>B.Sc. Physiology</li>
+</ul>
+
+<h3>Faculty of Social and Management Studies</h3>
+<p>The faculty offers degree programmes in:</p>
+<ul>
+  <li>B.Sc. Accounting</li>
+  <li>B.Sc. Entrepreneurship</li>
+  <li>B.Sc. Business Administration</li>
+  <li>B.Sc. Library and Information Science</li>
+  <li>B.Sc. Public Administration</li>
+  <li>B.Sc. Mass Communication</li>
+  <li>B.Sc. Journalism and Media Studies</li>
+  <li>B.Sc. Film and Multimedia Studies</li>
+  <li>B.Sc. Finance</li>
+  <li>B.Sc. Economics</li>
+  <li>B.Sc. Marketing</li>
+</ul>
+
+<h3>Faculty of Pharmacy</h3>
+<p>The available programmes are:</p>
+<ul>
+  <li>Doctor of Pharmacy (Pharm.D.)</li>
+  <li>B.Sc. Pharmacology</li>
+</ul>
+
+<h3>Faculty of Law</h3>
+<p>The Faculty of Law offers:</p>
+<ul>
+  <li>LL.B. Law</li>
+  <li>LL.B. Common and Islamic Law</li>
+</ul>
+<p>Applicants should carefully review the available programmes before beginning the application process.</p>
+
+<h2>How to Apply for Lens University Admission</h2>
+<p>Prospective candidates can obtain more information about the admission process through the <a href="https://www.lens.edu.ng/" target="_blank" rel="noopener noreferrer">official Lens University website</a>.</p>
+<p>Applicants may also contact the University's admission office through the following phone numbers:</p>
+<ul><li>07030004455</li><li>07054060112</li></ul>`,
+    tags: ["Lens University", "Post UTME", "Admission", "2026/2027", "Education", "Nigeria", "Kwara State"],
+  },
+  {
+    id: "tasfued-post-utme-direct-entry-form-2026-2027",
+    title: "TASFUED Post UTME/Direct Entry Form for 2026/2027 Admission Now Available",
+    category: "Education",
+    date: "2026-06-23",
+    excerpt: "Tai Solarin University of Education (TASUED), now officially known as Tai Solarin Federal University of Education (TASFUED), has commenced the sale of its Post UTME and Direct Entry screening forms for the 2026/2027 academic session.",
+    content: `<h2>TASFUED Post UTME/Direct Entry Form for 2026/2027 Admission Now Available</h2>
+<p>Tai Solarin University of Education (TASUED), now officially known as <strong>Tai Solarin Federal University of Education (TASFUED)</strong>, has commenced the sale of its Post UTME and Direct Entry screening forms for the <strong>2026/2027 academic session</strong>.</p>
+<p>The online screening exercise is compulsory for all candidates seeking admission into the University's undergraduate programmes through UTME or Direct Entry.</p>
+<p>Eligible candidates can begin registration from <strong>Tuesday, 23 June 2026</strong>, while the application portal will close on <strong>Friday, 10 July 2026</strong>.</p>
+
+<h3>Who Can Apply for TASFUED Post UTME?</h3>
+<p>The screening exercise is open to candidates who meet the University's admission requirements.</p>
+<p>To qualify, applicants must:</p>
+<ul>
+  <li>Choose TASFUED as their first-choice university in the 2026 UTME.</li>
+  <li>Score at least <strong>160</strong> in the 2026 UTME.</li>
+  <li>Be at least <strong>16 years old by 1 October 2026</strong>.</li>
+  <li>Possess five relevant O'Level credit passes, including <strong>English Language</strong> and <strong>Mathematics</strong>, obtained in not more than two sittings.</li>
+  <li>Upload their O'Level results on JAMB CAPS before the screening exercise closes.</li>
+</ul>
+<p>Candidates who did not initially select TASFUED as their first choice may still apply after changing their institution through JAMB.</p>
+
+<h3>Pre-Degree Students Are Also Eligible</h3>
+<p>Students who completed the University's Pre-Degree Studies (PDS) programme can also participate in the screening exercise.</p>
+<p>Such candidates must:</p>
+<ul>
+  <li>Choose TASFUED as their first-choice institution.</li>
+  <li>Score at least <strong>160</strong> in the 2026 UTME.</li>
+</ul>
+
+<h3>Direct Entry Candidates Can Apply</h3>
+<p>Direct Entry applicants, including TASFUED JUPEB candidates, are eligible provided they:</p>
+<ul>
+  <li>Obtain the JAMB Direct Entry Form.</li>
+  <li>Select TASFUED as their first-choice institution.</li>
+</ul>
+<p>After completing the online screening, Direct Entry candidates must submit the following documents to the University's Admission Office:</p>
+<ul>
+  <li>Online Admission Screening Report</li>
+  <li>Notification of Diploma (for TASFUED Diploma candidates) or NCE Result</li>
+</ul>
+
+<h3>Accredited Courses Available for 2026/2027 Admission</h3>
+<p>TASFUED has confirmed that admission is available only into its accredited programmes across six colleges.</p>
+
+<h4>College of Humanities</h4>
+<ul>
+  <li>Fine and Applied Arts</li>
+  <li>Fine and Applied Arts Education</li>
+  <li>Creative Arts</li>
+  <li>Creative Arts Education</li>
+  <li>English</li>
+  <li>English Education</li>
+  <li>French</li>
+  <li>French Education</li>
+  <li>History and Diplomatic Studies</li>
+  <li>History and Diplomatic Studies Education</li>
+  <li>Christian Religious Studies</li>
+  <li>Christian Religious Studies Education</li>
+  <li>Islamic Studies</li>
+  <li>Islamic Studies Education</li>
+  <li>Yoruba</li>
+  <li>Yoruba Education</li>
+</ul>
+
+<h4>College of Science and Information Technology</h4>
+<ul>
+  <li>Biology</li>
+  <li>Biology Education</li>
+  <li>Chemistry</li>
+  <li>Chemistry Education</li>
+  <li>Computer Science</li>
+  <li>Computer Science Education</li>
+  <li>Health Education</li>
+  <li>Human Kinetics</li>
+  <li>Mathematics</li>
+  <li>Mathematics Education</li>
+  <li>Physics</li>
+  <li>Physics Education</li>
+  <li>Physics and Electronics</li>
+  <li>Cyber Security</li>
+  <li>Software Engineering</li>
+  <li>Data Science</li>
+</ul>
+
+<h4>College of Social and Management Sciences</h4>
+<ul>
+  <li>Economics</li>
+  <li>Economics Education</li>
+  <li>Accounting</li>
+  <li>Accounting Education</li>
+  <li>Geography and Environmental Management</li>
+  <li>Geography and Environmental Management Education</li>
+  <li>Transport Planning and Management</li>
+  <li>Transport Planning and Management Education</li>
+  <li>Political Science</li>
+  <li>Political Science Education</li>
+  <li>Social Studies Education</li>
+  <li>Social Work</li>
+  <li>Sociology</li>
+</ul>
+
+<h4>College of Specialised and Professional Education</h4>
+<ul>
+  <li>Adult Education</li>
+  <li>Childhood Education</li>
+  <li>Counselling Psychology</li>
+  <li>Educational Management</li>
+  <li>Educational Technology</li>
+  <li>Library and Information Science</li>
+</ul>
+
+<h4>College of Vocational and Technology Education</h4>
+<ul>
+  <li>Business Education</li>
+  <li>Secretarial Administration</li>
+  <li>Home Economics and Hotel Management</li>
+  <li>Technical Education</li>
+  <li>Entrepreneurship</li>
+  <li>Entrepreneurship Education</li>
+</ul>
+
+<h4>College of Agriculture and Hospitality Management</h4>
+<ul>
+  <li>Agricultural Science Education</li>
+  <li>Agricultural Extension</li>
+  <li>Fisheries and Aquaculture</li>
+  <li>Animal Science</li>
+  <li>Tourism and Hospitality Management</li>
+  <li>Agricultural Economics</li>
+</ul>
+
+<h3>General Admission Requirements</h3>
+<p>Applicants must possess:</p>
+<ul>
+  <li>Five relevant O'Level credits obtained in not more than two sittings.</li>
+  <li>Credit passes in <strong>English Language</strong> and <strong>Mathematics</strong>.</li>
+  <li>O'Level results uploaded on JAMB CAPS before the screening deadline.</li>
+</ul>
+<p>Candidates should ensure their chosen course matches both their UTME subject combination and O'Level requirements.</p>
+
+<h3>How to Apply for TASFUED Post UTME 2026/2027</h3>
+<p>Eligible candidates should complete their registration through the TASFUED admission portal by following these steps:</p>
+<ol>
+  <li>Visit the <a href="https://my.tasued.edu.ng/" target="_blank" rel="noopener noreferrer">TASFUED admission portal</a>.</li>
+  <li>Click <strong>Apply Now</strong>.</li>
+  <li>Read the instructions and continue to the admission page.</li>
+  <li>Select <strong>Undergraduate Admission</strong>.</li>
+  <li>Choose <strong>Post-UTME/Direct Entry</strong>.</li>
+  <li>Enter your JAMB Registration Number.</li>
+  <li>Create an account.</li>
+  <li>Verify your email address.</li>
+  <li>Log in using the credentials sent to your email.</li>
+  <li>Pay the application fee online.</li>
+  <li>Complete the screening form.</li>
+  <li>Fetch your O'Level results using the integrated verification system.</li>
+  <li>Provide your examination result checker card details.</li>
+  <li>Confirm that your O'Level details are correct.</li>
+  <li>Use the Programme Advisor to confirm eligibility.</li>
+  <li>Preview your application carefully.</li>
+  <li>Submit the form.</li>
+  <li>Print both the Application Slip and Screening Slip.</li>
+</ol>
+<p>Only candidates who selected TASFUED as their first-choice institution or successfully changed to TASFUED through JAMB will be allowed to complete registration.</p>
+
+<h3>JAMB Details Will Be Imported Automatically</h3>
+<p>The portal automatically imports the following information from JAMB CAPS:</p>
+<ul>
+  <li>Personal biodata</li>
+  <li>UTME subjects</li>
+  <li>UTME score</li>
+  <li>Chosen programme</li>
+</ul>
+<p>Candidates cannot edit these records on the University portal, so they should ensure their JAMB profile is correct before beginning registration.</p>
+
+<h3>Screening Will Be Based on UTME and O'Level Performance</h3>
+<p>The University will use a point-based grading system.</p>
+<p>The final screening score will be based on:</p>
+<ul>
+  <li>UTME score</li>
+  <li>Grades obtained in the five relevant O'Level subjects for the chosen course</li>
+</ul>
+<p>The integrated O'Level Verification System and Programme Advisor will help candidates confirm whether they meet the admission requirements before final submission.</p>
+
+<h3>TASFUED Post UTME Registration Deadline</h3>
+<p>Online registration opens on <strong>Tuesday, 23 June 2026</strong> and closes on <strong>Friday, 10 July 2026</strong>.</p>
+<p>Candidates are advised to complete registration well before the closing date to avoid last-minute issues.</p>
+
+<h3>Contact Details for Enquiries</h3>
+<p>Candidates who need assistance may contact the University through the following channels:</p>
+<p><strong>Email:</strong> <a href="mailto:admissions@tasued.edu.ng">admissions@tasued.edu.ng</a></p>
+<p><strong>Admissions Officer</strong><br>Tai Solarin Federal University of Education<br>University Main Campus, Ijagun<br>P.M.B. 2118<br>Ijebu-Ode, Ogun State</p>
+<p><strong>Telephone:</strong> 08131978707 (Office hours only)</p>
+<p>Applicants may also use the support system available on the admission portal.</p>
+
+<h3>Checklist Before Submitting Your Application</h3>
+<p>Before clicking the final submit button, ensure that:</p>
+<ul>
+  <li>TASFUED is your first-choice university on JAMB CAPS.</li>
+  <li>Your UTME score is at least <strong>160</strong>.</li>
+  <li>You will be at least <strong>16 years old by 1 October 2026</strong>.</li>
+  <li>Your O'Level subjects meet the requirements for your chosen course.</li>
+  <li>You have credit passes in English Language and Mathematics.</li>
+  <li>Your O'Level results have been uploaded on JAMB CAPS.</li>
+  <li>The correct O'Level results have been fetched on the portal.</li>
+  <li>Your chosen course matches your UTME and O'Level subject combination.</li>
+  <li>You have printed both the Application Slip and Screening Slip.</li>
+</ul>
+<p>Taking time to verify every detail before submission will help prevent avoidable mistakes that could delay or affect your admission.</p>
+<p>For more insights into admission chances based on UTME scores, you might find this post helpful: <a href="/blog/jamb-2026-admission-chances-by-score">JAMB 2026: What Admission Chances Do Candidates with 140, 150, 180, 200, and 250 Scores Have?</a></p>`,
+    tags: ["TASFUED", "Post UTME", "Direct Entry", "Admission", "2026/2027", "Education", "Nigeria"],
+  },
+  {
     id: "uniosun-post-utme-direct-entry-form-2026-2027",
     title: "UNIOSUN Post UTME/Direct Entry Form for 2026/2027 Admission Now Available",
     category: "Education",

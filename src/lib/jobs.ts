@@ -45,9 +45,879 @@ function parseDeadline(deadlineString: string): string | null {
   return null; // Unable to parse, treat as non-expired
 }
 
-const currentDate = '2026-06-18'; // Current date for comparison (June 18, 2026)
+const currentDate = '2026-06-23'; // Current date for comparison (June 23, 2026)
 
 const allJobs: Job[] = [
+  {
+    id: 'hse-compliance-monitoring-officer-maitama-abuja-2026',
+    title: 'HSE, Compliance and Monitoring Officer',
+    date: '2026-06-23',
+    location: 'Maitama Abuja',
+    type: 'Full-time',
+    salary: 'Not Specified',
+    deadline: 'Not Specified',
+    summary: 'Seeking a proactive and detail-oriented HSE, Compliance and Monitoring Officer to drive health, safety, environmental, and compliance initiatives across the organization.',
+    responsibilities: [
+      'Monitor and report HSE incidents, workplace hazards, and compliance issues.',
+      'Develop and implement strategies to reduce workplace accidents and environmental risks.',
+      'Conduct investigations into safety incidents and recommend corrective actions.',
+      'Organize safety awareness and compliance training programs for employees.',
+      'Assess workplace risks associated with tools, equipment, and operational activities.',
+      'Review and develop company policies to ensure regulatory and operational compliance.',
+      'Maintain compliance documentation, reports, and audit records.',
+      'Implement and manage effective legal and regulatory compliance programs.',
+      'Conduct regular audits to identify risks, gaps, and process weaknesses.',
+      'Advise management on compliance obligations and risk mitigation strategies.'
+    ],
+    requirements: [
+      'Bachelors Degree in Occupational Health & Safety, Engineering, Statistics, or a related field.',
+      'Relevant HSE Certification is mandatory.',
+      'Minimum of 4 years’ experience in HSE and compliance roles within a medium to large organization.',
+      'Strong knowledge of Nigerian regulatory and compliance requirements.',
+      'Detail-oriented and result-driven mindset.'
+    ],
+    apply: 'Interested candidates should send their CV to: <a href="mailto:recruitment.ng@itmafrica.com">recruitment.ng@itmafrica.com</a>'
+  },
+  {
+    id: 'waal-energy-graduate-trainee-2026',
+    title: 'Graduate Trainee Program',
+    date: '2026-06-23',
+    location: 'Port-Harcourt',
+    type: 'Graduate Trainee',
+    company: 'Waal Energy Services Limited',
+    salary: 'Not Specified',
+    deadline: '26th June, 2026',
+    summary: 'Waal Energy Services Limited, a Nigerian engineering and technical solutions company, is recruiting recent engineering graduates for its 2026 Graduate Trainee Program.',
+    responsibilities: [
+      'Participate in a structured training program to develop technical competencies in engineering.',
+      'Support various engineering projects and technical solutions.',
+      'Collaborate with senior engineers and learn industry best practices.'
+    ],
+    requirements: [
+      'Recent graduate with a Bachelor’s degree in Engineering.',
+      '0-3 years experience.',
+      'Strong willingness to learn and develop technical competencies.'
+    ],
+    apply: 'Application link 🔗 <a href="https://areatalkreprts.com/waal-energy-2026-graduate-trainee-program">https://areatalkreprts.com/waal-energy-2026-graduate-trainee-program</a>'
+  },
+  {
+    id: 'cement-mixer-truck-driver-bwari-abuja-2026',
+    title: 'Cement Mixer Truck Driver',
+    date: '2026-06-23',
+    location: 'Bwari, Abuja',
+    type: 'Contract',
+    company: 'FMR Agency (for client)',
+    salary: 'Not Specified',
+    deadline: 'Not Specified',
+    summary: 'We are looking for a careful and reliable Cement Mixer Truck Driver to deliver ready-mix cement to construction sites. The job involves safe driving, keeping the cement drum turning during transport, following road and site safety rules, and making sure deliveries are done on time.',
+    responsibilities: [
+      'Drive cement mixer trucks safely and follow traffic rules.',
+      'Check the truck daily (tyres, brakes, lights, drum, water system) before use.',
+      'Keep the drum turning while driving to maintain cement quality.',
+      'Confirm load details before leaving the plant.',
+      'Work with site foremen to discharge cement properly.',
+      'Wash the drum after each delivery.',
+      'Report any truck problems or safety issues immediately.',
+      'Keep the truck clean and professional at all times.',
+      'Record details of each delivery (volume, time, site).'
+    ],
+    requirements: [
+      'WAEC/NECO certificate.',
+      'Valid Nigerian driver’s licence (Class C or above).',
+      'Defensive Driving Certificate.',
+      'At least 1 year experience driving mixer trucks or other heavy vehicles.',
+      'Experience in cement/concrete delivery is an advantage.',
+      'Physically fit and able to work on construction sites.'
+    ],
+    apply: 'Send your CV to <a href="mailto:hrbp4@fmragency.com">hrbp4@fmragency.com</a> with “Cement Mixer Truck Driver” as the subject of the mail.'
+  },
+  {
+    id: 'block-production-worker-bwari-abuja-2026',
+    title: 'Block Production Worker',
+    date: '2026-06-23',
+    location: 'Bwari, Abuja',
+    type: 'Contract',
+    company: 'FMR Agency (for client)',
+    salary: 'Not Specified',
+    deadline: 'Not Specified',
+    summary: 'We are hiring a hardworking and reliable Block Production Worker to support block production and batching plant operations. This entry-level role involves assisting with manual production tasks, maintaining a clean and safe working environment, and supporting daily plant operations under supervision.',
+    responsibilities: [
+      'Carry out manual tasks such as moving materials, cleaning, stacking blocks, watering, and tidying aggregates.',
+      'Assist in watering and maintaining the curing block yard.',
+      'Help with receiving aggregates and keeping the stockyard organized.',
+      'Keep block production areas clean and safe.',
+      'Report safety hazards or machine problems immediately.',
+      'Always wear protective gear (boots, gloves, helmet, mask, vest).',
+      'Attend safety briefings and training sessions.',
+      'Be punctual, reliable, and present throughout shifts.'
+    ],
+    requirements: [
+      'WAEC/NECO minimum qualification.',
+      'Basic reading and writing skills.',
+      '0–1 year experience (entry-level role).',
+      'Physically fit and able to work in a dusty, outdoor environment.',
+      'Willingness to work hard and follow instructions.'
+    ],
+    apply: 'Send your CV to <a href="mailto:hrbp4@fmragency.com">hrbp4@fmragency.com</a> with “Block Production Worker” as the subject of the mail.'
+  },
+  {
+    id: 'cement-pump-operator-bwari-abuja-2026',
+    title: 'Cement Pump Operator',
+    date: '2026-06-23',
+    location: 'Bwari, Abuja',
+    type: 'Contract',
+    company: 'FMR Agency (for client)',
+    salary: 'Not Specified',
+    deadline: 'Not Specified',
+    summary: 'We are looking for an experienced Cement Pump Operator to handle cement pumping on construction sites. The job involves setting up the pump, checking the machine before use, pumping cement safely, cleaning the pipes after work, and keeping the equipment in good condition.',
+    responsibilities: [
+      'Set up the cement pump correctly at job sites.',
+      'Check the machine and safety parts before starting work.',
+      'Work with truck drivers to keep cement flowing into the pump.',
+      'Watch the pump during use to prevent blockages or faults.',
+      'Clean the pipes and pump after each job.',
+      'Follow all safety rules and make sure protective gear is used.',
+      'Report any machine problems or safety issues immediately.',
+      'Keep records of each job done.',
+      'Guide junior workers on safe pump operation.'
+    ],
+    requirements: [
+      'WAEC/NECO certificate.',
+      'Valid licence to operate cement pump machines.',
+      'At least 4 years’ experience using cement or concrete pumps.',
+      'Nigerian driver’s licence (for truck-mounted pumps).',
+      'Certification in pump operation is an advantage.',
+      'Physically fit and able to work on busy construction sites.',
+      'Good knowledge of safety rules and machine handling.'
+    ],
+    apply: 'Send your CV to <a href="mailto:hrbp4@fmragency.com">hrbp4@fmragency.com</a> with “Cement Pump Operator” as the subject of the mail.'
+  },
+  {
+    id: 'sevenup-graduate-trainee-2026',
+    title: 'Graduate Trainee Program',
+    date: '2026-06-23',
+    location: 'Not Specified',
+    type: 'Graduate Trainee',
+    company: 'Seven-Up Bottling Company',
+    salary: 'Not Specified',
+    deadline: 'Not Specified',
+    summary: 'Seven-Up Bottling Company is recruiting for its 2026 Graduate Trainee Program.',
+    responsibilities: [
+      'Participate in a structured training program across various departments.',
+      'Learn about the company’s operations and contribute to projects.',
+      'Develop professional skills for a career in the FMCG industry.'
+    ],
+    requirements: [
+      'Bachelor’s degree in a relevant discipline with a minimum of Second Class Upper (or equivalent).',
+      '0–2 years of work experience.',
+      'NYSC Certificate required.',
+      'Strong analytical and problem-solving skills.',
+      'Good communication and interpersonal skills.',
+      'Proficiency in Microsoft Office Suite (Excel, Word, PowerPoint).',
+      'Flexible to work in any location.'
+    ],
+    apply: 'Apply 👇 <a href="https://sevenup.seamlesshiring.com/job/view/8831#/">https://sevenup.seamlesshiring.com/job/view/8831#/</a>'
+  },
+  {
+    id: 'sales-officer-abule-egba-2026',
+    title: 'Sales Officer',
+    date: '2026-06-23',
+    location: 'Abule-Egba, Lagos',
+    type: 'Full-time',
+    salary: '₦120,000 Gross Monthly',
+    deadline: '25th June',
+    summary: 'Seeking a sales officer with 1-2 years of relevant experience for a role in Abule-Egba, Lagos.',
+    responsibilities: [
+      'Promote and sell products/services to customers.',
+      'Build and maintain relationships with clients.',
+      'Achieve and exceed sales targets.'
+    ],
+    requirements: [
+      '1–2 years experience in sales or marketing.',
+      'Strong communication and persuasion skills.',
+      'Ability to meet and exceed sales targets.',
+      'Good negotiation and customer relationship skills.',
+      'High level of drive and self-motivation.',
+      'Proficiency in MS Office tools is an advantage.',
+      'Only candidates residing within Abule-Egba and its environs should apply.'
+    ],
+    apply: 'Send CV to: <a href="mailto:thehrbridge26@gmail.com">thehrbridge26@gmail.com</a> Subject: Sales Officer – Abule-Egba'
+  },
+  {
+    id: 'machine-technician-fmcg-lagos-2026',
+    title: 'Machine Technician',
+    date: '2026-06-23',
+    location: 'Lagos',
+    type: 'Full-time',
+    company: 'FMCG',
+    salary: 'Open',
+    deadline: 'Not Specified',
+    summary: 'The Technician is responsible for performing technical and maintenance activities while providing supervisory support to ensure work is completed safely, efficiently, and in accordance with company standards.',
+    responsibilities: [
+      'Perform technical, maintenance, inspection, troubleshooting, and repair activities as assigned.',
+      'Ensure equipment, tools, and systems are operated and maintained according to established procedures.',
+      'Supervise and coordinate the daily activities of technicians, operators, or support staff as required.',
+      'Assign tasks, monitor progress, and provide guidance to team members to ensure timely completion of work.',
+      'Conduct routine inspections and identify potential issues or improvement opportunities.',
+      'Ensure compliance with safety, quality, and operational standards.',
+      'Maintain accurate records of maintenance activities, inspections, repairs, and reports.',
+      'Assist in training and mentoring junior technicians and new employees.',
+      'Coordinate with supervisors and other departments to support operational requirements.',
+      'Report equipment failures, safety concerns, and operational issues promptly.'
+    ],
+    requirements: [
+      'Diploma, HND, OND, Technical Certificate, or equivalent qualification in a relevant technical field.',
+      '2–5 years of relevant technical experience.',
+      'Demonstrated ability to supervise or coordinate work teams.',
+      'Strong troubleshooting and problem-solving skills.',
+      'Good communication and interpersonal skills.',
+      'Knowledge of health, safety, and quality requirements applicable to the work environment.'
+    ],
+    apply: 'Interested and Qualified candidates should send their CV to <a href="mailto:cv@ascentech.com">cv@ascentech.com</a> using the job title as the subject of the mail (Technician 14)'
+  },
+  {
+    id: 'female-marketing-executive-radio-ilupeju-2026',
+    title: 'Female Marketing Executive',
+    date: '2026-06-23',
+    location: 'Ilupeju, Lagos',
+    type: 'Full-time',
+    company: 'Online Radio Broadcasting Outfit',
+    salary: 'Paid based on commissions',
+    deadline: 'Thursday, June 25, 2026',
+    summary: 'A reputable online radio broadcasting outfit is seeking a highly motivated and result-driven Female Marketer to join its growing team.',
+    responsibilities: [
+      'Develop and implement marketing strategies to attract new clients and advertisers.',
+      'Promote the station’s programs, services, and advertising opportunities.',
+      'Build and maintain strong relationships with clients and business partners.',
+      'Meet and exceed monthly sales and revenue targets.',
+      'Prepare marketing reports and provide regular feedback to management.',
+      'Identify new business opportunities and market trends.'
+    ],
+    requirements: [
+      'Minimum of OND/HND/B.Sc. in Marketing, Business Administration, Mass Communication, or a related field.',
+      'Excellent communication and negotiation skills.',
+      'Strong networking and relationship-building abilities.',
+      'Ability to work independently and achieve set targets.',
+      'Previous marketing or sales experience in media, advertising, or related industries is an added advantage.',
+      'Proficiency in Microsoft Office applications and social media marketing.'
+    ],
+    apply: 'Interested and qualified candidates should send their CV and a cover letter to <a href="mailto:overtradio@gmail.com">overtradio@gmail.com</a> or +234 703 386 8072 (WhatsApp) on or before Thursday, June 25, 2026.'
+  },
+  {
+    id: 'sales-executive-travel-agency-lekki-2026',
+    title: 'Sales Executive – Travel Agency',
+    date: '2026-06-23',
+    location: 'Lekki, Lagos – Full Time, Onsite',
+    type: 'Full-time',
+    salary: '₦150,000-170,000 net/month + Commission',
+    deadline: 'Not Specified',
+    summary: 'Drive sales of holiday packages, flight tickets, visas, and travel deals for clients. Build relationships + meet monthly targets.',
+    responsibilities: [
+      'Sell travel packages, flights, hotels, visas via calls, WhatsApp, walk-ins & social media.',
+      'Meet monthly sales targets and upsell additional services.',
+      'Follow up leads from our marketing + referrals until conversion.',
+      'Prepare quotations, itineraries, and payment invoices for clients.',
+      'Maintain CRM with client details and feedback for repeat bookings.',
+      'Stay updated on destinations, visa rules, and travel trends.'
+    ],
+    requirements: [
+      'Age: 27 years and above.',
+      '1-2 years sales/customer service experience. Travel/tourism experience is a plus but not required.',
+      'Excellent communication + persuasion skills. Must be confident on phone/WhatsApp.',
+      'Target-driven, smart, and professional in appearance.',
+      'Basic computer skills: MS Office, email, WhatsApp Business.',
+      'Lagos resident. Must be able to resume in Ikate, Lekki daily.',
+      'Gender: Female candidates preferred.',
+      'Must have completed the compulsory 1 year service (NYSC).'
+    ],
+    apply: 'Send CV to <a href="https://wa.me/2348168983876">08168983876</a> Subject: Sales Executive. NO CALLS.'
+  },
+  {
+    id: 'events-coordinator-gbagada-hybrid-2026',
+    title: 'Events Coordinator',
+    date: '2026-06-23',
+    location: 'Gbagada',
+    type: 'Full-Time(Hybrid)',
+    salary: 'Not Specified',
+    deadline: 'Not Specified',
+    summary: 'We are seeking a highly organized Events Coordinator to plan, manage, and execute corporate and organizational events.',
+    responsibilities: [
+      'Plan and coordinate internal and external corporate events, meetings, and programs.',
+      'Manage end-to-end event logistics including venue, vendors, catering, and equipment.',
+      'Develop event timelines, budgets, and execution plans.',
+      'Liaise with vendors and service providers to ensure quality delivery.',
+      'Coordinate invitations, attendee management, and event communication.',
+      'Oversee on-site event setup, execution, and breakdown.',
+      'Ensure events align with brand identity and organizational objectives.',
+      'Track event performance and provide post-event reports.',
+      'Support marketing and HR teams in engagement activities and campaigns.'
+    ],
+    requirements: [
+      'Bachelor’s Degree in Event Management, Marketing, Communications, or related field.',
+      'Proven experience as an Events Coordinator or in event planning/execution.',
+      'Strong organizational and project management skills.',
+      'Excellent communication and stakeholder coordination abilities.',
+      'Ability to manage multiple events under tight deadlines.',
+      'Experience working with vendors and external service providers.',
+      'Strong attention to detail and problem-solving ability.',
+      'Creative mindset with strong execution discipline.'
+    ],
+    apply: 'Interested candidates should send their CV and cover letter to <a href="mailto:recruitment@hazonholdings.com">recruitment@hazonholdings.com</a> with the subject “Events Coordinator”'
+  },
+  {
+    id: 'procurement-officer-gbagada-hybrid-2026',
+    title: 'Procurement Officer',
+    date: '2026-06-23',
+    location: 'Gbagada',
+    type: 'Full-Time(Hybrid)',
+    salary: 'Not Specified',
+    deadline: 'Not Specified',
+    summary: 'We are seeking an experienced Procurement Officer to manage sourcing, supplier relationships, and procurement operations across the organization.',
+    responsibilities: [
+      'Manage end-to-end procurement processes including sourcing, negotiation, and purchase order management.',
+      'Identify, evaluate, and onboard reliable suppliers and vendors.',
+      'Monitor supplier performance to ensure quality, cost-effectiveness, and timely delivery.',
+      'Maintain accurate procurement records and documentation.',
+      'Negotiate contracts, pricing, and service agreements with vendors.',
+      'Ensure compliance with organizational procurement policies and standards.',
+      'Collaborate with internal departments to forecast procurement needs.',
+      'Conduct market research to identify cost-saving opportunities.',
+      'Manage inventory coordination and supply continuity.'
+    ],
+    requirements: [
+      'Bachelor’s Degree in Supply Chain Management, Business Administration, Procurement, or related field.',
+      'Proven experience as a Procurement Officer or in a similar role.',
+      'Strong negotiation, vendor management, and analytical skills.',
+      'Experience managing procurement processes in a structured corporate environment.',
+      'Knowledge of supply chain systems and procurement best practices.',
+      'Strong attention to detail and documentation accuracy.',
+      'Ability to work independently and manage multiple vendor relationships.',
+      'Excellent communication and stakeholder management skills.'
+    ],
+    apply: 'Interested candidates should send their CV and cover letter to <a href="mailto:recruitment@hazonholdings.com">recruitment@hazonholdings.com</a> with the subject “Procurement Officer”'
+  },
+  {
+    id: 'primary-school-phe-teacher-lagos-2026',
+    title: 'Primary School Physical Health Education (PHE) Teacher',
+    date: '2026-06-23',
+    location: 'Lagos',
+    type: 'Full-time',
+    salary: 'Not Specified',
+    deadline: 'Not Specified',
+    summary: 'A leading Nigerian school offering a blended Nigerian and Cambridge curriculum is seeking exceptional talent.',
+    responsibilities: [
+      'Plan and deliver engaging Physical and Health Education (PHE) lessons aligned with curriculum standards.',
+      'Promote active participation and develop students’ physical fitness and sports skills.',
+      'Assess student performance using appropriate evaluation methods.',
+      'Identify students’ learning needs and adapt teaching strategies accordingly.',
+      'Create an engaging learning environment that supports student progress.',
+      'Monitor and report student performance to the Head of Department and parents.',
+      'Participate in meetings, training, and professional development activities.',
+      'Stay current with developments in Physical Education and integrate best practices into lessons.'
+    ],
+    requirements: [
+      'Bachelor’s degree in Human Kinetics or related field.',
+      'Ability to tutor students with different sporting activities.',
+      'Relevant teaching certification may be required.',
+      'Able to use an interactive or smart board.',
+      '21st-century teaching skills.',
+      'TRCN certification is an added advantage.'
+    ],
+    apply: 'Interested candidates should click on the link below to apply: <a href="https://forms.gle/757FWH4FP7VKDsPH8">https://forms.gle/757FWH4FP7VKDsPH8</a>'
+  },
+  {
+    id: 'secondary-school-phe-teacher-surulere-2026',
+    title: 'Secondary School Physical and Health Education (PHE) Teacher',
+    date: '2026-06-23',
+    location: 'Surulere, Lagos',
+    type: 'Full-time',
+    salary: 'Not Specified',
+    deadline: 'Not Specified',
+    summary: 'A leading Nigerian school offering a blended Nigerian and Cambridge curriculum is seeking exceptional talent.',
+    responsibilities: [
+      'Plan and deliver Physical and Health Education lessons in line with the approved curriculum.',
+      'Teach physical fitness, sports, health education, personal hygiene, and wellness concepts.',
+      'Organize and supervise sporting activities, fitness programs, and inter-house competitions.',
+      'Promote healthy lifestyles, teamwork, discipline, and sportsmanship among students.',
+      'Assess students’ physical and theoretical performance and provide constructive feedback.',
+      'Ensure student safety during physical activities and maintain appropriate safety standards.',
+      'Prepare students for WAEC, NECO, and internal examinations.',
+      'Maintain accurate records of student participation, achievement, and progress.'
+    ],
+    requirements: [
+      'Degree in Physical and Health Education, Human Kinetics, Education, or a related field.',
+      'Relevant teaching certification may be required.',
+      'Experience teaching PHE at the secondary school level is preferred.',
+      'Strong knowledge of sports, fitness, and health education principles.',
+      'Good classroom management, communication, and organizational skills.',
+      'Ability to motivate and engage students in physical activities and healthy living practices.',
+      'First Aid certification is an added advantage.',
+      'TRCN certification is an added advantage.'
+    ],
+    apply: 'Interested candidates should click on the link below to apply: <a href="https://forms.gle/757FWH4FP7VKDsPH8">https://forms.gle/757FWH4FP7VKDsPH8</a>'
+  },
+  {
+    id: 'secondary-school-social-studies-teacher-surulere-2026',
+    title: 'Secondary School Social Studies Teacher',
+    date: '2026-06-23',
+    location: 'Surulere, Lagos',
+    type: 'Full-time',
+    salary: 'Not Specified',
+    deadline: 'Not Specified',
+    summary: 'A leading Nigerian school offering a blended Nigerian and Cambridge curriculum is seeking exceptional talent.',
+    responsibilities: [
+      'Deliver Social Studies lessons in line with curriculum standards.',
+      'Promote awareness of societal values, culture, and civic responsibilities.',
+      'Assess students’ progress and provide feedback.',
+      'Use engaging teaching strategies to support diverse learners.',
+      'Prepare students for WAEC examinations and internal assessments.',
+      'Maintain an organised and disciplined classroom environment.'
+    ],
+    requirements: [
+      'Degree in Social Studies, Sociology, or a related discipline.',
+      'Relevant teaching certification may be required.',
+      'Strong classroom management and communication skills.',
+      'Ability to engage students effectively.',
+      'TRCN certification is an added advantage.'
+    ],
+    apply: 'Interested candidates should click on the link below to apply: <a href="https://forms.gle/757FWH4FP7VKDsPH8">https://forms.gle/757FWH4FP7VKDsPH8</a>'
+  },
+  {
+    id: 'yoruba-teacher-surulere-2026',
+    title: 'Yoruba Teacher',
+    date: '2026-06-23',
+    location: 'Surulere, Lagos',
+    type: 'Full-time',
+    salary: 'Not Specified',
+    deadline: 'Not Specified',
+    summary: 'A leading Nigerian school offering a blended Nigerian and Cambridge curriculum is seeking exceptional talent.',
+    responsibilities: [
+      'Develop lesson plans and curricula that align with the Yoruba language syllabus and national curriculum.',
+      'Teach Yoruba language, literature, and culture effectively across different grade levels.',
+      'Prepare students for assessments, examinations, and oral presentations.',
+      'Organise cultural events, guest speakers, and field trips to enrich student learning.',
+      'Incorporate current events and relevant themes into lessons to make them engaging and relatable.',
+      'Stay updated on modern teaching techniques and integrate technology into classroom instruction.'
+    ],
+    requirements: [
+      'Bachelor’s degree in Yoruba Language, Linguistics, Education, or related field.',
+      'TRCN certification is an added advantage.',
+      'Solid knowledge of Yoruba language, literature, and culture.',
+      'Strong classroom management and organisational skills.',
+      'Proficiency in the use of technology and computer applications for teaching.',
+      'Up-to-date with 21st-century teaching methods.'
+    ],
+    apply: 'Interested candidates should click on the link below to apply: <a href="https://forms.gle/757FWH4FP7VKDsPH8">https://forms.gle/757FWH4FP7VKDsPH8</a>'
+  },
+  {
+    id: 'technicians-surface-finishing-omole-ojodu-2026',
+    title: 'Technicians (Surface Finishing)',
+    date: '2026-06-23',
+    location: 'Omole / Ojodu Berger',
+    type: 'Full-time',
+    salary: '₦100,000',
+    deadline: 'Not Specified',
+    summary: 'We are hiring Surface Finishing Technicians for our Finishing Unit. The role involves sanding, smoothing, and preparing products for final finishing. No prior experience is required, comprehensive training will be provided.',
+    responsibilities: [
+      'Sanding, smoothing, and preparing products for final finishing.',
+      'Handling hands-on tasks.',
+      'Learning and growing into skilled technical roles.'
+    ],
+    requirements: [
+      'SSCE or OND only.',
+      'Willing to learn and work with your hands.',
+      'Must be able to handle hands-on tasks.',
+      'Availability to resume immediately.'
+    ],
+    apply: 'Qualified candidates should apply using the link provided below: <a href="https://forms.gle/2h9tpTPWj9uASoE88">https://forms.gle/2h9tpTPWj9uASoE88</a>'
+  },
+  {
+    id: 'hr-consultant-contract-ikoyi-2026',
+    title: 'HR Consultant',
+    date: '2026-06-23',
+    location: 'Ikoyi, Lagos',
+    type: '6-Month Contract',
+    company: 'Leading Interior Firm',
+    salary: 'Highly attractive, negotiable',
+    deadline: 'Not Specified',
+    summary: 'Our client, an established interior design firm in Ikoyi, Lagos, is seeking an experienced HR Consultant to support strategic business initiatives on a 6-month contract.',
+    responsibilities: [
+      'Assess current business processes and identify opportunities for improvement.',
+      'Develop and implement strategies to enhance operational efficiency and client experience.',
+      'Provide advisory support on marketing, branding, and digital presence.',
+      'Support business development initiatives and client relationship management.',
+      'Advise on team structure, workflow optimization, and performance management.',
+      'Deliver actionable recommendations with measurable outcomes within the engagement period.'
+    ],
+    requirements: [
+      'Minimum 2–5 years professional experience in consulting, business management, or a related field.',
+      'Proven track record of delivering results in operational, commercial, or strategic projects.',
+      'Strong analytical, problem-solving, and communication skills.',
+      'Ability to work independently, manage stakeholders, and deliver within set timelines.',
+      'Experience in the design, construction, retail, or luxury services sector is an advantage.'
+    ],
+    apply: 'Interested professionals should send their updated CV to: <a href="mailto:patricianwanozie@yahoo.com">patricianwanozie@yahoo.com</a> or <a href="mailto:pcnexellencestaffingandconsult@gmail.com">pcnexellencestaffingandconsult@gmail.com</a>'
+  },
+  {
+    id: 'male-csr-fashion-chevron-2026',
+    title: 'Customer Service Representative (Male)',
+    date: '2026-06-23',
+    location: 'Alpha beach, new road, chevron',
+    type: 'Full-time',
+    company: 'Fashion Brand',
+    salary: '100,000 (reviewed after 2 months)',
+    deadline: 'Not Specified',
+    summary: 'Our client in the fashion brand is in need of 1 more CSR, preferably a male for gender balance.',
+    responsibilities: [
+      'Handle customer inquiries and provide support.',
+      'Manage orders and resolve customer issues.',
+      'Maintain a high level of customer satisfaction.'
+    ],
+    requirements: [
+      'Male candidate preferred for gender balance.',
+      'Strong communication and interpersonal skills.',
+      'Customer-focused mindset.'
+    ],
+    apply: 'Apply to <a href="mailto:gehrrecruitment25@gmail.com">gehrrecruitment25@gmail.com</a> using the post applied for as subject of the email.'
+  },
+  {
+    id: 'general-manager-boutique-hotel-lagos-2026',
+    title: 'General Manager',
+    date: '2026-06-23',
+    location: 'Lagos, Nigeria',
+    type: 'Full-time',
+    company: 'Five-star boutique hotel',
+    salary: '₦800,000 – ₦1,500,000 net monthly',
+    deadline: 'Not Specified',
+    summary: 'A distinctive five-star boutique hotel and lifestyle destination located in Lagos, Nigeria is seeking an exceptional General Manager to lead the property and define its place in Lagos’s luxury hospitality market.',
+    responsibilities: [
+      'Serve as the face of the brand: the standard-bearer for service excellence.',
+      'Act as the commercial engine behind revenue growth.',
+      'Lead and inspire a high-performing team.'
+    ],
+    requirements: [
+      'An entrepreneurial mindset with strong business development instincts and the drive to build and grow a brand.',
+      'Mandatory hospitality experience at senior level, with a proven track record of operational and commercial success.',
+      'International exposure — experience working with expatriates and within boutique and/or chain hotel environments.',
+      'Strong marketing and brand-building capability across digital, direct, and partnership channels.',
+      'Minimum 7–10 years’ hospitality experience, including leadership roles within luxury hotels, boutique hotels, or international hotel chains.'
+    ],
+    apply: 'Interested candidates who meet the requirements can apply here: <a href="https://forms.gle/43YUyqT2CTXF7M4D9">https://forms.gle/43YUyqT2CTXF7M4D9</a>'
+  },
+  {
+    id: 'relationship-officers-omniretail-lagos-2026',
+    title: 'Relationship Officers (RO)',
+    date: '2026-06-23',
+    location: 'Tradefare, Amuwo-Odofin, Satelite town',
+    type: 'Full-time',
+    company: 'Omniretail',
+    salary: 'Salary + Conveyance Allowance + Performance Incentives',
+    deadline: 'Not Specified',
+    summary: 'We are looking for energetic and target-driven Relationship Officers to drive merchant onboarding and product adoption across assigned locations.',
+    responsibilities: [
+      'Drive merchant onboarding and product adoption.',
+      'Build and maintain relationships with merchants.',
+      'Achieve sales and onboarding targets.'
+    ],
+    requirements: [
+      'OND / HND / B.Sc. in any discipline.',
+      'Experience in sales, field marketing, agency banking, or financial services is an added advantage.',
+      'Strong communication and negotiation skills.',
+      'Ability to work in a target-driven environment.'
+    ],
+    apply: 'Interested candidates should send their CV with location to: <a href="mailto:careers@omniretail.africa">careers@omniretail.africa</a>'
+  },
+  {
+    id: 'multiple-roles-lagos-abuja-2026',
+    title: 'Multiple Roles (Audit, Sales, Logistics, Procurement, etc.)',
+    date: '2026-06-23',
+    location: 'Lagos & Abuja',
+    type: 'Full-time',
+    salary: 'Varies by role (₦80,000 - ₦500,000)',
+    deadline: 'Not Specified',
+    summary: 'We are currently recruiting qualified candidates for various positions in Lagos and Abuja.',
+    responsibilities: [
+      'Audit Associate: ₦180,000',
+      'Sales Executive (Shortlet Apartment) – Ikoyi: ₦250,000 Net',
+      'Events & Experiences Lead – Abuja: ₦500,000 Gross',
+      'Logistics Lead – Abuja: ₦500,000 Gross',
+      'Procurement Officer – Abuja: ₦200,000 – ₦250,000',
+      'Cashier – Abuja: ₦80,000 – ₦100,000',
+      'Van Sales Driver – Abuja: ₦100,000 – ₦120,000',
+      'Project Manager - Abuja: ₦150,000 – ₦200,000'
+    ],
+    requirements: [
+      'Experienced, smart, and results-driven professionals across Audit, Sales, Logistics, Procurement, FMCG, Hospitality, Interior Design and Operations.'
+    ],
+    apply: 'Send CV to: <a href="mailto:resume@talentforgesolutions.com.ng">resume@talentforgesolutions.com.ng</a>. Use the Job Title as the email subject.'
+  },
+  {
+    id: 'executive-driver-energy-utilities-lagos-2026',
+    title: 'Executive Driver',
+    date: '2026-06-23',
+    location: 'Lagos, Nigeria',
+    type: 'Full-time',
+    company: 'Energy & Utilities',
+    salary: '₦300,000 net monthly',
+    deadline: 'Not Specified',
+    summary: 'Our client is seeking a qualified and professional Executive Driver to transport senior executives safely and punctually across various locations.',
+    responsibilities: [
+      'Transport senior executives safely and punctually.',
+      'Maintain vehicle cleanliness and safety.',
+      'Adhere to all traffic laws and company policies.'
+    ],
+    requirements: [
+      'Minimum of 5 years’ driving experience (3 years in executive driving).',
+      'Valid driver’s license with a clean record.',
+      'Strong knowledge of Lagos routes and traffic patterns.',
+      'Professional appearance and demeanor.',
+      'Proven ability to maintain confidentiality.'
+    ],
+    apply: 'Apply here: <a href="https://forms.gle/Qn16HYFhZMg7sXRr5">https://forms.gle/Qn16HYFhZMg7sXRr5</a>'
+  },
+  {
+    id: 'labour-head-gambari-oyo-2026',
+    title: 'Labour Head',
+    date: '2026-06-23',
+    location: 'Gambari, Oyo State',
+    type: 'Full-time',
+    salary: 'Competitive',
+    deadline: 'Not Specified',
+    summary: 'We are looking for a proactive and experienced Labour Head to oversee and coordinate farm labour operations, ensuring adequate manpower availability and timely completion of all assigned farm activities.',
+    responsibilities: [
+      'Plan and coordinate daily, weekly, and seasonal labour requirements.',
+      'Supervise labour teams and monitor attendance, productivity, and discipline.',
+      'Ensure assigned farm operations are completed efficiently and on schedule.',
+      'Maintain labour attendance, deployment, and productivity records.',
+      'Enforce safety procedures and compliance with farm policies.',
+      'Provide regular updates on labour availability and work progress.'
+    ],
+    requirements: [
+      'Experience in agriculture, poultry farming, plantations, or other labour-intensive operations.',
+      'Strong leadership and team management skills.',
+      'Good communication and conflict-resolution abilities.',
+      'Basic knowledge of Microsoft Word and Excel.',
+      'Knowledge of poultry operations is an added advantage.'
+    ],
+    apply: 'Qualified candidates should send their CVs to <a href="mailto:cv@ascentech.com.ng">cv@ascentech.com.ng</a> with “Labour Head – Gambari, Oyo State” as the subject of the email.'
+  },
+  {
+    id: 'direct-sales-agent-banking-ikoyi-vi-2026',
+    title: 'Direct Sales Agent (Banking)',
+    date: '2026-06-23',
+    location: 'Ikoyi & Ahmadu Bello Way, Victoria Island, Lagos',
+    type: 'Full-time',
+    salary: '₦220,000 Monthly',
+    deadline: 'Not Specified',
+    summary: 'Seeking Direct Sales Agents with banking industry experience for roles in Ikoyi and Victoria Island.',
+    responsibilities: [
+      'Drive sales and business development within the banking industry.',
+      'Meet and exceed sales targets.',
+      'Build and maintain strong client relationships.'
+    ],
+    requirements: [
+      'Minimum of 1 year experience in sales, direct marketing, or business development within the banking industry.',
+      'Must be 28 years old or below.',
+      'Strong communication, negotiation, and relationship management skills.',
+      'Proven ability to meet and exceed sales targets.',
+      'Minimum of OND/HND/B.Sc. qualification.'
+    ],
+    apply: 'Interested and qualified candidates should apply here: <a href="https://forms.gle/mueUSGDZNEdULrv86">https://forms.gle/mueUSGDZNEdULrv86</a>'
+  },
+  {
+    id: 'talent-acquisition-specialist-ikeja-gra-hybrid-2026',
+    title: 'Talent Acquisition Specialist',
+    date: '2026-06-23',
+    location: 'Ikeja GRA (Hybrid) – 3 days onsite',
+    type: 'Full-time',
+    salary: '200-250k Net pay',
+    deadline: 'Not Specified',
+    summary: 'Seeking a Talent Acquisition Specialist with a minimum of 2 years of experience in core recruitment for a hybrid role in Ikeja GRA.',
+    responsibilities: [
+      'Manage the full recruitment lifecycle.',
+      'Source, screen, and interview candidates.',
+      'Collaborate with hiring managers to fill vacancies.'
+    ],
+    requirements: [
+      'Min 2 years experience in core recruitment.'
+    ],
+    apply: 'Kindly go through full JD and apply via – <a href="https://bit.ly/WEApplicationform">bit.ly/WEApplicationform</a>'
+  },
+  {
+    id: "spy-driver-lekki-phase-1-2026",
+    title: "SPY Driver",
+    date: "2026-06-18",
+    location: "Lekki Phase 1, Lagos",
+    type: "Full-Time",
+    salary: "₦270,000 (Net)",
+    deadline: "Not Specified",
+    summary: "Urgently seeking a highly disciplined and professional SPY Police Driver for a full-time role in Lekki Phase 1, with accommodation provided.",
+    responsibilities: [
+      "Safely transport employer to assigned destinations",
+      "Keep the vehicle clean and well maintained at all times",
+      "Handle the automatic vehicle with care",
+      "Maintain professional conduct, honesty, and integrity",
+      "Drive carefully and politely — zero road rage tolerated",
+      "Follow employer instructions and assigned schedules",
+      "Report maintenance concerns promptly"
+    ],
+    requirements: [
+      "Minimum qualification: SSCE",
+      "Minimum 10 years driving experience",
+      "Must be neat, presentable, and dress appropriately for work",
+      "Must be proactive, patient, and level-headed while driving",
+      "Must ensure the vehicle is cleaned daily and properly maintained",
+      "Must check for maintenance issues regularly",
+      "Must be honest and of good character",
+      "Must be available for a physical interview",
+      "Must provide 2 verifiable guarantors",
+      "Must provide valid identification",
+      "Age requirement: 31–40 years",
+      "Preferred religion: Christian",
+      "Ability to communicate in English"
+    ],
+    apply: 'Send your CV with the subject: Spy Driver – Lekki Phase 1. Include a short message stating: Your full name, Your current location. Send via WhatsApp only: <a href="https://wa.me/2347044760495">wa.me/2347044760495</a>'
+  },
+  {
+    id: "hse-supervisor-port-harcourt-hobark-2026",
+    title: "HSE Supervisor",
+    date: "2026-06-18",
+    location: "Port Harcourt, Rivers State",
+    type: "2-Year Contract",
+    salary: "₦25 Million – ₦30 Million (Annual Gross)",
+    deadline: "Not Specified",
+    company: "Hobark Intl",
+    summary: "Serve as the primary HSE representative onboard the FSO, providing day-to-day supervision of marine activities, crude oil storage, and offshore operations.",
+    responsibilities: [
+      "Marine activities",
+      "Crude oil storage and export operations",
+      "Vessel interface management",
+      "Offshore logistics",
+      "Cargo transfer activities",
+      "Contractor operations",
+      "Emergency preparedness initiatives"
+    ],
+    requirements: [
+      "Bachelor’s Degree or Higher National Diploma (HND) in Engineering, Environmental Science, Occupational Health & Safety, Industrial Safety, Marine Studies, Physical Sciences, or a related discipline.",
+      "Minimum of 8–10 years’ HSE experience in the upstream oil and gas industry.",
+      "At least 5 years in a field-based HSE supervisory role supporting production, drilling, well intervention, construction, or marine operations.",
+      "Demonstrated experience working in swamp, offshore, onshore, and marine environments.",
+      "Knowledge of incident investigation methodologies such as RCA, TapRooT, or similar techniques.",
+      "Relevant HSE Certifications are also required"
+    ],
+    apply: 'Qualified and interested candidates should send their updated CV to: <a href="mailto:obeten_mbang@hobarkintl.com">obeten_mbang@hobarkintl.com</a>'
+  },
+  {
+    id: "marketing-manager-pharma-ikeja-2026",
+    title: "Marketing Manager",
+    date: "2026-06-18",
+    location: "Ikeja, Lagos",
+    type: "Full-Time",
+    company: "Pharmaceutical",
+    salary: "₦400,000 – ₦500,000 Gross Monthly",
+    deadline: "Not Specified",
+    summary: "Experienced, strategic, and result-driven Marketing Manager to lead and execute marketing initiatives within the pharmaceutical sector.",
+    responsibilities: [
+      "Develop and implement comprehensive marketing strategies aligned with company objectives",
+      "Lead brand management and product positioning initiatives across assigned portfolios",
+      "Conduct market analysis and competitor intelligence to identify growth opportunities",
+      "Collaborate with sales, Medical, and Commercial teams to drive business performance",
+      "Develop and manage annual marketing plans, budgets, and promotional activities.",
+      "Monitor product performance and recommend improvement strategies",
+      "Build relationships with key stakeholders including healthcare professionals and industry partners",
+      "Coordinate product launches and marketing campaigns",
+      "Track marketing KPIs and provide periodic performance reports to Management",
+      "Ensure compliance with pharmaceutical industry regulations and company policies"
+    ],
+    requirements: [
+      "Bachelor’s degree in Pharmacy, or a related discipline (MBA is an added advantage)",
+      "Minimum of 5 – 10 years’ progressive marketing experience, with at least 4 years in a managerial role within the pharmaceutical industry (Mandatory)",
+      "Proven experience in pharmaceutical product marketing and brand management",
+      "Strong leadership and team management capabilities",
+      "Excellent analytical, negotiation, and communication skills",
+      "Proficiency in Microsoft Office and marketing analytics tools"
+    ],
+    apply: 'Qualified and interested candidates should send their CV to <a href="mailto:hr@pharmaethics.com">hr@pharmaethics.com</a> using ‘’Marketing Manager’’ as the subject of the email.'
+  },
+  {
+    id: "executive-driver-lakowe-2026",
+    title: "Executive Driver",
+    date: "2026-06-18",
+    location: "Lakowe, Lagos",
+    type: "Full-Time",
+    salary: "N150,000 (Non-negotiable)",
+    deadline: "Not Specified",
+    summary: "Urgently needed driver who resides around the Lakowe, Lagos area. The interview will be held in Victoria Island (VI).",
+    responsibilities: [
+      "Safely transport employer to assigned destinations.",
+      "Maintain vehicle cleanliness and perform routine checks.",
+      "Adhere to all traffic laws and safety regulations."
+    ],
+    requirements: [
+      "Must have at least 2 years’ experience as an executive driver",
+      "Must reside around Lakowe environment"
+    ],
+    apply: 'Interested candidates should send a WhatsApp message: <a href="https://wa.me/2348138943587">+234 813 894 3587</a>'
+  },
+  {
+    id: "female-store-manager-trade-fair-2026",
+    title: "Female Store Manager",
+    date: "2026-06-18",
+    location: "Trade Fair, Lagos",
+    type: "Full-Time",
+    company: "Wholesale hair business",
+    salary: "₦100,000",
+    deadline: "Not Specified",
+    summary: "A wholesale hair business in Trade Fair (Balogun Market) is seeking a smart and proactive Female Store Manager to oversee daily operations, manage sales activities, attend to customers, and supervise stock and records.",
+    responsibilities: [
+      "Oversee daily operations of the store.",
+      "Manage sales activities and attend to customers.",
+      "Supervise stock and records."
+    ],
+    requirements: [
+      "1-2 years experience in sales and/or customer service (supervisory experience is an advantage)",
+      "OND/HND in any related course of study, no Student allowed",
+      "Strong communication and leadership skills",
+      "Must reside in Abule-Osun, Ashogun, Barracks, Onireke, Satellite or nearby areas"
+    ],
+    apply: 'Send your CV to <a href="mailto:careers.liquidworth@gmail.com">careers.liquidworth@gmail.com</a> Subject: Store Manager – Trade Fair or WhatsApp: <a href="https://wa.me/2349159849179">09159849179</a>'
+  },
+  {
+    id: "qa-technician-jos-dairy-2026-v2",
+    title: "QA Technician",
+    date: "2026-06-18",
+    location: "Jos, Plateau State",
+    type: "Full-time",
+    company: "Dairy Processing Operations",
+    salary: "Not Specified",
+    deadline: "26th June, 2026",
+    summary: "Seeking a detail-oriented and analytical QA Technician to support laboratory testing, quality control, and compliance activities within our dairy processing operations.",
+    responsibilities: [
+      "Conduct sampling and analysis of raw materials, packaging materials, and finished products",
+      "Perform routine microbiological and physicochemical analysis to ensure product quality",
+      "Monitor hygiene and sanitation standards within the production environment",
+      "Inspect bulk milk tanks and cold rooms to ensure cleanliness and compliance",
+      "Monitor and record storage temperatures of products and raw milk",
+      "Check delivery vehicle conditions, including cleanliness and temperature compliance (3–7°C)",
+      "Calibrate laboratory equipment (e.g., pH meter) in line with SOPs",
+      "Prepare reagents, culture media, and colorants for production processes",
+      "Maintain cleanliness, sterilization, and proper organization of laboratory equipment and glassware",
+      "Conduct in-process quality checks including weight control and coding/date verification",
+      "Collect and analyze line samples for each production batch",
+      "Inspect returned products and document findings",
+      "Monitor sanitizer concentration (foot and boot dips)",
+      "Maintain accurate documentation of all laboratory results and generate daily shift reports",
+      "Recommend improvements for product quality and processing efficiency"
+    ],
+    requirements: [
+      "Minimum of OND in Science-related field (Microbiology, Chemistry, Biochemistry, Food Science, etc.)",
+      "Experience in FMCG or dairy processing is an added advantage",
+      "Basic knowledge of laboratory procedures and quality control practices",
+      "Understanding of GMP, hygiene, and food safety standards",
+      "Preferably Male Candidates"
+    ],
+    apply: 'Suitable candidates send their CV to <a href="https://wa.me/2349169852721">+234 916 985 2721</a> WhatsApp only before 26th of June 2026'
+  },
   {
     id: "video-editor-ai-specialist-remote-2026",
     title: "Video Editor (AI Specialist)",

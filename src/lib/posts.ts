@@ -10,6 +10,174 @@ export type Post = {
 
 const allPosts: Post[] = [
   {
+    id: "uniosun-post-utme-direct-entry-form-2026-2027",
+    title: "UNIOSUN Post UTME/Direct Entry Form for 2026/2027 Admission Now Available",
+    category: "Education",
+    date: "2026-06-23",
+    excerpt: "Osun State University (UNIOSUN) has commenced the sale of its Post UTME and Direct Entry screening forms for the 2026/2027 academic session.",
+    content: `<h2>UNIOSUN Post UTME/Direct Entry Form for 2026/2027 Admission Now Available</h2>
+<p>Osun State University (UNIOSUN) has commenced the sale of its Post UTME and Direct Entry screening forms for the 2026/2027 academic session.</p>
+<p>The screening exercise is open to candidates who selected UNIOSUN as their first-choice institution during the 2026 UTME, as well as candidates who are willing to change their first-choice institution to Osun State University.</p>
+<p>Candidates who scored at least <strong>160</strong> in the 2026 Unified Tertiary Matriculation Examination (UTME) are eligible to apply, subject to the admission requirements for their chosen programmes.</p>
+
+<h3>UNIOSUN Cut-Off Mark for 2026/2027 Admission</h3>
+<p>The general minimum UTME score required for admission into UNIOSUN is <strong>160</strong>.</p>
+<p>However, candidates seeking admission into the following highly competitive programmes must score <strong>at least 200</strong>:</p>
+<ul>
+  <li>Law</li>
+  <li>Nursing</li>
+  <li>Medicine</li>
+  <li>Islamic Law</li>
+</ul>
+<p>Candidates who selected any of these courses but scored below 200 are advised to change to another programme for which they meet the admission requirements.</p>
+
+<h3>UNIOSUN Age Requirement</h3>
+<p>Applicants must be at least <strong>16 years old on or before 30 September 2026</strong>.</p>
+<p>Candidates who will not attain the required age by the stated date are advised not to apply, as they will not be considered for admission.</p>
+
+<h3>O'Level Admission Requirements</h3>
+<p>Candidates must possess at least <strong>five credit passes</strong> in relevant subjects, including the requirements for their chosen course.</p>
+<p>The accepted examination bodies are:</p>
+<ul>
+  <li>WAEC</li>
+  <li>NECO</li>
+  <li>NABTEB</li>
+</ul>
+<p>Results must be obtained in <strong>not more than two sittings</strong>.</p>
+<p>However, candidates applying for <strong>Medicine, Nursing, Law, and Islamic Law</strong> must have the required five O'Level credits obtained <strong>in one sitting</strong>.</p>
+
+<h3>Direct Entry Admission Requirements</h3>
+<p>Direct Entry candidates are also eligible to participate in the screening exercise.</p>
+<p>Applicants must complete the online screening form through the University's admission portal and ensure they meet the admission requirements for their preferred programme.</p>
+<p>The University may accept candidates with a minimum of <strong>Lower Credit</strong>, although some programmes may have additional requirements.</p>
+
+<h3>Submission of Academic Transcripts</h3>
+<p>All Direct Entry candidates are required to forward their academic transcripts to the Registrar of Osun State University.</p>
+<p>The deadline for transcript submission is <strong>Friday, 4 September 2026</strong>.</p>
+<p>Candidates who completed UNIOSUN IJMB or JUPEB programmes must also obtain the Direct Entry form from JAMB before applying for the screening exercise.</p>
+
+<h3>How to Apply for UNIOSUN Post UTME/Direct Entry Screening</h3>
+<p>Eligible candidates should complete their registration through the official UNIOSUN Post UTME portal.</p>
+<p>The application process includes:</p>
+<ul>
+  <li>Visit the <a href="https://admissions.uniosun.edu.ng/" target="_blank" rel="noopener noreferrer">UNIOSUN Post UTME application portal</a>.</li>
+  <li>Complete the online application form.</li>
+  <li>Upload the required information and documents.</li>
+  <li>Submit the application.</li>
+  <li>Print two copies of the completed application form for future reference.</li>
+</ul>
+<p>Applicants should carefully review all entries before submitting the form.</p>
+
+<h3>UNIOSUN Post UTME Screening Fee</h3>
+<p>Applicants are required to pay:</p>
+<ul>
+  <li><strong>₦3,000</strong> portal access fee</li>
+  <li><strong>₦2,000</strong> Post UTME screening fee</li>
+</ul>
+<p>This brings the total application fee to <strong>₦5,000</strong>.</p>
+<p>Payments should be made online through the <strong>Remita WebPAY</strong> platform using:</p>
+<ul>
+  <li>MasterCard</li>
+  <li>Verve Card</li>
+  <li>Interswitch-enabled ATM cards</li>
+</ul>
+
+<h3>Upload O'Level Results on JAMB CAPS</h3>
+<p>UNIOSUN has reminded all applicants that uploading O'Level results on the <strong>JAMB Central Admission Processing System (CAPS)</strong> is compulsory.</p>
+<p>Candidates who fail to upload their results on JAMB CAPS may not be considered for admission.</p>
+
+<h3>Awaiting Result Candidates Can Apply</h3>
+<p>Candidates awaiting the release of their O'Level results may also apply for the screening exercise.</p>
+<p>However, they must upload and submit their results within <strong>one week after the results are released</strong>.</p>
+<p>Failure to participate in the screening exercise will automatically disqualify a candidate from admission consideration.</p>
+
+<h3>False Information Will Lead to Disqualification</h3>
+<p>Applicants are expected to provide accurate information throughout the application process.</p>
+<p>Any candidate found to have submitted false information or forged documents will be:</p>
+<ul>
+  <li>Disqualified from the admission process</li>
+  <li>Reported to law enforcement agencies</li>
+  <li>Have any admission already offered withdrawn</li>
+</ul>
+<p>Any fees paid by such candidates will not be refunded.</p>
+
+<h3>Medical Examination for Successful Candidates</h3>
+<p>All candidates offered admission into Osun State University will undergo a compulsory medical examination.</p>
+<p>The medical screening will include <strong>drug screening tests</strong> as part of the admission process.</p>
+
+<h3>UNIOSUN Post UTME Application Deadline</h3>
+<p>The deadline for submitting the Post UTME and Direct Entry application forms is <strong>12:00 noon on Thursday, 17 September 2026</strong>.</p>
+<p>Candidates are advised to complete their registration well before the closing date to avoid last-minute issues.</p>
+
+<h3>UNIOSUN Admission Contact Details</h3>
+<p>Candidates who require additional information may contact the Admissions Office through the following numbers:</p>
+<ul><li>0815-545-1535</li><li>0806-086-3372</li></ul>`,
+    tags: ["UNIOSUN", "Post UTME", "Direct Entry", "Admission", "2026/2027", "Education", "Nigeria"],
+  },
+  {
+    id: "nsuk-approves-three-new-science-faculties-2026",
+    title: "Nasarawa State University Approves Three New Science Faculties",
+    category: "Education",
+    date: "2026-06-23",
+    excerpt: "Nasarawa State University, Keffi (NSUK), has approved the restructuring of its Faculty of Natural and Applied Sciences into three separate faculties as part of efforts to strengthen academic administration and align its programmes with global best practices.",
+    content: `<h2>Nasarawa State University Approves Three New Science Faculties</h2>
+<p>Nasarawa State University, Keffi (NSUK), has approved the restructuring of its Faculty of Natural and Applied Sciences into three separate faculties as part of efforts to strengthen academic administration and align its programmes with global best practices.</p>
+<p>The decision was approved during the University's 140th Regular Senate Meeting held on Monday, 25 May 2026.</p>
+<p>According to an official memorandum signed by Barrister Ramatu A. Liman, Senior Deputy Registrar (Academic Affairs), on behalf of the Registrar, the restructuring is expected to improve teaching, research, innovation, and academic development across science-related disciplines.</p>
+
+<h3>NSUK Creates Three New Faculties</h3>
+<p>Following the approval by the University Senate, the former Faculty of Natural and Applied Sciences has now been divided into the following faculties:</p>
+<ul>
+  <li>Faculty of Computing</li>
+  <li>Faculty of Life Sciences</li>
+  <li>Faculty of Physical Sciences</li>
+</ul>
+<p>The new structure is designed to provide a more focused academic environment, encourage specialisation, and strengthen research and capacity development within the University.</p>
+
+<h3>Why NSUK Restructured the Faculty of Natural and Applied Sciences</h3>
+<p>The University explained that the restructuring is aimed at improving academic administration while positioning its programmes to meet modern educational standards.</p>
+<p>According to the Senate, the creation of the new faculties will:</p>
+<ul>
+  <li>Improve academic management</li>
+  <li>Support specialised teaching and research</li>
+  <li>Promote interdisciplinary collaboration</li>
+  <li>Align NSUK's academic structure with international best practices</li>
+  <li>Strengthen science, technology and innovation programmes</li>
+</ul>
+
+<h3>Statistics and Data Analytics Moved to Faculty of Computing</h3>
+<p>One of the key decisions reached during the Senate meeting concerns the Department of Statistics and Data Analytics.</p>
+<p>Although the department was initially proposed to remain under the Faculty of Physical Sciences, the Senate approved its transfer to the newly created Faculty of Computing after considering recommendations from the Academic Planning and Curriculum Committee.</p>
+
+<h3>Why Statistics and Data Analytics Was Reassigned</h3>
+<p>The University explained that the department now has stronger academic links with computing-related disciplines due to the increasing importance of:</p>
+<ul>
+  <li>Data Science</li>
+  <li>Artificial Intelligence</li>
+  <li>Machine Learning</li>
+  <li>Big Data Analytics</li>
+  <li>Digital Technologies</li>
+  <li>Computational Research</li>
+</ul>
+<p>The new placement is expected to strengthen collaboration with other computing-based programmes and better reflect current industry and research trends.</p>
+
+<h3>Governing Council Yet to Give Final Approval</h3>
+<p>Although the Senate has approved the restructuring, the recommendations have now been forwarded to the University's Governing Council for final consideration and approval.</p>
+<p>The Council is expected to review the recommendations in line with the University's established governance procedures before full implementation.</p>
+
+<h3>What the New Faculty Structure Means for Students</h3>
+<p>The restructuring marks a significant development for science and technology education at Nasarawa State University.</p>
+<p>Once fully approved, students can expect:</p>
+<ul>
+  <li>Better academic organisation</li>
+  <li>Improved departmental coordination</li>
+  <li>More specialised teaching and research</li>
+  <li>Stronger collaboration across related disciplines</li>
+  <li>Enhanced opportunities in emerging fields such as Artificial Intelligence and Data Science</li>
+</ul>`,
+    tags: ["NSUK", "Nasarawa State University", "Academics", "Restructuring", "Education", "Nigeria", "2026"],
+  },
+  {
     id: "fuhsa-post-utme-screening-form-2026-2027",
     title: "FUHSA Post UTME Screening Form for 2026/2027 Admission Now Available",
     category: "Education",

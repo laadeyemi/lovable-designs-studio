@@ -10,6 +10,209 @@ export type Post = {
 
 const allPosts: Post[] = [
   {
+    id: "nans-alleges-fee-inflation-nelfund-ds-adegbenro-poly-2026",
+    title: "NANS Alleges Fee Inflation on NELFUND Portal, Calls for Investigation into D.S. Adegbenro ICT Polytechnic",
+    category: "Education",
+    date: "2026-06-24",
+    excerpt: "The National Association of Nigerian Students (NANS) has accused the management of D.S. Adegbenro ICT Polytechnic of allegedly inflating students' school fees on the Nigerian Education Loan Fund (NELFUND) portal.",
+    content: `<h2>NANS Alleges Fee Inflation on NELFUND Portal, Calls for Investigation into D.S. Adegbenro ICT Polytechnic</h2>
+<p>The National Association of Nigerian Students (NANS) has accused the management of D.S. Adegbenro ICT Polytechnic, Itori, Ogun State, of allegedly inflating students' school fees on the Nigerian Education Loan Fund (NELFUND) portal.</p>
+<p>According to the student body, the alleged discrepancies could result in students taking on higher loan obligations than the institution's officially approved fees if left unaddressed.</p>
+
+<h3>NANS Names Polytechnic Rector in Allegation</h3>
+<p>In a statement, NANS President alleged that the Rector of D.S. Adegbenro ICT Polytechnic, Dr. Rauf Adegoke, was involved in approving fee figures uploaded to the NELFUND portal that differed from the institution's approved charges.</p>
+<p>At the time of the statement, the allegations had not been confirmed by NELFUND, the institution, or any law enforcement agency.</p>
+
+<h3>Alleged Fee Discrepancies</h3>
+<p>NANS claimed that its review of the institution's fee records revealed differences between the officially approved tuition and the figures allegedly uploaded to the NELFUND portal.</p>
+<p>According to the association:</p>
+<table class="w-full border-collapse border border-gray-300 my-4 text-sm">
+  <thead>
+    <tr class="bg-gray-100 text-left">
+      <th class="border border-gray-300 p-2">Programme</th>
+      <th class="border border-gray-300 p-2 text-right">Official Fee</th>
+      <th class="border border-gray-300 p-2 text-right">Alleged NELFUND Figure</th>
+      <th class="border border-gray-300 p-2 text-right">Difference</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td class="border border-gray-300 p-2">HND I</td><td class="border border-gray-300 p-2 text-right">₦236,000</td><td class="border border-gray-300 p-2 text-right">₦350,000</td><td class="border border-gray-300 p-2 text-right">₦114,000</td></tr>
+    <tr><td class="border border-gray-300 p-2">ND II</td><td class="border border-gray-300 p-2 text-right">₦152,000</td><td class="border border-gray-300 p-2 text-right">₦330,000</td><td class="border border-gray-300 p-2 text-right">₦178,000</td></tr>
+  </tbody>
+</table>
+<p>The association argued that if these figures are accurate, affected students could be assigned loan amounts significantly higher than their actual school fees.</p>
+
+<h3>NANS Calls for Immediate Investigation</h3>
+<p>NANS described the alleged discrepancies as a serious issue that could undermine confidence in the Federal Government's student loan programme.</p>
+<p>The student body urged the Nigerian Education Loan Fund (NELFUND) to verify all fee submissions made by tertiary institutions before approving loan disbursements.</p>
+<p>According to NANS, independent verification of institutional fee schedules would help prevent possible overbilling and protect both students and public funds.</p>
+
+<h3>Demand for EFCC and ICPC Action</h3>
+<p>NANS also called on the Economic and Financial Crimes Commission (EFCC) and the Independent Corrupt Practices and Other Related Offences Commission (ICPC) to investigate the allegations.</p>
+<p>The association said it had given the anti-corruption agencies a 48-hour ultimatum to begin an investigation into the matter.</p>
+<p>In addition, NANS requested that NELFUND temporarily suspend loan processing for D.S. Adegbenro ICT Polytechnic pending the outcome of a forensic audit.</p>
+
+<h3>Wider Review of NELFUND Fee Submissions</h3>
+<p>Beyond the specific allegations, NANS announced plans to establish monitoring teams across federal and state-owned tertiary institutions to compare approved school fees with figures submitted on the NELFUND platform.</p>
+<p>The association said the initiative is aimed at identifying any discrepancies that could affect students or the Federal Government's education loan programme.</p>
+
+<h3>Investigation Yet to Be Concluded</h3>
+<p>As of the time of reporting, neither NELFUND nor the management of D.S. Adegbenro ICT Polytechnic had publicly responded to the allegations.</p>
+<p>Similarly, there has been no official confirmation from the EFCC or ICPC indicating that an investigation has commenced.</p>
+<p>Students and members of the public are advised to await the outcome of any official investigation before drawing conclusions regarding the allegations.</p>
+<p>For more information about admissions at the institution, you might find this post helpful: <a href="/blog/ds-adegbenro-ict-polytechnic-hnd-admission-2026-2027">D.S. Adegbenro ICT Polytechnic Opens 2026/2027 HND Admission Form</a></p>`,
+    tags: ["NANS", "NELFUND", "D.S. Adegbenro ICT Polytechnic", "Student Loan", "Education", "Nigeria", "2026"],
+  },
+  {
+    id: "unilorin-post-utme-direct-entry-form-2026-2027",
+    title: "UNILORIN Post UTME/Direct Entry Form for 2026/2027 Admission Now Available",
+    category: "Education",
+    date: "2026-06-24",
+    excerpt: "The University of Ilorin (UNILORIN) has commenced its 2026/2027 Post UTME and Direct Entry screening, with registration running from June 22 to July 5, 2026.",
+    content: `<h2>UNILORIN Post UTME/Direct Entry Form for 2026/2027 Admission Now Available</h2>
+<p>The University of Ilorin (UNILORIN) has commenced registration for its <strong>2026/2027 Post UTME and Direct Entry screening exercise</strong>.</p>
+<p>Applications are invited from candidates who selected the University of Ilorin as their <strong>first-choice institution</strong> during the 2026 UTME or Direct Entry admission process.</p>
+<p>All eligible candidates are required to complete the online screening through the University's official undergraduate pre-admission portal before the registration deadline.</p>
+
+<h2>UNILORIN Post UTME Registration Dates</h2>
+<p>Registration for the 2026/2027 admission screening will begin at <strong>12:01 a.m. on Monday, 22 June 2026</strong>, and close at <strong>11:59 p.m. on Sunday, 5 July 2026</strong>.</p>
+<p>Candidates are advised to complete payment, NIN verification, O'Level or A'Level entries, and final submission before the portal closes.</p>
+
+<h2>How UNILORIN Admission Screening Score Is Calculated</h2>
+<p>Admission into the University will be based on an aggregate score made up of three components.</p>
+<p>The approved weighting is:</p>
+<ul>
+  <li>UTME or A'Level score – <strong>50%</strong></li>
+  <li>Post UTME screening score – <strong>30%</strong></li>
+  <li>Five relevant O'Level grades – <strong>20%</strong></li>
+</ul>
+<p>Since O'Level grades contribute to the final admission score, candidates should ensure that all examination details are entered correctly during registration.</p>
+
+<h2>Requirements Before Starting Registration</h2>
+<p>Before beginning the online application, candidates should have the following ready:</p>
+<ul>
+  <li>National Identification Number (NIN)</li>
+  <li>JAMB Registration Number</li>
+  <li>O'Level Result Checker PIN</li>
+  <li>O'Level or A'Level result details (where applicable)</li>
+  <li>Active personal email address</li>
+  <li>Personal mobile phone number</li>
+</ul>
+<p>Candidates are advised not to use another person's phone number or email address, as all admission updates will be sent through the registered contact details.</p>
+
+<h2>Important JAMB CAPS Instructions</h2>
+<p>Applicants should upload their O'Level and A'Level results (where applicable) on <strong>JAMB CAPS</strong> before completing registration.</p>
+<p>Candidates awaiting results should indicate this by selecting or entering <strong>"AR"</strong>.</p>
+<p>Anyone wishing to change a course or programme should do so on JAMB CAPS rather than on the UNILORIN portal. The University will continue to synchronize course changes from JAMB until the registration deadline.</p>
+<p>After registration closes, no further course changes will be reflected on the University's portal.</p>
+
+<h2>Courses That Require One-Sitting O'Level Results</h2>
+<p>Candidates applying for the following programmes must present O'Level results obtained in <strong>one sitting</strong>:</p>
+<ul>
+  <li>MBBS</li>
+  <li>Pharmacy</li>
+  <li>Optometry and Vision Science</li>
+  <li>Computer Engineering</li>
+</ul>
+<p>Applicants for these programmes should carefully verify their examination records before submitting their applications.</p>
+
+<h2>UNILORIN Post UTME Registration Fee</h2>
+<p>The registration fee is <strong>₦2,000 only</strong>.</p>
+<p>Candidates will also pay additional charges for:</p>
+<ul>
+  <li>NIN verification</li>
+  <li>O'Level result verification</li>
+</ul>
+
+<h2>How to Apply for UNILORIN Post UTME/Direct Entry Screening</h2>
+<p>Eligible candidates should complete the application through the official UNILORIN Undergraduate Pre-Admission Portal by following these steps:</p>
+<ol>
+  <li>Visit the <a href="https://portal.unilorin.edu.ng/ug/admissions" target="_blank" rel="noopener noreferrer">Undergraduate Pre-Admission Portal</a>.</li>
+  <li>Click <strong>"Verify your Details."</strong></li>
+  <li>Enter your JAMB Registration Number, email address and phone number.</li>
+  <li>Confirm your displayed details.</li>
+  <li>Click <strong>"Verify"</strong> to proceed.</li>
+  <li>Make payment through the Remita platform.</li>
+  <li>Pay with a Visa or MasterCard.</li>
+  <li>Wait for payment confirmation without refreshing the page.</li>
+  <li>Check your email for your login details.</li>
+  <li>Log in to the <a href="https://portal.unilorin.edu.ng/" target="_blank" rel="noopener noreferrer">UNILORIN portal</a>.</li>
+  <li>Click <strong>"Application."</strong></li>
+  <li>Complete all required information.</li>
+  <li>Verify your NIN.</li>
+  <li>Enter your O'Level details and Result Checker PIN.</li>
+  <li>Review all entries carefully.</li>
+  <li>Submit the application.</li>
+</ol>
+<p>Candidates who experience payment delays should wait for bank confirmation before using the <strong>"Confirm Your Payment"</strong> option on the portal.</p>
+
+<h2>NIN Verification Is Mandatory</h2>
+<p>Every applicant must complete NIN verification during registration.</p>
+<p>Candidates should ensure that the NIN and date of birth on the portal match their official records before proceeding, as these details cannot be altered after verification.</p>
+
+<h2>Direct Entry Registration</h2>
+<p>Direct Entry candidates are required to follow the same registration process as UTME applicants.</p>
+<p>They should also:</p>
+<ul>
+  <li>Select their highest academic qualification.</li>
+  <li>Provide all required academic information.</li>
+  <li>Upload relevant A'Level qualifications on JAMB CAPS.</li>
+</ul>
+
+<h2>Upgrading from UTME to Direct Entry</h2>
+<p>Candidates who intend to change from UTME to Direct Entry must first complete the upgrade through JAMB CAPS before registering on the UNILORIN portal.</p>
+<p>The upgraded details should reflect correctly on the University's portal before final submission.</p>
+
+<h2>Candidates Exempted from the Post UTME Test</h2>
+<p>The following candidates are exempted from the Post UTME screening test:</p>
+<h3>International Applicants</h3>
+<p>Candidates residing outside Nigeria who applied through either UTME or Direct Entry will not sit for the screening test but will be screened after admission.</p>
+<h3>Candidates with Disabilities</h3>
+<p>Applicants with disabilities are also exempted from the Post UTME screening test.</p>
+<p>This includes candidates who are:</p>
+<ul>
+  <li>Blind</li>
+  <li>Deaf</li>
+  <li>Mute</li>
+  <li>Autistic</li>
+  <li>Amputees</li>
+  <li>Physically challenged</li>
+  <li>Paralysed</li>
+  <li>Living with Down syndrome</li>
+  <li>Living with Dyslexia</li>
+  <li>Living with ADHD</li>
+  <li>Persons with albinism</li>
+  <li>Persons with cerebral palsy</li>
+  <li>Candidates with disfigurement</li>
+</ul>
+
+<h2>Print Your Screening Documents</h2>
+<p>After completing registration, candidates should print their screening documents and carefully check that every detail is correct.</p>
+<p>Any incorrect information should be corrected before the registration portal closes.</p>
+
+<h2>Final Checklist Before Submission</h2>
+<p>Before submitting the application, candidates should confirm that:</p>
+<ul>
+  <li>O'Level examination number matches the one on JAMB CAPS.</li>
+  <li>NIN matches the information on JAMB CAPS.</li>
+  <li>UTME subjects and scores appear correctly on the screening slip.</li>
+  <li>Personal email address and phone number are active.</li>
+  <li>Course changes have been completed on JAMB CAPS where necessary.</li>
+  <li>A'Level results have been uploaded on JAMB CAPS where applicable.</li>
+  <li>Awaiting Result status has been entered as <strong>"AR"</strong>, if applicable.</li>
+</ul>
+<p>Candidates are advised to review every entry carefully, as false information or incorrect examination details may lead to disqualification at any stage of the admission process.</p>
+
+<h2>UNILORIN Contact Details for Enquiries</h2>
+<p>Candidates with complaints regarding information displayed on their screening documents should contact the Admissions Office through:</p>
+<p><strong>Email:</strong> <a href="mailto:admissions@unilorin.edu.ng">admissions@unilorin.edu.ng</a></p>
+<p>Technical enquiries should be directed to:</p>
+<p><strong>Email:</strong> <a href="mailto:helpdesk.comsit@unilorin.edu.ng">helpdesk.comsit@unilorin.edu.ng</a></p>
+<p>Applicants are also encouraged to read the University's official dress code before participating in any admission-related activities.</p>
+<p>For more insights into admission chances based on UTME scores, you might find this post helpful: <a href="/blog/jamb-2026-admission-chances-by-score">JAMB 2026: What Admission Chances Do Candidates with 140, 150, 180, 200, and 250 Scores Have?</a></p>`,
+    tags: ["UNILORIN", "Post UTME", "Direct Entry", "Admission", "2026/2027", "Education", "Nigeria"],
+  },
+  {
     id: "lens-university-post-utme-form-2026-2027",
     title: "Lens University Post UTME Form for 2026/2027 Admission Now Available",
     category: "Education",

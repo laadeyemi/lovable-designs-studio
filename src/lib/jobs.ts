@@ -49,6 +49,969 @@ const currentDate = '2026-06-23'; // Current date for comparison (June 23, 2026)
 
 const allJobs: Job[] = [
   {
+    id: 'shift-manager-yaba-lagos-2026',
+    title: 'Shift Manager',
+    date: '2026-06-24',
+    location: 'Bode Thomas, Yaba – Lagos',
+    type: 'Full-time',
+    salary: 'Not Specified',
+    deadline: 'Not Specified',
+    summary: 'Supervise kitchen and production staff to achieve and maintain high standards of quality, service, and cleanliness.',
+    responsibilities: [
+      'Provide guidance to kitchen and production staff to achieve and maintain high standards of quality, service, and cleanliness.',
+      'Maintain smooth workflow by monitoring production steps, setting processing parameters, and observing critical control points and equipment.',
+      'Coach the team on methods to improve efficiency, consistency, and output quality.',
+      'Foster teamwork, positive attitudes, and effective communication among staff.',
+      'Ensure strict adherence to health, safety, and food safety protocols (including HACCP, GMP, and company standards).',
+      'Conduct regular inspections of the kitchen workspace, equipment, and storage areas.',
+      'Support the training and development of staff.',
+      'Manage attendance, leave records, and address minor disciplinary matters.',
+      'Monitor and maintain accurate records of inventory and submit daily reports.'
+    ],
+    requirements: [
+      'Experience in a supervisory role in a food production or QSR environment.',
+      'Strong leadership and team management skills.',
+      'Knowledge of food safety standards (HACCP, GMP).',
+      'Excellent communication and organizational skills.'
+    ],
+    apply: 'Interested and qualified candidates should send their CV to: <a href="mailto:careers@foodconceptsplc.com">careers@foodconceptsplc.com</a> using the job title as the subject of the mail.'
+  },
+  {
+    id: 'maintenance-officer-vi-lagos-2026',
+    title: 'Maintenance Officer',
+    date: '2026-06-24',
+    location: 'Victoria Island, Lagos',
+    type: 'Full-time',
+    salary: 'Not Specified',
+    deadline: '13th July, 2026',
+    summary: 'Seeking a skilled Maintenance Officer with hands-on experience in plumbing, electricals, and AC repairs.',
+    responsibilities: [
+      'Perform plumbing tasks including pipe works, fixing leaks, and fittings.',
+      'Handle electrical maintenance including wiring, sockets, lighting, and basic troubleshooting.',
+      'Conduct AC repairs and maintenance.'
+    ],
+    requirements: [
+      '3+ years hands-on maintenance experience.',
+      'Trade test / technical certificate.',
+      'Tool-savvy, proactive + reliable.',
+      'Must reside around VI axis.'
+    ],
+    apply: 'Interested and qualified candidates should send their CV to: <a href="mailto:hephzibahcareers1@gmail.com">hephzibahcareers1@gmail.com</a> using the Job Title as the subject of the email.'
+  },
+  {
+    id: 'maintenance-officer-owerri-marriott-2026',
+    title: 'Maintenance Officer',
+    date: '2026-06-24',
+    location: 'Owerri, Imo',
+    type: 'Full Time/Permanent',
+    salary: 'Not Specified',
+    deadline: 'Not Specified',
+    company: 'Marriott',
+    summary: 'Respond to guest repair requests, perform preventive maintenance on tools and equipment, and ensure all facilities are in good working order.',
+    responsibilities: [
+      'Respond and attend to guest repair requests.',
+      'Perform preventive maintenance on tools and kitchen and mechanical room equipment.',
+      'Visually inspect tools, equipment, or machines.',
+      'Maintain maintenance inventory and requisition parts and supplies as needed.',
+      'Perform basic repair on all types of equipment, plumbing, and electrical components.',
+      'Use the Lockout/Tagout system before performing any maintenance work.'
+    ],
+    requirements: [
+      'High school diploma or G.E.D equivalent.',
+      'Some experience in general maintenance, exterior and interior surface preparation and painting.',
+      'Experience in hotel engineering or maintenance a plus.',
+      'Valid Driver’s License.'
+    ],
+    apply: 'Interested and qualified candidates should: <a href="https://careers.marriott.com/maintenance/job/A4FCDF30286D450FAA15D1C645A31837?utm_source=marriottcareers&utm_medium=referralwebsite">Click here to apply online</a>'
+  },
+  {
+    id: 'air-compressor-maintenance-technician-ikeja-2026',
+    title: 'Air Compressor Maintenance Technician',
+    date: '2026-06-24',
+    location: 'Ikeja, Lagos',
+    type: 'Full-time',
+    salary: 'N100,000 – N200,000 / Month.',
+    deadline: '22nd July, 2026',
+    summary: 'Seeking an experienced technician for air compressor maintenance with an electrician’s license.',
+    responsibilities: [
+      'Maintain and repair air compressors.',
+      'Understand and work with basic electrical circuits.',
+      'Perform hands-on mechanical and electrical maintenance.'
+    ],
+    requirements: [
+      'Bachelor’s Degree with 3-10 years experience.',
+      'Possesses many years of experience with air compressors.',
+      'Familiar with mechanical and electrical principles.',
+      'Strong hands-on ability and a hardworking, resilient spirit.',
+      'Day shift worker with an electrician’s license.'
+    ],
+    apply: 'Interested and qualified candidates should send their CV to: <a href="mailto:vijutalent@gmail.com">vijutalent@gmail.com</a> using the Job Title as the subject of the email.'
+  },
+  {
+    id: 'facility-supervisor-installation-technician-abuja-2026',
+    title: 'Facility Supervisor / Installation Technician',
+    date: '2026-06-24',
+    location: 'Abuja (FCT)',
+    type: 'Full-time',
+    salary: 'N170,000 – N200,000 per month.',
+    deadline: 'Not Specified',
+    summary: 'Seeking a skilled and proactive individual to supervise facility operations, carry out installations, and ensure excellent service delivery.',
+    responsibilities: [
+      'Supervise and coordinate daily facility maintenance and operational activities.',
+      'Oversee industrial cleaning operations.',
+      'Handle the installation, setup, and coupling of lifestyle products, furniture, and couches.',
+      'Carry out basic technical repairs, troubleshooting, and maintenance works.',
+      'Supervise maintenance and cleaning staff.',
+      'Ensure compliance with health, safety, and operational standards.'
+    ],
+    requirements: [
+      'Minimum of HND / BSC or Technical Certification in Facilities Management, Technical Operations, or a related field.',
+      'Proven experience in facility supervision, technical maintenance, and installations.',
+      'Experience in industrial cleaning and facility maintenance is an added advantage.',
+      'Strong technical skills in repairs, troubleshooting, and equipment handling.',
+      'Physically fit and capable of handling installation and maintenance tasks.'
+    ],
+    apply: 'Interested and qualified candidates should send their CV and Cover Letter to: <a href="mailto:hr.nettetal@gmail.com">hr.nettetal@gmail.com</a> using “Facility Supervisor / Installation Technician” as the subject of the email.'
+  },
+  {
+    id: 'instrumentation-artisan-ilesa-osun-2026',
+    title: 'Instrumentation Artisan',
+    date: '2026-06-24',
+    location: 'Ilesa, Osun',
+    type: 'Full time',
+    salary: 'Not Specified',
+    deadline: '30th June, 2026',
+    summary: 'Maintain and improve all control and automation related equipment and systems, focusing on field instrumentation and networks.',
+    responsibilities: [
+      'Conduct optimisation and troubleshooting of all process control systems.',
+      'Interpret process description specifications and conduct modifications.',
+      'Identify process control deviations and resolve or recommend solutions.',
+      'Maintain process control equipment and software integrity.',
+      'Perform Standby duties when required.'
+    ],
+    requirements: [
+      'B.ENG/Higher National Diploma (HND) Electrical/Electronics Engineering.',
+      'Minimum of 3 years instrumentation equipment maintenance and PLC experience advantageous.',
+      'Demonstrated technical knowledge of process measurement instrumentation.',
+      'Problem solving abilities on process control systems (PLC’s, SCADA, etc).'
+    ],
+    apply: 'Interested and qualified candidates should: <a href="https://wd1.myworkdaysite.com/en-US/recruiting/abinbev/NGA/job/International-Breweries---Ilesa-Brewery/INSTRUMENTATION-ARTISAN_30099720">Click here to apply online</a>'
+  },
+  {
+    id: 'project-coordinator-ecolab-abuja-2026',
+    title: 'Project Coordinator (EcoLab)',
+    date: '2026-06-24',
+    location: 'Lugbe, Abuja (On-Site)',
+    type: 'Full Time/Permanent',
+    salary: 'Not Specified',
+    deadline: '20th July, 2026',
+    summary: 'Support the execution, coordination, and growth of EcoLab’s sustainability initiatives.',
+    responsibilities: [
+      'Coordinating and supporting sustainability projects (cleanups, workshops, outreach initiatives, and bootcamps).',
+      'Managing materials, timelines, and on-site logistics for activities.',
+      'Identifying exhibition, grant, funding, and partnership opportunities.',
+      'Supporting recycling, upcycling, and material-based processes.',
+      'Supporting the development and submission of proposals and concept notes.'
+    ],
+    requirements: [
+      'Strong organisational skills, structured documentation ability, and strategic thinking.'
+    ],
+    apply: 'Interested and qualified candidates should submit their CV and Cover Letter to: <a href="mailto:hr@innov8hub.ng">hr@innov8hub.ng</a> using the Job Title as the subject of the email.'
+  },
+  {
+    id: 'mobile-application-developer-abuja-2026',
+    title: 'Mobile Application Developer',
+    date: '2026-06-24',
+    location: 'Lugbe, Abuja (On-Site)',
+    type: 'Full Time/Permanent',
+    salary: 'Not Specified',
+    deadline: '20th July, 2026',
+    summary: 'Design, build, and maintain high-quality mobile applications that deliver outstanding user experiences.',
+    responsibilities: [
+      'Design, build, and maintain mobile applications.',
+      'Collaborate with cross-functional teams.',
+      'Ensure scalable architecture and great UI/UX.'
+    ],
+    requirements: [
+      'Proficiency in Flutter/Dart, React Native, Native Android (Kotlin/Java), or Native iOS (Swift/Objective-C).',
+      'Strong understanding of RESTful APIs, JSON, and state management patterns.',
+      'Experience with Git/GitHub/GitLab and CI/CD pipelines for mobile deployments.',
+      'Experience publishing on App Store / Play Store.'
+    ],
+    apply: 'Interested and qualified candidates should submit their CV and Cover Letter to: <a href="mailto:hr@innov8hub.ng">hr@innov8hub.ng</a> using the Job Title as the subject of the email.'
+  },
+  {
+    id: 'rf-pop-engineer-ikeja-2026',
+    title: 'RF / POP Engineer',
+    date: '2026-06-24',
+    location: 'Ikeja, Lagos',
+    type: 'Full-time',
+    salary: 'Not Specified',
+    deadline: 'Not Specified',
+    summary: 'Bridge the gap between our wireless access infrastructure and our core network backbone.',
+    responsibilities: [
+      'Perform path analysis and site surveys for PtP and PtMP microwave/millimeter-wave backhaul links.',
+      'Monitor frequency utilization and mitigate interference.',
+      'Oversee the installation, alignment, and commissioning of outdoor radio units and antennas.',
+      'Maintain physical POP sites, ensuring proper power distribution and cooling.',
+      'Rack, stack, and configure aggregation switches and edge routers.'
+    ],
+    requirements: [
+      'Bachelor’s Degree in Electrical Engineering, Telecommunications, or related field.',
+      '3 years in a field engineering, tower climbing, or ISP operations role.',
+      'Deep understanding of wireless standards (e.g., 802.11ac/ax, LTE/5G).',
+      'Solid grasp of OSI Layer 2/3 (VLANs, Subnetting, OSPF/BGP).',
+      'Experience with RF planning software (e.g., LinkPlanner, Pathloss).'
+    ],
+    apply: 'Interested and qualified candidates should send their CV to: <a href="mailto:recruitment.communication1@gmail.com">recruitment.communication1@gmail.com</a> using the job title as the subject of the email.'
+  },
+  {
+    id: 'embedded-systems-iot-engineer-abuja-2026',
+    title: 'Embedded Systems & IoT Engineer',
+    date: '2026-06-24',
+    location: 'Lugbe, Abuja (On-Site)',
+    type: 'Full Time/Permanent',
+    salary: 'Not Specified',
+    deadline: '20th July, 2026',
+    summary: 'Design, develop, deploy, and maintain embedded hardware and IoT-based solutions.',
+    responsibilities: [
+      'Design, develop, and optimize embedded systems for real-time control and data acquisition.',
+      'Develop circuit schematics, PCB layouts, and hardware interfaces.',
+      'Write, test, and optimize firmware for micro-controllers (ARM, ESP32, STM32, etc.).',
+      'Integrate sensors, actuators, and communication modules.',
+      'Implement IoT connectivity using Wi-Fi, Bluetooth, GSM/4G/5G, LoRa.',
+      'Interface embedded systems with cloud platforms.'
+    ],
+    requirements: [
+      'Proven experience in circuit design, firmware development, and sensor integration.',
+      'Hands-on engineering capabilities and strong problem-solving skills.'
+    ],
+    apply: 'Interested and qualified candidates should submit their CV and Cover Letter to: <a href="mailto:hr@innov8hub.ng">hr@innov8hub.ng</a> using the Job Title as the subject of the email.'
+  },
+  {
+    id: 'technical-operator-sango-ota-2026',
+    title: 'Technical Operator',
+    date: '2026-06-24',
+    location: 'Sango Ota, Ogun',
+    type: 'Full-time',
+    salary: 'Not Specified',
+    deadline: '30th July, 2026',
+    summary: 'Carry out maintenance routine checks, supervision, and monitoring of production machines to ensure smooth and efficient operation.',
+    responsibilities: [
+      'Operate the production machinery according to standard operating procedure.',
+      'Develop and implement a preventive and corrective maintenance schedule.',
+      'Diagnose and repair minor mechanical issues on the equipment promptly.',
+      'Document and maintain accurate records of production activities.'
+    ],
+    requirements: [
+      'OND in Engineering with 1-3 years experience.',
+      'Only OND candidates can apply.'
+    ],
+    apply: 'Interested and qualified candidates should: <a href="http://forms.gle/JKG6aE7tWncPihvc7">Click here to apply online</a>'
+  },
+  {
+    id: 'graphics-designer-ph-2026',
+    title: 'Graphics Designer',
+    date: '2026-06-24',
+    location: 'Port Harcourt, Rivers',
+    type: 'Full-time',
+    salary: 'Not Specified',
+    deadline: '31st July, 2026',
+    summary: 'Design high-quality graphics for digital, print, and marketing campaigns.',
+    responsibilities: [
+      'Design high-quality graphics for digital, print, and marketing campaigns.',
+      'Develop creative concepts aligned with brand guidelines.',
+      'Create social media creatives, flyers, banners, and presentations.',
+      'Edit and retouch images to ensure professional-quality outputs.'
+    ],
+    requirements: [
+      'Bachelor’s Degree / HND in Graphic Design, Fine Arts, or a related field (preferred).',
+      '2–3 years of professional graphic design experience.',
+      'Proficiency in Adobe Creative Suite (Photoshop, Illustrator, InDesign).',
+      'Strong portfolio showcasing creative and technical design skills.'
+    ],
+    apply: 'Interested and qualified candidates should send their CV to: <a href="mailto:castelhrjobs@gmail.com">castelhrjobs@gmail.com</a> using the job title as the subject of the email.'
+  },
+  {
+    id: 'engine-auxiliary-room-operator-vi-2026',
+    title: 'Engine / Auxiliary Room Operator',
+    date: '2026-06-24',
+    location: 'Victoria Island, Lagos',
+    type: 'Full-time',
+    salary: 'Not Specified',
+    deadline: '6th July, 2026',
+    summary: 'Responsible for the hands-on monitoring, operation, and first-line maintenance support of all reciprocating engines and auxiliary systems.',
+    responsibilities: [
+      'Conduct structured, hourly floor patrols of the engine hall and all auxiliary areas.',
+      'Operate engines and auxiliary systems (pumps, fans, heat exchangers, etc.).',
+      'Monitor key parameters including vibration, temperatures, and pressure.',
+      'Detect, assess, and promptly report equipment anomalies.',
+      'Support maintenance teams during planned preventive maintenance.'
+    ],
+    requirements: [
+      'Bachelor of Science (BSc) or Bachelor of Engineering (B.Eng.) in Mechanical Engineering or equivalent.',
+      'Minimum of five (5) years of direct experience operating large-bore diesel, gas, or HFO reciprocating engines.',
+      'Practical knowledge of centrifugal purifier operation and pump maintenance.',
+      'Certified in relevant HSE competencies: PTW, LOTO, confined space awareness.'
+    ],
+    apply: 'Interested and qualified candidates should: Click here to apply online'
+  },
+  {
+    id: 'maintenance-officer-abuja-school-2026',
+    title: 'Maintenance Officer',
+    date: '2026-06-24',
+    location: 'Abuja (FCT)',
+    type: 'Full-time',
+    salary: 'Not Specified',
+    deadline: '22nd July, 2026',
+    summary: 'Seeking a skilled and proactive maintenance professional for a school environment.',
+    responsibilities: [
+      'Conduct routine inspections of school facilities and equipment.',
+      'Carry out basic repairs and coordinate major maintenance works.',
+      'Monitor electrical, plumbing, carpentry, and general facility maintenance needs.',
+      'Ensure compliance with health, safety, and environmental standards.'
+    ],
+    requirements: [
+      'OND/HND/Bachelor’s Degree in Engineering, Building Technology, Facilities Management, or a related field.',
+      'Minimum of 3 years relevant maintenance experience.',
+      'Practical knowledge of electrical, plumbing, carpentry, and general building maintenance.',
+      'Previous experience in a school or similar environment is an added advantage.'
+    ],
+    apply: 'Interested and qualified candidates should send their CV and Application Letter to: <a href="mailto:recruitment@startriteschools.com.ng">recruitment@startriteschools.com.ng</a> using the Job Title as the subject of the mail.'
+  },
+  {
+    id: 'social-media-content-creator-intern-lagos-2026',
+    title: 'Social Media Content Creator (Intern)',
+    date: '2026-06-24',
+    location: 'Lagos',
+    type: 'Internship',
+    salary: 'Not Specified',
+    deadline: 'Not Specified',
+    summary: 'Internship for a social media savvy individual to create content and work within a team.',
+    responsibilities: [
+      'Create content for social media platforms.',
+      'Collaborate with the marketing team.',
+      'Assist in managing social media accounts.'
+    ],
+    requirements: [
+      'Must be Social Media Savy.',
+      'Must be a fast learner.',
+      'Must be able to work as a team.'
+    ],
+    apply: 'Interested and qualified candidates should send their updated CV to: <a href="mailto:rafiat@idclnigeria.com">rafiat@idclnigeria.com</a> using the Job Title as the subject of the email.'
+  },
+  {
+    id: 'visual-designer-lagos-sevenup-2026',
+    title: 'Visual Designer',
+    date: '2026-06-24',
+    location: 'Lagos',
+    type: 'Full-time',
+    company: 'Seven-Up Bottling Company',
+    salary: 'Not Specified',
+    deadline: '30th July, 2026',
+    summary: 'Conceptualizing and executing high-quality, on-brand visual designs across various marketing materials.',
+    responsibilities: [
+      'Develop and maintain a consistent visual brand identity.',
+      'Design and produce a wide range of marketing collateral (social media graphics, banners, etc.).',
+      'Conceptualize and produce engaging short-form animated content.',
+      'Work closely with the marketing team to translate campaign objectives into effective visual solutions.'
+    ],
+    requirements: [
+      'Bachelor’s Degree in Graphic Design, Fine Arts, Multimedia Arts, or a related field.',
+      'Proven experience as an Art Director, Graphic Designer, or similar role.',
+      'Proficiency in design software such as Adobe Creative Suite (Photoshop, Illustrator, InDesign, After Effects, Premiere Pro).',
+      'Strong portfolio showcasing a range of visual design and animation work.'
+    ],
+    apply: 'Interested and qualified candidates should send their CV to: <a href="mailto:careers@sevenup.org">careers@sevenup.org</a> using the Job Title as the subject of the email.'
+  },
+  {
+    id: 'rig-supervisor-specialist-iii-nigeria-2026',
+    title: 'Rig Supervisor / Specialist III',
+    date: '2026-06-24',
+    location: 'Nigeria',
+    type: 'Full-time',
+    salary: 'Not Specified',
+    deadline: 'Not Specified',
+    summary: 'Represents the company on a rig site to support the safe and efficient execution of well plans.',
+    responsibilities: [
+      'Communicate expectations regarding safety, security, health, and environment.',
+      'Monitor rig operations to ensure well control procedures are followed.',
+      'Order and organize logistics for services and equipment.',
+      'Generate accurate and adequate operations reports.',
+      'Interface with engineering and geology to ensure understanding of well objectives.'
+    ],
+    requirements: [
+      'Experience in rig supervisory or rig leadership roles for drilling and completion operations.',
+      'Experience working for a major Operator or Drilling Contractor.',
+      'Hold current certification for Well Control.'
+    ],
+    apply: 'Interested and qualified candidates should send their CV to: <a href="mailto:manpower@hiosl.com">manpower@hiosl.com</a> using the Job Title as the subject of the mail.'
+  },
+  {
+    id: 'production-manager-pharma-enugu-2026',
+    title: 'Production Manager',
+    date: '2026-06-24',
+    location: 'Enugu',
+    type: 'Full-time',
+    salary: 'N400,000 – N600,000 monthly.',
+    deadline: '31st July, 2026',
+    summary: 'Responsible for planning, coordinating, and controlling all pharmaceutical manufacturing activities.',
+    responsibilities: [
+      'Develop and implement production plans to meet customer demand.',
+      'Ensure timely manufacturing of pharmaceutical products.',
+      'Ensure full compliance with WHO-cGMP Guidelines and NAFDAC Regulations.',
+      'Collaborate with QA and QC departments to maintain product quality.',
+      'Manage manpower allocation and workforce scheduling.',
+      'Drive continuous improvement initiatives and reduce manufacturing costs.'
+    ],
+    requirements: [
+      'Experience in a pharmaceutical manufacturing environment.',
+      'Strong knowledge of cGMP, NAFDAC, and WHO-GMP requirements.',
+      'Leadership skills to supervise production staff.',
+      'Ability to manage production KPIs.'
+    ],
+    apply: 'Interested and qualified candidates should send their CV and application to: <a href="mailto:hr.kadisparkconsultltd@gmail.com">hr.kadisparkconsultltd@gmail.com</a> using the Job Title as the subject of the email.'
+  },
+  {
+    id: 'graduate-trainee-accounting-marketing-vi-2026',
+    title: 'Graduate Trainee (Accounting & Marketing Graduates)',
+    date: '2026-06-24',
+    location: 'Victoria Island, Lagos',
+    type: 'Full-time',
+    salary: 'Competitive salary and benefits package.',
+    deadline: '3rd July, 2026',
+    summary: 'Seeking motivated and detail-oriented fresh accounting and marketing graduates to join our team as a graduate trainee.',
+    responsibilities: [
+      'Participate in hands-on training and career development opportunities.',
+      'Receive mentorship from experienced professionals.',
+      'Support finance and marketing teams in daily tasks.'
+    ],
+    requirements: [
+      'Bachelor’s Degree in Accounting, Finance, and Marketing from a reputable university with 0-3 years experience.',
+      'Must have completed NYSC or currently enrolled in NYSC.',
+      'Strong numerical and analytical skills.',
+      'Proficiency in Microsoft Excel and other Microsoft Office applications.',
+      'Professional accounting certification with ICAN or ACCA is an added advantage.'
+    ],
+    apply: 'Interested and qualified candidates should send their CV to: <a href="mailto:mary.uchechi@trinityfinancialng.com">mary.uchechi@trinityfinancialng.com</a> using “Graduate Trainee – Accountant and Marketing” as the subject of the email.'
+  },
+  {
+    id: 'cement-pump-operator-abuja-2026',
+    title: 'Cement Pump Operator',
+    date: '2026-06-24',
+    location: 'Abuja (FCT)',
+    type: 'Full-time',
+    salary: 'Not Specified',
+    deadline: 'Not Specified',
+    summary: 'Experienced Cement Pump Operator to handle cement pumping on construction sites.',
+    responsibilities: [
+      'Set up the cement pump correctly at job sites.',
+      'Check the machine and safety parts before starting work.',
+      'Work with truck drivers to keep cement flowing into the pump.',
+      'Clean the pipes and pump after each job.',
+      'Follow all safety rules and make sure protective gear is used.'
+    ],
+    requirements: [
+      'WAEC / NECO certificate.',
+      'Valid license to operate cement pump machines.',
+      'At least 4 years’ experience using cement or concrete pumps.',
+      'Nigerian driver’s license (for truck-mounted pumps).',
+      'Physically fit and able to work on busy construction sites.'
+    ],
+    apply: 'Interested and qualified candidates should send their CV to: <a href="mailto:hrbp4@fmragency.com">hrbp4@fmragency.com</a> using “Cement Pump Operator” as the subject of the mail.'
+  },
+  {
+    id: 'operator-patroller-production-ibese-ogun-2026',
+    title: 'Operator / Patroller – Production Department',
+    date: '2026-06-24',
+    location: 'Ibese Plant, Ogun',
+    type: 'Full-time',
+    salary: 'Not Specified',
+    deadline: 'Not Specified',
+    company: 'Dangote',
+    summary: 'Responsible for continuous inspection of the assigned section at production processes towards ensuring that all equipment function effectively.',
+    responsibilities: [
+      'Implement assigned field activities and provide feedback to the CCR team.',
+      'Ensure all processing equipment are cleaned regularly.',
+      'Liaise with CCR operators and Shift Managers for smooth operations.',
+      'Conduct inspection of equipment and document problems.',
+      'Ensure timely execution of housekeeping activities.'
+    ],
+    requirements: [
+      'School Cert or its equivalent in any discipline.',
+      'Zero (0) to three (3) years relevant work experience.',
+      'Basic knowledge of the cement production process.',
+      'Good communication skills.'
+    ],
+    apply: 'Interested and qualified candidates should: <a href="https://careers.dangote.com/job/Ibese-Plant-OperatorPatroller-Production-Dept_-Ibes/829421402/">Click here to apply online</a>'
+  },
+  {
+    id: 'analyst-quality-assurance-lagos-2026',
+    title: 'Analyst, Quality Assurance',
+    date: '2026-06-24',
+    location: 'Lagos',
+    type: 'Full-time',
+    salary: 'Not Specified',
+    deadline: 'Not Specified',
+    summary: 'Join our Lagos-based technology team to protect the quality of software that matters.',
+    responsibilities: [
+      'Design and execute test cases for mobile (Android/iOS) and web applications.',
+      'Document and maintain test coverage across core user flows.',
+      'Identify, log, and track bugs with clear reproduction steps.',
+      'Build and maintain automation scripts.',
+      'Participate in sprint cycles and review requirements.',
+      'Conduct release readiness assessments.'
+    ],
+    requirements: [
+      '0–4 years of QA or software testing experience.',
+      'Experience testing mobile applications and web-based interfaces.',
+      'Familiarity with at least one test management or bug tracking tool (e.g., Jira, TestRail).',
+      'Basic understanding of automation testing concepts.',
+      'Exposure to any automation framework (Selenium, Appium, Cypress, etc.) is preferred.'
+    ],
+    apply: 'Interested and qualified candidates should: Click here to apply online'
+  },
+  {
+    id: 'civil-engineer-project-manager-lekki-2026',
+    title: 'Civil Engineer / Project Manager',
+    date: '2026-06-24',
+    location: 'Lekki, Lagos',
+    type: 'Full-time',
+    salary: 'Not Specified',
+    deadline: '13th June, 2026',
+    summary: 'Seeking experienced Civil Engineers / Project Managers to oversee residential and high-end construction projects.',
+    responsibilities: [
+      'Manage end-to-end execution of residential and luxury construction projects.',
+      'Supervise site activities and ensure adherence to design and specifications.',
+      'Coordinate contractors, subcontractors, and site engineers.',
+      'Monitor project timelines, budgets, and quality control measures.',
+      'Prepare and submit progress reports to management.'
+    ],
+    requirements: [
+      'Minimum of 7 years’ experience in construction/project management.',
+      'Experience working in high-demand locations such as Lekki, Ikoyi, Banana Island is an advantage.',
+      'Strong background in residential and high-rise developments.',
+      'Excellent leadership, coordination, and reporting skills.'
+    ],
+    apply: 'Interested and qualified candidates should send their CV to: <a href="mailto:hr@prestigioushomeslimited.com">hr@prestigioushomeslimited.com</a> using the job title as the subject of the email.'
+  },
+  {
+    id: 'boiler-operator-feedmill-ibadan-2026',
+    title: 'Boiler Operator – Feedmill',
+    date: '2026-06-24',
+    location: 'Ibadan, Oyo',
+    type: 'Full-time',
+    salary: 'Not Specified',
+    deadline: '21st July, 2026',
+    summary: 'Operate, monitor, and maintain boiler systems to ensure the continuous supply of steam required for feed production.',
+    responsibilities: [
+      'Operate and monitor boiler systems to ensure efficient steam generation.',
+      'Monitor boiler pressure, temperature, water levels, and fuel consumption.',
+      'Perform routine inspections of boilers, pumps, valves, and pipelines.',
+      'Conduct water treatment checks and maintain boiler water quality.',
+      'Perform basic preventive maintenance and assist during major repairs.'
+    ],
+    requirements: [
+      'HND / B. Engr, Technical Certificate, Trade Test, or equivalent qualification.',
+      'Minimum of 3–5 years’ experience operating industrial boilers in a manufacturing environment.',
+      'Experience in feed milling, food processing, or FMCG is highly preferred.',
+      'Good understanding of steam generation systems and boiler safety procedures.',
+      'Boiler Operator Certification is an added advantage.'
+    ],
+    apply: 'Interested and qualified candidates should forward their Application Letters and CV along with passport photographs to: <a href="mailto:jobs@sayedfarms.com">jobs@sayedfarms.com</a> using the Job Title as the subject of the mail.'
+  },
+  {
+    id: 'manager-ehs-planning-ph-2026',
+    title: 'Manager, EHS Planning',
+    date: '2026-06-24',
+    location: 'Port Harcourt, Rivers',
+    type: 'Full-time',
+    salary: 'Not Specified',
+    deadline: 'Not Specified',
+    summary: 'Lead and oversee EHS planning, performance, and risk governance, ensuring seamless integration into business strategy and operations.',
+    responsibilities: [
+      'Lead EHS planning and performance management frameworks.',
+      'Manage risk assessment methodologies and process safety management systems.',
+      'Oversee implementation of Integrated Management Systems (ISO standards).',
+      'Ensure regulatory compliance and manage stakeholder engagement.',
+      'Drive EHS data analytics, reporting, and performance monitoring.'
+    ],
+    requirements: [
+      'Bachelor’s Degree in Engineering, Environmental Science, or a related discipline (master’s degree preferred).',
+      '14-16 years’ experience in EHS within the oil and gas industry.',
+      'NEBOSH, IOSH, ISO 14001/45001 Lead Auditor certification.',
+      'Proven experience in EHS planning, risk management, and regulatory compliance.'
+    ],
+    apply: 'Interested and qualified candidates should: <a href="https://oando.breezy.hr/p/57acdb7e1821-manager-ehs-planning?utm_source=">Click here to apply online</a>'
+  },
+  {
+    id: 'manager-capacity-lagos-2026',
+    title: 'Manager, Capacity',
+    date: '2026-06-24',
+    location: 'Walter Carrington Crescent, Lagos',
+    type: 'Full-time',
+    salary: 'Not Specified',
+    deadline: 'Not Specified',
+    summary: 'Planning, analysis, and optimisation of capacity infrastructure (storage, networks, midrange and the mainframe).',
+    responsibilities: [
+      'Perform, Define, create, and maintain capacity plans for specified GTI Products and Services.',
+      'Provide background analysis and trend analysis to support the estimation of future capacity requirements.',
+      'Manage Capacity issues and take preventive steps to avoid future issues.',
+      'Drive optimisation of Capacity Utilisation through analysis and initiation of efficiency initiatives.',
+      'Deliver Capacity Reports and Metrics to support Capacity Management.'
+    ],
+    requirements: [
+      'BSc in Information Management Technology, Computer Science, Statistics /Mathematics or related field.',
+      '1-2 years experience as a capacity planner, hands-on system engineer, or performance analyst.',
+      'Demonstrated experience in the use of statistical analysis to characterize capacity usage.',
+      'Relevant infrastructure platform specific certification can be an added advantage.'
+    ],
+    apply: 'Interested and qualified candidates should: <a href="https://www.standardbank.com/sbg/standard-bank-group/careers/apply/jobs/view-all-jobs/job-detail?jobID=744000133232639">Click here to apply online</a>'
+  },
+  {
+    id: 'welder-logbara-ogun-2026',
+    title: 'Welder',
+    date: '2026-06-24',
+    location: 'Logbara, Along Abeokuta express way – Ogun',
+    type: 'Full-time',
+    salary: 'Not Specified',
+    deadline: '20th July, 2026',
+    summary: 'Responsible for joining, repairing, and fabricating metal parts and structures within an industrial or manufacturing environment.',
+    responsibilities: [
+      'Join, repair, and fabricate metal parts and structures.',
+      'Maintain machinery and ensure structural integrity in factory operations.'
+    ],
+    requirements: [
+      'Proven experience as a welder in a factory or industrial setting.'
+    ],
+    apply: 'Intrested and qualified candidates should send their CV to: <a href="mailto:new_hope5@yahoo.com">new_hope5@yahoo.com</a> using the job title as the subject o the mail.'
+  },
+  {
+    id: 'maintenance-personnel-ikeja-2026',
+    title: 'Maintenance Personnel',
+    date: '2026-06-24',
+    location: 'Ikeja, Lagos',
+    type: 'Full-time',
+    salary: 'N100,000 – N300,000 monthly.',
+    deadline: '20th July, 2026',
+    summary: 'Seeking maintenance personnel with skills in electrical work, welding, or mechanical maintenance.',
+    responsibilities: [
+      'Perform electrical, welding, or mechanical maintenance tasks.',
+      'Troubleshoot and repair equipment.',
+      'Ensure machinery and systems are in good working order.'
+    ],
+    requirements: [
+      'Possess an electrician certificate, welding skills, or many years of mechanical maintenance experience.',
+      'Familiar with mechanical and electrical principles, with strong practical skills.'
+    ],
+    apply: 'Interested and qualified candidates should send their CV to: <a href="mailto:vijutalent@gmail.com">vijutalent@gmail.com</a> using the Job Title as the subject of the email.'
+  },
+  {
+    id: 'ict-support-technician-abuja-2026',
+    title: 'ICT Support / Technician',
+    date: '2026-06-24',
+    location: 'Abuja (FCT)',
+    type: 'Full-time',
+    salary: 'N250,000 – N400,000 monthly',
+    deadline: '31st July, 2026',
+    summary: 'We are inviting applications from seasoned, passionate, and highly professional educators and non-academic staff to join our growing team. If you have good experience and a good reference, you can apply.',
+    responsibilities: [
+      'Provide technical support for hardware, software, and network issues.',
+      'Install, configure, and maintain IT equipment.',
+      'Troubleshoot and resolve system and network problems.'
+    ],
+    requirements: [
+      'Relevant qualifications and certifications with 4-10 years experience.',
+      'Proven experience in a school or corporate environment.',
+      'Strong interpersonal, communication, and teamwork skills.',
+      'A high level of responsibility, organisation, and integrity.'
+    ],
+    apply: 'Interested and qualified candidates should: Click here to apply online <a href="https://forms.gle/nQ4LypGntjKqt5en6">https://forms.gle/nQ4LypGntjKqt5en6</a>'
+  },
+  {
+    id: 'plumber-abeokuta-ogun-2026',
+    title: 'Plumber',
+    date: '2026-06-24',
+    location: 'Abeokuta, Ogun',
+    type: 'Full-time',
+    salary: 'Competitive Salary',
+    deadline: '10th July, 2026',
+    summary: 'Seeking an experienced Plumber to install, repair, and maintain water supply systems for a farm in Abeokuta. Accommodation and one meal per day are provided.',
+    responsibilities: [
+      'Install, repair, and maintain water supply systems, pipes, valves, and fittings.',
+      'Diagnose and fix plumbing faults promptly.',
+      'Conduct routine inspections and preventive maintenance.',
+      'Support the maintenance team in ensuring uninterrupted water supply across the farm.',
+      'Maintain proper records of repairs and maintenance activities.'
+    ],
+    requirements: [
+      'Proven experience as a plumber.',
+      'Ability to troubleshoot and resolve plumbing issues independently.',
+      'Knowledge of water distribution systems and plumbing tools.',
+      'Ability to work in a farm environment.',
+      'Good communication and teamwork skills.'
+    ],
+    apply: 'Interested candidates should send their Expression of Interest (EOI) and CV to: <a href="mailto:adekunlebidemigold@gmail.com">adekunlebidemigold@gmail.com</a> using the job title as the subject of the email.'
+  },
+  {
+    id: 'construction-storekeeper-spare-parts-ibadan-2026',
+    title: 'Construction Storekeeper – Spare Parts (Project)',
+    date: '2026-06-24',
+    location: 'Ibadan, Oyo',
+    type: 'Project-Based / Full-Time',
+    salary: 'Not Specified',
+    deadline: '21st July, 2026',
+    summary: 'Seeking an organized, detail-oriented, and experienced Construction Store Keeper to manage the receipt, storage, issuance, and inventory control of construction materials, engineering spares, and project-related equipment.',
+    responsibilities: [
+      'Receive, inspect, and verify spare parts, construction materials, tools, and equipment against purchase orders and delivery notes.',
+      'Ensure proper storage, identification, and preservation of spare parts and project materials.',
+      'Maintain accurate inventory records and stock registers for all items received and issued.',
+      'Issue spare parts and materials based on approved requisitions and maintain proper documentation.',
+      'Monitor stock levels and initiate replenishment requests to prevent stock-outs.',
+      'Conduct daily, weekly, and monthly stock checks and reconcile physical inventory with system records.',
+      'Maintain bin cards, stock ledgers, and inventory management reports.',
+      'Track fast-moving, slow-moving, obsolete, and critical spare parts.',
+      'Ensure proper housekeeping, organization, and safety within the store environment.',
+      'Coordinate with engineering, maintenance, procurement, and project teams regarding inventory requirements.',
+      'Prepare periodic inventory reports, stock movement reports, and variance analyses.',
+      'Assist with internal and external inventory audits.',
+      'Ensure compliance with company policies, inventory control procedures, and HSE standards.'
+    ],
+    requirements: [
+      'Minimum of HND, or Bachelor’s Degree in Supply Chain Management, Logistics, Engineering, Business Administration, or a related field.',
+      '3–5 years’ experience as a Store Keeper, Spare Parts Store Officer, or Inventory Controller in a manufacturing, construction, engineering, or industrial environment.',
+      'Experience handling engineering spare parts, electrical components, mechanical parts, construction materials, and maintenance consumables.',
+      'Good understanding of inventory management principles and storekeeping procedures.',
+      'Experience using ERP systems and inventory management software.',
+      'Proficiency in Microsoft Excel and inventory reporting.',
+      'Candidates with experience in Manufacturing, Food Processing, Poultry Processing, Feed Milling, Construction Projects, Industrial Plants, or Engineering Services will have an added advantage.'
+    ],
+    apply: 'Interested and qualified candidates should forward their Application Letters and CV along with passport photographs to: <a href="mailto:jobs@sayedfarms.com">jobs@sayedfarms.com</a> using the Job Title as the subject of the email.'
+  },
+  {
+    id: 'ei-lead-nigeria-2026',
+    title: 'E&I Lead – Nigeria',
+    date: '2026-06-24',
+    location: 'Port Harcourt, Rivers',
+    type: 'Permanent – Contract',
+    salary: 'Not Specified',
+    deadline: 'Not Specified',
+    summary: 'Lead all activities related to the Electrical, Instrumentation, and Telecom (EIT) scope for an onshore project, from construction engineering to construction and commissioning on site.',
+    responsibilities: [
+      'Monitor procurement activities related to EIT.',
+      'Accountable for EIT material traceability with MTracker.',
+      'Manage potential subcontractors.',
+      'Ensure compliance with deadlines, costs, and quality of technical deliverables.',
+      'Verify Detailed Engineering consistency and quality.',
+      'Issuance of Technical Queries.',
+      'Review E&I Method Statement from E&I Subcontractor.',
+      'Supervise the Subcontractor Team regarding technical preparation of works.',
+      'Implement, manage, and lead the Job Cards system preparation for the EIT scope.',
+      'Oversee the EIT commissioning engineering activity.',
+      'Follow commissioning execution schedule.'
+    ],
+    requirements: [
+      'Construction Manager / Commissioning Manager / Project – Manager experience in EIT (10 years).',
+      'Proven experience in Oil & Gas projects.',
+      'Skills in project management, technical coordination, and team leadership.',
+      'Proficiency in site project control tools (Job Cards, planning, reporting).',
+      'Proficiency in English required.',
+      'Familiarity with ICAPS software.',
+      'Availability for mobilization to Nigeria – PHC from November 2025 to May 2026.'
+    ],
+    apply: 'Interested and qualified candidates should: Click here to apply online <a href="https://jobs.ponticelli.com/en/offer/10654-MjAyNS0yMjc2?utm_source=">https://jobs.ponticelli.com/en/offer/10654-MjAyNS0yMjc2?utm_source=</a>'
+  },
+  {
+    id: 'site-reliability-engineer-sre-lagos-2026',
+    title: 'Site Reliability Engineer (SRE)',
+    date: '2026-06-24',
+    location: 'Lagos',
+    type: 'Full-time (Onsite)',
+    salary: 'Not Specified',
+    deadline: 'Not Specified',
+    summary: 'The Site Reliability Engineer (SRE) is responsible for ensuring the availability, reliability, scalability, and performance of business-critical applications and infrastructure.',
+    responsibilities: [
+      'Design, implement, and maintain highly available and scalable infrastructure.',
+      'Monitor production systems and proactively identify performance bottlenecks.',
+      'Manage incident response, root cause analysis (RCA), and problem management activities.',
+      'Develop automation scripts and tools to improve operational efficiency.',
+      'Implement and maintain CI/CD pipelines.',
+      'Manage cloud infrastructure across AWS and hybrid environments.',
+      'Configure and maintain observability platforms including monitoring, logging, and alerting solutions.',
+      'Define and track SLIs, SLOs, and error budgets.',
+      'Support application deployments and release management processes.',
+      'Collaborate with Engineering, Security, Data, and Product teams to improve system reliability.',
+      'Perform capacity planning and disaster recovery testing.',
+      'Ensure infrastructure and systems comply with security and regulatory requirements.'
+    ],
+    requirements: [
+      'Bachelor’s Degree in Computer Science, Information Technology, Engineering, or a related field.',
+      '4–7 years of experience in Site Reliability Engineering, DevOps, Cloud Engineering, or Infrastructure Operations.',
+      'Experience supporting mission-critical financial services or fintech platforms is an advantage.',
+      'Strong knowledge of AWS services (EC2, ECS/EKS, RDS, Lambda, VPC, IAM, CloudWatch).',
+      'Experience with Infrastructure as Code (Terraform, CloudFormation).',
+      'Knowledge of containerization technologies (Docker, Kubernetes).',
+      'Experience with CI/CD tools (GitHub Actions, GitLab CI/CD, Jenkins, Azure DevOps).',
+      'Experience with monitoring tools such as Datadog, Prometheus, Grafana, New Relic, or ELK Stack.',
+      'Strong Linux administration skills.',
+      'Experience with scripting languages (Python, Bash, PowerShell).',
+      'Understanding of networking, DNS, load balancing, VPNs, and security controls.',
+      'Preferred Certifications: AWS Certified Solutions Architect, Kubernetes Certifications (CKA/CKAD), HashiCorp Terraform Associate.'
+    ],
+    apply: 'Interested and qualified candidates should: Click here to apply online <a href="https://jobs.workable.com/view/j5KG75oXpHywUKv8VKowCg/site-reliability-engineer-(sre)-in-lagos-at-renmoney">https://jobs.workable.com/view/j5KG75oXpHywUKv8VKowCg/site-reliability-engineer-(sre)-in-lagos-at-renmoney</a>'
+  },
+  {
+    id: 'virtual-assistant-ikeja-lagos-2026',
+    title: 'Virtual Assistant',
+    date: '2026-06-24',
+    location: 'Ikeja, Lagos',
+    type: 'Part-time',
+    salary: 'N100,000 – N150,000 / Month',
+    deadline: '6th July, 2026',
+    summary: 'We are looking for a Virtual Assistant to provide administrative support to our team while working remotely.',
+    responsibilities: [
+      'Respond to emails and phone calls',
+      'Schedule meetings',
+      'Book travel and accommodations',
+      'Manage a contact list',
+      'Prepare customer spreadsheets and keep online records',
+      'Organize managers’ calendars',
+      'Perform market research',
+      'Create presentations, as assigned',
+      'Address employees administrative queries',
+      'Provide customer service as first point of contact'
+    ],
+    requirements: [
+      'Interested candidates should possess an OND / HND with at least 2 years experience.',
+      'Familiarity with current technologies, like desktop sharing, cloud services and VoIP',
+      'Experience with word-processing software and spreadsheets (e.g. MS Office)',
+      'Knowledge of online calendars and scheduling (e.g. Google Calendar)',
+      'Excellent phone, email and instant messaging communication skills',
+      'Excellent time management skills',
+      'Solid organizational skills'
+    ],
+    apply: 'Interested and qualified candidates should send their CV to: <a href="mailto:integratedresourcesemadorniger@gmail.com">integratedresourcesemadorniger@gmail.com</a> using the Job Title as the subject of the mail.'
+  },
+  {
+    id: 'onshore-project-control-lead-contract-engineer-nigeria-2026',
+    title: 'Onshore Project Control Lead & Contract Engineer',
+    date: '2026-06-24',
+    location: 'Nigeria',
+    type: 'Full-time',
+    salary: 'Not Specified',
+    deadline: 'Not Specified',
+    summary: 'Supports the Onshore Package Manager in the delivery of the EPCC contract from award to operations, with primary accountability for contract administration, cost control, schedule control, change management, and risk management.',
+    responsibilities: [
+      'Contract Administration & Governance: Coordinate and supervise the administration of the EPCC contract(s).',
+      'Project Controls, Documentation & Reporting: Ensure proper implementation of project control standards.',
+      'Planning & Scheduling Control: Develop, maintain, and control the package execution schedule.',
+      'Cost Control & Budget Management: Supervise cost monitoring, commitment tracking, and forecasting.',
+      'Change & Variation Management: Consolidate, assess, and document all changes.',
+      'Contractual & Commercial Support: Provide advice on contractual and commercial matters.',
+      'Nigerian Content Compliance: Monitor and ensure compliance with Nigerian Content requirements.',
+      'Team Leadership & Coordination: Manage and coordinate Project Control and PMC resources.'
+    ],
+    requirements: [
+      '15 years of professional experience.',
+      '10 years of experience within project and project control and contract administration.',
+      'Excellent negotiation and stakeholder management skills.',
+      'Degree of mastery in Project Controls, Contract Administration, and Negotiation.'
+    ],
+    apply: 'Interested and qualified candidates should: Click here to apply online <a href="https://www.linkedin.com/jobs/view/4430970965/">https://www.linkedin.com/jobs/view/4430970965/</a>'
+  },
+  {
+    id: 'it-executive-abuja-2026',
+    title: 'IT Executive',
+    date: '2026-06-24',
+    location: 'Abuja (FCT)',
+    type: 'Full-time',
+    salary: 'Competitive',
+    deadline: 'Not Specified',
+    company: 'Savannah Suites Ltd.',
+    summary: 'Seeking an IT Executive with experience in hotel systems, networking, and IT support to ensure smooth operations.',
+    responsibilities: [
+      'Manage hotel IT systems, including networking and support.',
+      'Troubleshoot and maintain systems to ensure smooth operations.',
+      'Provide technical support to staff and guests.'
+    ],
+    requirements: [
+      'Experience in hotel systems, networking, and IT support.',
+      'Ability to troubleshoot, maintain systems, and ensure smooth operations.',
+      'Proven experience in hospitality or hotel operations.',
+      'Strong leadership and team management skills (for senior roles).',
+      'Excellent communication and organizational ability.'
+    ],
+    apply: 'Interested and qualified candidates should send their CV to: <a href="mailto:careers@savannahsuite.com">careers@savannahsuite.com</a> using the Job Title as the subject of the email.'
+  },
+  {
+    id: 'architect-abuja-contract-2026',
+    title: 'Architect',
+    date: '2026-06-24',
+    location: 'Abuja (FCT)',
+    type: 'Contract',
+    salary: 'Not Specified',
+    deadline: '31st July, 2026',
+    summary: 'Seeking an experienced Architect for housing development projects. Must be registered with ARCON.',
+    responsibilities: [
+      'Design and supervise residential estates and housing schemes.',
+      'Ensure compliance with building codes and sustainable design principles.',
+      'Prepare architectural drawings and construction documentation.'
+    ],
+    requirements: [
+      'Bachelor’s Degree in Architecture from a recognized institution.',
+      'Registration with the Architects Registration Council of Nigeria (ARCON) is required.',
+      'Membership of the Nigerian Institute of Architects (NIA) is highly desirable.',
+      'Minimum of 5–10 years of proven professional experience in architectural design, housing development, estate development, and construction projects.',
+      'Proficiency in architectural design software such as AutoCAD, Revit, ArchiCAD, SketchUp, Lumion, 3D Max, or similar applications.'
+    ],
+    apply: 'Interested and qualified applicants should send their Comprehensive Curriculum Vitae (CV) and Cover Letter in only one attachment (MS Word Document) explaining their suitability for the job to: <a href="mailto:architect2026@weweng.org">architect2026@weweng.org</a> using the job title as the subject of the mail.'
+  },
+  {
+    id: 'it-infrastructure-manager-lagos-2026',
+    title: 'IT Infrastructure Manager',
+    date: '2026-06-24',
+    location: 'Lagos',
+    type: 'Full-time',
+    salary: 'Not Specified',
+    deadline: 'Not Specified',
+    summary: 'Seeking an IT Infrastructure Manager with 3-5 years of experience to oversee our IT systems.',
+    responsibilities: [
+      'Manage and maintain IT infrastructure.',
+      'Ensure network security and availability.',
+      'Provide technical support and lead IT projects.'
+    ],
+    requirements: [
+      'Interested applicant(s) should possess relevant qualifications with 3 – 5 years experience.'
+    ],
+    apply: 'Interested and qualified candidates should: Click here to apply online <a href="https://docs.google.com/forms/d/e/1FAIpQLSeBt6qWA7atP7mPFCvovvWHKjdgrGXpn67jsxkTs-R5JOSEJA/viewform">https://docs.google.com/forms/d/e/1FAIpQLSeBt6qWA7atP7mPFCvovvWHKjdgrGXpn67jsxkTs-R5JOSEJA/viewform</a>'
+  },
+  {
+    id: 'pmo-engineer-hvac-lagos-2026',
+    title: 'PMO Engineer',
+    date: '2026-06-24',
+    location: 'Lagos',
+    type: 'Full-time',
+    salary: 'Not Specified',
+    deadline: '29th June, 2026',
+    summary: 'Seeking a PMO Engineer (HVAC) to support mechanical engineering projects by ensuring coordination, quality assurance, and technical compliance throughout project execution.',
+    responsibilities: [
+      'Develop project plans, schedules, and assist with progress monitoring.',
+      'Review electrical drawings and specifications for compliance.',
+      'Ensure quality assurance through inspections and testing.',
+      'Coordinate with MEPF teams to integrate electrical systems seamlessly.',
+      'Address client queries and assist in procurement activities.',
+      'Propose improvements for efficiency and compliance.'
+    ],
+    requirements: [
+      'Bachelor’s Degree in Mechanical Engineering or related fields',
+      'Minimum of 5 years in Mechanical Engineering, preferably in MEPF/building services.',
+      'COREN or equivalent membership is a plus.',
+      'Proficiency in electrical design tools (AutoCAD, Revit MEP).',
+      'Strong understanding of electrical systems and safety regulations.'
+    ],
+    apply: 'Interested and qualified candidates should send their applications and CV to: <a href="mailto:recruitment@marandmor.com">recruitment@marandmor.com</a> using the Job Title as the subject of the mail'
+  },
+  {
     id: 'hse-compliance-monitoring-officer-maitama-abuja-2026',
     title: 'HSE, Compliance and Monitoring Officer',
     date: '2026-06-23',

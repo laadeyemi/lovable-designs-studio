@@ -49,6 +49,1171 @@ const currentDate = '2026-06-23'; // Current date for comparison (June 23, 2026)
 
 const allJobs: Job[] = [
   {
+    id: 'customer-service-representative-uhy-lagos-2026',
+    title: 'Customer Service Representative',
+    company: 'UHY Professional Services',
+    date: '2026-06-24',
+    location: 'Lagos',
+    type: 'Full-time',
+    salary: 'Not Specified',
+    deadline: 'Not Specified',
+    summary: 'Seeking a customer service representative with good communication skills to attend to customers politely and efficiently.',
+    responsibilities: [
+      'Attend to customers politely and efficiently.',
+      'Handle customer inquiries and provide support.',
+      'Maintain basic records.'
+    ],
+    requirements: [
+      'Good communication and interpersonal skills.',
+      'Ability to attend to customers politely and efficiently.',
+      'Basic record-keeping or organizational skills.',
+      'Trustworthy and responsible.'
+    ],
+    apply: 'Send CV to: <a href="https://www.linkedin.com/posts/customer-service-representative-at-uhy-professional-share-7475205581050507264-BB9Y/?highlightedUpdateUrn=urn%3Ali%3Aactivity%3A7475205582023634944&origin=SOCIAL_SHARE&utm_source=social_share_send&utm_medium=android_app&rcm=ACoAACPHBx0BHmGab-2p0eXSsrJoEBNjxX36QJQ&utm_campaign=copy_link">Click here to apply online</a>'
+  },
+  {
+    id: 'pharmacist-in-charge-skyzar-osogbo-2026',
+    title: 'Pharmacist-in-Charge',
+    company: 'SKYZAR Pharmacy',
+    date: '2026-06-24',
+    location: 'Osogbo, Osun State',
+    type: 'Full-time',
+    salary: '₦280,000 Monthly + ₦10,000 Monthly Allowance',
+    deadline: 'Not Specified',
+    summary: 'Seeking a qualified and experienced Pharmacist-in-Charge to oversee pharmacy operations and ensure compliance with professional standards.',
+    responsibilities: [
+      'Oversee pharmacy operations and ensure compliance with professional standards.',
+      'Deliver excellent pharmaceutical care and customer service.'
+    ],
+    requirements: [
+      'Must be a licensed Pharmacist with relevant professional qualifications.',
+      'Strong leadership, management, and communication skills.',
+      'Ability to oversee pharmacy operations and ensure compliance with professional standards.',
+      'Commitment to delivering excellent pharmaceutical care and customer service.'
+    ],
+    apply: 'Interested and qualified candidates should send their CV to: <a href="mailto:skyzarpharmacy001@gmail.com">skyzarpharmacy001@gmail.com</a>. For enquiries, contact: 08102393596'
+  },
+  {
+    id: 'processing-supervisor-dairy-jos-2026',
+    title: 'Processing Supervisor',
+    company: 'Dairy Manufacturing Company',
+    date: '2026-06-24',
+    location: 'Jos, Plateau State',
+    type: 'Full-time',
+    salary: 'Not Specified',
+    deadline: 'Not Specified',
+    summary: 'Seeking a qualified and experienced Processing Supervisor to oversee processing operations and ensure efficient production while maintaining the highest quality and food safety standards.',
+    responsibilities: [
+      'Oversee processing operations.',
+      'Ensure efficient production.',
+      'Maintain quality and food safety standards.'
+    ],
+    requirements: [
+      'Minimum of 2 years’ experience in an FMCG manufacturing environment.',
+      'HND/B.Sc. in Food Science, Microbiology, Biochemistry, Engineering, or a related field.',
+      'Strong leadership, communication, and problem-solving skills.',
+      'Knowledge of GMP, HACCP, and food safety standards.',
+      'Experience in the dairy industry will be an added advantage.',
+      'Only candidates currently residing in Jos and its environs or those willing to relocate to Jos should apply.'
+    ],
+    apply: 'Interested candidates should send their CV to <a href="mailto:recruitment@idlgroup.com.ng">recruitment@idlgroup.com.ng</a> with the subject line "Processing Supervisor".'
+  },
+  {
+    id: 'warehouse-manager-vgc-ikota-2026',
+    title: 'Warehouse Manager',
+    date: '2026-06-24',
+    location: 'VGC, Ikota – Lagos',
+    type: 'Full-time',
+    salary: '₦250,000',
+    deadline: 'Not Specified',
+    company: 'Luxury Hotel',
+    summary: 'Seeking an organized, detail-oriented, and proactive Warehouse Manager to manage the hotel’s inventory and supply chain, ensuring efficient storage, timely distribution, and accurate tracking of all goods.',
+    responsibilities: [
+      'Oversee daily warehouse operations including receiving, storing, picking, dispatching, and distributing supplies.',
+      'Conduct regular stock counts, inventory audits, and cycle counts.',
+      'Manage inventory levels, reorder points, and supplier deliveries.',
+      'Implement and enforce strict controls for stock rotation (FIFO), quality checks, and proper storage conditions.',
+      'Evaluate and improve warehouse processes, layout, safety standards, and documentation systems.',
+      'Review and verify goods received notes, delivery documents, supplier invoices, and issue reports.',
+      'Identify inefficiencies, potential theft risks, damages, or wastage.',
+      'Collaborate with Procurement, Finance, Food & Beverage, and other departments.',
+      'Prepare detailed inventory reports and stock movement analysis.',
+      'Monitor compliance with health & safety standards and food safety regulations.',
+      'Support external audits and regulatory inspections.',
+      'Stay updated on best practices in warehouse management.',
+      'Track warehouse performance metrics.'
+    ],
+    requirements: [
+      'Minimum of 3–5 years’ experience in warehouse management, inventory control, or logistics, preferably in hospitality, hotels, restaurants, or service industries.',
+      'Bachelor’s degree in Logistics, Supply Chain Management, Business Administration, Accounting, or a related field (professional certifications such as CIPS or relevant logistics certifications are an advantage).',
+      'Strong knowledge of inventory management principles and stock control systems.',
+      'Proficiency in Microsoft Office (especially Excel), inventory/warehouse management software, and basic data analysis tools.',
+      'Excellent organizational, problem-solving, and attention-to-detail skills.',
+      'Strong communication and report-writing skills.',
+      'Ability to work independently and lead a small team.',
+      'Experience in a fast-paced environment.',
+      'Must reside on the Island.'
+    ],
+    apply: 'Send your CV to: <a href="mailto:hrm@wellbornhotels.com">hrm@wellbornhotels.com</a> or WhatsApp 08118236959'
+  },
+  {
+    id: 'relationship-officers-omniretail-lagos-2026-v2',
+    title: 'Relationship Officers (RO)',
+    date: '2026-06-24',
+    location: 'Festac, Ojo, Satelite Town, Tradefare',
+    type: 'Full-time',
+    company: 'Omniretail',
+    salary: 'Salary + Conveyance Allowance + Performance Incentives',
+    deadline: 'Not Specified',
+    summary: 'We are looking for energetic and target-driven Relationship Officers to drive merchant onboarding and product adoption across assigned locations.',
+    responsibilities: [
+      'Drive merchant onboarding and product adoption.',
+      'Build and maintain relationships with merchants.',
+      'Achieve sales and onboarding targets.'
+    ],
+    requirements: [
+      'OND / HND / B.Sc. in any discipline.',
+      'Experience in sales, field marketing, agency banking, or financial services is an added advantage.',
+      'Strong communication and negotiation skills.',
+      'Ability to work in a target-driven environment.'
+    ],
+    apply: 'Interested candidates should send their CV with location to: <a href="mailto:careers@omniretail.africa">careers@omniretail.africa</a>'
+  },
+  {
+    id: 'marketing-officer-commercial-bank-lagos-2026',
+    title: 'Marketing Officer',
+    date: '2026-06-24',
+    location: 'Apapa, Ilupeju & Yaba',
+    type: 'Full-Time',
+    company: 'Commercial Bank',
+    salary: '₦199,000 net',
+    deadline: 'Not Specified',
+    summary: 'Develop and implement marketing strategies to drive business growth, acquire new customers, and promote the company’s products and services.',
+    responsibilities: [
+      'Develop and implement marketing strategies to drive business growth.',
+      'Identify and acquire new customers.',
+      'Promote the company’s products and services to prospective clients.',
+      'Build and maintain strong client relationships.',
+      'Conduct market research and competitor analysis.',
+      'Achieve assigned sales and business development targets.',
+      'Prepare and submit periodic marketing reports.'
+    ],
+    requirements: [
+      'Bachelor’s degree/HND in Marketing, Business Administration, or a related field.',
+      'Upper or Lower Credit.',
+      'Proven experience in marketing, sales, or business development.',
+      'Strong communication and negotiation skills.',
+      'Ability to work independently and meet targets.',
+      'Good knowledge of customer relationship management.'
+    ],
+    apply: 'Interested and qualified candidates should fill the form: <a href="https://forms.gle/3nxqp3b2r3co5pMh9">Click here to apply</a>'
+  },
+  {
+    id: 'agric-loan-officer-ogun-2026',
+    title: 'Agric Loan Officer',
+    date: '2026-06-24',
+    location: 'Oju-Ore | Mowe | Sango-Ota',
+    type: 'Full-time',
+    salary: 'Not Specified',
+    deadline: 'Not Specified',
+    summary: 'Recruiting experienced and result-driven professionals for the role of Agric Loan Officer with a focus on agricultural lending.',
+    responsibilities: [
+      'Loan sourcing, appraisal, disbursement, and monitoring.',
+      'Loan portfolio management and customer relationship management.',
+      'Loan recovery and collections management.',
+      'Identify viable agribusiness opportunities and onboard quality clients.'
+    ],
+    requirements: [
+      'Minimum of 2–3 years relevant experience in a Microfinance Bank, Commercial Bank, or Financial Institution with focus on Agricultural Lending.',
+      'Proven experience in agricultural loan sourcing, appraisal, disbursement, and monitoring.',
+      'Strong understanding of agricultural value chain financing including crop production, livestock, agribusiness, and SME lending.',
+      'Hands-on experience in loan portfolio management and customer relationship management.',
+      'Proven track record in loan recovery and collections management.',
+      'Good understanding of credit analysis, risk assessment, and financial evaluation.',
+      'Excellent communication, negotiation, and relationship management skills.',
+      'Must be target-driven with strong analytical and problem-solving abilities.'
+    ],
+    apply: 'Qualified candidates should send their CV/Application to <a href="mailto:Dect.recruitment@gmail.com">Dect.recruitment@gmail.com</a>'
+  },
+  {
+    id: 'tax-officer-microfinance-lagos-2026',
+    title: 'Tax Officer',
+    date: '2026-06-24',
+    location: 'Lagos Mainland',
+    type: 'Full-time',
+    company: 'Microfinance',
+    salary: '₦300,000 - ₦350,000',
+    deadline: 'Not Specified',
+    summary: 'Seeking a Tax Officer to handle tax and insurance-related transactions, reconciliations, and statutory remittances.',
+    responsibilities: [
+      'Processing of payment vouchers for tax and Insurance related transactions.',
+      'Reconciliation of all internal GL accounts relating to tax and Insurance.',
+      'Statutory remittances of tax-WHT, Development levy, PAYE etc within the statutory period.',
+      'Calculation of monthly premium due to the Insurance companies.',
+      'Promptly reporting of insurance claims to the Insurance companies with proper follow-up until the claims are paid.',
+      'Attends to inquires from the Insurance companies on the claims submitted by liaising with the branches.',
+      'Timely procurement of tax receipts and other tax documents from relevant tax authorities.',
+      'Attends to tax queries from tax authorities under the supervision of the Head of Tax and Insurance.',
+      'Filling of annual tax returns.',
+      'Practical experience in interacting with state and federal tax authorities.'
+    ],
+    requirements: [
+      'Must have 3- 5 years’ experience in an audit firm or tax department in an organization would be an added advantage.',
+      'Minimum of BSc. /HND in accounting or finance from a reputable institution.',
+      'Professional qualification is an added advantage.',
+      'Proficiency in the use of Microsoft office tools – word, Excel, and power point.',
+      'Good understanding of new tax law and accounting standards.'
+    ],
+    apply: 'Qualified Candidates should send their applications to <a href="mailto:Dect.recruitment@gmail.com">Dect.recruitment@gmail.com</a>'
+  },
+  {
+    id: 'general-manager-boutique-hotel-lagos-2026-v2',
+    title: 'General Manager',
+    date: '2026-06-24',
+    location: 'Lagos, Nigeria',
+    type: 'Full-time',
+    company: 'Five-star boutique hotel',
+    salary: '₦800,000 – ₦1,500,000 net monthly',
+    deadline: 'Not Specified',
+    summary: 'A distinctive five-star boutique hotel and lifestyle destination located in Lagos, Nigeria is seeking an exceptional General Manager to lead the property and define its place in Lagos’s luxury hospitality market.',
+    responsibilities: [
+      'Serve as the face of the brand: the standard-bearer for service excellence.',
+      'Act as the commercial engine behind revenue growth.',
+      'Lead and inspire a high-performing team.'
+    ],
+    requirements: [
+      'An entrepreneurial mindset with strong business development instincts and the drive to build and grow a brand.',
+      'Mandatory hospitality experience at senior level, with a proven track record of operational and commercial success.',
+      'International exposure — experience working with expatriates and within boutique and/or chain hotel environments.',
+      'Strong marketing and brand-building capability across digital, direct, and partnership channels.',
+      'Minimum 7–10 years’ hospitality experience, including leadership roles within luxury hotels, boutique hotels, or international hotel chains.'
+    ],
+    apply: 'Interested candidates who meet the requirements can apply here: <a href="https://forms.gle/43YUyqT2CTXF7M4D9">https://forms.gle/43YUyqT2CTXF7M4D9</a>'
+  },
+  {
+    id: 'restaurant-supervisor-cashier-lekki-2026',
+    title: 'Supervisor / Cashier',
+    date: '2026-06-24',
+    location: 'Ikota, Lekki',
+    type: 'Full-time',
+    company: 'Restaurant',
+    salary: 'Supervisor: ₦80,000, Cashier: ₦70,000',
+    deadline: 'Not Specified',
+    summary: 'A restaurant located in Ikota, Lekki is currently hiring for Supervisor and Cashier positions.',
+    responsibilities: [
+      'Supervise restaurant operations (Supervisor).',
+      'Handle customer transactions (Cashier).',
+      'Ensure excellent customer service.'
+    ],
+    requirements: [
+      'Previous restaurant or customer service experience is an added advantage.',
+      'Good communication and interpersonal skills.',
+      'Ability to work in a fast-paced environment.',
+      'Must be reliable and ready to resume immediately.',
+      'Accommodation available for Supervisor role.'
+    ],
+    apply: 'Interested candidates should send their CV/Application to <a href="https://forms.gle/KH1Ra2qrKcSAZc257">https://forms.gle/KH1Ra2qrKcSAZc257</a>'
+  },
+  {
+    id: 'sales-bd-executive-renewable-energy-lekki-2026',
+    title: 'Sales & Business Development Executive (Renewable Energy & Power)',
+    date: '2026-06-24',
+    location: 'Marwa, Lekki, Lagos (Onsite)',
+    type: 'Full-time',
+    salary: '₦350,000',
+    deadline: 'Not Specified',
+    summary: 'Seeking a results-driven Sales & Business Development Executive to drive revenue growth and expand client base across corporate and high-net-worth segments.',
+    responsibilities: [
+      'Identify, engage, and close deals with corporate clients and high-net-worth individuals.',
+      'Develop and deliver persuasive proposals and presentations on energy solutions.',
+      'Drive business growth through strategic sales and marketing initiatives.',
+      'Prospect and acquire new clients through direct outreach and networking.',
+      'Build and maintain strong relationships with existing clients to ensure retention.',
+      'Promote and sell renewable energy and power solutions tailored to client needs.',
+      'Identify upsell opportunities and recommend additional products/services.',
+      'Prepare business proposals, contracts, and other commercial documentation.'
+    ],
+    requirements: [
+      'Proven experience in sales/business development, preferably in renewable energy, power, or related sectors.',
+      'Strong track record of closing high-value deals.',
+      'Excellent communication, negotiation, and presentation skills.',
+      'Ability to develop and execute sales strategies independently.',
+      'Strong networking and relationship management skills.'
+    ],
+    apply: 'Interested candidates should send their CV to <a href="mailto:ifeoluwa.recruit1@gmail.com">ifeoluwa.recruit1@gmail.com</a> with the subject “Sales & BD Executive – Renewable Energy”.'
+  },
+  {
+    id: 'lathe-machine-operator-ota-ogun-2026',
+    title: 'Lathe Machine Operator',
+    date: '2026-06-24',
+    location: 'Ota, Ogun State',
+    type: 'Full-Time',
+    salary: '₦200,000 – ₦250,000 per month',
+    deadline: 'Not Specified',
+    summary: 'Seeking a skilled Lathe Machine Operator to operate conventional and/or CNC lathe machines for the production, modification, and repair of precision components.',
+    responsibilities: [
+      'Set up, operate, and monitor lathe machines to manufacture precision-engineered components.',
+      'Interpret engineering drawings, blueprints, and technical specifications.',
+      'Select and install appropriate cutting tools, chucks, fixtures, and machine attachments.',
+      'Perform turning, boring, threading, facing, drilling, and other machining operations.',
+      'Measure and inspect finished parts using precision measuring instruments.',
+      'Adjust machine settings, cutting speeds, and feed rates.',
+      'Conduct routine machine maintenance and report equipment faults.',
+      'Ensure compliance with workplace safety regulations.',
+      'Maintain accurate production records and inspection reports.',
+      'Collaborate with maintenance, quality control, and production teams.'
+    ],
+    requirements: [
+      'OND, Trade Test Certificate, Technical Certificate, or equivalent qualification in Mechanical Engineering, Machining, or a related field.',
+      'Minimum of 2–4 years of experience operating lathe machines in a manufacturing or engineering environment.',
+      'Ability to read and interpret engineering drawings and technical documents.',
+      'Proficiency in using precision measuring tools and inspection equipment.',
+      'Knowledge of machining processes, cutting tools, and metalworking techniques.',
+      'Strong attention to detail and commitment to quality.',
+      'Good problem-solving and troubleshooting skills.',
+      'Experience with CNC lathe operations is an added advantage.'
+    ],
+    apply: 'Interested candidates should send their CV to <a href="mailto:cv@ascentech.com">cv@ascentech.com</a> with “Lathe Machine Operator – 14” as the subject.'
+  },
+  {
+    id: 'enterprise-growth-associate-remote-2026',
+    title: 'Enterprise Growth Associate',
+    date: '2026-06-24',
+    location: 'Remote',
+    type: 'Full-time',
+    company: 'Fluff & Stars',
+    salary: '15% commission on every closed deal',
+    deadline: 'Not Specified',
+    summary: 'A performance-based opportunity for a commercially driven professional who can identify opportunities, open doors, build strategic relationships, and close recruitment and outsourcing deals.',
+    responsibilities: [
+      'Generate qualified business leads.',
+      'Identify recruitment and outsourcing opportunities.',
+      'Build relationships with founders, executives, and decision-makers.',
+      'Present our hiring and workforce solutions confidently.',
+      'Negotiate and close deals.',
+      'Drive consistent revenue growth for the company.'
+    ],
+    requirements: [
+      'Proven experience in sales or business development.',
+      'Strong negotiation and communication skills.',
+      'Self-motivated and target-driven.'
+    ],
+    apply: 'Email your resume to <a href="mailto:careers@fluffandstars.com">careers@fluffandstars.com</a> using “Enterprise Growth Associate” as the subject.'
+  },
+  {
+    id: 'social-media-manager-lekki-ascentech-2026',
+    title: 'Social Media Manager',
+    date: '2026-06-24',
+    location: 'Lekki, Lagos State',
+    type: 'Full-Time',
+    salary: '₦122,000 and Above (Based on Experience)',
+    deadline: 'Not Specified',
+    summary: 'Seeking a creative and results-driven Social Media Manager to oversee our online presence across various social media platforms.',
+    responsibilities: [
+      'Manage and maintain the company’s social media accounts.',
+      'Create, schedule, and publish engaging content.',
+      'Develop and execute social media strategies.',
+      'Respond promptly to customer inquiries, comments, and messages.',
+      'Monitor social media trends and competitor activities.',
+      'Track and analyse social media performance metrics.',
+      'Collaborate with internal teams to promote products and initiatives.',
+      'Build and maintain an active online community.'
+    ],
+    requirements: [
+      'Bachelor’s Degree or HND in Marketing, Mass Communication, Business Administration, or a related field.',
+      'Proven experience in social media management, digital marketing, or a similar role.',
+      'Strong understanding of major social media platforms.',
+      'Experience with content creation tools such as Canva, Adobe Creative Suite.',
+      'Excellent written and verbal communication skills.',
+      'Knowledge of social media analytics and performance tracking tools.',
+      'Creative mindset with strong attention to detail.'
+    ],
+    apply: 'Qualified candidates should send their CVs to <a href="mailto:cv@ascentech.com.ng">cv@ascentech.com.ng</a> using “SOCIAL MEDIA 17” as the subject.'
+  },
+  {
+    id: 'finance-operations-associate-falcon-aerospace-2026',
+    title: 'Finance Operations Associate',
+    date: '2026-06-24',
+    location: 'Lagos, Nigeria',
+    type: 'Full-time',
+    company: 'Falcon Aerospace',
+    salary: 'Not Specified',
+    deadline: 'Not Specified',
+    summary: 'Join our team and play a key role in managing financial records, vendor coordination, and operational support in a dynamic aviation environment.',
+    responsibilities: [
+      'Maintain financial records, invoices, expenses, and reconciliations.',
+      'Support financial reporting and budget tracking.',
+      'Manage vendor relationships.',
+      'Coordinate travel bookings and office administration.',
+      'Ensure compliance with company policies and procedures.'
+    ],
+    requirements: [
+      'BSc/HND in Accounting, Finance, Business Administration, Economics, or related field.',
+      '1–4 years’ experience in Accounts, Finance, or combined accounts roles.',
+      'Strong bookkeeping and reconciliation skills.',
+      'Proficiency in Microsoft Excel (Sage/SAP experience is an advantage).',
+      'Detail-oriented, organized, and proactive.'
+    ],
+    apply: 'To Apply: <a href="https://bit.ly/FalFOA">https://bit.ly/FalFOA</a>'
+  },
+  {
+    id: 'legal-intern-ikeja-2026',
+    title: 'Legal Intern',
+    date: '2026-06-24',
+    location: 'Ikeja, Lagos',
+    type: 'Internship',
+    salary: '₦150,000 Gross Monthly',
+    deadline: 'Not Specified',
+    summary: 'Seeking an LLB degree holder who recently completed NYSC for a legal internship with retention prospects after 6 months.',
+    responsibilities: [
+      'Assist with legal research and documentation.',
+      'Support the legal team in various tasks.',
+      'Gain practical experience in a legal environment.'
+    ],
+    requirements: [
+      'Hold an LLB degree.',
+      'Recently completed NYSC.',
+      'Seeking a legal internship with retention prospects.'
+    ],
+    apply: 'Apply here: <a href="https://estradaintl-3.careers-page.com/jobs/5f143ff9-526a-465e-b09e-399ad57b0aaa">https://estradaintl-3.careers-page.com/jobs/5f143ff9-526a-465e-b09e-399ad57b0aaa</a>'
+  },
+  {
+    id: 'implementation-officer-moniepoint-benue-2026',
+    title: 'Implementation Officer',
+    date: '2026-06-24',
+    location: 'Benue, Nigeria',
+    type: 'Full-time',
+    company: 'Moniepoint',
+    salary: 'Not Specified',
+    deadline: 'Not Specified',
+    summary: 'Seeking an Implementation Officer to manage customer onboarding, drive product adoption, and provide training for software platforms.',
+    responsibilities: [
+      'Onboard customers to software platforms.',
+      'Drive product adoption.',
+      'Train diverse audiences.',
+      'Diagnose customer challenges and recommend solutions.'
+    ],
+    requirements: [
+      '2-4 years of experience in customer onboarding, customer success, implementation, or account management roles (preferably in SaaS, retail technology, or POS systems).',
+      'Proven track record of successfully onboarding customers to software platforms and driving product adoption.',
+      'Excellent communication and presentation skills.',
+      'Strong problem-solving and analytical skills.',
+      'Customer-first mindset.',
+      'Highly organised and detail-oriented.',
+      'Self-motivated, proactive, and adaptable.',
+      'Technical aptitude and comfort with software tools.',
+      'Bachelor’s degree in Business, Technology, Communication, or related field (or equivalent work experience).'
+    ],
+    apply: 'Apply here: <a href="https://job-boards.eu.greenhouse.io/moniepoint/jobs/4833524101?gh_src=d2799b12teu">https://job-boards.eu.greenhouse.io/moniepoint/jobs/4833524101?gh_src=d2799b12teu</a>'
+  },
+  {
+    id: 'executive-assistant-ikoyi-2026',
+    title: 'Executive Assistant',
+    date: '2026-06-24',
+    location: 'Ikoyi, Lagos',
+    type: 'Full-time',
+    salary: '₦300,000 – ₦350,000',
+    deadline: 'Not Specified',
+    summary: 'Seeking an Executive Assistant with 3+ years post-NYSC experience to support senior management in Ikoyi.',
+    responsibilities: [
+      'Manage schedules and correspondence.',
+      'Coordinate meetings and travel.',
+      'Handle confidential information.'
+    ],
+    requirements: [
+      '3+ years post-NYSC experience (EA/PA or similar).',
+      'Strong communication & organization skills.',
+      'Proficient in MS Office.',
+      'Ability to multitask & maintain confidentiality.',
+      'Lagos Island proximity preferred.'
+    ],
+    apply: 'Apply here: <a href="https://lnkd.in/eWDgmqZV">https://lnkd.in/eWDgmqZV</a>'
+  },
+  {
+    id: 'public-health-officer-lagos-2026',
+    title: 'Public Health Officer',
+    date: '2026-06-24',
+    location: 'Lagos state',
+    type: 'Full-time',
+    salary: '₦150,000 - ₦250,000',
+    deadline: 'Not Specified',
+    summary: 'Seeking a passionate Public Health Officer to improve community health and make a positive impact.',
+    responsibilities: [
+      'Implement public health programs.',
+      'Conduct community health assessments.',
+      'Promote health education and awareness.'
+    ],
+    requirements: [
+      'Relevant degree in Public Health or related field.',
+      'Passion for improving community health.',
+      'Strong communication and interpersonal skills.'
+    ],
+    apply: 'If you are passionate about improving community health and making a positive impact, we encourage you to apply today – <a href="mailto:hr.bomenadvisory@gmail.com">hr.bomenadvisory@gmail.com</a>'
+  },
+  {
+    id: 'finance-analyst-undp-benin-city-2026',
+    title: 'Finance Analyst',
+    date: '2026-06-24',
+    location: 'Benin City, Edo State',
+    type: 'Full-time',
+    company: 'UNDP',
+    salary: 'Not Specified',
+    deadline: '2026-06-24',
+    summary: 'UNDP is hiring a Finance Analyst in Benin City, Edo State.',
+    responsibilities: [
+      'Provide financial analysis and support.',
+      'Ensure compliance with financial regulations.',
+      'Prepare financial reports.'
+    ],
+    requirements: [
+      'Relevant degree and experience in finance or accounting.'
+    ],
+    apply: 'Apply here: <a href="https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34910">https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/34910</a>'
+  },
+  {
+    id: 'brand-management-intern-detail-avedia-2026',
+    title: 'Brand Management Intern',
+    date: '2026-06-24',
+    location: 'Lagos',
+    type: 'Internship',
+    company: 'Detail and Avedia Consulting',
+    salary: 'Not Specified',
+    deadline: 'Not Specified',
+    summary: 'Seeking a Brand Management Intern who has completed NYSC to support marketing and brand initiatives.',
+    responsibilities: [
+      'Assist with brand campaigns.',
+      'Support project coordination.',
+      'Contribute to marketing strategies.'
+    ],
+    requirements: [
+      'Bachelor’s Degree in Marketing, Mass Communication, Business Administration, or a related field.',
+      'Must have completed NYSC.',
+      'Strong organizational and project coordination skills.',
+      'Excellent written and verbal communication skills.',
+      'Proficiency in Microsoft Office Suite (Word, Excel, and PowerPoint).',
+      'Ability to multitask and work effectively in a fast-paced environment.'
+    ],
+    apply: 'Send CV to: <a href="mailto:jobs@detailandavedia.com">jobs@detailandavedia.com</a> using the Job Title as the subject of the email.'
+  },
+  {
+    id: 'customer-service-associate-him-lily-hospitals-2026',
+    title: 'Customer Service Associate (HIM Certified)',
+    date: '2026-06-24',
+    location: 'Warri, Delta State',
+    type: 'Full-time',
+    company: 'Lily Hospitals Limited',
+    salary: 'Not Specified',
+    deadline: 'Not Specified',
+    summary: 'Seeking a Customer Service Associate with HIM Certification for a role in Warri.',
+    responsibilities: [
+      'Handle patient inquiries and provide support.',
+      'Manage health information records.',
+      'Ensure excellent customer service.'
+    ],
+    requirements: [
+      'HIM (Health Information Management) Certification is mandatory.',
+      'Minimum of HND / Bachelor’s Degree in Business Administration, Mass Communication, Marketing, Health Information Management, or related discipline.',
+      '1–3 years relevant customer service experience.',
+      'Excellent verbal and written communication skills.',
+      'Strong interpersonal and problem-solving abilities.',
+      'Good knowledge of Microsoft Office applications.',
+      'Ability to multitask and work under pressure.',
+      'Must reside in Warri, Delta State or its environs, as accommodation will not be provided.'
+    ],
+    apply: 'Send CVs, school result, NYSC certificate, and other relevant credentials to: <a href="mailto:recruitment@lilyhospitals.net">recruitment@lilyhospitals.net</a> using the job title as the subject of the email.'
+  },
+  {
+    id: 'hse-compliance-monitoring-officer-maitama-abuja-2026-v2',
+    title: 'HSE, Compliance and Monitoring Officer',
+    date: '2026-06-24',
+    location: 'Maitama Abuja',
+    type: 'Full-time',
+    salary: 'Not Specified',
+    deadline: 'Not Specified',
+    summary: 'Seeking a proactive and detail-oriented HSE, Compliance and Monitoring Officer to drive health, safety, environmental, and compliance initiatives across the organization.',
+    responsibilities: [
+      'Monitor and report HSE incidents, workplace hazards, and compliance issues.',
+      'Develop and implement strategies to reduce workplace accidents and environmental risks.',
+      'Conduct investigations into safety incidents and recommend corrective actions.',
+      'Organize safety awareness and compliance training programs for employees.',
+      'Assess workplace risks associated with tools, equipment, and operational activities.',
+      'Review and develop company policies to ensure regulatory and operational compliance.',
+      'Maintain compliance documentation, reports, and audit records.',
+      'Implement and manage effective legal and regulatory compliance programs.',
+      'Conduct regular audits to identify risks, gaps, and process weaknesses.',
+      'Advise management on compliance obligations and risk mitigation strategies.'
+    ],
+    requirements: [
+      'Bachelors Degree in Occupational Health & Safety, Engineering, Statistics, or a related field.',
+      'Relevant HSE Certification is mandatory.',
+      'Minimum of 4 years’ experience in HSE and compliance roles within a medium to large organization.',
+      'Strong knowledge of Nigerian regulatory and compliance requirements.',
+      'Detail-oriented and result-driven mindset.'
+    ],
+    apply: 'Interested candidates should send their CV to: <a href="mailto:recruitment.ng@itmafrica.com">recruitment.ng@itmafrica.com</a>'
+  },
+  {
+    id: 'experienced-analyst-energy-mining-maritime-lagos-2026',
+    title: 'Experienced Analyst – Energy, Mining & Maritime',
+    date: '2026-06-24',
+    location: 'Lagos',
+    type: 'Full-time',
+    salary: 'Not Specified',
+    deadline: 'Not Specified',
+    summary: 'Seeking an experienced analyst with a background in tax for the energy, mining, and maritime sectors.',
+    responsibilities: [
+      'Handle tax computations (CIT, WHT, VAT, PPT/HT, PIT).',
+      'Conduct tax structuring and due diligence.',
+      'Prepare presentations and reports.'
+    ],
+    requirements: [
+      'A minimum of a Second Class (Upper) degree from an accredited university.',
+      'ICAN/ACCA certification.',
+      '3 years of tax experience in an accounting, tax, or legal firm.',
+      'A sound knowledge of CIT, WHT, VAT, PPT / HT, PIT, and other tax-related computations.',
+      'Competency in tax structuring and computations (including deferred tax), and tax due diligence.',
+      'Proficiency in Microsoft Office packages (Excel, PowerPoint, etc.).',
+      'Excellent oral, written, and presentation skills.'
+    ],
+    apply: 'Apply here: <a href="https://lnkd.in/ejc_efET">https://lnkd.in/ejc_efET</a>'
+  },
+  {
+    id: 'account-intern-nysc-allflavors-lagos-2026',
+    title: 'Account Intern (NYSC)',
+    date: '2026-06-24',
+    location: 'Lagos',
+    type: 'Internship',
+    company: 'AllFlavors Supreme Foods',
+    salary: 'Not Specified',
+    deadline: 'Not Specified',
+    summary: 'Seeking an Account Intern (NYSC) to support the finance team.',
+    responsibilities: [
+      'Assist with bookkeeping and financial records.',
+      'Support the accounts team with daily tasks.'
+    ],
+    requirements: [
+      'Must study Accounting, Finance or related discipline.',
+      'Must be posted to Lagos.',
+      'Must have basic understanding of Excel.',
+      'Must have completed 3 weeks NYSC camp.',
+      'Must be trainable.',
+      'Strong attention to detail and numerical accuracy.'
+    ],
+    apply: 'Send CV to: <a href="mailto:j.accountant@allflavors.odoo.com">j.accountant@allflavors.odoo.com</a> using “NYSC Junior Accountant” as the subject of the email.'
+  },
+  {
+    id: 'sales-representative-cosmetics-festac-2026',
+    title: 'Sales Representative',
+    date: '2026-06-24',
+    location: 'Festac, Lagos',
+    type: 'Full-time',
+    company: 'Cosmetic Store',
+    salary: '₦100,000 Monthly',
+    deadline: 'Not Specified',
+    summary: 'Seeking a Sales Representative for a cosmetic store in Festac.',
+    responsibilities: [
+      'Promote and sell company products.',
+      'Attend to customers and inquiries professionally.',
+      'Build and maintain customer relationships.',
+      'Meet and exceed sales targets.',
+      'Maintain sales records and customer data.'
+    ],
+    requirements: [
+      'Previous sales experience is an advantage.',
+      'Strong communication and customer service skills.',
+      'Ability to meet sales targets.',
+      'Reliable, proactive, and result-oriented.',
+      'Able to work in a fast-paced environment.'
+    ],
+    apply: 'Send your CV to: <a href="mailto:tocjobsltd@gmail.com">tocjobsltd@gmail.com</a> with subject: Sales Rep – Cosmetic Store'
+  },
+  {
+    id: 'video-editor-remote-2026',
+    title: 'Video Editor',
+    date: '2026-06-24',
+    location: 'Remote (Worldwide)',
+    type: 'Full-time / Part-time',
+    salary: 'Competitive pay',
+    deadline: 'Not Specified',
+    summary: 'Hiring a Video Editor for a remote position.',
+    responsibilities: [
+      'Edit video content for various platforms.'
+    ],
+    requirements: [
+      'Strong organizational skills.',
+      'Good time-management skills.'
+    ],
+    apply: 'Apply now: <a href="https://encolro.com/2026/06/21/video-editor-aimtal-remote/">https://encolro.com/2026/06/21/video-editor-aimtal-remote/</a>'
+  },
+  {
+    id: 'recruitment-officer-fresh-graduate-sunfol-2026',
+    title: 'Recruitment Officer – Fresh Graduate',
+    date: '2026-06-24',
+    location: 'Lagos',
+    type: 'Full-time',
+    company: 'Sunfol Educational Consultancy Limited',
+    salary: 'Not Specified',
+    deadline: 'Not Specified',
+    summary: 'Seeking a fresh graduate for a Recruitment Officer role at an educational consultancy.',
+    responsibilities: [
+      'Assist with recruitment processes.',
+      'Handle administrative tasks related to recruitment.',
+      'Engage with candidates and clients.'
+    ],
+    requirements: [
+      'Undergraduate degree or able to demonstrate the level of key skills required at degree level – essential.',
+      'Considerable experience in a customer facing role – essential.',
+      'Experience in an administrative role – essential.',
+      'Experience of working in international education – desirable.',
+      'Marketing experience – desirable.',
+      'Excellent verbal and written communication skills – essential.',
+      'Proficient in basic use of Microsoft Office suite – essential.',
+      'Knowledge of basic marketing principles – desirable.',
+      'Knowledge of international higher education – desirable.'
+    ],
+    apply: 'Send CV to: <a href="mailto:Sunday@sunfolconsult.com">Sunday@sunfolconsult.com</a> using the position as subject of email.'
+  },
+  {
+    id: 'remote-video-editor-short-long-form-2026',
+    title: 'Remote Video Editor (Short-form & Long-form Content)',
+    date: '2026-06-24',
+    location: 'Remote',
+    type: 'Full-Time / Part-Time',
+    salary: 'Competitive Base Salary + Performance Bonuses',
+    deadline: 'Not Specified',
+    summary: 'Seeking a highly skilled and creative Video Editor to join a remote team, creating engaging, high-retention content across multiple social media platforms.',
+    responsibilities: [
+      'Edit short-form content for TikTok, Instagram Reels, YouTube Shorts, and Facebook.',
+      'Edit long-form YouTube and social media content.',
+      'Create engaging edits that maximize viewer retention and watch time.',
+      'Edit talking-head videos with strong pacing, captions, transitions, and visual enhancements.',
+      'Edit Meta Glasses (first-person perspective) content.',
+      'Blur faces and sensitive information when required.',
+      'Work with content in foreign languages (language proficiency is not required).',
+      'Collaborate with the content creator to achieve content and growth objectives.',
+      'Deliver projects within agreed deadlines.'
+    ],
+    requirements: [
+      'Proven experience creating viral or high-performing social media content.',
+      'Strong understanding of content trends across TikTok, Instagram, YouTube, and Facebook.',
+      'Proficiency in Adobe Premiere Pro and After Effects.',
+      'Knowledge of Capcut.',
+      'Ability to edit both short-form and long-form content professionally.',
+      'Strong attention to detail and storytelling skills.',
+      'Results-oriented mindset.',
+      'Ability to work independently and meet deadlines.'
+    ],
+    apply: 'Apply here: <a href="https://forms.gle/TdU2bXTY41m21L4H8">https://forms.gle/TdU2bXTY41m21L4H8</a>'
+  },
+  {
+    id: 'sales-closer-ada-george-ph-2026',
+    title: 'Sales Closer',
+    date: '2026-06-24',
+    location: 'Ada George, Port Harcourt',
+    type: 'Full-time',
+    salary: '₦100,000 Monthly',
+    deadline: 'Open Until Filled',
+    summary: 'Seeking a results-driven Sales Closer to join a growing team in Port Harcourt.',
+    responsibilities: [
+      'Follow up on assigned leads.',
+      'Convert prospects into customers.',
+      'Achieve sales targets and KPIs.',
+      'Maintain accurate customer records.',
+      'Build and nurture client relationships.',
+      'Submit regular sales reports and updates.'
+    ],
+    requirements: [
+      'Excellent communication and negotiation skills.',
+      'Strong sales closing and follow-up abilities.',
+      'Target-driven and self-motivated.',
+      'Good customer relationship management skills.',
+      'Must reside in Port Harcourt.'
+    ],
+    apply: 'Send your CV to: <a href="mailto:peacesommetvine@gmail.com">peacesommetvine@gmail.com</a>'
+  },
+  {
+    id: 'administrative-officer-felton-energy-lekki-2026',
+    title: 'Administrative Officer',
+    date: '2026-06-24',
+    location: 'Lekki, Lagos, Nigeria',
+    type: 'Full-Time',
+    company: 'Felton Energy Services Ltd',
+    salary: 'Not Specified',
+    deadline: 'Not Specified',
+    summary: 'Seeking an Administrative Officer to manage and support daily office operations.',
+    responsibilities: [
+      'Manage day-to-day office operations and administrative activities.',
+      'Maintain accurate records, files, and documentation (physical and digital).',
+      'Coordinate meetings, schedules, and internal communications.',
+      'Support procurement of office supplies and inventory management.',
+      'Liaise with vendors, service providers, and internal teams.',
+      'Assist with reporting, correspondence, and administrative documentation.',
+      'Ensure compliance with company policies and operational procedures.'
+    ],
+    requirements: [
+      '2–4 years experience in an administrative or office support role.',
+      'Bachelor’s degree in Business Administration, Management, or related field.',
+      'Strong organizational, multitasking, and time management skills.',
+      'Proficiency in Microsoft Office (Word, Excel, Outlook, PowerPoint).',
+      'Excellent communication and interpersonal skills.',
+      'Ability to work independently and maintain confidentiality.'
+    ],
+    apply: 'Send your CV to <a href="mailto:wendy@feltonenergy.net">wendy@feltonenergy.net</a> with subject: Admin Officer – Lagos'
+  },
+  {
+    id: 'hr-admin-officer-badagry-hospitality-2026',
+    title: 'HR / Admin Officer',
+    date: '2026-06-24',
+    location: 'Badagry, Lagos, Nigeria',
+    type: 'Full-time',
+    company: 'Hospitality',
+    salary: 'Competitive & experienced based + allowances and other statutory benefits',
+    deadline: 'Not Specified',
+    summary: 'Seeking an HR/Admin Officer for a hospitality role in Badagry.',
+    responsibilities: [
+      'Handle HR and administrative duties.',
+      'Support recruitment, onboarding, and employee relations.',
+      'Manage office operations.'
+    ],
+    requirements: [
+      '3-5 years of experience in HR/Admin.',
+      'Experience in the hospitality industry is a plus.'
+    ],
+    apply: 'Apply via: <a href="https://forms.gle/4aDnQNjC2x1E8JDA7">https://forms.gle/4aDnQNjC2x1E8JDA7</a>'
+  },
+  {
+    id: 'account-officer-nysc-ayobo-2026',
+    title: 'Account Officer (Corp Member / NYSC)',
+    date: '2026-06-24',
+    location: 'Ayobo, Iyana-Ipaja, Lagos State',
+    type: 'Full-time & Onsite (NYSC Primary Assignment)',
+    salary: '₦70,000',
+    deadline: 'Not Specified',
+    summary: 'Seeking a currently serving NYSC Corp Member for an Account Officer role.',
+    responsibilities: [
+      'Post and process daily financial transactions, expenses, and revenues.',
+      'Assist in basic bookkeeping, and managing petty cash disbursements.',
+      'Reconcile bank statements, sales ledgers, and inventory accounts accurately.',
+      'Prepare daily, weekly and monthly financial reports.'
+    ],
+    requirements: [
+      'Must be a currently serving NYSC Corp posted to Lagos State.',
+      'Must have BSc or HND in Accounting & Finance Only.',
+      'Skills: Strong numerical skills, basic proficiency in Microsoft Excel, high attention to detail, and absolute financial integrity.',
+      'Schedule Commitment: Must be fully available to work the required hours, including Saturdays.',
+      'Candidates living within close proximity are highly encouraged to apply.'
+    ],
+    apply: 'Qualified Corp Members should send their updated CV alongside a copy of their NYSC Posting Letter to: <a href="mailto:Beuxmarkethub@gmail.com">Beuxmarkethub@gmail.com</a>'
+  },
+  {
+    id: 'marketing-manager-contract-ikeja-2026',
+    title: 'Marketing Manager',
+    date: '2026-06-24',
+    location: 'Ikeja Lagos',
+    type: '4 Months Contract (Product Launching)',
+    salary: '₦500,000 – ₦700,000 NGN per Month',
+    deadline: 'Not Specified',
+    summary: 'Seeking an experienced marketer to lead the launch of our products and take them from release to real active users.',
+    responsibilities: [
+      'Own the go-to-market and launch plan for our flagship product and execute it end to end.',
+      'Take products through closed testing, open beta, and full public launch.',
+      'Drive real user acquisition and activation.',
+      'Run the channels that fit each product: content, social, paid, partnerships, community.',
+      'Work closely with our development and internal teams to line launches up with release readiness.'
+    ],
+    requirements: [
+      'A track record of taking products or campaigns to market, ideally in tech, startup, or a fast-moving environment.',
+      'Someone who can comfortably own execution without a big team.',
+      'Strong grasp of digital channels and performance/growth marketing.',
+      'Self-directed and outcome-focused.',
+      'BSC/HND in business administration, marketing or related field.',
+      '6 years experience in marketing (Mid-senior to Senior level).'
+    ],
+    apply: 'To Apply: Send your applications to <a href="mailto:recruitment@poweredupcon.com">recruitment@poweredupcon.com</a> with the subject “Marketing Manager”.'
+  },
+  {
+    id: 'pa-to-md-elbambino-surulere-2026',
+    title: 'PA to MD/CEO',
+    date: '2026-06-24',
+    location: 'Surulere, Lagos',
+    type: 'Full-time',
+    company: 'Elbambino Unique Collections',
+    salary: 'Not Specified',
+    deadline: '2026-06-30',
+    summary: 'Seeking a Personal Assistant to the MD/CEO.',
+    responsibilities: [
+      'Manage schedules, correspondence, and administrative tasks for the MD/CEO.'
+    ],
+    requirements: [
+      'B.Sc./HND',
+      'At least 1 year experience with relevant qualifications.'
+    ],
+    apply: 'Interested and qualified candidates should send their CVs to <a href="mailto:olakunleolawale2@gmail.com">olakunleolawale2@gmail.com</a>, <a href="mailto:elbambinocollections@gmail.com">elbambinocollections@gmail.com</a>'
+  },
+  {
+    id: 'sales-representative-elbambino-surulere-2026',
+    title: 'Sales Representative',
+    date: '2026-06-24',
+    location: 'Surulere, Lagos',
+    type: 'Full-time',
+    company: 'Elbambino Unique Collections',
+    salary: 'Not Specified',
+    deadline: '2026-06-30',
+    summary: 'Seeking a Sales Representative for a retail role in Surulere.',
+    responsibilities: [
+      'Attend to customers and drive sales.',
+      'Manage inventory and store appearance.'
+    ],
+    requirements: [
+      'Minimum of OND',
+      'At least 1 year experience with relevant qualifications.'
+    ],
+    apply: 'Interested and qualified candidates should send their CVs to <a href="mailto:olakunleolawale2@gmail.com">olakunleolawale2@gmail.com</a>, <a href="mailto:elbambinocollections@gmail.com">elbambinocollections@gmail.com</a>'
+  },
+  {
+    id: 'online-marketer-elbambino-surulere-2026',
+    title: 'Online Marketer',
+    date: '2026-06-24',
+    location: 'Surulere, Lagos',
+    type: 'Full-time',
+    company: 'Elbambino Unique Collections',
+    salary: 'Not Specified',
+    deadline: '2026-06-30',
+    summary: 'Seeking an Online Marketer to manage digital marketing efforts.',
+    responsibilities: [
+      'Manage social media accounts.',
+      'Create and run online marketing campaigns.',
+      'Engage with online customers.'
+    ],
+    requirements: [
+      'Minimum of OND',
+      'At least 1 year experience with relevant qualifications.'
+    ],
+    apply: 'Interested and qualified candidates should send their CVs to <a href="mailto:olakunleolawale2@gmail.com">olakunleolawale2@gmail.com</a>, <a href="mailto:elbambinocollections@gmail.com">elbambinocollections@gmail.com</a>'
+  },
+  {
+    id: 'cleaner-elbambino-surulere-2026',
+    title: 'Cleaner',
+    date: '2026-06-24',
+    location: 'Surulere, Lagos',
+    type: 'Full-time',
+    company: 'Elbambino Unique Collections',
+    salary: 'Not Specified',
+    deadline: '2026-06-30',
+    summary: 'Seeking a cleaner for retail stores in Surulere.',
+    responsibilities: [
+      'Maintain cleanliness of the store premises.'
+    ],
+    requirements: [
+      'Minimum of O’level',
+      'At least 1 year experience with relevant qualifications.'
+    ],
+    apply: 'Interested and qualified candidates should send their CVs to <a href="mailto:olakunleolawale2@gmail.com">olakunleolawale2@gmail.com</a>, <a href="mailto:elbambinocollections@gmail.com">elbambinocollections@gmail.com</a>'
+  },
+  {
+    id: 'premium-trust-bank-graduate-trainee-2026',
+    title: 'Graduate Trainee Programme',
+    date: '2026-06-24',
+    location: 'Not Specified',
+    type: 'Graduate Trainee',
+    company: 'Premium Trust Bank',
+    salary: 'Not Specified',
+    deadline: 'Not Specified',
+    summary: 'Premium Trust Bank is hiring for its Graduate Trainee Programme.',
+    responsibilities: [
+      'Participate in a structured training program.',
+      'Gain experience in various banking operations.'
+    ],
+    requirements: [
+      'Zero years of experience and must have completed NYSC.',
+      'Minimum of 2:1 and not older than 24 years of age.'
+    ],
+    apply: 'Apply here: <a href="https://careers.premiumtrustbank.com/">https://careers.premiumtrustbank.com/</a>'
+  },
+  {
+    id: 'brand-customer-experience-rep-lekki-2026',
+    title: 'Brand & Customer Experience Rep (Female)',
+    date: '2026-06-24',
+    location: 'Lekki Phase 1, Lagos',
+    type: 'Full-Time',
+    salary: '₦150,000 + Performance Bonus',
+    deadline: 'Not Specified',
+    summary: 'Seeking a Brand & Customer Experience Representative for a role in Lekki Phase 1.',
+    responsibilities: [
+      'Attend to customers and process orders.',
+      'Support inventory and daily store operations.',
+      'Maintain excellent customer service standards.',
+      'Keep the store organized and business-ready.',
+      'Drive sales and customer growth.'
+    ],
+    requirements: [
+      'Minimum of 2 years’ experience in a similar role.',
+      'Proficient in Microsoft Excel.',
+      'Familiar with Instagram, TikTok, and content creation.',
+      'Strong customer service and problem-solving skills.',
+      'Must reside within Lekki Phase 1 – Chevron axis.',
+      'Female applicants only.',
+      'Immediate resumption required.'
+    ],
+    apply: 'Send your CV to: <a href="mailto:irresistiblecolourful@gmail.com">irresistiblecolourful@gmail.com</a>'
+  },
+  {
+    id: 'relationship-manager-ecobank-multiple-2026',
+    title: 'Relationship Manager',
+    date: '2026-06-24',
+    location: 'Akure & Ore (Ondo), Ilorin (Kwara), Ota (Ogun), Auchi (Edo), Ekpoma (Delta)',
+    type: 'Full-time',
+    company: 'Ecobank',
+    salary: 'Not Specified',
+    deadline: 'Not Specified',
+    summary: 'Ecobank is hiring Relationship Managers in multiple locations.',
+    responsibilities: [
+      'Manage client relationships.',
+      'Drive sales and business growth.',
+      'Promote banking products and services.'
+    ],
+    requirements: [
+      'A minimum of 1-year relevant banking experience, with proven track record of excellent results in marketing/sales and credit.',
+      'Good knowledge of the business environment, the banking industry and its direction, trends and regulations.',
+      'Excellent knowledge of banking operations, technology, products & customer segmentation.',
+      'Minimum of 2nd class lower in first degree (MBA, MSC, MA, ML and/or Professional Qualifications will be an added advantage).'
+    ],
+    apply: 'Apply here: <a href="https://fa-emqf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1004/job/1386">https://fa-emqf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1004/job/1386</a>'
+  },
+  {
+    id: 'front-desk-officer-ea-stransact-abuja-2026',
+    title: 'Front Desk Officer/Executive Assistant',
+    date: '2026-06-24',
+    location: 'Abuja',
+    type: 'Full-time',
+    company: 'Stransact Chartered Accountants',
+    salary: 'Not Specified',
+    deadline: 'Not Specified',
+    summary: 'Seeking a Front Desk Officer/Executive Assistant with experience in organizing schedules and managing administration.',
+    responsibilities: [
+      'Organizing diverse schedules.',
+      'Coordinating stakeholder travel arrangements.',
+      'Managing general administration.'
+    ],
+    requirements: [
+      '3-4 years of experience organizing diverse schedules, coordinating stakeholder travel arrangements, and managing general administration.'
+    ],
+    apply: 'Apply here: <a href="https://docs.google.com/forms/d/e/1FAIpQLSfMmxMPsPtVc3Ayq0oNKW0iJKA4iul-UekDjl3Fls_7hokhFg/viewform">https://docs.google.com/forms/d/e/1FAIpQLSfMmxMPsPtVc3Ayq0oNKW0iJKA4iul-UekDjl3Fls_7hokhFg/viewform</a>'
+  },
+  {
+    id: 'hr-admin-officer-aig-ikorodu-2026',
+    title: 'HR / Admin Officer',
+    date: '2026-06-24',
+    location: 'Ikorodu, Lagos',
+    type: 'Full-time',
+    company: 'African Industries Group (AIG)',
+    salary: 'Not Specified',
+    deadline: 'Not Specified',
+    summary: 'Seeking an HR/Admin Officer to support HR and administrative functions in Ikorodu.',
+    responsibilities: [
+      'Handle recruitment and employee relations.',
+      'Manage personnel records and office administration.'
+    ],
+    requirements: [
+      'Bachelor’s Degree in Human Resources, Business Administration, Industrial Relations, or a related discipline.',
+      '2–4 years’ experience in HR and administrative functions.',
+      'Knowledge of recruitment, employee relations, personnel records management, and office administration.',
+      'Strong communication, organizational, and interpersonal skills.',
+      'Proficiency in Microsoft Office applications.'
+    ],
+    apply: 'Send CV to: <a href="mailto:Jamal.ogidan@africanindustries.com">Jamal.ogidan@africanindustries.com</a> using the position title as the subject of the email.'
+  },
+  {
+    id: 'daystar-power-women-in-power-trainee-2026',
+    title: '2026 Women in Power Trainee Program',
+    date: '2026-06-24',
+    location: 'Not Specified',
+    type: 'Trainee',
+    company: 'Daystar Power Group',
+    salary: 'Not Specified',
+    deadline: 'Not Specified',
+    summary: 'A trainee program for female Electrical Engineering graduates interested in solar energy and sustainability.',
+    responsibilities: [
+      'Participate in a structured training program.',
+      'Gain experience in solar energy projects.',
+      'Support the engineering team.'
+    ],
+    requirements: [
+      'Bachelor’s Degree in Electrical Engineering from a reputable University.',
+      'Completion of NYSC.',
+      '0 – 2 years experience.',
+      'Strong interest in solar energy and sustainability.',
+      'Excellent problem-solving skills and attention to detail.',
+      'Ability to work effectively in a team environment.',
+      'Strong communication and interpersonal skills.'
+    ],
+    apply: 'Apply here: <a href="https://jobs.workable.com/view/5c3wMYT3s63Mi3WpYr17Zo/2026-women-in-power-trainee-program-in-lagos-at-daystar-power?fbclid=IwdGRjcASgktVjbGNrBKCSz2V4dG4DYWVtAjExAHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHphTCHHB7vbkvieICBHWxOXWO-VUwS1h-_XWIG6EhcqGnoLvZO2UtGVT4iUQ_aem_sh15hfmQE4GoSM6rdNpIcA&utm_id=97758_v0_s00_e233_tv2_tp2_a1demo0g68xssp">https://jobs.workable.com/view/5c3wMYT3s63Mi3WpYr17Zo/2026-women-in-power-trainee-program-in-lagos-at-daystar-power?fbclid=IwdGRjcASgktVjbGNrBKCSz2V4dG4DYWVtAjExAHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHphTCHHB7vbkvieICBHWxOXWO-VUwS1h-_XWIG6EhcqGnoLvZO2UtGVT4iUQ_aem_sh15hfmQE4GoSM6rdNpIcA&utm_id=97758_v0_s00_e233_tv2_tp2_a1demo0g68xssp</a>'
+  },
+  {
+    id: 'sales-executives-skyshore-lubricants-abuja-ph-2026',
+    title: 'Sales Executives',
+    date: '2026-06-24',
+    location: 'Abuja • Port Harcourt',
+    type: 'Hybrid Role',
+    company: 'Skyshore Lubricants',
+    salary: 'Not Specified',
+    deadline: 'Not Specified',
+    summary: 'Skyshore Lubricants is looking for passionate Sales Executives to lead and grow our sales team across Nigeria.',
+    responsibilities: [
+      'Lead and grow the sales team.',
+      'Drive sales results in the Oil & Gas sector.'
+    ],
+    requirements: [
+      'A strong background in Sales & Marketing (Oil & Gas).',
+      'Love driving results.',
+      'Experience, energy, and leadership.'
+    ],
+    apply: 'Send your application to <a href="mailto:hr@skyshorelubs.com">hr@skyshorelubs.com</a> (use subject line: SALES EXECUTIVE (Location))'
+  },
+  {
+    id: 'remote-social-media-manager-clloze-2026',
+    title: 'Remote Social Media Manager',
+    date: '2026-06-24',
+    location: 'Remote',
+    type: 'Full-time',
+    company: 'Clloze',
+    salary: '₦200,000/month',
+    deadline: '2026-06-29',
+    summary: 'Clloze is looking for someone who can grow an audience the right way, through great content and genuine community.',
+    responsibilities: [
+      'Grow our LinkedIn presence.',
+      'Engage with our audience and community.',
+      'Develop social media growth strategies.',
+      'Track performance and report insights.',
+      'Support product launches and campaigns.',
+      'Run and optimize social media ad campaigns.'
+    ],
+    requirements: [
+      'Proven experience in social media management.',
+      'Strong content creation and community engagement skills.'
+    ],
+    apply: 'To Apply: <a href="http://cllooze.site/join/us?trk=feed-detail_main-feed-card-text">http://cllooze.site/join/us?trk=feed-detail_main-feed-card-text</a>'
+  },
+  {
+    id: 'customer-service-specialist-remote-2026',
+    title: 'Customer Service Specialist',
+    date: '2026-06-24',
+    location: 'Remote (Worldwide)',
+    type: 'Full-time / Part-time',
+    salary: '$35 an hour',
+    deadline: 'Not Specified',
+    summary: 'Hiring a Customer Service Specialist for a remote role.',
+    responsibilities: [
+      'Handle customer inquiries and resolve issues.',
+      'Provide excellent customer support.'
+    ],
+    requirements: [
+      'Strong problem-solving skills.',
+      'Work well in a team environment.'
+    ],
+    apply: 'Apply now: <a href="https://encolro.com/2026/06/19/customer-service-specialist-focus-remote/">https://encolro.com/2026/06/19/customer-service-specialist-focus-remote/</a>'
+  },
+  {
     id: 'shift-manager-yaba-lagos-2026',
     title: 'Shift Manager',
     date: '2026-06-24',

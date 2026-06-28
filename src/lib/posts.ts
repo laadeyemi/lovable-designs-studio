@@ -10,6 +10,274 @@ export type Post = {
 
 const allPosts: Post[] = [
   {
+    id: "lagos-bece-timetable-2026",
+    title: "Lagos State BECE Timetable 2026 Released – Full Examination Schedule for JSS3 Candidates",
+    category: "Education",
+    date: "2026-06-28",
+    excerpt: "The Lagos State Government has officially released the 2026 Basic Education Certificate Examination (BECE) timetable for Junior Secondary School (JSS3) students across the state.",
+    content: `<h2>Lagos State BECE Timetable 2026 Released – Full Examination Schedule for JSS3 Candidates</h2>
+<p>The Lagos State Government has officially released the <strong>2026 Basic Education Certificate Examination (BECE) timetable</strong> for Junior Secondary School (JSS3) students across the state.</p>
+<p>The examination will begin on <strong>Monday, 29 June 2026</strong>, and end on <strong>Monday, 6 July 2026</strong>. During the examination period, candidates will sit for subjects including English Studies, Mathematics, Basic Science and Technology (BST), National Value Education (NVE), French, Business Studies, History, Arabic Studies, and more.</p>
+<p>Students are advised to study the timetable carefully, arrive at their examination centres early, and prepare adequately for each paper.</p>
+
+<h3>Full Lagos State BECE 2026 Timetable</h3>
+<table class="w-full border-collapse border border-gray-300 my-4 text-sm">
+  <thead>
+    <tr class="bg-gray-100 text-left">
+      <th class="border border-gray-300 p-2">Date</th>
+      <th class="border border-gray-300 p-2">Subject</th>
+      <th class="border border-gray-300 p-2">Time</th>
+      <th class="border border-gray-300 p-2">Duration</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td class="border border-gray-300 p-2"><strong>Monday, 29 June 2026</strong></td><td class="border border-gray-300 p-2">Pre-Vocational Studies (PVS)</td><td class="border border-gray-300 p-2">9:00 am – 11:00 am</td><td class="border border-gray-300 p-2">2 hours</td></tr>
+    <tr><td class="border border-gray-300 p-2"></td><td class="border border-gray-300 p-2">Nigerian Languages (Yoruba, Igbo, Hausa)</td><td class="border border-gray-300 p-2">12:10 pm – 2:10 pm</td><td class="border border-gray-300 p-2">2 hours</td></tr>
+    <tr><td class="border border-gray-300 p-2"><strong>Tuesday, 30 June 2026</strong></td><td class="border border-gray-300 p-2">English Studies (Objective)</td><td class="border border-gray-300 p-2">9:00 am – 10:00 am</td><td class="border border-gray-300 p-2">1 hour</td></tr>
+    <tr><td class="border border-gray-300 p-2"></td><td class="border border-gray-300 p-2">English Studies (Theory)</td><td class="border border-gray-300 p-2">10:30 am – 12:00 pm</td><td class="border border-gray-300 p-2">1 hour 30 minutes</td></tr>
+    <tr><td class="border border-gray-300 p-2"><strong>Wednesday, 1 July 2026</strong></td><td class="border border-gray-300 p-2">French</td><td class="border border-gray-300 p-2">9:00 am – 11:00 am</td><td class="border border-gray-300 p-2">2 hours</td></tr>
+    <tr><td class="border border-gray-300 p-2"></td><td class="border border-gray-300 p-2">Cultural and Creative Arts (CCA)</td><td class="border border-gray-300 p-2">12:10 pm – 2:10 pm</td><td class="border border-gray-300 p-2">2 hours</td></tr>
+    <tr><td class="border border-gray-300 p-2"><strong>Thursday, 2 July 2026</strong></td><td class="border border-gray-300 p-2">Basic Science and Technology (BST)</td><td class="border border-gray-300 p-2">9:00 am – 11:00 am</td><td class="border border-gray-300 p-2">2 hours</td></tr>
+    <tr><td class="border border-gray-300 p-2"></td><td class="border border-gray-300 p-2">National Value Education (NVE)</td><td class="border border-gray-300 p-2">12:10 pm – 2:10 pm</td><td class="border border-gray-300 p-2">2 hours</td></tr>
+    <tr><td class="border border-gray-300 p-2"><strong>Friday, 3 July 2026</strong></td><td class="border border-gray-300 p-2">Mathematics (Objective)</td><td class="border border-gray-300 p-2">9:00 am – 10:00 am</td><td class="border border-gray-300 p-2">1 hour</td></tr>
+    <tr><td class="border border-gray-300 p-2"></td><td class="border border-gray-300 p-2">Mathematics (Theory)</td><td class="border border-gray-300 p-2">10:30 am – 12:00 pm</td><td class="border border-gray-300 p-2">1 hour 30 minutes</td></tr>
+    <tr><td class="border border-gray-300 p-2"><strong>Saturday, 4 July 2026</strong></td><td class="border border-gray-300 p-2">History</td><td class="border border-gray-300 p-2">9:00 am – 11:00 am</td><td class="border border-gray-300 p-2">2 hours</td></tr>
+    <tr><td class="border border-gray-300 p-2"></td><td class="border border-gray-300 p-2">Christian Religious Studies (CRS) / Islamic Studies</td><td class="border border-gray-300 p-2">12:10 pm – 2:10 pm</td><td class="border border-gray-300 p-2">2 hours</td></tr>
+    <tr><td class="border border-gray-300 p-2"><strong>Monday, 6 July 2026</strong></td><td class="border border-gray-300 p-2">Arabic Studies</td><td class="border border-gray-300 p-2">9:00 am – 11:00 am</td><td class="border border-gray-300 p-2">2 hours</td></tr>
+    <tr><td class="border border-gray-300 p-2"></td><td class="border border-gray-300 p-2">Business Studies</td><td class="border border-gray-300 p-2">12:10 pm – 2:10 pm</td><td class="border border-gray-300 p-2">2 hours</td></tr>
+  </tbody>
+</table>
+
+<h3>Important Information for Candidates</h3>
+<p>Candidates are encouraged to:</p>
+<ul>
+  <li>Arrive at their examination centres at least <strong>30 minutes before the scheduled start time</strong>.</li>
+  <li>Bring only approved examination materials.</li>
+  <li>Carefully read all examination instructions before attempting each paper.</li>
+  <li>Follow all examination rules and maintain proper conduct throughout the examination period.</li>
+  <li>Confirm any updates or changes through their schools or the Lagos State Ministry of Basic and Secondary Education.</li>
+</ul>
+
+<h3>Preparation Tips</h3>
+<p>With the examination timetable now available, candidates should:</p>
+<ul>
+  <li>Create a daily revision timetable based on the examination schedule.</li>
+  <li>Focus more on subjects scheduled earlier in the examination.</li>
+  <li>Solve past BECE questions to improve speed and confidence.</li>
+  <li>Get adequate rest before each examination day.</li>
+  <li>Eat healthy meals and avoid last-minute cramming.</li>
+</ul>
+
+<h3>Final Thoughts</h3>
+<p>The release of the <strong>Lagos State BECE 2026 timetable</strong> gives students enough time to organize their revision and prepare effectively for the examination.</p>
+<p>Parents and guardians are encouraged to support candidates throughout the examination period by ensuring they arrive at their centres on time and maintain a healthy study routine.</p>
+<p>We wish all Lagos State JSS3 candidates success in their 2026 Basic Education Certificate Examination (BECE).</p>
+<p>For more examination news, you might find this post helpful: <a href="/blog/neco-bece-2026-official-timetable">NECO Releases Official 2026 BECE Timetable — Full Schedule & Instructions</a>.</p>`,
+    tags: ["Lagos State", "BECE", "Timetable", "JSS3", "Education", "Nigeria", "2026"],
+  },
+  {
+    id: "frsc-recruitment-2026-guide",
+    title: "FRSC Recruitment 2026 Opens – Requirements, Qualifications, Application Portal and How to Apply",
+    category: "Career",
+    date: "2026-06-28",
+    excerpt: "The Federal Road Safety Corps (FRSC) has officially announced the commencement of its 2026 recruitment exercise for qualified Nigerians. Applications are free and must be submitted online.",
+    content: `<h2>FRSC Recruitment 2026: A Comprehensive Guide</h2>
+<p>The Federal Road Safety Corps (FRSC) has officially announced the commencement of its <strong>2026 recruitment exercise</strong> for qualified Nigerians seeking employment in the Corps.</p>
+<p>Applications are <strong>completely free</strong> and must be submitted online through the official FRSC recruitment portal. The recruitment covers the <strong>Officer Cadre, Marshal Inspectorate Cadre, and Road Marshal Assistant Cadre</strong>, including opportunities for drivers, mechanics, artisans, and other technical personnel.</p>
+<p>Interested applicants have <strong>four weeks from Friday, 3 July 2026</strong>, to complete and submit their online applications.</p>
+
+<h3>Is the FRSC Recruitment Form Free?</h3>
+<p>Yes. The FRSC recruitment application is <strong>completely free of charge</strong>.</p>
+<p>Applicants are strongly advised <strong>not to pay any individual or agent</strong> claiming to facilitate the recruitment process. FRSC does not charge any application fee.</p>
+
+<h3>FRSC Recruitment 2026 Closing Date</h3>
+<p>The online application portal will remain open for <strong>four weeks beginning Friday, 3 July 2026</strong>.</p>
+<p>Candidates are encouraged to apply early to avoid last-minute technical issues and ensure their applications are successfully submitted before the deadline.</p>
+
+<h3>FRSC Recruitment Categories</h3>
+<p>The recruitment exercise is divided into three major categories.</p>
+<table class="w-full border-collapse border border-gray-300 my-4 text-sm">
+  <thead>
+    <tr class="bg-gray-100 text-left">
+      <th class="border border-gray-300 p-2">Category</th>
+      <th class="border border-gray-300 p-2">Cadre</th>
+      <th class="border border-gray-300 p-2">Age Requirement</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td class="border border-gray-300 p-2">First Category</td><td class="border border-gray-300 p-2">Officer Cadre</td><td class="border border-gray-300 p-2">18 – 35 years</td></tr>
+    <tr><td class="border border-gray-300 p-2">Second Category</td><td class="border border-gray-300 p-2">Marshal Inspectorate Cadre</td><td class="border border-gray-300 p-2">18 – 30 years</td></tr>
+    <tr><td class="border border-gray-300 p-2">Third Category</td><td class="border border-gray-300 p-2">Road Marshal Assistant Cadre</td><td class="border border-gray-300 p-2">18 – 30 years</td></tr>
+    <tr><td class="border border-gray-300 p-2">Third Category</td><td class="border border-gray-300 p-2">Articulated & Tow Truck Drivers</td><td class="border border-gray-300 p-2">26 – 40 years</td></tr>
+  </tbody>
+</table>
+<p>Applicants should carefully choose the category that matches their qualifications and age.</p>
+
+<h3>Officer Cadre Requirements</h3>
+<h4>Superintendent Route Commander (SRC) – CONPASS 11</h4>
+<p>Applicants must possess:</p>
+<ul>
+  <li>MBBS or MBCH degree</li>
+  <li>Be qualified Medical Doctors</li>
+  <li>NYSC Discharge or Exemption Certificate</li>
+  <li>Age between 18 and 35 years</li>
+</ul>
+
+<h4>Route Commander (RC) / Deputy Route Commander (DRC) – CONPASS 10/09</h4>
+<p>Applicants must possess any of the following qualifications:</p>
+<ul>
+  <li>B.Pharm</li>
+  <li>B.Sc Nursing</li>
+  <li>BMLS</li>
+  <li>LLB/BL</li>
+  <li>B.Eng/B.Tech in Engineering</li>
+</ul>
+<p>Additional requirements include:</p>
+<ul>
+  <li>NYSC Discharge or Exemption Certificate</li>
+  <li>Age between 18 and 35 years</li>
+</ul>
+
+<h4>Assistant Route Commander (ARC) – CONPASS 08</h4>
+<p>Applicants must possess:</p>
+<ul>
+  <li>B.Sc</li>
+  <li>BA</li>
+  <li>HND</li>
+</ul>
+<p>They must also have:</p>
+<ul>
+  <li>NYSC Discharge or Exemption Certificate</li>
+  <li>Age between 18 and 35 years</li>
+</ul>
+
+<h3>Marshal Inspectorate Cadre Requirements</h3>
+<p>Applicants for <strong>Marshal Inspector II (MI-II)</strong> and <strong>Marshal Inspector III (MI-III)</strong> must possess any of the following:</p>
+<ul>
+  <li>NCE</li>
+  <li>ND/OND</li>
+  <li>RN/RM</li>
+  <li>CHEW</li>
+</ul>
+<p>Applicants must be between 18 and 30 years of age.</p>
+
+<h3>Road Marshal Assistant Cadre Requirements</h3>
+<p>Applicants for <strong>Road Marshal Assistant II (RMAII)</strong> and <strong>Road Marshal Assistant III (RMAIII)</strong> must possess:</p>
+<ul>
+  <li>Minimum of three credit passes in SSCE, WAEC, NECO, GCE or NABTEB</li>
+  <li>Credits must include English Language and Mathematics</li>
+  <li>Maximum of two sittings</li>
+</ul>
+<p>Applicants must also be between 18 and 30 years old.</p>
+
+<h3>Opportunities for Drivers, Riders and Artisans</h3>
+<p>FRSC is also recruiting qualified applicants for positions including:</p>
+<ul>
+  <li>Drivers</li>
+  <li>Articulated Truck Drivers</li>
+  <li>Tow Truck Drivers</li>
+  <li>Motorcycle Riders</li>
+  <li>Computer Operators</li>
+  <li>Mechanics</li>
+  <li>Electricians</li>
+  <li>Instrumentalists</li>
+  <li>Tailors</li>
+  <li>Plumbers</li>
+  <li>Other technical trades</li>
+</ul>
+<p>Applicants must possess:</p>
+<ul>
+  <li>Minimum of three credit passes in SSCE, WAEC, NECO, GCE or NABTEB</li>
+  <li>Trade Test Certificate or relevant professional qualification where applicable</li>
+  <li>Appropriate class of valid Driver's Licence (for drivers and riders)</li>
+</ul>
+
+<h4>Age Requirement for Drivers</h4>
+<ul>
+  <li>Articulated and Tow Truck Drivers: <strong>26–40 years</strong></li>
+  <li>Other Drivers and Riders: Must satisfy the general recruitment age requirement and possess a valid driver's licence.</li>
+</ul>
+
+<h3>General Requirements for All Applicants</h3>
+<p>All applicants must:</p>
+<ul>
+  <li>Be Nigerian by birth.</li>
+  <li>Be computer literate.</li>
+  <li>Use their personal email address and phone number.</li>
+  <li>Be single.</li>
+  <li>Be physically and medically fit.</li>
+  <li>Be of good character.</li>
+  <li>Have no criminal conviction.</li>
+  <li>Be free from financial indebtedness.</li>
+  <li>Have no tattoo on any part of the body.</li>
+  <li>Present a Medical Fitness Certificate from a government-approved hospital.</li>
+  <li>Declare all certificates and qualifications during application.</li>
+</ul>
+<p>Possession of a valid National Driver's Licence will be an added advantage across all cadres.</p>
+
+<h3>Height Requirement</h3>
+<p>Applicants must meet the following minimum height requirements:</p>
+<table class="w-full border-collapse border border-gray-300 my-4 text-sm">
+  <thead>
+    <tr class="bg-gray-100 text-left">
+      <th class="border border-gray-300 p-2">Gender</th>
+      <th class="border border-gray-300 p-2">Minimum Height</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td class="border border-gray-300 p-2">Male</td><td class="border border-gray-300 p-2">1.65 metres</td></tr>
+    <tr><td class="border border-gray-300 p-2">Female</td><td class="border border-gray-300 p-2">1.58 metres</td></tr>
+  </tbody>
+</table>
+
+<h3>Additional Requirements for Professionals</h3>
+<p>Medical and allied health professionals must possess current practising licences where applicable.</p>
+<p>Applicants applying as lawyers must have been called to the Nigerian Bar.</p>
+
+<h3>Important Notice on Certificates</h3>
+<p>Applicants are required to declare <strong>all certificates and qualifications</strong> during the recruitment process.</p>
+<p>FRSC has stated that any certificate not declared during recruitment <strong>will not be accepted later for career progression</strong> within the Corps.</p>
+
+<h3>Can Pregnant Women Apply?</h3>
+<p>No.</p>
+<p>According to the recruitment notice, prospective applicants who are pregnant are advised <strong>not to apply</strong>.</p>
+
+<h3>How to Apply for FRSC Recruitment 2026</h3>
+<p>Interested candidates should follow these steps:</p>
+<ol>
+  <li>Visit the official FRSC recruitment portal.</li>
+  <li>Select the recruitment category and cadre that matches your qualification.</li>
+  <li>Complete the online application form with accurate personal information.</li>
+  <li>Upload or declare all required certificates.</li>
+  <li>Submit the application before the closing date.</li>
+  <li>Print the completed application form.</li>
+  <li>Keep the printed copy safely for screening if shortlisted.</li>
+</ol>
+
+<h3>Important Things to Avoid</h3>
+<p>Applicants should avoid the following:</p>
+<ul>
+  <li>Paying anyone for the recruitment application.</li>
+  <li>Using another person's phone number or email address.</li>
+  <li>Submitting false information or fake certificates.</li>
+  <li>Waiting until the deadline before applying.</li>
+</ul>
+
+<h3>Screening Exercise</h3>
+<p>Candidates who are shortlisted will be required to present the <strong>printed copy of their application form</strong> during the screening exercise. Applicants should therefore keep both the printed copy and their online application details.</p>
+
+<h3>FRSC Recruitment Enquiries</h3>
+<p>For enquiries regarding the recruitment exercise, applicants may contact:</p>
+<p><strong>Telephone:</strong> <strong>122</strong></p>
+
+<h3>Final Note</h3>
+<p>The FRSC 2026 recruitment exercise offers employment opportunities for graduates, diploma holders, secondary school certificate holders, medical professionals, engineers, drivers, artisans, and other qualified Nigerians.</p>
+<p>Since the application is <strong>free</strong> and will remain open for only <strong>four weeks from 3 July 2026</strong>, interested candidates are advised to apply early, ensure they meet all eligibility requirements, and submit only accurate information.</p>
+<p>Applicants should rely only on the official FRSC recruitment portal for updates and avoid anyone requesting payment for employment processing.</p>
+<p>For more insights into career opportunities, you might find this post helpful: <a href="/blog/15-university-courses-best-job-opportunities-nigeria-2026">15 University Courses with the Best Job Opportunities in Nigeria in 2026</a></p>`,
+    tags: ["FRSC", "Recruitment", "Jobs", "Career", "Nigeria", "2026"],
+  },
+  {
     id: "nans-alleges-fee-inflation-nelfund-ds-adegbenro-poly-2026",
     title: "NANS Alleges Fee Inflation on NELFUND Portal, Calls for Investigation into D.S. Adegbenro ICT Polytechnic",
     category: "Education",

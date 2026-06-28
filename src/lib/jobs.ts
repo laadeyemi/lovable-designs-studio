@@ -49,6 +49,136 @@ const currentDate = '2026-06-23'; // Current date for comparison (June 23, 2026)
 
 const allJobs: Job[] = [
   {
+    id: 'design-structural-engineer-dutum-group-lagos-2026',
+    title: 'Design & Structural Engineer',
+    company: 'Dutum Group',
+    date: '2026-06-27',
+    location: 'Lagos',
+    type: 'Full-time',
+    salary: 'Not Specified',
+    deadline: 'Not Specified',
+    summary: 'Seeking a passionate Design & Structural Engineer to deliver practical, innovative, and efficient engineering solutions.',
+    responsibilities: [
+      'Develop structural designs and plans for various projects.',
+      'Ensure designs are practical, innovative, and efficient.',
+      'Collaborate with other engineers and project teams.',
+      'Oversee the implementation of structural designs on site.'
+    ],
+    requirements: [
+      'Passion for delivering practical, innovative, and efficient engineering solutions.',
+      'Relevant degree in Structural or Civil Engineering.',
+      'Proven experience in structural design and engineering.'
+    ],
+    apply: 'Send your CVs to <a href="mailto:careers@dutumgroup.com">careers@dutumgroup.com</a>'
+  },
+  {
+    id: 'frsc-recruitment-nationwide-2026',
+    title: 'FRSC Recruitment 2026 (Multiple Cadres)',
+    company: 'Federal Road Safety Commission (FRSC)',
+    date: '2026-06-27',
+    location: 'Nationwide',
+    type: 'Full-time',
+    salary: 'Not Specified',
+    deadline: '2026-07-03',
+    summary: 'The Federal Road Safety Commission (FRSC) is now recruiting qualified Nigerians into various cadres nationwide, including Officer, Marshal Inspector, and Road Marshal Assistant roles.',
+    summary: 'The Federal Road Safety Commission (FRSC) has opened its 2026 recruitment for qualified Nigerians into Officer, Marshal Inspector, and Road Marshal Assistant cadres. Application is free and closes four weeks from July 3, 2026.',
+    responsibilities: [
+      'Enforce traffic laws and regulations to ensure road safety.',
+      'Provide assistance to accident victims and manage traffic flow.',
+      'Conduct public enlightenment campaigns on road safety.',
+      'Perform administrative and operational duties as assigned based on cadre.'
+      'Perform administrative and operational duties as assigned based on the specific cadre.',
+      'Drivers, mechanics, and artisans will handle vehicle maintenance, repairs, and other technical support roles.'
+    ],
+    requirements: [
+      'Must be a Nigerian citizen.',
+      'Possess relevant qualifications (SSCE, ND, NCE, HND, B.Sc., B.Eng., MBBS) depending on the position.',
+      '**Officer Cadre (SRC/RC/DRC/ARC):** Requires MBBS, B.Pharm, B.Sc Nursing, LLB/BL, B.Eng/B.Tech, B.Sc, BA, or HND. Age: 18–35 years.',
+      '**Marshal Inspectorate Cadre (MI-II/MI-III):** Requires NCE, ND/OND, RN/RM, or CHEW. Age: 18–30 years.',
+      '**Road Marshal Assistant Cadre (RMAII/RMAIII):** Requires a minimum of three SSCE/WAEC/NECO/GCE/NABTEB credits, including English and Mathematics. Age: 18–30 years.',
+      '**Drivers & Artisans:** Requires a minimum of three SSCE credits and a Trade Test or relevant professional qualification. Articulated/Tow Truck Drivers must be 26–40 years old.',
+      '**General Requirements:** Must be a Nigerian citizen by birth, single, medically and physically fit, and computer literate.',
+      '**Height:** Male: 1.65m, Female: 1.58m.',
+      'Must be computer literate.',
+      'Must be medically fit.',
+      'Meet the required age and height criteria for the specific cadre.'
+      'Must not have any tattoos or criminal convictions.',
+      'A valid National Driver\'s Licence is an added advantage for all cadres.'
+    ],
+    apply: 'See Details & Apply here: <a href="https://tinyurl.com/3s3mrkpa">https://tinyurl.com/3s3mrkpa</a>. Application is FREE.'
+    apply: 'Applications must be submitted online through the official FRSC recruitment portal. The portal opens on July 3, 2026, for four weeks. Application is FREE. For enquiries, call 122.'
+  },
+  {
+    id: 'graduate-engineer-trainee-aig-ikorodu-2026',
+    title: 'Graduate Engineer Trainee',
+    company: 'African Industries Group (AIG)',
+    date: '2026-06-27',
+    location: 'Odongunyan, Ikorodu, Lagos',
+    type: 'Graduate Trainee',
+    salary: '₦100,000 – ₦150,000 per month',
+    deadline: '2026-07-01',
+    summary: 'AIG is recruiting fresh graduates for its structured Graduate Engineer Trainee programme. Gain real hands-on experience in engineering operations, maintenance, process improvement, materials testing & quality control.',
+    responsibilities: [
+      'Participate in a structured training program covering engineering operations and maintenance.',
+      'Assist in process improvement and quality control activities.',
+      'Support materials testing and analysis.',
+      'Collaborate with senior engineers on various manufacturing projects.'
+    ],
+    requirements: [
+      'BSc or HND in Mechanical Engineering or Metallurgical & Materials Engineering.',
+      '0–2 years of experience (fresh graduates & NYSC members are welcome).',
+      'Strong analytical and problem-solving skills.'
+    ],
+    apply: 'Apply here: <a href="https://deroundtable.com/graduate-engineer-trainee-at-aig-2026-ikorodu-lagos-apply-now/">https://deroundtable.com/graduate-engineer-trainee-at-aig-2026-ikorodu-lagos-apply-now/</a>'
+  },
+  {
+    id: 'graduate-sales-marketing-executive-tide-power-2026',
+    title: 'Graduate Sales/Marketing Executive (Power Solutions)',
+    company: 'Tide Power West Africa Company Limited',
+    date: '2026-06-27',
+    location: 'Not Specified',
+    type: 'Full-time',
+    salary: 'Not Specified',
+    deadline: '2026-07-15',
+    summary: 'An excellent opportunity for fresh graduates to gain hands-on experience, receive professional training, and grow with a leading power solutions company.',
+    responsibilities: [
+      'Engage in sales and business development activities.',
+      'Promote power solutions to potential clients.',
+      'Build and maintain customer relationships.',
+      'Participate in professional training and development.'
+    ],
+    requirements: [
+      'Fresh graduate with HND/B.Sc.',
+      'Strong communication and marketing skills.',
+      'Passion for sales, business development, and customer engagement.',
+      'Willingness to build a rewarding career in the power and energy sector.'
+    ],
+    apply: 'Apply now: <a href="https://deroundtable.com/graduate-sales-marketing-executive-power-solutions-at-tide-power-west-africa-company-limited-fresh-graduates-wanted-apply-before-july-15/">https://deroundtable.com/graduate-sales-marketing-executive-power-solutions-at-tide-power-west-africa-company-limited-fresh-graduates-wanted-apply-before-july-15/</a>'
+  },
+  {
+    id: 'customer-service-officer-merchant-bank-nigeria-2026',
+    title: 'Customer Service Officer',
+    company: 'Merchant Bank',
+    date: '2026-06-27',
+    location: 'Port Harcourt, Uyo, Abuja, Ibadan, Warri, Benin, Abeokuta, Asaba, Surulere & more',
+    type: 'Full-time',
+    salary: '₦220,000 monthly',
+    deadline: 'Not Specified',
+    summary: 'A reputable Merchant Bank is hiring passionate Customer Service Officers across Nigeria. Fresh graduates and entry-level candidates are welcome.',
+    responsibilities: [
+      'Handle customer inquiries and provide accurate information about banking products and services.',
+      'Resolve customer complaints and issues in a timely and professional manner.',
+      'Assist customers with account-related transactions and processes.',
+      'Maintain a high level of customer satisfaction and build positive relationships.'
+    ],
+    requirements: [
+      'Fresh graduates & entry-level candidates are welcome.',
+      'Strong communication and customer service skills required.',
+      'Ability to work in a fast-paced banking environment.'
+    ],
+    apply: 'Apply now: <a href="https://deroundtable.com/customer-service-officer-jobs-at-merchant-bank-nigeria-2026-%e2%82%a6220k/">https://deroundtable.com/customer-service-officer-jobs-at-merchant-bank-nigeria-2026-%e2%82%a6220k/</a>'
+  },
+  {
     id: 'customer-service-representative-uhy-lagos-2026',
     title: 'Customer Service Representative',
     company: 'UHY Professional Services',

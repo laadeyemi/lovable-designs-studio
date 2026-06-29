@@ -50,7 +50,7 @@ const currentDate = '2026-06-23'; // Current date for comparison (June 23, 2026)
 const allJobs: Job[] = [
   {
     id: 'design-structural-engineer-dutum-group-lagos-2026',
-    title: 'Design & Structural Engineer',
+    title: 'Design & Structu ral Engineer',
     company: 'Dutum Group',
     date: '2026-06-27',
     location: 'Lagos',
@@ -87,7 +87,6 @@ const allJobs: Job[] = [
       'Provide assistance to accident victims and manage traffic flow.',
       'Conduct public enlightenment campaigns on road safety.',
       'Perform administrative and operational duties as assigned based on cadre.'
-      'Perform administrative and operational duties as assigned based on the specific cadre.',
       'Drivers, mechanics, and artisans will handle vehicle maintenance, repairs, and other technical support roles.'
     ],
     requirements: [
@@ -105,7 +104,6 @@ const allJobs: Job[] = [
       'Must not have any tattoos or criminal convictions.',
       'A valid National Driver\'s Licence is an added advantage for all cadres.'
     ],
-    apply: 'See Details & Apply here: <a href="https://tinyurl.com/3s3mrkpa">https://tinyurl.com/3s3mrkpa</a>. Application is FREE.'
     apply: 'Applications must be submitted online through the official FRSC recruitment portal. The portal opens on July 3, 2026, for four weeks. Application is FREE. For enquiries, call 122.'
   },
   {

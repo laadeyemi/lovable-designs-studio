@@ -10,6 +10,206 @@ export type Post = {
 
 const allPosts: Post[] = [
   {
+    id: "asuu-threatens-indefinite-strike-july-2026",
+    title: "ASUU Threatens Indefinite Strike in 11 State Universities Over Unpaid Allowances",
+    category: "Education",
+    date: "2026-06-30",
+    excerpt: "The Academic Staff Union of Universities (ASUU) has threatened to embark on an indefinite strike in 11 state-owned universities if the affected state governments fail to implement the 2025 Federal Government/ASUU Agreement.",
+    content: `<h2>ASUU Threatens Indefinite Strike in 11 State Universities Over Unpaid Allowances</h2>
+<p>The Academic Staff Union of Universities (ASUU) has threatened to embark on an <strong>indefinite strike</strong> in <strong>11 state-owned universities</strong> if the affected state governments fail to implement the <strong>2025 Federal Government/ASUU Agreement</strong>.</p>
+<p>According to the union, the strike may commence if outstanding allowances, arrears, and other agreed entitlements are not paid by <strong>the end of July</strong>.</p>
+<p>The warning was issued by the <strong>Benin</strong> and <strong>Yola</strong> zones of ASUU during separate press conferences held on Monday, where the union accused several state governments of failing to honour the agreement signed six months ago.</p>
+<p>If the dispute is not resolved before the deadline, academic activities in the affected institutions could be suspended indefinitely.</p>
+
+<h2>States Affected by the Strike Warning</h2>
+<p>ASUU said the warning affects universities owned by the following states:</p>
+<ul>
+  <li>Edo State</li>
+  <li>Delta State</li>
+  <li>Ondo State</li>
+  <li>Adamawa State</li>
+  <li>Borno State</li>
+  <li>Taraba State</li>
+  <li>Yobe State</li>
+</ul>
+
+<h2>Full List of Universities Affected</h2>
+<p>The institutions listed by ASUU are:</p>
+<ol>
+  <li>Ambrose Alli University, Ekpoma</li>
+  <li>Adekunle Ajasin University, Akungba-Akoko</li>
+  <li>Olusegun Agagu University of Science and Technology, Okitipupa</li>
+  <li>Delta State University, Abraka</li>
+  <li>University of Delta, Agbor</li>
+  <li>Dennis Osadebay University, Asaba</li>
+  <li>Southern Delta University, Ozoro</li>
+  <li>Adamawa State University, Mubi</li>
+  <li>Borno State University, Maiduguri</li>
+  <li>Taraba State University, Jalingo</li>
+  <li>Yobe State University, Damaturu</li>
+</ol>
+<p>Students and staff of these institutions are advised to monitor official announcements for further developments.</p>
+
+<h2>Why Is ASUU Threatening to Strike?</h2>
+<p>According to ASUU, the affected state governments have failed to implement key provisions of the <strong>2025 Federal Government/ASUU Agreement</strong>, particularly the payment of:</p>
+<ul>
+  <li>Consolidated Academic and Technologists Allowance (CATA)</li>
+  <li>Other approved allowances</li>
+  <li>Outstanding arrears dating from <strong>January 2026</strong></li>
+</ul>
+<p>The union said while the Federal Government and several state governments have implemented the agreement, the listed states have yet to comply.</p>
+
+<h2>What Students and Parents Should Know</h2>
+<p>At this stage, ASUU has <strong>not yet declared an indefinite strike</strong>. The union has issued a warning and given the affected state governments until the end of July to address the outstanding issues.</p>
+<p>Students, parents, and university staff should continue to follow updates from their respective institutions and ASUU branches for any official announcement regarding industrial action.</p>
+
+<h2>Final Thoughts</h2>
+<p>The latest warning from ASUU raises fresh concerns over possible disruptions to academic activities in several state-owned universities across Nigeria.</p>
+<p>With only a short period remaining before the union's deadline expires, attention will now turn to the affected state governments to see whether they will implement the 2025 Federal Government/ASUU Agreement and settle outstanding allowances.</p>
+<p>Until then, students in the 11 affected universities are encouraged to stay informed through official university communications and ASUU announcements.</p>
+<p>For more news on the Nigerian education sector, you might find this post helpful: <a href="/blog/fec-approves-nysc-reform-2026">FEC Approves Major NYSC Reform After 53 Years</a>.</p>`,
+    tags: ["ASUU", "Strike", "Universities", "Education", "Nigeria", "2026"],
+  },
+  {
+    id: "fec-approves-nysc-reform-2026",
+    title: "FEC Approves Major NYSC Reform After 53 Years – Civilian Leadership, 6-Week Orientation, 11 Career Streams Introduced",
+    category: "Education",
+    date: "2026-06-30",
+    excerpt: "The Federal Executive Council (FEC) has approved a comprehensive reform of the National Youth Service Corps (NYSC), marking the first major review of the scheme since its establishment in 1973.",
+    content: `<h2>FEC Approves Major NYSC Reform After 53 Years – Civilian Leadership, 6-Week Orientation, 11 Career Streams Introduced</h2>
+<p>The Federal Executive Council (FEC) has approved a comprehensive reform of the National Youth Service Corps (NYSC), marking the <strong>first major review of the scheme since its establishment in 1973</strong>.</p>
+<p>The sweeping reforms will change how the NYSC is managed, how corps members are deployed, the structure of the orientation camp, skills training, career development, and security arrangements.</p>
+<p>The Federal Government says the new framework is designed to transform the NYSC into a <strong>civilian-led, skill-oriented, productivity-focused and youth-empowering institution</strong> that better prepares young graduates for the future workforce.</p>
+<p>To implement the changes, the Attorney-General of the Federation and the Federal Ministry of Youth have been directed to amend the NYSC Act and relevant regulations.</p>
+
+<h2>Why Is the Federal Government Reforming NYSC?</h2>
+<p>According to the Special Adviser to the President on Policy Coordination, Hadiza Bala Usman, the reform is part of the Federal Government's broader plan to build a <strong>$1 trillion Nigerian economy</strong> through investment in human capital development.</p>
+<p>She explained that the new NYSC framework is intended to equip graduates with practical workplace skills, entrepreneurship knowledge, and career opportunities while strengthening national service.</p>
+
+<h2>NYSC Will Now Be Led by a Civilian</h2>
+<p>One of the biggest changes approved by FEC is the transition of NYSC's operational leadership from military to civilian control.</p>
+<p>Under the new framework:</p>
+<ul>
+  <li>NYSC's day-to-day operations will be managed by a civilian leadership structure.</li>
+  <li>The military will continue to provide security for corps members across the country.</li>
+  <li>Security support during orientation camps and deployments will remain the responsibility of the armed forces.</li>
+</ul>
+<p>This creates a civilian-led operational model while retaining military involvement in security matters.</p>
+
+<h2>NYSC Orientation Camp Structure to Change</h2>
+<p>The traditional orientation programme will be redesigned to provide more practical training and career development.</p>
+<p>The new orientation structure will be divided into three stages.</p>
+
+<h3>First Two Weeks: Civic Responsibility and Leadership</h3>
+<p>During the first phase, corps members will receive training on:</p>
+<ul>
+  <li>Civic responsibility</li>
+  <li>National values</li>
+  <li>Leadership development</li>
+  <li>Public service ethics</li>
+</ul>
+<p>The objective is to strengthen patriotism and encourage active citizenship.</p>
+
+<h3>Next Two Weeks: Career Development and Financial Literacy</h3>
+<p>The second stage will focus on preparing graduates for life after service through training in:</p>
+<ul>
+  <li>Career mapping</li>
+  <li>Basic accounting and financial literacy</li>
+  <li>Business planning</li>
+  <li>Entrepreneurship</li>
+  <li>Access to finance</li>
+</ul>
+<p>A structured Career Day programme will also be introduced to connect corps members with employers, entrepreneurs, and other opportunities.</p>
+
+<h3>Final Two Weeks: Stream-Specific Professional Training</h3>
+<p>The final phase of orientation will provide specialised training based on each corps member's chosen professional stream.</p>
+<p>Training content will be tailored to each participant's:</p>
+<ul>
+  <li>Academic background</li>
+  <li>Career interests</li>
+  <li>Selected NYSC stream</li>
+  <li>Skill profile</li>
+</ul>
+
+<h2>Government Introduces 11 NYSC Career Streams</h2>
+<p>As part of the reform, every corps member will belong to one of <strong>11 specialised service streams</strong>.</p>
+<p>The approved streams are:</p>
+<ol>
+  <li>Agric Corps</li>
+  <li>Medical Corps</li>
+  <li>Education Corps</li>
+  <li>Tech and Digital Corps</li>
+  <li>Legal Corps</li>
+  <li>Public Service Corps</li>
+  <li>Infrastructure Corps</li>
+  <li>Green Corps</li>
+  <li>Enterprise Corps</li>
+  <li>Creative Economy Corps</li>
+  <li>Paramilitary and Security Corps</li>
+</ol>
+<p>The specialised streams are intended to ensure corps members receive practical training that aligns with their education, skills, and career aspirations.</p>
+
+<h2>How Corps Members Will Choose Their Stream</h2>
+<p>Under the new framework, graduates will select their preferred service stream after completing NYSC registration and verification.</p>
+<p>Once accepted into the scheme, every corps member will choose one of the eleven available streams.</p>
+<p>Their stream selection will determine the specialised training they receive during orientation camp and may also influence deployment and service opportunities.</p>
+
+<h2>Changes to NYSC Registration and Posting</h2>
+<p>The reform also introduces changes to how corps members are registered and deployed.</p>
+<p>Areas expected to be reviewed include:</p>
+<ul>
+  <li>Registration procedures</li>
+  <li>State deployment process</li>
+  <li>Posting decisions</li>
+  <li>Security assessment before deployment</li>
+  <li>Placement of corps members in areas facing security challenges</li>
+</ul>
+<p>The Federal Government says the new deployment framework will better consider security conditions when assigning corps members to states.</p>
+
+<h2>Legal Amendments to Begin Immediately</h2>
+<p>Before the reforms can take full effect, the NYSC Act and relevant regulations will be amended.</p>
+<p>The Federal Executive Council has directed the:</p>
+<ul>
+  <li>Attorney-General of the Federation</li>
+  <li>Federal Ministry of Youth</li>
+</ul>
+<p>to begin the legal process required to implement the approved reforms.</p>
+
+<h2>Why Was NYSC Created?</h2>
+<p>The National Youth Service Corps was established through <strong>Decree No. 24 of 22 May 1973</strong>, shortly after the Nigerian Civil War.</p>
+<p>The scheme was created to:</p>
+<ul>
+  <li>Promote national unity.</li>
+  <li>Foster reconciliation among Nigerians.</li>
+  <li>Encourage national integration.</li>
+  <li>Strengthen relationships among young graduates from different parts of the country.</li>
+</ul>
+<p>For over five decades, NYSC has remained a compulsory one-year national service programme for most Nigerian graduates.</p>
+
+<h2>Current NYSC Leadership</h2>
+<p>The scheme is currently headed by <strong>Brigadier General Olakunle Nafiu</strong>.</p>
+<p>Once the approved reforms take effect, operational leadership of the NYSC will transition to civilian control, while the military will continue to oversee security-related responsibilities.</p>
+
+<h2>What the New NYSC Reform Means for Graduates</h2>
+<p>If fully implemented, the reforms will significantly reshape the NYSC experience for future corps members.</p>
+<p>Some of the expected benefits include:</p>
+<ul>
+  <li>Greater emphasis on employability and workforce skills.</li>
+  <li>Career-focused orientation programmes.</li>
+  <li>Better entrepreneurship and financial literacy training.</li>
+  <li>Professional development based on specialised career streams.</li>
+  <li>Improved security considerations during deployment.</li>
+  <li>A modernised, civilian-led management structure.</li>
+</ul>
+
+<h2>Final Thoughts</h2>
+<p>The Federal Executive Council's approval of the first comprehensive NYSC reform in over five decades represents one of the most significant changes in the history of the scheme.</p>
+<p>By introducing civilian leadership, specialised career streams, enhanced skills development, and a more structured orientation programme, the Federal Government hopes to make national service more relevant to today's labour market while supporting Nigeria's long-term economic growth.</p>
+<p>Prospective corps members should watch for further announcements as the necessary amendments to the NYSC Act are completed and implementation guidelines are released.</p>
+<p>For more information on NYSC, you might find this post helpful: <a href="/blog/nysc-batch-b-stream-i-orientation-2026">NYSC Batch B Stream I Orientation Course 2026 Begins June 10</a>.</p>`,
+    tags: ["NYSC", "Reform", "Federal Government", "Education", "Nigeria", "2026", "Youth Service", "Career Development"],
+  },
+  {
     id: "lagos-bece-timetable-2026",
     title: "Lagos State BECE Timetable 2026 Released – Full Examination Schedule for JSS3 Candidates",
     category: "Education",

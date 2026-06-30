@@ -49,6 +49,885 @@ const currentDate = '2026-06-29'; // Current date for comparison (June 29, 2026)
 
 const allJobs: Job[] = [
   {
+    id: "head-of-marketing-acquisition-growth-remote-2026",
+    title: "Head of Marketing, Acquisition & Growth",
+    date: "2026-06-29",
+    location: "Remote",
+    type: "Full-Time",
+    seniority: "Senior",
+    salary: "₦5,000,000 – ₦7,000,000 Net Monthly",
+    deadline: "Not Specified",
+    company: "Global Fintech Company",
+    summary: "A fast-growing global fintech and digital payments company is seeking an exceptional Head of Marketing, Acquisition & Growth to lead its next phase of aggressive global expansion. This is a high-impact role for a growth operator with experience scaling consumer tech products across African, U.S., and European markets.",
+    responsibilities: [
+      "Lead and scale multi-channel acquisition and growth strategies.",
+      "Drive user acquisition, activation, retention, and revenue growth.",
+      "Build high-performing growth systems across paid, organic, referral, influencer, and community channels.",
+      "Develop creator, partnership, and ambassador ecosystems.",
+      "Lead performance marketing and lifecycle marketing initiatives.",
+      "Collaborate cross-functionally with Product, Engineering, Operations, and Leadership teams.",
+      "Translate product value into compelling market narratives and scalable growth campaigns.",
+      "Build data-driven growth loops and scalable customer acquisition frameworks.",
+      "Monitor key growth metrics including CAC, retention, activation, conversion, and cohort performance."
+    ],
+    requirements: [
+      "Minimum 7–10 years relevant experience in marketing and growth.",
+      "Proven success scaling consumer products in high-growth environments (Fintech, digital payments, or consumer internet products preferred).",
+      "Strong understanding of growth economics and performance marketing.",
+      "Experience driving measurable user and revenue growth at scale.",
+      "Strong executive communication and stakeholder management skills.",
+      "Experience managing cross-functional teams.",
+      "Deep understanding of acquisition, retention, partnerships, and community-led growth.",
+      "Ability to thrive in fast-paced, high-accountability startup environments."
+    ],
+    apply: 'Apply via the link: <a href="https://x.com/i/status/2068058631027970523">Online Application</a>'
+  },
+  {
+    id: "head-nurse-opebi-ikeja-2026",
+    title: "Head Nurse",
+    date: "2026-06-29",
+    location: "Opebi, Ikeja, Lagos",
+    type: "Full-Time",
+    seniority: "Senior",
+    salary: "₦200,000 - ₦250,000 per month",
+    deadline: "Not Specified",
+    summary: "Seeking an experienced and licensed Head Nurse to lead our nursing team and ensure the highest standards of patient care. The ideal candidate will possess strong leadership skills, excellent clinical knowledge, and a passion for delivering quality healthcare services.",
+    responsibilities: [
+      "Supervise and coordinate the activities of all nursing staff.",
+      "Ensure the delivery of high-quality patient care in accordance with hospital policies and professional standards.",
+      "Monitor patient treatment plans and ensure proper documentation of nursing activities.",
+      "Provide guidance, training, and support to nursing staff.",
+      "Maintain effective communication between doctors, nurses, patients, and their families.",
+      "Ensure compliance with healthcare regulations, safety standards, and infection control procedures.",
+      "Manage nursing schedules and staffing requirements.",
+      "Handle patient concerns and ensure excellent patient satisfaction."
+    ],
+    requirements: [
+      "Must be a Registered Nurse (RN) with a valid practicing license.",
+      "Minimum of 3–5 years of nursing experience, with leadership or supervisory experience preferred.",
+      "Strong clinical and patient care skills.",
+      "Excellent leadership, communication, and interpersonal abilities.",
+      "Ability to work under pressure and make sound decisions.",
+      "Good organizational and problem-solving skills."
+    ],
+    apply: 'Apply via the link: <a href="https://x.com/i/status/2068030290774147442">Online Application</a>'
+  },
+  {
+    id: "senior-opd-nurse-oncology-lekki-2026",
+    title: "Senior OPD Nurse (Oncology Specialist)",
+    date: "2026-06-29",
+    location: "Lekki Phase 1, Lagos",
+    type: "Full-Time",
+    seniority: "Senior",
+    company: "Redus Center for Digestive Health",
+    salary: "From ₦400,000.00 per month",
+    deadline: "Not Specified",
+    summary: "A highly skilled, compassionate, and experienced senior nursing professional to lead our Oncology Outpatient Services. This role requires a blend of exceptional outpatient coordination and deep oncology expertise.",
+    responsibilities: [
+      "Safely mix, double-check, and administer chemotherapy, biotherapy, and targeted oncology medications.",
+      "Proactively assess, monitor, and manage acute treatment side effects (e.g., neutropenia, nausea, infusion reactions).",
+      "Provide comprehensive pre-treatment and post-treatment counseling to oncology patients and their families.",
+      "Oversee daily outpatient clinic flows, managing patient triaging and consultation scheduling.",
+      "Work closely with visiting Oncologists, Gastroenterologists, and Surgeons to ensure seamless continuity of care.",
+      "Maintain flawless electronic medical records (EMR).",
+      "Mentor junior OPD nurses, fostering a culture of continuous learning and clinical empathy.",
+      "Utilize advanced oncology training to assess, monitor, and manage complex pain and distressing physical symptoms.",
+      "Enforce strict compliance with guidelines for handling cytotoxic agents."
+    ],
+    requirements: [
+      "Bachelor of Science in Nursing (BNSc) or a Diploma in General Nursing.",
+      "Valid and current license with the Nursing and Midwifery Council of Nigeria (NMCN).",
+      "Must be a fully oncology-trained nurse with a registered Post-Basic Certification in Oncology Nursing.",
+      "Proven clinical experience or formal training in Palliative Care is strictly required.",
+      "Minimum of 7 years of total nursing experience, with at least 5 years of dedicated clinical experience in an Oncology unit/clinic.",
+      "Proficient in venous access management (cannulation, port access, central venous line care).",
+      "High emotional intelligence, exceptional patient-advocacy skills, and strong crisis-management capability."
+    ],
+    apply: 'Apply via the link: <a href="https://x.com/i/status/2068027050565226736">Online Application</a>'
+  },
+  {
+    id: "head-chef-lekki-hospitality-2026",
+    title: "Head Chef",
+    date: "2026-06-29",
+    location: "Lekki Phase 1, Lagos",
+    type: "Full-Time (On-site)",
+    seniority: "Senior",
+    company: "Restaurant & Lounge",
+    salary: "₦350,000 - ₦500,000",
+    deadline: "Not Specified",
+    summary: "A Restaurant & Lounge is looking for a Head Chef to lead the kitchen team, manage culinary operations, and ensure the delivery of high-quality dishes.",
+    responsibilities: [
+      "Interviewing, hiring, and training cooks and other kitchen staff.",
+      "Planning and supervising tasks carried out by the food preparation staff.",
+      "Taking responsibility for the health and safety of the food team.",
+      "Planning food menus and ensuring that the menu is fresh and well presented.",
+      "Keeping abreast of culinary trends and incorporating these into the menu.",
+      "Developing recipes and determining how best to present dishes.",
+      "Keeping an updated inventory.",
+      "Dealing with suppliers and checking that the correct equipment has been delivered at the quoted prices."
+    ],
+    requirements: [
+      "Minimum of OND or equivalent.",
+      "Training at a culinary arts school.",
+      "At least 10 years’ experience working as a head cook.",
+      "Knowledge of culinary trends.",
+      "A proven ability to create unique and delicious dishes.",
+      "Excellent leadership and communication skills."
+    ],
+    apply: 'Apply via the link: <a href="https://x.com/i/status/2067502642842972581">Online Application</a>'
+  },
+  {
+    id: "ct-operator-halliburton-lagos-2026",
+    title: "CT Operator",
+    date: "2026-06-29",
+    location: "Lagos",
+    type: "Full-time",
+    seniority: "Mid-Level",
+    salary: "Not Specified",
+    deadline: "Not Specified",
+    summary: "Operate Halliburton Coiled Tubing (CT) equipment, perform rig up/down procedures, and assist in well intervention operations while ensuring compliance with safety standards.",
+    responsibilities: [
+      "Operate Halliburton CT equipment (125K/95K).",
+      "Perform rig up/down and function testing.",
+      "Assist in well intervention operations.",
+      "Ensure compliance with SQ and HSE standards."
+    ],
+    requirements: [
+      "Minimum of 5 years’ experience in CT operations.",
+      "Offshore experience with CT lifting frames.",
+      "Proficiency in English.",
+      "OPITO (HUET, Ca-EBS) certified."
+    ],
+    apply: 'Send your CV and Portfolio to: <a href="mailto:obianuju@feltonenergy.net">obianuju@feltonenergy.net</a> using the Job Title as the subject of the email.'
+  },
+  {
+    id: "business-manager-fashion-lekki-2026",
+    title: "Business Manager (Male)",
+    date: "2026-06-29",
+    location: "Lekki, Lagos",
+    type: "Full-time",
+    seniority: "Mid-Level",
+    company: "Fashion Brand",
+    salary: "₦300,000 net monthly with allowances",
+    deadline: "Not Specified",
+    summary: "A fashion brand is looking for a proactive and experienced Manager to oversee daily operations, coordinate team activities, and ensure business objectives are achieved efficiently.",
+    responsibilities: [
+      "Oversee daily operations and ensure smooth workflow.",
+      "Plan, coordinate, and monitor team activities.",
+      "Set goals and track team performance.",
+      "Lead, supervise, and support team members.",
+      "Develop and implement strategies to achieve business objectives.",
+      "Resolve operational issues and support decision-making."
+    ],
+    requirements: [
+      "Bachelor’s degree or related qualification in a relevant field.",
+      "Strong leadership and team management skills.",
+      "Excellent communication and organizational abilities.",
+      "Ability to work in a fast-paced environment.",
+      "Strong problem-solving and decision-making skills."
+    ],
+    apply: 'Interested and qualified candidates should send their CV to <a href="mailto:Thelma@workinnigeria.org">Thelma@workinnigeria.org</a>'
+  },
+  {
+    id: "head-of-finance-oil-gas-lagos-2026",
+    title: "Head of Finance",
+    date: "2026-06-29",
+    location: "Lagos",
+    type: "Full-time",
+    seniority: "Senior",
+    company: "Oil & Gas Servicing Sector",
+    salary: "₦1,200,000 – ₦1,700,000 Net Monthly",
+    deadline: "Not Specified",
+    summary: "A strategic leadership role for an experienced finance professional who has successfully led finance functions within the Oil & Gas servicing sector and understands the dynamics of project-based and contract-driven businesses.",
+    responsibilities: [
+      "Proven finance leadership experience within the Oil & Gas servicing sector.",
+      "Experience supporting marine, offshore, subsea, EPC, or engineering operations preferred.",
+      "Strong expertise in cashflow management, working capital optimisation, and project financial management.",
+      "Experience establishing financial controls, governance frameworks, and reporting processes.",
+      "Strong knowledge of Nigerian tax regulations, statutory compliance, and corporate governance."
+    ],
+    requirements: [
+      "ACA, ACCA, or equivalent professional qualification."
+    ],
+    apply: 'Please send your CV to <a href="mailto:recruitment@myskillzhq.com">recruitment@myskillzhq.com</a> with “Head of Finance” as the subject line.'
+  },
+  {
+    id: "multiple-roles-oil-gas-ph-2026",
+    title: "Multiple Roles (Fishing Specialist, Coiled Tubing Operator, Completions Manager, Directional Driller, Fishing Base Supervisor)",
+    date: "2026-06-29",
+    location: "Port-Harcourt, Rivers State",
+    type: "Full-time",
+    seniority: "Mid-Level/Senior",
+    company: "Upstream Oil and Gas Company",
+    salary: "Not Specified",
+    deadline: "Not Specified",
+    summary: "Hiring across multiple roles for a major upstream oil and gas company in Nigeria.",
+    responsibilities: [
+      "Varies by role. Includes fishing operations, coiled tubing, completions management, directional drilling, and base supervision."
+    ],
+    requirements: [
+      "Relevant experience in the specific oil and gas role.",
+      "Technical certifications as required for the position.",
+      "Strong understanding of upstream operations."
+    ],
+    apply: 'Interested and Qualified Candidates should send their CVs to <a href="mailto:oluwatosin.arowosegbe@energy-mgt.com">oluwatosin.arowosegbe@energy-mgt.com</a> using the relevant role title as the subject of the mail.'
+  },
+  {
+    id: "account-manager-b2b-remote-2026",
+    title: "Account Manager (B2B Client Growth)",
+    date: "2026-06-29",
+    location: "Remote (Nigeria)",
+    type: "Full-time",
+    seniority: "Mid-Level",
+    salary: "₦250,000 – ₦450,000/month + performance bonus (up to 30%)",
+    deadline: "Not Specified",
+    summary: "An experienced B2B Account Manager to drive client growth and manage partnerships in industries like Telecom VAS, Fintech, SaaS, AdTech, or Media.",
+    responsibilities: [
+      "Manage and grow a portfolio of B2B clients.",
+      "Identify and pursue upselling and cross-selling opportunities.",
+      "Build strong, long-term relationships with key stakeholders.",
+      "Analyze performance data to identify growth opportunities.",
+      "Ensure client satisfaction and retention."
+    ],
+    requirements: [
+      "5+ years’ experience in B2B Account Management, Client Success, or Partner Management.",
+      "Experience in Telecom VAS, Fintech, SaaS, AdTech, Media, or similar industries.",
+      "Strong communication and relationship-building skills.",
+      "Comfortable analyzing performance data and identifying growth opportunities.",
+      "Experience using CRM systems.",
+      "Excellent written and spoken English."
+    ],
+    apply: 'Apply via the link: <a href="https://x.com/i/status/2067547135407468758">Online Application</a>'
+  },
+  {
+    id: "cover-pharmacist-ebute-metta-2026",
+    title: "Cover Pharmacist",
+    date: "2026-06-29",
+    location: "Ebute-metta",
+    type: "Part-time",
+    seniority: "Junior",
+    company: "BHP Pharmacy",
+    salary: "₦1,200 per hour – Intern / NYSC Corper",
+    deadline: "Not Specified",
+    summary: "A cover pharmacist is needed to support operations from June 29th to July 5th.",
+    responsibilities: [
+      "Dispense medications under supervision.",
+      "Provide customer service to pharmacy clients.",
+      "Assist with inventory management."
+    ],
+    requirements: [
+      "Pharmacy Intern or NYSC Corps Member.",
+      "Proximity to the pharmacy location is an added advantage and strongly preferred."
+    ],
+    apply: 'Interested and qualified candidates should send CV to Whatsapp @ <a href="https://wa.me/2348101094187">08101094187</a>.'
+  },
+  {
+    id: "relationship-manager-ecobank-multiple-locations-2026",
+    title: "Relationship Manager",
+    date: "2026-06-29",
+    location: "Akure & Ore (Ondo), Ilorin (Kwara), Ota (Ogun), Auchi (Edo), Ekpoma (Delta)",
+    type: "Full-time",
+    seniority: "Mid-Level",
+    company: "Ecobank",
+    salary: "Not Specified",
+    deadline: "Not Specified",
+    summary: "Ecobank is hiring Relationship Managers with a proven track record in marketing/sales and credit.",
+    responsibilities: [
+      "Manage and grow a portfolio of clients.",
+      "Drive sales of banking products and services.",
+      "Assess creditworthiness and manage loan applications."
+    ],
+    requirements: [
+      "A minimum of 1-year relevant banking experience, with proven track record of excellent results in marketing/sales and credit.",
+      "Good knowledge of the business environment, the banking industry and its direction, trends and regulations.",
+      "Excellent knowledge of banking operations, technology, products & customer segmentation.",
+      "Minimum of 2nd class lower in first degree (MBA, MSC, MA, ML and/or Professional Qualifications will be an added advantage)."
+    ],
+    apply: 'Apply via the link: <a href="https://fa-emqf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1004/job/1386">Online Application</a>'
+  },
+  {
+    id: "operations-officer-aella-credit-lagos-2026",
+    title: "Operations Officer",
+    date: "2026-06-29",
+    location: "Lagos",
+    type: "Full-time",
+    seniority: "Mid-Level",
+    company: "Aella Credit",
+    salary: "Not Specified",
+    deadline: "Not Specified",
+    summary: "Support banking operations, transaction processing, customer service workflows, and operational efficiency.",
+    responsibilities: [
+      "Support banking operations and transaction processing.",
+      "Manage customer service workflows.",
+      "Ensure operational efficiency."
+    ],
+    requirements: [
+      "2–4 years’ experience in banking operations or related roles.",
+      "Knowledge of Core Banking Applications (CBA) and digital payment platforms.",
+      "Strong organizational and problem-solving skills."
+    ],
+    apply: 'Interested and qualified candidates should send their CV to: <a href="mailto:career@aellacredit.com">career@aellacredit.com</a> using the Job Title as the subject of the email.'
+  },
+  {
+    id: "head-of-strategy-financial-services-lagos-2026",
+    title: "Head of Strategy",
+    date: "2026-06-29",
+    location: "Lagos, Nigeria",
+    type: "Full-time (Onsite)",
+    seniority: "Senior",
+    company: "Financial Services",
+    salary: "N1.5M Gross Monthly",
+    deadline: "Not Specified",
+    summary: "A professional with in-depth experience in Strategy & Business Transformation, currently functioning as a Strategy Manager, Strategy Lead or Head, Strategy.",
+    responsibilities: [
+      "Lead strategic planning and business transformation initiatives.",
+      "Drive growth and market expansion.",
+      "Analyze market trends and provide strategic insights."
+    ],
+    requirements: [
+      "In-depth experience in Strategy & Business Transformation.",
+      "Currently functioning as a Strategy Manager, Strategy Lead or Head, Strategy.",
+      "Requires frequent traveling within & outside Nigeria."
+    ],
+    apply: 'Apply via the link: <a href="https://estradaintl-3.careers-page.com/jobs/6e7404de-78cc-47fa-afae-24b5047c3e99">Online Application</a>'
+  },
+  {
+    id: "hse-supervisor-hobark-ph-2026",
+    title: "HSE Supervisor",
+    date: "2026-06-29",
+    location: "Port Harcourt, Rivers State",
+    type: "2-Year Contract",
+    seniority: "Senior",
+    company: "Hobark Intl",
+    salary: "₦25 Million – ₦30 Million (Annual Gross)",
+    deadline: "Not Specified",
+    summary: "Serve as the primary HSE representative onboard the FSO, providing day-to-day supervision of marine activities, crude oil storage, and offshore operations.",
+    responsibilities: [
+      "Marine activities",
+      "Crude oil storage and export operations",
+      "Vessel interface management",
+      "Offshore logistics",
+      "Cargo transfer activities",
+      "Contractor operations",
+      "Emergency preparedness initiatives"
+    ],
+    requirements: [
+      "Bachelor’s Degree or Higher National Diploma (HND) in Engineering, Environmental Science, Occupational Health & Safety, Industrial Safety, Marine Studies, Physical Sciences, or a related discipline.",
+      "Minimum of 8–10 years’ HSE experience in the upstream oil and gas industry.",
+      "At least 5 years in a field-based HSE supervisory role supporting production, drilling, well intervention, construction, or marine operations.",
+      "Demonstrated experience working in swamp, offshore, onshore, and marine environments.",
+      "Knowledge of incident investigation methodologies such as RCA, TapRooT, or similar techniques.",
+      "Relevant HSE Certifications are also required."
+    ],
+    apply: 'Apply via the link: <a href="https://x.com/i/status/2067584992448831851">Online Application</a>'
+  },
+  {
+    id: "multiple-roles-media-it-lagos-asaba-ilorin-2026",
+    title: "Multiple Roles (Media Marketer, Compliance Officer, Accountant, Data Operative)",
+    date: "2026-06-29",
+    location: "Lagos, Asaba, Ilorin",
+    type: "Full-time",
+    seniority: "Junior/Mid-Level",
+    salary: "Not Specified",
+    deadline: "2026-07-10",
+    company: "A fast growing Media/IT Driven organisation",
+    summary: "A fast growing Media/IT Driven organisation is hiring for multiple roles including Media & Research Marketers, Compliance Officers/Data Analysts, Account/Credit Control Officers, and Data Monitoring Operatives.",
+    responsibilities: [
+      "Media & Research Marketers: Market digitally and be versatile in the media space.",
+      "Compliance Officers/Data Analyst: Utilize IT skills for compliance and data analysis.",
+      "Account/Credit Control Officer: Handle accounting tasks with digital versatility.",
+      "Data Monitoring Operatives: Monitor data with vast knowledge in IT skills."
+    ],
+    requirements: [
+      "Media & Research Marketers: HND/B.Sc or equivalent in a relevant field. Must be versatile in media space and digital marketing.",
+      "Compliance Officers/Data Analyst: Minimum of OND/HND/B.Sc or equivalent in any of the Social Sciences; with vast knowledge in IT skills.",
+      "Account/Credit Control Officer: Minimum of OND/HND/B.Sc or equivalent in Accounting and should be digitally versatile.",
+      "Data Monitoring Operatives: Minimum of OND/HND/B.Sc or equivalent in any of the Social Sciences; with vast knowledge in IT skills.",
+      "All applicants must be good team players with good communication and IT skills.",
+      "Residence in specified areas of Lagos, Asaba, or Ilorin is required depending on the role."
+    ],
+    apply: 'Applicants for Lagos roles (Marketers, Compliance, Accountant) should apply via <a href="mailto:mmssecretariat@gmail.com">mmssecretariat@gmail.com</a>. Applicants for Asaba Data Operative role should apply via <a href="mailto:megaimathew@yahoo.co.uk">megaimathew@yahoo.co.uk</a>. Applicants for Ilorin Data Operative role should apply via <a href="mailto:mmsilorindata@yahoo.com">mmsilorindata@yahoo.com</a>.'
+  },
+  {
+    id: "videographer-cyber-crew-lagos-2026",
+    title: "Videographer",
+    date: "2026-06-29",
+    location: "Hybrid (Lagos)",
+    type: "Full-time",
+    seniority: "Mid-Level",
+    company: "The Cyber Crew",
+    salary: "Not Specified",
+    deadline: "Not Specified",
+    summary: "The Cyber Crew is looking for a skilled videographer to create high-quality visual content for our clients and brand projects. The ideal candidate has experience with professional camera equipment, understands storytelling through video, and can bring creative concepts to life.",
+    responsibilities: [
+      "Plan, shoot, and produce professional video content for social media, campaigns, and brand projects.",
+      "Operate professional camera equipment, lighting, and audio gear.",
+      "Collaborate with the creative team to execute content concepts and visual direction.",
+      "Capture engaging footage that aligns with brand identities and campaign goals.",
+      "Edit and deliver polished video content when required."
+    ],
+    requirements: [
+      "Proven experience as a videographer with a strong portfolio.",
+      "Proficiency with professional cameras and video production equipment.",
+      "Strong understanding of framing, lighting, storytelling, and editing.",
+      "Ability to work independently and collaborate with a creative team.",
+      "Attention to detail and a passion for creating high-quality content."
+    ],
+    apply: 'Send portfolio & CV to: <a href="mailto:admin@cybercrew.ng">admin@cybercrew.ng</a>'
+  },
+  {
+    id: "social-media-growth-marketer-remote-2026",
+    title: "Social Media Marketer / Growth Marketer",
+    date: "2026-06-29",
+    location: "Remote (Work From Home)",
+    type: "Full-time",
+    seniority: "Senior",
+    salary: "Not Specified",
+    deadline: "Not Specified",
+    summary: "We’re looking for a results-driven Growth Marketer to lead our content strategy and drive measurable business growth.",
+    responsibilities: [
+      "Manage and execute the monthly content calendar.",
+      "Develop revenue-focused content strategies.",
+      "Lead and coordinate creatives (designers, editors, content creators).",
+      "Build WhatsApp marketing funnels and retention campaigns.",
+      "Drive growth through social media, influencers, and UGC.",
+      "Maintain a consistent brand voice across all platforms."
+    ],
+    requirements: [
+      "5+ years’ experience in Growth or Content Marketing.",
+      "Experience with DTC, e-commerce, or health & wellness brands.",
+      "Strong understanding of Meta Ads and content strategy.",
+      "Experience managing creative teams.",
+      "Hands-on experience with WhatsApp marketing and community engagement.",
+      "Results-oriented with a strong focus on revenue growth."
+    ],
+    apply: 'Apply Here: <a href="https://docs.google.com/forms/d/e/1FAIpQLSdjHJ43m5afSTJKyFDVTC4iiAJH8hHSRa-c2tiIxAO5yMip6g/viewform">Online Application</a>'
+  },
+  {
+    id: "pharmacist-in-charge-skyzar-osogbo-2026",
+    title: "Pharmacist-in-Charge",
+    date: "2026-06-29",
+    location: "Osogbo, Osun State",
+    type: "Full-time",
+    seniority: "Mid-Level",
+    company: "SKYZAR Pharmacy",
+    salary: "₦280,000 Monthly + ₦10,000 Allowance",
+    deadline: "Not Specified",
+    summary: "SKYZAR Pharmacy is currently seeking a qualified and experienced professional to fill the position of Pharmacist-in-Charge.",
+    responsibilities: [
+      "Oversee pharmacy operations and ensure compliance with professional standards.",
+      "Manage inventory and dispensing of medications.",
+      "Provide pharmaceutical care and customer service.",
+      "Supervise pharmacy staff."
+    ],
+    requirements: [
+      "Must be a licensed Pharmacist with relevant professional qualifications.",
+      "Strong leadership, management, and communication skills.",
+      "Ability to oversee pharmacy operations and ensure compliance with professional standards.",
+      "Commitment to delivering excellent pharmaceutical care and customer service."
+    ],
+    apply: 'Interested and qualified candidates should send their CV to: <a href="mailto:skyzarpharmacy001@gmail.com">skyzarpharmacy001@gmail.com</a>. For enquiries, contact: 08102393596'
+  },
+  {
+    id: "multiple-roles-yels-concept-sangotedo-2026",
+    title: "Multiple Roles (HR, Accountant, Social Media, Bakery Manager, Dispatch Rider)",
+    date: "2026-06-29",
+    location: "Sangotedo, Lagos",
+    type: "Full-time",
+    seniority: "Mid-Level/Junior",
+    company: "Yels Concept",
+    salary: "Not Specified",
+    deadline: "Not Specified",
+    summary: "Hiring for multiple positions including Human Resources (HR) Officer, Accountant, Social Media Manager/Content Creator, Bakery Manager, and Dispatch Rider.",
+    responsibilities: [
+      "Varies by role. Includes HR management, accounting, social media management, bakery operations, and dispatch services."
+    ],
+    requirements: [
+      "3–5 years relevant experience for HR Officer, Accountant, Social Media Manager/Content Creator, and Bakery Manager roles.",
+      "Minimum of 1 year experience for Dispatch Rider role.",
+      "Exceptional candidates with at least 2 years experience may be considered for selected positions.",
+      "Strong knowledge of the relevant field.",
+      "Good communication, organisational, and problem-solving skills."
+    ],
+    apply: 'Send your CV to: <a href="mailto:yelsconcept@gmail.com">yelsconcept@gmail.com</a> with the subject: Position Applied For'
+  },
+  {
+    id: "inventory-store-officer-construction-lagos-island-2026",
+    title: "Inventory/Store Officer",
+    date: "2026-06-29",
+    location: "Island, Lagos, Nigeria",
+    type: "Full-Time",
+    seniority: "Mid-Level",
+    company: "Built Reliance Construction Limited",
+    salary: "Not Specified",
+    deadline: "Not Specified",
+    summary: "Seeking an experienced and detail-oriented Inventory/Store Officer to manage our construction materials, tools, and equipment while ensuring efficient inventory control across project sites.",
+    responsibilities: [
+      "Receive, inspect, and verify incoming materials against purchase orders and delivery notes.",
+      "Ensure proper storage, labeling, and arrangement of materials in line with company standards.",
+      "Maintain accurate records of all stock movements, including receipts, issues, returns, and transfers.",
+      "Monitor inventory levels and initiate replenishment requests when stock reaches reorder points.",
+      "Conduct daily, weekly, and monthly stock counts and reconcile physical inventory with system records."
+    ],
+    requirements: [
+      "HND or OND in Supply Chain Management, Logistics, Business Administration, Accounting, or related field.",
+      "Minimum of 3–5 years’ experience in inventory/store management within the construction industry.",
+      "Strong knowledge of construction materials such as cement, steel, aggregates, pipes, fittings, and finishing materials."
+    ],
+    apply: 'Interested candidates should send their CV and cover letter with the subject line: “Application – Inventory/Store Officer” To: <a href="mailto:career@builtreliancecl.com">career@builtreliancecl.com</a>'
+  },
+  {
+    id: "civil-engineering-technician-hitech-lagos-2026",
+    title: "Civil Engineering Technician (Entry-Level)",
+    date: "2026-06-29",
+    location: "Lagos",
+    type: "Full-time",
+    seniority: "Junior",
+    company: "Hitech Construction Company Limited",
+    salary: "Not Specified",
+    deadline: "Not Specified",
+    summary: "Hitech Construction Company Limited is hiring a Civil Engineering Technician to work on major infrastructure projects across Nigeria, gain hands-on experience in project planning and digital engineering, and collaborate with experienced professionals.",
+    responsibilities: [
+      "Assist in project planning and execution.",
+      "Perform quantity take-offs and data management.",
+      "Read and interpret engineering drawings using AutoCAD, Revit, and Civil 3D.",
+      "Support digital engineering workflows."
+    ],
+    requirements: [
+      "Bachelor’s Degree (B.Eng./B.Sc.) or HND in Civil Engineering or a related discipline.",
+      "0–2 years of relevant experience (fresh graduates are encouraged to apply).",
+      "Basic understanding of construction methods, materials, and industry standards.",
+      "Strong proficiency in Microsoft Excel (formulas, data management, and analysis).",
+      "Working knowledge of Power BI.",
+      "Basic exposure to AI tools for workflow improvement and data handling.",
+      "Ability to read and interpret engineering drawings using AutoCAD, Revit, Civil 3D."
+    ],
+    apply: 'Send CV to: <a href="mailto:adeola.sulucainan@hitech-company.com">adeola.sulucainan@hitech-company.com</a> with “Civil Engineering Technician” as the subject of the email.'
+  },
+  {
+    id: "production-pharmacist-anambra-2026",
+    title: "Production Pharmacist",
+    date: "2026-06-29",
+    location: "Ogidi, Anambra state",
+    type: "Full-time",
+    seniority: "Mid-Level",
+    salary: "Negotiable",
+    deadline: "Not Specified",
+    summary: "Responsible for planning, supervising, and coordinating pharmaceutical manufacturing activities to ensure products are produced according to approved specifications, cGMP, company policies, and regulatory requirements.",
+    responsibilities: [
+      "Plan, supervise, and coordinate pharmaceutical manufacturing activities.",
+      "Ensure products are produced according to approved specifications and cGMP.",
+      "Monitor production output, batch right-first-time rate, and GMP compliance.",
+      "Reduce production deviations and wastage.",
+      "Manage equipment utilization and downtime control."
+    ],
+    requirements: [
+      "Bachelor of Pharmacy (B.Pharm) degree.",
+      "Registered Pharmacist with the relevant Pharmacy Regulatory Authority.",
+      "2–5 years of experience in pharmaceutical manufacturing (or as required).",
+      "Sound knowledge of cGMP, GDP, and pharmaceutical manufacturing processes."
+    ],
+    apply: 'Interested and qualified candidates should forward their CV to: <a href="mailto:recruitment.dtnl@gmail.com">recruitment.dtnl@gmail.com</a> using the position as subject of email.'
+  },
+  {
+    id: "business-development-associate-real-estate-remote-2026",
+    title: "Business Development Associate (Real Estate)",
+    date: "2026-06-29",
+    location: "Lagos (Remote with occasional field visits)",
+    type: "Full-time",
+    seniority: "Junior",
+    salary: "₦150,000 Base Salary + Performance Commissions up to N600,000",
+    deadline: "Not Specified",
+    summary: "We are looking for a highly motivated Business Development Associate to help expand our network of real estate professionals across Nigeria.",
+    responsibilities: [
+      "Recruiting real estate professionals to Nigerent.",
+      "Demonstrating the platform’s benefits.",
+      "Assisting agents with onboarding and setup.",
+      "Helping agents upload listings."
+    ],
+    requirements: [
+      "Excellent communication skills.",
+      "Strong sales and negotiation abilities.",
+      "Comfortable using technology and online platforms."
+    ],
+    apply: 'Apply: <a href="https://airtable.com/appWUSGxQQ1Fss63F/pagqHARVTKOo4p8g9/form">Online Application</a>'
+  },
+  {
+    id: "client-relations-officer-maryland-lagos-2026",
+    title: "Client Relations Officer",
+    date: "2026-06-29",
+    location: "Maryland, Lagos",
+    type: "Full-time",
+    seniority: "Junior",
+    salary: "Not Specified",
+    deadline: "Not Specified",
+    summary: "We’re looking for a customer-focused and detail-oriented professional to join our team.",
+    responsibilities: [
+      "Manage client relationships and ensure satisfaction.",
+      "Handle client inquiries and provide support.",
+      "Maintain client records and communication logs."
+    ],
+    requirements: [
+      "Excellent communication skills.",
+      "Strong attention to detail.",
+      "Good interpersonal and relationship management skills."
+    ],
+    apply: 'Send your CV to: <a href="mailto:Recruitment.almondsprings@gmail.com">Recruitment.almondsprings@gmail.com</a>'
+  },
+  {
+    id: "it-support-specialist-abuja-2026",
+    title: "IT Support Specialist",
+    date: "2026-06-29",
+    location: "Abuja",
+    type: "Full-time",
+    seniority: "Junior",
+    salary: "Not Specified",
+    deadline: "Not Specified",
+    summary: "Kadmap is hiring an IT Support Specialist to provide technical assistance and maintain IT systems.",
+    responsibilities: [
+      "Provide technical support to end-users.",
+      "Troubleshoot hardware, software, and network issues.",
+      "Install and configure computer systems.",
+      "Manage user accounts and permissions."
+    ],
+    requirements: [
+      "Diploma or Bachelor’s degree in Information Technology, Computer Science, or a related field.",
+      "Minimum of 2 years’ experience in IT support, helpdesk, or a similar technical support role.",
+      "Strong troubleshooting and problem-solving abilities.",
+      "Working knowledge of Windows and Linux operating systems.",
+      "Experience with ticketing systems and remote support tools is an advantage."
+    ],
+    apply: 'Apply via the link: <a href="https://kadmap.com/job-detail/2">Online Application</a>'
+  },
+  {
+    id: "female-content-creator-petroleumprice-lagos-2026",
+    title: "Female Content Creator",
+    date: "2026-06-29",
+    location: "Lagos, Nigeria (Hybrid)",
+    type: "Full-time",
+    seniority: "Junior",
+    company: "Petroleumprice.ng",
+    salary: "Not Specified",
+    deadline: "2026-06-30",
+    summary: "Petroleumprice.ng is looking for a talented Female Content Creator to join our team in Lagos, Nigeria.",
+    responsibilities: [
+      "Create engaging content for various platforms.",
+      "Collaborate with the marketing team on content strategy.",
+      "Shoot and edit videos and photos."
+    ],
+    requirements: [
+      "Creative, confident, and passionate about creating engaging content."
+    ],
+    apply: 'Send your CV and portfolio to: <a href="mailto:recruitments@petroleumprice.ng">recruitments@petroleumprice.ng</a>'
+  },
+  {
+    id: "head-risk-compliance-microfinance-ikoyi-2026",
+    title: "Head, Risk & Compliance",
+    date: "2026-06-29",
+    location: "Ikoyi, Lagos, Nigeria",
+    type: "Full-time",
+    seniority: "Senior",
+    company: "Microfinance Bank",
+    salary: "₦1.1M – ₦1.5M Net/month + Benefits",
+    deadline: "Not Specified",
+    summary: "A fast-growing Microfinance Bank is seeking a strategic leader to safeguard our operations, champion a robust risk culture, and ensure flawless regulatory compliance.",
+    responsibilities: [
+      "Oversee and implement enterprise risk frameworks (Credit, Operational, & Liquidity).",
+      "Maintain the corporate risk register and track Key Risk Indicators (KRIs).",
+      "Ensure 100% compliance with CBN guidelines, AML/CFT, and KYC frameworks.",
+      "Prepare and present data-driven reports to Executive Management and the Board.",
+      "Act as the primary liaison for regulatory examinations and audits."
+    ],
+    requirements: [
+      "Minimum of 10 years in Risk/Compliance within a Microfinance Bank, Commercial Bank, or Fintech.",
+      "Deep mastery of credit risk, financial regulations, and AML/CFT frameworks.",
+      "Strong analytical mindset with exceptional reporting and leadership skills.",
+      "Female candidates are strongly encouraged to apply."
+    ],
+    apply: 'Apply via the link: <a href="https://x.com/i/status/2067586830409572804">Online Application</a>'
+  },
+  {
+    id: "telesales-customer-support-ibadan-2026",
+    title: "Telesales/Customer support (Day Shift)",
+    date: "2026-06-29",
+    location: "Ibadan",
+    type: "Full-time",
+    seniority: "Junior",
+    salary: "N120,000",
+    deadline: "Not Specified",
+    summary: "Hiring for a Telesales/Customer support role for the day shift in Ibadan.",
+    responsibilities: [
+      "Handle inbound and outbound sales calls.",
+      "Provide customer support and resolve inquiries.",
+      "Meet sales targets and performance metrics."
+    ],
+    requirements: [
+      "Must have completed NYSC.",
+      "Experience working in a travel agency is an advantage.",
+      "Strong communication and persuasion skills.",
+      "Ability to work shifts."
+    ],
+    apply: 'Send your application to <a href="mailto:career@salvoagency.com">career@salvoagency.com</a> or apply via the link: <a href="https://apply.bizedgeapp.com/1666955043">Online Application</a>'
+  },
+  {
+    id: "medical-officer-ikoyi-clinic-2026",
+    title: "Medical Officer",
+    date: "2026-06-29",
+    location: "Ikoyi",
+    type: "Full-time (Monday-Friday)",
+    seniority: "Mid-Level",
+    salary: "450k – 500k",
+    deadline: "Not Specified",
+    summary: "A Medical Officer is needed urgently in a Clinic on the island.",
+    responsibilities: [
+      "Provide medical consultation and treatment.",
+      "Manage patient care and follow-ups.",
+      "Maintain accurate medical records."
+    ],
+    requirements: [
+      "MBBS degree.",
+      "Minimum of 1-3 years experience.",
+      "Current Practicing License.",
+      "ACLS AND BLS CERTIFICATE.",
+      "Only Candidate living around Obalende, Ikoyi, Lekki and its environs should apply.",
+      "Candidate should be ready to resume 1st July 2026."
+    ],
+    apply: 'Qualified Candidates should send their CV to the link: <a href="https://x.com/i/status/2067604788435464562">Online Application</a>'
+  },
+  {
+    id: "nursing-officer-ikoyi-clinic-2026",
+    title: "Nursing Officer",
+    date: "2026-06-29",
+    location: "Ikoyi",
+    type: "Full-time (Monday-Friday)",
+    seniority: "Junior",
+    salary: "150k – 200k",
+    deadline: "Not Specified",
+    summary: "A Nursing Officer is needed urgently in a Clinic on the island.",
+    responsibilities: [
+      "Provide nursing care to patients.",
+      "Administer medications and treatments.",
+      "Monitor patient vitals and progress."
+    ],
+    requirements: [
+      "Post qualification.",
+      "Minimum of 1-3 years experience.",
+      "Current Practicing License.",
+      "ACLS AND BLS CERTIFICATE.",
+      "Only Candidate living around Obalende, Ikoyi, Lekki and its environs should apply.",
+      "Candidate should be ready to resume 1st July 2026."
+    ],
+    apply: 'Qualified Candidates should send their CV to the link: <a href="https://x.com/i/status/2067604788435464562">Online Application</a>'
+  },
+  {
+    id: "storekeeper-lekki-epe-2026",
+    title: "Storekeeper",
+    date: "2026-06-29",
+    location: "Lekki–Epe (between Eleganza and Eleko), Lagos",
+    type: "Full-time",
+    seniority: "Junior",
+    salary: "₦170,000 Gross Monthly",
+    deadline: "Not Specified",
+    summary: "An experienced and detail-oriented Storekeeper to manage inventory for a furniture, building materials, or FMCG retail company.",
+    responsibilities: [
+      "Receive, record, and manage inventory accurately.",
+      "Conduct regular stock counts and reconcile variances.",
+      "Maintain stock records using Excel and inventory systems.",
+      "Coordinate product dispatch and monitor stock movement.",
+      "Prepare daily, weekly, and monthly inventory reports."
+    ],
+    requirements: [
+      "HND/B.Sc. in Accounting, Business Administration, Purchasing & Supply, or related field.",
+      "Minimum 2 years experience in storekeeping, inventory, or stock control.",
+      "Strong Excel and record-keeping skills.",
+      "High level of integrity, accountability, and attention to detail.",
+      "Experience in furniture, building materials, or FMCG retail is an advantage.",
+      "Must reside within or be able to commute to the Lekki–Epe corridor."
+    ],
+    apply: 'Apply here: <a href="https://forms.gle/5WaACDgtqxU9MRBx8">Online Application</a>'
+  },
+  {
+    id: "dialysis-nurse-ikeja-2026",
+    title: "Dialysis Nurse",
+    date: "2026-06-29",
+    location: "Ikeja, Lagos",
+    type: "Full-Time (Monday – Friday)",
+    seniority: "Mid-Level",
+    company: "Healthcare Facility",
+    salary: "₦200,000.00 per month",
+    deadline: "Not Specified",
+    summary: "A compassionate and detail-oriented Registered Nurse to join our team and care for patients undergoing dialysis at our facility.",
+    responsibilities: [
+      "Perform and oversee dialysis process including hemodialysis and peritoneal dialysis.",
+      "Ensure patient assessment care before, during and after dialysis treatment.",
+      "Set up, calibrate, monitor and operate dialysis machines in accordance with clinical protocols.",
+      "Administer medications, manage vascular access, and monitor for complications.",
+      "Maintain strict infection control standards.",
+      "Ensure accurate documentation of dialysis treatment and patient responses."
+    ],
+    requirements: [
+      "Registered Nurse (RN) with a valid Nursing and Midwifery Council Licence Practice.",
+      "Minimum of 2 years of Hands-on dialysis nursing experience.",
+      "Experience in nephrology, ICU, critical care, or renal units is an advantage.",
+      "Basic Life Support (BLS) and Advanced Cardiovascular Life Support (ACLS) certification.",
+      "Strong clinical assessment and critical-thinking skills."
+    ],
+    apply: 'Apply via the link: <a href="https://x.com/i/status/2067618603210256800">Online Application</a>'
+  },
+  {
+    id: "principal-secondary-school-igcse-isolo-2026",
+    title: "Principal – Secondary School (IGCSE Curriculum)",
+    date: "2026-06-29",
+    location: "Isolo, Lagos",
+    type: "Full-Time",
+    seniority: "Senior",
+    company: "HRLeverage Africa (Client)",
+    salary: "500K Net plus other employment benefits",
+    deadline: "Not Specified",
+    summary: "An experienced and visionary Principal to oversee the academic and administrative operations of a school with a blended Nigerian and IGCSE curriculum.",
+    responsibilities: [
+      "Oversee the daily academic and administrative operations of the school.",
+      "Supervise and evaluate teaching and non-teaching staff performance.",
+      "Ensure effective implementation of the Nigerian and IGCSE curriculum.",
+      "Monitor student academic performance, discipline, and overall welfare.",
+      "Drive school improvement initiatives and maintain high educational standards."
+    ],
+    requirements: [
+      "Minimum of 5 years experience in a similar role.",
+      "Experience leading a British/IGCSE or blended curriculum school is mandatory.",
+      "Familiarity with Cambridge accreditation and quality assurance standards.",
+      "Strong academic and administrative leadership.",
+      "Strong understanding of academic planning and student management."
+    ],
+    apply: 'Interested and qualified candidates should send their application to <a href="mailto:olamide.hrleverageafrica@gmail.com">olamide.hrleverageafrica@gmail.com</a> using the job title as the subject of the email.'
+  },
+  {
+    id: "cleaner-lekki-phase-1-2026",
+    title: "Cleaner",
+    date: "2026-06-29",
+    location: "Lekki Phase 1",
+    type: "Full-time",
+    seniority: "Junior",
+    salary: "From ₦70,000.00 per month",
+    deadline: "Not Specified",
+    summary: "A cleaner is needed to perform general cleaning tasks in Lekki Phase 1.",
+    responsibilities: [
+      "Perform general cleaning tasks including sweeping, mopping, dusting, and vacuuming.",
+      "Clean and sanitize restrooms, toilets, and wash areas.",
+      "Empty trash bins and dispose of waste properly.",
+      "Clean windows, glass surfaces, and doors.",
+      "Ensure cleaning equipment and supplies are properly stored and maintained."
+    ],
+    requirements: [
+      "Previous cleaning experience is an advantage but not mandatory (training will be provided).",
+      "Ability to work independently and as part of a team.",
+      "Good attention to detail and a positive attitude.",
+      "Physical stamina to handle cleaning tasks.",
+      "Trustworthy and punctual."
+    ],
+    apply: 'To apply, WhatsApp: <a href="https://wa.me/2348027323776">08027323776</a>'
+  },
+  {
     id: "spy-driver-lekki-phase-1-2026",
     title: "SPY Driver",
     date: "2026-06-18",

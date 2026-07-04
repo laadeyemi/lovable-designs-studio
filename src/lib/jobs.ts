@@ -49,6 +49,899 @@ const currentDate = '2026-06-29'; // Current date for comparison (June 29, 2026)
 
 const allJobs: Job[] = [
   {
+    id: "cnc-milling-machine-operator-ota-2026-07-03",
+    title: "CNC Milling Machine Operator",
+    date: "2026-07-03",
+    location: "Ota, Ogun state",
+    type: "Full-time",
+    salary: "200,000 – 250,000",
+    deadline: "Not Specified",
+    summary: "We are looking for a CNC Milling Machine Operator to perform machining work as per drawing and production requirements.",
+    responsibilities: [
+      "Operate CNC milling machine (manual)",
+      "Understand technical drawings",
+      "Set cutting tools and fixtures",
+      "Maintain accuracy and quality standards",
+      "Perform basic machine maintenance",
+      "Follow safety procedures"
+    ],
+    requirements: [
+      "Minimum of SSCE qualification preferred",
+      "2+ years’ experience in CNC milling operation",
+      "Knowledge of measuring tools",
+      "Good understanding of machining process",
+      "Working Hours: 8:00 AM to 7:00 PM (Monday–Friday), 8:00 AM to 3:30 PM (Saturday)"
+    ],
+    apply: 'Interested and qualified candidates should send CVs to cv@ascentech.com.ng using CNC MILLING as the subject of the mail.'
+  },
+  {
+    id: "carpenter-vi-lagos-2026-07-03",
+    title: "Carpenter",
+    date: "2026-07-03",
+    location: "Victoria Island (VI), Lagos",
+    type: "Full-time",
+    salary: "₦120,000 – ₦150,000",
+    deadline: "Not Specified",
+    summary: "Our client, a reputable construction company is seeking a skilled Carpenter to join its team. The ideal candidate will be responsible for carrying out a wide range of carpentry works on construction sites, ensuring all installations and finishes meet quality and safety standards.",
+    responsibilities: [
+      "Construct, install, and repair wooden structures, fittings, and fixtures.",
+      "Read and interpret basic construction drawings and measurements.",
+      "Measure, cut, shape, and assemble wood and other materials accurately.",
+      "Install doors, windows, cabinets, partitions, roofing frameworks, and other wooden components.",
+      "Inspect completed work to ensure quality and compliance with project specifications.",
+      "Operate and maintain carpentry tools and equipment safely.",
+      "Follow all site safety regulations and work effectively with other construction team members."
+    ],
+    requirements: [
+      "1-3 years of carpentry experience, preferably within a construction company.",
+      "Good knowledge of carpentry tools, materials, and construction techniques.",
+      "Ability to read basic technical drawings and work with minimal supervision.",
+      "Strong attention to detail and commitment to delivering quality workmanship.",
+      "Physically fit and able to work in a fast-paced site environment."
+    ],
+    apply: 'Interested candidates should send their CV to cv@ascentech.com.ng using “Carpenter – Victor” as the subject of the email.'
+  },
+  {
+    id: "open-market-sales-representative-south-south-2026-07-03",
+    title: "Open Market Sales Representative",
+    date: "2026-07-03",
+    location: "South-South, Nigeria",
+    type: "Full-time",
+    company: "Home Care / FMCG",
+    salary: "₦80,000 Monthly",
+    deadline: "Not Specified",
+    summary: "We are looking for a results-driven Open Market Sales Representative to promote and sell our home care products across the South-South region. The role involves driving sales, expanding customer coverage, and maintaining strong relationships with wholesalers and retailers.",
+    responsibilities: [
+      "Achieve assigned sales targets.",
+      "Visit customers and develop new business.",
+      "Ensure product availability and visibility.",
+      "Build and maintain customer relationships.",
+      "Monitor competitor activities and submit sales reports."
+    ],
+    requirements: [
+      "Minimum of OND or SSCE.",
+      "1–2 years’ sales experience in FMCG/Home Care.",
+      "Good communication and negotiation skills.",
+      "Willingness to travel within the South-South region."
+    ],
+    apply: 'Qualified candidates should send their CVs to cv@ascentech.com.ng using the job title and Location as the subject of the mail. (Mary 15)'
+  },
+  {
+    id: "business-champion-multiple-locations-2026-07-03",
+    title: "Business Champion",
+    date: "2026-07-03",
+    location: "Port-harcourt, Ota, ikeja/ogba, Aba, Lekki, Ikorodu",
+    type: "Full-time",
+    salary: "300-700k (gross)",
+    deadline: "Not Specified",
+    summary: "We are looking for exceptional, high-potential graduates to join our team as Business Champions. This role is designed for individuals who are ready to take ownership, drive business performance, and execute strategic initiatives across multiple locations. You will play a key role in ensuring operational excellence, identifying growth opportunities, and delivering measurable results in a fast-paced environment.",
+    responsibilities: [
+      "Drive business performance and operational efficiency across assigned locations",
+      "Take ownership of key projects and ensure timely execution",
+      "Analyze business data to identify trends, gaps, and opportunities for improvement",
+      "Support strategic decision-making with insights and recommendations",
+      "Collaborate with cross-functional teams to achieve business objective",
+      "Maintain high standards of professionalism and accountability in all activities"
+    ],
+    requirements: [
+      "Minimum of a First-Class degree (mandatory)",
+      "Recently completed NYSC (or about to complete)",
+      "Strong analytical and problem-solving skills",
+      "Demonstrated leadership potential and ability to take initiative",
+      "Excellent communication and interpersonal skills",
+      "High level of drive, discipline, and attention to detail",
+      "Ability to work in a fast-paced, performance-driven environment"
+    ],
+    apply: 'Qualified candidates should send their CVs to cv@ascentech.com.ng using the job title and Location (Mary 15)as the subject of the mail.'
+  },
+  {
+    id: "head-of-sales-lagos-2026-07-03",
+    title: "Head of Sales",
+    date: "2026-07-03",
+    location: "Lagos",
+    type: "Full-time",
+    salary: "₦300,000 – ₦400,000 per month",
+    deadline: "Not Specified",
+    summary: "We are seeking an experienced Head of Sales to lead our sales team and drive revenue growth. The ideal candidate will have a proven track record in selling high-end products, developing sales strategies, mentoring teams, and consistently exceeding sales targets.",
+    responsibilities: [
+      "Develop and execute sales strategies to achieve business goals.",
+      "Lead, train, and mentor the sales team to improve performance.",
+      "Drive sales growth and expand the customer base.",
+      "Build and maintain relationships with key clients.",
+      "Monitor sales performance, market trends, and competitor activities.",
+      "Prepare sales reports, forecasts, and performance reviews."
+    ],
+    requirements: [
+      "Bachelor’s degree in Business Administration, Marketing, or a related field.",
+      "5–7 years of sales experience, with at least 2 years in a leadership role.",
+      "Proven success in selling high-end or premium products.",
+      "Strong leadership, coaching, negotiation, and team management skills.",
+      "Excellent communication, customer engagement, and strategic planning abilities.",
+      "Demonstrated ability to train, mentor, and develop high-performing sales teams."
+    ],
+    apply: 'Qualified candidates should send their CVs to cv@ascentech.com.ng using the job title as the subject of the mail. (Bowale 14)'
+  },
+  {
+    id: "siwes-intern-onipan-2026-07-03",
+    title: "SIWES INTERN",
+    date: "2026-07-03",
+    location: "Onipan, Lagos",
+    type: "Internship",
+    salary: "₦60,000 Monthly",
+    deadline: "Not Specified",
+    summary: "We are currently seeking motivated and enthusiastic SIWES Interns for 6 months to join our team in Onipan, Lagos.",
+    responsibilities: [
+      "Assist with assigned tasks and projects.",
+      "Learn and contribute in a professional work environment.",
+      "Collaborate with team members on daily activities."
+    ],
+    requirements: [
+      "Must be a current undergraduate student enrolled in a recognized institution.",
+      "Must possess a valid SIWES/Industrial Training 6month placement letter from their school.",
+      "Good communication and interpersonal skills.",
+      "Willingness to learn and contribute in a professional work environment.",
+      "Ability to work effectively in a team."
+    ],
+    apply: 'Qualified candidates should send their applications and SIWES placement letter to: Dect.recruitment@gmail.com. Note: Only those with 6 months Siwes/ I.T Letter would be shortlisted'
+  },
+  {
+    id: "front-desk-officer-surulere-2026-07-03-v2",
+    title: "FRONT DESK OFFICER",
+    date: "2026-07-03",
+    location: "Surulere, Lagos",
+    type: "Full-time",
+    salary: "₦100,000/month",
+    deadline: "Not Specified",
+    summary: "We are looking for a friendly, organized, and customer-focused Front Desk Officer to be the first point of contact for patients and visitors. You’ll ensure smooth reception operations and excellent patient experience at all times. Immediate resumption.",
+    responsibilities: [
+      "Welcome and attend to patients, visitors, and callers professionally and promptly",
+      "Manage appointments booking, confirmations, and rescheduling",
+      "Handle patient registration, biodata capture, and file management using the ECMS",
+      "Process billing, invoices, and coordinate payments with the accounts team",
+      "Respond to enquiries via phone, email, and in-person with empathy and clarity",
+      "Maintain a clean, organized, and welcoming reception area",
+      "Support the Admin/Clinic Manager with administrative tasks and documentation",
+      "Escalate patient complaints or operational issues appropriately"
+    ],
+    requirements: [
+      "Minimum of OND/HND or BSc in any discipline. Healthcare background is an advantage",
+      "1–2 years’ experience in front desk, customer service, or healthcare administration preferred",
+      "Excellent communication, interpersonal, and customer service skills",
+      "Good appearance, pleasant disposition, and professional conduct",
+      "Proficient in Microsoft Office Suite and comfortable learning ECMS/EMR software",
+      "Ability to multitask, stay calm under pressure, and work shifts including Saturdays",
+      "Candidates residing in Surulere or nearby areas will be given priority"
+    ],
+    apply: 'Interested and qualified candidates should send an updated CV to osinmadea@gmail.com with “FRONT DESK OFFICER” as the subject of the email. Note: Applications from candidates outside Surulere environs will not be considered. Only shortlisted candidates will be contacted'
+  },
+  {
+    id: "digital-marketing-brand-communications-executive-ikoyi-2026-07-03",
+    title: "Digital Marketing & Brand Communications Executive",
+    date: "2026-07-03",
+    location: "Ikoyi Lagos",
+    type: "Full-Time",
+    salary: "₦300,000 – ₦350,000 Monthly",
+    deadline: "Not Specified",
+    summary: "We are seeking a creative, highly organized, and results-driven Digital Marketing & Brand Communications Executive to strengthen our digital presence and support lead generation initiatives. The ideal candidate will possess strong graphic design capabilities using Figma, hands-on experience in website content editing, expertise in email marketing and newsletter management, and proven ability to manage corporate social media platforms, particularly LinkedIn. The successful candidate will play a key role In enhancing brand visibility, driving audience engagement, and supporting business growth through strategic digital marketing initiatives.",
+    responsibilities: [
+      "Design high-quality digital marketing assets using Figma.",
+      "Update and edit website content regularly.",
+      "Develop and execute email marketing campaigns.",
+      "Manage the organization’s LinkedIn page as the primary social platform.",
+      "Write compelling marketing copy for various channels.",
+      "Monitor digital marketing performance using relevant analytics tools.",
+      "Support digital campaigns that promote company products and services."
+    ],
+    requirements: [
+      "Bachelor’s Degree in Marketing, Mass Communication, Business Administration, Digital Marketing, Communications, or any related field.",
+      "2–4 years of relevant experience in Digital Marketing or Brand Communications.",
+      "Proficiency in Figma (mandatory).",
+      "Website editing and content management experience.",
+      "Experience with email marketing platforms (e.g., Mailchimp, Brevo, HubSpot, or similar).",
+      "LinkedIn marketing and management.",
+      "Basic understanding of SEO.",
+      "Highly creative with a strong eye for design."
+    ],
+    apply: 'Interested candidate should send cv to jobs@structuredresource.com'
+  },
+  {
+    id: "chemistry-teacher-ibadan-2026-07-03",
+    title: "Chemistry Teacher",
+    date: "2026-07-03",
+    location: "Akobo, Ibadan",
+    type: "Full-time",
+    salary: "₦120,000 - #150,000",
+    deadline: "Not Specified",
+    summary: "Our client is seeking a knowledgeable, passionate, and experienced Chemistry Teacher to join their academic team.",
+    responsibilities: [
+      "Teach Chemistry using both Cambridge and Nigerian curricula.",
+      "Conduct Chemistry practicals safely and effectively.",
+      "Manage classroom, plan lessons, and assess students."
+    ],
+    requirements: [
+      "Minimum of a B.Ed in Chemistry",
+      "Minimum of 2 years’ teaching experience using both Cambridge and Nigerian curricula.",
+      "Strong knowledge of WAEC, NECO, and Cambridge Chemistry syllabuses.",
+      "Excellent classroom management, lesson planning, and student assessment skills.",
+      "Ability to conduct Chemistry practical safely and effectively.",
+      "Good communication, interpersonal, and organizational skills.",
+      "Proficiency in Microsoft Office and educational technology tools is an added advantage.",
+      "TRCN certification is an added advantage."
+    ],
+    apply: 'Send CVs to cv@ascentech.com.ng using the Job title as the mail subject'
+  },
+  {
+    id: "graduate-trainee-account-officer-lekki-2026-07-03",
+    title: "Graduate Trainee – Account Officer",
+    date: "2026-07-03",
+    location: "Lekki Phase 1, Lagos",
+    type: "Full-time",
+    company: "TAT Agency Limited",
+    salary: "N150,000 + monthly performance based bonus",
+    deadline: "Not Specified",
+    summary: "As an Account Officer in TAT Agency Limited, you will be responsible for managing the financial records and transactions of the travel agency.",
+    responsibilities: [
+      "Prepare and process invoices, receipts, payment vouchers and journal entries.",
+      "Follow up on outstanding customer payments and vendor obligations.",
+      "Reconcile bank statements and company accounts regularly.",
+      "Reconcile daily sales from flight bookings, hotel reservations, visa processing, tours and other travel-related services.",
+      "Support payroll processing and salary administration.",
+      "Ensure timely remittance of tax, pension contributions and other statutory deductions."
+    ],
+    requirements: [
+      "Bachelor’s Degree or HND in Accounting.",
+      "Minimum of 1 year experience in accounting, preferably within the travel, hospitality, or service industry.",
+      "Proficiency in Microsoft Excel and accounting software.",
+      "Knowledge of financial reporting standards and tax regulations."
+    ],
+    apply: 'Interested and qualified candidates should send their CV’s to: Philipbenard@tatagency.com using the job title as the subject of the email.'
+  },
+  {
+    id: "accountant-ajah-2026-07-03",
+    title: "Accountant",
+    date: "2026-07-03",
+    location: "Ajah Axis",
+    type: "Full-time",
+    company: "J-Six Group (Trading & Logistics)",
+    salary: "₦250,000 – ₦350,000",
+    deadline: "Not Specified",
+    summary: "J-Six Group is seeking a detail-oriented and analytical Inventory Accountant to oversee inventory records, monitor stock movements, and ensure accurate inventory valuation. The ideal candidate will be responsible for inventory reconciliations, variance analysis, stock reporting, and maintaining the integrity of inventory-related financial records to support efficient business operations.",
+    responsibilities: [
+      "Maintain accurate inventory records and ensure proper inventory valuation.",
+      "Perform regular inventory reconciliations and analyze stock variances.",
+      "Monitor inventory movements, adjustments, transfers, and write-offs.",
+      "Coordinate with warehouse and operations teams to ensure effective stock management.",
+      "Prepare inventory-related journal entries, reports, and supporting documentation.",
+      "Support periodic stock counts and inventory audits.",
+      "Analyze inventory data and provide recommendations to improve inventory control and cost management.",
+      "Ensure compliance with company policies, accounting standards, and internal controls.",
+      "Identify inventory discrepancies and recommend corrective actions where necessary.",
+      "Assist with month-end and year-end inventory reporting activities."
+    ],
+    requirements: [
+      "Minimum of a Bachelor’s Degree in Accounting, Finance, or a related field.",
+      "ICAN certification is an added advantage.",
+      "Minimum of 2 year of experience in inventory accounting, cost accounting, or a related accounting role.",
+      "Strong knowledge of inventory valuation methods and inventory control processes.",
+      "Proficiency in accounting software and Microsoft Excel.",
+      "Excellent analytical, numerical, and problem-solving skills.",
+      "Strong attention to detail and accuracy.",
+      "Proximity to the job location is essential.",
+      "Ability to work independently and manage multiple priorities effectively.",
+      "High level of integrity, professionalism, and accountability."
+    ],
+    apply: 'Interested and qualified candidates should send their CV to recruitment@jsixgroup.com using Inventory Accountant as the subject of the email.'
+  },
+  {
+    id: "retail-food-service-growth-executive-lagos-2026-07-03",
+    title: "RETAIL & FOOD SERVICE GROWTH EXECUTIVE",
+    date: "2026-07-03",
+    location: "Lagos",
+    type: "Full-time",
+    salary: "₦200,000 Monthly + 10% of Gross Profit",
+    deadline: "Not Specified",
+    summary: "Are you an experienced sales professional with a proven track record of selling to supermarkets, restaurants, hotels, or retail outlets? If you’re passionate about driving business growth and building strong client relationships, we’d love to hear from you!",
+    responsibilities: [
+      "Identify and acquire new retail and food service customers.",
+      "Build and maintain strong relationships with supermarkets, restaurants, hotels, and retail outlets.",
+      "Achieve sales and revenue targets.",
+      "Negotiate contracts and close profitable business deals.",
+      "Identify new business opportunities and grow existing accounts.",
+      "Deliver excellent customer service and maintain long-term client relationships."
+    ],
+    requirements: [
+      "Proven experience in selling to supermarkets, restaurants, hotels, or retail outlets.",
+      "Strong relationship-building and negotiation skills.",
+      "Ability to identify and close new business opportunities.",
+      "Excellent communication and customer service skills.",
+      "Target-driven, proactive, and self-motivated.",
+      "Candidates with experience in FMCG, grocery distribution, or B2B retail sales will be highly considered.",
+      "Being mobile and able to travel for client visits is an added advantage."
+    ],
+    apply: 'Interested and qualified candidates should send their CV via WhatsApp to 08068198606. OR recruitmentguidedarrowsconsult@gmail.com'
+  },
+  {
+    id: "remote-talent-acquisition-associate-2026-07-03",
+    title: "REMOTE TALENT ACQUISITION ASSOCIATE (PERFORMANCE-DRIVEN ROLE)",
+    date: "2026-07-03",
+    location: "Remote",
+    type: "Full-time",
+    salary: "₦30,000 monthly support + Commission",
+    deadline: "Not Specified",
+    summary: "We are seeking experienced or highly capable individuals to support end-to-end candidate sourcing and conversion. This is not a CV-collection role. It is a performance-based recruitment function focused on driving candidates from sourcing to successful deployment.",
+    responsibilities: [
+      "Identify and engage qualified candidates",
+      "Manage candidate pipelines from sourcing to deployment",
+      "Ensure consistent follow-up and conversion across recruitment stages",
+      "Work with clear weekly and monthly deployment targets"
+    ],
+    requirements: [
+      "Experience in recruitment or lead generation",
+      "Strong follow-up discipline and communication skills",
+      "Ability to work independently in a remote environment",
+      "Comfortable working with targets and measurable outcomes"
+    ],
+    apply: 'Send CV : 07068198606'
+  },
+  {
+    id: "sales-attendant-janitor-magodo-2026-07-03",
+    title: "SALES ATTENDANT(FMCG) & JANITOR",
+    date: "2026-07-03",
+    location: "Magodo, Shangisha",
+    type: "Full-Time",
+    salary: "₦80,000 (Sales attendant) & #70,000(Janitor)",
+    deadline: "Not Specified",
+    summary: "We are seeking a proactive, well-spoken, and customer-focused Shopfloor Attendant to join our retail team. The ideal candidate will ensure smooth daily store operations, maintain a clean and organised shop environment, and deliver excellent customer service to enhance the overall shopping experience. *Male preferably",
+    responsibilities: [
+      "Welcome and assist customers politely on the shop floor",
+      "Provide product information, answer inquiries, and offer recommendations",
+      "Ensure shelves are always well-arranged, properly stocked, and neat",
+      "Monitor price tags, product labels, and general display standards",
+      "Inform the supervisor about low-stock or fast-moving products",
+      "Maintain a clean and hygienic store environment at all times",
+      "Assist in receiving and organising stock",
+      "Support cashiering processes when necessary",
+      "Follow all company policies, safety guidelines, and operational procedures",
+      "Report any irregularities, damaged items, or customer complaints"
+    ],
+    requirements: [
+      "Minimum of SSCE/OND",
+      "Prior experience in retail or customer-facing roles is an advantage",
+      "Good communication and interpersonal skills",
+      "Must be neat, organised, and attentive to detail",
+      "Ability to multitask and work in a fast-paced environment",
+      "Must be punctual, responsible, and trustworthy",
+      "Willingness to work morning or afternoon shifts"
+    ],
+    apply: 'Interested and qualified candidates should send their CV to 0802 844 3186 “Application for sales attendant/Janitor”'
+  },
+  {
+    id: "social-media-manager-content-creator-lagos-2026-07-03",
+    title: "SOCIAL MEDIA MANAGER & CONTENT CREATOR",
+    date: "2026-07-03",
+    location: "Lagos Nigeria",
+    type: "Full-time",
+    salary: "Not Specified",
+    deadline: "Not Specified",
+    summary: "We’re hiring a Social Media Manager & Content Creator in Lagos.",
+    responsibilities: [
+      "Manage social media platforms.",
+      "Create and edit video content.",
+      "Develop content strategies."
+    ],
+    requirements: [
+      "1–3 years experience",
+      "Social media management and content creation skills",
+      "Video editing experience",
+      "Knowledge of Canva, CapCut, and related tools",
+      "Experience in football or sport"
+    ],
+    apply: 'Send your CV to: yusuff.mubarak@activezone.ng or 07041589688'
+  },
+  {
+    id: "ai-content-reviewer-remote-2026-07-03",
+    title: "A.I Content Reviewer",
+    date: "2026-07-03",
+    location: "Remote (World Wide)",
+    type: "Contract | Full Time",
+    salary: "USD 12,000 – 14,400 / year",
+    deadline: "Not Specified",
+    summary: "We are seeking a meticulous and analytical AI Content Reviewer to evaluate and enhance AI-generated content across various platforms. In this role, you will review outputs produced by AI systems to ensure accuracy, clarity, factual integrity, brand alignment, and compliance with safety and ethical guidelines.",
+    responsibilities: [
+      "Review AI-generated text, image descriptions, or code for accuracy, relevance, toxicity, and bias.",
+      "Create high-quality training datasets by labeling data according to strict guidelines.",
+      "Audit the work of junior reviewers or automated systems to ensure consistency and adherence to project rubrics.",
+      "Collaborate with the operations teams to refine style guides and annotation instructions based on emerging trends and edge cases.",
+      "Identify patterns in model errors and provide detailed feedback to data scientists and engineers for model improvement.",
+      "Familiarity with basic metrics like Inter-Agreement Rates of F1 scores. Understanding how your reviews impact model performance statistics is key."
+    ],
+    requirements: [],
+    apply: 'Apply : https://odixcity1.snaphunt.com/job/V0STBG3JTC'
+  },
+  {
+    id: "videographer-abuja-2026-07-03",
+    title: "Videographer/Videographer Editor",
+    date: "2026-07-03",
+    location: "Abuja",
+    type: "Hybrid (3 Days Weekly)",
+    company: "Pure Heart Homes",
+    salary: "₦250,000 Monthly",
+    deadline: "10th July, 2026",
+    summary: "Pure Heart Homes is looking for a creative and skilled Videographer to join our team.",
+    responsibilities: [
+      "Shoot and edit high-quality video content",
+      "Create engaging content for social media and marketing campaigns",
+      "Cover company events, projects, and property showcases",
+      "Collaborate with the marketing team on content creation",
+      "Manage video equipment and media files",
+      "Ensure all content aligns with the company’s brand standards"
+    ],
+    requirements: [
+      "2–5 years proven experience as a Videographer or Video Editor",
+      "Strong portfolio of previous work",
+      "Proficiency in Adobe Premiere Pro, Final Cut Pro, DaVinci Resolve, or similar software",
+      "Good understanding of camera operation, lighting, and audio",
+      "Ability to work independently and meet deadlines",
+      "Experience in real estate content creation is an added advantage",
+      "Physical attendance required 3 times weekly (Monday is mandatory, other 2 days to be agreed upon)"
+    ],
+    apply: 'To Apply: Send your CV and portfolio to: Hr@purehearthomes.com'
+  },
+  {
+    id: "head-of-marketing-communications-brand-vi-2026-07-03",
+    title: "Head of Marketing, Communications & Brand",
+    date: "2026-07-03",
+    location: "Victoria Island, Lagos (Hybrid)",
+    type: "Full-time",
+    seniority: "Senior",
+    salary: "Open for Negotiation + Performance-Based Bonuses",
+    deadline: "Not Specified",
+    summary: "As the Head of Marketing, Communications & Brand, you will own the overarching marketing strategy, brand positioning, public relations, and reputation management for the entire Group. This is a strategic leadership role reporting directly to executive leadership. You will guide the brand identity of our diverse companies and manage a highly technical marketing execution team, including the Digital Marketing, Growth & AI Manager.",
+    responsibilities: [
+      "Strategic Leadership: Develop and champion the global marketing, brand, and communications roadmap across all group ventures.",
+      "Brand Positioning & Reputation: Define, safeguard, and scale the public positioning, corporate identity, and reputation of the Group and its individual brands.",
+      "Team Management: Directly oversee and guide the marketing execution team to ensure digital campaigns and growth workflows align with top-tier brand standards.",
+      "Public Relations & Comms: Lead public relations, media engagements, corporate communications, and high-level thought leadership positioning.",
+      "AI & Innovation Strategy: Champion the strategic adoption of cutting-edge AI and marketing technologies to drive cross-functional efficiency and market superiority."
+    ],
+    requirements: [
+      "Minimum 6–8+ years of corporate marketing, branding, or public relations experience, with a proven track record in a senior leadership role.",
+      "Exceptional strategic thinking, brand architecture design, and public relations capabilities. Strong commercial acumen and stakeholder management skills.",
+      "Experienced in managing cross-functional creative and technical marketing personnel.",
+      "Deep appreciation for automation and AI-driven workflows, with the vision to integrate emerging tech into the group’s market strategy."
+    ],
+    apply: 'Please apply directly by filling out our application and screening form here: <a href="https://forms.gle/HYgzdMhPnmomjVtb7">https://forms.gle/HYgzdMhPnmomjVtb7</a>'
+  },
+  {
+    id: "multimedia-designer-vi-2026-07-03",
+    title: "Multimedia Designer (Video, Graphics & Motion)",
+    date: "2026-07-03",
+    location: "Victoria Island, Lagos (Hybrid)",
+    type: "Full-time",
+    seniority: "Mid-Level",
+    salary: "Competitive Salary + Performance-Based Bonuses",
+    deadline: "Not Specified",
+    summary: "As a Multimedia Designer, you will be the creative engine responsible for turning ideas into high-converting visual content. You will work closely with the Head of Marketing, Growth Managers, and content creators to produce world-class graphics, promotional videos, and motion designs used across social media, websites, ads, and internal platforms. We are looking for someone who is not just a traditional designer, but who actively embraces AI design tools to speed up their creative workflow.",
+    responsibilities: [
+      "Video Production: Film, edit, and color-grade high-quality promotional videos, shorts, reels, and corporate content.",
+      "Graphic Design: Create premium digital assets, including social media graphics, high-converting landing page visuals, pitch decks, and branding materials.",
+      "Motion Graphics: Design engaging animations, transitions, intros, and animated explainers that bring static concepts to life.",
+      "AI-Assisted Design: Actively leverage generative AI design tools (e.g., Midjourney, Runway, Canva AI) to conceptualize and deliver creative assets faster.",
+      "Brand Consistency: Ensure all visual assets strictly align with the unique brand guidelines of each business unit within the Group.",
+      "Cross-Functional Collaboration: Coordinate with developers, marketers, and copywriters to deliver creative projects on schedule."
+    ],
+    requirements: [
+      "Minimum 2–4 years of proven experience as a graphic designer, video editor, or multimedia creator. (A strong portfolio is mandatory).",
+      "Expert proficiency in Adobe Creative Suite (Premiere Pro, After Effects, Photoshop, Illustrator) or equivalent industry tools.",
+      "Hands-on experience or deep curiosity about leveraging AI tools (Midjourney, Runway, ElevenLabs, etc.) for rapid asset generation and workflow enhancement.",
+      "High attention to detail, proactive, able to receive feedback constructively, and comfortable working in a fast-paced entrepreneurial environment."
+    ],
+    apply: 'Click the link below to submit your details and link your creative portfolio: <a href="https://forms.gle/2NugazyU5WBKDoJMA">https://forms.gle/2NugazyU5WBKDoJMA</a>'
+  },
+  {
+    id: "growth-partnerships-manager-vi-2026-07-03",
+    title: "Growth & Partnerships Manager",
+    date: "2026-07-03",
+    location: "Victoria Island, Lagos (Hybrid)",
+    type: "Full-time",
+    seniority: "Senior",
+    salary: "Competitive Salary + Commission + Performance-Based Bonuses",
+    deadline: "Not Specified",
+    summary: "This is a leadership role directly reporting to the CEO/Founder. You will lead the Growth & Partnerships team (Executives and Interns) to execute commercial strategies, secure high-value partnerships, and drive revenue across the Group. We need a professional who excels at opening doors, building institutional relationships, and managing senior stakeholders.",
+    responsibilities: [
+      "Business Development: Execute growth strategies to unlock new revenue streams and drive customer acquisition across multiple business units.",
+      "Strategic Partnerships: Identify, negotiate, and establish strategic alliances with corporate organizations, universities, and industry bodies.",
+      "Government & Institutional Relations: Secure public-sector collaborations, training contracts, and consultancy initiatives.",
+      "Team Leadership: Manage, mentor, and establish clear KPIs for Growth Executives and Interns.",
+      "AI-Driven Innovation: Leverage modern AI platforms (ChatGPT, Claude, Gemini, etc.) to optimize prospect research, pipeline automation, and market intelligence."
+    ],
+    requirements: [
+      "Minimum 4 years in business development, sales, partnerships, or account management (4–8 years preferred).",
+      "Minimum 2 years of proven team management experience.",
+      "Active interest in technology with a strong capability to integrate AI tools into daily growth workflows.",
+      "An existing professional network within aviation, tech, government, corporate, or financial sectors is a major advantage."
+    ],
+    apply: 'Please apply directly by filling out our screening form here: <a href="https://forms.gle/zkmUZuAi4JRfwa9n9">https://forms.gle/zkmUZuAi4JRfwa9n9</a>'
+  },
+  {
+    id: "growth-partnerships-executive-vi-2026-07-03",
+    title: "Growth & Partnerships Executive",
+    date: "2026-07-03",
+    location: "Victoria Island, Lagos",
+    type: "Full-time",
+    seniority: "Junior",
+    salary: "Competitive Salary + Commission + Bonuses",
+    deadline: "Not Specified",
+    summary: "This is a highly collaborative, people-focused role. Working closely with the Group Growth & Partnerships Manager and senior leadership, you will proactively build relationships, secure high-value meetings, generate leads, and drive commercial expansion across the Group’s diverse business units. Ideal For: Ambitious early-career professionals, natural networkers, and individuals eager to accelerate their business development and entrepreneurship skills.",
+    responsibilities: [
+      "Lead Generation: Identify and research new prospective clients, secure meetings, and build a healthy sales pipeline.",
+      "Relationship Management: Act as a brand ambassador, follow up on inquiries, and manage corporate accounts.",
+      "Strategic Partnerships: Secure corporate, institutional, and government partnerships to expand group visibility.",
+      "AI & Tech Integration: Use AI tools (ChatGPT, Claude, etc.) to optimize market research, prospecting, and pitch proposals.",
+      "Networking: Represent the Group at conferences, exhibitions, and industry events."
+    ],
+    requirements: [
+      "Background in sales, business development, customer service, or recruitment is a plus (ambitious fresh graduates welcome).",
+      "Strong networking, communication, and target-driven mindset.",
+      "Enthusiastic about using AI tools and CRM systems to improve daily productivity."
+    ],
+    apply: 'Apply strictly by filling out our screening form here: <a href="https://forms.gle/1k5MsNgqRZUvtXp16">https://forms.gle/1k5MsNgqRZUvtXp16</a>'
+  },
+  {
+    id: "digital-marketing-growth-ai-manager-vi-2026-07-03",
+    title: "Digital Marketing, Growth & AI Manager",
+    date: "2026-07-03",
+    location: "Victoria Island, Lagos (Hybrid)",
+    type: "Full-time",
+    seniority: "Senior",
+    salary: "Open for Negotiation + Performance-Based Bonuses",
+    deadline: "Not Specified",
+    summary: "This is a highly execution-focused role designed for a tech-savvy marketing professional who excels at turning strategy into measurable growth outcomes. The Digital Marketing, Growth & AI Manager will be responsible for implementing campaigns, building systems, analysing performance, and leveraging AI tools across the entire portfolio.",
+    responsibilities: [
+      "Campaign Execution: Launch and optimize multi-channel performance marketing campaigns, lead generation, and email workflows.",
+      "CRM & Automation: Manage and scale our CRM ecosystem (Zoho, HubSpot, etc.), building automated lead-nurturing pipelines.",
+      "AI Integration: Deploy AI tools (ChatGPT, Claude, automation platforms) to maximize team productivity, optimize campaigns, and refine workflows.",
+      "Web & Analytics: Manage websites, build high-converting landing pages, and track KPIs via data-driven dashboards.",
+      "Audience Growth: Drive traffic, social media engagement, and user acquisition across all group brands."
+    ],
+    requirements: [
+      "3–6 years in digital marketing, growth marketing, or marketing operations.",
+      "High proficiency with CRM & Automation tools (Zoho ecosystem is highly preferred, HubSpot, Zapier, Make).",
+      "Hands-on experience leveraging AI platforms (ChatGPT, Claude, Midjourney, etc.) for marketing and workflow efficiency.",
+      "Highly analytical, proactive, systems-thinker, and comfortable in a fast-paced entrepreneurial environment."
+    ],
+    apply: 'Please apply directly by filling out our application and screening form here: <a href="https://forms.gle/MhRmkeeXwE2VuPZz8">https://forms.gle/MhRmkeeXwE2VuPZz8</a>'
+  },
+  {
+    id: "relationship-officer-microfinance-lagos-2026-07-03",
+    title: "Relationship Officer",
+    date: "2026-07-03",
+    location: "Lagos",
+    type: "Full-time",
+    company: "Microfinance Banking",
+    salary: "Not Specified",
+    deadline: "Not Specified",
+    summary: "Are you a results-driven banking professional with a passion for sales and relationship management? We’re looking for a Relationship Officer to join our team!",
+    responsibilities: [
+      "Drive deposit mobilization and achieve sales targets.",
+      "Acquire and onboard new customers while ensuring KYC compliance.",
+      "Build and maintain strong relationships with retail and SME customers.",
+      "Cross-sell banking products and promote digital banking solutions.",
+      "Identify new business opportunities and develop referral networks."
+    ],
+    requirements: [
+      "HND/B.Sc. in Business, Finance, Social Sciences, or a related field.",
+      "3–5 years’ experience in retail banking, microfinance, or a customer-facing sales role.",
+      "Proven experience in deposit mobilization and business development.",
+      "Excellent communication, negotiation, and relationship management skills."
+    ],
+    apply: 'Ready to take the next step in your career? Apply using the link below: <a href="https://forms.gle/2ZVFecCoMt6hwYym6">https://forms.gle/2ZVFecCoMt6hwYym6</a>'
+  },
+  {
+    id: "drivers-gbagada-lekki-2026-07-03",
+    title: "Driver (2 Positions)",
+    date: "2026-07-03",
+    location: "Lekki / Lagos Island, Lagos (1 Position), Gbagada, Lagos (1 Position)",
+    type: "Full-time",
+    salary: "Negotiable & Attractive",
+    deadline: "Not Specified",
+    summary: "We are seeking experienced, reliable, and professional Drivers to join our team. The ideal candidates must have a minimum of two (2) years’ driving experience, possess excellent knowledge of Lagos roads, and be committed to safety, punctuality, and professionalism.",
+    responsibilities: [
+      "Safely transport staff, clients, and company property as assigned.",
+      "Plan efficient routes to ensure timely arrivals while avoiding unnecessary delays.",
+      "Conduct routine vehicle inspections and promptly report any faults or maintenance needs.",
+      "Keep the assigned vehicle clean, presentable, and in good working condition.",
+      "Adhere to all traffic regulations and company driving policies.",
+      "Maintain professionalism and confidentiality while carrying out assigned duties.",
+      "Perform other driving-related duties as assigned."
+    ],
+    requirements: [
+      "Minimum of 2 years’ proven experience as a professional driver.",
+      "Valid Nigerian Driver’s Licence.",
+      "Excellent knowledge of Lagos roads, traffic patterns, and alternative routes.",
+      "Good communication and interpersonal skills.",
+      "Ability to work independently with minimal supervision.",
+      "Must be responsible, punctual, and of good character.",
+      "Applicants must reside in either of the following locations: Lekki, Lagos Island, or nearby areas (1 Position), Gbagada or nearby areas (1 Position)"
+    ],
+    apply: 'Interested and qualified candidates should send their CV to either of the email addresses below: 📩favour.obeto@potterslawinternational.com 📩favourobeto4@gmail.com Subject: Driver Application. Kindly attach the following documents: A recent passport photograph, A copy of your valid Driver’s Licence'
+  },
+  {
+    id: "office-assistant-cleaner-gbagada-2026-07-03",
+    title: "Office Assistant / Cleaner",
+    date: "2026-07-03",
+    location: "Gbagada Phase 2, Lagos",
+    type: "Full-time",
+    salary: "₦75,000 monthly",
+    deadline: "Not Specified",
+    summary: "We are seeking a reliable and responsible Office Assistant/Cleaner to support the smooth running of our office operations.",
+    responsibilities: [
+      "Maintain cleanliness and tidiness of the office environment.",
+      "Keep workspaces, meeting areas, and common areas neat.",
+      "Provide basic front desk support when required.",
+      "Welcome visitors and attend to basic inquiries.",
+      "Assist with office errands, including document delivery and other assigned tasks.",
+      "Support daily office activities as needed."
+    ],
+    requirements: [
+      "Minimum of SSCE/OND qualification.",
+      "Good communication and interpersonal skills.",
+      "Must be reliable, punctual, and organized.",
+      "Must reside around Gbagada Phase 2, Lagos or nearby areas.",
+      "Previous office support or cleaning experience is an added advantage."
+    ],
+    apply: 'Interested candidates should send their CV to: 📩favourobeto4@gmail.com Subject: OFFICE ASSISTANT/CLEANER'
+  },
+  {
+    id: "front-desk-officer-surulere-2026-07-03",
+    title: "Front Desk Officer",
+    date: "2026-07-03",
+    location: "Surulere, Lagos",
+    type: "Full-time",
+    salary: "₦120,000/month",
+    deadline: "Not Specified",
+    summary: "We are looking for a friendly, organized, and customer-focused Front Desk Officer to be the first point of contact for patients and visitors. You’ll ensure smooth reception operations and excellent patient experience at all times.",
+    responsibilities: [
+      "Welcome and attend to patients, visitors, and callers professionally and promptly",
+      "Manage appointments booking, confirmations, and rescheduling",
+      "Handle patient registration, biodata capture, and file management using the ECMS",
+      "Process billing, invoices, and coordinate payments with the accounts team",
+      "Respond to enquiries via phone, email, and in-person with empathy and clarity",
+      "Maintain a clean, organized, and welcoming reception area",
+      "Support the Admin/Clinic Manager with administrative tasks and documentation",
+      "Escalate patient complaints or operational issues appropriately"
+    ],
+    requirements: [
+      "Minimum of OND/HND or BSc in any discipline. Healthcare background is an advantage",
+      "1–2 years’ experience in front desk, customer service, or healthcare administration preferred",
+      "Excellent communication, interpersonal, and customer service skills",
+      "Good appearance, pleasant disposition, and professional conduct",
+      "Proficient in Microsoft Office Suite and comfortable learning ECMS/EMR software",
+      "Ability to multitask, stay calm under pressure, and work shifts including Saturdays"
+    ],
+    apply: 'Interested and qualified candidates should send an updated CV to tuts.recruit@gmail.com with “FRONT DESK OFFICER” as the subject of the email.'
+  },
+  {
+    id: "hr-officer-ikeja-2026-07-03",
+    title: "Human Resources Officer (Male)",
+    date: "2026-07-03",
+    location: "Alade Market, Ikeja, Lagos (Hybrid)",
+    type: "Hybrid",
+    salary: "₦100,000 monthly",
+    deadline: "Not Specified",
+    summary: "We are looking for a proactive and organized Male Human Resources Officer to join our team.",
+    responsibilities: [
+      "Manage end-to-end recruitment processes, including sourcing, screening, interviewing, and coordinating hiring activities.",
+      "Assist with onboarding of new employees.",
+      "Support day-to-day HR operations and administrative tasks.",
+      "Carry out other HR-related duties and assignments as required."
+    ],
+    requirements: [
+      "Bachelor’s degree in Human Resources, Business Administration, or a related field.",
+      "1–2 years of HR experience, with recruitment experience being an added advantage.",
+      "Excellent communication and interpersonal skills.",
+      "Strong organizational and time management abilities.",
+      "Proficient in Microsoft Office and Google Workspace.",
+      "Must be proactive, detail-oriented, and able to work independently."
+    ],
+    apply: 'Interested and qualified candidates should send their CV to withoutaboxhr@gmail.com with the subject line ”HR Officer Application.”'
+  },
+  {
+    id: "account-revenue-officer-enugu-2026-07-03",
+    title: "Account/Revenue Officer",
+    date: "2026-07-03",
+    location: "Enugu",
+    type: "Full-time",
+    salary: "₦200,000",
+    deadline: "Not Specified",
+    summary: "The Account/Revenue Officer will be responsible for managing billing, collections, and reconciliation processes, ensuring accuracy, transparency, and proper documentation of all financial transactions while delivering excellent service to patients and partners.",
+    responsibilities: [
+      "Process all billing and sales transactions using the ERP system",
+      "Operate POS machines and manage daily cash collections",
+      "Reconcile daily transactions and generate financial reports",
+      "Monitor payments and ensure accurate pricing and receipt issuance",
+      "Maintain records of receivables from partners (NHIA, CHF, etc.)",
+      "Handle billing complaints, refunds, and payment inquiries",
+      "Identify and report discrepancies in transactions",
+      "Ensure proper capture of patient and payment information"
+    ],
+    requirements: [
+      "Bachelor’s degree in Accounting, Finance, or related field",
+      "Minimum of 2 years’ experience in a similar role",
+      "Strong knowledge of accounting principles and financial processes",
+      "Experience with ERP softwares",
+      "Experience with accounting software (QuickBooks, Sage, etc.)",
+      "Good proficiency in Microsoft Excel",
+      "Strong attention to detail and accuracy",
+      "Good communication and organizational skills"
+    ],
+    apply: 'Interested candidates should send their CVs to cv@ascentech.com.ng using “Accounts 18-Enugu” as the subject of the mail.'
+  },
+  {
+    id: "mechanical-technician-ota-2026-07-03",
+    title: "Mechanical Technician",
+    date: "2026-07-03",
+    location: "Ota",
+    type: "Full-time",
+    salary: "Not Specified",
+    deadline: "Not Specified",
+    summary: "The Mechanical Technician will support the installation, maintenance, troubleshooting, and repair of mechanical equipment and machinery within the production facility. The role is ideal for recent ND or HND graduates seeking to build a career in industrial maintenance and engineering operations.",
+    responsibilities: [
+      "Assist in carrying out preventive and corrective maintenance on mechanical equipment.",
+      "Support the inspection, repair, and servicing of pumps, compressors, conveyors, and other production machinery.",
+      "Identify mechanical faults and report issues promptly.",
+      "Assist in equipment installation, testing, and commissioning activities.",
+      "Maintain accurate maintenance records and documentation.",
+      "Ensure compliance with safety standards and operational procedures.",
+      "Support senior technicians during breakdown maintenance and troubleshooting activities.",
+      "Participate in continuous improvement initiatives to enhance equipment reliability and efficiency."
+    ],
+    requirements: [
+      "ND or HND in Mechanical Engineering or a related discipline.",
+      "Fresh graduates are encouraged to apply.",
+      "Basic understanding of mechanical systems and industrial equipment.",
+      "Strong willingness to learn and develop technical skills.",
+      "Good problem-solving and communication skills.",
+      "Ability to work effectively in a team environment.",
+      "Knowledge of maintenance tools and safety procedures will be an added advantage."
+    ],
+    apply: 'Interested candidates should send their CVs to cv@ascentech.com.ng using “Mechanical Technician – Ota” as the subject of the email.'
+  },
+  {
+    id: "prms-gas-generator-operator-lagos-2026-07-03",
+    title: "PRMS Gas & Generator Operator",
+    date: "2026-07-03",
+    location: "Lagos Mainland",
+    type: "Full-time",
+    salary: "₦130,000 – ₦150,000 (Negotiable)",
+    deadline: "Not Specified",
+    summary: "We are seeking an experienced PRMS Gas & Generator Operator to oversee the operation, monitoring, and maintenance of gas systems and generators, ensuring safe and efficient performance at all times.",
+    responsibilities: [
+      "Monitor generator operations, gas flow, pressure levels, and energy distribution.",
+      "Conduct routine inspections and report operational updates.",
+      "Perform preventive maintenance on generators and PRMS equipment.",
+      "Change filters, monitor oil levels, top up coolant and water systems, and replace batteries when necessary.",
+      "Receive and dispatch trucks according to operational procedures.",
+      "Identify and report faults promptly.",
+      "Maintain compliance with safety standards and housekeeping requirements."
+    ],
+    requirements: [
+      "Minimum of O’Level (WAEC/NECO/GCE).",
+      "Trade Test certification in Mechanical, Electrical, Generator Operations, or related field.",
+      "OND in Mechanical Engineering or a related discipline is an advantage.",
+      "3–5 years’ experience in PRMS gas operations and generator management.",
+      "Good knowledge of gas systems, generators, and routine maintenance procedures.",
+      "Strong reporting and communication skills."
+    ],
+    apply: 'Interested and qualified candidates should send their CV to cv@ascentech.com.ng using “Gas & Gen Operator” as the subject of the email.'
+  },
+  {
+    id: "stock-controller-abuja-2026-07-03",
+    title: "Stock Controller",
+    date: "2026-07-03",
+    location: "Abuja",
+    type: "Full-time",
+    salary: "₦200,000 – ₦250,000",
+    deadline: "Not Specified",
+    summary: "We are seeking a detail-oriented and analytical Stock Controller to manage inventory records and ensure stock accuracy across all systems and physical inventory. The ideal candidate will be responsible for monitoring stock movements, reconciling inventory discrepancies, maintaining accurate records, and supporting efficient inventory management processes. Strong Excel proficiency and experience in inventory control are essential for this role.",
+    responsibilities: [
+      "Maintain accurate inventory records and ensure system stock balances reflect physical stock levels.",
+      "Monitor stock movements, receipts, transfers, and dispatches.",
+      "Conduct regular stock counts and inventory audits.",
+      "Investigate and resolve stock discrepancies promptly.",
+      "Generate inventory reports and provide insights to management.",
+      "Update inventory data and maintain proper documentation.",
+      "Ensure compliance with inventory control procedures and policies.",
+      "Collaborate with warehouse and operations teams to improve stock accuracy.",
+      "Utilize advanced Excel functions for inventory tracking, analysis, and reporting."
+    ],
+    requirements: [
+      "HND/B.Sc. in Business Administration, Logistics, Supply Chain Management, Accounting, or a related field.",
+      "2–4 years of experience in inventory or stock control.",
+      "Strong knowledge of inventory management principles and processes.",
+      "Advanced proficiency in Microsoft Excel.",
+      "Excellent analytical and numerical skills.",
+      "High attention to detail and accuracy.",
+      "Strong organizational and communication skills.",
+      "Experience with inventory management systems is an added advantage."
+    ],
+    apply: 'Interested candidates should send CVs to cv@ascentech.com.ng using “Stock Controller – 18” as the subject of the email.'
+  },
+  {
+    id: "motorcycle-mechanic-lagos-2026-07-03",
+    title: "Motorcycle Mechanic",
+    date: "2026-07-03",
+    location: "Lagos",
+    type: "Full-time",
+    salary: "₦120,000 – ₦150,000",
+    deadline: "Not Specified",
+    summary: "Our client, a leading company in the automobile parts manufacturing industry, is seeking skilled Motorcycle Mechanics to join its maintenance team. The successful candidate will be responsible for diagnosing, repairing, and maintaining motorcycles to ensure optimal performance, safety, and reliability.",
+    responsibilities: [
+      "Diagnose and repair motorcycle faults.",
+      "Perform routine servicing and preventive maintenance.",
+      "Repair and replace faulty mechanical and electrical components.",
+      "Conduct inspections to ensure motorcycles are safe and roadworthy.",
+      "Maintain service records and follow safety procedures."
+    ],
+    requirements: [
+      "OND, Trade Test, or relevant technical qualification.",
+      "1–3 years of motorcycle repair and maintenance experience.",
+      "Good troubleshooting and fault-diagnosis skills.",
+      "Ability to work with minimal supervision."
+    ],
+    apply: 'Interested candidiates should send CVs to cv@ascentech.com.ng using “Motorcycle Mechanic – Lagos” as the subject of the email.'
+  },
+  {
+    id: "sales-executive-telecommunication-isp-abuja-2026-07-03",
+    title: "Sales Executive (Telecommunication/ISP)",
+    date: "2026-07-03",
+    location: "Abuja",
+    type: "Full-time",
+    salary: "₦200,000 – ₦250,000 Gross",
+    deadline: "Not Specified",
+    summary: "We are hiring a Sales Executive for a leading Internet Service Provider (ISP) in Abuja. The ideal candidate will be responsible for driving sales, acquiring new customers, managing client relationships, and achieving revenue targets. Candidates should have prior experience in telecommunications, ISP services, or related technology sales.",
+    responsibilities: [
+      "Identify and acquire new residential and corporate customers for internet and connectivity services",
+      "Generate leads, conduct sales visits, and deliver product presentations to prospective clients",
+      "Achieve monthly and quarterly sales targets set by the company",
+      "Prepare and submit sales proposals, quotations, and contracts",
+      "Build and maintain strong relationships with existing customers to drive retention and upselling opportunities",
+      "Follow up on customer inquiries and coordinate with technical teams to ensure timely service delivery",
+      "Monitor market trends, competitor activities, and customer needs within the assigned territory",
+      "Maintain accurate records of sales activities, customer interactions, and pipeline updates in the CRM system",
+      "Participate in marketing campaigns, field activations, and promotional events to increase brand visibility",
+      "Provide regular sales reports and forecasts to management."
+    ],
+    requirements: [
+      "2–3 years of sales experience in the Telecommunications or ISP industry",
+      "Strong business development and customer relationship management skills",
+      "Excellent communication, negotiation, and presentation abilities",
+      "Proven ability to meet and exceed sales targets",
+      "Bachelor’s degree or equivalent qualification"
+    ],
+    apply: 'Interested candidates should send their CVs to cv@ascentech.com.ng using “ISP Sales Executive – Abj” as the subject of the email.'
+  },
+  {
     id: "clinic-manager-surulere-2026-07-03",
     title: "Clinic Manager",
     date: "2026-07-03",

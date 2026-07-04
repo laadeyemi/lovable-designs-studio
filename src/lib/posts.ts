@@ -10,6 +10,174 @@ export type Post = {
 
 const allPosts: Post[] = [
   {
+    id: "kwara-state-bece-timetable-2026-released",
+    title: "Kwara State BECE Timetable 2026 Released – Full Examination Schedule for JSS3 Candidates",
+    category: "Education",
+    date: "2026-07-04",
+    excerpt: "The Kwara State Ministry of Education has released the 2026 Basic Education Certificate Examination (BECE) timetable for Junior Secondary School (JSS3) students across the state.",
+    content: `<h2>Kwara State BECE Timetable 2026 Released – Full Examination Schedule for JSS3 Candidates</h2>
+<p>The Kwara State Ministry of Education has released the <strong>2026 Basic Education Certificate Examination (BECE) timetable</strong> for Junior Secondary School (JSS3) students across the state.</p>
+<p>According to the timetable, the examination will commence on <strong>Tuesday, 7 July 2026</strong>, and conclude on <strong>Wednesday, 15 July 2026</strong>.</p>
+<p>Candidates are expected to prepare adequately, arrive at their examination centres before the scheduled time, and strictly adhere to all examination guidelines.</p>
+
+<h3>Full Kwara State BECE 2026 Timetable</h3>
+<table class="w-full border-collapse border border-gray-300 my-4 text-sm">
+  <thead>
+    <tr class="bg-gray-100 text-left">
+      <th class="border border-gray-300 p-2">Date</th><th class="border border-gray-300 p-2">Paper Code</th><th class="border border-gray-300 p-2">Subject</th><th class="border border-gray-300 p-2">Duration</th><th class="border border-gray-300 p-2">Time</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td class="border border-gray-300 p-2"><strong>Tuesday, 7 July 2026</strong></td><td class="border border-gray-300 p-2">KW/BECE/106</td><td class="border border-gray-300 p-2">Cultural and Creative Arts</td><td class="border border-gray-300 p-2">2½ Hours</td><td class="border border-gray-300 p-2">8:30 a.m. – 11:00 a.m.</td></tr>
+    <tr><td class="border border-gray-300 p-2"></td><td class="border border-gray-300 p-2">KW/BECE/406</td><td class="border border-gray-300 p-2">History (Papers I & II)</td><td class="border border-gray-300 p-2">2 Hours</td><td class="border border-gray-300 p-2">11:30 a.m. – 1:30 p.m.</td></tr>
+    <tr><td class="border border-gray-300 p-2"><strong>Wednesday, 8 July 2026</strong></td><td class="border border-gray-300 p-2">KW/BECE/103</td><td class="border border-gray-300 p-2">French Language</td><td class="border border-gray-300 p-2">2 Hours</td><td class="border border-gray-300 p-2">8:30 a.m. – 10:30 a.m.</td></tr>
+    <tr><td class="border border-gray-300 p-2"></td><td class="border border-gray-300 p-2">KW/BECE/105</td><td class="border border-gray-300 p-2">Yoruba Language</td><td class="border border-gray-300 p-2">2 Hours</td><td class="border border-gray-300 p-2">11:00 a.m. – 1:00 p.m.</td></tr>
+    <tr><td class="border border-gray-300 p-2"></td><td class="border border-gray-300 p-2">KW/BECE/101</td><td class="border border-gray-300 p-2">Arabic Language</td><td class="border border-gray-300 p-2">2 Hours</td><td class="border border-gray-300 p-2">1:30 p.m. – 3:30 p.m.</td></tr>
+    <tr><td class="border border-gray-300 p-2"><strong>Thursday, 9 July 2026</strong></td><td class="border border-gray-300 p-2">KW/BECE/402</td><td class="border border-gray-300 p-2">Business Studies</td><td class="border border-gray-300 p-2">2 Hours</td><td class="border border-gray-300 p-2">8:30 a.m. – 10:30 a.m.</td></tr>
+    <tr><td class="border border-gray-300 p-2"></td><td class="border border-gray-300 p-2">KW/BECE/104</td><td class="border border-gray-300 p-2">Hausa Language</td><td class="border border-gray-300 p-2">2 Hours</td><td class="border border-gray-300 p-2">11:00 a.m. – 1:00 p.m.</td></tr>
+    <tr><td class="border border-gray-300 p-2"><strong>Friday, 10 July 2026</strong></td><td class="border border-gray-300 p-2">KW/BECE/202</td><td class="border border-gray-300 p-2">IRK General</td><td class="border border-gray-300 p-2">2 Hours</td><td class="border border-gray-300 p-2">8:30 a.m. – 10:30 a.m.</td></tr>
+    <tr><td class="border border-gray-300 p-2"></td><td class="border border-gray-300 p-2">KW/BECE/201</td><td class="border border-gray-300 p-2">CRK</td><td class="border border-gray-300 p-2">2 Hours</td><td class="border border-gray-300 p-2">8:30 a.m. – 10:30 a.m.</td></tr>
+    <tr><td class="border border-gray-300 p-2"><strong>Monday, 13 July 2026</strong></td><td class="border border-gray-300 p-2">KW/BECE/301</td><td class="border border-gray-300 p-2">English Studies (Papers I & II)</td><td class="border border-gray-300 p-2">2½ Hours</td><td class="border border-gray-300 p-2">8:30 a.m. – 11:00 a.m.</td></tr>
+    <tr><td class="border border-gray-300 p-2"></td><td class="border border-gray-300 p-2">KW/BECE/304</td><td class="border border-gray-300 p-2">National Value</td><td class="border border-gray-300 p-2">2 Hours</td><td class="border border-gray-300 p-2">11:30 a.m. – 1:30 p.m.</td></tr>
+    <tr><td class="border border-gray-300 p-2"><strong>Tuesday, 14 July 2026</strong></td><td class="border border-gray-300 p-2">KW/BECE/405</td><td class="border border-gray-300 p-2">Pre-Vocational Studies</td><td class="border border-gray-300 p-2">2 Hours</td><td class="border border-gray-300 p-2">8:30 a.m. – 10:30 a.m.</td></tr>
+    <tr><td class="border border-gray-300 p-2"></td><td class="border border-gray-300 p-2">KW/BECE/102</td><td class="border border-gray-300 p-2">Basic Science and Technology</td><td class="border border-gray-300 p-2">2½ Hours</td><td class="border border-gray-300 p-2">11:30 a.m. – 2:00 p.m.</td></tr>
+    <tr><td class="border border-gray-300 p-2"><strong>Wednesday, 15 July 2026</strong></td><td class="border border-gray-300 p-2">KW/BECE/104</td><td class="border border-gray-300 p-2">Mathematics</td><td class="border border-gray-300 p-2">3 Hours</td><td class="border border-gray-300 p-2">8:30 a.m. – 11:30 a.m.</td></tr>
+    <tr><td class="border border-gray-300 p-2"></td><td class="border border-gray-300 p-2">KW/BECE/205</td><td class="border border-gray-300 p-2">Islamic History</td><td class="border border-gray-300 p-2">1½ Hours</td><td class="border border-gray-300 p-2">10:30 a.m. – 12:00 p.m.</td></tr>
+    <tr><td class="border border-gray-300 p-2"></td><td class="border border-gray-300 p-2">KW/BECE/407</td><td class="border border-gray-300 p-2">Arabic (JIS)</td><td class="border border-gray-300 p-2">1½ Hours</td><td class="border border-gray-300 p-2">12:00 p.m. – 1:30 p.m.</td></tr>
+    <tr><td class="border border-gray-300 p-2"></td><td class="border border-gray-300 p-2">KW/BECE/204</td><td class="border border-gray-300 p-2">IRK (JIS)</td><td class="border border-gray-300 p-2">1½ Hours</td><td class="border border-gray-300 p-2">1:30 p.m. – 3:00 p.m.</td></tr>
+  </tbody>
+</table>
+<p><em><strong>Note:</strong> The original timetable lists the end time for some papers as <strong>1:30 a.m.</strong>, which appears to be a typographical error. Based on the examination schedule and duration, the correct time is <strong>1:30 p.m.</strong></em></p>
+
+<h3>Important Instructions for Candidates</h3>
+<p>Candidates are advised to:</p>
+<ul>
+  <li>Arrive at their examination centres at least <strong>30 minutes before</strong> the commencement of each paper.</li>
+  <li>Bring only approved writing materials and examination requirements.</li>
+  <li>Carefully read all instructions before answering questions.</li>
+  <li>Maintain proper examination conduct and avoid any form of malpractice.</li>
+  <li>Confirm any updates through their schools or the Kwara State Ministry of Education.</li>
+</ul>
+
+<h3>Preparation Tips for BECE Candidates</h3>
+<p>To perform well in the examination, students should:</p>
+<ul>
+  <li>Create a personal study timetable that aligns with the examination schedule.</li>
+  <li>Give extra attention to subjects scheduled in the early days of the examination.</li>
+  <li>Practise with past BECE questions to improve speed and accuracy.</li>
+  <li>Get enough rest before each examination day.</li>
+  <li>Eat balanced meals and avoid last-minute cramming.</li>
+</ul>
+
+<h3>Final Thoughts</h3>
+<p>The release of the <strong>Kwara State BECE 2026 timetable</strong> allows candidates to properly organize their revision ahead of the examination.</p>
+<p>Students are encouraged to prepare diligently, follow the timetable closely, and arrive at their examination centres on time. Parents and guardians should also provide the necessary support to help candidates remain focused throughout the examination period.</p>
+<p>We wish all candidates success in the 2026 Kwara State Basic Education Certificate Examination (BECE).</p>
+<p>For more examination news, you might find this post helpful: <a href="/blog/lagos-bece-timetable-2026">Lagos State BECE Timetable 2026 Released – Full Examination Schedule for JSS3 Candidates</a>.</p>`,
+    tags: ["Kwara State", "BECE", "Timetable", "JSS3", "Education", "Nigeria", "2026"],
+  },
+  {
+    id: "wema-bank-hackaholics-hackathon-7-0-opens-for-applications",
+    title: "Wema Bank Hackaholics Hackathon 7.0 Opens for Applications – Funding, Mentorship and Startup Growth Opportunities",
+    category: "Scholarship",
+    date: "2026-07-03",
+    excerpt: "Applications are now open for the Wema Bank Hackaholics Hackathon 7.0, one of Africa's leading innovation programmes for startups, entrepreneurs, creators, developers, and technology enthusiasts.",
+    content: `<h2>Wema Bank Hackaholics Hackathon 7.0 Opens for Applications</h2>
+<p>Applications are now open for the <strong>Wema Bank Hackaholics Hackathon 7.0</strong>, one of Africa's leading innovation programmes for startups, entrepreneurs, creators, developers, and technology enthusiasts.</p>
+<p>Hackaholics is Wema Bank's flagship open innovation programme designed to help founders and innovators transform ideas into real-world solutions through funding, mentorship, strategic partnerships, market access, and nationwide visibility.</p>
+<p>Whether you're building a startup, developing a digital product, or creating solutions to social challenges, Hackaholics 7.0 offers an opportunity to showcase your innovation and connect with investors, industry experts, and potential partners.</p>
+
+<h3>What Is Wema Bank Hackaholics 7.0?</h3>
+<p>Hackaholics 7.0 is an innovation and startup support programme that brings together talented individuals and teams from across Africa to develop solutions to real-world challenges.</p>
+<p>Since its launch, the programme has grown into one of the continent's most recognized platforms for innovators, providing participants with opportunities to secure funding, receive expert mentorship, gain media exposure, and build valuable business connections.</p>
+
+<h3>Who Can Apply?</h3>
+<p>Applications are open to everyone with innovative ideas or practical solutions.</p>
+<p>Eligible applicants include:</p>
+<ul>
+  <li>Startup founders</li>
+  <li>Entrepreneurs</li>
+  <li>Developers</li>
+  <li>Designers</li>
+  <li>Students</li>
+  <li>Professionals</li>
+  <li>Creators</li>
+  <li>Innovators</li>
+  <li>Technology enthusiasts</li>
+  <li>Social impact organisations</li>
+</ul>
+<p>Importantly, applicants <strong>do not need to be software developers</strong> or possess a Computer Science degree to participate.</p>
+
+<h3>Hackaholics 7.0 Tracks</h3>
+<p>The programme features three major tracks designed to accommodate different types of innovators.</p>
+<h4>1. Startup Pitch Competition</h4>
+<p>This track is designed for founders who already have a startup or business solution.</p>
+<p>Participants will have the opportunity to:</p>
+<ul>
+  <li>Pitch their businesses.</li>
+  <li>Gain exposure before investors and industry stakeholders.</li>
+  <li>Build strategic partnerships.</li>
+  <li>Access funding and growth opportunities.</li>
+</ul>
+<h4>2. Hackathon</h4>
+<p>The Hackathon track targets individuals and teams building technology-driven solutions.</p>
+<p>It is ideal for:</p>
+<ul>
+  <li>Developers</li>
+  <li>Software engineers</li>
+  <li>Product designers</li>
+  <li>Tech innovators</li>
+  <li>Builders creating digital tools and platforms</li>
+</ul>
+<p>Participants will work on innovative solutions addressing real-life challenges across various sectors.</p>
+<h4>3. Social Impact Track</h4>
+<p>The Social Impact Track focuses on organisations and individuals developing solutions for communities and society.</p>
+<p>It welcomes projects addressing:</p>
+<ul>
+  <li>Community development</li>
+  <li>Public welfare</li>
+  <li>Social innovation</li>
+  <li>Sustainable development</li>
+  <li>Humanitarian challenges</li>
+</ul>
+
+<h3>Benefits of Participating</h3>
+<p>Hackaholics 7.0 offers participants numerous opportunities beyond the competition itself.</p>
+<p>Successful applicants may receive:</p>
+<ul>
+  <li><strong>Funding Opportunities:</strong> Access to prize funding, post-programme financial support, and opportunities to raise investment capital.</li>
+  <li><strong>Mentorship:</strong> Guidance from successful founders, industry experts, business leaders, and innovation mentors.</li>
+  <li><strong>Visibility:</strong> Demo Day presentations, media exposure, brand recognition, and increased public awareness for startups.</li>
+  <li><strong>Strategic Partnerships:</strong> Connections with corporate organisations, technology companies, investors, ecosystem partners, and business stakeholders.</li>
+  <li><strong>Community:</strong> Access to a vibrant network of startup founders, developers, designers, entrepreneurs, and innovators.</li>
+  <li><strong>Market Access:</strong> Opportunities to validate ideas, test products with users, deploy solutions, and expand into new markets.</li>
+</ul>
+
+<h3>Focus Areas</h3>
+<p>Applicants are encouraged to build innovative solutions addressing challenges in the following sectors:</p>
+<ul>
+  <li>Financial Inclusion</li>
+  <li>Healthcare</li>
+  <li>Digital Transformation</li>
+  <li>Sustainability</li>
+  <li>Education</li>
+  <li>Social Impact</li>
+  <li>Future of Work</li>
+</ul>
+<p>Applicants should choose the focus area that best aligns with their innovation before submitting their application.</p>
+
+<h3>Application Deadline</h3>
+<p>At the time of this announcement, <strong>Wema Bank has not specified an application deadline</strong>. Interested applicants are encouraged to submit their applications as early as possible and regularly check the official programme page for updates.</p>
+
+<h3>How to Apply for Wema Bank Hackaholics 7.0</h3>
+<p>Applicants can apply by visiting the <a href="https://hackaholics.wemabank.com/" target="_blank" rel="noopener noreferrer">official Wema Bank Hackaholics 7.0 application webpage</a>.</p>
+
+<h3>Final Thoughts</h3>
+<p>The Wema Bank Hackaholics Hackathon 7.0 presents an exciting opportunity for innovators across Africa to turn ideas into impactful businesses and scalable solutions. If you have an innovative idea or an existing startup with growth potential, now is the perfect time to apply and become part of one of Africa's leading innovation ecosystems.</p>
+<p>For more opportunities, you might find this post helpful: <a href="/blog/opay-national-innovation-challenge-2026">OPay National Innovation Challenge 2026: Win Up to ₦10 Million Grant, Scholarships and Career Opportunities</a>.</p>`,
+    tags: ["Wema Bank", "Hackathon", "Startup", "Scholarship", "Funding", "Nigeria", "2026"],
+  },
+  {
     id: "asuu-threatens-indefinite-strike-july-2026",
     title: "ASUU Threatens Indefinite Strike in 11 State Universities Over Unpaid Allowances",
     category: "Education",

@@ -49,6 +49,427 @@ const currentDate = '2026-06-29'; // Current date for comparison (June 29, 2026)
 
 const allJobs: Job[] = [
   {
+    id: "warehouse-officer-ikeja-2026-07-05",
+    title: "Warehouse Officer",
+    date: "2026-07-05",
+    location: "Oba Akran, Ikeja, Lagos",
+    type: "Full-time",
+    salary: "₦250,000 Monthly",
+    deadline: "Not Specified",
+    summary: "We are seeking a detail-oriented and proactive Warehouse Officer with experience in inventory management, stock control, and daily warehouse operations.",
+    responsibilities: [],
+    requirements: [
+      "Minimum of 2-years’ experience in a warehouse or storekeeping role",
+      "Strong inventory management and stock control skills",
+      "Good organizational and record-keeping abilities",
+      "Proficiency in Microsoft Office, especially Excel",
+      "Strong communication and teamwork skills"
+    ],
+    apply: 'Send your CV to oluwakemi.ibinaiye@africanindustries.com'
+  },
+  {
+    id: "back-office-officer-ikeja-2026-07-05",
+    title: "Back Office Officer",
+    date: "2026-07-05",
+    location: "Oba Akran, Ikeja, Lagos",
+    type: "Full-time",
+    salary: "₦200,000 Monthly",
+    deadline: "Not Specified",
+    summary: "We are hiring a Back Office Officer to coordinate warehouse logistics, maintain operational records, and supervise the activities of forklift drivers and other warehouse personnel.",
+    responsibilities: [],
+    requirements: [
+      "Minimum of 1 year experience in a similar role",
+      "Strong coordination and record-keeping skills",
+      "Proficiency in Microsoft Office, especially Excel",
+      "Good communication and organizational skills"
+    ],
+    apply: 'Send your CV to oluwakemi.ibinaiye@africanindustries.com'
+  },
+  {
+    id: "purchasing-officer-garki-abuja-2026-07-05",
+    title: "Purchasing Officer (Female only)",
+    date: "2026-07-05",
+    location: "Garki-Abuja",
+    type: "Full-time",
+    salary: "150,000-200,000 Net",
+    deadline: "Not Specified",
+    summary: "A fast-food restaurant is seeking a female Purchasing Officer to manage procurement of food items, packaging, and equipment.",
+    responsibilities: [
+      "Source and purchase food items, packaging, and equipment",
+      "Negotiate with vendors and manage supplier relationships",
+      "Monitor inventory levels and forecast procurement needs",
+      "Ensure cost-effective and timely supply chain operations"
+    ],
+    requirements: [
+      "BSc in Supply Chain, Business Admin, or related field",
+      "3–5 years’ experience in procurement (preferably in food service)",
+      "Strong negotiation and analytical skills",
+      "Familiarity with food safety and inventory systems"
+    ],
+    apply: 'Send your CV to Hannah.onamade@aggregonfoodsng.com with the position/ Location you’re applying for subject line: (e.g., Wuse Abuja – Storekeeper).'
+  },
+  {
+    id: "storekeeper-abuja-lagos-2026-07-05",
+    title: "Storekeeper (Male Candidates only)",
+    date: "2026-07-05",
+    location: "Wuse-Abuja and Ajah Lagos",
+    type: "Full-time",
+    salary: "70,000-100,000",
+    deadline: "Not Specified",
+    summary: "A fast-food restaurant is seeking male Storekeepers for its locations in Wuse, Abuja and Ajah, Lagos.",
+    responsibilities: [
+      "Receive and issue food and kitchen supplies",
+      "Maintain accurate inventory records and stock levels",
+      "Enforce stock rotation (FIFO) and prevent wastage/spoilage",
+      "Keep the store organized, clean, and compliant with safety standards"
+    ],
+    requirements: [
+      "Minimum SSCE; experience in storekeeping is an advantage",
+      "1–2 years’ experience in a similar role",
+      "Good record-keeping and attention to detail",
+      "Ability to lift and move stock as needed",
+      "Basic math and record-keeping skills."
+    ],
+    apply: 'Send your CV to Hannah.onamade@aggregonfoodsng.com with the position/ Location you’re applying for subject line: (e.g., Wuse Abuja – Storekeeper).'
+  },
+  {
+    id: "executive-assistant-lagos-2026-07-05",
+    title: "Executive Assistant",
+    date: "2026-07-05",
+    location: "Lagos",
+    type: "Full-time",
+    salary: "Not Specified",
+    deadline: "Not Specified",
+    summary: "We are hiring an Executive Assistant to provide high-level administrative support to C-suite executives.",
+    responsibilities: [],
+    requirements: [
+      "Bachelor’s degree in Accounting, Economics, Business Administration, or a related field.",
+      "Minimum of 5 years’ experience as an Executive Assistant, Executive Administrator, or in a senior administrative role.",
+      "Advanced proficiency in Microsoft Office Suite (PowerPoint, Excel, Word, and Outlook).",
+      "Strong stakeholder management and interpersonal skills.",
+      "Ability to represent senior leadership professionally and confidently.",
+      "Experience supporting C-suite executives or senior management teams.",
+      "Proven ability to manage multiple priorities in a fast-paced environment."
+    ],
+    apply: 'Interested and qualified candidates should apply now: https://forms.gle/NnxNoaFkBMAc2h6R8'
+  },
+  {
+    id: "hr-assistant-sagamu-2026-07-05",
+    title: "HR Assistant (Male Preferred)",
+    date: "2026-07-05",
+    location: "Sagamu Factory",
+    type: "Full-time",
+    salary: "₦150,000 Gross + other benefits",
+    deadline: "Not Specified",
+    summary: "We are seeking a proactive HR Assistant with at least 1 year of HR experience. Male candidates are encouraged to apply to support gender balance within the team.",
+    responsibilities: [
+      "Support recruitment and onboarding.",
+      "Maintain employee records.",
+      "Monitor attendance and prepare HR reports.",
+      "Assist with payroll and HR administration.",
+      "Ensure compliance with HR policies."
+    ],
+    requirements: [
+      "HND/B.Sc. in a related field.",
+      "Minimum of 1 year HR experience.",
+      "Good communication and Microsoft Office skills."
+    ],
+    apply: 'Qualified candidates should send their CVs to herphrodite1@gmail.com'
+  },
+  {
+    id: "hr-intern-vi-2026-07-05",
+    title: "HR Intern",
+    date: "2026-07-05",
+    location: "Victoria Island, Lagos",
+    type: "Internship",
+    company: "Media and Creative Firm",
+    salary: "200k",
+    deadline: "Not Specified",
+    summary: "Open to Corp members or prospective Corp members that will like to serve in the company.",
+    responsibilities: [],
+    requirements: [
+      "0-1 year experience",
+      "Corp members or prospective Corp members are welcome"
+    ],
+    apply: 'Interested candidates should apply using this link: https://forms.gle/ay2DV9nffdXR6DfB7'
+  },
+  {
+    id: "business-development-officer-ikorodu-2026-07-05",
+    title: "Business Development Officer",
+    date: "2026-07-05",
+    location: "Ikorodu, Lagos State",
+    type: "Full-time",
+    salary: "₦150,000 - ₦180,000",
+    deadline: "Not Specified",
+    summary: "We are seeking a proactive and results-driven Business Development Officer to drive sales growth and expand our customer base for our gas plant in Ikorodu. Male for gender balance.",
+    responsibilities: [
+      "Identify and develop new business opportunities to increase LPG sales.",
+      "Build and maintain relationships with retail, commercial, and industrial customers.",
+      "Develop and execute sales strategies to achieve monthly and annual targets.",
+      "Conduct market research and monitor competitors’ activities.",
+      "Prepare sales reports and provide regular updates to management.",
+      "Promote the company’s products and services while ensuring excellent customer satisfaction."
+    ],
+    requirements: [
+      "OND/HND/Bachelor’s degree in Marketing, Business Administration, or a related field.",
+      "Minimum of 2 years’ experience in business development or sales, preferably in the oil & gas, FMCG, or retail sector.",
+      "Good communication, leadership, and customer service skills.",
+      "Basic computer knowledge (Microsoft Office).",
+      "Strong negotiation, communication, and relationship management skills.",
+      "Self-motivated, target-driven, and able to work with minimal supervision.",
+      "Candidates residing in or around Ikorodu will have an added advantage due to proximity."
+    ],
+    apply: 'Interested candidates should send CV to hr@emeraldzone.com.ng using the job position as the subject of the mail.'
+  },
+  {
+    id: "plumber-ikoyi-2026-07-05",
+    title: "Plumber",
+    date: "2026-07-05",
+    location: "Ikoyi, Lagos",
+    type: "Full-time",
+    salary: "₦130,000 – ₦200,000",
+    deadline: "Not Specified",
+    summary: "The Plumber will be responsible for installing, maintaining, and repairing plumbing systems and fixtures in residential or commercial facilities. The role will involve ensuring efficient water supply, drainage systems, and timely resolution of plumbing issues.",
+    responsibilities: [
+      "Install, repair, and maintain pipes, valves, fittings, drainage systems, and fixtures.",
+      "Diagnose plumbing faults and carry out corrective maintenance.",
+      "Conduct routine inspections of plumbing systems to identify issues.",
+      "Read and interpret plumbing drawings and technical specifications.",
+      "Ensure compliance with safety and building regulations during installations and repairs.",
+      "Test plumbing systems for leaks and functionality after installations.",
+      "Respond promptly to maintenance requests and emergency repairs.",
+      "Maintain tools and equipment in good working condition."
+    ],
+    requirements: [
+      "Minimum of 1–3 years’ experience in plumbing works.",
+      "Technical training or certification in Plumbing or related field is an added advantage.",
+      "Good understanding of plumbing systems, tools, and maintenance practices.",
+      "Ability to troubleshoot and resolve plumbing issues effectively.",
+      "Good communication and teamwork skills.",
+      "Ability to work independently with minimal supervision."
+    ],
+    apply: 'Interested candidates should send their CVs to cv@ascentech.com.ng using “Plumber-15” as the subject of the mail.'
+  },
+  {
+    id: "head-of-sales-lagos-2026-07-05",
+    title: "Head of Sales",
+    date: "2026-07-05",
+    location: "Lagos",
+    type: "Full-time",
+    salary: "₦300,000 – ₦400,000 per month",
+    deadline: "Not Specified",
+    summary: "We are seeking an experienced Head of Sales to lead our sales team and drive revenue growth. The ideal candidate will have a proven track record in selling high-end products, developing sales strategies, mentoring teams, and consistently exceeding sales targets.",
+    responsibilities: [
+      "Develop and execute sales strategies to achieve business goals.",
+      "Lead, train, and mentor the sales team to improve performance.",
+      "Drive sales growth and expand the customer base.",
+      "Build and maintain relationships with key clients.",
+      "Monitor sales performance, market trends, and competitor activities.",
+      "Prepare sales reports, forecasts, and performance reviews."
+    ],
+    requirements: [
+      "Bachelor’s degree in Business Administration, Marketing, or a related field.",
+      "5–7 years of sales experience, with at least 2 years in a leadership role.",
+      "Proven success in selling high-end or premium products.",
+      "Strong leadership, coaching, negotiation, and team management skills.",
+      "Excellent communication, customer engagement, and strategic planning abilities.",
+      "Demonstrated ability to train, mentor, and develop high-performing sales teams."
+    ],
+    apply: 'Qualified candidates should send their CVs to cv@ascentech.com.ng using the job title as the subject of the mail. (Bowale 14)'
+  },
+  {
+    id: "sales-engineer-lagos-2026-07-05",
+    title: "Sales Engineer",
+    date: "2026-07-05",
+    location: "Lagos",
+    type: "Full-time",
+    salary: "300k-450k",
+    deadline: "Not Specified",
+    summary: "We are seeking a dynamic and technically competent Sales Engineer to promote our plumbing and sanitary product range. The successful candidate will be responsible for reviewing construction drawings, preparing quantity take-offs, building strong relationships with consultants, architects, MEP contractors, and other key stakeholders, and driving sales growth by promoting the company’s brands and achieving assigned sales targets.",
+    responsibilities: [
+      "Study and interpret architectural and building drawings.",
+      "Prepare quantity take-offs for plumbing pipes and sanitary fittings based on drawings received from consultants, architects, and MEP contractors.",
+      "Visit construction sites and meet with contractors, consultants, and architects to promote the company’s products and brands.",
+      "Develop and maintain strong relationships with existing and prospective clients.",
+      "Identify new business opportunities and generate sales leads.",
+      "Prepare quotations and provide technical product support when required.",
+      "Achieve and exceed the sales targets assigned by the company."
+    ],
+    requirements: [
+      "Bachelor’s Degree in Mechanical Engineering or any related Discipline",
+      "Good knowledge of plumbing and sanitary systems.",
+      "Minimum of 2 years of experience in a Sales Engineer role, preferably within the plumbing, sanitary, or building materials industry."
+    ],
+    apply: 'Interested candidates should send their Updated CV to cv@ascentech.com using the title as the Subject of the Mail (Sales Engineer 14)'
+  },
+  {
+    id: "technical-sales-representative-north-2026-07-05",
+    title: "Technical Sales Representative (North)",
+    date: "2026-07-05",
+    location: "Northern Nigeria",
+    type: "Full-time",
+    salary: "Not Specified",
+    deadline: "Not Specified",
+    summary: "We are seeking a highly motivated, technically competent, and field-oriented Technical Sales Representative (Feedmill) with a Doctor of Veterinary Medicine (DVM) qualification to join our team. The successful candidate will provide technical veterinary support while driving the sales and promotion of our animal feed products.",
+    responsibilities: [
+      "Provide professional veterinary services to internal and external farmers, including disease diagnosis, treatment, and prescription of veterinary medications.",
+      "Administer medications and vaccines, and supervise poultry vaccination programmes.",
+      "Conduct routine farm visits to assess bird health, biosecurity compliance, and production performance.",
+      "Advise farmers on disease prevention, nutrition, medication programmes, and best farm management practices.",
+      "Develop treatment protocols and vaccination schedules.",
+      "Promote and sell the company’s animal feed products to existing and prospective customers.",
+      "Identify, recruit, and onboard new poultry farmers and distributors.",
+      "Build and maintain strong relationships with farmers, agro-veterinary outlets, distributors, and poultry clusters.",
+      "Identify new business opportunities and contribute to market expansion initiatives.",
+      "Achieve assigned sales targets and contribute to overall business growth.",
+      "Organise farm visits, technical seminars, product demonstrations, and farmer engagement programmes.",
+      "Provide after-sales technical support to ensure customer satisfaction and retention.",
+      "Gather market intelligence, customer feedback, and competitor information for management review.",
+      "Prepare and submit daily, weekly, and monthly sales and technical activity reports.",
+      "Maintain accurate records of farm visits, treatments, vaccinations, veterinary drug usage, and feed sales.",
+      "Submit field activity plans and performance reports as required.",
+      "Ensure compliance with veterinary professional ethics, drug administration regulations, and company policies.",
+      "Promote responsible use of veterinary drugs and adherence to biosecurity standards."
+    ],
+    requirements: [
+      "Doctor of Veterinary Medicine (DVM) – Mandatory",
+      "Valid professional registration and licence to practice as a Veterinary Doctor in Nigeria.",
+      "Minimum of 5–7 years of hands-on experience as a practicing Veterinary Doctor, preferably in poultry production, commercial farms, or technical sales within the feedmill industry.",
+      "Strong knowledge of poultry diseases, vaccination programmes, poultry nutrition, feed formulations, and farm management systems.",
+      "Proven experience in technical sales, farmer advisory services, and market development.",
+      "Excellent communication, presentation, negotiation, and relationship management skills.",
+      "Ability to work independently with minimal supervision.",
+      "Valid driver’s licence and willingness to travel extensively across Northern Nigeria."
+    ],
+    apply: 'Qualified and interested candidates should forward their Application Letter and Curriculum Vitae (CV) to jobs@sayedfarms.com.'
+  },
+  {
+    id: "plant-operator-benin-2026-07-05",
+    title: "Plant Operator",
+    date: "2026-07-05",
+    location: "On-site, Benin City, Edo State",
+    type: "Full-time",
+    salary: "₦400,000 — ₦500,000 per month",
+    deadline: "Not Specified",
+    summary: "A leading Nigerian Oil & Gas and Fabrication Company is looking for 50 qualified Plant Operators to join our team for an exciting onsite opportunity! On-site accommodation and feeding provided!",
+    responsibilities: [],
+    requirements: [
+      "HND/B.Sc. in Chemical Engineering, Automation, Instrumentation, or a related discipline.",
+      "Mininimum of (2–3+ years) of experience with an understanding of plant operations and P&ID/PFD interpretation.",
+      "HSE certification is a distinct advantage."
+    ],
+    apply: 'Email your resume directly to pccnhrmanager@gmail.com and copy pccflegalofficer@gmail.com.'
+  },
+  {
+    id: "spare-parts-store-clerk-lagos-benin-2026-07-05",
+    title: "Spare Parts Store Clerk",
+    date: "2026-07-05",
+    location: "Lagos & Benin, Nigeria",
+    type: "Full-time",
+    company: "Coca-Cola",
+    salary: "Not Specified",
+    deadline: "Not Specified",
+    summary: "Coca-Cola is hiring a Spare Parts Store Clerk.",
+    responsibilities: [],
+    requirements: [
+      "BSc. Or HND in Social Sciences, Purchasing & Supply, Engineering, Accounting, or a related discipline",
+      "Minimum of 3 years’ experience managing engineering spare parts inventory or working within a spare parts store",
+      "Good knowledge of SAP for spare parts inventory management",
+      "Strong understanding of engineering spare parts and their applications",
+      "Proficient in Microsoft Excel, Word, and PowerPoint",
+      "Strong numerical and analytical skills",
+      "High attention to detail with excellent organizational abilities",
+      "Passion for maintaining a clean, well-organized, and secure store environment",
+      "Strong sense of accountability, ownership, and commitment to inventory accuracy"
+    ],
+    apply: 'Apply 👇 https://careers.coca-colahellenic.com/en_US/careers/ProjectDetail/Spare-Parts-Store-Clerk/25110'
+  },
+  {
+    id: "school-nurse-ojota-2026-07-05",
+    title: "School Nurse (3 month Maternity Cover)",
+    date: "2026-07-05",
+    location: "Ojota, Lagos State",
+    type: "Contract",
+    salary: "₦120k - ₦130k",
+    deadline: "Not Specified",
+    summary: "A school in Ojota is looking for a school nurse for a 3-month maternity cover.",
+    responsibilities: [],
+    requirements: [
+      "Should be a registered Nurse.",
+      "At least 3 years experience in the same subject."
+    ],
+    apply: 'Qualified and interested candidate should send CV to fixgapconsulting@gmail.com with SCHOOL NURSE as subject of the mail.'
+  },
+  {
+    id: "life-planner-sales-executive-lagos-2026-07-05",
+    title: "Life planner /Sales Executive",
+    date: "2026-07-05",
+    location: "Lagos (mainland)",
+    type: "Full-time",
+    company: "Enterprise Life Assurance Company Nigeria",
+    salary: "Not Specified",
+    deadline: "Not Specified",
+    summary: "We are hiring and recruiting life planners at Enterprise Life Assurance Company Nigeria.",
+    responsibilities: [],
+    requirements: [
+      "OND, HND, or BSc in any field",
+      "Entrepreneurial mindset",
+      "Can work as an individual and in a team",
+      "Can work with little or less supervision",
+      "Excellent communication, networking, and relationships building skills"
+    ],
+    apply: 'Candidates who are qualified should send their cv to Nneka.Nonyelu@myenterprisegroup.io and DM on Whatsapp 08123684889'
+  },
+  {
+    id: "computer-scientist-sangotedo-2026-07-05",
+    title: "Computer Scientist",
+    date: "2026-07-05",
+    location: "Sangotedo, Lagos",
+    type: "Full-Time",
+    salary: "₦200,000/Month",
+    deadline: "Not Specified",
+    summary: "We are hiring a Computer Scientist to manage and maintain the company’s IT infrastructure.",
+    responsibilities: [
+      "Manage and maintain the company’s IT infrastructure",
+      "Troubleshoot hardware, software, and network issues",
+      "Develop and implement technology solutions",
+      "Install, configure, and update systems and applications",
+      "Monitor system performance, security, and data integrity",
+      "Maintain IT documentation and recommend technology improvements"
+    ],
+    requirements: [
+      "Bachelor’s Degree in Computer Science or a related field",
+      "Strong knowledge of computer systems, software, and networking",
+      "Excellent analytical and problem-solving skills",
+      "Ability to work independently and in a team",
+      "Programming skills and IT support experience are an advantage"
+    ],
+    apply: 'Send your CV to: argroupnigeria@gmail.com'
+  },
+  {
+    id: "graduate-procurement-executive-abuja-2026-07-05",
+    title: "Graduate Procurement Executive",
+    date: "2026-07-05",
+    location: "Wuse, Abuja",
+    type: "Full-time",
+    company: "The Place",
+    salary: "Not Specified",
+    deadline: "Not Specified",
+    summary: "Graduate Procurement Executive at The Place.",
+    responsibilities: [],
+    requirements: [
+      "Bachelor’s Degree in Procurement, Supply Chain, Business Admin, or related field.",
+      "Minimum of Second Class (Upper Division)",
+      "1–3 years of relevant experience in purchasing, procurement or related",
+      "Field experience with vendors in local and rural markets.",
+      "ERP knowledge (esp. Microsoft Dynamics 365) and strong negotiation skills.",
+      "Proficiency in Excel and Word for reporting.",
+      "We prefer a local professional who has origin in any parts of northern Nigeria or familiar with the northern culture",
+      "Fluency in Hausa Language is preferrred."
+    ],
+    apply: 'Apply 👇 https://jobs.smartrecruiters.com/ThePlace1/744000135482649-graduate-procurement-executive-abuja'
+  },
+  {
     id: "cnc-milling-machine-operator-ota-2026-07-03",
     title: "CNC Milling Machine Operator",
     date: "2026-07-03",

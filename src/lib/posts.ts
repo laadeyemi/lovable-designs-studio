@@ -10,6 +10,86 @@ export type Post = {
 
 const allPosts: Post[] = [
   {
+    id: "top-15-federal-government-recruitment-empowerment-programmes-2026",
+    title: "Top 15 Federal Government Recruitment and Empowerment Programmes Nigerians Can Still Apply for in 2026",
+    category: "Career",
+    date: "2026-07-05",
+    excerpt: "Looking for career or empowerment opportunities? This guide breaks down the top 15 Federal Government recruitment and empowerment programmes that are either ongoing or expected to open for applications in 2026.",
+    content: `<h2>Top 15 Federal Government Recruitment and Empowerment Programmes for Nigerians in 2026</h2>
+<p>For many Nigerians, securing a position in a federal agency or benefiting from a government empowerment scheme is a significant step toward career stability and economic growth. In 2026, the Nigerian government continues to roll out various recruitment exercises and empowerment initiatives aimed at creating jobs and supporting small businesses. This guide provides a comprehensive list of the top 15 programmes that are either ongoing or expected to open for applications this year.</p>
+
+<h3>Paramilitary and Security Agency Recruitment</h3>
+<p>These agencies periodically recruit to bolster their workforce and enhance national security. Recruitment is typically managed through the Civil Defence, Correctional, Fire and Immigration Services Board (CDCFIB) portal or the Police Service Commission (PSC) portal.</p>
+
+<h4>1. Nigeria Police Force (NPF) Recruitment</h4>
+<p>The NPF frequently recruits constables and specialists to strengthen its numbers. The 2025/2026 exercise saw applications for 50,000 constables, with physical and credentials screening taking place in early 2026. [4, 19] Another cycle is often anticipated. Keep an eye on the official portal: <a href="https://www.npfapplication.psc.gov.ng" target="_blank" rel="noopener noreferrer">npfapplication.psc.gov.ng</a>. [2]</p>
+
+<h4>2. Nigeria Security and Civil Defence Corps (NSCDC)</h4>
+<p>The NSCDC is responsible for protecting critical national infrastructure. Recruitment is managed by the CDCFIB. The 2025/2026 exercise involved physical screening in April 2026. [1, 22] Interested candidates should monitor the official CDCFIB portal: <a href="https://recruitment.cdcfib.gov.ng" target="_blank" rel="noopener noreferrer">recruitment.cdcfib.gov.ng</a> for the next cycle. [1, 12]</p>
+
+<h4>3. Nigeria Immigration Service (NIS)</h4>
+<p>The NIS manages the country's border integrity. Like the NSCDC, recruitment is conducted via the CDCFIB portal. The last major recruitment was announced in 2025, with screening stages extending into 2026. [11, 14, 20] Future opportunities will be announced on the same portal.</p>
+
+<h4>4. Nigerian Correctional Service (NCoS)</h4>
+<p>The NCoS also recruits through the CDCFIB portal. The 2025/2026 exercise was conducted alongside other paramilitary agencies. [37] Candidates interested in a career in the correctional service should watch the official portal for new announcements.</p>
+
+<h4>5. Federal Fire Service (FFS)</h4>
+<p>The FFS is the fifth agency under the CDCFIB recruitment umbrella. The last major intake was part of the 2025 exercise. [17] The official portal remains the only credible source for application updates.</p>
+
+<h3>Empowerment and Social Investment Programmes</h3>
+<p>These programmes are designed to provide financial support, skills training, and job opportunities to unemployed youth and small business owners.</p>
+
+<h4>6. N-Power Programme</h4>
+<p>N-Power is one of Nigeria's largest social investment schemes, providing stipends and skills training to unemployed graduates and non-graduates. The programme is expected to open its portal for a new batch (Batch D) in 2026. [7, 10] All applications are processed through the official NASIMS portal: <a href="https://nasims.gov.ng" target="_blank" rel="noopener noreferrer">nasims.gov.ng</a>.</p>
+
+<h4>7. Presidential Conditional Grant Scheme (PCGS)</h4>
+<p>This scheme offers a non-repayable grant of ₦50,000 to one million nano businesses across all 774 local government areas. [5, 8] It targets traders, food vendors, artisans, and other small-scale entrepreneurs, with a focus on women and youth. Applications are managed through the official grant portal. [42]</p>
+
+<h4>8. Government Enterprise and Empowerment Programme (GEEP 3.0)</h4>
+<p>GEEP provides interest-free loans to small business owners. It includes three sub-schemes:</p>
+<ul>
+  <li><strong>TraderMoni:</strong> For petty traders and artisans.</li>
+  <li><strong>MarketMoni:</strong> For market women and small business owners.</li>
+  <li><strong>FarmerMoni:</strong> For smallholder farmers.</li>
+</ul>
+<p>Unlike the PCGS, these are loans that must be repaid. [8] The programme is a key part of the government's strategy to boost grassroots economic activity.</p>
+
+<h4>9. Youth Empowerment Initiative for Climate Action</h4>
+<p>This initiative, part of the "Waste to Wealth" programme, aims to train 37,000 youths in green jobs and the circular economy. [9] It offers free training and is targeted at young Nigerians passionate about creating sustainable solutions.</p>
+
+<h4>10. 3 Million Technical Talent (3MTT) Programme</h4>
+<p>The 3MTT programme is a federal initiative to train three million Nigerians in various technical skills over several years. It provides a pathway into the digital economy for youths seeking to build careers in tech. [30] The programme is being rolled out in phases.</p>
+
+<h3>Federal Civil Service and MDAs Recruitment</h3>
+<p>Recruitment into Ministries, Departments, and Agencies (MDAs) is typically handled by the Federal Civil Service Commission (FCSC).</p>
+
+<h4>11. Federal Civil Service Commission (FCSC) Recruitment</h4>
+<p>The FCSC periodically announces vacancies across various federal ministries. Positions range from junior roles to senior professional cadres. All applications are submitted through the official FCSC portal: <a href="https://www.fedcivilservice.gov.ng" target="_blank" rel="noopener noreferrer">fedcivilservice.gov.ng</a>. [10, 43] Candidates should check the portal regularly for new openings.</p>
+
+<h4>12. Federal Road Safety Corps (FRSC) Recruitment</h4>
+<p>The FRSC is expected to conduct recruitment in 2026 to fill positions in the Officer and Marshal Inspectorate cadres. Requirements vary by cadre, but generally include specific age limits and educational qualifications. The application is always free and online.</p>
+
+<h4>13. National Drug Law Enforcement Agency (NDLEA)</h4>
+<p>The NDLEA periodically recruits personnel to support its fight against drug trafficking. The recruitment process is usually competitive and involves physical screening, a CBT test, and an interview. Announcements are made through national dailies and official channels.</p>
+
+<h4>14. Nigeria Customs Service (NCS)</h4>
+<p>The NCS is another highly sought-after agency. Recruitment exercises are announced to fill vacancies in its ranks. Like other paramilitary agencies, the process is rigorous and involves multiple screening stages. [12]</p>
+
+<h4>15. Bank of Industry (BOI) Youth and Women Empowerment Funds</h4>
+<p>While not a direct recruitment, the Bank of Industry manages several funds aimed at empowering Nigerian entrepreneurs. These include the Youth Entrepreneurship Support (YES) Programme and special funds for women-owned businesses like GLOW (Guaranteed Loans for Women). [44] These programmes provide access to financing and training for aspiring business owners.</p>
+
+<h3>How to Stay Updated and Avoid Scams</h3>
+<ul>
+  <li><strong>Always use official portals:</strong> Government recruitment is always announced on official websites (e.g., .gov.ng domains).</li>
+  <li><strong>Recruitment is free:</strong> Never pay anyone for a federal government job application. Anyone asking for money is a fraudster.</li>
+  <li><strong>Beware of fake news:</strong> Cross-check any recruitment announcement with official government sources or reputable news outlets.</li>
+</ul>
+
+<h3>Conclusion</h3>
+<p>The federal government offers numerous opportunities for employment and empowerment in 2026. Whether you are a graduate seeking a career in the civil service, a youth looking for skills, or a small business owner in need of support, these programmes provide valuable pathways. The key is to stay informed, prepare your documents, and apply through the correct channels.</p>`,
+    tags: ["Federal Government", "Recruitment", "Empowerment", "Jobs", "Nigeria", "2026", "N-Power", "NSCDC", "Police"],
+  },
+  {
     id: "what-the-new-nysc-reform-means-for-every-nigerian-graduate-2026",
     title: "What the New NYSC Reform Means for Every Nigerian Graduate in 2026 (Explained)",
     category: "Education",

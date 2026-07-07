@@ -10,6 +10,357 @@ export type Post = {
 
 const allPosts: Post[] = [
   {
+    id: "nigerian-law-school-bar-part-ii-admission-2026-2027",
+    title: "Nigerian Law School Opens Bar Part II Admission for 2026/2027 Academic Session",
+    category: "Education",
+    date: "2026-07-07",
+    excerpt: "The Nigerian Law School has announced the commencement of applications for admission into the Bar Part II Programme for the 2026/2027 academic session.",
+    content: `<h2>Nigerian Law School Opens Bar Part II Admission for 2026/2027 Academic Session</h2>
+<p>The Nigerian Law School has announced the commencement of applications for admission into the Bar Part II Programme for the 2026/2027 academic session.</p>
+<p>According to the admission notice, the online application portal will open on <strong>Monday, 7 September 2026</strong>, while the Bar Part II session is scheduled to begin on <strong>Monday, 22 February 2027</strong>.</p>
+<p>Prospective applicants are advised to ensure that their universities have forwarded their academic records to the Nigerian Law School before beginning the application process.</p>
+
+<h3>Important Dates for the Admission Exercise</h3>
+<p>Applicants should take note of the following dates for the 2026/2027 Bar Part II admission:</p>
+<ul>
+  <li><strong>Portal Opens:</strong> Monday, 7 September 2026</li>
+  <li><strong>University Data Forwarding Deadline:</strong> Friday, 4 September 2026</li>
+  <li><strong>Application Submission Deadline:</strong> Thursday, 31 December 2026</li>
+  <li><strong>Bar Part II Session Begins:</strong> Monday, 22 February 2027</li>
+</ul>
+<p>Candidates are encouraged to complete all application requirements before the stated deadlines, as late submissions will not be accepted.</p>
+
+<h3>Campuses for the Bar Part II Programme</h3>
+<p>The 2026/2027 Bar Part II Programme will commence simultaneously at the Nigerian Law School Headquarters in <strong>Bwari, Abuja</strong>, and the following campuses:</p>
+<ul><li>Lagos Campus</li><li>Enugu Campus</li><li>Kano Campus</li><li>Yenagoa Campus</li><li>Yola Campus</li><li>Port Harcourt Campus</li></ul>
+
+<h3>Eligibility Requirements</h3>
+<p>Applications are invited from candidates who meet the admission requirements for the Bar Part II Programme.</p>
+<p>Eligible applicants include:</p>
+<ul>
+  <li>Nigerian graduates of Law from accredited Nigerian universities.</li>
+  <li>Nigerian graduates of Law from non-common law jurisdictions who have successfully completed the prescribed remedial programme at a Nigerian university.</li>
+  <li>Foreign-trained law graduates who have completed and passed the Nigerian Law School Bar Part I Programme.</li>
+</ul>
+
+<h3>Verify Your Eligibility Before Making Payment</h3>
+<p>Before paying the application fee, applicants must confirm that the Registrar of their university has forwarded their academic data to the Nigerian Law School.</p>
+<p>Only candidates whose records have been submitted on or before <strong>Friday, 4 September 2026</strong> will be eligible to complete the online application.</p>
+<p>Applicants are advised to verify this with their respective universities before making any payment, as the application fee is non-refundable.</p>
+
+<h3>Application Fee</h3>
+<p>The application fee for the 2026/2027 Bar Part II admission is <strong>₦40,000</strong>.</p>
+<p>Since the fee is non-refundable, applicants should ensure they meet all eligibility requirements before proceeding with payment.</p>
+
+<h3>How to Apply</h3>
+<p>Candidates should visit the official Nigerian Law School application portal and follow the application guidelines provided.</p>
+<p>Applicants are expected to:</p>
+<ol><li>Complete the online application form.</li><li>Follow all instructions provided on the portal.</li><li>Ensure that all required references are properly completed through the approved process.</li></ol>
+<p>Applicants should carefully review all information before submitting their application.</p>
+
+<h3>Submission of Application Forms</h3>
+<p>After completing the online application, candidates are required to download their application forms.</p>
+<p>The completed forms, together with all required references, must be submitted through the applicant's <strong>Dean of Law</strong> and returned to the Nigerian Law School on or before <strong>Thursday, 31 December 2026</strong>.</p>
+<p>The Law School has stated that applications received after the deadline will not be considered.</p>
+
+<h3>Guidelines for Re-admission Applicants</h3>
+<p>Candidates applying for re-admission, as well as those whose referred admission cases have been cleared, should first confirm that their names appear under the <strong>"Re-admission"</strong> section of the application portal.</p>
+<p>They are also required to attach a copy of their approval or clearance letter to their application documents before forwarding the completed forms to:</p>
+<p><strong>The Secretary to the Council and Director of Administration</strong><br><strong>Nigerian Law School Headquarters</strong></p>
+<p>All re-admission applications must also be submitted on or before <strong>Thursday, 31 December 2026</strong>.</p>
+<p>For more information on approved law programmes, you might find this post helpful: <a href="/blog/universities-approved-law-nigeria-2026">Full List of Universities Approved to Offer Law (LL.B) in Nigeria for 2026</a>.</p>`,
+    tags: ["Nigerian Law School", "Bar Part II", "Admission", "2026/2027", "Law", "Education", "Nigeria"],
+  },
+  {
+    id: "unilorin-mbbs-admission-rumours-debunked-2026-2027",
+    title: "UNILORIN Dismisses Rumours of No MBBS Admission for 2026/2027 Session",
+    category: "Education",
+    date: "2026-07-07",
+    excerpt: "The University of Ilorin (UNILORIN) has dismissed reports circulating on social media claiming that it will not admit students into its Bachelor of Medicine, Bachelor of Surgery (MBBS) programme for the 2026/2027 academic session.",
+    content: `<h2>UNILORIN Dismisses Rumours of No MBBS Admission for 2026/2027 Session</h2>
+<p>The University of Ilorin (UNILORIN) has dismissed reports circulating on social media claiming that it will not admit students into its Bachelor of Medicine, Bachelor of Surgery (MBBS) programme for the 2026/2027 academic session.</p>
+<p>In an official statement, the university clarified that the information did not originate from the institution and does not reflect its position. Management reaffirmed that admission into the MBBS programme for the 2026/2027 academic session will proceed as planned.</p>
+<p>The university also confirmed that it has already advertised admission into the programme and that Post-UTME registration is currently ongoing.</p>
+
+<h3>University Debunks Social Media Claim</h3>
+<p>UNILORIN has urged prospective students, parents, and members of the public to ignore the viral social media reports suggesting that MBBS admission has been suspended.</p>
+<p>According to the university, the claim is a misleading rumour intended to create confusion among admission seekers. Applicants have been advised to rely only on information published through the university's official communication channels.</p>
+
+<h3>MBBS Post-UTME Registration Is Still Open</h3>
+<p>The university has confirmed that Post-UTME registration for the MBBS programme is currently in progress.</p>
+<p>Candidates seeking admission to study Medicine and Surgery at the University of Ilorin should continue with their application, as the institution has made it clear that admission into the programme will take place for the 2026/2027 academic session.</p>
+
+<h3>Update on Medical Graduates Awaiting Induction</h3>
+<p>UNILORIN acknowledged concerns regarding some medical graduates who are yet to be inducted.</p>
+<p>The management stated that it is actively engaging the relevant regulatory authorities to ensure that the induction process is completed as soon as possible. Affected graduates have been encouraged to remain patient while efforts continue, with the university promising to provide further updates when necessary.</p>
+
+<h3>Assurance for Current Medical Students</h3>
+<p>The university has also assured its medical students that measures are being taken to ensure that no student is disadvantaged by the ongoing situation.</p>
+<p>According to the management, the academic progress and welfare of students across all levels of the medical programme remain a priority.</p>
+
+<h3>Engagement With the Medical and Dental Council of Nigeria (MDCN)</h3>
+<p>UNILORIN reaffirmed its commitment to working closely with the <strong>Medical and Dental Council of Nigeria (MDCN)</strong>, the regulatory body responsible for medical education and professional practice in Nigeria.</p>
+<p>The university stated that it will continue constructive engagement with the Council to ensure that all outstanding issues are resolved amicably.</p>
+
+<h3>Advice to Applicants and Parents</h3>
+<p>The university has advised prospective applicants, parents, and other stakeholders to depend solely on official UNILORIN communication channels for admission updates.</p>
+<p>Management also cautioned the public against acting on unverified social media reports, particularly those relating to MBBS admission, Post-UTME registration, student welfare, or the induction of medical graduates.</p>
+<p>For more details on the ongoing admission process, you might find this post helpful: <a href="/blog/unilorin-post-utme-direct-entry-form-2026-2027">UNILORIN Post UTME/Direct Entry Form for 2026/2027 Admission Now Available</a>.</p>`,
+    tags: ["UNILORIN", "MBBS", "Admission", "Rumours", "Education", "Nigeria", "2026/2027"],
+  },
+  {
+    id: "franco-british-international-university-admission-2026-2027",
+    title: "Franco-British International University Opens Undergraduate Admission for 2026/2027 Academic Session",
+    category: "Education",
+    date: "2026-07-06",
+    excerpt: "Franco-British International University (FBIU), Kaduna, has commenced applications for admission into its undergraduate degree programmes for the 2026/2027 academic session.",
+    content: `<h2>Franco-British International University Opens Undergraduate Admission for 2026/2027 Academic Session</h2>
+<p>Franco-British International University (FBIU), Kaduna, has commenced applications for admission into its undergraduate degree programmes for the 2026/2027 academic session.</p>
+<p>The university is inviting suitably qualified candidates to apply for bachelor's degree programmes offered across its four academic schools. Interested applicants must have selected Franco-British International University as their first-choice institution in JAMB before proceeding with the admission process.</p>
+<p>Candidates are also advised to review the available programmes and carefully follow the application guidelines before submitting their forms.</p>
+
+<h3>Why Choose Franco-British International University?</h3>
+<p>According to the university, students who choose FBIU will benefit from:</p>
+<ul>
+  <li>High-quality education with an international perspective</li>
+  <li>A wide range of undergraduate programmes across different disciplines</li>
+  <li>Modern campus facilities and a conducive learning environment</li>
+  <li>Experienced and highly qualified academic staff</li>
+</ul>
+
+<h3>Available Undergraduate Programmes</h3>
+<h4>School of Social and Management Sciences</h4>
+<ul><li>B.Sc. Accounting</li><li>B.Sc. Business Administration</li><li>B.Sc. Economics</li><li>B.Sc. Finance</li><li>B.Sc. Human Resource Management</li><li>B.Sc. International Relations</li><li>B.Sc. Mass Communication</li><li>B.Sc. Peace Studies and Conflict Resolution</li></ul>
+<h4>School of Computing</h4>
+<ul><li>B.Sc. Computer Science</li><li>B.Sc. Cyber Security</li><li>B.Sc. Information Technology</li><li>B.Sc. Software Engineering</li><li>B.Sc. Data Science</li></ul>
+<h4>School of Nursing Sciences</h4>
+<ul><li>Bachelor of Nursing Science (B.N.Sc.)</li></ul>
+<h4>School of Health Sciences</h4>
+<ul><li>Bachelor of Medical Laboratory Science (BMLS)</li><li>B.Sc. Public Health</li><li>Doctor of Physiotherapy (DPT)</li></ul>
+
+<h3>Application Process Explained</h3>
+<p>Eligible candidates can apply through the university's official undergraduate admission portal by following these steps:</p>
+<ol>
+  <li>Visit the official <a href="https://eportal.fbiu.edu.ng/" target="_blank" rel="noopener noreferrer">FBIU undergraduate admission portal</a>.</li>
+  <li>Click on the <strong>"Apply Now"</strong> button.</li>
+  <li>Enter your <strong>JAMB registration number</strong> as your username.</li>
+  <li>Use the same <strong>JAMB registration number</strong> as your password.</li>
+  <li>Complete the online application form with the required information.</li>
+  <li>Submit the application form.</li>
+  <li>Pay the <strong>₦40,000 application and processing fee</strong> into the account number provided on the application form.</li>
+  <li>Send your payment evidence together with your application number to the WhatsApp number indicated on the application form for confirmation.</li>
+</ol>
+
+<h3>Important Information for Applicants</h3>
+<p>Before submitting the application, candidates should ensure that:</p>
+<ul>
+  <li>Franco-British International University has been selected as their <strong>first-choice institution</strong> in JAMB.</li>
+  <li>Their <strong>JAMB registration number</strong> is entered correctly, as it will serve as both the username and password for portal access.</li>
+  <li>The course selected is among the approved undergraduate programmes offered by the university.</li>
+  <li>All information provided during registration is accurate and complete.</li>
+</ul>
+<p>Carefully reviewing your application before submission can help prevent delays during the admission process.</p>
+
+<h3>Contact Information</h3>
+<p>Applicants who require further clarification about the admission process may contact the university through any of the following phone numbers:</p>
+<ul>
+  <li><strong>09073388183</strong></li>
+  <li><strong>08030759727</strong></li>
+  <li><strong>08135421977</strong></li>
+</ul>
+<p>For more university admission news, you might find this post helpful: <a href="/blog/federal-university-dutse-post-utme-direct-entry-2026-2027">Federal University Dutse Opens Post UTME and Direct Entry Screening for 2026/2027 Admission</a>.</p>`,
+    tags: ["Franco-British International University", "FBIU", "Admission", "Undergraduate", "2026/2027", "Education", "Nigeria"],
+  },
+  {
+    id: "federal-university-dutse-post-utme-direct-entry-2026-2027",
+    title: "Federal University Dutse Opens Post UTME and Direct Entry Screening for 2026/2027 Admission",
+    category: "Education",
+    date: "2026-07-06",
+    excerpt: "Federal University Dutse (FUD) has commenced the online Post UTME and Direct Entry screening exercise for candidates seeking undergraduate admission into the institution for the 2026/2027 academic session.",
+    content: `<h2>Federal University Dutse Opens Post UTME and Direct Entry Screening for 2026/2027 Admission</h2>
+<p>Federal University Dutse (FUD) has commenced the online Post UTME and Direct Entry screening exercise for candidates seeking undergraduate admission into the institution for the 2026/2027 academic session.</p>
+<p>The online screening exercise will begin on <strong>Tuesday, 7 July 2026</strong>, and close on <strong>Monday, 10 August 2026</strong>. All UTME and Direct Entry applicants seeking admission into the university are required to participate in the screening exercise before the deadline.</p>
+
+<h3>Screening Exercise Schedule</h3>
+<p>The online screening portal will open on <strong>Tuesday, 7 July 2026</strong>, while registration will officially end on <strong>Monday, 10 August 2026</strong>.</p>
+<p>Candidates are advised to complete every stage of the screening process well before the closing date, as late applications may not be accepted.</p>
+
+<h3>Eligibility Requirements for FUD Admission Screening</h3>
+<p>Candidates must satisfy the university's admission requirements before they can participate in the online screening exercise.</p>
+<p>To be eligible:</p>
+<ul>
+  <li>UTME candidates must have selected <strong>Federal University Dutse</strong> as their first-choice institution.</li>
+  <li>Applicants must meet the approved UTME cut-off mark for their chosen course.</li>
+  <li>Direct Entry candidates must possess at least a <strong>Lower Credit</strong> at the National Diploma (ND) level.</li>
+  <li>Direct Entry applicants may also qualify with a minimum of <strong>8 points</strong> in NCE, IJMB, or equivalent qualifications.</li>
+  <li>Candidates must have at least <strong>five O'Level credit passes</strong>, including <strong>English Language</strong> and <strong>Mathematics</strong>.</li>
+  <li>The required O'Level credits must be obtained in <strong>not more than two sittings</strong>.</li>
+  <li>Participation in the online screening exercise is compulsory for all admission applicants.</li>
+</ul>
+
+<h3>Approved FUD Cut-Off Marks for 2026/2027 Admission</h3>
+<p>Federal University Dutse has released the approved UTME cut-off marks for all undergraduate programmes for the 2026/2027 admission exercise.</p>
+<p>Candidates should confirm that they meet the required score for their preferred course before proceeding with the screening registration.</p>
+
+<h4>Faculty of Agriculture</h4>
+<table class="w-full border-collapse border border-gray-300 my-4 text-sm"><thead><tr class="bg-gray-100 text-left"><th class="border border-gray-300 p-2">Programme</th><th class="border border-gray-300 p-2 text-right">Cut-Off Mark</th></tr></thead><tbody><tr><td class="border border-gray-300 p-2">B. Agricultural Science</td><td class="border border-gray-300 p-2 text-right">150</td></tr><tr><td class="border border-gray-300 p-2">B. Fisheries and Aquaculture</td><td class="border border-gray-300 p-2 text-right">150</td></tr><tr><td class="border border-gray-300 p-2">B. Forestry and Wildlife Management</td><td class="border border-gray-300 p-2 text-right">150</td></tr><tr><td class="border border-gray-300 p-2">B. Food Science and Technology</td><td class="border border-gray-300 p-2 text-right">150</td></tr></tbody></table>
+
+<h4>Faculty of Arts and Social Sciences</h4>
+<table class="w-full border-collapse border border-gray-300 my-4 text-sm"><thead><tr class="bg-gray-100 text-left"><th class="border border-gray-300 p-2">Programme</th><th class="border border-gray-300 p-2 text-right">Cut-Off Mark</th></tr></thead><tbody><tr><td class="border border-gray-300 p-2">B.A. Arabic</td><td class="border border-gray-300 p-2 text-right">150</td></tr><tr><td class="border border-gray-300 p-2">B.Sc. Criminology and Security Studies</td><td class="border border-gray-300 p-2 text-right">160</td></tr><tr><td class="border border-gray-300 p-2">B.Sc. Economics</td><td class="border border-gray-300 p-2 text-right">150</td></tr><tr><td class="border border-gray-300 p-2">B.A. English Language</td><td class="border border-gray-300 p-2 text-right">150</td></tr><tr><td class="border border-gray-300 p-2">B. Library and Information Science</td><td class="border border-gray-300 p-2 text-right">150</td></tr><tr><td class="border border-gray-300 p-2">B.A. Linguistics (Arabic)</td><td class="border border-gray-300 p-2 text-right">150</td></tr><tr><td class="border border-gray-300 p-2">B.A. Linguistics (English)</td><td class="border border-gray-300 p-2 text-right">150</td></tr><tr><td class="border border-gray-300 p-2">B.Sc. Political Science</td><td class="border border-gray-300 p-2 text-right">160</td></tr></tbody></table>
+
+<h4>Faculty of Basic Medical Sciences</h4>
+<table class="w-full border-collapse border border-gray-300 my-4 text-sm"><thead><tr class="bg-gray-100 text-left"><th class="border border-gray-300 p-2">Programme</th><th class="border border-gray-300 p-2 text-right">Cut-Off Mark</th></tr></thead><tbody><tr><td class="border border-gray-300 p-2">B.Sc. Environmental Health Sciences</td><td class="border border-gray-300 p-2 text-right">170</td></tr><tr><td class="border border-gray-300 p-2">B.Sc. Human Anatomy</td><td class="border border-gray-300 p-2 text-right">160</td></tr><tr><td class="border border-gray-300 p-2">B.Sc. Human Physiology</td><td class="border border-gray-300 p-2 text-right">160</td></tr><tr><td class="border border-gray-300 p-2">B.NSc. Nursing Science</td><td class="border border-gray-300 p-2 text-right">210</td></tr><tr><td class="border border-gray-300 p-2">B.Sc. Public Health</td><td class="border border-gray-300 p-2 text-right">190</td></tr></tbody></table>
+
+<h4>Faculty of Clinical Sciences</h4>
+<table class="w-full border-collapse border border-gray-300 my-4 text-sm"><thead><tr class="bg-gray-100 text-left"><th class="border border-gray-300 p-2">Programme</th><th class="border border-gray-300 p-2 text-right">Cut-Off Mark</th></tr></thead><tbody><tr><td class="border border-gray-300 p-2">MBBS</td><td class="border border-gray-300 p-2 text-right">240</td></tr></tbody></table>
+
+<h4>Faculty of Computing</h4>
+<table class="w-full border-collapse border border-gray-300 my-4 text-sm"><thead><tr class="bg-gray-100 text-left"><th class="border border-gray-300 p-2">Programme</th><th class="border border-gray-300 p-2 text-right">Cut-Off Mark</th></tr></thead><tbody><tr><td class="border border-gray-300 p-2">B.Sc. Computer Science</td><td class="border border-gray-300 p-2 text-right">180</td></tr><tr><td class="border border-gray-300 p-2">B.Sc. Cybersecurity</td><td class="border border-gray-300 p-2 text-right">180</td></tr><tr><td class="border border-gray-300 p-2">B.Sc. Information Technology</td><td class="border border-gray-300 p-2 text-right">180</td></tr><tr><td class="border border-gray-300 p-2">B.Sc. Software Engineering</td><td class="border border-gray-300 p-2 text-right">180</td></tr></tbody></table>
+
+<h4>Faculty of Education</h4>
+<table class="w-full border-collapse border border-gray-300 my-4 text-sm"><thead><tr class="bg-gray-100 text-left"><th class="border border-gray-300 p-2">Programme</th><th class="border border-gray-300 p-2 text-right">Cut-Off Mark</th></tr></thead><tbody><tr><td class="border border-gray-300 p-2">B.Ed. Islamic Studies</td><td class="border border-gray-300 p-2 text-right">150</td></tr><tr><td class="border border-gray-300 p-2">B.Ed. Primary Education</td><td class="border border-gray-300 p-2 text-right">150</td></tr></tbody></table>
+
+<h4>Faculty of Management Sciences</h4>
+<table class="w-full border-collapse border border-gray-300 my-4 text-sm"><thead><tr class="bg-gray-100 text-left"><th class="border border-gray-300 p-2">Programme</th><th class="border border-gray-300 p-2 text-right">Cut-Off Mark</th></tr></thead><tbody><tr><td class="border border-gray-300 p-2">B.Sc. Accounting</td><td class="border border-gray-300 p-2 text-right">160</td></tr><tr><td class="border border-gray-300 p-2">B.Sc. Actuarial Science</td><td class="border border-gray-300 p-2 text-right">150</td></tr><tr><td class="border border-gray-300 p-2">B.Sc. Banking and Finance</td><td class="border border-gray-300 p-2 text-right">150</td></tr><tr><td class="border border-gray-300 p-2">B.Sc. Business Administration</td><td class="border border-gray-300 p-2 text-right">170</td></tr><tr><td class="border border-gray-300 p-2">B.Sc. Insurance</td><td class="border border-gray-300 p-2 text-right">150</td></tr><tr><td class="border border-gray-300 p-2">B.Sc. Taxation</td><td class="border border-gray-300 p-2 text-right">150</td></tr></tbody></table>
+
+<h4>Faculty of Life Sciences</h4>
+<table class="w-full border-collapse border border-gray-300 my-4 text-sm"><thead><tr class="bg-gray-100 text-left"><th class="border border-gray-300 p-2">Programme</th><th class="border border-gray-300 p-2 text-right">Cut-Off Mark</th></tr></thead><tbody><tr><td class="border border-gray-300 p-2">B.Sc. Biochemistry</td><td class="border border-gray-300 p-2 text-right">180</td></tr><tr><td class="border border-gray-300 p-2">B.Sc. Biology</td><td class="border border-gray-300 p-2 text-right">160</td></tr><tr><td class="border border-gray-300 p-2">B.Sc. Biotechnology</td><td class="border border-gray-300 p-2 text-right">180</td></tr><tr><td class="border border-gray-300 p-2">B.Sc. Botany</td><td class="border border-gray-300 p-2 text-right">150</td></tr><tr><td class="border border-gray-300 p-2">B.Sc. Microbiology</td><td class="border border-gray-300 p-2 text-right">180</td></tr><tr><td class="border border-gray-300 p-2">B.Sc. Zoology</td><td class="border border-gray-300 p-2 text-right">150</td></tr></tbody></table>
+
+<h4>Faculty of Physical Sciences</h4>
+<table class="w-full border-collapse border border-gray-300 my-4 text-sm"><thead><tr class="bg-gray-100 text-left"><th class="border border-gray-300 p-2">Programme</th><th class="border border-gray-300 p-2 text-right">Cut-Off Mark</th></tr></thead><tbody><tr><td class="border border-gray-300 p-2">B.Sc. Chemistry</td><td class="border border-gray-300 p-2 text-right">150</td></tr><tr><td class="border border-gray-300 p-2">B.Sc. Environmental Management and Toxicology</td><td class="border border-gray-300 p-2 text-right">150</td></tr><tr><td class="border border-gray-300 p-2">B.Sc. Industrial Chemistry</td><td class="border border-gray-300 p-2 text-right">150</td></tr><tr><td class="border border-gray-300 p-2">B.Sc. Industrial Mathematics</td><td class="border border-gray-300 p-2 text-right">150</td></tr><tr><td class="border border-gray-300 p-2">B.Sc. Mathematics</td><td class="border border-gray-300 p-2 text-right">150</td></tr><tr><td class="border border-gray-300 p-2">B.Sc. Physics</td><td class="border border-gray-300 p-2 text-right">150</td></tr></tbody></table>
+
+<h3>Screening Registration Fee</h3>
+<p>The screening fee for the 2026/2027 admission exercise is <strong>₦3,000</strong> only.</p>
+<p>Candidates should note that bank or payment platform charges are not included in this amount and may attract additional fees.</p>
+
+<h3>Step-by-Step Application Process</h3>
+<p>Applicants should complete their registration through the FUD Post UTME portal by following these steps:</p>
+<ol>
+  <li>Visit the <a href="https://www.putme.fud.edu.ng/" target="_blank" rel="noopener noreferrer">FUD Post UTME portal</a>.</li>
+  <li>Log in using your UTME or Direct Entry registration number.</li>
+  <li>Use your <strong>State of Origin</strong> as the default password.</li>
+  <li>Update your biodata, including your date of birth, email address, phone number, state, and local government area.</li>
+  <li>Generate your invoice and <strong>Remita Retrieval Reference (RRR)</strong> number. The RRR is a unique payment reference used to identify and confirm your payment through the Remita platform.</li>
+  <li>Pay the screening fee of <strong>₦3,000</strong> at any commercial bank, FUD Microfinance Bank, or through an approved online payment platform.</li>
+  <li>Return to the portal to complete the screening form.</li>
+  <li>Upload all required documents.</li>
+  <li>Carefully review the information provided.</li>
+  <li>Submit your application.</li>
+  <li>Print your screening acknowledgement slip for future reference.</li>
+</ol>
+<p>Candidates are advised to ensure that every detail submitted is accurate, as incorrect information may affect their admission.</p>
+
+<h3>Required Documents for Online Screening</h3>
+<p>Applicants must upload clear and authentic copies of the following documents:</p>
+<ul>
+  <li>O'Level results (WAEC, NECO, NABTEB, or equivalent) obtained in not more than two sittings</li>
+  <li>A'Level, IJMB, NCE, or ND results where applicable</li>
+  <li>JAMB UTME result slip</li>
+  <li>Recent passport photograph</li>
+</ul>
+<p>Direct Entry candidates should also upload their higher qualification results where applicable.</p>
+
+<h3>Documents to Print After Registration</h3>
+<p>After successfully completing the online screening, candidates should print and keep the following documents:</p>
+<ul>
+  <li>Remita payment receipt</li>
+  <li>Screening acknowledgement slip</li>
+  <li>JAMB UTME notification of result or registration slip</li>
+</ul>
+<p>These documents may be required during subsequent stages of the admission process.</p>
+
+<h3>Upload O'Level Results on the JAMB Portal</h3>
+<p>Candidates are reminded to upload their O'Level results on the JAMB portal. Whether using WAEC, NECO, NABTEB, or an equivalent examination, the details uploaded on JAMB should be consistent with those submitted during the FUD screening exercise.</p>
+
+<h3>Complete Registration Before the Deadline</h3>
+<p>The online screening portal will close on <strong>Monday, 10 August 2026</strong>.</p>
+<p>Applicants are strongly advised not to wait until the final day before completing their registration to avoid possible network or payment issues.</p>
+
+<h3>Official Contact Details for Enquiries</h3>
+<p>Candidates who require assistance with registration, payment, portal access, or document upload can contact the university through the following channels:</p>
+<p><strong>Phone:</strong> 07056421100</p>
+<p><strong>Email:</strong> <a href="mailto:putme@fud.edu.ng">putme@fud.edu.ng</a></p>
+
+<h3>New Academic Programmes Under Approval</h3>
+<p>Federal University Dutse has also announced that several new undergraduate programmes are currently undergoing final approval before they are added to the <strong>JAMB Central Admissions Processing System (CAPS)</strong>. JAMB CAPS is the platform used by the Joint Admissions and Matriculation Board to process and manage admission offers for Nigerian tertiary institutions.</p>
+<p>Once approval is completed, the university will publish details of the new programmes, admission requirements, and application procedures on its official website and the FUD Newsletter social media platforms.</p>
+<p>For more information on university cut-off marks, you might find this post helpful: <a href="/blog/futminna-utme-cut-off-marks-2026-2027">FUTMINNA Releases 2026/2027 UTME Cut-Off Marks for Admission</a>.</p>`,
+    tags: ["Federal University Dutse", "FUD", "Post UTME", "Direct Entry", "Admission", "2026/2027", "Education", "Nigeria"],
+  },
+  {
+    id: "college-of-nursing-sciences-gwoza-nd-hnd-nursing-admission-2026-2027",
+    title: "College of Nursing Sciences Gwoza Opens ND/HND Nursing Admission for 2026/2027 Session",
+    category: "Education",
+    date: "2026-07-06",
+    excerpt: "The Management of the College of Nursing Sciences, Gwoza, Borno State, has announced the commencement of online applications for admission into its National Diploma (ND) and Higher National Diploma (HND) Nursing programme for the 2026/2027 academic session.",
+    content: `<h2>College of Nursing Sciences Gwoza Opens ND/HND Nursing Admission for 2026/2027 Session</h2>
+<p>The Management of the College of Nursing Sciences, Gwoza, Borno State, has announced the commencement of online applications for admission into its National Diploma (ND) and Higher National Diploma (HND) Nursing programme for the 2026/2027 academic session.</p>
+<p>The online sale of admission forms begins on <strong>Wednesday, 1 July 2026</strong>, while the application portal will close on <strong>Thursday, 30 July 2026</strong>. Interested candidates are advised to complete their applications before the deadline to avoid missing the opportunity.</p>
+
+<h3>ND/HND Nursing Is the Available Programme</h3>
+<p>Admission is currently open only for the <strong>National Diploma/Higher National Diploma (ND/HND) Nursing</strong> programme.</p>
+<p>Candidates seeking admission into the College of Nursing Sciences, Gwoza for the 2026/2027 academic session should apply only for this programme as stated in the official admission notice.</p>
+
+<h3>Applicants Must Meet the Admission Requirements</h3>
+<p>Before applying, candidates must ensure they satisfy both the UTME and O'Level requirements. Only applicants who meet the required JAMB score and possess the correct subject combination will be considered for admission.</p>
+<p>To be eligible, applicants must have:</p>
+<ul>
+  <li>A minimum UTME score of <strong>150</strong></li>
+  <li>At least <strong>five credit passes</strong> in the required O'Level subjects</li>
+  <li>O'Level results obtained from <strong>WAEC, NECO, or NABTEB</strong></li>
+  <li>Credits earned in <strong>not more than two sittings</strong></li>
+  <li>If using <strong>NABTEB</strong>, all required credits must be contained within NABTEB results alone without combining them with WAEC or NECO.</li>
+</ul>
+
+<h3>A Minimum UTME Score of 150 Is Required</h3>
+<p>Applicants must have scored <strong>150 or above</strong> in the 2026 Unified Tertiary Matriculation Examination (UTME) conducted by JAMB.</p>
+<p>Candidates who scored below 150 do not meet the minimum admission requirement and will not be eligible for the screening exercise.</p>
+
+<h3>Five Required O'Level Subjects Must Be Passed</h3>
+<p>Applicants must possess credit passes in the following subjects:</p>
+<ul>
+  <li>English Language</li>
+  <li>Mathematics</li>
+  <li>Biology</li>
+  <li>Chemistry</li>
+  <li>Physics</li>
+</ul>
+<p>These credits must be obtained in <strong>not more than two sittings</strong> using WAEC, NECO, or NABTEB.</p>
+
+<h3>NABTEB Results Cannot Be Combined With WAEC or NECO</h3>
+<p>Candidates intending to use NABTEB should note that the examination body <strong>cannot be combined</strong> with WAEC or NECO for this admission exercise.</p>
+<p>This means applicants must have all five required credit passes in their NABTEB result alone. Combining some subjects from NABTEB with others from WAEC or NECO will make the application ineligible.</p>
+
+<h3>Applications Must Be Submitted Through the Online Portal</h3>
+<p>All applications are to be completed online through the College admission portal.</p>
+<p>Applicants should visit the <a href="https://www.cnsgwoza.edu.ng/" target="_blank" rel="noopener noreferrer">official website of the College of Nursing Sciences, Gwoza</a> and complete the application form for the 2026/2027 admission exercise.</p>
+<p>While filling out the form, candidates should ensure that every detail matches the information on their JAMB registration and O'Level results. This includes names, UTME score, examination number, subject grades, and examination body.</p>
+
+<h3>Applicants Should Review Their Information Before Submission</h3>
+<p>Before submitting the application, candidates are strongly advised to carefully review every detail entered on the form.</p>
+<p>Applicants should confirm that:</p>
+<ul>
+  <li>Their UTME score is <strong>150 or above</strong></li>
+  <li>The selected programme is <strong>ND/HND Nursing</strong></li>
+  <li>Their O'Level subjects include English Language, Mathematics, Biology, Chemistry, and Physics</li>
+  <li>Their results meet the two-sitting requirement</li>
+  <li>NABTEB has not been combined with WAEC or NECO</li>
+  <li>The application is submitted on or before <strong>Thursday, 30 July 2026</strong></li>
+</ul>
+<p>Taking time to verify these details can help prevent mistakes that may affect the admission process.</p>
+
+<h3>Applications Closure</h3>
+<p>The deadline for the online sale and submission of admission forms is <strong>Thursday, 30 July 2026</strong>.</p>
+<p>Since no extension has been announced, interested candidates should complete their applications before the closing date.</p>
+
+<h3>Contact the Registrar for Official Enquiries</h3>
+<p>Applicants experiencing registration issues or requiring further clarification can contact the Registrar's Office through the official email address:</p>
+<p><a href="mailto:registrar@cnsgwoza.edu.ng">registrar@cnsgwoza.edu.ng</a></p>
+<p>Prospective students are encouraged to rely only on official communication from the College when seeking admission information.</p>
+<p>For more nursing school admission news, you might find this post helpful: <a href="/blog/ogun-state-college-of-nursing-sciences-nd-nursing-admission-2026-2027">Ogun State College of Nursing Sciences Opens ND Nursing Admission for 2026/2027 Session</a>.</p>`,
+    tags: ["College of Nursing Sciences Gwoza", "Admission", "ND/HND Nursing", "Education", "Nigeria", "2026/2027"],
+  },
+  {
     id: "top-15-federal-government-recruitment-empowerment-programmes-2026",
     title: "Top 15 Federal Government Recruitment and Empowerment Programmes Nigerians Can Still Apply for in 2026",
     category: "Career",

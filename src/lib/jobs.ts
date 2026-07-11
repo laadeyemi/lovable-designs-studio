@@ -46,9 +46,671 @@ function parseDeadline(deadlineString: string): string | null {
   return null; // Unable to parse, treat as non-expired
 }
 
-const currentDate = '2026-06-29'; // Current date for comparison (June 29, 2026)
+const currentDate = '2026-07-10'; // Current date for comparison (July 10, 2026)
 
 const allJobs: Job[] = [
+  {
+    id: "personnel-officer-awekoro-ogun-2026-07-10",
+    title: "Personnel Officer",
+    date: "2026-07-10",
+    location: "Awekoro, Ogun State",
+    type: "Full-Time",
+    company: "Manufacturing Industry",
+    salary: "₦200,000 – ₦300,000 Net Monthly",
+    gender: "Male",
+    summary: "Maintain employee records, coordinate HR processes, and support employee relations in a manufacturing environment.",
+    responsibilities: [
+      "Maintain employee records and personnel documentation",
+      "Coordinate onboarding, leave administration, transfers, promotions, and exits",
+      "Support payroll administration and statutory compliance",
+      "Assist with employee relations, disciplinary processes, and grievance handling",
+      "Support labour union engagement and industrial relations activities",
+      "Coordinate expatriate documentation and regulatory compliance",
+      "Ensure compliance with Nigerian labour laws and statutory remittances",
+      "Prepare personnel reports and workforce records",
+      "Support employee welfare and engagement initiatives"
+    ],
+    requirements: [
+      "Bachelor’s Degree or HND in Human Resources, Business Administration, Industrial Relations, Law, or a related field",
+      "Minimum of 5 years’ relevant HR or Personnel Administration experience",
+      "Manufacturing experience is mandatory",
+      "Experience in payroll, industrial relations, labour law compliance, and expatriate administration is highly preferred",
+      "CIPM certification is an added advantage",
+      "Strong communication, organizational, and interpersonal skills",
+      "Proficiency in Microsoft Excel and HR systems"
+    ],
+    apply: "Interested and qualified candidates should send their CV to: peakhire99@gmail.com",
+    deadline: "Not Specified"
+  },
+  {
+    id: "site-accountant-mowe-ogun-2026-07-10",
+    title: "Site Accountant",
+    date: "2026-07-10",
+    location: "Mowe, Ogun State",
+    type: "Full-Time",
+    company: "Construction Industry",
+    salary: "₦500,000 Gross Monthly",
+    summary: "Manage site financial transactions, prepare project accounts, and ensure compliance for a construction project in Mowe.",
+    responsibilities: [
+      "Manage site financial transactions, invoices, payments, and petty cash",
+      "Prepare site accounts, financial reports, and project budgets",
+      "Ensure compliance with accounting standards and company policies",
+      "Coordinate with project managers and site teams on financial matters",
+      "Conduct site audits and maintain accurate financial records",
+      "Provide financial insights to support project decision-making"
+    ],
+    requirements: [
+      "Bachelor’s Degree or HND in Accounting, Finance, or a related field",
+      "ICAN certification is mandatory",
+      "5–8 years of relevant accounting experience",
+      "Strong knowledge of financial reporting and site accounting",
+      "Excellent analytical, reporting, and communication skills"
+    ],
+    apply: "Interested and qualified candidates should send their CV to: peakhire99@gmail.com",
+    deadline: "Not Specified"
+  },
+  {
+    id: "architect-lekki-phase-1-2026-07-10",
+    title: "Architect",
+    date: "2026-07-10",
+    location: "Lekki Phase 1, Lagos",
+    type: "Full-Time",
+    salary: "₦350,000 – ₦450,000 Monthly",
+    summary: "Lead architectural designs from concept to construction documentation for various projects.",
+    responsibilities: [
+      "Lead architectural designs from concept to construction documentation",
+      "Prepare architectural drawings, renderings, and presentations",
+      "Coordinate with engineers and project stakeholders",
+      "Conduct site inspections and monitor project execution",
+      "Ensure compliance with building regulations and planning requirements",
+      "Review contractor submissions and resolve design issues",
+      "Present design concepts to clients and management",
+      "Promote innovative and sustainable design solutions"
+    ],
+    requirements: [
+      "Bachelor’s Degree in Architecture",
+      "3–5 years of relevant experience",
+      "Proficiency in AutoCAD, Revit, SketchUp, Lumion, ArchiCAD, or related software",
+      "Strong knowledge of construction detailing and building regulations",
+      "Excellent communication, presentation, and project coordination skills"
+    ],
+    apply: "Interested and qualified candidates should send their CV to: peakhire99@gmail.com",
+    deadline: "Not Specified"
+  },
+  {
+    id: "civil-engineer-lagos-real-estate-2026-07-10",
+    title: "Civil Engineer",
+    date: "2026-07-10",
+    location: "Lagos",
+    type: "Full-Time",
+    company: "Real Estate & Construction",
+    salary: "₦400,000 – ₦600,000 Gross Monthly",
+    summary: "Supervise construction activities, ensure quality standards, and support project management in the real estate sector.",
+    responsibilities: [
+      "Supervise construction activities and monitor project execution",
+      "Review engineering drawings and technical specifications",
+      "Conduct site inspections and ensure quality standards are maintained",
+      "Coordinate with architects, contractors, and consultants",
+      "Ensure compliance with building regulations and safety standards",
+      "Support project budgeting, cost control, and procurement planning",
+      "Prepare site reports and project progress updates",
+      "Promote health, safety, and quality across project sites"
+    ],
+    requirements: [
+      "Bachelor’s Degree in Civil Engineering",
+      "3–5 years of relevant experience in construction or real estate development",
+      "Proficiency in AutoCAD and engineering design software",
+      "Strong understanding of construction processes and Nigerian building standards",
+      "COREN registration or NSE membership is an added advantage",
+      "Excellent communication, leadership, and project management skills"
+    ],
+    apply: "Interested and qualified candidates should send their CV to: peakhire99@gmail.com",
+    deadline: "Not Specified"
+  },
+  {
+    id: "finance-manager-lekki-real-estate-2026-07-10",
+    title: "Finance Manager",
+    date: "2026-07-10",
+    location: "Lekki Phase 1, Lagos",
+    type: "Full-Time",
+    company: "Real Estate",
+    salary: "₦500,000 Net Monthly",
+    summary: "Develop and implement financial strategies, manage financial operations, and ensure compliance for a real estate company.",
+    responsibilities: [
+      "Develop and implement financial strategies and controls",
+      "Prepare financial reports, budgets, and forecasts",
+      "Manage cash flow, working capital, and financial planning",
+      "Oversee accounts payable, receivable, and general ledger functions",
+      "Monitor project finances and real estate investments",
+      "Ensure compliance with tax and statutory obligations",
+      "Coordinate audits and liaise with regulatory agencies",
+      "Provide financial analysis and strategic recommendations"
+    ],
+    requirements: [
+      "Bachelor’s Degree or HND in Accounting, Finance, Economics, or a related field",
+      "ICAN, ACCA, ACA, or equivalent certification is mandatory",
+      "Minimum of 5 years’ relevant experience, including at least 2 years in a managerial role",
+      "Experience in Real Estate, Construction, or Property Development is highly preferred",
+      "Strong knowledge of financial reporting, budgeting, tax compliance, and financial modelling",
+      "Excellent analytical, leadership, and communication skills"
+    ],
+    apply: "Interested and qualified candidates should send their CV to: peakhire99@gmail.com",
+    deadline: "Not Specified"
+  },
+  {
+    id: "client-service-associate-pr-agency-ikeja-2026-07-10",
+    title: "Client Service Associate (PR Agency)",
+    date: "2026-07-10",
+    location: "Ikeja, Lagos (Hybrid)",
+    type: "Full-time",
+    salary: "Not Specified",
+    summary: "Manage client relationships and coordinate project execution within a Public Relations agency.",
+    responsibilities: [
+      "Manage client relationships and serve as the primary point of contact.",
+      "Coordinate with internal teams to ensure seamless project execution.",
+      "Support client campaigns, meetings, reports, and overall account management.",
+      "Ensure prompt resolution of client requests and maintain high service standards."
+    ],
+    requirements: [
+      "Bachelor’s degree in a relevant field.",
+      "1–3 years’ experience in Client Service, Account Management, or Client Relations within a PR agency.",
+      "Excellent communication, client management, and stakeholder engagement skills.",
+      "Strong organizational and coordination abilities.",
+      "Ability to thrive in a fast-paced agency environment."
+    ],
+    apply: "Qualified candidates should send their CV to withoutaboxhr@gmail.com",
+    deadline: "Not Specified"
+  },
+  {
+    id: "sales-executive-membership-lekki-2026-07-10",
+    title: "Sales Executive – Membership",
+    date: "2026-07-10",
+    location: "Lekki phase 1",
+    type: "Full-Time, Permanent",
+    salary: "Competitive",
+    gender: "Female",
+    summary: "Drive membership growth for an exclusive private members’ community by identifying, engaging, and converting high-calibre prospective members.",
+    responsibilities: [
+      "Manage the full membership sales cycle from enquiry to conversion.",
+      "Identify and proactively engage prospective members through networking, referrals and targeted outreach.",
+      "Conduct membership presentations, tours and introductory meetings.",
+      "Build and maintain strong relationships with prospective members throughout the decision-making process.",
+      "Maintain accurate CRM records and manage the membership pipeline effectively.",
+      "Represent the club at events and networking opportunities.",
+      "Work closely with leadership to achieve membership growth targets.",
+      "Support referral initiatives and member advocacy programmes.",
+      "Track and report on sales performance, conversion rates and pipeline activity."
+    ],
+    requirements: [
+      "Minimum 5 years’ sales experience within luxury hospitality, private members’ clubs, luxury real estate, wealth management or premium lifestyle brands.",
+      "Proven record of achieving and exceeding sales targets.",
+      "Strong relationship-building and consultative sales skills.",
+      "Excellent communication and presentation abilities.",
+      "Highly professional, discreet and emotionally intelligent.",
+      "Comfortable engaging with senior professionals, entrepreneurs and high-net-worth individuals.",
+      "Experience using CRM systems and managing sales pipelines."
+    ],
+    apply: "Please submit your CV to tuts.recruit@gmail.com together with a brief note outlining your relevant experience and interest in the role.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "direct-sales-officer-merchant-acquisition-vi-2026-07-10",
+    title: "Direct Sales Officer (DSO – Merchant Acquisition)",
+    date: "2026-07-10",
+    location: "Victoria Island, Ikoyi & Lekki",
+    type: "Full-Time",
+    salary: "₦200,000 Net + 10% Monthly Commission",
+    summary: "Prospect and onboard merchants, sell platform licenses, and support merchant onboarding.",
+    responsibilities: [
+      "Prospect and onboard merchants (SMEs, retailers, service providers).",
+      "Sell Doroki platform licenses and conduct product demos.",
+      "Support merchant onboarding and maintain relationships.",
+      "Track sales activities and share market feedback."
+    ],
+    requirements: [
+      "1–2 years sales experience B2B sales (Very important).",
+      "Background in Fintech, Software, or Telecommunications.",
+      "Strong B2B/SME sales, communication, and negotiation skills."
+    ],
+    apply: "Apply by filling the goggle link https://forms.gle/nKysAbiL3qj5YDWe9",
+    deadline: "Not Specified"
+  },
+  {
+    id: "live-in-househelp-ojota-2026-07-10",
+    title: "Live-in Househelp",
+    date: "2026-07-10",
+    location: "Ojota Axis",
+    type: "Full-time",
+    salary: "80k monthly",
+    summary: "A Live-in Househelp is needed to clean the house, cook, do laundry, take care of two kids, and run errands.",
+    responsibilities: [
+      "Clean the house,cook,do laundry ,take care of two kids,and run errands."
+    ],
+    requirements: [],
+    apply: "DM To apply",
+    deadline: "Not Specified"
+  },
+  {
+    id: "nahco-aviance-graduate-trainee-2026-07-10",
+    title: "NAHCO Aviance Graduate Trainee Recruitment 2026",
+    date: "2026-07-10",
+    location: "Lagos",
+    type: "Graduate Trainee",
+    company: "Aviation",
+    salary: "Not Specified",
+    summary: "Structured on-the-job training and rotations across key operational departments for graduates.",
+    responsibilities: [
+      "Structured on-the-job training",
+      "Rotations across key operational departments",
+      "Professional development with one of Nigeria’s leading aviation service providers"
+    ],
+    requirements: [
+      "B. Sc or HND graduates",
+      "Strong communication, analytical, and problem-solving skills",
+      "Willingness to learn and adapt in a fast-paced aviation environment"
+    ],
+    apply: "Send your CV to; jobdesknahcoaviance@gmail.com",
+    deadline: "22nd July, 2026"
+  },
+  {
+    id: "trainee-pharmacist-carpa-healthcare-ikeja-2026-07-10",
+    title: "Trainee Pharmacist",
+    date: "2026-07-10",
+    location: "Ikeja, Lagos",
+    type: "Full-time",
+    company: "Carpa Healthcare",
+    salary: "₦300,000 - ₦400,000/month",
+    summary: "Operate under a Designated Supervisor to sign off on clinical competencies at the end of the foundation year.",
+    responsibilities: [
+      "Operates under a Designated Supervisor who signs off on clinical competencies at the end of the foundation year."
+    ],
+    requirements: [
+      "A Master’s or Bachelor’s Degree in Pharmacy.",
+      "Strong communication skills to interact with patients and other healthcare professionals, high concentration to avoid dispensing errors, and robust organizational abilities."
+    ],
+    apply: "Applications to: carpahealthcare.hr@gmail.com using the job title as the subject of the mail.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "admin-quality-control-officer-amuwo-odofin-2026-07-10",
+    title: "Admin / Quality Control Officer",
+    date: "2026-07-10",
+    location: "Amuwo Odofin GRA, Lagos",
+    type: "Full-time",
+    salary: "₦150,000/Month",
+    summary: "Oversee daily administrative and order fulfillment activities, monitor inventory, and conduct quality inspections.",
+    responsibilities: [
+      "Oversee daily administrative and order fulfillment activities",
+      "Monitor inventory, logistics, and dispatch",
+      "Conduct quality inspections before product dispatch",
+      "Maintain accurate records and daily operational reports"
+    ],
+    requirements: [
+      "Minimum of 2 years’ experience in Administration, Operations, or Quality Control",
+      "Strong attention to detail and organizational skills",
+      "Proficiency in Microsoft Office",
+      "Ability to work independently and in a fast-paced environment"
+    ],
+    apply: "Send your CV to: resumes@crestructure.com",
+    deadline: "Not Specified"
+  },
+  {
+    id: "architect-3d-visualization-abuja-2026-07-10",
+    title: "Architect",
+    date: "2026-07-10",
+    location: "Abuja",
+    type: "Full time",
+    salary: "Not Specified",
+    summary: "Seeking a talented and detail-oriented Architect with strong expertise in 3D visualization to develop high-quality architectural designs and realistic 3D renderings.",
+    responsibilities: [
+      "Develop high-quality architectural designs and producing realistic 3D renderings that effectively communicate project concepts to clients."
+    ],
+    requirements: [
+      "Proven experience in architectural 3D visualization",
+      "Proficiency in software such as AutoCAD, Revit, SketchUp, Lumion, 3ds Max, or similar"
+    ],
+    apply: "Interested candidates should submit their CV along with a portfolio of relevant 3D visualization projects to: info@benarcconstruct.com",
+    deadline: "Not Specified"
+  },
+  {
+    id: "restaurant-reservation-manager-lekki-2026-07-10",
+    title: "Restaurant/Reservation Manager",
+    date: "2026-07-10",
+    location: "Lekki Phase 1, Lagos",
+    type: "Full-time",
+    salary: "₦350,000/month",
+    summary: "Oversee daily restaurant operations, manage reservations, lead front-of-house staff, and deliver an exceptional guest experience.",
+    responsibilities: [
+      "Oversee daily restaurant operations, manage reservations, lead front-of-house staff, and deliver an exceptional guest experience."
+    ],
+    requirements: [
+      "Minimum of 3 years’ experience in restaurant or hospitality management.",
+      "Strong leadership, communication, and organisational skills.",
+      "Ability to work in a fast-paced environment.",
+      "Resident on the island/Proximity to location is key."
+    ],
+    apply: "Visit the location with an updated copy of your CV.",
+    deadline: "9th July 2026"
+  },
+  {
+    id: "floor-supervisor-lekki-2026-07-10",
+    title: "Floor Supervisor",
+    date: "2026-07-10",
+    location: "Lekki Phase 1, Lagos",
+    type: "Full-time",
+    salary: "₦300,000/month",
+    summary: "Oversee daily restaurant operations, manage reservations, lead front-of-house staff, and deliver an exceptional guest experience.",
+    responsibilities: [
+      "Oversee daily restaurant operations, manage reservations, lead front-of-house staff, and deliver an exceptional guest experience."
+    ],
+    requirements: [
+      "Minimum of 3 years’ experience in restaurant or hospitality management.",
+      "Strong leadership, communication, and organisational skills.",
+      "Ability to work in a fast-paced environment.",
+      "Resident on the island/Proximity to location is key."
+    ],
+    apply: "Visit the location with an updated copy of your CV.",
+    deadline: "9th July 2026"
+  },
+  {
+    id: "kitchen-store-runner-ikeja-2026-07-10",
+    title: "Kitchen Store Runner",
+    date: "2026-07-10",
+    location: "Ikeja, Lagos",
+    type: "Full-time",
+    company: "Hospitality",
+    salary: "Not Specified",
+    summary: "Support the day-to-day movement and tracking of food and beverage inventory.",
+    responsibilities: [
+      "Handle the day-to-day movement of stock between the store and kitchen.",
+      "Issue ingredients and items to the kitchen based on approved requests.",
+      "Track and record daily usage of food and beverage items.",
+      "Maintain cleanliness of kitchen equipment, utensils and work areas.",
+      "Assist with basic food preparation, including washing, peeling, chopping and portioning ingredients"
+    ],
+    requirements: [
+      "OND or SSCE qualification.",
+      "Minimum of 2 years’ experience in a kitchen or hospitality environment.",
+      "Basic understanding of inventory handling and kitchen operations.",
+      "Knowledge of food safety and hygiene practices is an advantage.",
+      "Ability to work in a fast-paced and physically demanding environment."
+    ],
+    apply: "Interested and qualified candidates should send their CV to: people@bedrockresidencies.com",
+    deadline: "Not Specified"
+  },
+  {
+    id: "female-inventory-officer-bariga-2026-07-10",
+    title: "Female Inventory Officer",
+    date: "2026-07-10",
+    location: "Bariga",
+    type: "Full-time",
+    company: "Restaurant",
+    salary: "N80,000 naira Monthly",
+    gender: "Female",
+    summary: "A restaurant located at Bariga is hiring a Female Inventory Officer.",
+    responsibilities: [],
+    requirements: [
+      "Minimum of ND, with proven experience as a procurement/inventory/Store Officer."
+    ],
+    apply: "CV using the job role as subject of mail to triaservices.ng@gmail.com",
+    deadline: "Not Specified"
+  },
+  {
+    id: "hotel-cook-egbeda-2026-07-10",
+    title: "Hotel Cook",
+    date: "2026-07-10",
+    location: "Egbeda, Lagos",
+    type: "Full-time",
+    salary: "₦70,000/Month",
+    summary: "Prepare and cook meals to hotel standards, maintain food quality, and ensure kitchen cleanliness.",
+    responsibilities: [
+      "Prepare and cook meals to hotel standards",
+      "Maintain food quality, hygiene, and kitchen cleanliness",
+      "Monitor kitchen inventory",
+      "Ensure compliance with health and safety regulations",
+      "Work with the team to deliver timely service"
+    ],
+    requirements: [
+      "SSCE, OND, HND, or B.Sc.",
+      "Minimum of 2 years’ experience as a Hotel or Restaurant Cook",
+      "Good knowledge of food preparation, kitchen equipment, and hygiene standards",
+      "Computer literacy is an added advantage",
+      "Ability to work under pressure",
+      "Punctual, organized, and reliable"
+    ],
+    apply: "Send your CV to: careergenetics@gmail.com",
+    deadline: "Not Specified"
+  },
+  {
+    id: "customer-success-gocaby-lagos-2026-07-10",
+    title: "Customer Success",
+    date: "2026-07-10",
+    location: "Lagos",
+    type: "Full-time",
+    company: "GoCaby Technology Limited",
+    salary: "₦ 150,000 - ₦ 200,000 / month",
+    summary: "Provide customer service and support in a client-facing role for a mobility/logistics tech company.",
+    responsibilities: [],
+    requirements: [
+      "1+ year in customer service, support, or a client-facing role (mobility, logistics, or tech preferred).",
+      "Excellent verbal and written communication in English.",
+      "Strong patience, empathy, and composure under pressure.",
+      "Good attention to detail and the ability to multitask across several conversations at once.",
+      "Comfortable using support tools, live chat, and basic CRM/ticketing systems."
+    ],
+    apply: "https://internal.gocaby.com/jobs/customer-success",
+    deadline: "31 Jul, 2026"
+  },
+  {
+    id: "community-manager-virtual-assistant-remote-2026-07-10",
+    title: "Community Managers and Virtual Assistant",
+    date: "2026-07-10",
+    location: "Remote",
+    type: "Full-time",
+    salary: "Not Specified",
+    summary: "Manage social media accounts for clients, grow communities, and ensure account safety.",
+    responsibilities: [
+      "Manage social media accounts for our clients over a set period.",
+      "Grow and manage Online communities professionally. Especially LinkedIn"
+    ],
+    requirements: [
+      "Excellent written English",
+      "Proven ability to grow engaged communities and real followers",
+      "Strong knowledge of account safety, platform policies, and how to avoid restrictions"
+    ],
+    apply: "Send your application to: elearningblog001@gmail.com",
+    deadline: "Not Specified"
+  },
+  {
+    id: "qa-qc-engineer-lagos-2026-07-10",
+    title: "QA/QC Engineer",
+    date: "2026-07-10",
+    location: "Lagos",
+    type: "Full-time",
+    salary: "Not Specified",
+    summary: "Ensure quality control and assurance processes within a manufacturing or assembly setting.",
+    responsibilities: [],
+    requirements: [
+      "Bachelor’s degree in Engineering, Quality Assurance, or a related field",
+      "2-3 years’ experience in quality control or quality assurance within a manufacturing or assembly setting",
+      "Certification in Quality Management Systems (e.g., ISO 9001) or other relevant quality certifications",
+      "Experience with statistical process control and quality improvement methodologies",
+      "Strong knowledge of quality control and assurance processes within manufacturing or assembly environments",
+      "Proficiency in using quality inspection tools and techniques, including measurement devices and checklists",
+      "Excellent attention to detail with a systematic approach to inspections and documentation",
+      "Strong analytical and problem-solving skills to identify issues and implement corrective actions",
+      "Effective communication skills to work collaboratively with assembly personnel and management",
+      "Familiarity with relevant quality standards (e.g., ISO, Six Sigma)"
+    ],
+    apply: "https://tranos.seamlesshiring.com/job/view/8984#/",
+    deadline: "Not Specified"
+  },
+  {
+    id: "sales-business-growth-executives-abuja-2026-07-10",
+    title: "Sales/Business Growth Executives",
+    date: "2026-07-10",
+    location: "Abuja",
+    type: "Full-time",
+    company: "Mosaic Homes Limited",
+    salary: "N200,000 - N250,000 (and other Commissions)",
+    summary: "Passionate, and result-driven individuals to join a dynamic team and help shape the future of property ownership.",
+    responsibilities: [],
+    requirements: [
+      "Only residents of Abuja will be considered"
+    ],
+    apply: "Send CV or Resumé to Hr.mosaichomes@gmail.com",
+    deadline: "Not Specified"
+  },
+  {
+    id: "head-of-youth-mobilisation-remote-2026-07-10",
+    title: "Head of Youth Mobilisation",
+    date: "2026-07-10",
+    location: "Remote (Nigeria)",
+    type: "Full-Time",
+    company: "Africana League",
+    salary: "Not Specified",
+    summary: "Grow member base across Africa and the Diaspora and turn observers into active, paying members.",
+    responsibilities: [
+      "Own the global membership growth strategy, recruit and manage Campus and Community Ambassadors across universities, secondary schools, and communities in Africa and the Diaspora, run activation campaigns tied to our voting events and programmes, and drive app subscription growth. You will work closely with our Communications team to make sure every campaign hits."
+    ],
+    requirements: [
+      "2-3+ years in community mobilisation, membership development, field outreach, or youth programme management. A demonstrated ability to drive mass sign-up campaigns. Experience managing a distributed ambassador or volunteer network. An understanding of the African youth landscape (campus culture, digital communities, youth organisations). A data-driven mindset which means you track everything and you know what your numbers mean.",
+      "Experience with digital community building or app-driven growth campaigns is a strong advantage. Existing relationships with campus leadership or youth networks across Nigeria and beyond puts you at the top of the list."
+    ],
+    apply: "To apply, send your CV and a brief (emphasis on BRIEF) description of the biggest mobilisation campaign you have run (numbers, method, and outcome) to careers@africanaleague.org with the subject line: Head of Youth Mobilisation.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "customer-care-executive-ikeja-2026-07-10",
+    title: "Customer Care Executive",
+    date: "2026-07-10",
+    location: "Ikeja",
+    type: "Full-time",
+    salary: "Not Specified",
+    summary: "Passionate about delivering excellent customer service.",
+    responsibilities: [],
+    requirements: [
+      "Bachelor’s Degree or Higher National Diploma (HND) from a recognized and reputable institution.",
+      "Minimum of 2–3 years of proven experience in customer service, customer care, or a related role.",
+      "Candidates residing in Ikeja and its surrounding areas will be given preference due to proximity to the workplace.",
+      "Strong computer skills with proficiency in Microsoft Office Suite, including: Microsoft Word, Microsoft Excel, Microsoft PowerPoint, Microsoft Outlook"
+    ],
+    apply: "Interested and qualified candidates should send their CV to: jonathanogbone@vijufamily.com",
+    deadline: "Not Specified"
+  },
+  {
+    id: "workshop-manager-shagamu-2026-07-10",
+    title: "Workshop Manager",
+     date: "2026-07-10",
+    company: "C&K Tempgates Nigeria Limited",
+    location: "Shagamu, Ogun State",
+    type: "Full-time",
+    salary: "Competitive Salary",
+    summary: "Oversee daily workshop operations, manage resources, and ensure high standards of safety and quality in truck maintenance and fleet management.",
+    responsibilities: [
+      "Overseeing daily workshop operations and ensuring efficient use of resources.",
+      "Planning and assigning work, supervising technicians and artisans, monitoring job progress.",
+      "Maintaining high standards of safety and quality of work done.",
+      "Coordinate trucks repairs and maintenance.",
+      "Manage tools and spare parts inventory, and ensure that all work complies with company procedures and client specifications.",
+      "Ensure timely delivery of projects by liaising with the Project Manager and ensure technicians carryout their assigned duties efficiently."
+    ],
+    requirements: [
+      "Strong background in workshop supervision or Management within industrial, mechanical, or engineering environments.",
+      "Relevant technical qualification (Degree in Mechanical engineering, industrial maintenance, or related field).",
+      "Professional certifications in Automobile is an added advantage.",
+      "Experience in Automotive industry is mandatory."
+    ],
+    apply: "Interested and qualified candidates should kindly forward their CV to Okechukwu.Ibem@cktempgatesnginc.com",
+    deadline: "30th July, 2026",
+  },
+  {
+    id: "warehouse-supervisor-golden-penny-lagos-2026-07-10",
+    title: "Warehouse Supervisor – Golden Penny Foods",
+     date: "2026-07-10",
+    company: "Flour Mills Of Nigeria Plc",
+    location: "Lagos",
+    type: "Full-time",
+    salary: "Not Specified",
+    summary: "Supervise daily warehouse activities including receiving, storage, packing, and dispatch while ensuring accurate inventory management.",
+    responsibilities: [
+      "Supervise daily warehouse activities including receiving, storage, packing, and dispatch while ensuring accurate inventory management, stock updates, and periodic counts.",
+      "Verify incoming and outgoing goods against documents, ensure proper stock rotation (FIFO/FEFO), and systematic storage of goods.",
+      "Monitor and coordinate warehouse staff to ensure efficient task execution, enforce safety practices, and maintain compliance with GMP, hygiene, and food safety requirements.",
+      "Monitor inventory levels, report shortages, damages, or discrepancies, and ensure timely order fulfilment through effective coordination with production and logistics."
+    ],
+    requirements: [
+      "OND in Supply Chain, Mechanical/Electrical Engineering, Logistics, Business Administration, or a related discipline.",
+      "Certification in inventory management e.g. CIPS, CIPSMN, or equivalent.",
+      "Minimum of 2 years cognate experience in mechanical maintenance or industrial operations.",
+      "Strong supervisory and team coordination skills with sound knowledge of inventory control practices, store operations, and attention to detail."
+    ],
+    apply: "https://lnkd.in/dEbdzb7e",
+    deadline: "Not Specified"
+  },
+  {
+    id: "graduate-trainee-spectrum-mfb-lagos-2026-07-10",
+    title: "Graduate Trainee",
+    date: "2026-07-10",
+    company: "Spectrum MFB",
+    location: "Lagos",
+    type: "Full-time",
+    salary: "Competitive remuneration",
+    summary: "Participate in structured training programmes and gain exposure across banking operations.",
+    responsibilities: [
+      "Participate in structured training programmes.",
+      "Gain exposure across banking operations.",
+      "Support customer service and business development.",
+      "Learn banking regulations and operational processes.",
+      "Assist in customer acquisition and relationship management.",
+      "Prepare reports and perform administrative tasks."
+    ],
+    requirements: [
+      "Bachelor’s degree or HND in any discipline.",
+      "Minimum of Second Class Lower (2:2) or Lower Credit.",
+      "Completed NYSC or valid exemption certificate.",
+      "Maximum age of 27 years.",
+      "Strong communication and interpersonal skills.",
+      "Good analytical and problem-solving skills.",
+      "Proficiency in Microsoft Office.",
+      "Ability to work in a fast-paced environment."
+    ],
+    apply: "Apply: careers@spectrummfb.com, Subject: Graduate Trainee Application",
+    deadline: "Not Specified"
+  },
+  {
+    id: "graduate-mechanical-engineer-multiple-2026-07-10",
+    title: "Graduate Mechanical Engineer",
+    date: "2026-07-10",
+    location: "Lagos, Abeokuta, Okitipupa, Ore, Ibadan, Ado Ekiti, Edo",
+    type: "Full-time",
+    salary: "N290,000 – N300,000 per month",
+    summary: "Assist in the operation, monitoring, and maintenance of oil mill machinery and equipment.",
+    responsibilities: [
+      "Assist in the operation, monitoring, and maintenance of oil mill machinery and equipment.",
+      "Support preventive and corrective maintenance activities across the mill.",
+      "Participate in equipment inspections, troubleshooting, and fault diagnosis.",
+      "Monitor machinery performance and report operational issues.",
+      "Assist in ensuring machinery operates efficiently and safely.",
+      "Support engineering projects aimed at improving operational efficiency and productivity.",
+      "Maintain maintenance records and engineering documentation.",
+      "Ensure compliance with Health, Safety, and Environmental (HSE) standards.",
+      "Collaborate with production and engineering teams to minimize downtime.",
+      "Perform other engineering-related duties as assigned by Management."
+    ],
+    requirements: [
+      "Bachelor’s Degree (B.Eng./B.Tech OR Mechanical.) in Mechanical Engineering from a recognized institution.",
+      "Must have successfully completed the National Youth Service Corps (NYSC) programme.",
+      "Recent graduates are strongly encouraged to apply.",
+      "Basic understanding of mechanical systems, maintenance principles, and industrial equipment.",
+      "Strong willingness to learn and develop within a manufacturing environment.",
+      "Good analytical, problem-solving, and communication skills.",
+      "Must be willing to relocate to any of the South Western States or city above.",
+      "Must be willing to attend Praticialassement onsite."
+    ],
+    apply: "Interesed and qualified candidates should send their CV to: ghrtalent@gmail.com using the job title as the subject of the email.",
+    deadline: "15th July, 2026"
+  },
   {
     id: "warehouse-officer-ikeja-2026-07-05",
     title: "Warehouse Officer",

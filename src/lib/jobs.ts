@@ -50,6 +50,940 @@ const currentDate = '2026-07-10'; // Current date for comparison (July 10, 2026)
 
 const allJobs: Job[] = [
   {
+    id: "it-support-specialist-lekki-2026-07-11",
+    title: "IT Support Specialist",
+    date: "2026-07-11",
+    location: "Lekki Axis, Lagos",
+    type: "Full-time",
+    company: "Hospitality Establishment",
+    salary: "₦120,000",
+    summary: "Urgently needed IT Support Specialist for a hospitality establishment around Lekki Axis.",
+    responsibilities: [],
+    requirements: ["Residing within the island is an added advantage."],
+    apply: "Kindly send your CV to hrm@wellbornhotels.com or via WhatsApp to 08118236959",
+    deadline: "Not Specified"
+  },
+  {
+    id: "hotel-porter-lekki-2026-07-11",
+    title: "Male Hotel Porter",
+    date: "2026-07-11",
+    location: "Lekki Axis, Lagos",
+    type: "Full-time",
+    company: "Hospitality Establishment",
+    gender: "Male",
+    salary: "₦100,000",
+    summary: "Urgently needed Male Hotel Porter for a hospitality establishment around Lekki Axis.",
+    responsibilities: [],
+    requirements: ["Residing within the island is an added advantage."],
+    apply: "Kindly send your CV to hrm@wellbornhotels.com or via WhatsApp to 08118236959",
+    deadline: "Not Specified"
+  },
+  {
+    id: "content-creator-social-media-officer-ajah-2026-07-11",
+    title: "Content Creator and Social Media Officer",
+    date: "2026-07-11",
+    location: "Ajah, Lagos",
+    type: "Full-time",
+    company: "MKH Properties",
+    salary: "Not Specified",
+    summary: "The Content Creator/Social Media Officer is responsible for managing the company’s online presence across various social media platforms, creating compelling and relevant content to drive engagement, and building a strong brand identity for MKH properties.",
+    responsibilities: [
+      "Manage the company’s social media platforms, including but not limited to Instagram, Facebook, X, LinkedIn, Threads, YouTube, and TikTok.",
+      "Develop and implement a content strategy aligned with the company’s goals and audience preferences.",
+      "Create engaging, informative, and visually appealing content (including photos, videos, graphics, and written posts) for social media, and Realtor Whatsapp groups.",
+      "Work with the design team to produce high-quality visual assets for online content."
+    ],
+    requirements: [],
+    apply: "Qualified and Interested candidate should send updated CV and portfolio link to hr.mkhproperties@gmail.com",
+    deadline: "Not Specified"
+  },
+  {
+    id: "store-keeper-ikeja-2026-07-11",
+    title: "Store Keeper",
+    date: "2026-07-11",
+    location: "Ikeja",
+    type: "Full-time",
+    salary: "₦200,000",
+    summary: "We are seeking a detail-oriented Store Keeper with an engineering background and relevant storekeeping experience to manage the receipt, storage, issuance, and inventory of engineering materials, spare parts, and tools while maintaining accurate stock records.",
+    responsibilities: [
+      "Receive, inspect, store, and issue engineering materials and spare parts.",
+      "Maintain accurate inventory records and stock levels.",
+      "Conduct routine stock counts and reconcile inventory discrepancies.",
+      "Ensure proper storage, organization, and safety of materials.",
+      "Coordinate with the procurement and maintenance teams to ensure material availability.",
+      "Maintain proper documentation for all store transactions."
+    ],
+    requirements: [
+      "HND/B.Sc. in Mechanical, Electrical, Industrial Engineering, or a related field.",
+      "Minimum of 2 years’ experience in storekeeping within a manufacturing or engineering environment.",
+      "Proficiency in inventory management and Microsoft Excel."
+    ],
+    apply: "Interested candidates should send their CV to: cv@ascentech.com.ng Subject: Storekeeper-Ikeja",
+    deadline: "Not Specified"
+  },
+  {
+    id: "personal-driver-mabushi-abuja-2026-07-11",
+    title: "Personal Driver",
+    date: "2026-07-11",
+    location: "Mabushi, Abuja",
+    type: "Full-Time",
+    salary: "₦120,000 per month",
+    summary: "Seeking a responsible and punctual personal driver for a role in Mabushi, Abuja.",
+    responsibilities: [],
+    requirements: [
+      "Minimum of SSCE qualification.",
+      "Valid driver’s licence.",
+      "Ability to communicate in basic English.",
+      "Must be between 45 and 49 years of age.",
+      "Good knowledge of Abuja road network is an added advantage.",
+      "Must be responsible, punctual, and of good character."
+    ],
+    apply: "Qualified candidates should send their application or CV to 08096642566. *No calls please*",
+    deadline: "Not Specified"
+  },
+  {
+    id: "customer-service-agent-mano-africa-lagos-2026-07-11",
+    title: "Customer Service Agent",
+    date: "2026-07-11",
+    location: "Lagos",
+    type: "Full-time",
+    company: "MANO Africa",
+    salary: "Not Specified",
+    summary: "MANO Africa is looking for a Customer Service Agent with excellent communication skills and a customer-first mindset.",
+    responsibilities: [],
+    requirements: [
+      "Previous experience in customer service, call center, or support roles (experience in e-commerce or quick commerce is an advantage).",
+      "Excellent verbal and written communication skills.",
+      "Strong problem-solving and multitasking abilities.",
+      "Positive attitude with a customer-first mindset."
+    ],
+    apply: "Send your CV in English to: hr@mano.ng",
+    deadline: "Not Specified"
+  },
+  {
+    id: "storekeeper-surulere-lagos-2026-07-11",
+    title: "Storekeeper",
+    date: "2026-07-11",
+    location: "Surulere, Lagos",
+    type: "Full-time",
+    salary: "From ₦80,000/Month",
+    summary: "Hiring an organized and detail-oriented Storekeeper in Surulere, Lagos.",
+    responsibilities: [
+      "Manage inventory and stock records",
+      "Monitor and track stock levels",
+      "Maintain proper storage and hygiene standards",
+      "Support efficient store operations"
+    ],
+    requirements: [
+      "Organized and detail-oriented",
+      "Ability to maintain accurate inventory records",
+      "Good knowledge of stock management",
+      "Ability to maintain a clean and hygienic store environment"
+    ],
+    apply: "Send your CV to: chairrockaservices@gmail.com",
+    deadline: "Not Specified"
+  },
+  {
+    id: "portfolio-intern-renmoney-lagos-2026-07-11",
+    title: "Portfolio Intern",
+    date: "2026-07-11",
+    location: "Lagos",
+    type: "Internship",
+    company: "Renmoney",
+    salary: "Not Specified",
+    summary: "Renmoney is looking for a recent graduate to join as a Portfolio Intern.",
+    responsibilities: [],
+    requirements: [
+      "Recent graduate with a Bachelor’s degree in Economics, Statistics, Mathematics, Computer Science, Business Administration, Accounting, Finance, Engineering, or a related discipline.",
+      "Must have successfully completed the National Youth Service Corps (NYSC) programme.",
+      "Strong academic record."
+    ],
+    apply: "Apply 👇 https://jobs.workable.com/view/5VBrTZz6HcVe2BXsBvVe2x/portfolio-intern-in-lagos-at-renmoney",
+    deadline: "Not Specified"
+  },
+  {
+    id: "sales-closers-port-harcourt-2026-07-11",
+    title: "Sales Closers",
+    date: "2026-07-11",
+    location: "Ada George Road, Port Harcourt, Rivers State",
+    type: "Full-time",
+    salary: "Earn Up to: ₦200,000/Month",
+    summary: "Hiring goal-oriented and results-driven Sales Closers in Port Harcourt.",
+    responsibilities: [],
+    requirements: [
+      "Excellent communication and negotiation skills",
+      "Goal-oriented and results-driven",
+      "Strong interpersonal skills",
+      "Ability to work in a fast-paced environment",
+      "Previous sales experience is an advantage"
+    ],
+    apply: "Send your CV to: peacesommetvine@gmail.com. Only shortlisted candidates will be contacted.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "ap3-advisory-graduate-internship-2026-07-11",
+    title: "AP3 Advisory Graduate Internship Programme 2026",
+    date: "2026-07-11",
+    location: "Abuja & Lagos",
+    type: "Internship",
+    company: "AP3 Advisory",
+    salary: "Not Specified",
+    summary: "AP3 Advisory is recruiting for its Graduate Internship Programme in Abuja & Lagos for graduates in STEM, Social Sciences, Law, Accounting, Graphics Design, and Web Design.",
+    responsibilities: [],
+    requirements: [
+      "Strong analytical and communication skills",
+      "Proactive attitude and willingness to learn",
+      "Proficiency in Microsoft Word, Excel, and PowerPoint",
+      "Good email communication skills"
+    ],
+    apply: "Apply: https://jobs.smartyacad.com/ap3-advisory-graduate-internship-programme-2026/",
+    deadline: "26th July, 2026"
+  },
+  {
+    id: "data-analyst-intern-remote-2026-07-11",
+    title: "Data Analyst Intern",
+    date: "2026-07-11",
+    location: "Remote",
+    type: "Internship",
+    salary: "₦200,000 – ₦300,000 (Paid Internship)",
+    summary: "Paid remote internship for a Data Analyst to work on datasets, build reports, and generate insights.",
+    responsibilities: [
+      "Collect, clean, and analyze datasets.",
+      "Build reports and dashboards using Excel, Power BI, or Tableau.",
+      "Perform exploratory data analysis (EDA).",
+      "Generate insights to support business decisions.",
+      "Collaborate with the analytics team on live projects."
+    ],
+    requirements: [
+      "0–1 year of experience.",
+      "Strong Excel or Google Sheets skills (pivot tables, charts, formulas).",
+      "Basic knowledge of SQL and Python for data analysis.",
+      "Familiarity with Power BI or Tableau is an advantage."
+    ],
+    apply: "Send your CV to jasperwildon@gmail.com.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "generalist-support-intern-ameresco-remote-2026-07-11",
+    title: "Generalist Support Intern",
+    date: "2026-07-11",
+    location: "Remote",
+    type: "Internship",
+    company: "Ameresco",
+    salary: "$22/hour",
+    summary: "Paid remote internship at Ameresco for those looking to start a career in sustainability, clean energy, or ESG.",
+    responsibilities: [
+      "Support sustainability reporting and compliance activities",
+      "Conduct AI-assisted research on clients, buildings, and energy usage",
+      "Perform data entry and quality assurance in energy management systems",
+      "Sync utility bills and configure ENERGY STAR Portfolio Manager",
+      "Create charts, spreadsheets, and data visualizations for client reports",
+      "Assist with occasional site visits for digital imagery and LiDAR scans"
+    ],
+    requirements: [
+      "Recent graduate with a Bachelor’s degree.",
+      "0 years of experience required."
+    ],
+    apply: "Apply here: https://ameresco.wd5.myworkdayjobs.com/Ameresco/job/Generalist-Support-Intern_R3868",
+    deadline: "Not Specified"
+  },
+  {
+    id: "it-interns-sdsolutions-philippines-2026-07-11",
+    title: "IT Interns",
+    date: "2026-07-11",
+    location: "Philippines",
+    type: "Internship",
+    company: "SD Solutions",
+    salary: "Not Specified",
+    summary: "SD Solutions is hiring IT Interns currently enrolled in an undergraduate course for Information Technology, Computer Science, or Computer Engineering.",
+    responsibilities: [],
+    requirements: [
+      "Currently enrolled in an undergraduate course for Information Technology, Computer Science, Computer Engineering or related field."
+    ],
+    apply: "Send your resume to hr@sdsolutions.com.ph. Only qualified candidates will be contacted.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "digital-intern-stratensolutions-2026-07-11",
+    title: "Digital Intern",
+    date: "2026-07-11",
+    location: "Not Specified",
+    type: "Internship",
+    company: "Straten Solutions",
+    salary: "150K",
+    summary: "A startup is looking for a dedicated and intelligent intern to join their team.",
+    responsibilities: [
+      "Working with CRMs",
+      "Liasing with Contractors",
+      "Working with and using AI tools",
+      "Managing socials",
+      "Data entry",
+      "Working with marketing software",
+      "Working with other tech tools"
+    ],
+    requirements: [
+      "Have a strong desire to learn new things in the online / digital space",
+      "Like working on new and challenging tasks",
+      "Are able to wear multiple hats and are willing to go above and beyond",
+      "Have excellent communication and interpersonal skills",
+      "Are highly organized, proactive, and creative",
+      "Has good attention to details",
+      "You must have a laptop"
+    ],
+    apply: "Send your CV, AND attach a separate cover letter to: recruitment@stratensolutions.com With the subject line “ Digital Intern Application”. Only shortlisted candidates will be contacted",
+    deadline: "Not Specified"
+  },
+  {
+    id: "graduate-trainee-fleet-controller-leventis-2026-07-11",
+    title: "Graduate Trainee (Fleet Controller)",
+    date: "2026-07-11",
+    location: "Ikeja, Ota, Aba, Enugu",
+    type: "Graduate Trainee",
+    company: "Leventis",
+    salary: "Not Specified",
+    summary: "Leventis is recruiting for its Graduate Trainee Programme for Fleet Controllers.",
+    responsibilities: [
+      "Assist in tracking truck movement using GPS and fleet management system",
+      "Monitor delivery officers throughout their trips to ensure timely and efficient deliveries",
+      "Liaise with delivery officers to obtain real time updates on delivery progress"
+    ],
+    requirements: [
+      "Bachelor degree or HNDin Logistics & Supply chain Management, Transport Management or Business Administration",
+      "0-2 years post graduation experience",
+      "Proficiency in Microsoft Office Applications particularly, Microsoft Excel",
+      "NYSC completion certificate or Exception is required",
+      "Ability to work in any of the following locations; Ikeja, Ota, Aba, Enugu"
+    ],
+    apply: "Send your CV to; recruitment@agleventis.com. Use Graduate Trainee (Fleet Controller) as the subject matter",
+    deadline: "Not Specified"
+  },
+  {
+    id: "trainee-pharmacist-carpa-healthcare-ikeja-2026-07-11",
+    title: "Trainee Pharmacist",
+    date: "2026-07-11",
+    location: "Ikeja, Lagos",
+    type: "Full-time",
+    company: "Carpa Healthcare",
+    salary: "₦300,000 - ₦400,000/month",
+    summary: "Carpa Healthcare is hiring a Trainee Pharmacist in Ikeja, Lagos.",
+    responsibilities: [
+      "Operates under a Designated Supervisor who signs off on clinical competencies at the end of the foundation year."
+    ],
+    requirements: [
+      "A Master’s or Bachelor’s Degree in Pharmacy.",
+      "Strong communication skills to interact with patients and other healthcare professionals, high concentration to avoid dispensing errors, and robust organizational abilities."
+    ],
+    apply: "Applications to: carpahealthcare.hr@gmail.com using the job title as the subject of the mail.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "project-manager-quantity-surveyor-abuja-2026-07-11",
+    title: "Project Manager (Quantity Surveyor)",
+    date: "2026-07-11",
+    location: "Abuja",
+    type: "Full-time",
+    salary: "Not Specified",
+    summary: "The ideal candidate will be responsible for developing comprehensive work programmes for each project, supervising all stages of construction, coordinating site teams, monitoring progress against the approved work programme, ensuring quality standards are maintained, and ensuring projects are delivered within the agreed timelines and budget.",
+    responsibilities: [],
+    requirements: [
+      "Bachelor’s Degree or HND in Quantity Surveying.",
+      "Proven experience managing construction projects from inception to completion.",
+      "Strong knowledge of project planning, cost control, construction processes, and site supervision.",
+      "Excellent leadership, communication, reporting, and problem-solving skills.",
+      "Ability to coordinate engineers, architects, artisans, subcontractors, and suppliers to ensure seamless project execution."
+    ],
+    apply: "Kindly send your CV to; Info@benarcconstruct.com with the subject line “Application for Project Manager (Quantity Surveyor).” Only shortlisted candidates will be contacted.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "junior-designer-chowdeck-ikeja-2026-07-11",
+    title: "Junior Designer",
+    date: "2026-07-11",
+    location: "Ikeja (Hybrid)",
+    type: "Hybrid",
+    company: "Chowdeck",
+    salary: "Not Specified",
+    summary: "Chowdeck is hiring a Junior Designer with basic to intermediate proficiency in Adobe Creative Suite and Figma.",
+    responsibilities: [],
+    requirements: [
+      "have basic to intermediate proficiency in Adobe Creative Suite (especially Photoshop and Illustrator) and Figma.",
+      "have a solid understanding of fundamental design principles — layout, typography, colour, and visual hierarchy.",
+      "are able to adapt designs for different platforms, formats, and sizes.",
+      "have strong attention to detail and good time management and organisational skills.",
+      "can follow instructions, execute briefs accurately, and ask questions when clarity is needed.",
+      "are comfortable receiving feedback and iterating quickly.",
+      "are willing to learn and improve continuously.",
+      "have a familiarity with designing for social media platforms and an interest in branding, marketing, or consumer tech."
+    ],
+    apply: "Apply 👇 https://chowdeck.bamboohr.com/careers/101",
+    deadline: "Not Specified"
+  },
+  {
+    id: "nahco-aviance-graduate-trainee-2026-07-11",
+    title: "NAHCO Aviance Graduate Trainee Recruitment 2026",
+    date: "2026-07-11",
+    location: "Lagos",
+    type: "Graduate Trainee",
+    company: "NAHCO Aviance",
+    salary: "Not Specified",
+    summary: "NAHCO Aviance is recruiting for its Graduate Trainee Programme in Lagos.",
+    responsibilities: [
+      "Structured on-the-job training",
+      "Rotations across key operational departments",
+      "Professional development with one of Nigeria’s leading aviation service providers"
+    ],
+    requirements: [
+      "B. Sc or HND graduates",
+      "Strong communication, analytical, and problem-solving skills",
+      "Willingness to learn and adapt in a fast-paced aviation environment"
+    ],
+    apply: "Send your CV to; jobdesknahcoaviance@gmail.com. Use the Job Title as the subject of the email.",
+    deadline: "22nd July, 2026"
+  },
+  {
+    id: "operations-manager-it-chevron-lekki-2026-07-11",
+    title: "Operations Manager",
+    date: "2026-07-11",
+    location: "Chevron, Lekki",
+    type: "Full-time",
+    company: "IT Company",
+    salary: "Open to negotiation",
+    summary: "The ideal candidate must be highly organized, technologically savvy, proactive, and capable of leading a remote team.",
+    responsibilities: [
+      "Oversee the daily operations",
+      "Ensure every department meets deadlines",
+      "Assign tasks and monitor completion",
+      "Conduct weekly operations meetings",
+      "Improve workflows and business processes",
+      "Monitor company KPIs",
+      "Ensure every product launch follows company SOPs",
+      "Identify bottlenecks and implement solutions",
+      "Track employee productivity",
+      "Follow up on incomplete tasks",
+      "Hold staff accountable",
+      "Generate weekly performance reports",
+      "Assist the CEO in managing remote staff",
+      "Manage company software subscriptions",
+      "Manage access to business tools",
+      "Set up and maintain automation systems",
+      "Troubleshoot technical issues",
+      "Maintain internal documentation",
+      "Improve operational efficiency using AI tools",
+      "Coordinate with copywriters",
+      "Coordinate with designers",
+      "Coordinate webinar schedules",
+      "Coordinate customer support",
+      "Ensure every department delivers before deadlines"
+    ],
+    requirements: [
+      "Bachelor’s degree in Business Administration, Information Technology, Computer Science or related field",
+      "Minimum 3 years management experience",
+      "Strong IT knowledge",
+      "Experience managing remote teams",
+      "Excellent project management skills",
+      "Familiar with AI tools",
+      "Experience with project management software",
+      "Strong leadership ability",
+      "Excellent communication skills",
+      "Highly organized"
+    ],
+    apply: "To apply send cv and cover letter to titilayo.artisanoga@gmail.com or via whatsapp 09164981423. Only shortlisted candidates will be contacted",
+    deadline: "Not Specified"
+  },
+  {
+    id: "chef-male-chevron-lekki-2026-07-11",
+    title: "Chef (Male)",
+    date: "2026-07-11",
+    location: "Chevron, Lekki",
+    type: "Full-time",
+    salary: "Not Specified",
+    gender: "Male",
+    summary: "We are seeking a skilled and experienced Chef to prepare a variety of delicious Nigerian and intercontinental dishes.",
+    responsibilities: [
+      "Meal preparation",
+      "Menu planning",
+      "Maintaining high food quality and presentation standards",
+      "Ensuring kitchen cleanliness",
+      "Complying with food safety and hygiene regulations"
+    ],
+    requirements: [],
+    apply: "To apply send cv to 09164981423 via whatsapp",
+    deadline: "Not Specified"
+  },
+  {
+    id: "photographer-drone-media-specialist-ajah-2026-07-10",
+    title: "Photographer and Drone Media Specialist",
+    date: "2026-07-10",
+    location: "Ajah, Lagos",
+    type: "Contract",
+    company: "MKH Properties",
+    salary: "Not Specified",
+    summary: "The photographer is responsible for capturing high-quality visual content that showcases MKH Properties real estate development, including residential, commercial, and lifestyle spaces. The role emphasizes creating images that enhance brand perception, highlight property features, and support marketing campaigns across digital and offline channels.",
+    responsibilities: [
+      "Photography and Visual Content Creation.",
+      "Campaign Support",
+      "Property Visual Documentation",
+      "Brand Representation",
+      "Asset Management"
+    ],
+    requirements: [
+      "Experienced in photography and drone operation.",
+      "Ability to create real estate and lifestyle visuals.",
+      "Willingness to travel for project site captures."
+    ],
+    apply: "Qualified and Interested candidate should send updated CV and portfolio link to hr.mkhproperties@gmail.com",
+    deadline: "Not Specified"
+  },
+  {
+    id: "territory-sales-manager-horeca-lagos-2026-07-10",
+    title: "Territory Sales Manager (TSM)HORECA & On-Trade",
+    date: "2026-07-10",
+    location: "Lagos",
+    type: "Full-Time",
+    salary: "Highly Competitive + Commission",
+    summary: "Our client is seeking a commercially driven Territory Sales Manager to drive sales growth and market penetration across hotels, restaurants, bars, lounges, clubs, and other hospitality outlets within Lagos. This role requires a strong understanding of nightlife ecosystem, excellent sales skills, and the ability to build and maintain relationships within premium venues.",
+    responsibilities: [
+      "Account Acquisition & Business Development",
+      "Relationship Management",
+      "Sales & Territory Management",
+      "Trade Activation & Market Development",
+      "Market Intelligence"
+    ],
+    requirements: [
+      "Minimum of 3–5 years’ sales experience within FMCG, beverage, hospitality, or HORECA-focused sales environments.",
+      "Strong understanding of Lagos hospitality, nightlife, and entertainment landscape.",
+      "Existing relationships within hotels, restaurants, bars, lounges, clubs, and event venues will be an added advantage.",
+      "Male or female candidates may apply.",
+      "Must be comfortable working within a role that involves significant evening and nightlife engagement.",
+      "We are specifically seeking a lifestyle-oriented candidate who is already active within the hospitality and nightlife ecosystem and understands how the industry operates across Lagos Island & Mainland",
+      "Strong negotiation, prospecting, networking, and relationship management skills.",
+      "Excellent communication and presentation abilities.",
+      "Highly self-motivated, target-driven, & commercially aware.",
+      "Ability to work independently and manage territory effectively."
+    ],
+    apply: "Interested and qualified candidates should submit their CV to: tuts.recruit@gmail.com",
+    deadline: "Not Specified"
+  },
+  {
+    id: "admissions-counsellor-apapa-2026-07-10",
+    title: "Admissions Counsellor",
+    date: "2026-07-10",
+    location: "Apapa, Lagos",
+    type: "Full-time",
+    salary: "Not Specified",
+    summary: "We are seeking a confident and persuasive communicator with a proactive, target driven mindset to serve as the first point of contact for prospective students and convert leads into applicants.",
+    responsibilities: [],
+    requirements: [
+      "Bachelor’s degree.",
+      "1 to 3 years of experience in customer service, call centre, or sales.",
+      "Proven experience in cold calling and lead conversion.",
+      "Strong communication and interpersonal skills.",
+      "Professional, organised, and customer focused.",
+      "Proficiency in Microsoft Office and CRM tools."
+    ],
+    apply: "Qualified and interested applicants should forward their updated CV to hr@nutm.edu.ng for consideration.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "graduate-trainee-program-vital-sphere-2026-07-10",
+    title: "Graduate Trainee Program",
+    date: "2026-07-10",
+    location: "Lagos State, Nigeria",
+    type: "Graduate Trainee",
+    company: "Vital Sphere Global",
+    salary: "₦150,000 – ₦270,000",
+    summary: "Vital Sphere Global is currently recruiting for its Graduate Trainee Program. We are seeking qualified and motivated graduates in the following areas: IT, Administration, Finance, Business, and Health.",
+    responsibilities: [],
+    requirements: [],
+    apply: "Apply now: https://bit.ly/4gUYZay",
+    deadline: "Not Specified"
+  },
+  {
+    id: "founders-associate-epa-surulere-2026-07-10",
+    title: "Founder’s Associate (Executive Personal Assistant)",
+    date: "2026-07-10",
+    location: "Surulere, Lagos",
+    type: "Full-Time",
+    company: "Law and Policy Institution",
+    salary: "₦100,000 per month",
+    summary: "A growing law and policy institution in Surulere, Lagos is looking for one sharp, organised, and professional entry-level candidate to work directly alongside the founder across her work. The single measure of success is simple. How much high-value time is freed for the Founder to focus on the work only she can do. This role is about anticipatory, proactive, error-free execution that multiplies the Founder’s capacity.",
+    responsibilities: [
+      "You will manage emails and WhatsApp communications responding within 1 to 5 minutes, coordinate project management and operations, own the Founder’s calendar end to end, attend every meeting with the Founder, provide customer service, support applications, coordinate social media, and handle everything assigned, all without being chased.",
+      "You are the Founder’s primary point of contact with the world.",
+      "Every day is emails and WhatsApp. Some days also have high-stakes meetings and international applications. Some days have all of the above at once. No two days look exactly the same but the emails and WhatsApp never stop."
+    ],
+    requirements: [
+      "Age 21-25 Recent graduate or entry-level candidate.",
+      "Excellent written and spoken English.",
+      "Strong organisational skills and obsessive attention to detail.",
+      "Proactive and anticipatory mindset. You operate two or three steps ahead.",
+      "Lives within commuting distance of Surulere.",
+      "Available immediately.",
+      "In-office Monday to Friday."
+    ],
+    apply: "Send your CV and a cover letter to theveteranadvisory@gmail.com with the subject line: Founder’s Associate Application. In your cover letter do not tell us about yourself. Instead write your own job description for this role. Based on what you have read, describe what you believe this job actually requires of you, your responsibilities, your daily routine, and the standard you will be held to. Write it as if you are writing it for someone else who will be hired to do this job. This tells us more about how you think than any interview ever could.",
+    deadline: "Open until the right person is found"
+  },
+  {
+    id: "investment-advisor-abuja-2026-07-10",
+    title: "Investment Advisor",
+    date: "2026-07-10",
+    location: "Abuja",
+    type: "Full-Time",
+    salary: "Competitive",
+    summary: "WE ARE HIRING: INVESTMENT ADVISOR",
+    responsibilities: [],
+    requirements: [
+      "Bachelor’s Degree in Finance, Accounting, or a related field",
+      "Minimum of 2 years’ relevant experience",
+      "Strong analytical and problem-solving skills",
+      "Excellent communication and interpersonal skills",
+      "Proficiency in relevant software tools"
+    ],
+    apply: "Send your CV to: AlluringView.info@gmail.com",
+    deadline: "Not Specified"
+  },
+  {
+    id: "nerdzfactory-internship-2026-07-10",
+    title: "NerdzFactory Internship Opportunities 2026",
+    date: "2026-07-10",
+    location: "Lagos",
+    type: "Internship",
+    company: "NerdzFactory",
+    salary: "Not Specified",
+    summary: "NerdzFactory Internship Opportunities 2026. Available Roles: Social Editor Intern (NYSC), Tech Sales Intern, Editorial Intern Video, Editor Intern, Graphics and Multimedia Officer Intern, Editorial Associate Intern, Account Intern (NYSC).",
+    responsibilities: [],
+    requirements: [
+      "You’re currently serving in NYSC or recently graduated",
+      "You have strong communication and collaboration skills"
+    ],
+    apply: "Apply here: https://docs.google.com/forms/d/e/1FAIpQLScnA_gRIgTUsEhPkXRQVK45gJX03_uGoqCLqzAoWm8MqyYtpA/viewform",
+    deadline: "Not Specified"
+  },
+  {
+    id: "executive-personal-assistant-remote-2026-07-10",
+    title: "Executive Personal Assistant (Remote)",
+    date: "2026-07-10",
+    location: "Remote",
+    type: "Full-Time",
+    salary: "Not Specified",
+    summary: "We are looking for a highly organized Executive Personal Assistant to support the Founder and Managing Partner.",
+    responsibilities: [],
+    requirements: [
+      "Bachelor’s degree (Business Administration, Management, Communications, or related field)",
+      "Experience as an Executive, Personal, or Administrative Assistant",
+      "Excellent organizational and communication skills",
+      "Proficiency in Google Workspace, Microsoft Office, Zoom, and task management tools",
+      "Fluent English"
+    ],
+    apply: "jobs.bitarchitects@gmail.com",
+    deadline: "Not Specified"
+  },
+  {
+    id: "tech-support-engineer-healthcare-lagos-2026-07-10",
+    title: "Tech Support Engineer (Electrical Engineer)",
+    date: "2026-07-10",
+    location: "Lagos State",
+    type: "Full-Time",
+    company: "Healthcare Sector",
+    salary: "Not Specified",
+    gender: "Male",
+    summary: "A reputable and well-known organisation in the healthcare sector is currently recruiting a result-driven and motivated Tech Support Officer/ Engineer to join its growing team. Candidate will be responsible for the installation, maintenance, and troubleshooting of medical equipment.",
+    responsibilities: [],
+    requirements: [
+      "Candidate must have good communication and technical problem-solving skills.",
+      "Ability to respond to emergency equipment breakdowns",
+      "Willingness to travel for installations and support",
+      "Basic computer proficiency",
+      "Understanding of healthcare compliance standards",
+      "Ability to train end users on equipment operation",
+      "HND/B.Eng./B.Sc. in Biomedical Engineering, Electrical/Electronics Engineering, or related discipline.",
+      "This role is open to male candidates as part of the organisation’s commitment to gender balance within the workforce."
+    ],
+    apply: "Qualified and interested candidates should send their CV to: info.mycareermatters@gmail.com Subject of the Email: Tech Support Officer",
+    deadline: "Not Specified"
+  },
+  {
+    id: "medical-sales-representative-healthcare-lagos-2026-07-10",
+    title: "Medical Sales Representative",
+    date: "2026-07-10",
+    location: "Lagos State",
+    type: "Full-Time",
+    company: "Healthcare Sector",
+    salary: "Not Specified",
+    gender: "Male",
+    summary: "The Medical Sales Representative will be responsible for promoting and selling the company’s  diagnostic products and services to hospitals, pharmacies, clinics, and healthcare professionals. The ideal candidate should be persuasive, target-driven, and able to build strong professional relationships within the medical community.",
+    responsibilities: [
+      "Promote and sell diagnostic products and services to healthcare professionals",
+      "Build and maintain strong relationships with doctors, lab scientists, pharmacists, hospitals /clinics and medical labs.",
+      "Achieve assigned sales targets and expand the company’s customer base",
+      "Conduct product presentations / product demonstration and provide detailed product information",
+      "Monitor market trends and competitor activities",
+      "Prepare sales reports and provide regular feedback to management",
+      "Ensure proper product visibility and distribution across assigned territories"
+    ],
+    requirements: [
+      "Candidates should possess B.Sc / HND in any Biological Science discipline, including but not limited to: Microbiology, Biochemistry, Biology, Biotechnology, Anatomy, Physiology, Pharmacology, Zoology, Biomedical Science, etc",
+      "Strong communication and negotiation skills",
+      "Good interpersonal and relationship-building abilities",
+      "Self-motivated and target-driven personality",
+      "Ability to work independently and manage time effectively",
+      "Willingness to travel within assigned territory",
+      "This role is open to male candidates as part of the organisation’s commitment to gender balance within the workforce."
+    ],
+    apply: "Qualified and interested candidates should send their CV to: info.mycareermatters@gmail.com Subject of the Email: Medical Sales Representative",
+    deadline: "Not Specified"
+  },
+  {
+    id: "executive-assistant-to-ceo-ikeja-2026-07-10",
+    title: "Executive Assistant to the CEO",
+    date: "2026-07-10",
+    location: "Kudirat Abiola Way, Ikeja, Lagos (Onsite)",
+    type: "Full-Time",
+    salary: "₦500,000 – ₦600,000 Gross",
+    summary: "Our client is seeking a highly organised, proactive, and resourceful Executive Assistant to the CEO to provide executive, administrative, project coordination, and personal support in a fast-paced business environment.",
+    responsibilities: [],
+    requirements: [
+      "Bachelor’s degree in Business Administration, Management, Social Sciences, or a related field.",
+      "4–6 years’ experience as an Executive Assistant, Personal Assistant, or in a similar executive support role.",
+      "Previous experience supporting a CEO, Founder, or C-suite executive is highly preferred.",
+      "Advanced proficiency in Microsoft Excel and strong skills in Microsoft Word, PowerPoint, Outlook, and Google Workspace.",
+      "Excellent organisational, communication, stakeholder management, and problem-solving skills.",
+      "High level of professionalism, discretion, integrity, and attention to detail.",
+      "Applicants must be able to work onsite in Ikeja, Lagos"
+    ],
+    apply: "Interested and qualified candidates should send their CV to recruitment@salveconsultinglimited.com using “Executive Assistant to the CEO” as the subject of the email.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "executive-driver-lekki-2026-07-10",
+    title: "Executive Driver",
+    date: "2026-07-10",
+    location: "Lekki Axis",
+    type: "Full-Time",
+    salary: "₦150,000 – ₦200,000 Monthly",
+    summary: "The successful candidate must reside within the Lekki axis or its immediate environs and possess a valid driver’s licence, excellent driving skills, sound knowledge of Lagos road networks, and a high level of professionalism, confidentiality and safety consciousness",
+    responsibilities: [],
+    requirements: [],
+    apply: "Send Cv to 08168983876. NO CALLS.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "automobile-sales-executive-iyana-oworo-2026-07-10",
+    title: "Automobile Sales Executive (Female)",
+    date: "2026-07-10",
+    location: "Iyana-Oworo, Lagos (Onsite)",
+    type: "Full-Time",
+    company: "Automobile",
+    salary: "₦400,000 Gross Monthly aside Commission",
+    gender: "Female",
+    summary: "We are seeking a passionate and result-driven Sales Executive to drive vehicle sales through both physical and digital channels. The ideal candidate must be proactive, highly persuasive, and skilled at engaging potential customers in person and across digital platforms to generate leads, increase brand visibility, build relationships, and close sales.",
+    responsibilities: [
+      "Drive car sales through both physical and digital channels.",
+      "Execute strategies to generate leads and increase sales conversions.",
+      "Get involved in engaging content showcasing vehicles in the showroom.",
+      "Follow up consistently with leads to nurture interest and convert prospects into customers across all digital platforms.",
+      "Build and maintain strong customer relationships to encourage repeat business and referrals.",
+      "Negotiate effectively and close sales while meeting monthly targets."
+    ],
+    requirements: [
+      "Bachelor’s Degree, HND, or relevant qualification in Marketing, Business Administration, or a related field.",
+      "2–3 years of sales experience in automobile sales.",
+      "Strong passion for sales with a proven ability to meet targets.",
+      "Hands-on experience in social media management.",
+      "Excellent persuasion, negotiation, and communication skills.",
+      "Confidence in presenting products professionally.",
+      "Proactive, self-motivated, and result-oriented."
+    ],
+    apply: "Interested and qualified candidates should send their CV and Cover Letter to hr@bbamotors.ltd.",
+    deadline: "July 10th, 2026"
+  },
+  {
+    id: "chinese-translator-iyana-oworo-2026-07-10",
+    title: "Chinese Translator",
+    date: "2026-07-10",
+    location: "Iyana-Oworo, Lagos (On-site)",
+    type: "Full-Time",
+    company: "Automobile",
+    salary: "₦650,000 - ₦800,000",
+    summary: "We are seeking a fluent and detail-oriented Chinese Translator to join our team. The ideal candidate will be responsible for providing accurate written and verbal translation between Mandarin Chinese and English, facilitating effective communication between our local team and Chinese partners.",
+    responsibilities: [
+      "Translate written documents, emails, reports, contracts, and other business materials between Mandarin Chinese and English.",
+      "Provide real-time interpretation during meetings, training sessions, and business discussions.",
+      "Facilitate effective communication between Chinese-speaking stakeholders and local teams.",
+      "Ensure translations are accurate, culturally appropriate, and maintain the intended meaning.",
+      "Assist with communication relating to vehicle specifications, technical documents, and operational processes.",
+      "Support cross-functional teams with language-related tasks as required.",
+      "Maintain confidentiality of sensitive business information."
+    ],
+    requirements: [
+      "Previous experience working in a corporate business environment is required.",
+      "Fluency in both Mandarin Chinese and English (spoken and written) is required.",
+      "Minimum of 2–4 years’ experience as a Chinese Translator or Interpreter.",
+      "Excellent verbal and written communication skills.",
+      "Strong attention to detail and accuracy.",
+      "Ability to work in a fast-paced environment and manage multiple tasks effectively.",
+      "Experience in the automobile industry is an added advantage."
+    ],
+    apply: "Qualified candidates should send their CV to hr@bbamotors.ltd with “Chinese Translator” as the subject of the email.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "accounts-assistant-trax-apparel-2026-07-10",
+    title: "Accounts Assistant",
+    date: "2026-07-10",
+    location: "TRAX Apparel",
+    type: "Full-Time",
+    salary: "Not Specified",
+    summary: "Key Responsibilities: Financial Transactions, Accounts & Reconciliation, Record Keeping, Budget & Expense Monitoring, Compliance, Administrative Support.",
+    responsibilities: [
+      "Record daily financial transactions accurately.",
+      "Process payments, receipts, and petty cash transactions.",
+      "Prepare payment vouchers and supporting documents.",
+      "Issue receipts and maintain payment records.",
+      "Reconcile bank statements and cash balances.",
+      "Assist in preparing monthly financial reports.",
+      "Maintain accurate records of accounts payable and receivable.",
+      "Follow up on outstanding customer payments where required.",
+      "Maintain organized physical and electronic financial records.",
+      "File invoices, receipts, payment vouchers, and financial documents.",
+      "Ensure all financial documents are properly archived.",
+      "Track departmental expenses.",
+      "Monitor petty cash usage.",
+      "Verify expense claims before processing.",
+      "Ensure compliance with company financial policies.",
+      "Support statutory filings and financial audits.",
+      "Maintain confidentiality of all financial information.",
+      "Assist with procurement payment documentation.",
+      "Prepare financial schedules as requested.",
+      "Perform other finance-related duties assigned by Management."
+    ],
+    requirements: [
+      "OND, HND, or B.Sc. in Accounting, Finance, Business Administration, or a related field.",
+      "1– 2 years of accounting or finance experience.",
+      "Experience with Microsoft Excel and accounting software is an added advantage."
+    ],
+    apply: "Interested and qualified candidates should send their CV via WhatsApp to 09063259828",
+    deadline: "Not Specified"
+  },
+  {
+    id: "growth-community-specialist-ikeja-2026-07-10",
+    title: "Growth & Community Specialist",
+    date: "2026-07-10",
+    location: "Ikeja, Lagos",
+    type: "Full-time, Hybrid",
+    salary: "₦300,000/month",
+    summary: "Every buzzing creator community needs someone who’s always plugged in — first to know the trending sound, quickest to spot the right influencer, sharp enough to turn a giveaway into 500 new sign-ups. You’ll run our client’s socials (X, IG, TikTok, LinkedIn), grow our WhatsApp/Telegram community, build partnerships with Nigerian creators and platforms like TechCabal and Zikoko, and drive the campaigns that get people signing up.",
+    responsibilities: [],
+    requirements: [
+      "BSc/HND + completed NYSC",
+      "2-3 years in growth, digital marketing, or community management",
+      "Real knowledge of Nigerian creator culture",
+      "Copywriting that sounds human, not corporate",
+      "Experience with Buffer/Hootsuite and reading analytics",
+      "Bonus: SEO, email marketing, or paid ads experience"
+    ],
+    apply: "Interested & qualified candidates can send a DM or send their CV & portfolio using the role as subject of the mail to: jobs@ifystribe.com.ng",
+    deadline: "Not Specified"
+  },
+  {
+    id: "creator-partnerships-executive-ikeja-2026-07-10",
+    title: "Creator Partnerships Executive",
+    date: "2026-07-10",
+    location: "Ikeja, Lagos",
+    type: "Full-time, Hybrid",
+    salary: "₦300,000/month",
+    summary: "We’re looking for someone who genuinely gets Nigeria’s creator economy — who knows the difference between a faith influencer and a fintech bro, who can slide into a creator’s DM without sounding like a bot, and who knows exactly how to talk to a 22-year-old TikToker one minute and a busy, high-net-worth professional the next. Here’s what your day-to-day will actually look like: You’ll be out there scouting talent — Instagram, TikTok, Twitter/X, YouTube — spotting creators before everyone else does. Once you’ve got their attention, you’re the one guiding them through the whole journey: setting up their store, uploading their first products, sorting out payouts, and celebrating with them when they land that first sale. You’ll keep your pipeline organized (CRM or a well-loved spreadsheet — we’re not precious about the tool, just the discipline), and you’ll have real monthly targets to hit for new sign-ups and activated creators.",
+    responsibilities: [],
+    requirements: [
+      "You’ve got a BSc or HND in something relevant, and 2–3 years in sales, BD, partnerships, or account management under your belt",
+      "You’re a natural relationship-builder — persuasive, but never pushy",
+      "You already know Nigeria’s creator scene — the niches, the names, the vibe",
+      "You’ve used a CRM (or your spreadsheet game is CRM-level strong)",
+      "Bonus points if you’ve been a creator yourself — you’ll know exactly what our creators need before they ask"
+    ],
+    apply: "Kindly apply to: jobs@ifystribe.com.ng using the role as subject of the mail",
+    deadline: "Not Specified"
+  },
+  {
+    id: "stock-keeper-warehouse-ilorin-2026-07-10",
+    title: "Stock Keeper (Warehouse)",
+    date: "2026-07-10",
+    location: "Ilorin, Kwara State",
+    type: "Full-time",
+    salary: "₦70,000 + ₦20,000 Transport Allowance",
+    gender: "Male",
+    summary: "We are looking for a reliable and detail-oriented Stock Keeper to join our new warehouse in Ilorin.",
+    responsibilities: [],
+    requirements: [
+      "Male (for gender balance within the team)",
+      "1 year experience in inventory or stock management",
+      "Good knowledge of inventory control and stock record keeping",
+      "Ability to maintain accurate stock records",
+      "Basic knowledge of Microsoft Excel or inventory management software is an added advantage"
+    ],
+    apply: "If you meet the above requirements and are interested, kindly send your CV to hrendeavortyresltd@outlook.com with the subject “Stock Keeper – Ilorin.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "remote-contract-banking-financial-services-fintech-2026-07-10",
+    title: "Remote Contract Opportunities in Banking, Financial Services & FinTech",
+    date: "2026-07-10",
+    location: "Remote",
+    type: "Contract",
+    salary: "Not Specified",
+    summary: "Remote contract opportunities in Banking, Financial Services & FinTech are now open. We’re hiring for multiple remote, project-based contract roles, including: Solution Architect, ERP Consultant, Configuration Analyst, CRM Analyst, Senior Developer, Senior Data Specialist, Quality Assurance, Technical Lead, AI Lead, Fraud Analyst, Payments Business Analyst, Regulatory Advisor, AML/Fraud Configuration Specialist, Fraud & AML Subject Matter Expert (SME), Payments / ISO Subject Matter Expert (SME), Agentforce/Einstein AI Consultant, Experience Cloud Consultant, Marketing Cloud Consultant.",
+    responsibilities: [],
+    requirements: [],
+    apply: "Visit blackfinconsult.com/careers to explore the roles and submit your application.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "general-manager-oil-gas-upstream-port-harcourt-2026-07-10",
+    title: "General Manager",
+    date: "2026-07-10",
+    location: "Port Harcourt, Rivers State",
+    type: "Full-time, Onsite",
+    company: "Oil & Gas (Upstream)",
+    salary: "Not Specified",
+    summary: "A leading indigenous oil and gas company is seeking an experienced and commercially driven General Manager to provide strategic and operational leadership across its upstream operations. The successful candidate will drive business growth, operational excellence, client satisfaction, and profitability while ensuring compliance with industry regulations and HSE standards.",
+    responsibilities: [
+      "Lead the company’s operational and commercial activities across upstream oil and gas operations.",
+      "Drive business development initiatives and strengthen relationships with IOCs, NOCs, and key industry stakeholders.",
+      "Oversee EPCIC projects, production support, well services, maintenance, fabrication, logistics, and related operations.",
+      "Ensure projects are delivered safely, on schedule, within budget, and to quality standards.",
+      "Develop and implement business strategies to improve operational efficiency and profitability.",
+      "Lead budgeting, cost control, financial performance, and resource optimization.",
+      "Ensure compliance with regulatory, contractual, governance, and HSE requirements.",
+      "Provide leadership, mentoring, and performance management for cross-functional teams."
+    ],
+    requirements: [
+      "Bachelor’s degree in Engineering; MBA or Master’s degree is an added advantage.",
+      "Professional certifications such as PMP/PRINCE2, COREN/NSE, and relevant HSE certifications are preferred.",
+      "Minimum of 10 years’ experience in the upstream oil and gas industry, including at least 5 years in a senior management role.",
+      "Strong experience managing EPCIC projects, well services, production support, fabrication, and related upstream operations.",
+      "Proven track record in business development, contract negotiation, and managing relationships with major industry stakeholders.",
+      "Excellent leadership, strategic planning, financial management, negotiation, and communication skills."
+    ],
+    apply: "https://forms.gle/TBD21M2Px61h5ZxD9",
+    deadline: "Not Specified"
+  },
+  {
+    id: "marketing-executive-multiple-locations-2026-07-10",
+    title: "Marketing Executive",
+    date: "2026-07-10",
+    location: "Lagos, Sokoto, Enugu, Ibadan, Abuja,Asaba, Owerri, Benue, Plateau, Adamawa, Ekiti, Kano, Zamfara, Borno, Katsina, Kebbi, Yobe, Portharcourt, Abakaliki, Nsukka, Ikeja, Agbara",
+    type: "Full-Time",
+    salary: "Not Specified",
+    summary: "Our client is seeking dynamic, result-oriented, and customer-focused Marketing Executives to drive business growth by promoting the Company’s pension products and services. The ideal candidate will be responsible for acquiring new clients, nurturing existing relationships, and increasing market penetration while delivering exceptional customer experiences.",
+    responsibilities: [],
+    requirements: [
+      "Minimum of 2 years proven experience in sales."
+    ],
+    apply: "Interested candidates should click the link below to apply: https://forms.gle/rYYYzBd9mpX422te7",
+    deadline: "Not Specified"
+  },
+  {
     id: "personnel-officer-awekoro-ogun-2026-07-10",
     title: "Personnel Officer",
     date: "2026-07-10",

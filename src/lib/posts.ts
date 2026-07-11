@@ -10,6 +10,116 @@ export type Post = {
 
 const allPosts: Post[] = [
   {
+    id: "unijos-postgraduate-admission-2026-2027",
+    title: "UNIJOS Begins Postgraduate Admission for 2026/2027 Academic Session",
+    category: "Education",
+    date: "2026-07-11",
+    excerpt: "The University of Jos (UNIJOS) School of Postgraduate Studies has commenced the sale of application forms for admission into its postgraduate programmes for the 2026/2027 academic session.",
+    content: `<h2>UNIJOS Begins Postgraduate Admission for 2026/2027 Academic Session</h2>
+<p>The University of Jos (UNIJOS) School of Postgraduate Studies has commenced the sale of application forms for admission into its postgraduate programmes for the 2026/2027 academic session.</p>
+<p>Applications are now open to suitably qualified candidates seeking admission into Postgraduate Diploma (PGD), Master's, M.Phil./Ph.D., and Doctor of Philosophy (Ph.D.) programmes offered across the university's faculties, centres, and the Institute of Education.</p>
+<p>Interested applicants are expected to complete their applications through the <a href="https://portal.unijos.edu.ng/" target="_blank" rel="noopener noreferrer">official UNIJOS postgraduate admission portal</a>.</p>
+
+<h3>Available Postgraduate Programmes</h3>
+<p>The University of Jos offers a wide range of postgraduate programmes across several academic disciplines.</p>
+
+<h4>Faculty of Arts</h4>
+<p>Programmes are available in English, Foreign Languages (French), History and International Studies, Linguistics and Nigerian Languages, Mass Communication, Religion and Philosophy, Theatre and Film Arts, and Archaeology and Heritage Studies.</p>
+
+<h4>Faculty of Agriculture</h4>
+<p>Postgraduate programmes are offered in Animal Science, including specialisations in Breeding and Genetics, Nutrition, Production, and more.</p>
+
+<h4>Medical and Health Sciences</h4>
+<p>Programmes are available in Basic Clinical Sciences (Chemical Pathology, Medical Microbiology), Basic Medical Sciences (Biochemistry, Human Anatomy), Clinical Sciences (Obstetrics and Gynaecology), Health Sciences and Technology (Medical Laboratory Science, Nursing), and Pharmaceutical Sciences.</p>
+
+<h4>Other Faculties and Centres</h4>
+<p>Postgraduate studies are also offered through the Centre for Conflict Management and Peace Studies, Centre for Gender and Women Studies, Africa Centre of Excellence in Phytomedicine Research and Development, and faculties of Education, Engineering, Environmental Sciences, Law, Management Sciences, Computing, and Natural Sciences.</p>
+
+<h3>Application Process</h3>
+<p>Prospective candidates are required to submit their applications through the official UNIJOS postgraduate admission portal.</p>
+<p>Applicants should:</p>
+<ol>
+  <li>Visit the <a href="https://portal.unijos.edu.ng/" target="_blank" rel="noopener noreferrer">postgraduate application portal</a>.</li>
+  <li>Select the preferred postgraduate programme.</li>
+  <li>Complete all required application fields.</li>
+  <li>Review the information provided.</li>
+  <li>Submit the completed application before the application deadline announced by the university.</li>
+</ol>
+
+<h3>Why Study at UNIJOS?</h3>
+<p>According to the School of Postgraduate Studies, the University of Jos provides a research-focused learning environment supported by experienced lecturers and researchers. The university also highlights its modern academic facilities and commitment to quality postgraduate education across diverse fields of study.</p>
+
+<h3>Contact Information</h3>
+<p>Applicants seeking further information about the admission exercise may contact the School of Postgraduate Studies through the details below:</p>
+<ul>
+  <li><strong>Telephone:</strong> 0803 386 1003</li>
+  <li><strong>Email:</strong> <a href="mailto:pgadmissions@unijos.edu.ng">pgadmissions@unijos.edu.ng</a></li>
+  <li><strong>Dean, School of Postgraduate Studies (Prof. D. A. Dakul):</strong> +234 803 643 1517</li>
+</ul>
+
+<p>For more postgraduate admission news, you might find this post helpful: <a href="/blog/unilorin-postgraduate-qualifying-entrance-examination-2026-2027">UNILORIN Postgraduate Qualifying Entrance Examination Schedule for 2026/2027 Session</a>.</p>`,
+    tags: [
+      "UNIJOS",
+      "Postgraduate",
+      "Admission",
+      "2026/2027",
+      "Education",
+      "Nigeria",
+    ],
+  },
+  {
+    id: "federal-university-dutse-ijmb-admission-2026-2027",
+    title: "Federal University Dutse Opens IJMB Admission for 2026/2027 Academic Session",
+    category: "Education",
+    date: "2026-07-11",
+    excerpt: "Federal University Dutse (FUD), Jigawa State, has commenced the sale of application forms for its Interim Joint Matriculation Board (IJMB) programme for the 2026/2027 academic session.",
+    content: `<h2>Federal University Dutse Opens IJMB Admission for 2026/2027 Academic Session</h2>
+<p>Federal University Dutse (FUD), Jigawa State, has commenced the sale of application forms for its Interim Joint Matriculation Board (IJMB) programme for the 2026/2027 academic session through the University's Consultancy Services Directorate.</p>
+<p>The programme offers an alternative pathway into undergraduate studies, and interested candidates can complete their online applications between <strong>16 July and 15 September 2026</strong>.</p>
+<p>Prospective applicants are advised to meet the admission requirements and complete their registration before the application deadline.</p>
+
+<h3>What Is the FUD IJMB Programme?</h3>
+<p>The Interim Joint Matriculation Board (IJMB) programme is an advanced-level programme that provides qualified candidates with an alternative route into undergraduate admission.</p>
+<p>Successful candidates who complete the programme can use their IJMB results to gain admission into degree programmes without relying solely on the UTME admission route.</p>
+
+<h3>Application Timeline</h3>
+<p>The university has announced the following schedule for the 2026/2027 admission exercise:</p>
+<ul>
+  <li><strong>Application Portal Opens:</strong> 16 July 2026</li>
+  <li><strong>Application Portal Closes:</strong> 15 September 2026</li>
+</ul>
+<p>Applicants are encouraged to complete all stages of the online registration before the closing date, as late applications may not be accepted.</p>
+
+<h3>Admission Requirements</h3>
+<p>To be eligible for admission, applicants must possess at least <strong>five O'Level credit passes</strong>, including:</p>
+<ul>
+  <li>English Language</li>
+  <li>Mathematics</li>
+  <li>Three other subjects relevant to the intended course of study</li>
+</ul>
+<p>The required credits must be obtained in <strong>not more than two sittings</strong>.</p>
+
+<h3>Application Fee</h3>
+<p>The application fee for the FUD IJMB programme is <strong>₦5,000</strong>.</p>
+<p>This fee is <strong>non-refundable</strong> and must be paid online using a valid debit card or any other payment option available on the application portal.</p>
+
+<h3>How to Apply</h3>
+<p>Applications are to be completed through the FUD Consultancy Services online application portal.</p>
+<p>To apply:</p>
+<ol>
+  <li>Visit the <a href="https://fudcons.com.ng/" target="_blank" rel="noopener noreferrer">FUD Consultancy Services application portal</a>.</li>
+  <li>Select the <strong>IJMB Application</strong> option.</li>
+  <li>Create an account using a valid email address.</li>
+  <li>Log in with your registered email address and password.</li>
+  <li>Complete all <strong>seven sections</strong> of the online application form in the required order.</li>
+  <li>Pay the <strong>₦5,000</strong> application fee using any of the available online payment methods.</li>
+  <li>Submit the application on or before <strong>15 September 2026</strong>.</li>
+</ol>
+
+<p>For more admission news from the university, you might find this post helpful: <a href="/blog/federal-university-dutse-post-utme-direct-entry-2026-2027">Federal University Dutse Opens Post UTME and Direct Entry Screening for 2026/2027 Admission</a>.</p>`,
+    tags: ["Federal University Dutse", "FUD", "IJMB", "Admission", "2026/2027", "Education", "Nigeria"],
+  },
+  {
     id: "nigerian-law-school-bar-part-ii-admission-2026-2027",
     title: "Nigerian Law School Opens Bar Part II Admission for 2026/2027 Academic Session",
     category: "Education",

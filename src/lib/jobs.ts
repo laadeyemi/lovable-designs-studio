@@ -46,9 +46,770 @@ function parseDeadline(deadlineString: string): string | null {
   return null; // Unable to parse, treat as non-expired
 }
 
-const currentDate = '2026-07-10'; // Current date for comparison (July 10, 2026)
+const currentDate = '2026-07-14'; // Current date for comparison (July 14, 2026)
 
 const allJobs: Job[] = [
+  {
+    id: "key-accsount-manager-fmcg-lagos-2026-07-14",
+    title: "Key Account Manager",
+    date: "2026-07-14",
+    location: "Lagos, Nigeria",
+    type: "Full-time",
+    company: "BerryMart Integrated Services Limited",
+    salary: "Competitive",
+    summary: "A high-performing sales professional to drive sales growth, expand customer base, and build strong relationships with distributors, wholesalers, retailers, and key accounts in the FMCG market.",
+    responsibilities: [
+      "Drive sales growth and consistently exceed assigned targets.",
+      "Expand our customer base and identify new business opportunities.",
+      "Build and manage strong relationships with distributors, wholesalers, retailers, and key accounts.",
+      "Ensure excellent product visibility, availability, and merchandising across your territory.",
+      "Monitor market trends and competitor activities to identify growth opportunities.",
+      "Submit timely sales reports and ensure prompt payment collections."
+    ],
+    requirements: [
+      "5–7 years of hands-on FMCG sales experience.",
+      "Strong understanding of the Lagos market and distribution channels.",
+      "Excellent negotiation, communication, and relationship-building skills.",
+      "A self-driven, resilient, and target-oriented professional with a winning mindset.",
+      "HND/B.Sc. in any relevant discipline."
+    ],
+    apply: "Send your CV to hr@berrymartng.com with the subject: Key Account Manager",
+    deadline: "July 14, 2026"
+  },
+  {
+    id: "junior-account-manager-mainland-island-2026-07-14",
+    title: "Junior Account Manager",
+    date: "2026-07-14",
+    location: "Mainland & Island (Ajah, Lakowe), Lagos",
+    type: "Full-time",
+    company: "BerryMart Integrated Services Limited",
+    salary: "Competitive salary and performance-based incentives",
+    summary: "Passionate about sales, building strong customer relationships, and driving business growth within the FMCG industry.",
+    responsibilities: [
+      "Manage and grow assigned customer accounts.",
+      "Build and maintain strong relationships with distributors, wholesalers, and retail partners.",
+      "Achieve assigned sales and revenue targets.",
+      "Identify and develop new business opportunities within the assigned territory.",
+      "Ensure product availability, visibility, and merchandising across customer outlets.",
+      "Monitor competitors’ activities and provide timely market intelligence.",
+      "Prepare and submit accurate sales reports.",
+      "Work closely with internal teams to ensure excellent customer service."
+    ],
+    requirements: [
+      "Bachelor’s degree or HND in Marketing, Business Administration, or a related field.",
+      "1–3 years’ experience in Account Management, Sales, or Business Development within the FMCG industry.",
+      "Strong relationship management, negotiation, and communication skills.",
+      "Target-driven with a proven ability to achieve sales objectives.",
+      "Good understanding of key account management and retail sales.",
+      "Must be familiar with the preferred territory (Mainland or Ajah, Lakowe & Environs)."
+    ],
+    apply: "Qualified candidates should send their CV to hr@berrymartng.com with the subject line: Junior Account Manager – Mainland, or Junior Account Manager – Island",
+    deadline: "Not Specified"
+  },
+  {
+    id: "outdoor-sales-representative-lekki-2026-07-14",
+    title: "Outdoor Sales Representative",
+    date: "2026-07-14",
+    location: "Lekki",
+    type: "Full-time",
+    salary: "₦250,000 + Commission",
+    summary: "A results-driven Outdoor Sales Representative to generate leads, meet clients, and drive sales growth through field sales and relationship building.",
+    responsibilities: [
+      "Identify and develop new business opportunities",
+      "Visit clients regularly to promote products/services",
+      "Achieve and exceed sales targets",
+      "Build and maintain strong customer relationships",
+      "Provide market feedback and competitor insights",
+      "Prepare sales reports and updates"
+    ],
+    requirements: [
+      "Proven experience in sales or a similar role",
+      "Strong communication and negotiation skills",
+      "Self-motivated with a target-driven mindset",
+      "Ability to work independently and in the field",
+      "Minimum of OND/HND/B.Sc. (preferred)"
+    ],
+    apply: "Qualified and interested candidates should send their CV to cv@ascentech.com.ng using the Job Title as the subject of the email",
+    deadline: "Not Specified"
+  },
+  {
+    id: "sales-representative-mainland-lagos-2026-07-14",
+    title: "Sales Representative",
+    date: "2026-07-14",
+    location: "Mainland, Lagos",
+    type: "Full-Time",
+    salary: "100,000-120,000",
+    summary: "A motivated, results-driven, and customer-focused Sales Representative to join our team. The successful candidate should have excellent communication skills, a strong sales mindset, and the ability to convert opportunities into successful business outcomes.",
+    responsibilities: [
+      "Identify and develop new sales opportunities through research, networking, and client engagement.",
+      "Promote and sell the company’s products and services to prospective and existing customers.",
+      "Build and maintain strong relationships with clients to ensure customer satisfaction and retention.",
+      "Understand customer needs and provide suitable solutions that meet their requirements.",
+      "Conduct sales presentations, product demonstrations, and client meetings when required.",
+      "Follow up on leads, inquiries, and prospects to convert opportunities into sales.",
+      "Achieve assigned sales targets and contribute to overall business growth.",
+      "Maintain accurate records of customer interactions, sales activities, and performance reports.",
+      "Monitor market trends, competitor activities, and customer feedback to identify opportunities for improvement.",
+      "Collaborate with internal teams to ensure smooth customer service delivery."
+    ],
+    requirements: [
+      "Minimum of one (1) year experience in sales, business development, customer service, or a related role.",
+      "Strong communication, negotiation, and interpersonal skills.",
+      "Ability to build relationships and confidently engage with clients.",
+      "Results-oriented with the ability to meet and exceed sales targets.",
+      "Strong problem-solving skills and ability to work independently.",
+      "Good knowledge of sales techniques and customer relationship management.",
+      "Proficiency in Microsoft Office tools and sales tracking platforms is an added advantage.",
+      "Experience in B2B or corporate sales is an added advantage."
+    ],
+    apply: "Send your CV to hr@thestartupplaceng.com with the subject: “Sales Representative Application”",
+    deadline: "Not Specified"
+  },
+  {
+    id: "content-creator-social-media-officer-vi-2026-07-14",
+    title: "Content Creator & Social Media Officer",
+    date: "2026-07-14",
+    location: "Victoria Island, Lagos",
+    type: "Full-Time",
+    salary: "₦150,000 – ₦250,000 Monthly (Based on Experience)",
+    summary: "A creative, innovative, and proactive Content Creator & Social Media Officer to develop engaging content, manage our digital presence, and execute creative ideas that strengthen our brand visibility and audience engagement.",
+    responsibilities: [
+      "Create engaging content, including videos, reels, graphics, captions, and social media posts.",
+      "Develop and execute creative content ideas aligned with the company’s brand identity and objectives.",
+      "Manage and grow the company’s social media platforms, including Instagram, LinkedIn, Facebook, TikTok, and other relevant channels.",
+      "Develop and maintain a content calendar to ensure consistent and timely content delivery.",
+      "Capture, edit, and produce high-quality visual content for digital platforms.",
+      "Stay updated with social media trends and recommend innovative ideas to improve engagement.",
+      "Manage online community engagement by responding to comments, messages, and inquiries professionally.",
+      "Monitor content performance and provide insights to improve social media strategies.",
+      "Collaborate with internal teams to support campaigns, events, and promotional activities."
+    ],
+    requirements: [
+      "Minimum of one (1) year experience in content creation, social media management, or a related role.",
+      "Strong creative thinking skills with the ability to generate and execute innovative ideas.",
+      "Proficiency in content creation tools such as Canva, CapCut, Adobe Creative Suite, or similar platforms.",
+      "Good photography, videography, writing, and storytelling skills.",
+      "Strong understanding of social media platforms, trends, and digital marketing practices.",
+      "Ability to work independently, manage multiple tasks, and meet deadlines.",
+      "A portfolio showcasing previous content creation or social media work is an added advantage."
+    ],
+    apply: "Send your CV and portfolio/sample content to hr@thestartupplaceng.com with the subject: “Content Creator & Social Media Officer Application”",
+    deadline: "Not Specified"
+  },
+  {
+    id: "pharmacist-wellness-pharmacy-lagos-2026-07-14",
+    title: "Pharmacist",
+    date: "2026-07-14",
+    location: "Lagos, Nigeria",
+    type: "Full-Time",
+    company: "Wellness Pharmacy (a subsidiary of Hazon Holdings)",
+    salary: "Not Specified",
+    summary: "A qualified and customer-focused Pharmacist to join our pharmacy operations team, responsible for providing safe and professional pharmaceutical services.",
+    responsibilities: [
+      "Dispense prescription and over-the-counter medications accurately in line with professional standards.",
+      "Provide medication counselling and guidance to customers on proper usage, dosage, and possible side effects.",
+      "Review prescriptions for accuracy, potential interactions, and safety concerns.",
+      "Ensure proper storage, handling, and management of pharmaceutical products.",
+      "Monitor inventory levels, support stock management, and minimize expiry-related losses.",
+      "Maintain accurate pharmacy records and documentation in compliance with regulatory requirements.",
+      "Supervise and support pharmacy assistants and technicians to ensure excellent service delivery.",
+      "Provide exceptional customer service and support continuous improvement of pharmacy operations."
+    ],
+    requirements: [
+      "Bachelor of Pharmacy (B.Pharm) degree from a recognized institution.",
+      "Must be registered with the Pharmacists Council of Nigeria (PCN).",
+      "Minimum of 1–3 years relevant pharmacy experience.",
+      "Experience in retail/community pharmacy is an added advantage.",
+      "Strong knowledge of pharmaceutical practices, medication management, and healthcare regulations.",
+      "Excellent communication, customer service, and problem-solving skills.",
+      "High level of accuracy, professionalism, and ethical conduct."
+    ],
+    apply: "Send your CV to recruitment@hazonholdings.com using “Pharmacist” as the email subject.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "executive-assistant-abuja-hybrid-2026-07-14",
+    title: "Executive Assistant",
+    date: "2026-07-14",
+    location: "Abuja (Hybrid role)",
+    type: "Hybrid",
+    gender: "Male",
+    salary: "200k",
+    summary: "An Executive Assistant with a legal background to support a busy executive.",
+    responsibilities: [],
+    requirements: [
+      "First degree in Law",
+      "Minimum of 2 years experience as an Executive Assistant, Project Management, or a similar role",
+      "Proficiency in Google workspace, Microsoft Office Suite, Project Management Tools such as ClickUp, Asana, Notion or Jira"
+    ],
+    apply: "Interested candidates should Send their CVs using the position as subject of the email to peridotforte@gmail.com",
+    deadline: "Not Specified"
+  },
+  {
+    id: "storekeeper-epe-lagos-2026-07-14",
+    title: "Storekeeper",
+    date: "2026-07-14",
+    location: "Epe, Lagos",
+    type: "Full-time",
+    salary: "Not Specified",
+    summary: "A diligent, organized, and detail-oriented Storekeeper to join our team in Epe, Lagos State, responsible for managing inventory, maintaining accurate stock records, and ensuring proper storage and issuance of goods.",
+    responsibilities: [
+      "Receive, inspect, and record incoming goods and materials.",
+      "Ensure proper storage and arrangement of stock within the warehouse/store.",
+      "Issue products and materials in line with approved requests and company procedures.",
+      "Maintain accurate inventory records and update stock movements promptly.",
+      "Conduct regular stock counts and participate in periodic stock-taking exercises.",
+      "Monitor stock levels and report shortages, damages, or discrepancies.",
+      "Ensure compliance with inventory control procedures and warehouse policies.",
+      "Maintain a clean, organized, and safe store environment.",
+      "Prepare and submit stock reports as required.",
+      "Collaborate with relevant departments to ensure efficient inventory management."
+    ],
+    requirements: [
+      "Minimum of OND/HND/B.Sc. in Business Administration, Logistics, Supply Chain Management, Accounting, or any related discipline.",
+      "Minimum of 1 year experience as a Storekeeper, Inventory Officer, or in a similar role, preferably within an FMCG, retail, supermarket, warehouse, or distribution environment.",
+      "Good knowledge of inventory management principles and stock control procedures.",
+      "Proficiency in Microsoft Excel and other basic computer applications.",
+      "Strong numerical, organizational, and record-keeping skills.",
+      "High level of integrity, accuracy, and attention to detail.",
+      "Ability to work independently and under minimal supervision.",
+      "Good communication and interpersonal skills.",
+      "Candidates residing within or around Epe will be preferred."
+    ],
+    apply: "Interested and qualified candidates should send their CV via WhatsApp to 07051092930",
+    deadline: "Not Specified"
+  },
+  {
+    id: "storekeeper-lekki-lagos-2026-07-14",
+    title: "Storekeeper",
+    date: "2026-07-14",
+    location: "Lekki, Lagos",
+    type: "Full-time",
+    salary: "Not Specified",
+    summary: "A diligent, organized, and detail-oriented Storekeeper to join our team in Lekki, Lagos State, responsible for managing inventory, maintaining accurate stock records, and ensuring proper storage and issuance of goods.",
+    responsibilities: [
+      "Receive, inspect, and record incoming goods and materials.",
+      "Ensure proper storage and arrangement of stock within the warehouse/store.",
+      "Issue products and materials in line with approved requests and company procedures.",
+      "Maintain accurate inventory records and update stock movements promptly.",
+      "Conduct regular stock counts and participate in periodic stock-taking exercises.",
+      "Monitor stock levels and report shortages, damages, or discrepancies.",
+      "Ensure compliance with inventory control procedures and warehouse policies.",
+      "Maintain a clean, organized, and safe store environment.",
+      "Prepare and submit stock reports as required.",
+      "Collaborate with relevant departments to ensure efficient inventory management."
+    ],
+    requirements: [
+      "Minimum of OND/HND/B.Sc. in Business Administration, Logistics, Supply Chain Management, Accounting, or any related discipline.",
+      "Minimum of 1 year experience as a Storekeeper, Inventory Officer, or in a similar role, preferably within an FMCG, retail, supermarket, warehouse, or distribution environment.",
+      "Good knowledge of inventory management principles and stock control procedures.",
+      "Proficiency in Microsoft Excel and other basic computer applications.",
+      "Strong numerical, organizational, and record-keeping skills.",
+      "High level of integrity, accuracy, and attention to detail.",
+      "Ability to work independently and under minimal supervision.",
+      "Good communication and interpersonal skills.",
+      "Candidates residing within or around Epe will be preferred."
+    ],
+    apply: "Interested and qualified candidates should send their CV via WhatsApp to 07051092930",
+    deadline: "Not Specified"
+  },
+  {
+    id: "electrical-engineer-maintenance-manager-lekki-2026-07-14",
+    title: "Electrical Engineer(Maintenance manager)",
+    date: "2026-07-14",
+    location: "Lekki Axis, Lagos",
+    type: "Full-time",
+    company: "Hospitality Establishment",
+    salary: "250k-300k",
+    summary: "Urgently needed Electrical Engineer (Maintenance Manager) for a hospitality establishment around Lekki Axis.",
+    responsibilities: [],
+    requirements: ["Residing within the island is an added advantage."],
+    apply: "Kindly send your CV to hrm@wellbornhotels.com or via WhatsApp to 08118236959",
+    deadline: "Not Specified"
+  },
+  {
+    id: "it-support-specialist-lekki-2026-07-14",
+    title: "IT Support Specialist",
+    date: "2026-07-14",
+    location: "Lekki Axis, Lagos",
+    type: "Full-time",
+    company: "Hospitality Establishment",
+    salary: "120k",
+    summary: "Urgently needed IT Support Specialist for a hospitality establishment around Lekki Axis.",
+    responsibilities: [],
+    requirements: ["Residing within the island is an added advantage."],
+    apply: "Kindly send your CV to hrm@wellbornhotels.com or via WhatsApp to 08118236959",
+    deadline: "Not Specified"
+  },
+  {
+    id: "male-hotel-porter-lekki-2026-07-14",
+    title: "Male Hotel Porter",
+    date: "2026-07-14",
+    location: "Lekki Axis, Lagos",
+    type: "Full-time",
+    company: "Hospitality Establishment",
+    gender: "Male",
+    salary: "100k",
+    summary: "Urgently needed Male Hotel Porter for a hospitality establishment around Lekki Axis.",
+    responsibilities: [],
+    requirements: ["Residing within the island is an added advantage."],
+    apply: "Kindly send your CV to hrm@wellbornhotels.com or via WhatsApp to 08118236959",
+    deadline: "Not Specified"
+  },
+  {
+    id: "sales-development-representative-lagos-ibadan-2026-07-14",
+    title: "Sales Development Representative (SDR)",
+    date: "2026-07-14",
+    location: "Lagos & Ibadan",
+    type: "Full Time (On site)",
+    salary: "Base Salary + Performance Pay",
+    summary: "Ambitious, coachable individuals who are eager to build a successful career in real estate sales. We’ll provide the training, you bring the drive.",
+    responsibilities: [
+      "Generate and qualify sales leads",
+      "Follow up with prospective clients and schedule inspections",
+      "Build strong customer relationships",
+      "Promote and sell trusted real estate products",
+      "Meet monthly sales targets"
+    ],
+    requirements: [
+      "OND, HND, or Bachelor’s Degree",
+      "Strong communication and interpersonal skills",
+      "Self motivated and target driven",
+      "Willingness to learn and grow in sales",
+      "Sales experience is an added advantage but not required"
+    ],
+    apply: "Apply here: https://bit.ly/SDRApp",
+    deadline: "Not Specified"
+  },
+  {
+    id: "sales-engineer-lagos-2026-07-14",
+    title: "Sales Engineer",
+    date: "2026-07-14",
+    location: "Lagos",
+    type: "Full-time",
+    salary: "500,000",
+    summary: "A dynamic and technically competent Sales Engineer to promote our plumbing and sanitary product range.",
+    responsibilities: [
+      "Study and interpret architectural and building drawings.",
+      "Prepare quantity take-offs for plumbing pipes and sanitary fittings based on drawings received from consultants, architects, and MEP contractors.",
+      "Visit construction sites and meet with contractors, consultants, and architects to promote the company’s products and brands.",
+      "Develop and maintain strong relationships with existing and prospective clients.",
+      "Identify new business opportunities and generate sales leads.",
+      "Prepare quotations and provide technical product support when required.",
+      "Achieve and exceed the sales targets assigned by the company."
+    ],
+    requirements: [
+      "Bachelor’s Degree in Mechanical Engineering or any related Discipline",
+      "Good knowledge of plumbing and sanitary systems.",
+      "Minimum of 2 years of experience in a Sales Engineer role, preferably within the plumbing, sanitary, or building materials industry."
+    ],
+    apply: "Interested candidates should send their Updated CV to cv@ascentech.com.ng using the title as the Subject of the Mail (Sales Engineer 14)",
+    deadline: "Not Specified"
+  },
+  {
+    id: "technical-drawing-teacher-ibadan-2026-07-14",
+    title: "Technical Drawing Teacher",
+    date: "2026-07-14",
+    location: "Akobo, Ibadan",
+    type: "Full-time",
+    salary: "₦120,000 per month (slightly negotiable)",
+    summary: "A qualified and experienced Technical Drawing Teacher to join our academic team, passionate about teaching and skilled in technical drawing concepts.",
+    responsibilities: [
+      "Teach Technical Drawing in accordance with the approved curriculum.",
+      "Prepare lesson plans, schemes of work, and instructional materials.",
+      "Deliver engaging and practical lessons that promote student understanding.",
+      "Assess, evaluate, and monitor students’ academic progress.",
+      "Prepare students for internal and external examinations.",
+      "Maintain accurate records of students’ attendance, performance, and assessments."
+    ],
+    requirements: [
+      "Bachelor’s degree or NCE in Technical Education, Engineering, Fine Arts, or a related field.",
+      "Minimum of 3 years’ proven experience as a Technical Drawing Teacher.",
+      "Strong knowledge of Technical Drawing principles and relevant curricula.",
+      "Excellent classroom management and communication skills.",
+      "Proficiency in the use of technical drawing instruments. Knowledge of CAD software is an added advantage.",
+      "A valid teaching qualification or registration is an added advantage."
+    ],
+    apply: "Qualified and interested candidates should send their cv to cv@ascentech.com.ng using the title as the subject of the mail(Teacher 14)",
+    deadline: "Not Specified"
+  },
+  {
+    id: "content-creator-manufacturing-lagos-2026-07-14",
+    title: "Content Creator",
+    date: "2026-07-14",
+    location: "Lagos",
+    type: "Full-time",
+    company: "Manufacturing",
+    salary: "100-180k base",
+    gender: "Female",
+    summary: "A creative and engaging Content Creator to present and demonstrate products through live streams and pre-recorded videos.",
+    responsibilities: [
+      "Present, demonstrate, and explain the features and benefits of our products, including food packaging machines, commercial ovens, and water treatment systems, through live streams and pre-recorded videos.",
+      "Host regular live sessions on platforms such as TikTok, Facebook, Instagram, YouTube, and LinkedIn to showcase products, engage viewers, and answer customer questions.",
+      "Work closely with the Marketing team to develop engaging content using provided scripts while contributing creative ideas for storyboards and video concepts.",
+      "Assist in planning and maintaining a content calendar to ensure consistent and relevant content production.",
+      "Stay informed on social media trends and industry developments to keep content fresh, engaging, and competitive.",
+      "Interact with online audiences during and after broadcasts by responding professionally to comments, questions, and enquiries.",
+      "Support video production activities, including shoot preparation, lighting, audio setup, and basic editing where required.",
+      "Collaborate with the Sales team to align content with promotional campaigns, product launches, and customer needs.",
+      "Maintain a professional on-camera presence and consistently represent the brand and values.",
+      "Monitor and report on content performance, audience engagement, and live stream analytics to support continuous improvement."
+    ],
+    requirements: [
+      "Bachelor’s degree in Mass Communication, Marketing, Media Studies, Communications, or a related field is preferred.",
+      "Proven experience as a video presenter, live stream host, TV presenter, content creator, or in a similar role. Experience in manufacturing, industrial equipment, technology, or B2B industries is an added advantage.",
+      "Must have completed the National Youth Service Corps (NYSC).",
+      "Minimum of 1 year of relevant work experience.",
+      "Full-time availability only (remote or part-time applications will not be considered).",
+      "Excellent verbal communication and presentation skills in English. Fluency in Nigerian languages such as Yoruba or Hausa is an added advantage.",
+      "Confident, engaging, and professional on-camera personality with excellent interpersonal skills.",
+      "Good understanding of social media platforms, live streaming tools, and basic video editing software.",
+      "Ability to understand technical products and explain them clearly to diverse audiences.",
+      "Creative thinker with the ability to contribute fresh content ideas and marketing concepts.",
+      "Well-organised, reliable, punctual, and able to work effectively under moderate pressure.",
+      "Professional appearance, positive attitude, and strong commitment to teamwork and customer engagement.",
+      "Female candidates are strongly encouraged to apply."
+    ],
+    apply: "Interested candidates who meet the above requirements can submit their CV and portfolio to hr@jiekopack.com with the subject line: Content Creator – Jieko Machinery.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "sales-representative-manufacturing-lagos-2026-07-14",
+    title: "Sales Representative",
+    date: "2026-07-14",
+    location: "Lagos Nigeria",
+    type: "Full-time",
+    company: "Manufacturing",
+    salary: "100-300k base + Commission",
+    summary: "A proactive and results-driven Sales Representative to promote and market products through online and offline channels.",
+    responsibilities: [
+      "Promote and market the company’s products through both online and offline channels to increase brand visibility and generate leads.",
+      "Respond promptly to customer enquiries, understand customer requirements, and recommend suitable product solutions.",
+      "Identify and pursue new business opportunities through various sales activities.",
+      "Build and maintain strong relationships with new and existing customers.",
+      "Receive and attend to walk-in clients professionally.",
+      "Meet and exceed assigned sales targets while contributing to the company’s overall sales objectives.",
+      "Participate in regular product and sales training to enhance knowledge and performance.",
+      "Work closely with internal teams to ensure excellent after-sales service and customer satisfaction.",
+      "Prepare regular sales reports and provide market feedback to management."
+    ],
+    requirements: [
+      "Bachelor’s degree in Marketing, Business Administration, Sales, or a related field.",
+      "Minimum of 1 year of sales experience is required.",
+      "Must have completed the National Youth Service Corps (NYSC).",
+      "Applicants without relevant work experience will not be considered.",
+      "Age range: 25–35 years.",
+      "Full-time availability only (remote or part-time applications will not be considered).",
+      "Previous experience working with a Chinese company will be an added advantage.",
+      "Excellent communication, negotiation, and interpersonal skills.",
+      "Self-motivated, hardworking, and target-oriented."
+    ],
+    apply: "Interested candidates who meet the above requirements can submit their CV to hr@jiekopack.com with the subject line: Sales Representative – Jieko Machinery.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "private-driver-lagos-2026-07-14",
+    title: "Private Driver",
+    date: "2026-07-14",
+    location: "Lagos",
+    type: "Full-time",
+    salary: "120K (probation), 130K (post-probation)",
+    summary: "A private driver needed for a 30-day/month work schedule with accommodation provided.",
+    responsibilities: [],
+    requirements: [
+      "Driver License, NIN, recommendation letter from former boss or Lagos Neighbourhood Safety Agency(local government)"
+    ],
+    apply: "Interested candidates should reach out to me via WhatsApp: +2349117118113",
+    deadline: "Not Specified"
+  },
+  {
+    id: "sales-executive-tyres-batteries-lubricants-kano-2026-07-14",
+    title: "Sales Executive – Tyres, Batteries & Lubricants",
+    date: "2026-07-14",
+    location: "Kano",
+    type: "Full-time",
+    salary: "Negotiable + Performance Incentives + Field Allowance",
+    summary: "An experienced Sales Executive with a proven background in selling tyres, batteries, or automotive lubricants to drive sales through dealer and corporate channels.",
+    responsibilities: [],
+    requirements: [
+      "2–5+ years of sales experience in tyres, batteries, or lubricants (mandatory).",
+      "Experience managing dealer/distributor and/or corporate accounts.",
+      "Strong business development and negotiation skills.",
+      "Good knowledge of the Kano market and surrounding region.",
+      "Ability to meet sales targets and travel within the territory."
+    ],
+    apply: "Qualified candidates should send in their CVs to cv@ascentech.com.ng using (KANO 17) as the subject of the email.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "investment-sales-representative-remote-2026-07-14",
+    title: "Investment Sales Representative",
+    date: "2026-07-14",
+    location: "Remote",
+    type: "Full-time",
+    company: "DAT INVESTORS",
+    salary: "Not Specified",
+    summary: "Experienced and motivated Investment Sales Representatives to join a growing global team.",
+    responsibilities: [],
+    requirements: [
+      "HND or Bachelor’s Degree.",
+      "2 to 3 years of sales or business development experience in Banking, FinTech, Investment, Insurance, or related industries.",
+      "Strong communication and relationship management skills."
+    ],
+    apply: "https://forms.gle/JEv9WcGzzePacvKf9",
+    deadline: "Not Specified"
+  },
+  {
+    id: "hr-intern-ppa-placement-lagos-2026-07-14",
+    title: "HR Intern (PPA Placement)",
+    date: "2026-07-14",
+    location: "Abesan Estate, Ipaja, Alimosho LGA, Lagos",
+    type: "Internship",
+    company: "Adaratan Creative Haus",
+    salary: "Not Specified",
+    summary: "A motivated and organized individual for the position of HR Intern.",
+    responsibilities: [
+      "Support recruitment and onboarding processes.",
+      "Assist with HR documentation and record management.",
+      "Contribute to employee engagement and people operations.",
+      "Support the development of internal HR processes."
+    ],
+    requirements: [
+      "Strong communication and organizational skills.",
+      "Proficiency in Microsoft Office tools.",
+      "Willingness to learn and grow in Human Resources."
+    ],
+    apply: "Send your application or contact 07080180668/08161204196 for further details.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "assistant-store-manager-sango-ota-2026-07-14",
+    title: "Assistant Store Manager",
+    date: "2026-07-14",
+    location: "Veepee, Sango-Ota, Ogun State",
+    type: "Full-time",
+    company: "Lovleen Ventures Limited",
+    salary: "₦80,000+ (Negotiable)",
+    summary: "An Assistant Store Manager to manage and maintain accurate inventory records, track goods using ERP system and Excel, and coordinate with the production team.",
+    responsibilities: [
+      "Manage and maintain accurate inventory records.",
+      "Track goods using the ERP system, Microsoft Excel, and physical stock verification.",
+      "Work closely with the production team to reconcile inventory and identify discrepancies or errors.",
+      "Coordinate the proper arrangement, storage, and packaging of goods.",
+      "Maintain accurate records and prepare inventory reports using Microsoft Excel.",
+      "Ensure proper filing and organization of store and inventory documents.",
+      "Support the efficient day-to-day operations of the store."
+    ],
+    requirements: [
+      "Proven knowledge of inventory and stock management.",
+      "Proficiency in Microsoft Excel.",
+      "Experience using an ERP system for inventory tracking is an added advantage.",
+      "Strong attention to detail with the ability to detect and resolve inventory discrepancies.",
+      "Good organizational, communication, and record-keeping skills.",
+      "Ability to work effectively with production and warehouse teams."
+    ],
+    apply: "Interested applicants should submit their CV +234 705 356 8937",
+    deadline: "Not Specified"
+  },
+  {
+    id: "data-entry-officer-ikorodu-2026-07-14",
+    title: "Data Entry Officer",
+    date: "2026-07-14",
+    location: "Ibeshe, Ikorodu, Lagos",
+    type: "Full-time",
+    salary: "₦70,000/month",
+    summary: "A Data Entry Officer with computer literacy and attention to detail.",
+    responsibilities: [],
+    requirements: [
+      "Minimum of SSCE",
+      "Computer literacy (experience is an added advantage)",
+      "Attention to detail and willingness to learn"
+    ],
+    apply: "Interested candidates should send their CV to 08062305170 or operations@4psolutionsng.com with “Data Entry Officer“ as the subject or message.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "front-desk-officer-nysc-ikeja-2026-07-14",
+    title: "Front Desk Officer (Female – NYSC Member)",
+    date: "2026-07-14",
+    location: "Ikeja, Lagos (Hybrid)",
+    type: "Hybrid",
+    gender: "Female",
+    salary: "Not Specified",
+    summary: "A smart, professional, and customer-focused Female Front Desk Officer to join our team.",
+    responsibilities: [
+      "Receive and attend to visitors in a professional manner.",
+      "Handle incoming calls, emails, and general enquiries.",
+      "Manage appointments and meeting schedules.",
+      "Maintain the reception area and ensure a positive visitor experience.",
+      "Provide administrative support to the team.",
+      "Perform other duties as assigned."
+    ],
+    requirements: [
+      "Female currently serving under the National Youth Service Corps (NYSC).",
+      "Excellent verbal and written communication skills.",
+      "Professional appearance and a welcoming personality.",
+      "Strong organizational and multitasking skills.",
+      "Proficient in Microsoft Office and Google Workspace.",
+      "Eager to learn, proactive, and able to work with minimal supervision."
+    ],
+    apply: "Interested and qualified candidates should send their CV to withoutaboxhr@gmail.com with the subject line ”Front Desk Officer (NYSC) Application.”",
+    deadline: "Not Specified"
+  },
+  {
+    id: "area-manager-lagos-ogun-2026-07-14",
+    title: "Area Manager",
+    date: "2026-07-14",
+    location: "Lagos & Ogun State",
+    type: "Full-time",
+    salary: "₦200,000 – ₦250,000 Monthly",
+    summary: "Experienced professionals to oversee multiple branches and drive operational excellence.",
+    responsibilities: [
+      "Supervise Branch Managers across assigned locations.",
+      "Drive business growth and ensure branches meet performance targets.",
+      "Monitor branch operations, compliance, and loan portfolio quality.",
+      "Coach and mentor Branch Managers to improve performance etc."
+    ],
+    requirements: [
+      "Bachelor’s Degree in any discipline.",
+      "Proven experience managing multiple teams or branches.",
+      "Strong leadership, business development, and problem-solving skills.",
+      "Financial services or microfinance is a MUST etc"
+    ],
+    apply: "To Apply Send CV to: 08118157245",
+    deadline: "Not Specified"
+  },
+  {
+    id: "loan-officer-lagos-2026-07-14",
+    title: "Loan Officer",
+    date: "2026-07-14",
+    location: "Lagos, Nigeria",
+    type: "On-site",
+    salary: "₦100,000 Monthly",
+    summary: "A leading financial institution is recruiting passionate, disciplined, and target-driven Loan Officers.",
+    responsibilities: [
+      "Identify and onboard new loan customers.",
+      "Market the institution’s loan products within assigned communities.",
+      "Conduct customer verification and business assessments.",
+      "Monitor loan repayments and follow up on delinquent accounts.",
+      "Build and maintain strong customer relationships."
+    ],
+    requirements: [
+      "OND, HND, or B.Sc.",
+      "Good communication and negotiation skills.",
+      "Sales, marketing, or customer service experience is an advantage.",
+      "Must be willing to work in the field."
+    ],
+    apply: "Email: veraveracity24@gmail.com",
+    deadline: "Not Specified"
+  },
+  {
+    id: "internal-auditor-lagos-2026-07-14",
+    title: "Internal Auditor",
+    date: "2026-07-14",
+    location: "Lagos, Nigeria",
+    type: "On-site",
+    salary: "₦120,000 Monthly",
+    summary: "A detail-oriented and highly ethical Internal Auditor to strengthen operational compliance.",
+    responsibilities: [
+      "Conduct routine audits of branch operations.",
+      "Ensure compliance with company policies and procedures.",
+      "Investigate operational discrepancies and report findings.",
+      "Prepare audit reports and recommend corrective actions.",
+      "Monitor adherence to internal control processes."
+    ],
+    requirements: [
+      "HND/B.Sc. in Accounting, Finance, or a related discipline.",
+      "Strong analytical and reporting skills.",
+      "High level of integrity and professionalism.",
+      "Previous audit experience is an added advantage."
+    ],
+    apply: "Email: veraveracity24@gmail.com",
+    deadline: "Not Specified"
+  },
+  {
+    id: "branch-manager-lagos-2026-07-14",
+    title: "Branch Manager",
+    date: "2026-07-14",
+    location: "Lagos, Nigeria",
+    type: "On-site",
+    salary: "₦150,000 Monthly",
+    summary: "Experienced Branch Managers to lead branch operations and drive business growth.",
+    responsibilities: [
+      "Supervise and coach Loan Officers.",
+      "Drive customer acquisition and loan portfolio growth.",
+      "Monitor branch performance and ensure target achievement.",
+      "Oversee loan recovery and portfolio quality.",
+      "Prepare branch reports and ensure operational compliance."
+    ],
+    requirements: [
+      "HND/B.Sc. in any discipline.",
+      "Leadership or supervisory experience.",
+      "Strong business development and people management skills.",
+      "Experience in financial services is an advantage.",
+      "Only serious candidates who are willing to work should apply."
+    ],
+    apply: "Email: veraveracity24@gmail.com",
+    deadline: "Not Specified"
+  },
+  {
+    id: "area-manager-lagos-2026-07-14",
+    title: "Area Manager",
+    date: "2026-07-14",
+    location: "Lagos, Nigeria",
+    type: "On-site",
+    salary: "₦200,000 – ₦250,000 Monthly",
+    summary: "Experienced professionals to oversee multiple branches and drive operational excellence.",
+    responsibilities: [
+      "Supervise Branch Managers across assigned locations.",
+      "Drive business growth and ensure branches meet performance targets.",
+      "Monitor branch operations, compliance, and loan portfolio quality.",
+      "Coach and mentor Branch Managers to improve performance.",
+      "Prepare performance reports and implement improvement strategies."
+    ],
+    requirements: [
+      "Bachelor’s Degree in any discipline.",
+      "Proven experience managing multiple teams or branches.",
+      "Strong leadership, business development, and problem-solving skills.",
+      "Financial services or microfinance experience is an advantage.",
+      "Only serious candidates who are willing to work should apply."
+    ],
+    apply: "Email: veraveracity24@gmail.com",
+    deadline: "Not Specified"
+  },
+  {
+    id: "administrative-assistant-ketu-magodo-2026-07-14",
+    title: "Administrative Assistant",
+    date: "2026-07-14",
+    location: "Ketu Magodo, Lagos",
+    type: "Full-Time",
+    company: "Real Estate, Properties & Surveying",
+    salary: "₦150,000",
+    gender: "Male",
+    summary: "A proactive, organized, and detail-oriented Administrative Assistant to support daily office operations and ensure efficient administrative processes.",
+    responsibilities: [
+      "Provide administrative support to management and other departments.",
+      "Manage office correspondence, including emails, phone calls, and official documents.",
+      "Prepare, organize, and maintain accurate office records and filing systems.",
+      "Liaise with government agencies, particularly the Lagos State Lands Bureau and relevant Ministries, Departments, and Agencies (MDAs), to facilitate documentation, approvals, and other official processes.",
+      "Follow up on land-related documentation and administrative processes with the appropriate government offices.",
+      "Ensure timely processing and proper documentation of administrative tasks.",
+      "Perform other administrative duties as assigned."
+    ],
+    requirements: [
+      "Bachelor’s degree or HND in Business Administration, Office Management, or a related field.",
+      "Minimum of 1–2 years of experience in an administrative or office support role.",
+      "Proficiency in Microsoft Office Suite (Word, Excel, PowerPoint).",
+      "Excellent written and verbal communication skills.",
+      "Organized and detail-oriented.",
+      "Proactive with strong initiative.",
+      "Excellent communication and interpersonal skills.",
+      "Good time management and multitasking abilities.",
+      "Professional, discreet, and able to work independently or as part of a team."
+    ],
+    apply: "Send your CV to hrwhitesolutionlimited@gmail.com with the subject line; Administrative Assistant",
+    deadline: "Not Specified"
+  },
   {
     id: "it-support-specialist-lekki-2026-07-11",
     title: "IT Support Specialist",

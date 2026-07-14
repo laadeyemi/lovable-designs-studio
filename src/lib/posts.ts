@@ -10,6 +10,117 @@ export type Post = {
 
 const allPosts: Post[] = [
   {
+    id: "funaab-inter-university-transfer-2026-2027",
+    title: "FUNAAB Opens Inter-University Transfer Applications for 2026/2027 Academic Session",
+    category: "Education",
+    date: "2026-07-14",
+    excerpt: "The Federal University of Agriculture, Abeokuta (FUNAAB) has announced the commencement of its inter-university transfer application for the 2026/2027 academic session.",
+    content: `<h2>FUNAAB Opens Inter-University Transfer Applications for 2026/2027 Academic Session</h2>
+<p>The Federal University of Agriculture, Abeokuta (FUNAAB) has announced the commencement of its inter-university transfer application for the 2026/2027 academic session.</p>
+<p>The transfer exercise offers qualified students currently studying in recognised Nigerian universities the opportunity to continue their academic programmes at FUNAAB, provided they meet the university's admission requirements.</p>
+<p>According to the university, the application process will begin on <strong>Monday, 13 July 2026</strong>. Interested applicants are expected to complete the online application, print the completed form, and submit it to the appropriate university office before the exercise closes.</p>
+
+<h3>Eligibility Requirements</h3>
+<p>Only students who satisfy the university's transfer conditions will be considered for admission.</p>
+<p>To qualify, applicants must:</p>
+<ul>
+  <li>Be currently enrolled in a recognised university in Nigeria.</li>
+  <li>Have gained admission into their current university through the <strong>Joint Admissions and Matriculation Board (JAMB)</strong>.</li>
+  <li>Meet the minimum cumulative grade point average (CGPA) required for their intended programme.</li>
+  <li>Complete all application procedures as specified by the university.</li>
+</ul>
+<p>Applicants are advised to confirm their eligibility before making any payment, as the application fee is non-refundable.</p>
+
+<h3>Minimum CGPA Requirements</h3>
+<p>FUNAAB has specified different CGPA requirements depending on the programme a candidate intends to transfer into.</p>
+<table class="w-full border-collapse border border-gray-300 my-4 text-sm">
+  <thead>
+    <tr class="bg-gray-100 text-left">
+      <th class="border border-gray-300 p-2">Programme Category</th>
+      <th class="border border-gray-300 p-2 text-right">Minimum CGPA (5.00 Scale)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td class="border border-gray-300 p-2">Agricultural Programmes</td><td class="border border-gray-300 p-2 text-right">3.00</td></tr>
+    <tr><td class="border border-gray-300 p-2">Engineering Programmes</td><td class="border border-gray-300 p-2 text-right">3.50</td></tr>
+    <tr><td class="border border-gray-300 p-2">Science Programmes</td><td class="border border-gray-300 p-2 text-right">3.50</td></tr>
+  </tbody>
+</table>
+<p>The required CGPA must have been attained as of the <strong>second semester of the current academic session</strong>.</p>
+
+<h3>Application Fee</h3>
+<p>The inter-university transfer application fee is <strong>₦50,000</strong>. The fee covers <strong>REMITA</strong> processing charges and is <strong>non-refundable</strong>.</p>
+
+<h3>Application Procedure</h3>
+<p>Eligible candidates should complete their application by following these steps:</p>
+<ol>
+  <li>Visit the <a href="https://admission.funaab.edu.ng/" target="_blank" rel="noopener noreferrer">FUNAAB Admissions Portal</a>.</li>
+  <li>Read the inter-university transfer guidelines carefully.</li>
+  <li>Log in using the <strong>JAMB registration number</strong> stated on the original JAMB Admission Letter.</li>
+  <li>Complete the online application form with the required information.</li>
+  <li>Print the completed application form.</li>
+  <li>Submit the printed copy to the <strong>Senate and Admissions Unit</strong> of FUNAAB.</li>
+</ol>
+<p>For more admission news from FUNAAB, you might find this post helpful: <a href="/blog/funaab-post-utme-direct-entry-form-2026-2027">FUNAAB Post-UTME/Direct Entry Form 2026/2027: Eligibility, Requirements and Application Guide</a>.</p>`,
+    tags: ["FUNAAB", "Transfer", "Admission", "2026/2027", "Education", "Nigeria"],
+  },
+  {
+    id: "fg-approves-50000-waec-neco-registration-fee-2027",
+    title: "Federal Government Approves ₦50,000 WAEC and NECO Registration Fee for School Candidates From 2027",
+    category: "Education",
+    date: "2026-07-14",
+    excerpt: "The Federal Government has approved a new uniform registration fee of ₦50,000 for the West African Senior School Certificate Examination (WAEC) and the National Examinations Council (NECO) Senior Secondary School Certificate Examination (SSCE) for school candidates, beginning with the 2027 examination cycle.",
+    content: `<h2>Federal Government Approves ₦50,000 WAEC and NECO Registration Fee for School Candidates From 2027</h2>
+<p>The Federal Government has approved a new <strong>uniform registration fee of ₦50,000</strong> for the West African Senior School Certificate Examination (WAEC) and the National Examinations Council (NECO) Senior Secondary School Certificate Examination (SSCE) for school candidates, beginning with the <strong>2027 examination cycle</strong>. [1, 2, 6, 7]</p>
+<p>The approval means that both examination bodies will charge the same registration fee for internal candidates completing their secondary school education. [6]</p>
+<p>Before the new approval, the WAEC registration fee stood at <strong>₦27,000</strong>, while NECO charged <strong>₦30,000</strong> for its SSCE Internal Examination. [11, 10]</p>
+
+<h3>New WAEC and NECO Registration Fees</h3>
+<p>The approved fee review introduces a uniform registration fee for both examination bodies from 2027. [6]</p>
+
+<table class="w-full border-collapse border border-gray-300 my-4 text-sm">
+  <thead>
+    <tr class="bg-gray-100 text-left">
+      <th class="border border-gray-300 p-2">Examination Body</th>
+      <th class="border border-gray-300 p-2 text-right">Current Fee</th>
+      <th class="border border-gray-300 p-2 text-right">Approved Fee From 2027</th>
+      <th class="border border-gray-300 p-2">Candidate Category</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td class="border border-gray-300 p-2">WAEC</td><td class="border border-gray-300 p-2 text-right">₦27,000</td><td class="border border-gray-300 p-2 text-right">₦50,000</td><td class="border border-gray-300 p-2">School Candidates</td></tr>
+    <tr><td class="border border-gray-300 p-2">NECO</td><td class="border border-gray-300 p-2 text-right">₦30,000</td><td class="border border-gray-300 p-2 text-right">₦50,000</td><td class="border border-gray-300 p-2">SSCE Internal Candidates</td></tr>
+  </tbody>
+</table>
+
+<p>The adjustment represents an increase of <strong>₦23,000</strong> for WAEC candidates and <strong>₦20,000</strong> for NECO candidates.</p>
+
+<h3>Federal Government's Approval</h3>
+<p>The approval was conveyed in an official memo dated <strong>18 June 2026</strong> issued by the Federal Ministry of Education. [4, 5, 6]</p>
+<p>The memo was signed by <strong>Mr. Adeniji Ibrahim</strong>, Director of Senior Secondary Education, on behalf of the Minister of Education. [1, 4, 6] According to reports, the document was addressed to the Registrar of NECO and directed the examination body to inform all relevant stakeholders of the new policy. [6]</p>
+
+<h3>Why the Registration Fee Was Increased</h3>
+<p>The decision followed a request by WAEC for an upward review of the registration fee for its Senior School Certificate Examination beginning in 2027. [1, 6]</p>
+<p>According to the approval process:</p>
+<ul>
+  <li>WAEC formally requested a review of its examination fee. [1, 6]</li>
+  <li>Officials of WAEC and NECO met with the Minister of Education on <strong>31 March 2026</strong>. [1, 7]</li>
+  <li>During the meeting, the rising cost of conducting the examinations was considered. [1]</li>
+  <li>The Minister directed both examination bodies to adopt a uniform registration fee. [6, 8]</li>
+  <li>The Ministry subsequently approved <strong>₦50,000</strong> as the standard fee for WAEC school candidates and NECO SSCE Internal candidates from 2027. [1, 2, 6, 7]</li>
+</ul>
+
+<h3>Implementation Begins in 2027</h3>
+<p>The new registration fee will not affect candidates writing the 2026 examinations. [4, 5, 7, 8]</p>
+<p>According to the approval, the revised fee takes effect from the <strong>2027 examination cycle</strong>. [1, 2, 6, 7]</p>
+
+<h3>Possible Impact on Parents and State Governments</h3>
+<p>The increase is expected to have financial implications for both parents and state governments that sponsor candidates for the Senior Secondary Certificate Examination. [3] Several state governments currently pay WAEC or NECO registration fees for eligible public secondary school students. With the new uniform fee of ₦50,000, the amount required to fund these registrations will increase significantly. [2] Parents in states where examination fees are not fully covered by the government may also experience a higher financial burden, particularly households responsible for paying the entire registration cost. [3]</p>
+
+<p>For more examination news, you might find this post helpful: <a href="/blog/neco-2026-ssce-internal-registration-deadline">NECO Announces 2026 SSCE Internal Registration Deadline for Schools</a>.</p>`,
+    tags: ["WAEC", "NECO", "Registration Fee", "Education", "Nigeria", "2027"],
+  },
+  {
     id: "unijos-postgraduate-admission-2026-2027",
     title: "UNIJOS Begins Postgraduate Admission for 2026/2027 Academic Session",
     category: "Education",

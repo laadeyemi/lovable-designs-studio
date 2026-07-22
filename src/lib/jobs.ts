@@ -50,6 +50,193 @@ const currentDate = '2026-07-14'; // Current date for comparison (July 14, 2026)
 
 const allJobs: Job[] = [
   {
+    id: "head-of-category-ikeja-2026-07-21",
+    title: "Head of Category",
+    date: "2026-07-21",
+    location: "Ikeja, Lagos",
+    type: "Full-time (On-site)",
+    company: "Leading Nigerian fashion brand",
+    salary: "1,000,000 to 1,200,000",
+    summary: "Our client, a leading Nigerian fashion brand with over 25 years of excellence and 11 retail stores nationwide, is seeking a Head of Category to drive commercial growth, profitability, and category performance.",
+    responsibilities: [
+      "Develop and execute commercial strategies",
+      "Drive sales growth and campaign execution",
+      "Manage budgets, forecasts, and pricing",
+      "Monitor category performance and KPIs",
+      "Oversee inventory and supplier relationships",
+      "Lead cross-functional teams",
+      "Conduct market and competitor analysis"
+    ],
+    requirements: [
+      "Bachelor’s degree in Business Administration, Economics or a related field.",
+      "Minimum of 7 years of experience in a commercial management role, preferably in the fashion retail industry, FMCG, e-commerce",
+      "Strong understanding of sales and marketing principles, pricing strategies, and revenue management.",
+      "Excellent leadership and team management skills.",
+      "Proven track record in driving business growth and increasing profitability.",
+      "Strong negotiation, communication, and interpersonal skills.",
+      "Analytical mindset with strong technical skills in Excel. Knowledge in SQL or other programming languages is a strong plus",
+      "Strong project management and collaboration skills"
+    ],
+    apply: "Send CV to: bradfieldforms@gmail.com with the title ‘’Head of Category” as the subject of the email.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "business-development-manager-abuja-2026-07-21",
+    title: "Business Development Manager",
+    date: "2026-07-21",
+    location: "Abuja",
+    type: "Full-time (On-site)",
+    company: "Leading Nigerian fashion brand",
+    salary: "500,000 to 700,000",
+    summary: "We are looking for a Business Development Manager that will develop and implement business strategies in the region that drive business growth, maximise revenue, and ensure profitability. This role is ideal for a strategic thinker who is passionate about growing a brand in the premium children’s fashion space and is eager to make an impact in a fast-paced, high-end market.",
+    responsibilities: [
+      "Strategic Partnerships: Identify, initiate, and manage strategic partnerships with premium organizations including schools, entertainment and. Activity centers, social clubs and other net worth communities",
+      "Sales Growth: Oversee the sales team to meet and exceed revenue targets. Analyze sales data to identify trends and opportunities for growth.",
+      "Brand Development: Work closely with the marketing team to strengthen brand positioning and awareness through targeted campaigns, events, and collaborations with influencers and celebrities.",
+      "Retail & Wholesale Expansion: Build and manage relationships with retail and wholesale partners, ensuring consistent product availability and superior brand representation.",
+      "Customer Insights: Conduct regular market research to understand customer needs, competitor activity, and industry trends. Leverage insights to adjust strategies and capitalize on market shifts.",
+      "Budget Management: Develop and manage budgets for business development initiatives, ensuring efficient allocation of resources.",
+      "Team Leadership: Lead and mentor a team of super sales force, providing guidance and fostering a culture of innovation and success."
+    ],
+    requirements: [
+      "Bachelor’s degree in business, Marketing, or a related field",
+      "5+ years of experience in business development, sales, or related roles, preferably in premium/luxury retail, fashion, or children’s apparel.",
+      "Proven track record of successfully expanding business in competitive markets.",
+      "Strong understanding of the premium/luxury retail landscape and consumer behavior in children’s fashion sector.",
+      "Exceptional negotiation, communication, and relationship-building skills.",
+      "Experience working with both B2B and B2C channels.",
+      "Proficiency in market analysis and financial forecasting.",
+      "Ability to travel domestically may be required."
+    ],
+    apply: "Kindly send CV to bradfieldforms@gmail.com with the title: “Business Development Manager” as subject of this email.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "digital-marketing-growth-strategy-specialist-remote-2026-07-21",
+    title: "Digital Marketing & Growth Strategy Specialist",
+    date: "2026-07-21",
+    location: "Remote",
+    type: "Full Time",
+    company: "DAT INVESTORS",
+    salary: "USD 250 to USD 300 per month",
+    summary: "DAT INVESTORS is looking for an experienced Digital Marketing & Growth Strategy Specialist to help grow our global brand and drive investor acquisition.",
+    responsibilities: [],
+    requirements: [
+      "3 to 5 years of relevant experience.",
+      "Background in FinTech, Investment Management, Wealth Management, Digital Assets, Web3, or Financial Services.",
+      "Strong skills in SEO, CRM, customer acquisition, and digital marketing."
+    ],
+    apply: "https://forms.gle/xJq1tDCFdughWu5QA",
+    deadline: "Not Specified"
+  },
+  {
+    id: "sales-and-marketing-specialists-surulere-2026-07-21",
+    title: "Sales and Marketing Specialists",
+    date: "2026-07-21",
+    location: "Iganmu Surulere, Lagos",
+    type: "Full-time",
+    company: "Leadway Group Affiliate",
+    salary: "Not Specified",
+    summary: "A non-banking financial institution is seeking Sales and Marketing Specialists to generate leads, meet sales goals, and maintain client records.",
+    responsibilities: [
+      "Generating leads.",
+      "Meeting or exceeding sales goals",
+      "Negotiating all contracts with prospective clients",
+      "Preparing weekly and monthly reports",
+      "Giving sales presentations to a range of prospective clients",
+      "Visiting clients and potential clients to evaluate needs or promote products and services",
+      "Maintaining client records"
+    ],
+    requirements: [
+      "Bachelor’s Degree",
+      "A commitment to excellent customer service",
+      "Excellent written and verbal communication skills",
+      "Ability to quickly build rapport with prospective clients."
+    ],
+    apply: "Interested candidates should send their CV to: i-irore@leadway-group.com",
+    deadline: "Not Specified"
+  },
+  {
+    id: "corporate-marketing-executive-lagos-2026-07-21",
+    title: "Corporate Marketing Executive",
+    date: "2026-07-21",
+    location: "Lagos",
+    type: "Full time",
+    company: "Travel and Tourism Agency",
+    salary: "N300,000 net pay plus other benefits",
+    summary: "Drive business growth by identifying, pitching, and securing corporate accounts for travel, accommodation, and event management services.",
+    responsibilities: [
+      "Lead Generation: Proactively prospect for new corporate clients through cold calling, networking, and industry events.",
+      "Account Management: Maintain and grow relationships with existing corporate accounts, serving as their primary point of contact for travel needs.",
+      "Proposal & Pitching: Prepare and deliver tailored corporate travel proposals, presentations, and rate negotiations.",
+      "Target Achievement: Consistently meet or exceed monthly, quarterly, and annual sales quotas and KPIs.",
+      "Cross-functional Collaboration: Work closely with the operations, ticketing, and product development teams to ensure seamless delivery of travel packages.",
+      "Market Analysis: Monitor competitor activities, market trends, and corporate travel requirements to adjust sales strategies."
+    ],
+    requirements: [
+      "Education: Bachelor’s degree/HND in Business Administration, Marketing, Tourism, or a related field.",
+      "Professional Experience: 4 years and above of proven B2B sales experience, specifically in corporate travel, hospitality, or destination management.",
+      "Industry Knowledge: Strong understanding of corporate travel management, airline booking systems (GDS), and hotel contracting.",
+      "Soft Skills: Exceptional negotiation, communication, and relationship-building abilities."
+    ],
+    apply: "To apply, only qualified, experienced and interested applicants should send their CVs to preferredtalents@gmail.com with the subject titled CM Executive.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "product-manager-fintech-2026-07-21",
+    title: "Product Manager",
+    date: "2026-07-21",
+    location: "Not Specified",
+    type: "Not Specified",
+    company: "Fintech/Digital Banking",
+    salary: "Not Specified",
+    summary: "We are hiring a Product Manager to manage our core products, own the roadmaps for our apps, and turn field insights into product decisions.",
+    responsibilities: [
+      "Own the roadmaps for our apps.",
+      "Turn field insights into product decisions.",
+      "Analyse funnels, find where customers drop off, and decide what gets built next."
+    ],
+    requirements: [
+      "3-5 years in product management, ideally fintech or digital banking.",
+      "Fluency in product analytics (PostHog, Firebase, Google Analytics, Mixpanel or Amplitude).",
+      "Experimental with AI. You use AI tools daily in your own work, whether for research, prototyping, analysis or writing, and you have opinions about where AI belongs in a product.",
+      "Evidence of shipping."
+    ],
+    apply: "https://lnkd.in/eRn3ACVK",
+    deadline: "Not Specified"
+  },
+  {
+    id: "internal-auditor-manufacturing-lagos-2026-07-21",
+    title: "Internal Auditor (Manufacturing)",
+    date: "2026-07-21",
+    location: "Lagos",
+    type: "Full-time",
+    company: "Manufacturing Company",
+    salary: "Open",
+    summary: "The Internal Auditor provides independent and objective assurance to improve the organization’s operations by evaluating the effectiveness of internal controls, risk management, and governance processes.",
+    responsibilities: [
+      "Develop and execute risk-based audit plans.",
+      "Evaluate internal controls across procurement, production, inventory, sales, payroll, and finance.",
+      "Conduct routine, surprise, and special audits.",
+      "Verify inventory, production records, raw material usage, and operational data.",
+      "Ensure compliance with company policies, statutory regulations, and quality standards (ISO 9001).",
+      "Investigate fraud and control breaches; recommend Corrective actions.",
+      "Prepare audit reports and monitor implementation of recommendations.",
+      "Identify process improvement opportunities to enhance efficiency and reduce risk."
+    ],
+    requirements: [
+      "HND/Bachelor’s Degree in Accounting, Finance, or related field.",
+      "Professional certification (CIA, ACA, or ACCA) required.",
+      "Minimum of 5 years internal audit experience, preferably in a manufacturing or FMCG environment.",
+      "Strong knowledge of internal auditing, risk management, and manufacturing operations.",
+      "Analytical, problem-solving, and report-writing skills.",
+      "Proficiency in MS Excel, ERP systems, and audit software.",
+      "High integrity, attention to detail, and effective communication skills."
+    ],
+    apply: "Interested and qualified candidates should send their updated CV to cv@ascentech.com.ng using “ Internal Auditor 14” as the subject line of the email",
+    deadline: "Not Specified"
+  },
+  {
     id: "head-of-category-ikeja-2026-07-20",
     title: "Head of Category",
     date: "2026-07-20",

@@ -10,6 +10,377 @@ export type Post = {
 
 const allPosts: Post[] = [
   {
+    id: "imsu-post-utme-direct-entry-screening-timetable-2026-2027",
+    title: "IMSU Releases 2026/2027 Post-UTME and Direct Entry Screening Timetable",
+    category: "Education",
+    date: "2026-07-23",
+    excerpt: "Imo State University (IMSU) has released the official timetable for its 2026/2027 Post-UTME and Direct Entry screening exercise, scheduled to run from Thursday, 23 July 2026, to Tuesday, 28 July 2026.",
+    content: `<h2>IMSU Releases 2026/2027 Post-UTME and Direct Entry Screening Timetable</h2>
+<p>Imo State University (IMSU) has released the official timetable for its 2026/2027 Post-UTME and Direct Entry screening exercise.</p>
+<p>According to the university, the screening will commence on <strong>Thursday, 23 July 2026</strong>, and end on <strong>Tuesday, 28 July 2026</strong>.</p>
+<p>Candidates are expected to attend the screening on the exact date and time stated on their <strong>reprinted screening slip</strong>. The screening schedule has been arranged according to faculties and departments, while the examination subjects vary depending on the course of study.</p>
+<p>Below is the full screening timetable.</p>
+
+<h3>Day One – Thursday, 23 July 2026</h3>
+<h4>Faculty of Humanities</h4>
+<p>The following departments will be screened:</p>
+<ul><li>English and Literary Studies</li><li>Fine and Applied Arts</li><li>French</li><li>History and International Studies</li><li>Linguistics</li><li>Linguistics/Igbo</li><li>Philosophy</li><li>Religious Studies</li><li>Theatre Arts</li></ul>
+<p><strong>Screening Subjects:</strong> English, Government, Christian Religious Knowledge (CRK), Literature in English</p>
+
+<h4>Faculty of Health Sciences</h4>
+<p>Departments:</p>
+<ul><li>Medical Laboratory Science</li><li>Nutrition and Dietetics</li><li>Optometry</li><li>Public Health</li></ul>
+<p><strong>Screening Subjects:</strong> English, Chemistry, Physics, Biology</p>
+
+<h4>Faculty of Basic Medical Sciences</h4>
+<p>Departments:</p>
+<ul><li>Human Anatomy</li><li>Physiology</li></ul>
+<p><strong>Screening Subjects:</strong> English, Chemistry, Physics, Biology</p>
+
+<h3>Day Two – Friday, 24 July 2026</h3>
+<h4>Faculty of Social Sciences</h4>
+<p>Departments:</p>
+<ul><li>Economics</li><li>Political Science</li><li>Psychology</li><li>Public Administration</li><li>Sociology</li><li>Criminology and Security Studies</li><li>Library and Information Science</li></ul>
+<p><strong>Screening Subjects:</strong> English, Government, Christian Religious Knowledge (CRK), Literature in English</p>
+
+<h4>Faculty of Communication and Media Studies</h4>
+<p>Departments:</p>
+<ul><li>Advertising</li><li>Broadcasting</li><li>Development Communication Studies</li><li>Film and Multimedia Studies</li><li>Journalism</li><li>Mass Communication</li><li>Public Relations</li></ul>
+<p><strong>Screening Subjects:</strong> English, Government, Christian Religious Knowledge (CRK), Literature in English</p>
+
+<h4>Faculty of Education</h4>
+<p>Departments:</p>
+<ul><li>Education and Religious Studies</li><li>Education and English</li><li>Education and French</li><li>Education and Government</li><li>Education and Fine Arts</li><li>Guidance and Counselling</li><li>Home Economics and Education</li><li>Education/Psychology, Guidance and Counselling</li></ul>
+<p><strong>Screening Subjects:</strong> English, Government, Christian Religious Knowledge (CRK), Literature in English</p>
+
+<h4>Faculty of Environmental Sciences</h4>
+<p>Departments:</p>
+<ul><li>Architecture</li><li>Building</li><li>Estate Management</li><li>Quantity Surveying</li><li>Surveying and Geoinformatics</li><li>Urban and Regional Planning</li><li>Geography and Environmental Management</li></ul>
+<p><strong>Screening Subjects:</strong> English, Chemistry, Physics, Mathematics</p>
+
+<h4>Faculty of Engineering</h4>
+<p>Departments:</p>
+<ul><li>Agricultural Engineering</li><li>Chemical Engineering</li><li>Civil Engineering</li><li>Electrical and Electronic Engineering</li><li>Mechanical Engineering</li><li>Petroleum and Gas Engineering</li></ul>
+<p><strong>Screening Subjects:</strong> English, Chemistry, Physics, Mathematics</p>
+
+<h3>Day Three – Saturday, 25 July 2026</h3>
+<h4>Faculty of Agriculture and Veterinary Medicine</h4>
+<p>Departments:</p>
+<ul><li>Agriculture</li><li>Animal Science and Fisheries</li><li>Crop Science and Biotechnology</li><li>Food Science and Technology</li><li>Soil Science</li></ul>
+<p><strong>Screening Subjects:</strong> English, Chemistry, Physics, Biology</p>
+
+<h4>Faculty of Biological Sciences</h4>
+<p>Departments:</p>
+<ul><li>Biochemistry</li><li>Microbiology/Industrial Microbiology</li><li>Zoology, Animal and Environmental Biology</li><li>Botany, Plant Science and Biotechnology</li></ul>
+<p><strong>Screening Subjects:</strong> English, Chemistry, Physics, Biology</p>
+
+<h4>Faculty of Management Sciences</h4>
+<p>Departments:</p>
+<ul><li>Accounting</li><li>Banking and Finance</li><li>Hospitality and Tourism Management</li><li>Insurance</li><li>Management</li><li>Marketing</li></ul>
+<p><strong>Screening Subjects:</strong> English, Government, Economics, Mathematics</p>
+
+<h4>Faculty of Physical Sciences</h4>
+<p>Departments:</p>
+<ul><li>Chemistry/Industrial Chemistry</li><li>Computer Science</li><li>Mathematics/Industrial Mathematics</li><li>Physics/Industrial Physics</li><li>Statistics</li></ul>
+<p><strong>Screening Subjects:</strong> English, Chemistry, Physics, Mathematics</p>
+
+<h4>Education Programmes Scheduled for Day Three</h4>
+<p>The following Education programmes will also be screened on <strong>Saturday, 25 July 2026</strong>:</p>
+<ul><li>Education and Biology – English, Chemistry, Physics and Biology</li><li>Education and Accounting – English, Government, Economics and Mathematics</li><li>Education and Mathematics – English, Chemistry, Physics and Mathematics</li><li>Education and Physics – English, Chemistry, Physics and Mathematics</li><li>Education and Chemistry – English, Chemistry, Physics and Mathematics</li></ul>
+
+<h3>Day Four – Monday, 27 July 2026</h3>
+<h4>Faculty of Health Sciences</h4>
+<p><strong>Department:</strong> Nursing</p>
+<p><strong>Screening Subjects:</strong> English, Chemistry, Physics, Biology</p>
+
+<h3>Day Five – Tuesday, 28 July 2026</h3>
+<h4>Faculty of Basic Medical Sciences</h4>
+<p><strong>Department:</strong> Medicine and Surgery</p>
+<p><strong>Screening Subjects:</strong> English, Chemistry, Physics, Biology</p>
+
+<h4>Faculty of Law</h4>
+<p><strong>Department:</strong> Law</p>
+<p><strong>Screening Subjects:</strong> English, Government, Christian Religious Knowledge (CRK), Literature in English</p>
+
+<h2>Screening Materials Required</h2>
+<p>Candidates will only be allowed into the screening venue with the following items:</p>
+<ul><li>A reprinted screening slip showing the examination date and time.</li><li>A pencil.</li></ul>
+<p>Applicants should confirm the details on their screening slip before travelling to the examination venue.</p>
+
+<h2>Prohibited Items</h2>
+<p>The university has prohibited candidates from bringing the following items into the screening venue:</p>
+<ul><li>Mobile phones</li><li>Smart watches</li><li>Other electronic gadgets</li><li>Bags</li><li>Bangles</li><li>Chains</li></ul>
+<p>Candidates are advised to leave these items at home to avoid being denied entry into the examination hall.</p>
+
+<h2>Screening Slip Reprint</h2>
+<p>Every candidate must reprint the Post-UTME screening slip before the examination.</p>
+<p>The slip contains important details, including the candidate's examination date, time, and other instructions for the screening exercise.</p>
+<p>Candidates should ensure the information on the slip matches their screening schedule and present the printed copy at the venue.</p>
+
+<h2>Screening Subject Combinations</h2>
+<p>The subjects to be written depend on the candidate's department.</p>
+
+<h3>Science, Engineering and Health-Related Courses</h3>
+<p>Most candidates in science-based programmes will write one of the following subject combinations:</p>
+<ul><li>English, Chemistry, Physics and Biology</li><li>English, Chemistry, Physics and Mathematics</li></ul>
+<p>The exact combination depends on the department.</p>
+
+<h3>Arts and Humanities Courses</h3>
+<p>Candidates applying for Humanities, Law, and several Education programmes will write:</p>
+<ul><li>English</li><li>Government</li><li>Christian Religious Knowledge (CRK)</li><li>Literature in English</li></ul>
+
+<h3>Management Sciences Courses</h3>
+<p>Candidates seeking admission into Management Sciences programmes will write:</p>
+<ul><li>English</li><li>Government</li><li>Economics</li><li>Mathematics</li></ul>
+<p>This subject combination also applies to candidates applying for <strong>Education and Accounting</strong>.</p>
+<p>For more details on the initial screening announcement, you might find this post helpful: <a href="/blog/imo-state-university-post-utme-direct-entry-2026-2027">Imo State University Begins 2026/2027 Post UTME and Direct Entry Screening Registration</a>.</p>`,
+    tags: ["IMSU", "Post UTME", "Screening Timetable", "Admission", "2026/2027", "Education", "Nigeria"],
+  },
+  {
+    id: "fugus-postgraduate-admission-2026-2027",
+    title: "Federal University Gusau Opens Postgraduate Admission for 2026/2027 Academic Session",
+    category: "Education",
+    date: "2026-07-14",
+    excerpt: "The School of Postgraduate Studies, Federal University Gusau (FUGUS), has commenced applications for admission into its approved postgraduate programmes for the 2026/2027 academic session.",
+    content: `<h2>Federal University Gusau Opens Postgraduate Admission for 2026/2027 Academic Session</h2>
+<p>The School of Postgraduate Studies, Federal University Gusau (FUGUS), has commenced applications for admission into its approved postgraduate programmes for the 2026/2027 academic session.</p>
+<p>Suitably qualified candidates are invited to apply for admission into Postgraduate Diploma (PGD), Master's, Master of Business Administration (MBA), Master of Public Administration (MPA), and Doctor of Philosophy (Ph.D.) programmes offered across several faculties.</p>
+<p>Applications will be submitted online through the university's postgraduate admission portal, while the application fee has been fixed at <strong>₦15,000</strong>.</p>
+<p>Applicants are advised to carefully review the admission requirements for their preferred programme before submitting an application, as only qualified candidates will be considered.</p>
+
+<h3>Available Postgraduate Programmes</h3>
+<p>Federal University Gusau offers postgraduate programmes across the following faculties:</p>
+
+<h4>Faculty of Education</h4>
+<p><strong>Doctor of Philosophy (Ph.D.)</strong></p>
+<ul>
+  <li>Educational Management</li>
+  <li>Educational Psychology</li>
+  <li>Guidance and Counselling</li>
+  <li>Mathematics Education</li>
+  <li>Research, Measurement and Evaluation</li>
+  <li>Science Education</li>
+  <li>Sociology of Education</li>
+</ul>
+<p><strong>Master's Degree Programmes</strong></p>
+<ul>
+  <li>M.Ed. Educational Management</li>
+  <li>M.Ed. Educational Psychology</li>
+  <li>M.Ed. Guidance and Counselling</li>
+  <li>M.Ed. Research, Measurement and Evaluation</li>
+  <li>M.Ed. Sociology of Education</li>
+  <li>M.Sc. (Ed.) Mathematics</li>
+  <li>M.Sc. (Ed.) Science Education</li>
+</ul>
+<p><strong>Postgraduate Diploma</strong></p>
+<ul>
+  <li>Postgraduate Diploma in Education (PGDE)</li>
+</ul>
+
+<h4>Faculty of Humanities</h4>
+<p><strong>Doctor of Philosophy (Ph.D.)</strong></p>
+<ul>
+  <li>Arabic Language</li>
+  <li>Arabic Literature</li>
+  <li>English Language</li>
+  <li>English Literature</li>
+  <li>Hausa Studies</li>
+  <li>History and International Studies</li>
+  <li>Islamic Studies</li>
+</ul>
+<p><strong>Master's Degree Programmes</strong></p>
+<ul>
+  <li>M.A. Arabic Language</li>
+  <li>M.A. Arabic Literature</li>
+  <li>M.A. English Language</li>
+  <li>M.A. English Literature</li>
+  <li>M.A. Hausa Studies</li>
+  <li>M.A. History and International Studies</li>
+  <li>M.A. Islamic Studies</li>
+</ul>
+
+<h4>Faculty of Management Sciences</h4>
+<p><strong>Doctor of Philosophy (Ph.D.)</strong></p>
+<ul>
+  <li>Business Administration</li>
+</ul>
+<p><strong>Master's Degree Programmes</strong></p>
+<ul>
+  <li>M.Sc. Accounting and Finance</li>
+  <li>M.Sc. Business Administration</li>
+  <li>M.Sc. Public Administration</li>
+  <li>Master of Business Administration (MBA)</li>
+  <li>Master of Public Administration (MPA)</li>
+</ul>
+<p><strong>Postgraduate Diploma Programmes</strong></p>
+<ul>
+  <li>PGD Accounting and Finance</li>
+  <li>PGD Business Administration</li>
+  <li>PGD Public Administration</li>
+</ul>
+
+<h4>Faculty of Social Sciences</h4>
+<p><strong>Doctor of Philosophy (Ph.D.)</strong></p>
+<ul>
+  <li>Sociology</li>
+</ul>
+<p><strong>Master's Degree Programmes</strong></p>
+<ul>
+  <li>M.Sc. Economics</li>
+  <li>M.Sc. Political Science</li>
+  <li>M.Sc. Sociology</li>
+  <li>Master of International Politics and Diplomacy</li>
+</ul>
+
+<h4>Faculty of Science</h4>
+<p><strong>Doctor of Philosophy (Ph.D.)</strong></p>
+<ul>
+  <li>Biochemistry</li>
+  <li>Mathematics</li>
+  <li>Microbiology</li>
+  <li>Physics</li>
+  <li>Plant Science and Biotechnology</li>
+  <li>Zoology</li>
+</ul>
+<p><strong>Master's Degree Programmes</strong></p>
+<ul>
+  <li>M.Sc. Biochemistry</li>
+  <li>M.Sc. Chemistry</li>
+  <li>M.Sc. Mathematics</li>
+  <li>M.Sc. Microbiology</li>
+  <li>M.Sc. Physics</li>
+  <li>M.Sc. Plant Science and Biotechnology</li>
+  <li>M.Sc. Zoology</li>
+</ul>
+<p><strong>Postgraduate Diploma Programmes</strong></p>
+<ul>
+  <li>PGD Biochemistry</li>
+  <li>PGD Biological Sciences</li>
+  <li>PGD Computer Science</li>
+  <li>PGD Microbiology</li>
+</ul>
+
+<h3>Eligibility Requirements</h3>
+<p>Applications are open to candidates who meet the admission requirements for their chosen postgraduate programme.</p>
+<p>Prospective applicants should carefully study the admission requirements before making payment or completing the online application form.</p>
+<p>The university noted that payment of the application fee does not guarantee admission, as only qualified candidates who satisfy the stated requirements will be considered.</p>
+
+<h3>Application Fee</h3>
+<p>The application fee for the 2026/2027 postgraduate admission exercise is <strong>₦15,000</strong>.</p>
+<p>The fee is <strong>non-refundable</strong> and can be paid through any commercial bank or via the <strong>Remita</strong> online payment platform after generating an invoice from the postgraduate application portal.</p>
+<p>Applicants are advised to keep their <strong>Remita Retrieval Reference (RRR)</strong>, as it will be required to access their application profile. The <strong>RRR</strong> is a unique payment reference generated by the Remita platform to confirm and track transactions.</p>
+
+<h3>Application Procedure</h3>
+<p>Candidates should complete the application process by following these steps:</p>
+<ol>
+  <li>Visit the <a href="https://pgs.fugusau.edu.ng/login" target="_blank" rel="noopener noreferrer">FUGUS postgraduate application portal</a>.</li>
+  <li>Generate an invoice for the application fee.</li>
+  <li>Pay the ₦15,000 application fee through a commercial bank or the Remita payment platform.</li>
+  <li>Use the generated <strong>Remita Retrieval Reference (RRR)</strong> as both the username and password to log in.</li>
+  <li>Complete the online application form.</li>
+  <li>Upload all required supporting documents.</li>
+  <li>Review the information provided before submitting the application.</li>
+</ol>
+<p>Applicants should ensure that all information supplied is accurate and that every document uploaded is genuine, as false information or forged documents will result in automatic disqualification.</p>
+
+<h3>Academic Transcript Requirement</h3>
+<p>All applicants are required to arrange for an official academic transcript to be sent directly by their previous university or awarding institution to the School of Postgraduate Studies.</p>
+<p>Applications will only be processed after the official transcript has been received.</p>
+<p>Uploading academic credentials during the online application does not replace the requirement for an official transcript.</p>
+
+<h3>Transcript Submission Address</h3>
+<p>Official academic transcripts should be forwarded to:</p>
+<p><strong>The Secretary</strong><br><strong>School of Postgraduate Studies</strong><br><strong>Federal University Gusau</strong><br><strong>P.M.B. 1001</strong><br><strong>Gusau, Zamfara State</strong></p>
+<p>Alternatively, transcripts may be sent electronically by the previous institution to:</p>
+<p><a href="mailto:transcript.pgs@fugusau.edu.ng">transcript.pgs@fugusau.edu.ng</a></p>
+<p>The university emphasized that transcripts must come directly from the applicant's previous university or awarding body.</p>
+
+<h3>Important Information for Applicants</h3>
+<p>Applicants should note the following before submitting their application:</p>
+<ul>
+  <li>Official transcripts must be sent directly by the previous institution.</li>
+  <li>Applications without official transcripts will not be processed.</li>
+  <li>Submission of false information or forged documents will lead to automatic disqualification.</li>
+  <li>Candidates should regularly monitor their application dashboard for admission updates and, where applicable, print their admission letters from the portal.</li>
+  <li>Payment of the application fee and submission of documents do not guarantee admission, as offers will only be made to successful applicants.</li>
+</ul>
+
+<h3>Contact Information</h3>
+<p>Applicants who require further information about the admission process may contact the School of Postgraduate Studies using the details below:</p>
+<p><strong>School of Postgraduate Studies</strong></p>
+<ul>
+  <li>Telephone: <strong>08036518570</strong></li>
+</ul>
+<p><strong>Technical Support</strong></p>
+<ul>
+  <li>Telephone: <strong>08167625028</strong></li>
+  <li>Email: <a href="mailto:pgsupport@fugusau.edu.ng">pgsupport@fugusau.edu.ng</a></li>
+</ul>
+<p><strong>Academic Transcript Submission</strong></p>
+<ul>
+  <li>Email: <a href="mailto:transcript.pgs@fugusau.edu.ng">transcript.pgs@fugusau.edu.ng</a></li>
+</ul>
+<p>For more postgraduate admission news, you might find this post helpful: <a href="/blog/unilorin-postgraduate-qualifying-entrance-examination-2026-2027">UNILORIN Postgraduate Qualifying Entrance Examination Schedule for 2026/2027 Session</a>.</p>`,
+    tags: ["FUGUS", "Postgraduate", "Admission", "2026/2027", "Education", "Nigeria"],
+  },
+  {
+    id: "nascohst-hnd-admission-2026-2027",
+    title: "NASCOHST Opens HND Admission for 2026/2027 Academic Session",
+    category: "Education",
+    date: "2026-07-14",
+    excerpt: "The Nasarawa State College of Health Science and Technology (NASCOHST), Keffi, has commenced the sale of application forms for admission into its Higher National Diploma (HND) programmes for the 2026/2027 academic session.",
+    content: `<h2>NASCOHST Opens HND Admission for 2026/2027 Academic Session</h2>
+<p>The Nasarawa State College of Health Science and Technology (NASCOHST), Keffi, has commenced the sale of application forms for admission into its Higher National Diploma (HND) programmes for the 2026/2027 academic session.</p>
+<p>The college is inviting suitably qualified candidates with the required O'Level qualifications, relevant National Diploma (ND), and practical experience to apply for admission before the application deadline.</p>
+<p>Applications will be completed online, and late submissions will not be considered after <strong>31 July 2026</strong>.</p>
+
+<h3>Available HND Programmes</h3>
+<p>Applications are currently open for admission into the following Higher National Diploma programmes:</p>
+<ul>
+  <li>Environmental Health Technology</li>
+  <li>Nutrition and Dietetics</li>
+  <li>Health Information Management Technology</li>
+</ul>
+<p>Applicants are expected to choose an HND programme that is relevant to their National Diploma qualification.</p>
+
+<h3>Admission Requirements</h3>
+<p>To be considered for admission, candidates must satisfy the college's general entry requirements.</p>
+<p>Applicants must:</p>
+<ul>
+  <li>Possess a relevant National Diploma (ND) from an accredited institution.</li>
+  <li>Have at least a <strong>Lower Credit</strong> in the National Diploma.</li>
+  <li>Meet the required O'Level subject requirements.</li>
+  <li>Possess the required Industrial Training or post-ND work experience where applicable.</li>
+  <li>Satisfy any additional programme-specific requirements.</li>
+</ul>
+
+<h3>Required O'Level Subjects</h3>
+<p>Candidates must have at least five credit passes in the following subjects:</p>
+<ul>
+  <li>English Language</li>
+  <li>Mathematics</li>
+  <li>Biology</li>
+  <li>Chemistry</li>
+  <li>Physics</li>
+</ul>
+<p>The required credits must be obtained in <strong>not more than two sittings</strong>.</p>
+
+<h3>Industrial Training and Work Experience</h3>
+<p>Candidates with a National Diploma at Lower Credit level must have completed <strong>one year of Industrial Training (IT)</strong> or <strong>Supervised Field Experience</strong> before applying.</p>
+<p>Applicants with a <strong>Pass</strong> grade in their National Diploma may still be eligible for admission but must possess <strong>at least two years of relevant post-ND work experience</strong>.</p>
+
+<h3>Application Process</h3>
+<p>Applications for the 2026/2027 HND admission exercise will be completed through the <a href="https://www.admissions.nascohst.edu.ng/" target="_blank" rel="noopener noreferrer">NASCOHST admission portal</a>.</p>
+<p>Before submitting the application, candidates should ensure that:</p>
+<ul>
+  <li>Their chosen HND programme is related to their National Diploma qualification.</li>
+  <li>Their O'Level results meet the required subject combination.</li>
+  <li>They have completed the required Industrial Training or post-ND work experience.</li>
+</ul>
+<p>For more HND admission news, you might find this post helpful: <a href="/blog/auchi-polytechnic-hnd-admission-form-2026-2027">Auchi Polytechnic HND Admission Form 2026/2027: Requirements, Courses, Fees and Application Guide</a>.</p>`,
+    tags: ["NASCOHST", "HND", "Admission", "2026/2027", "Health Technology", "Nasarawa"],
+  },
+  {
     id: "funaab-inter-university-transfer-2026-2027",
     title: "FUNAAB Opens Inter-University Transfer Applications for 2026/2027 Academic Session",
     category: "Education",

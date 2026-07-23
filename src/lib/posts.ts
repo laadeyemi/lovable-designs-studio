@@ -10,6 +10,47 @@ export type Post = {
 
 const allPosts: Post[] = [
   {
+    id: "funaab-introduces-six-new-undergraduate-programmes-2026-2027",
+    title: "FUNAAB Introduces Six New Undergraduate Programmes for 2026/2027 Admission",
+    category: "Education",
+    date: "2026-07-23",
+    excerpt: "The Federal University of Agriculture, Abeokuta (FUNAAB) has invited suitably qualified candidates seeking admission for the 2026/2027 academic session to change their preferred course to any of its six newly approved undergraduate programmes.",
+    content: `<h2>FUNAAB Introduces Six New Undergraduate Programmes for 2026/2027 Admission</h2>
+<p>The Federal University of Agriculture, Abeokuta (FUNAAB) has invited suitably qualified candidates seeking admission for the 2026/2027 academic session to change their preferred course to any of its six newly approved undergraduate programmes.</p>
+<p>According to the university, the programmes have received approval from the National Universities Commission (NUC) and will be offered on a <strong>full-time basis</strong> starting from the 2026/2027 academic session.</p>
+<p>Interested candidates who meet the admission requirements are expected to complete the change of course process through the Joint Admissions and Matriculation Board (JAMB) at an accredited Computer-Based Test (CBT) centre.</p>
+
+<h3>Newly Approved Undergraduate Programmes</h3>
+<p>FUNAAB will admit students into the following newly approved degree programmes:</p>
+<ul>
+  <li>B.Sc. Geophysics</li>
+  <li>B.Sc. Public Health</li>
+  <li>B.Sc. Biotechnology</li>
+  <li>B.Sc. Science Laboratory Technology</li>
+  <li>B.Sc. Water, Sanitation and Hygiene</li>
+  <li>B.Sc. Clothing and Textile</li>
+</ul>
+<p>All six programmes will commence as full-time courses from the 2026/2027 academic session.</p>
+
+<h3>Eligibility for the New Programmes</h3>
+<p>The opportunity is open to candidates seeking undergraduate admission into FUNAAB for the 2026/2027 academic session.</p>
+<p>Applicants are expected to meet the admission requirements for their preferred programme before requesting a change of course.</p>
+<p>While the university has not released separate admission requirements for each programme in the announcement, candidates should ensure they satisfy the relevant UTME subject combination, O'Level requirements, and any other conditions applicable to their chosen course.</p>
+
+<h3>How to Change to the New Courses</h3>
+<p>Qualified candidates who wish to study any of the newly approved programmes should complete a change of course through the JAMB admission system.</p>
+<p>The process involves the following steps:</p>
+<ol>
+  <li>Select one of the six newly approved FUNAAB programmes.</li>
+  <li>Visit any accredited JAMB Computer-Based Test (CBT) centre.</li>
+  <li>Request a change of course through the JAMB portal.</li>
+  <li>Confirm that the new course matches your admission qualifications before completing the process.</li>
+</ol>
+<p>Candidates are advised to verify that they meet the admission requirements for their chosen programme before submitting the change request.</p>
+<p>For more details on the ongoing admission process, you might find this post helpful: <a href="/blog/funaab-post-utme-direct-entry-form-2026-2027">FUNAAB Post-UTME/Direct Entry Form 2026/2027: Eligibility, Requirements and Application Guide</a>.</p>`,
+    tags: ["FUNAAB", "Admission", "New Programmes", "2026/2027", "Education", "Nigeria"],
+  },
+  {
     id: "imsu-post-utme-direct-entry-screening-timetable-2026-2027",
     title: "IMSU Releases 2026/2027 Post-UTME and Direct Entry Screening Timetable",
     category: "Education",

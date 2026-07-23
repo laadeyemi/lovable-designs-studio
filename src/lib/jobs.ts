@@ -50,6 +50,214 @@ const currentDate = '2026-07-14'; // Current date for comparison (July 14, 2026)
 
 const allJobs: Job[] = [
   {
+    id: "senior-sales-executive-financial-services-ikoyi-2026-07-22",
+    title: "Senior Sales Executive – Financial Services",
+    date: "2026-07-22",
+    location: "Ikoyi Lagos",
+    type: "Full-time",
+    seniority: "Senior",
+    salary: "₦1,200,000 – ₦1,700,000 Gross per month + 13th Month Salary",
+    summary: "An experienced business development professional with a proven track record of originating high-value corporate transactions. We are recruiting on behalf of a leading financial advisory and investment firm seeking a results-driven Senior Sales Executive to drive business growth and expand its corporate client portfolio.",
+    responsibilities: [
+      "Drive business development initiatives for the Corporate Finance & Advisory practice.",
+      "Source and originate mandates in: Capital Raising (Debt & Equity), Mergers & Acquisitions, Business Valuation, Financial Advisory, Corporate Restructuring, Transaction Advisory Services",
+      "Build and maintain strong relationships with business owners, CEOs, CFOs, institutional investors, and other key stakeholders.",
+      "Develop and manage a robust sales pipeline from prospecting to deal closure.",
+      "Identify market opportunities and implement strategies to grow the firm’s client base.",
+      "Work closely with internal teams to ensure seamless execution of client engagements."
+    ],
+    requirements: [
+      "Bachelor’s degree in finance, Economics, Business Administration, Accounting, Marketing, or a related field.",
+      "5 years of experience in Business Development, Relationship Management, Corporate Banking, Investment Banking, Financial Advisory, or Capital Markets.",
+      "Proven experience selling financial products or advisory solutions to corporate clients.",
+      "Strong network within the Nigerian business and financial ecosystem.",
+      "Excellent communication, negotiation, presentation, and stakeholder management skills."
+    ],
+    apply: "Qualified candidates should send their CV to ifeoluwa.recruit1@gmail.com with the subject line: Senior Sales Executive",
+    deadline: "Not Specified"
+  },
+  {
+    id: "quality-control-officer-oregun-omole-2026-07-22",
+    title: "Quality Control Officer",
+    date: "2026-07-22",
+    location: "Oregun / Omole, Lagos (multi-site)",
+    type: "Full-Time",
+    salary: "₦500,000 Monthly Net",
+    summary: "Provides quality control oversight across surface finishing processes, ensuring all products meet defined visual, functional, and durability standards. The role focuses on early defect detection, process compliance, and consistent quality output across sanding, priming, and painting operations.",
+    responsibilities: [
+      "Conduct in-process and final inspections across surface finishing stages",
+      "Inspect components prior to sanding, priming, and painting to identify defects early",
+      "Monitor finishing processes to ensure compliance with specifications and quality standards",
+      "Verify finished surfaces for smoothness, coating quality, and colour consistency",
+      "Validate products against technical specifications, render files, and defined quality criteria"
+    ],
+    requirements: [
+      "Bachelor’s degree in Engineering, Materials Science, or a related discipline",
+      "2–4 years’ experience in a manufacturing or production environment",
+      "Hands-on exposure to surface finishing processes such as sanding, priming, painting, or coating",
+      "Strong visual inspection and quality assessment skills",
+      "Basic understanding of quality control processes and documentation"
+    ],
+    apply: "Qualified candidates should apply using the link provided below:\n\nhttps://forms.gle/y9c1x3rg4h5r9RBe8",
+    deadline: "Not Specified"
+  },
+  {
+    id: "graphic-designer-land-republic-2026-07-22",
+    title: "Graphic Designer",
+    date: "2026-07-22",
+    location: "Not Specified",
+    type: "Full Time",
+    company: "Land Republic Limited",
+    salary: "₦250,000",
+    summary: "The Graphic Designer will be responsible for creating engaging visual content for both digital and print platforms. The ideal candidate is creative, detail oriented, and passionate about producing high quality designs that enhance brand visibility and support marketing campaigns.",
+    responsibilities: [
+      "Design high quality graphics for digital and print marketing materials.",
+      "Create engaging visual content for social media, websites, and advertising campaigns.",
+      "Design flyers, brochures, banners, billboards, presentations, and other promotional materials.",
+      "Collaborate with the Head, Sales and Marketing, Brand Manager, and Content Creator to execute marketing campaigns.",
+      "Ensure consistency across all brand and marketing materials.",
+      "Revise and improve designs based on feedback.",
+      "Manage multiple design projects while meeting deadlines.",
+      "Stay updated with design trends, tools, and industry best practices.",
+      "Perform other duties as assigned."
+    ],
+    requirements: [
+      "Bachelor’s Degree or HND in Graphic Design, Fine Arts, Visual Communication, or a related field.",
+      "Minimum of two (2) years’ experience in a similar role.",
+      "Strong portfolio showcasing creative design work.",
+      "Proficiency in Adobe Photoshop, Illustrator, InDesign, and other relevant design software.",
+      "Strong understanding of typography, branding, layout, and colour theory.",
+      "Excellent creativity, attention to detail, and problem solving skills.",
+      "Strong communication, organizational, and time management skills.",
+      "Ability to work independently and as part of a team."
+    ],
+    apply: "Interested and qualified candidates should send their CV, Portfolio, and Cover Letter to oyatogun@landrepublic.co using “Graphic Designer – Application” as the subject of the email.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "business-development-executive-hr-ikeja-2026-07-22",
+    title: "Business Development Executive - HR",
+    date: "2026-07-22",
+    location: "Ikeja, Lagos",
+    type: "Full-time",
+    company: "HR Consulting Firm",
+    salary: "Not Specified",
+    summary: "We are seeking a proactive and results-driven Business Development Executive to drive client acquisition, strengthen business relationships, and promote HR consulting and talent management services. The ideal candidate will combine strong business development expertise with a sound understanding of human resource solutions, recruitment services, organizational development, and workforce management.",
+    responsibilities: [
+      "Identify and pursue new business opportunities for HR consulting, recruitment, outsourcing, training, and other HR services.",
+      "Develop and implement business development strategies to achieve revenue targets.",
+      "Generate leads through networking, referrals, cold calling, and market research.",
+      "Prepare and deliver compelling business presentations and proposals to prospective clients.",
+      "Negotiate contracts and close business deals effectively.",
+      "Build and maintain strong relationships with existing and prospective clients.",
+      "Understand client workforce needs and recommend suitable HR solutions.",
+      "Ensure high levels of client satisfaction and retention.",
+      "Conduct regular follow-ups and account management activities.",
+      "Collaborate with HR teams to design customized HR solutions for clients.",
+      "Support recruitment and talent acquisition projects when required.",
+      "Provide market intelligence and insights on HR trends and workforce solutions.",
+      "Assist in developing HR service offerings and business improvement initiatives.",
+      "Monitor industry trends, competitor activities, and emerging market opportunities.",
+      "Conduct market analysis to identify target industries and growth opportunities.",
+      "Maintain an updated database of leads, prospects, and client engagements.",
+      "Prepare periodic business development reports and sales forecasts.",
+      "Maintain accurate records of client interactions, proposals, and contracts.",
+      "Track KPIs and performance metrics related to business growth."
+    ],
+    requirements: [
+      "Bachelor’s degree in Human Resources, Business Administration, Marketing, or a related field.",
+      "3–5 years of experience in business development, HR consulting, recruitment, or client relationship management.",
+      "Experience working in an HR consulting or recruitment firm is an added advantage.",
+      "Excellent communication, negotiation, and presentation skills.",
+      "Proven ability to meet and exceed sales targets.",
+      "Strong networking and relationship management skills.",
+      "Strong understanding of branding, market positioning, and client acquisition strategies."
+    ],
+    apply: "Kindly send CV to bradfieldforms@gmail.com using the job title as the subject of the email.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "executive-assistant-architecture-lekki-2026-07-22",
+    title: "Executive Assistant (Strategic Partner to the Principal Partner)",
+    date: "2026-07-22",
+    location: "Lekki, Lagos",
+    type: "Full-time",
+    company: "Leading architectural firm",
+    salary: "₦500,000/month",
+    summary: "Our client, a leading architectural firm, is seeking an experienced Executive Assistant to provide strategic and executive-level support to the Principal Partner. This role goes beyond administration—you’ll serve as a trusted partner, driving priorities, coordinating high-impact projects, managing stakeholder relationships, and supporting key business decisions.",
+    responsibilities: [
+      "Manage the Principal Partner’s calendar, meetings, and priorities.",
+      "Coordinate strategic projects and ensure timely execution.",
+      "Prepare executive reports, presentations, and correspondence.",
+      "Manage stakeholder relationships and executive communications.",
+      "Coordinate meetings, events, and travel logistics.",
+      "Handle confidential information with discretion."
+    ],
+    requirements: [
+      "B.Eng/HND in any Engineering field.",
+      "Minimum of 5 years’ experience as an Executive Assistant.",
+      "Strong analytical, organizational, and communication skills.",
+      "Excellent stakeholder management and project coordination abilities.",
+      "WAEC/SSCE with a minimum of B in Mathematics."
+    ],
+    apply: "To apply: Send your CV to bradfieldrecruit@gmail.com using Executive Assistant as the email subject.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "warehouse-coordinator-isolo-2026-07-22",
+    title: "Warehouse Coordinator",
+    date: "2026-07-22",
+    location: "Isolo, Lagos",
+    type: "Full-time",
+    salary: "₦150,000 – ₦250,000",
+    summary: "The Warehouse Coordinator will oversee warehouse operations for lubricants, batteries, and inverter products, ensuring accurate inventory, efficient receiving and dispatch, ERP documentation, warehouse organization, and compliance with company policies and HSE standards.",
+    responsibilities: [
+      "Coordinate daily warehouse operations, receiving, storage, and dispatch.",
+      "Maintain inventory accuracy through stock reconciliation, cycle counts, and stock taking.",
+      "Ensure proper product storage and FIFO compliance.",
+      "Manage warehouse documentation, ERP transactions, and inventory reports.",
+      "Maintain warehouse cleanliness and ensure HSE compliance.",
+      "Supervise Warehouse Assistants and coordinate dispatch schedules."
+    ],
+    requirements: [
+      "OND in Logistics, Supply Chain Management, Business Administration, or a related field (HND preferred).",
+      "2–4 years of warehouse or inventory experience.",
+      "Experience with lubricants, batteries, inverters, or automotive products is an advantage.",
+      "Proficiency in ERP inventory management."
+    ],
+    apply: "Interested candidates should send their CV to cv@ascentech.com.ng using the job title as the subject of the mail (Warehouse Coordinator 14)",
+    deadline: "Not Specified"
+  },
+  {
+    id: "procurement-officer-lagos-2026-07-22",
+    title: "Procurement Officer",
+    date: "2026-07-22",
+    location: "Lagos",
+    type: "Full-time",
+    salary: "₦250,000 – ₦300,000 Gross",
+    summary: "The Procurement Officer will be responsible for sourcing and purchasing raw materials, production consumables, spare parts, machinery, packaging materials, office supplies, and services. The role ensures timely, cost-effective procurement, supplier management, inventory support, compliance with procurement policies, and uninterrupted manufacturing operations.",
+    responsibilities: [
+      "Plan and execute procurement activities based on production requirements.",
+      "Source, evaluate, and manage local and international suppliers.",
+      "Obtain quotations, negotiate pricing and terms, and process purchase orders.",
+      "Monitor supplier performance and ensure timely delivery of goods.",
+      "Support inventory management to prevent stock shortages and overstocking.",
+      "Ensure purchased materials meet quality standards and company specifications.",
+      "Maintain procurement records, prepare reports, and ensure policy compliance.",
+      "Collaborate with Production, Engineering, Finance, QA, and Stores to support operational needs.",
+      "Comply with HSSE policies and ethical procurement practices."
+    ],
+    requirements: [
+      "Bachelor’s Degree or HND in Purchasing & Supply, Supply Chain Management, Business Administration, Logistics, Engineering, or a related field.",
+      "3–5 years’ procurement experience in a manufacturing environment.",
+      "Experience sourcing engineering spare parts and industrial materials is an advantage.",
+      "Knowledge of ERP procurement systems, inventory management, contract negotiation, and Microsoft Office.",
+      "Professional certification (CIPSMN or CIPS) is an added advantage."
+    ],
+    apply: "Interested candidates should send their CV to cv@ascentech.com.ng using (Procurement Officer 14) as the subject of the email.",
+    deadline: "Not Specified"
+  },
+  {
     id: "head-of-category-ikeja-2026-07-21",
     title: "Head of Category",
     date: "2026-07-21",

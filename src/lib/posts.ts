@@ -10,6 +10,58 @@ export type Post = {
 
 const allPosts: Post[] = [
   {
+    id: "nysc-reform-2026-what-it-means-for-engineering-graduates",
+    title: "NYSC Reform 2026: What It Means for Engineering Graduates",
+    category: "Career",
+    date: "2026-07-24",
+    excerpt: "The recent NYSC reform introduces specialized corps, including an Infrastructure Corps and a Tech & Digital Corps. Here’s a breakdown of how these changes will directly impact engineering graduates starting from 2026.",
+    content: `<h2>NYSC Reform 2026: A New Era for Engineering Graduates</h2>
+<p>The Federal Government's comprehensive reform of the National Youth Service Corps (NYSC) is set to redefine the service year for all Nigerian graduates, but it holds particularly significant implications for those in the engineering field. For decades, many engineering graduates have expressed frustration over being deployed to roles, such as teaching, that do not align with their technical skills. The new reform directly addresses this issue by creating specialized streams designed to make the service year a period of practical, career-relevant experience.</p>
+<p>If you are an engineering student preparing for national service, here is what the new NYSC structure means for you.</p>
+
+<h3>1. The Introduction of the Infrastructure Corps and Tech & Digital Corps</h3>
+<p>The most impactful change for engineers is the creation of specialized service streams. Two of the eleven new corps are directly relevant to engineering graduates:</p>
+<ul>
+  <li><strong>The Infrastructure Corps:</strong> This stream is designed for graduates from Civil, Mechanical, Electrical, and other traditional engineering disciplines. The goal is to deploy these corps members to support national infrastructure projects, including construction, public works, and utilities.</li>
+  <li><strong>The Tech & Digital Corps:</strong> This stream is tailored for graduates in Software Engineering, Computer Engineering, and related fields. It aims to leverage their skills in technology hubs, government digital initiatives, and private sector tech firms.</li>
+</ul>
+<p>This targeted deployment means you are far more likely to get a Place of Primary Assignment (PPA) where you can apply your engineering knowledge, rather than being assigned to a role that offers little professional value.</p>
+
+<h3>2. More Relevant and Hands-On Primary Assignments (PPA)</h3>
+<p>With the new corps structure, your PPA will be more than just a place to pass the time. Engineering graduates can now expect placements in environments that offer valuable hands-on experience, such as:</p>
+<ul>
+  <li>Engineering and construction firms (both public and private).</li>
+  <li>Federal and State Ministries of Works, Power, and Housing.</li>
+  <li>Technology incubation hubs and software development companies.</li>
+  <li>Telecommunication and power distribution companies.</li>
+  <li>Research institutions focused on engineering and technology.</li>
+</ul>
+<p>This shift ensures that your service year contributes directly to your professional development, making you more employable upon completion.</p>
+
+<h3>3. A Skill-Focused Orientation Camp</h3>
+<p>The orientation camp is being restructured from a largely paramilitary exercise into a <strong>6-week professional development program</strong>. The final two weeks will be dedicated to stream-specific training. For engineering graduates, this could include workshops on:</p>
+<ul>
+  <li>Project management software (e.g., AutoCAD, Primavera).</li>
+  <li>Modern engineering practices and safety standards.</li>
+  <li>Introduction to new technologies in your field.</li>
+  <li>Career development sessions with industry leaders.</li>
+</ul>
+<p>This practical training will equip you with job-ready skills before you even arrive at your PPA.</p>
+
+<h3>4. A Clearer Pathway to Your Career</h3>
+<p>The reformed NYSC is designed to be a bridge between university and the professional world. By placing you in a relevant role and providing specialized training, the scheme aims to:</p>
+<ul>
+  <li><strong>Build Your CV:</strong> A year of practical engineering experience is a powerful addition to your resume.</li>
+  <li><strong>Grow Your Network:</strong> Working in a professional environment allows you to connect with potential employers and mentors.</li>
+  <li><strong>Reduce Post-NYSC Unemployment:</strong> By gaining relevant skills and experience, you become a more competitive candidate in the job market.</li>
+</ul>
+
+<h3>Conclusion: A More Purposeful Service Year for Engineers</h3>
+<p>The NYSC reform of 2026 marks a significant and positive change for engineering graduates. It transforms the service year from a potential period of professional stagnation into a valuable opportunity for career acceleration. By aligning deployments with professional skills, the new framework ensures that your time in service will be a meaningful step toward building a successful engineering career.</p>
+<p>For a general overview of the changes, you can read our previous post: <a href="/blog/what-the-new-nysc-reform-means-for-every-nigerian-graduate-2026">What the New NYSC Reform Means for Every Nigerian Graduate in 2026 (Explained)</a>.</p>`,
+    tags: ["NYSC", "NYSC Reform", "Engineering", "Career", "Graduates", "Nigeria", "2026"],
+  },
+  {
     id: "funaab-introduces-six-new-undergraduate-programmes-2026-2027",
     title: "FUNAAB Introduces Six New Undergraduate Programmes for 2026/2027 Admission",
     category: "Education",

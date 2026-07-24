@@ -50,6 +50,196 @@ const currentDate = '2026-07-14'; // Current date for comparison (July 14, 2026)
 
 const allJobs: Job[] = [
   {
+    id: "senior-finance-executive-surulere-2026-07-23",
+    title: "Senior Finance Executive",
+    date: "2026-07-23",
+    location: "Surulere, Lagos",
+    type: "Full-time",
+    seniority: "Senior",
+    company: "FMCG",
+    salary: "₦500,000 – ₦650,000 Net per month",
+    summary: "We are seeking a highly motivated and experienced Senior Finance Executive to join our finance team. The ideal candidate must be ICAN qualified, possess strong accounting knowledge, and have hands-on experience in a manufacturing environment. The successful candidate will support financial reporting, budgeting, cost control, compliance, and day-to-day finance operations while ensuring accuracy and adherence to accounting standards.",
+    responsibilities: [
+      "Prepare accurate monthly, quarterly, and annual financial reports.",
+      "Manage general ledger activities and ensure timely month-end and year-end closing.",
+      "Monitor and reconcile bank accounts, receivables, payables, and fixed assets.",
+      "Prepare and review journal entries and account reconciliations.",
+      "Support budgeting, forecasting, and financial analysis.",
+      "Monitor production costs and provide cost analysis to support business decisions.",
+      "Ensure compliance with tax regulations, statutory reporting, and accounting standards.",
+      "Coordinate with auditors during internal and external audits.",
+      "Develop and maintain financial controls and process improvements.",
+      "Prepare management reports and provide insights on financial performance.",
+      "Perform other finance and accounting duties as assigned."
+    ],
+    requirements: [
+      "ICAN qualification is mandatory.",
+      "Minimum of 4–6 years’ post-qualification experience in finance and accounting.",
+      "Manufacturing industry experience is highly preferred.",
+      "Strong knowledge of financial reporting, accounting principles, taxation, and cost accounting.",
+      "Advanced proficiency in Microsoft Excel (Pivot Tables, VLOOKUP/XLOOKUP, SUMIFS, data analysis, etc.).",
+      "Experience with ERP or accounting software is an added advantage.",
+      "Strong analytical and problem-solving skills.",
+      "Excellent attention to detail and accuracy.",
+      "High level of integrity and confidentiality.",
+      "Ability to work diligently and meet deadlines.",
+      "Good communication and interpersonal skills.",
+      "Strong organizational and time management skills."
+    ],
+    apply: "Send your CV to cv@ascentech.com.ng using the title as the subject of the mail.” SENIOR Finance “14.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "finance-officer-magodo-2026-07-23",
+    title: "Finance Officer",
+    date: "2026-07-23",
+    location: "Magodo, Lagos, Nigeria",
+    type: "Full-time",
+    company: "Wayfare Travels",
+    salary: "₦150,000 - ₦200,000 Net monthly",
+    summary: "A fast-growing travel agency in Magodo, Lagos is urgently looking for a Finance Officer to join their team.",
+    responsibilities: [
+      "Bookkeeping and financial record keeping",
+      "Accounts Payable & Receivable management",
+      "Tax filing: VAT, WHT, PAYE",
+      "Payroll support and monthly reports",
+      "Other finance-related duties as assigned"
+    ],
+    requirements: [
+      "B.Sc/HND in Accounting or related field.",
+      "Fresh graduate OR 1-2 years experience in bookkeeping, Accounts Payable & Receivable, and Tax filing",
+      "Age: 22 – 28 years",
+      "Proximity to Magodo is an added advantage"
+    ],
+    apply: "Interested and qualified candidates should send their CV to: hchukwu@wayfaretravels.ng with the subject: Finance Officer – [Your Name]",
+    deadline: "Not Specified"
+  },
+  {
+    id: "customer-support-officer-vi-2026-07-23",
+    title: "Customer Support Officer",
+    date: "2026-07-23",
+    location: "VI, Lagos",
+    type: "Full-time",
+    salary: "N300,000 – N450,000 / month",
+    summary: "As the Customer Support Officer, you will be responsible for providing exceptional support to users, resolving customer inquiries, facilitating seamless onboarding, and ensuring a positive customer experience across the company’s digital financial products.",
+    responsibilities: [
+      "Respond promptly to customer inquiries, complaints, and support requests across phone, email, chat, and social media channels",
+      "Guide users through onboarding, account setup, transactions, and platform-related issues",
+      "Investigate and resolve customer concerns while escalating complex issues to relevant teams when necessary",
+      "Maintain accurate records of customer interactions and provide feedback to improve products and services",
+      "Educate customers on platform features, payment processes, and digital financial solutions to enhance user experience"
+    ],
+    requirements: [
+      "Bachelor’s Degree in Business Administration, Finance, Economics, Communications, or a related field",
+      "2-4 years experience in customer support, customer success, relationship management, or a similar role within fintech, banking, payments, crypto, or financial services",
+      "Strong understanding of digital payments, fintech products and customer service best practices",
+      "Good knowledge of stablecoin dynamics, blockchain addresses, wallet networks, and digital asset transactions",
+      "Must have hands-on experience transacting with stablecoins and supporting customers on transaction-related issues."
+    ],
+    apply: "https://lnkd.in/euy_gmMc",
+    deadline: "18th August, 2026"
+  },
+  {
+    id: "operations-support-officer-lagos-2026-07-23",
+    title: "Operations Support Officer",
+    date: "2026-07-23",
+    location: "Lagos",
+    type: "Full-time (Hybrid)",
+    company: "Liberty NG",
+    salary: "Competitive salary + real growth path",
+    summary: "Are you organized, sharp with Excel, and the type who never lets things fall through the cracks? We want you on our team.",
+    responsibilities: [],
+    requirements: [
+      "OND/HND/BSc (any field)",
+      "1–3 yrs experience (operations/admin/support)",
+      "Good with Excel & records"
+    ],
+    apply: "Send your CV to hr@libertyng.com Subject: Operations Support – Your Name",
+    deadline: "Not Specified"
+  },
+  {
+    id: "full-stack-development-intern-ogba-2026-07-23",
+    title: "Full Stack Development Intern",
+    date: "2026-07-23",
+    location: "Ogba, Lagos, Nigeria",
+    type: "Internship",
+    company: "Industrial Automation",
+    salary: "Not Specified",
+    summary: "A corper who is currently in need of PPA in Lagos is needed in our organization.",
+    responsibilities: [],
+    requirements: [
+      "Currently in need of PPA in Lagos."
+    ],
+    apply: "To apply, click the link: https://docs.google.com/forms/d/e/1FAIpQLSeZBcIZrUJcqacyyZ5vxqzW7lZvYtN5xqWqo4Y3d0fTOiZecA/viewform?usp=header",
+    deadline: "Not Specified"
+  },
+  {
+    id: "halliburton-multiple-roles-ph-2026-07-23",
+    title: "Multiple Roles at Halliburton",
+    date: "2026-07-23",
+    location: "Port Harcourt",
+    type: "Full-time",
+    company: "Halliburton",
+    salary: "Not Specified",
+    summary: "Halliburton NIGERIA is hiring for multiple roles in Port Harcourt.",
+    responsibilities: [
+      "Svc Leader – Surface Well Testing: Lead Surface Well Testing operations & personnel development. Customer interface, HMS compliance, and operational excellence.",
+      "Svc Spec – Surface Well Testing II: Rig up/down SWT equipment for well testing operations. Mentoring, data QC, and customer reporting.",
+      "Field Prof – Reservoir Evaluation: Job design, reservoir evaluation & post job analysis. Technical support to customers and mentoring AFPs/FPs."
+    ],
+    requirements: [
+      "Svc Leader – Surface Well Testing: 10+ years SWT experience + Technical Degree required.",
+      "Svc Spec – Surface Well Testing II: 7+ years SWT experience required.",
+      "Field Prof – Reservoir Evaluation: BSc Engineering/Physics/Geology/Math + 6 years experience, 4 years in Well Testing."
+    ],
+    apply: "Svc Leader: https://lnkd.in/eRRdmx7u, Svc Spec: https://lnkd.in/emu8KnY6, Field Prof: https://lnkd.in/eEaQB_6k",
+    deadline: "Not Specified"
+  },
+  {
+    id: "head-of-credit-credit-risk-analyst-digital-bank-2026-07-23",
+    title: "Head of Credit / Credit Risk Analyst",
+    date: "2026-07-23",
+    location: "Not Specified",
+    type: "Full-time",
+    company: "A technology-first digital bank",
+    salary: "Head of Credit: 1.4m – 1.8m monthly net, Credit Risk Analyst: 400k – 600k monthly net",
+    summary: "A technology-first digital bank is recruiting for Head of Credit and Credit Risk Analyst roles.",
+    responsibilities: [],
+    requirements: [
+      "Relevant experience in similar roles within the financial services industry is mandatory."
+    ],
+    apply: "Interested candidates who meet the requirements should apply here: https://forms.gle/pabkMe9Q6NJt1tQ86",
+    deadline: "Not Specified"
+  },
+  {
+    id: "head-hni-banking-lagos-2026-07-23",
+    title: "Head, HNI Banking",
+    date: "2026-07-23",
+    location: "Lagos, Nigeria",
+    type: "Full-time",
+    company: "Digital-first bank",
+    salary: "3m – 4m with other benefits such as an official car, fueling, etc.",
+    summary: "A digital-first bank is hiring a Head, HNI Banking to lead its Prestige Banking division—the arm that serves High Net Worth Individuals (wealthy clients). Your job is to win these clients, keep them happy, and grow the money they bank and invest with us.",
+    responsibilities: [
+      "Attract and retain wealthy clients. Build the strategy to bring in HNIs across Nigeria and Africa and keep them loyal.",
+      "Grow their deposits and investments; lead efforts to increase deposits, managed funds, and premium loans.",
+      "Design solutions for the wealthy; create tailored wealth management and structured lending products for affluent clients",
+      "Deliver premium service; offer concierge-level banking, exclusive VIP experiences, and personalised relationship management",
+      "Lead the team; mentor and manage the HNI Banking team to hit its targets",
+      "Stay compliant and ensure all activity meets risk, AML, and KYC requirements"
+    ],
+    requirements: [
+      "Bachelor’s degree in Finance, Banking, Economics, Investment Management, or a related field (MBA or professional certification is an advantage)",
+      "10–12 years’ experience in private banking or wealth management, with at least 5 years in a senior leadership role",
+      "Strong knowledge of investment products, portfolio management, and financial instruments",
+      "A proven track record of winning and retaining wealthy clients",
+      "Excellent relationship and advisory skills, with the confidence to engage ultra-high-net-worth individuals",
+      "The right candidate has spent years managing relationships with wealthy clients and can show real results — deposits raised, portfolios grown, top clients retained."
+    ],
+    apply: "Interested candidates who meet the requirements should apply here: https://forms.gle/XyLQsspDUjebmcHF6",
+    deadline: "Not Specified"
+  },
+  {
     id: "senior-sales-executive-financial-services-ikoyi-2026-07-22",
     title: "Senior Sales Executive – Financial Services",
     date: "2026-07-22",

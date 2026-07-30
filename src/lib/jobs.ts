@@ -50,6 +50,834 @@ const currentDate = '2026-07-14'; // Current date for comparison (July 14, 2026)
 
 const allJobs: Job[] = [
   {
+    id: "design-lead-fashion-garment-manufacturing-ikeja-2026",
+    title: "Design Lead (Fashion & Garment Manufacturing)",
+    date: "2026-07-30",
+    location: "Ikeja, Lagos",
+    type: "Full-time (On-site)",
+    company: "Leading Nigerian fashion brand",
+    salary: "Open to Negotiation",
+    summary: "Our client, a leading Nigerian fashion brand with over 25 years of excellence and 11 retail stores nationwide, is seeking an experienced Design Lead to drive the creative direction and product development of its apparel collections.",
+    responsibilities: [
+      "Lead seasonal design planning and product development.",
+      "Manage and mentor designers, technical designers, and pattern makers.",
+      "Oversee sketches, tech packs, fabric selection, and design reviews.",
+      "Collaborate with production teams to ensure designs are production-ready.",
+      "Research global fashion trends and consumer preferences.",
+      "Maintain quality standards and drive innovation across collections."
+    ],
+    requirements: [
+      "Bachelor’s degree in Fashion Design, Textile Design, or a related field.",
+      "Minimum of 5 years’ experience in Fashion Design, including at least 2 years in a leadership role.",
+      "Strong portfolio showcasing apparel collections, garment construction, and design leadership.",
+      "Proficiency in Adobe Illustrator, CLO 3D, tech pack development, and fabric selection.",
+      "Previous experience with a fashion brand, apparel retailer, or garment manufacturing company is essential."
+    ],
+    apply: "Qualified candidates with relevant fashion industry experience should send their CV to bradfieldforms@gmail.com using “Design Lead” as the subject of the email.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "nysc-administrative-internship-surulere-2026",
+    title: "NYSC Administrative Internship Opportunity",
+    date: "2026-07-30",
+    location: "Surulere, Lagos",
+    type: "Internship",
+    salary: "Not Specified",
+    summary: "Are you currently serving and looking for NYSC placement where you can gain practical administrative experience and develop valuable workplace skills? We’re looking for a proactive and detail-oriented Administrative Intern (NYSC Corps Member) to join our team!",
+    responsibilities: [
+      "Provide administrative support to daily office operations.",
+      "Prepare and maintain accurate records, reports, and documentation.",
+      "Update and manage data using Microsoft Excel and other Microsoft Office applications.",
+      "Assist with filing, document management, and office correspondence.",
+      "Support scheduling, coordination of meetings, and other administrative activities.",
+      "Perform other administrative duties as assigned."
+    ],
+    requirements: [
+      "PROFICIENCY IN MICROSOFT OFFICE SUITE, WITH STRONG KNOWLEDGE OF MICROSOFT EXCEL(DATA ENTRY, SPREADSHEETS, RECORD KEEPING, AND BASIC FORMULAS).",
+      "Bachelor’s degree or HND in Business Administration, Public Administration, Office Technology & Management, Human Resource Management,Economics, Accounting, or any related discipline.",
+      "Good written and verbal communication skills.",
+      "Strong organizational skills and attention to detail.",
+      "Ability to manage multiple tasks and maintain accurate records.",
+      "Willingness to learn, take initiative, and work effectively in a team.",
+      "Candidates residing in or around Surulere are strongly preferred for ease of commuting."
+    ],
+    apply: "Interested candidates should send their CV to oreoluwaenik@gmail.com with the subject line: NYSC Administrative Intern Application – Full Name",
+    deadline: "Not Specified"
+  },
+  {
+    id: "loan-officer-multiple-locations-2026",
+    title: "Loan Officer",
+    date: "2026-07-30",
+    location: "Ajangbadi, Iba, Surulere & Aguda",
+    type: "On-site",
+    salary: "₦100,000 Monthly",
+    summary: "A leading financial institution is recruiting passionate, disciplined, and target-driven Loan Officers to join its team.",
+    responsibilities: [
+      "Identify and onboard new loan customers.",
+      "Market the institution’s loan products within assigned communities.",
+      "Conduct customer verification and business assessments.",
+      "Monitor loan repayments and follow up on delinquent accounts.",
+      "Build and maintain strong customer relationships."
+    ],
+    requirements: [
+      "OND, HND, or B.Sc.",
+      "Good communication and negotiation skills.",
+      "Sales, marketing, or customer service experience is an advantage.",
+      "Must be willing to work in the field."
+    ],
+    apply: "Send your CV to: veraveracity24@gmail.com",
+    deadline: "Not Specified"
+  },
+  {
+    id: "internal-auditor-multiple-locations-2026",
+    title: "Internal Auditor",
+    date: "2026-07-30",
+    location: "Ajangbadi, Iba, Surulere & Aguda",
+    type: "On-site",
+    salary: "₦120,000 Monthly",
+    summary: "We are looking for a detail-oriented and highly ethical Internal Auditor to strengthen operational compliance.",
+    responsibilities: [
+      "Conduct routine audits of branch operations.",
+      "Ensure compliance with company policies and procedures.",
+      "Investigate operational discrepancies and report findings.",
+      "Prepare audit reports and recommend corrective actions.",
+      "Monitor adherence to internal control processes."
+    ],
+    requirements: [
+      "HND/B.Sc. in Accounting, Finance, or a related discipline.",
+      "Strong analytical and reporting skills.",
+      "High level of integrity and professionalism.",
+      "Previous audit experience is an added advantage."
+    ],
+    apply: "Send your CV to: veraveracity24@gmail.com",
+    deadline: "Not Specified"
+  },
+  {
+    id: "branch-manager-multiple-locations-2026",
+    title: "Branch Manager",
+    date: "2026-07-30",
+    location: "Ajangbadi, Iba, Surulere & Aguda",
+    type: "On-site",
+    salary: "₦150,000 Monthly",
+    summary: "We are seeking experienced Branch Managers to lead branch operations and drive business growth.",
+    responsibilities: [
+      "Supervise and coach Loan Officers.",
+      "Drive customer acquisition and loan portfolio growth.",
+      "Monitor branch performance and ensure target achievement.",
+      "Oversee loan recovery and portfolio quality.",
+      "Prepare branch reports and ensure operational compliance."
+    ],
+    requirements: [
+      "HND/B.Sc. in any discipline.",
+      "Leadership or supervisory experience.",
+      "Strong business development and people management skills.",
+      "Experience in financial services is an advantage.",
+      "Only serious candidates who are willing to work should apply."
+    ],
+    apply: "Send your CV to: veraveracity24@gmail.com",
+    deadline: "Not Specified"
+  },
+  {
+    id: "area-manager-multiple-locations-2026",
+    title: "Area Manager",
+    date: "2026-07-30",
+    location: "Ajangbadi, Iba, Surulere & Aguda",
+    type: "On-site",
+    salary: "₦200,000 – ₦250,000 Monthly",
+    summary: "We are recruiting experienced professionals to oversee multiple branches and drive operational excellence.",
+    responsibilities: [
+      "Supervise Branch Managers across assigned locations.",
+      "Drive business growth and ensure branches meet performance targets.",
+      "Monitor branch operations, compliance, and loan portfolio quality.",
+      "Coach and mentor Branch Managers to improve performance.",
+      "Prepare performance reports and implement improvement strategies."
+    ],
+    requirements: [
+      "Bachelor’s Degree in any discipline.",
+      "Proven experience managing multiple teams or branches.",
+      "Strong leadership, business development, and problem-solving skills.",
+      "Financial services or microfinance experience is an advantage.",
+      "Only serious candidates who are willing to work should apply."
+    ],
+    apply: "Send your CV to: veraveracity24@gmail.com",
+    deadline: "Not Specified"
+  },
+  {
+    id: "social-media-associate-rtw-fashion-2026",
+    title: "Social Media Associate (RTW Fashion Brand)",
+    date: "2026-07-30",
+    location: "Lagos",
+    type: "Remotely (Only comes in during campaigns)",
+    salary: "₦100,000 /month with data allowance",
+    summary: "A RTW fashion brand is looking for a SOCIAL MEDIA ASSOCIATE to direct our online presence, lead our brand storytelling and organic growth across all our social media.",
+    responsibilities: [
+      "Manage multiple social media platforms",
+      "Write compelling captions and content",
+      "Stay updated with the latest social media trends"
+    ],
+    requirements: [
+      "Minimum of 1 year experience as a Social/Content Media Creator with a portfolio that demonstrates community building and real impact not just aesthetically pleasing post.",
+      "Creative knowledge of how to tell the brands story .",
+      "Must understand the Nigeria fashion market",
+      "Must have good Organization & Time management skills",
+      "Must know how to run ads across all Meta platform(This is A MUST)"
+    ],
+    apply: "Send CV/portfolio to: triaservices.ng@gmail.com with the job role as subject of mail",
+    deadline: "Not Specified"
+  },
+  {
+    id: "actor-presenter-nysc-ceed-academy-2026",
+    title: "Actor & Presenter (NYSC)",
+    date: "2026-07-30",
+    location: "Abuja & Lagos",
+    type: "Internship",
+    company: "CEED Academy",
+    salary: "Not Specified",
+    summary: "CEED Academy is hiring NYSC members with a strong on-camera presence for acting and presenting roles.",
+    responsibilities: [
+      "Act in corporate and commercial productions.",
+      "Present content with excellent communication skills."
+    ],
+    requirements: [
+      "Currently serving (NYSC)",
+      "Strong on-camera presence",
+      "Excellent communication and presentation skills",
+      "Ability to act naturally in corporate and commercial productions",
+      "Creative, confident, and available for scheduled shoots."
+    ],
+    apply: "Send your portfolio/showreel to: hr@weareceedacademy.com",
+    deadline: "Not Specified"
+  },
+  {
+    id: "internal-auditors-united-nigeria-airlines-enugu-2026",
+    title: "Internal Auditors (IAs)",
+    date: "2026-07-30",
+    location: "Enugu",
+    type: "Full-time",
+    company: "United Nigeria Airlines",
+    salary: "Not Specified",
+    summary: "United Nigeria Airlines is hiring Internal Auditors in Enugu.",
+    responsibilities: [
+      "Conduct internal audits.",
+      "Ensure compliance with financial regulations.",
+      "Analyze data and prepare reports."
+    ],
+    requirements: [
+      "Candidate must possess a first degree (BSC.) in Accounting, Finance, Economics, Business Administration, Computer Science, Data Analytics, Data Science, Risk Management, Risk Analysis.",
+      "Employers prefer applicants with advanced certifications like ACA (ICAN), ACCA, CISA, CIA, CPA, CFE, CFA, MSC., MBA for IAs.",
+      "A minimum of 3 years post professional qualification experience for internal auditor."
+    ],
+    apply: "Interested and qualified candidates should send their resume and cover letter detailing their relevant experience, Location and qualifications to: careers@flyunitednigeria.com using the Job Title as the subject of the email.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "customer-service-supervisor-prestigious-consulting-lagos-2026",
+    title: "Customer Service Supervisor",
+    date: "2026-07-30",
+    location: "Lagos",
+    type: "Full-time",
+    company: "Prestigious Consulting Group",
+    salary: "Not Specified",
+    summary: "Prestigious Consulting Group is hiring a Customer Service Supervisor in Lagos.",
+    responsibilities: [
+      "Supervise and lead a team of Customer Service Representatives.",
+      "Monitor daily customer service operations.",
+      "Handle and resolve escalated customer complaints."
+    ],
+    requirements: [
+      "Bachelor’s Degree or HND in Business Administration, Marketing, Customer Service Management, Mass Communication, or a related field.",
+      "Minimum of 3 years’ experience in customer service within an electronics showroom, consumer electronics retail store, home appliance company, LG showroom, or similar electronics environment.",
+      "Proven experience handling customer complaints, warranty issues, and after-sales service processes.",
+      "Experience supervising or coordinating customer service teams is highly preferred.",
+      "Exposure to multi-branch or retail operations is an added advantage"
+    ],
+    apply: "Send CV to: hr@prestigiousconsultinggroup.ng using the Job Title as the subject of the email.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "graduate-trainee-ruhe-global-resources-abuja-2026",
+    title: "Graduate Trainee",
+    date: "2026-07-30",
+    location: "Abuja",
+    type: "Graduate Trainee",
+    company: "Ruhe Global Resources (RGR)",
+    salary: "Not Specified",
+    summary: "Ruhe Global Resources (RGR) is hiring Graduate Trainees in Abuja.",
+    responsibilities: [],
+    requirements: [
+      "A Bachelor’s Degree in Business Administration, Management or a related discipline.",
+      "Completion of NYSC or currently serving.",
+      "Recent graduates are encouraged to apply."
+    ],
+    apply: "https://ruheglobalresources.zohorecruit.com/jobs/Careers/614266000008541031/Graduate-Trainee",
+    deadline: "Not Specified"
+  },
+  {
+    id: "business-development-manager-travel-tourism-vi-2026",
+    title: "Business Development Manager",
+    date: "2026-07-30",
+    location: "Victoria Island, Lagos (Hybrid)",
+    type: "Full-time",
+    company: "Travel & Tourism",
+    salary: "₦350,000 Net Monthly + Commission",
+    summary: "CoreHR Consulting is recruiting for a client in the travel & tourism industry for the role of Business Development Manager.",
+    responsibilities: [
+      "Generate and close new corporate and leisure travel business",
+      "Manage the full sales cycle from prospecting to closing",
+      "Build and maintain a strong sales pipeline and client relationships",
+      "Prepare proposals, quotations, and sales presentations",
+      "Achieve revenue targets and maintain accurate CRM records"
+    ],
+    requirements: [
+      "Minimum 5 years’ experience in B2B sales, business development, or corporate account management",
+      "Bachelor’s degree or HND in Marketing, Business Administration, or a related field",
+      "Strong lead generation, negotiation, and closing skills",
+      "Proficiency in CRM systems and Microsoft Office",
+      "Experience in the travel, hospitality, or luxury services sector is an advantage"
+    ],
+    apply: "https://forms.gle/XnkCA4NoPP7Qy6tP8",
+    deadline: "Not Specified"
+  },
+  {
+    id: "open-application-globacom-nigeria-2026",
+    title: "Open Application for New Talents",
+    date: "2026-07-30",
+    location: "Nigeria",
+    type: "Full-time",
+    company: "Globacom",
+    salary: "Not Specified",
+    summary: "Globacom is looking for talent across different fields who always want to take themselves and the entire team to the next level.",
+    responsibilities: [],
+    requirements: [],
+    apply: "Send your application to: careers@gloworld.com",
+    deadline: "Not Specified"
+  },
+  {
+    id: "social-media-manager-fashion-omole-2026",
+    title: "Social Media Manager",
+    date: "2026-07-30",
+    location: "Omole Phase 2, Lagos (on-site)",
+    type: "Full-time",
+    salary: "Not Specified",
+    summary: "A fashion brand is looking for a Social Media Manager.",
+    responsibilities: [
+      "Manage social media platforms.",
+      "Create content and follow social media trends.",
+      "Take catchy product images and videos."
+    ],
+    requirements: [
+      "Experience as a social media personnel or in a similar role.",
+      "Experience with social media platforms and analytics tools.",
+      "Passion for fashion and loves handbags.",
+      "Excellent written and verbal communication skills.",
+      "Ability to create content and follow social media trends.",
+      "Proficient in photo and video editing.",
+      "Ability to take catchy product images and videos."
+    ],
+    apply: "Send your latest CV to: bagsnextrarecruit@gmail.com",
+    deadline: "Not Specified"
+  },
+  {
+    id: "branch-sales-supervisor-mowe-ogun-2026",
+    title: "Branch Sales Supervisor",
+    date: "2026-07-30",
+    location: "Ofada Road, Mowe, Ogun State",
+    type: "Full-time",
+    salary: "Not Specified",
+    summary: "A company is hiring a Branch Sales Supervisor in Mowe, Ogun State.",
+    responsibilities: [
+      "Supervise and coordinate daily sales activities",
+      "Monitor and improve order-to-delivery conversion rates",
+      "Set, track, and achieve sales targets",
+      "Coach and train sales representatives",
+      "Analyze sales performance and KPIs",
+      "Ensure prompt lead follow-up and order confirmation",
+      "Drive upselling and increase Average Order Value (AOV)",
+      "Prepare daily and weekly sales reports"
+    ],
+    requirements: [],
+    apply: "Send your CV to vitalreliefafrica@gmail.com",
+    deadline: "Not Specified"
+  },
+  {
+    id: "graduate-trainee-ericsson-telecom-2026",
+    title: "Graduate Trainee Opportunity at ERICSSON",
+    date: "2026-07-30",
+    location: "Lagos, Nigeria",
+    type: "Graduate Trainee",
+    company: "Ericsson",
+    salary: "Not Specified",
+    summary: "Ericsson is hiring Graduate Trainees for its Business Operations in the Telecommunications sector.",
+    responsibilities: [],
+    requirements: [
+      "Degree in Business Administration, Management, Human Resources, Economics, Logistics, Supply Chain, or a related field",
+      "Recently graduated or in the early stages of your professional career"
+    ],
+    apply: "https://jobs.ericsson.com/careers/job/563121776859744",
+    deadline: "Not Specified"
+  },
+  {
+    id: "civil-engineer-primavera-ajah-2026",
+    title: "Civil Engineer (2 Positions)",
+    date: "2026-07-30",
+    location: "Ajah, Lagos",
+    type: "Full-time",
+    company: "Primavera Engineering & Construction Nig. Ltd.",
+    salary: "Negotiable based on experience",
+    summary: "Primavera Engineering & Construction Nig. Ltd. is seeking experienced Civil Engineers to join their team.",
+    responsibilities: [],
+    requirements: [
+      "B.Eng./B.Sc. in Civil Engineering.",
+      "Relevant construction industry experience.",
+      "Strong knowledge of site supervision and project execution.",
+      "Good communication and problem-solving skills.",
+      "COREN registration is an added advantage."
+    ],
+    apply: "Send your CV to promeraengineering@gmail.com with the subject “Civil Engineer Application.”",
+    deadline: "Not Specified"
+  },
+  {
+    id: "architect-primavera-ajah-2026",
+    title: "Architect (1 Position)",
+    date: "2026-07-30",
+    location: "Ajah, Lagos",
+    type: "Full-time",
+    company: "Primavera Engineering & Construction Nig. Ltd.",
+    salary: "Negotiable based on experience",
+    summary: "Primavera Engineering & Construction Nig. Ltd. is looking for a creative and experienced Architect to join their team.",
+    responsibilities: [],
+    requirements: [
+      "B.Sc./M.Sc. in Architecture.",
+      "Relevant work experience.",
+      "Proficiency in AutoCAD and other design software.",
+      "Strong design and project coordination skills."
+    ],
+    apply: "Send your CV to promeraengineering@gmail.com with the subject “Architect Application.”",
+    deadline: "Not Specified"
+  },
+  {
+    id: "sales-executive-business-school-ph-2026",
+    title: "Sales Executive",
+    date: "2026-07-30",
+    location: "Old GRA, Port Harcourt, Rivers State",
+    type: "Full-time",
+    company: "Reputable Business School",
+    gender: "Female",
+    salary: "#200,000 Net plus other benefits",
+    summary: "A reputable Business School in Port Harcourt is seeking a highly motivated, confident, and results driven Sales Executive to join its team.",
+    responsibilities: [
+      "Identify and engage prospective students, professionals, organisations, and corporate clients.",
+      "Promote the school’s executive education, professional development, and business programmes to prospective clients.",
+      "Generate, follow up, and convert leads into successful enrolments.",
+      "Develop and implement effective sales strategies to achieve assigned enrolment and revenue targets.",
+      "Conduct sales presentations, consultations, calls, and follow ups with prospective students and corporate clients.",
+      "Build and maintain a strong pipeline of qualified prospects.",
+      "Develop relationships with organisations and key decision makers for corporate training and institutional partnerships.",
+      "Maintain accurate records of prospects, enquiries, follow ups, conversions, and other sales activities.",
+      "Provide regular sales reports and updates on leads, conversions, revenue, and market opportunities.",
+      "Gather market intelligence and provide feedback on customer needs, competitors, and emerging opportunities.",
+      "Collaborate with the marketing and programme teams to support campaigns, events, and other student recruitment initiatives."
+    ],
+    requirements: [
+      "Minimum of HND or Bachelor’s Degree (B.Sc.) in Marketing, Business Administration, Management, or a related discipline.",
+      "Minimum of 2 years relevant sales or business development experience.",
+      "Previous experience in the education, training, professional services, consulting, or related sector will be an added advantage.",
+      "Demonstrated ability to meet and exceed sales targets.",
+      "Strong prospecting, lead generation, negotiation, and closing skills.",
+      "Excellent communication, presentation, and interpersonal skills.",
+      "Strong customer relationship management and follow up skills.",
+      "Ability to work independently, take initiative, and deliver measurable results.",
+      "Good knowledge of Microsoft Office and digital communication tools.",
+      "Candidates should preferably reside within Port Harcourt or be able to commute conveniently to Old GRA."
+    ],
+    apply: "https://forms.gle/vq61z7Q8Xo1qtPi3A",
+    deadline: "24th July, 2026"
+  },
+  {
+    id: "remote-administrative-assistant-lait-foundation-2026",
+    title: "Remote Administrative Assistant",
+    date: "2026-07-30",
+    location: "Remote",
+    type: "Full-time",
+    company: "LAIT Foundation Africa",
+    salary: "Not Specified",
+    summary: "LAIT Foundation Africa is recruiting a proactive and organized Administrative Assistant to support its daily operations, coordinate schedules, maintain records, and ensure the smooth delivery of programmes and office activities.",
+    responsibilities: [
+      "Manage daily administrative and office support tasks.",
+      "Schedule and coordinate meetings.",
+      "Maintain records and organize documents.",
+      "Handle emails, phone calls, and official correspondence.",
+      "Support programme coordination and office operations.",
+      "Maintain filing and documentation systems.",
+      "Provide administrative support to team members.",
+      "Track deadlines, meetings, and important activities."
+    ],
+    requirements: [
+      "Strong organizational and time management skills.",
+      "Excellent written and verbal communication skills.",
+      "Attention to detail and professionalism.",
+      "Ability to manage multiple tasks effectively.",
+      "Good record-keeping and documentation skills.",
+      "Ability to work independently and as part of a team."
+    ],
+    apply: "Interested and qualified candidates should send their application to: laitafrica@gmail.com",
+    deadline: "30th July, 2026"
+  },
+  {
+    id: "personal-assistant-to-vice-chairman-ikoyi-2026-07-29",
+    title: "Personal Assistant to the Vice Chairman",
+    date: "2026-07-29",
+    location: "Ikoyi, Lagos",
+    type: "Full-time",
+    salary: "Not Specified",
+    summary: "We are seeking a highly organized, proactive, and discreet Personal Assistant to provide comprehensive administrative, executive, and personal support to the Vice Chairman.",
+    responsibilities: [
+      "Manage the Vice Chairman’s calendar, correspondence, and daily schedule.",
+      "Coordinate local and international travel, including visas, flight bookings, and logistics.",
+      "Draft, edit, and proofread correspondence, reports, speeches, and other documents.",
+      "Support meetings, events, and special projects, including representing the Vice Chairman when required.",
+      "Liaise with internal teams, directors, vendors, and external stakeholders.",
+      "Manage confidential information, personal errands, and inventory of personal and corporate items.",
+      "Perform other duties as assigned by the Vice Chairman."
+    ],
+    requirements: [
+      "Bachelor’s degree in a relevant discipline.",
+      "Minimum of 3–5 years of proven experience as a Personal Assistant or Executive Assistant supporting C-suite or senior executives in a fast-paced, high-demand environment.",
+      "Experience working within well-established blue-chip or other highly reputable organizations is highly preferred.",
+      "Demonstrated career stability, with a tenure of ideally two years or more in previous roles, reflecting commitment, professionalism, and reliability.",
+      "Excellent organizational, communication, and time management skills.",
+      "Strong administrative, project coordination, and event management experience.",
+      "Proficiency in Microsoft Office 365.",
+      "High level of discretion, professionalism, and attention to detail.",
+      "Experience coordinating international travel and managing complex schedules is an added advantage.",
+      "Good Bible knowledge is an added advantage."
+    ],
+    apply: "Interested and qualified candidates should send their CV to cv@ascentech.com.ng using “Personal Assistant to the Vice Chairman” as the subject of the email.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "data-protection-officer-lagos-2026-07-29",
+    title: "Data Protection Officer",
+    date: "2026-07-29",
+    location: "Lagos, Nigeria",
+    type: "Full-time",
+    company: "Microfinance Bank / Commercial Bank",
+    salary: "Not Specified",
+    summary: "We are seeking a Data Protection Officer with 4–5 years of relevant experience to oversee the Bank’s information security framework, ensure compliance with data protection regulations, and safeguard the organization’s information assets.",
+    responsibilities: [
+      "Implement and maintain information security policies, procedures, and controls.",
+      "Ensure compliance with the Nigeria Data Protection Act (NDPA), CBN regulations, and other regulatory requirements.",
+      "Conduct information security and data protection risk assessments.",
+      "Monitor security incidents, investigate breaches, and coordinate remediation efforts.",
+      "Develop and maintain data protection and cybersecurity governance frameworks.",
+      "Conduct periodic security awareness and data privacy training for employees.",
+      "Support internal and external audits relating to information security and data protection.",
+      "Prepare security and compliance reports for management and regulators.",
+      "Identify emerging cyber threats and recommend appropriate mitigation measures.",
+      "Liaise with regulators, auditors, and relevant stakeholders on security and privacy matters."
+    ],
+    requirements: [
+      "Bachelor’s Degree in Computer Science, Information Technology, Cybersecurity, or a related discipline.",
+      "Must have Data Protection Certificate",
+      "Minimum of 4–5 years’ experience in Information Security, Data Protection, or IT Governance.",
+      "Experience within a Microfinance Bank, Commercial Bank, or Fintech is highly preferred.",
+      "Sound knowledge of NDPA, CBN regulations, ISO 27001, cybersecurity frameworks, and risk management principles."
+    ],
+    apply: "Qualified Candidates should send their applications to Dect.recruitment@gmail.com",
+    deadline: "Not Specified"
+  },
+  {
+    id: "blow-machine-technician-lagos-2026-07-29",
+    title: "Blow Machine Technician",
+    date: "2026-07-29",
+    location: "Lagos State (Mainland)",
+    type: "Full-time",
+    salary: "₦200,000 – ₦300,000",
+    summary: "We are seeking an experienced Blow Machine Technician to operate, set up, maintain, and troubleshoot blow molding machines to ensure efficient production and minimal downtime.",
+    responsibilities: [],
+    requirements: [
+      "OND and/or Trade Test I, II & III in Mechanical, Electrical, Industrial Maintenance, or related field.",
+      "4–5 years’ hands-on experience in a plastic manufacturing company.",
+      "Experience operating Jagmohan, CMP, IBM (Injection Blow Molding), and John Huah blow molding machines.",
+      "Strong knowledge of machine setup, mold changes, troubleshooting, and preventive maintenance.",
+      "Good understanding of quality control and safety procedures.",
+      "Ability to work independently and meet production targets."
+    ],
+    apply: "Qualified candidates should send their CV to cv@ascentech.com.ng using “Blow Machine Technician” as the subject of the email.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "executive-driver-ikoyi-2026-07-29",
+    title: "Executive Driver",
+    date: "2026-07-29",
+    location: "Ikoyi, Lagos",
+    type: "Full-time",
+    company: "Corporate",
+    salary: "Not Specified",
+    summary: "A reputable organization is seeking a reliable and experienced Executive Driver to provide safe and efficient transportation for company executives.",
+    responsibilities: [
+      "Safely transport executives to meetings, appointments, and official engagements.",
+      "Plan efficient routes to ensure timely arrival at all destinations.",
+      "Maintain the assigned vehicle in excellent condition through regular cleaning and routine inspections.",
+      "Ensure scheduled vehicle servicing and promptly report any faults or maintenance issues.",
+      "Keep accurate records of trips, fuel purchases, and vehicle maintenance.",
+      "Comply with all traffic laws and company driving policies.",
+      "Maintain confidentiality regarding executives’ schedules and activities.",
+      "Be available to work flexible hours, including weekends and public holidays when required."
+    ],
+    requirements: [
+      "Minimum of SSCE or its equivalent.",
+      "Valid Nigerian driver’s licence with a clean driving record.",
+      "Minimum of 3 years’ experience as an Executive Driver or in a similar role.",
+      "Excellent knowledge of Lagos roads and traffic patterns.",
+      "Strong communication and interpersonal skills.",
+      "Professional appearance, punctuality, and a high level of integrity.",
+      "Ability to remain calm under pressure and exercise sound judgment."
+    ],
+    apply: "Qualified candidates should send their CV to queenufedoh@gmail.com with the subject “Executive Driver – Ikoyi”.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "outlet-concept-manager-furniture-abuja-2026-07-29",
+    title: "Outlet Concept Manager – Furniture",
+    date: "2026-07-29",
+    location: "Abuja",
+    type: "Full-time",
+    salary: "₦250,000 – ₦350,000 per month",
+    summary: "The Outlet Concept Manager (OCM) is responsible for the day-to-day management and performance of the Furniture Showroom. The role combines sales leadership, showroom management, and customer engagement with strict adherence to brand standards in visual merchandising.",
+    responsibilities: [
+      "Achieve individual showroom sales targets.",
+      "Assist customers with product selection and provide design recommendations.",
+      "Maintain showroom presentation and visual merchandising standards.",
+      "Process customer orders accurately and manage inventory records.",
+      "Monitor competitor activities and market trends.",
+      "Provide customer and market insights to the Retail Sales Manager."
+    ],
+    requirements: [
+      "Degree or Diploma in Interior Design, Marketing, Retail Management, or a related field.",
+      "3–5 years of retail sales experience, preferably in furniture or home décor.",
+      "Strong sales, communication, and customer service skills.",
+      "Good organizational, reporting, and computer skills.",
+      "Knowledge of showroom management and visual merchandising is an advantage."
+    ],
+    apply: "Interested and qualified candidates should send their updated CV to cv@ascentech.com.ng using “OCM ABUJA14” as the subject line of the email.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "internal-auditor-manufacturing-lagos-2026-07-29",
+    title: "Internal Auditor (Manufacturing)",
+    date: "2026-07-29",
+    location: "Lagos",
+    type: "Full-time",
+    salary: "Open",
+    summary: "The Internal Auditor provides independent and objective assurance to improve the organization’s operations by evaluating the effectiveness of internal controls, risk management, and governance processes.",
+    responsibilities: [
+      "Develop and execute risk-based audit plans.",
+      "Evaluate internal controls across procurement, production, inventory, sales, payroll, and finance.",
+      "Conduct routine, surprise, and special audits.",
+      "Verify inventory, production records, raw material usage, and operational data.",
+      "Ensure compliance with company policies, statutory regulations, and quality standards (ISO 9001).",
+      "Investigate fraud and control breaches; recommend Corrective actions.",
+      "Prepare audit reports and monitor implementation of recommendations.",
+      "Identify process improvement opportunities to enhance efficiency and reduce risk."
+    ],
+    requirements: [
+      "HND/Bachelor’s Degree in Accounting, Finance, or related field.",
+      "Professional certification (CIA, ACA, or ACCA) required.",
+      "Minimum of 5 years internal audit experience, preferably in a manufacturing or FMCG environment.",
+      "Strong knowledge of internal auditing, risk management, and manufacturing operations.",
+      "Analytical, problem-solving, and report-writing skills.",
+      "Proficiency in MS Excel, ERP systems, and audit software.",
+      "High integrity, attention to detail, and effective communication skills."
+    ],
+    apply: "Interested and qualified candidates should send their updated CV to cv@ascentech.com.ng using “ Internal Auditor 14” as the subject line of the email",
+    deadline: "Not Specified"
+  },
+  {
+    id: "sales-associate-travel-tours-2026-07-29",
+    title: "Sales Associate",
+    date: "2026-07-29",
+    location: "Not Specified",
+    type: "Onsite",
+    company: "Travel & Tours",
+    salary: "Not Specified",
+    summary: "Are you a results-driven sales professional with a passion for travel and exceeding targets? Join our growing team and help clients create unforgettable travel experiences while building a rewarding career.",
+    responsibilities: [
+      "Drive sales of travel packages, flight bookings, visa assistance, holiday tours and related services.",
+      "Generate and convert qualified leads into paying clients.",
+      "Build and maintain strong relationships with individual and corporate clients.",
+      "Consistently achieve and exceed assigned monthly sales targets.",
+      "Deliver exceptional customer service and promote repeat business."
+    ],
+    requirements: [
+      "Proven experience in sales, preferably within the travel, hospitality, or service industry.",
+      "Strong negotiation, communication, and relationship management skills.",
+      "Self-motivated, target-oriented, and driven to achieve exceptional results.",
+      "Ability to work independently and as part of a team."
+    ],
+    apply: "Interested and qualified candidates should send their updated CV to consultflorenze@gmail.com",
+    deadline: "Not Specified"
+  },
+  {
+    id: "content-creator-social-media-officer-ajah-2026-07-29",
+    title: "Content Creator and Social Media Officer",
+    date: "2026-07-29",
+    location: "Ajah, Lagos",
+    type: "Full-time",
+    company: "Real Estate",
+    salary: "Not Specified",
+    summary: "The Content Creator/Social Media Officer is responsible for managing the company’s online presence across various social media platforms, creating compelling and relevant content to drive engagement, and building a strong brand identity for MKH properties.",
+    responsibilities: [
+      "Manage the company’s social media platforms, including but not limited to Instagram, Facebook, X, LinkedIn, Threads, YouTube, and TikTok.",
+      "Develop and implement a content strategy aligned with the company’s goals and audience preferences.",
+      "Create engaging, informative, and visually appealing content (including photos, Videos, graphics, and written posts) for social media, and Realtor Whatsapp groups.",
+      "Work with the design team to produce high-quality visual assets for online content.",
+      "Develop promotional campaigns, client success stories, and market insights Content.",
+      "Research industry trends, competitor strategies, and customer needs to inform Content ideas.",
+      "Create compelling copy for social media captions, and other written content."
+    ],
+    requirements: [
+      "2-3 years proven experience in content creation and social media management.",
+      "Strong understanding of social media management and digital marketing strategies.",
+      "Ability to create engaging content for campaigns, promotions, and brand awareness .",
+      "Ability to analyze performance metrics and optimize content for engagement and lead generation."
+    ],
+    apply: "Qualified and Interested candidate should send updated CV and portfolio link to hr.mkhproperties@gmail.com",
+    deadline: "Not Specified"
+  },
+  {
+    id: "business-growth-executive-lagos-2026-07-29",
+    title: "Business Growth Executive",
+    date: "2026-07-29",
+    location: "Lagos",
+    type: "Full-time",
+    salary: "₦200,000 Monthly + 10% of Gross Profit",
+    summary: "Are you an experienced sales professional with a proven track record of selling to supermarkets, restaurants, hotels, or retail outlets? If you’re passionate about driving business growth and building strong client relationships, we’d love to hear from you!",
+    responsibilities: [
+      "Identify and acquire new retail and food service customers.",
+      "Build and maintain strong relationships with supermarkets, restaurants, hotels, and retail outlets.",
+      "Achieve sales and revenue targets.",
+      "Negotiate contracts and close profitable business deals.",
+      "Identify new business opportunities and grow existing accounts.",
+      "Deliver excellent customer service and maintain long-term client relationships."
+    ],
+    requirements: [
+      "Proven experience in selling to supermarkets, restaurants, hotels, or retail outlets.",
+      "Strong relationship-building and negotiation skills.",
+      "Ability to identify and close new business opportunities.",
+      "Excellent communication and customer service skills.",
+      "Target-driven, proactive, and self-motivated.",
+      "Candidates with experience in FMCG, grocery distribution, or B2B retail sales will be highly considered."
+    ],
+    apply: "Interested and qualified candidates should send their CV via WhatsApp to 0814 637 2597 OR 08118157245",
+    deadline: "Not Specified"
+  },
+  {
+    id: "head-hni-banking-lagos-2026-07-29",
+    title: "Head, HNI Banking",
+    date: "2026-07-29",
+    location: "Lagos, Nigeria",
+    type: "Full-time",
+    company: "Digital-first bank",
+    salary: "3m – 4m with other benefits such as an official car, fueling, etc.",
+    summary: "A digital-first bank is hiring a Head, HNI Banking to lead its Prestige Banking division—the arm that serves High Net Worth Individuals (wealthy clients). Your job is to win these clients, keep them happy, and grow the money they bank and invest with us.",
+    responsibilities: [
+      "Attract and retain wealthy clients. Build the strategy to bring in HNIs across Nigeria and Africa and keep them loyal.",
+      "Grow their deposits and investments; lead efforts to increase deposits, managed funds, and premium loans.",
+      "Design solutions for the wealthy; create tailored wealth management and structured lending products for affluent clients",
+      "Deliver premium service; offer concierge-level banking, exclusive VIP experiences, and personalised relationship management",
+      "Lead the team; mentor and manage the HNI Banking team to hit its targets",
+      "Stay compliant and ensure all activity meets risk, AML, and KYC requirements"
+    ],
+    requirements: [
+      "Bachelor’s degree in Finance, Banking, Economics, Investment Management, or a related field (MBA or professional certification is an advantage)",
+      "10–12 years’ experience in private banking or wealth management, with at least 5 years in a senior leadership role",
+      "Strong knowledge of investment products, portfolio management, and financial instruments",
+      "A proven track record of winning and retaining wealthy clients",
+      "Excellent relationship and advisory skills, with the confidence to engage ultra-high-net-worth individuals",
+      "The right candidate has spent years managing relationships with wealthy clients and can show real results — deposits raised, portfolios grown, top clients retained."
+    ],
+    apply: "Interested candidates who meet the requirements should apply here: https://forms.gle/XyLQsspDUjebmcHF6",
+    deadline: "Not Specified"
+  },
+  {
+    id: "sales-development-representative-lagos-ibadan-2026-07-29",
+    title: "Sales Development Representative (SDR)",
+    date: "2026-07-29",
+    location: "Lagos & Ibadan",
+    type: "Full Time (On site)",
+    salary: "Base Salary + Performance Pay",
+    summary: "Ambitious, coachable individuals who are eager to build a successful career in real estate sales. We’ll provide the training, you bring the drive.",
+    responsibilities: [
+      "Generate and qualify sales leads",
+      "Follow up with prospective clients and schedule inspections",
+      "Build strong customer relationships",
+      "Promote and sell trusted real estate products",
+      "Meet monthly sales targets"
+    ],
+    requirements: [
+      "SSCE, OND, HND, or Bachelor’s Degree",
+      "Strong communication and interpersonal skills",
+      "Self motivated and target driven",
+      "Willingness to learn and grow in sales",
+      "Sales experience is an added advantage but not required"
+    ],
+    apply: "Apply here: https://bit.ly/SDRApp",
+    deadline: "Not Specified"
+  },
+  {
+    id: "admin-officer-sports-betting-ikeja-2026-07-29",
+    title: "Admin Officer",
+    date: "2026-07-29",
+    location: "Ikeja, Lagos",
+    type: "Full-Time, Onsite",
+    company: "Sports Betting",
+    salary: "250K Net",
+    summary: "An admin officer to oversee daily office operations, documentation, filing, and record-keeping.",
+    responsibilities: [
+      "Oversee daily office operations, documentation, filing, and record-keeping.",
+      "Coordinate meetings, communication, staff schedules, and vendor interactions.",
+      "Conduct KYC verification for agents and maintain regulatory documentation.",
+      "Handle POS terminal procurement, issuance, and provide first-level device support.",
+      "Provide basic IT troubleshooting (hardware/software/connectivity).",
+      "Support system setups and new user account creation.",
+      "Manage procurement of office supplies, terminals, and operational materials.",
+      "Maintain strong vendor relationships and ensure competitive pricing."
+    ],
+    requirements: [
+      "OND / HND / B.Sc. in Business Administration or related field.",
+      "1–3 years administrative experience (sports betting/gaming is an advantage).",
+      "Strong organizational, multitasking, communication, and reporting skills.",
+      "Proficiency in MS Office (Excel, Word, PowerPoint)."
+    ],
+    apply: "Qualified candidates should send their CVs and cover letter to jobhq24@gmail.com with the subject line: “Admin Officer – Application.”",
+    deadline: "Not Specified"
+  },
+  {
+    id: "technical-sales-representative-isolo-2026-07-29",
+    title: "Technical Sales Representative",
+    date: "2026-07-29",
+    location: "Isolo, Lagos",
+    type: "Full-time",
+    salary: "300,000 – 400,000",
+    summary: "We are looking for a Technical Engineer Representative to drive B2B and industrial sales for a growing organization based in Isolo, Lagos. This role suits a sales professional who can navigate both technical and relationship-led selling, building strong client relationships while translating product and application knowledge into value for industrial customers.",
+    responsibilities: [
+      "Identify, develop, and manage B2B and industrial client accounts within the assigned territory.",
+      "Understand customer technical requirements and recommend suitable products or solutions.",
+      "Build and sustain long-term relationships with key decision-makers, engineers, and procurement teams.",
+      "Drive the full sales cycle from lead generation and technical consultation through to closing and after-sales support.",
+      "Prepare and deliver technical presentations, proposals, and quotations tailored to client needs."
+    ],
+    requirements: [
+      "Minimum of 3 years’ experience in B2B or industrial sales, ideally within a similar channel or sector.",
+      "Comfortable with technical selling as well as relationship-led/consultative selling.",
+      "Strong communication, negotiation, and client relationship management skills.",
+      "Ability to understand and explain technical product specifications to clients."
+    ],
+    apply: "Qualified Candidates should send in their CVs to cv@ascentech.com.ng using SALES 17 as the subject of the email",
+    deadline: "Not Specified"
+  },
+  {
     id: "senior-finance-executive-surulere-2026-07-23",
     title: "Senior Finance Executive",
     date: "2026-07-23",

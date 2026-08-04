@@ -10,6 +10,167 @@ export type Post = {
 
 const allPosts: Post[] = [
   {
+    id: "oou-post-utme-screening-schedule-2026-2027",
+    title: "OOU Releases 2026/2027 Post UTME Screening Schedule – Exam Dates and Examination Pass Printing Details",
+    category: "Education",
+    date: "2026-08-04",
+    excerpt: "The Olabisi Onabanjo University (OOU) has announced the official schedule for the 2026/2027 Post UTME screening exercise for candidates seeking admission into its undergraduate programmes.",
+    content: `<h1>OOU Releases 2026/2027 Post UTME Screening Schedule – Exam Dates and Examination Pass Printing Details</h1>
+
+<p>The Olabisi Onabanjo University (OOU) has announced the official schedule for the 2026/2027 Post UTME screening exercise for candidates seeking admission into its undergraduate programmes.</p>
+
+<p>According to the university, the screening examination will take place from <strong>Tuesday, 18 August to Friday, 21 August 2026</strong>.</p>
+
+<p>Candidates who successfully completed their Post UTME application and uploaded their O'Level results to the JAMB Central Admissions Processing System (CAPS) will be able to print their examination passes from <strong>Monday, 3 August 2026</strong>.</p>
+
+<p>Applicants are advised to check their individual screening schedules online using their JAMB registration numbers and print their examination passes ahead of the examination.</p>
+
+<h2>When Will the OOU 2026/2027 Post UTME Screening Hold?</h2>
+
+<p>The university has scheduled the screening examination as follows:</p>
+
+<ul>
+  <li><strong>Opening Date:</strong> Tuesday, 18 August 2026</li>
+  <li><strong>Closing Date:</strong> Friday, 21 August 2026</li>
+</ul>
+<p>Although the university has released the general examination period, each applicant will receive a specific examination date, time, and venue through the Post UTME portal.</p>
+
+<h2>When Will OOU Examination Pass Printing Begin?</h2>
+
+<p>The printing of examination passes will commence on:</p>
+
+<p><strong>Monday, 3 August 2026</strong></p>
+
+<p>Only candidates who have fulfilled the university's stated requirements will be able to access and print their examination passes.</p>
+
+<p>Applicants are encouraged to print the document as early as possible and keep it safe for the screening exercise.</p>
+
+<h2>Who Can Print the OOU Examination Pass?</h2>
+
+<p>Candidates will only be eligible to print their examination pass after meeting the following conditions:</p>
+
+<ul>
+  <li>Successfully completed the OOU Post UTME application.</li>
+  <li>Uploaded their O'Level results to JAMB CAPS.</li>
+</ul>
+<p>Applicants who have not uploaded their O'Level results are advised to visit the nearest accredited JAMB CBT centre immediately to complete the upload.</p>
+
+<h2>How Can Candidates Check Their OOU Post UTME Screening Schedule?</h2>
+
+<p>Candidates can check their assigned screening schedule by following these simple steps:</p>
+
+<ol>
+  <li>Visit the OOU Post UTME screening portal.</li>
+  <li>Enter your JAMB Registration Number in the required field.</li>
+  <li>Click on "Check Status."</li>
+  <li>View your screening date, time, and other examination details.</li>
+  <li>Print your examination pass and keep it for the screening exercise.</li>
+</ol>
+<p>Applicants should ensure that their JAMB registration number is entered correctly to retrieve the correct information.</p>
+
+<h2>Why Is Uploading O'Level Results on JAMB CAPS Important?</h2>
+
+<p>The university has made the upload of O'Level results on JAMB CAPS a compulsory requirement for examination pass printing.</p>
+
+<p>Candidates who completed the OOU application but have not uploaded their O'Level results may be unable to access their examination passes.</p>
+
+<p>Those affected should visit any accredited JAMB CBT centre without delay to complete the upload process.</p>
+
+<h2>What Information Is Needed to Check the Screening Schedule?</h2>
+
+<p>To check the screening schedule, candidates only need their:</p>
+
+<ul><li><strong>JAMB Registration Number</strong></li></ul>
+<p>This number will be used by the portal to display the applicant's assigned screening details.</p>
+
+<h2>What Should Candidates Do After Printing Their Examination Pass?</h2>
+
+<p>After printing the examination pass, candidates should:</p>
+
+<ul>
+  <li>Keep the printed pass in a safe place.</li>
+  <li>Bring it along on the day of the screening examination.</li>
+  <li>Prepare adequately for the Post UTME.</li>
+  <li>Keep other admission documents readily available.</li>
+  <li>Regularly monitor official OOU announcements for any additional instructions.</li>
+</ul>
+<h2>Important Advice for Applicants</h2>
+<p>Candidates are advised to:</p>
+
+<ul>
+  <li>Confirm that their OOU application has been successfully completed.</li>
+  <li>Ensure their O'Level results have been uploaded to JAMB CAPS.</li>
+  <li>Print their examination pass as soon as it becomes available.</li>
+  <li>Check their assigned examination date carefully.</li>
+  <li>Arrive at the examination venue early with all required documents.</li>
+</ul>
+<p>Failure to complete the O'Level upload may prevent candidates from accessing their examination passes.</p>
+
+<h2>Final Thoughts</h2>
+
+<p>The release of the OOU 2026/2027 Post UTME screening schedule marks another important stage in the admission process for prospective students.</p>
+
+<p>Candidates should ensure they meet all the university's requirements before the commencement of examination pass printing on Monday, 3 August 2026. They are also encouraged to check their individual screening schedules early, print their examination passes, and prepare thoroughly for the screening exercise.</p>
+
+<p>We wish all applicants success in their OOU 2026/2027 Post UTME screening.</p>
+<p>For more admission news, you might find this post helpful: <a href="/blog/unilag-post-utme-form-2026-2027">UNILAG Post UTME Form for 2026/2027 Admission Now Open: Eligibility, Registration Dates and Screening Details</a>.</p>`,
+    tags: ["OOU", "Post UTME", "Admission", "2026/2027", "Education", "Nigeria"],
+  },
+
+  {
+    id: "lasu-admission-list-2026-2027",
+    title: "LASU Admission List 2026/2027 is Out: Check Your Status Here",
+    category: "Education",
+    date: "2026-06-02",
+    excerpt: "Lagos State University (LASU) has released the admission list for the 2026/2027 academic session. Candidates can now check their admission status on the LASU portal and JAMB CAPS.",
+    content: `<h2>LASU Admission List for 2026/2027 Academic Session is Out</h2>
+<p>Lagos State University (LASU) has released the admission list for the 2026/2027 academic session and candidates who applied for undergraduate admission can now check whether provisional admission has been offered.</p>
+<p>The admission list contains the names of candidates offered places in various degree programmes. Admission status can be checked through the LASU admission screening portal or through the JAMB Central Admissions Processing System.</p>
+<p>Candidates who receive an offer will be required to accept or reject it, after which the JAMB admission letter can be printed.</p>
+
+<h3>Has LASU Released the Admission List for 2026/2027?</h3>
+<p>Yes. The Lagos State University admission list for the 2026/2027 academic session has been released.</p>
+<p>Candidates who selected LASU and completed the required admission process can check their status online. A successful status will show that provisional admission has been offered into a degree programme.</p>
+
+<h3>How Can Candidates Check the LASU Admission List?</h3>
+<p>Candidates can check their admission status through the LASU admission screening portal.</p>
+<p>The following steps should be followed:</p>
+<ol>
+  <li>Visit the <a href="https://services.lidc.lasu.edu.ng/admissionscreening/" target="_blank" rel="noopener noreferrer">LASU admission screening portal</a>.</li>
+  <li>Enter the JAMB registration number in uppercase letters.</li>
+  <li>Enter the candidate's surname in the space provided.</li>
+  <li>Select the submit button to open the applicant dashboard.</li>
+  <li>Check the admission status displayed on the dashboard.</li>
+</ol>
+<p>The JAMB registration number should be entered correctly and in uppercase, while the surname should match the details used for the admission application.</p>
+
+<h3>How Can Admission Status Be Checked on JAMB CAPS?</h3>
+<p>LASU admission status can also be checked through JAMB CAPS.</p>
+<p>Candidates should follow these steps:</p>
+<ol>
+  <li>Visit the JAMB E-Facility portal.</li>
+  <li>Sign in with the JAMB username and password.</li>
+  <li>Scroll to the admission section and select "Check Admission Status."</li>
+  <li>Select "Access My CAPS."</li>
+  <li>Open the "Admission Status" section.</li>
+  <li>Check whether LASU has offered provisional admission.</li>
+</ol>
+<p>Candidates who need more details about the portal can read the JAMB CAPS admission guide.</p>
+
+<h3>What Should an Admitted Candidate Do Next?</h3>
+<p>A candidate who receives an admission offer should complete the acceptance process.</p>
+<p>The required actions are:</p>
+<ul>
+  <li>Accept or reject the admission offer on JAMB CAPS.</li>
+  <li>Print the JAMB admission letter after accepting the offer.</li>
+  <li>Keep copies of the admission records for later use.</li>
+</ul>
+<p>The admission offer should be reviewed before any response is submitted.</p>
+
+<p>For more details on the LASU admission process, you can refer to the <a href="/blog/lasu-post-utme-direct-entry-form-2026-2027">LASU Post UTME/Direct Entry Form guide</a>.</p>`,
+    tags: ["LASU", "Admission List", "2026/2027", "Education", "Nigeria", "JAMB CAPS"],
+  },
+  {
     id: "nysc-reform-2026-what-it-means-for-engineering-graduates",
     title: "NYSC Reform 2026: What It Means for Engineering Graduates",
     category: "Career",

@@ -50,6 +50,199 @@ const currentDate = '2026-07-14'; // Current date for comparison (July 14, 2026)
 
 const allJobs: Job[] = [
   {
+    id: "medical-sales-representative-ikeja-2026-08-08",
+    title: "Medical Sales Representative (MSR)",
+    date: "2026-08-08",
+    location: "Ikeja",
+    type: "Full-Time",
+    salary: "Competitive salary and performance-based incentives",
+    summary: "We are seeking a dynamic, goal-oriented, and passionate Medical Sales Representative to join our sales team and drive business growth within the Ikeja Territory. The ideal candidate will be responsible for promoting our pharmaceutical products, building strong relationships with healthcare professionals, and achieving assigned sales targets.",
+    responsibilities: [
+      "Promote and detail company’s pharmaceutical products to doctors, pharmacists, hospitals, and other healthcare professionals.",
+      "Build and maintain strong customer relationships within the assigned territory.",
+      "Achieve monthly and quarterly sales targets.",
+      "Identify new business opportunities and expand market coverage.",
+      "Monitor competitors’ activities and provide market intelligence.",
+      "Ensure product availability across assigned healthcare facilities and pharmacies.",
+      "Prepare and submit timely sales reports and call activity reports.",
+      "Participate in sales meetings, product training, and promotional activities."
+    ],
+    requirements: [
+      "Bachelor’s degree in Pharmacy, Biological Science, or related discipline",
+      "Minimum of 1 – 3 years’ experience in pharmaceutical sales or medical sales.",
+      "Strong communication, negotiation, and interpersonal skills",
+      "Proven ability to meet and exceed sales targets.",
+      "Good knowledge of the Ikeja territory and surrounding areas.",
+      "Proficiency in Microsoft Office tools"
+    ],
+    apply: "Interested and qualified candidates should send their CV to hr@pharmaethics.com with the subject line: ‘’Medical Sales Representative – (Ikeja Territory)’’",
+    deadline: "21st August 2026"
+  },
+  {
+    id: "warehouse-officer-surulere-2026-08-08",
+    title: "Warehouse Officer",
+    date: "2026-08-08",
+    location: "Surulere and environs",
+    type: "Full-time",
+    gender: "Male",
+    salary: "100k-120k",
+    summary: "We are looking for an organized and detail-oriented Warehouse Officer to oversee daily inventory operations, manage stock movement, and ensure smooth logistics execution. Handle receiving, dispatching, record-keeping, and maintain warehouse organization.",
+    responsibilities: [
+      "Receive, inspect, organize stock for optimal space utilization and quick access.",
+      "Prepare orders for delivery, coordinate with delivery team, and ensure accurate order picking, packing, and labeling.",
+      "Maintain up-to-date inventory records in the Warehouse and perform regular physical stock counts (cycle counts/audits).",
+      "Inspect incoming/outgoing goods for damage, report discrepancies, and strictly enforce warehouse protocols and standards."
+    ],
+    requirements: [
+      "2+ years of experience in warehouse management, logistics, or inventory control.",
+      "Proficiency with microsoft office suites",
+      "Strong organizational skills, keen attention to detail, clear communication, and solid problem-solving skills.",
+      "HND/BSC in any relevant discipline"
+    ],
+    apply: "Send your application to oenik@berrymartng.com",
+    deadline: "Not Specified"
+  },
+  {
+    id: "business-development-executive-industrial-isolo-2026-08-08",
+    title: "Business Development Executive (Industrial Sector)",
+    date: "2026-08-08",
+    location: "Isolo, Lagos",
+    type: "Full-time",
+    salary: "Not Specified",
+    summary: "We are looking for a proactive and results-driven Business Development Executive to drive B2B sales and expand our customer base within the industrial sector.",
+    responsibilities: [
+      "Identify and develop new business opportunities.",
+      "Build and maintain strong relationships with corporate clients.",
+      "Prepare proposals, quotations, and sales presentations.",
+      "Negotiate contracts and close sales.",
+      "Conduct market research and monitor competitor activities.",
+      "Achieve assigned sales targets."
+    ],
+    requirements: [
+      "Bachelor’s degree or HND in Business Administration, Marketing, Engineering, or a related field.",
+      "Minimum of 3 years’ B2B sales/business development experience in the industrial, manufacturing, engineering, or related sector.",
+      "Strong communication, negotiation, and relationship management skills.",
+      "Target-driven with proficiency in Microsoft Office; CRM knowledge is an added advantage."
+    ],
+    apply: "Interested and qualified candidates should send their CV to cv@ascentech.com.ng using BDE – Isolo as the subject of the email.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "sales-acquisition-partner-renewable-energy-2026-08-08",
+    title: "Sales Acquisition Partner",
+    date: "2026-08-08",
+    location: "Lagos",
+    type: "Full-time",
+    company: "Renewable Energy",
+    salary: "100,000 + Commission, HMO & Pension",
+    summary: "This position is highly sales and conversion driven, with a strong emphasis on generating new leads, customer engagement, loan documentation, financing conversion, and onboarding support.",
+    responsibilities: [
+      "Generating new leads",
+      "Customer engagement",
+      "Loan documentation",
+      "Financing conversion",
+      "Onboarding Support"
+    ],
+    requirements: [
+      "University Degree or HND – Minimum of 2.2/Lower Credit",
+      "Sales experience will be an added advantage",
+      "Excellent Communication Skills",
+      "Must have completed their NYSC"
+    ],
+    apply: "https://shorturl.at/bcsuP",
+    deadline: "Not Specified"
+  },
+  {
+    id: "student-counsellor-abuja-2026-08-08",
+    title: "Student Counsellor",
+    date: "2026-08-08",
+    location: "Area 1, Abuja",
+    type: "Full-time",
+    company: "A dedicated study abroad travel agency",
+    salary: "Not Specified",
+    summary: "We’re looking for an enthusiastic marketing specialist who understands the student mindset and can inspire young people to pursue their study abroad dreams. You’ll craft compelling campaigns that resonate with students and parents while showcasing the life-changing impact of international education.",
+    responsibilities: [
+      "Follow up promptly with incoming leads via phone, email, WhatsApp, and social media",
+      "Nurture relationships with prospective students and parents through personalized communication",
+      "Understand student goals, concerns, and preferences to recommend suitable programs",
+      "Convert qualified leads into enrolled students by addressing objections and showcasing program value",
+      "Maintain accurate records of all interactions in our CRM system",
+      "Schedule and conduct one-on-one consultations (virtual or in-person).",
+      "Send follow-up materials, program details, and application guidance.",
+      "Track conversion rates and report on sales pipeline progress.",
+      "Re-engage cold leads through targeted outreach campaigns.",
+      "Collaborate with the team to improve messaging and conversion strategies."
+    ],
+    requirements: [
+      "Bsc/ HND in any related field",
+      "Minimum 2 years’ experience in sales/marketing in a traveling agency will be an added advantage",
+      "Good communication skills."
+    ],
+    apply: "Interested and qualified candidates should send their CVs to admin@goajo.com",
+    deadline: "Not Specified"
+  },
+  {
+    id: "completions-engineer-ph-lagos-2026-08-08",
+    title: "Completions Engineer",
+    date: "2026-08-08",
+    location: "Port Harcourt & Lagos",
+    type: "Full-time",
+    company: "Leading indigenous oil & gas solutions company",
+    salary: "₦2,500,000 Monthly",
+    summary: "A leading indigenous oil & gas solutions company is recruiting an experienced Completions Engineer to plan, coordinate, and supervise well completion, workover, and intervention operations in either PH or Lagos State. The ideal candidate will ensure the safe, efficient, and cost-effective execution of completion activities while maintaining compliance with industry standards and client requirements.",
+    responsibilities: [
+      "Design and prepare well completion programs and procedures.",
+      "Develop detailed execution plans, risk assessments, and contingency plans.",
+      "Review well data and recommend suitable completion equipment and techniques.",
+      "Prepare technical calculations for tubing strings, packers, completion fluids, and downhole tools.",
+      "Supervise completion, workover, and well intervention operations.",
+      "Coordinate the mobilization, installation, testing, and retrieval of completion equipment.",
+      "Monitor field operations and resolve technical challenges.",
+      "Ensure proper installation and functionality of completion tools and accessories.",
+      "Coordinate with drilling, wireline, slickline, coiled tubing, stimulation, and production teams.",
+      "Ensure strict compliance with HSE standards, client procedures, and regulatory requirements.",
+      "Serve as the technical focal point during completion operations and provide operational updates."
+    ],
+    requirements: [
+      "Bachelor’s degree in petroleum engineering, Mechanical Engineering, Chemical Engineering, or a related Engineering discipline.",
+      "Minimum 5 years of experience in well completions, workover, or well intervention operations.",
+      "Experience in land, swamp, or offshore operations is an added advantage.",
+      "Hands-on experience with completion equipment from major oilfield service companies is desirable.",
+      "Strong technical, analytical, and problem-solving skills.",
+      "Excellent communication and teamwork abilities."
+    ],
+    apply: "Qualified professionals with hands-on experience in well completion operations are encouraged to apply by sending CV to ifeoluwa.recruit1@gmail.com using the job title and preferred location as the mail subject",
+    deadline: "Not Specified"
+  },
+  {
+    id: "junior-accountant-surulere-2026-08-08",
+    title: "Junior Accountant",
+    date: "2026-08-08",
+    location: "Surulere, Lagos",
+    type: "Full-time",
+    company: "FMCG",
+    salary: "₦200,000 – ₦350,000 net (based on experience)",
+    summary: "We are seeking a detail-oriented Executive Finance professional to support daily accounting operations, financial reporting, and reconciliations. The ideal candidate should have a solid understanding of accounting principles, strong Excel skills, and be committed to delivering accurate financial records.",
+    responsibilities: [
+      "Maintain accurate financial records and accounting entries.",
+      "Prepare bank reconciliations and financial reports.",
+      "Process invoices, payments, and expense records.",
+      "Assist with month-end and year-end closing activities.",
+      "Ensure compliance with company accounting policies.",
+      "Support audits and other finance-related tasks."
+    ],
+    requirements: [
+      "Bachelor’s degree or HND in Accounting, Finance, or a related field.",
+      "Currently pursuing ICAN.",
+      "2–5 years of accounting experience, preferably in the FMCG sector.",
+      "Strong proficiency in Microsoft Excel.",
+      "Sound knowledge of accounting principles and financial reporting.",
+      "Diligent, analytical, and detail-oriented."
+    ],
+    apply: "Send your CV to cv@ascentech.com.ng with the subject “Junior Accountant 14.” As the subject of the mail",
+    deadline: "Not Specified"
+  },
+  {
     id: "business-development-manager-fashion-abuja-2026-08-05",
     title: "Business Development Manager",
     date: "2026-08-05",

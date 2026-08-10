@@ -46,9 +46,207 @@ function parseDeadline(deadlineString: string): string | null {
   return null; // Unable to parse, treat as non-expired
 }
 
-const currentDate = '2026-07-14'; // Current date for comparison (July 14, 2026)
+const currentDate = '2026-08-08'; // Current date for comparison (August 08, 2026)
 
 const allJobs: Job[] = [
+  {
+    id: "account-officer-ikeja-2026-08-08",
+    title: "Account Officer",
+    date: "2026-08-08",
+    location: "Ikeja, Lagos (Hybrid)",
+    type: "Hybrid",
+    gender: "Female",
+    salary: "₦150,000 Monthly",
+    summary: "Our client is seeking a detail-oriented and organized Account Officer to join its finance team. The ideal candidate will be responsible for maintaining accurate financial records, processing transactions, and supporting the company’s day-to-day accounting operations.",
+    responsibilities: [
+      "Maintain accurate financial records and accounting books.",
+      "Process invoices, payments, and expense reports.",
+      "Reconcile bank statements and accounts payable/receivable.",
+      "Prepare financial reports and account summaries.",
+      "Ensure compliance with tax regulations and statutory requirements.",
+      "Monitor company expenses and budgets.",
+      "Support internal and external audit processes.",
+      "Maintain strict confidentiality of financial information."
+    ],
+    requirements: [
+      "Minimum of 1–2 years’ experience in an accounting role.",
+      "HND/B.Sc in Accounting, Finance, or a related field.",
+      "Proficiency in accounting software and Microsoft Office applications, especially Excel.",
+      "Strong understanding of accounting principles and financial reporting.",
+      "Excellent numerical, analytical, and problem-solving skills.",
+      "High level of accuracy and attention to detail."
+    ],
+    apply: "https://forms.gle/bEmj32rKYEicRByv6",
+    deadline: "Not Specified"
+  },
+  {
+    id: "graphic-designer-ikeja-2026-08-08",
+    title: "Graphic Designer",
+    date: "2026-08-08",
+    location: "Ikeja, Lagos",
+    type: "On-site",
+    seniority: "Junior",
+    salary: "₦150,000 Monthly",
+    summary: "Our client, a fast-growing technology and digital solutions company, is looking for a creative and talented Graphic Designer to produce compelling visual content for branding and marketing projects. The ideal candidate should have a keen eye for design, a strong portfolio, and the ability to transform ideas into impactful visuals.",
+    responsibilities: [
+      "Design creative graphics and layouts for branding and marketing projects.",
+      "Create logos, brochures, flyers, banners, packaging, and other branded materials.",
+      "Prepare artwork and production-ready files.",
+      "Collaborate with clients and internal teams to understand branding requirements.",
+      "Ensure all designs align with brand guidelines and quality standards.",
+      "Incorporate feedback and make design revisions where necessary.",
+      "Stay up to date with current design trends and industry best practices.",
+      "Maintain organized design files and project documentation."
+    ],
+    requirements: [
+      "Minimum of 1–2 years’ experience in graphic design or branding.",
+      "HND/B.Sc in Graphic Design, Fine Arts, Visual Communication, or a related field is an advantage.",
+      "Proficiency in Adobe Creative Suite (Photoshop, Illustrator, InDesign) or equivalent design software.",
+      "Strong understanding of branding principles, typography, color theory, and print/digital design.",
+      "A strong portfolio showcasing branding and creative design projects.",
+      "Excellent attention to detail and ability to meet deadlines."
+    ],
+    apply: "https://forms.gle/WFGBffDrH3ahuy8J9",
+    deadline: "Not Specified"
+  },
+  {
+    id: "production-project-officer-ikeja-2026-08-08",
+    title: "Production Project Officer",
+    date: "2026-08-08",
+    location: "Ikeja, Lagos (On-site)",
+    type: "On-site",
+    salary: "₦150,000 Monthly",
+    summary: "Our client, a fast-growing technology and digital solutions company, is seeking a proactive and organized Production Project Officer to coordinate branding and print production projects, ensuring timely delivery, quality output, and efficient workflow.",
+    responsibilities: [
+      "Coordinate and manage production schedules for branding and print projects.",
+      "Track project progress from order placement to final delivery.",
+      "Ensure all projects meet client specifications and quality standards.",
+      "Communicate with clients on project timelines, updates, and deliverables.",
+      "Coordinate production workflow and support the production team.",
+      "Monitor production equipment and resource utilization.",
+      "Maintain accurate records of production activities and completed projects.",
+      "Identify and resolve production bottlenecks to ensure timely project completion."
+    ],
+    requirements: [
+      "Minimum of 1–2 years’ experience in production, project coordination, or a related role.",
+      "Minimum HND in Project Management, Business Administration, Production Management, or a related field is an advantage.",
+      "Familiarity with branding, printing, and production processes.",
+      "Strong organizational, coordination, and multitasking skills.",
+      "Excellent communication and problem-solving abilities.",
+      "Ability to work under pressure and meet tight deadlines.",
+      "Proficiency in Microsoft Office applications."
+    ],
+    apply: "https://forms.gle/2Lom5SF6js9sESoe9",
+    deadline: "Not Specified"
+  },
+  {
+    id: "senior-sales-executive-real-estate-lagos-ibadan-2026-08-08",
+    title: "Senior Sales Executive (Real Estate)",
+    date: "2026-08-08",
+    location: "Lagos / Ibadan — full-time, in-office",
+    type: "Full-time",
+    salary: "Base salary: 600k + Commission",
+    summary: "Land Republic is hiring experienced real estate sales professionals with a proven, verifiable record of closing high-value property transactions. This is not an entry-level or generalist sales role. We are hiring professionals who have personally generated significant monthly revenue and can provide evidence of their results.",
+    responsibilities: [
+      "A personal monthly invoiced sales target",
+      "Full ownership of your pipeline from first contact to allocation",
+      "Collection of payment on every deal you close — a sale is not counted until cash is received against the invoice",
+      "Daily CRM discipline: every call logged and linked to a lead record, every lead status updated, no exceptions",
+      "Client inspections, site visits, and face-to-face closing meetings",
+      "Weekly pipeline reporting with accurate, defensible forecasts",
+      "Post-sale client management through the payment plan cycle until completion"
+    ],
+    requirements: [
+      "Minimum 3 years in real estate sales — with a developer, brokerage, property marketing firm, or as an independent realtor. Structure is not the requirement; a provable record is.",
+      "Verifiable personal closing record of at least ₦300,000,000 in cumulative invoiced sales within the last 24 months",
+      "Demonstrated collections track record — you must be able to speak to what percentage of your closed deals converted to full payment, and what you did when clients defaulted",
+      "CRM proficiency (Zoho CRM preferred) and willingness to work under full activity-logging discipline",
+      "Willingness to work in-office and travel to sites as required",
+      "Valid means of identification",
+      "Evidence required at application: A written sales record covering your last 24 months and two named referees who can speak directly to the sales record you have submitted."
+    ],
+    apply: "https://bit.ly/3TBF2Mw",
+    deadline: "Not Specified"
+  },
+  {
+    id: "live-in-security-berger-2026-08-08",
+    title: "Live-in security",
+    date: "2026-08-08",
+    location: "Private Residence (Berger Opic Estate)Lagos",
+    type: "Full-time",
+    salary: "65,000 + other benefits",
+    summary: "Seeking a reliable security guard for a private residence with live-in arrangements.",
+    responsibilities: [
+      "Open and close the gate promptly for staff, visitors, and vehicles.",
+      "Check and record details of all visitors and deliveries entering the premises.",
+      "Ensure the compound and surroundings are secure during working hours.",
+      "Watch over property and report any suspicious activity immediately.",
+      "Assist with basic errands and keep the gate area clean and tidy."
+    ],
+    requirements: [
+      "Must be physically fit and alert",
+      "Honest, reliable, and disciplined",
+      "Good communication skills",
+      "Previous experience as a gateman/security personnel is an advantage",
+      "Must reside within/close to Lagos"
+    ],
+    apply: "Interested candidates should their CVs to 08168983876",
+    deadline: "Not Specified"
+  },
+  {
+    id: "loan-collection-officer-remote-2026-08-08",
+    title: "Loan Collection Officer (Remote)",
+    date: "2026-08-08",
+    location: "Lagos (Remote)",
+    type: "Remote",
+    salary: "₦120,000 Monthly",
+    summary: "Isurf Global Services is recruiting for a remote Loan Collection Officer based in Lagos.",
+    responsibilities: [],
+    requirements: [
+      "Must reside in Lagos.",
+      "Must own a functional Android phone.",
+      "Good communication and negotiation skills.",
+      "Ability to meet collection targets.",
+      "Previous experience in loan collection or customer service is an added advantage.",
+      "Must be responsible, disciplined, and results-oriented."
+    ],
+    apply: "Send your CV to jobs@isurfglobal.com using the subject “Loan Collection Officer – Remote” as the subject of the mail.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "head-of-primary-school-lagos-island-2026-08-08",
+    title: "Head of Primary School",
+    date: "2026-08-08",
+    location: "Lagos Island, Lagos",
+    type: "Full-Time",
+    salary: "Negotiable",
+    summary: "We are looking for an experienced and dynamic Head of Primary School to provide academic and administrative leadership for the Primary section. The successful candidate will drive academic excellence, oversee curriculum implementation, lead staff development, and ensure the effective day-to-day management of the Primary School.",
+    responsibilities: [
+      "Provide strategic and operational leadership for the Primary School.",
+      "Oversee curriculum planning, implementation, and assessment.",
+      "Supervise, mentor, and evaluate Primary School teachers.",
+      "Monitor pupils’ academic performance and implement improvement strategies.",
+      "Ensure high standards of teaching, learning, and classroom management.",
+      "Promote pupil discipline, welfare, safeguarding, and well-being.",
+      "Lead school improvement initiatives and quality assurance activities.",
+      "Coordinate assessments, examinations, and academic reporting.",
+      "Build and maintain strong relationships with parents and stakeholders.",
+      "Lead staff performance management and professional development.",
+      "Oversee school operations, admissions, timetables, and extracurricular programmes.",
+      "Ensure compliance with educational policies and regulatory standards."
+    ],
+    requirements: [
+      "Bachelor’s Degree in Education or a related discipline.",
+      "A Master’s Degree is an added advantage.",
+      "Minimum of 7 years’ teaching experience, including at least 3 years in a leadership role within a Primary School.",
+      "Strong knowledge of the Nigerian and/or British curriculum.",
+      "Excellent leadership, communication, and people management skills.",
+      "Strong analytical, organizational, and problem-solving abilities.",
+      "Proficiency in Microsoft Office and educational management systems."
+    ],
+    apply: "Interested and qualified candidates should send their CV to bradfieldforms@gmail.com using “Head of Primary School” as the subject of the email.",
+    deadline: "Not Specified"
+  },
   {
     id: "medical-sales-representative-ikeja-2026-08-08",
     title: "Medical Sales Representative (MSR)",

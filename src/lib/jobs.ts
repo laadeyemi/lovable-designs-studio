@@ -50,6 +50,405 @@ const currentDate = '2026-08-08'; // Current date for comparison (August 08, 202
 
 const allJobs: Job[] = [
   {
+    id: "edutravel-recruitment-counselling-officer-wuse-abuja-2026",
+    title: "EduTravel Recruitment and Counselling Officer",
+    date: "2026-08-14",
+    location: "Wuse, Abuja",
+    type: "Full-time",
+    salary: "Not Specified",
+    summary: "We are looking for a high-performing, commercially minded and purpose-driven professional who takes ownership, collaborates exceptionally well, challenges the status quo, and is passionate about creating meaningful outcomes for clients and the business.",
+    responsibilities: [
+      "Generate and nurture prospective student leads through multiple channels.",
+      "Conduct effective consultations and understand each client’s educational and career goals.",
+      "Recommend suitable study destinations, institutions and programmes based on client needs.",
+      "Provide accurate, ethical and professional educational guidance.",
+      "Take full ownership of assigned leads, applications and outcomes.",
+      "Follow through on commitments without constant supervision or reminders."
+    ],
+    requirements: [
+      "Bachelor’s degree or equivalent qualification.",
+      "Experience in recruitment, student counselling, sales, customer service, business development or a related role.",
+      "Strong communication and interpersonal skills.",
+      "comfortable working with targets and understand that activity must translate into outcomes"
+    ],
+    apply: "Send your cv to: hr@dahenricrestconsult.com using job title as the subject of the email",
+    deadline: "Not Specified"
+  },
+  {
+    id: "seo-digital-marketing-social-media-officer-isolo-2026",
+    title: "SEO/Digital Marketing & Social Media Officer",
+    date: "2026-08-14",
+    location: "Isolo, Lagos",
+    type: "Full-time",
+    salary: "200,000 – 300,000",
+    summary: "The SEO/Digital Marketing & Social Media Executive will drive online visibility, website traffic, lead generation, and brand awareness across digital channels. The role will focus on SEO, digital campaigns, website performance, social media management, content, and digital engagement to support the growth of the company’s retail operations.",
+    responsibilities: [
+      "Develop and implement SEO strategies to improve website rankings and organic traffic.",
+      "Conduct keyword research, competitor analysis, and website audits.",
+      "Manage Google Ads, social media platforms, campaigns, and other digital marketing initiatives.",
+      "Create, manage, and optimize engaging content across digital and social media channels.",
+      "Monitor website and social media performance, user engagement, and conversion rates.",
+      "Support marketing activities across multiple retail locations when required."
+    ],
+    requirements: [
+      "2-4 years of hands-on experience in SEO, Digital Marketing, and Social Media Management.",
+      "Experience managing digital marketing and social media activities for established retail brands is highly preferred.",
+      "Strong knowledge of SEO, SEM, Google Analytics, Google Search Console, and digital advertising platforms.",
+      "Proficiency in social media management, content creation, and online campaign management.",
+      "Bachelor’s degree in Marketing, Digital Marketing, Mass Communication, or a related field.",
+      "Relevant digital marketing/social media certifications will be an added advantage."
+    ],
+    apply: "Interested candidates should send their CVs to cv@ascentech.com.ng using “SEO/ Digital Marketer 18” as the subject of the email.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "sales-executive-tyres-lubricants-abuja-2026",
+    title: "Sales Executive – Tyres & Lubricants",
+    date: "2026-08-14",
+    location: "Abuja",
+    type: "Full-time",
+    salary: "250,000 upward (Negotiable based on experience + Performance Incentives + Field Allowance)",
+    summary: "We are seeking an experienced Sales Executive with a proven background in selling tyres or automotive lubricants. The ideal candidate will drive sales through dealer and corporate channels, develop new business opportunities, manage existing customer relationships, and achieve sales targets within the assigned territory.",
+    responsibilities: [],
+    requirements: [
+      "2–3 years of sales experience in all or either tyres, or lubricants (mandatory).",
+      "Experience managing dealer/distributor and/or corporate accounts.",
+      "Strong business development and negotiation skills.",
+      "Good knowledge of the Abuja market and surrounding region.",
+      "Ability to meet sales targets and travel within the territory."
+    ],
+    apply: "Qualified candidates should send in their CVs to cv@ascentech.com.ng using Sales Rep Abuja and the specific item they have experience selling as the subject of the email. Example: Sales Rep Abuja – Tyres",
+    deadline: "Not Specified"
+  },
+  {
+    id: "operations-manager-lekki-2026",
+    title: "Operations Manager",
+    date: "2026-08-14",
+    location: "Lekki, Lagos",
+    type: "Full-time",
+    salary: "Negotiable",
+    summary: "Oversee the day-to-day operations of the business, coordinate different departments to ensure smooth operations, monitor staff performance, and ensure compliance with company policies.",
+    responsibilities: [
+      "Oversee the day-to-day operations of the business.",
+      "Coordinate different departments to ensure smooth operations.",
+      "Monitor staff performance and ensure compliance with company policies.",
+      "Manage operational processes, schedules, and resources.",
+      "Identify operational challenges and implement effective solutions.",
+      "Prepare regular operational reports for management.",
+      "Ensure excellent customer service and overall service delivery."
+    ],
+    requirements: [
+      "3–5 years relevant experience"
+    ],
+    apply: "Interested and qualified candidates should send their updated CV to: queenufedoh@gmail.com. Please indicate the position applied for as the subject of the email.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "restaurant-manager-lekki-2026",
+    title: "Restaurant Manager",
+    date: "2026-08-14",
+    location: "Lekki, Lagos",
+    type: "Full-time",
+    salary: "Negotiable",
+    summary: "Manage the daily operations of the restaurant, supervise and coordinate restaurant staff, and ensure excellent customer service and guest satisfaction.",
+    responsibilities: [
+      "Manage the daily operations of the restaurant.",
+      "Supervise and coordinate restaurant staff.",
+      "Ensure excellent customer service and guest satisfaction.",
+      "Monitor food quality, presentation, hygiene, and service standards.",
+      "Manage stock levels and minimize wastage.",
+      "Handle customer complaints professionally.",
+      "Prepare staff schedules and monitor attendance and performance.",
+      "Ensure compliance with health, safety, and restaurant procedures."
+    ],
+    requirements: [
+      "2–3 years relevant experience"
+    ],
+    apply: "Interested and qualified candidates should send their updated CV to: queenufedoh@gmail.com. Please indicate the position applied for as the subject of the email.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "stylist-brand-ambassador-wuye-abuja-2026",
+    title: "Stylist/Brand Ambassador",
+    date: "2026-08-14",
+    location: "Wuye, Abuja",
+    type: "Full-time",
+    salary: "150K",
+    summary: "We are seeking a creative, results-driven, and highly engaging Fashion Stylist / Sales Representative to join our team. In this hybrid role, you will act as both a brand ambassador and a personal style consultant, guiding clients to curate complete head-to-toe looks tailored to their personality, body type, and occasions.",
+    responsibilities: [
+      "Provide personalized 1-on-1 fashion styling, recommending outfits, shoes, and accessories based on customer preferences, body shapes, and personal taste.",
+      "Build head-to-toe curated looks and encourage cross-selling/upselling to increase key performance indicators (KPIs) like Units Per Transaction (UPT) and Average Order Value (AOV).",
+      "Stay up-to-date on current fashion trends, seasonal collections, brand stories, and fabric care instructions to share with clients.",
+      "Assist clients in fitting rooms, offering size alternatives, styling tips, and alteration recommendations.",
+      "Meet and exceed individual and store sales targets through active engagement and relationship building.",
+      "Build a loyal client book by recording client preferences, sizes, and purchase history to provide targeted outreach for new arrivals and VIP sales events.",
+      "Deliver proactive outreach (via messaging/email) to VIP clients regarding new collection drops, personal appointments, or private store events."
+    ],
+    requirements: [],
+    apply: "To apply send cv to 09164981423 via whatsapp",
+    deadline: "Not Specified"
+  },
+  {
+    id: "accountant-gbagada-lagos-2026-v2",
+    title: "Accountant",
+    date: "2026-08-14",
+    location: "Gbagada Lagos",
+    type: "Full-time",
+    salary: "₦200,000 – ₦250,000 Monthly",
+    summary: "A reputable organization micro financial institution is seeking a competent and detail-oriented Accountant to manage financial records, ensure compliance, and support sound financial decision-making.",
+    responsibilities: [
+      "Prepare and maintain accurate financial records and reports.",
+      "Manage accounts payable, accounts receivable, and bank reconciliations.",
+      "Prepare monthly financial statements and budgets.",
+      "Ensure compliance with financial regulations and tax requirements.",
+      "Monitor cash flow and support financial planning.",
+      "Liaise with auditors and regulatory bodies when required."
+    ],
+    requirements: [
+      "B.Sc./HND in Accounting or Finance.",
+      "Professional certification (ICAN/ACCA or in view) is an added advantage.",
+      "Minimum of 3 years’ accounting experience.",
+      "Proficiency in accounting software and Microsoft Excel.",
+      "Strong analytical skills, integrity, and attention to detail."
+    ],
+    apply: "To Apply,Send CV to : 08118157245",
+    deadline: "Not Specified"
+  },
+  {
+    id: "accountant-ojota-lagos-2026",
+    title: "Accountant",
+    date: "2026-08-14",
+    location: "Ojota, Lagos",
+    type: "Full-time",
+    salary: "₦250,000- ₦300,000 net per month",
+    summary: "Our client, an Event Rentals company is looking for a competent, detail-oriented, and highly motivated Accountant the company. If you have a strong background in accounting, excellent analytical skills, and a passion for financial accuracy, we’d love to hear from you.",
+    responsibilities: [],
+    requirements: [
+      "Bachelor’s Degree or HND in Accounting, Finance, or a related discipline.",
+      "Minimum of 2 years’ post-NYSC relevant work experience in accounting or finance.",
+      "Relevant experience in Event industry is an added advantage.",
+      "Good knowledge of accounting principles, inventory management and financial reporting.",
+      "Proficiency in accounting software such as Zoho Books, Sage, or similar ERP systems, as well as Microsoft Excel.",
+      "Strong analytical, numerical, and problem-solving skills.",
+      "Excellent communication, organizational, and interpersonal skills."
+    ],
+    apply: "Qualified candidates should send their CV to hr@thestartupplaceng.com using “Accountant – Event Rentals” as the subject of the email.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "retail-associate-ajah-lagos-2026",
+    title: "Retail Associate",
+    date: "2026-08-14",
+    location: "Ajah, Lagos",
+    type: "Full-time",
+    company: "Alto3 Liquor World",
+    salary: "₦80,000 Monthly",
+    summary: "Alto3 Liquor World is looking for a friendly, responsible and customer-focused Retail Associate to join our team.",
+    responsibilities: [
+      "Attend to customers and provide excellent customer service.",
+      "Assist customers in selecting products based on their needs.",
+      "Handle sales transactions and payments accurately.",
+      "Maintain proper arrangement and display of products.",
+      "Monitor stock levels and report low or damaged stock.",
+      "Keep the store clean, organized, and presentable.",
+      "Assist with stock counting and inventory checks.",
+      "Ensure proper handling of company products and equipment.",
+      "Perform other duties assigned by the Store Manager."
+    ],
+    requirements: [
+      "Minimum of OND or HND; additional qualifications are an advantage.",
+      "Previous retail, sales, or customer service experience is preferred.",
+      "Good communication and interpersonal skills.",
+      "Must be honest, responsible, and attentive to details.",
+      "Ability to work in a fast-paced retail environment.",
+      "Must be willing to work flexible hours, including weekends when required.",
+      "Candidates must reside in or around Ajah and its environs."
+    ],
+    apply: "Interested candidates should send their CV to: Quintconsultng@gmail.com. Please use Retail Associate – Alto3 as the subject of the email.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "store-manager-ajah-lagos-2026",
+    title: "Store Manager",
+    date: "2026-08-14",
+    location: "Ajah, Lagos",
+    type: "Full-time",
+    company: "Alto3 Liquor World",
+    salary: "₦120,000 Monthly",
+    summary: "Alto3 Liquor World is looking for an experienced and responsible Store Manager to oversee the daily operations of our store and ensure smooth and efficient running of the business.",
+    responsibilities: [
+      "Oversee the day-to-day operations of the store.",
+      "Supervise and coordinate the activities of retail associates and other store staff.",
+      "Ensure excellent customer service and handle customer complaints when necessary.",
+      "Monitor sales and ensure daily sales targets are achieved.",
+      "Manage stock levels, inventory, receiving, and proper storage of products.",
+      "Conduct regular stock checks and report discrepancies or losses.",
+      "Ensure products are properly arranged, displayed, and priced.",
+      "Monitor cash handling and ensure all sales are properly recorded.",
+      "Prepare and submit daily and periodic sales and inventory reports.",
+      "Ensure the store is clean, organized, and properly maintained.",
+      "Monitor staff attendance, punctuality, appearance, and general conduct.",
+      "Ensure company policies and procedures are followed.",
+      "Identify opportunities to improve sales and overall store performance.",
+      "Liaise with suppliers and assist with product orders when required.",
+      "Perform other duties as assigned by management."
+    ],
+    requirements: [
+      "Minimum of Bachelor’s degree or equivalent qualification.",
+      "1-3 years of experience in retail, store management, sales or a related role.",
+      "Previous experience managing a retail store is an added advantage.",
+      "Strong leadership and team management skills.",
+      "Good knowledge of inventory and stock management.",
+      "Good numerical and record-keeping skills.",
+      "Excellent communication and customer service skills.",
+      "Honest, organized, proactive and detail-oriented.",
+      "Ability to work independently and make sound decisions.",
+      "Must be willing to work flexible hours, including weekends when required.",
+      "Candidates must reside in or around Ajah and its environs."
+    ],
+    apply: "Interested candidates should send their CV to: Quintconsultng@gmail.com. Please use Store Manager – Alto3 as the subject of the email.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "field-sales-representative-fmcg-lagos-island-2026",
+    title: "Field Sales Representative",
+    date: "2026-08-14",
+    location: "Lagos Island",
+    type: "Full-time",
+    company: "FMCG (Beverage)",
+    salary: "100,000 – 120,000",
+    summary: "Identify and acquire new customers within the assigned territory, promote and sell the company’s products and services, and build and maintain strong customer relationships.",
+    responsibilities: [
+      "Identify and acquire new customers within the assigned territory.",
+      "Promote and sell the company’s products and services.",
+      "Build and maintain strong customer relationships.",
+      "Achieve assigned sales and revenue targets."
+    ],
+    requirements: [
+      "Minimum of OND",
+      "1-2 years sales experience",
+      "Strong negotiation and communication skills",
+      "Self-motivated and target-driven",
+      "Should reside close to the location"
+    ],
+    apply: "Qualified candidates should send their CVs to Constance.o@secomltd.com with the subject – “Sales Rep” or Whatsapp: 09063647703",
+    deadline: "Not Specified"
+  },
+  {
+    id: "company-drivers-fmcg-multiple-locations-2026",
+    title: "Company Drivers",
+    date: "2026-08-14",
+    location: "Satellite Town, Obalende, Lekki Phase 2, Marina, Berger",
+    type: "Full-time",
+    company: "FMCG",
+    salary: "80,000 -100,000",
+    summary: "Safely transport goods to designated areas, adhere to all traffic laws, and maintain professionalism.",
+    responsibilities: [
+      "Safely transport goods to designated areas",
+      "Adhere to all traffic laws, road safety regulations and company policies",
+      "Ensure that all vehicles’ documents ( licence, insurance and registration) are valid and up to date",
+      "Maintain professionalism, confidentiality and a courteous attitude while carrying out duties"
+    ],
+    requirements: [
+      "Valid Driver’s license",
+      "LASRI ID Card",
+      "Android/ Smart Phone",
+      "Minimum of 2 years driving experience",
+      "Should reside close to the location"
+    ],
+    apply: "Qualified candidates should sent their CV to Constance.o@secomltd.com or via Whatsapp: 09063647703, using the LOCATION as the Subject of the Email.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "sales-development-representative-sdr-lagos-ibadan-2026",
+    title: "Sales Development Representative (SDR)",
+    date: "2026-08-14",
+    location: "Lagos & Ibadan",
+    type: "Full Time (On site)",
+    salary: "Base Salary + Performance Pay",
+    summary: "No experience? No problem. We’re looking for ambitious, coachable individuals who are eager to build a successful career in real estate sales. We’ll provide the training, you bring the drive.",
+    responsibilities: [
+      "Generate and qualify sales leads",
+      "Follow up with prospective clients and schedule inspections",
+      "Build strong customer relationships",
+      "Promote and sell trusted real estate products",
+      "Meet monthly sales targets"
+    ],
+    requirements: [
+      "SSCE, OND, HND, or Bachelor’s Degree",
+      "Strong communication and interpersonal skills",
+      "Self motivated and target driven",
+      "Willingness to learn and grow in sales",
+      "Sales experience is an added advantage but not required"
+    ],
+    apply: "Apply here: https://bit.ly/4wnLWmk",
+    deadline: "Not Specified"
+  },
+  {
+    id: "showroom-sales-executive-vi-lagos-2026",
+    title: "Showroom Sales Executive",
+    date: "2026-08-14",
+    location: "Victoria Island, Lagos",
+    type: "Full-Time | Onsite",
+    salary: "₦200,000 – ₦300,000 net monthly",
+    summary: "Responsible for driving sales performance within the showroom by delivering an exceptional customer experience, converting walk-in and referred prospects into customers, and supporting revenue growth.",
+    responsibilities: [
+      "Welcome, engage, and assist showroom visitors in a professional and consultative manner",
+      "Understand customer needs and recommend suitable products and solutions",
+      "Drive showroom sales and consistently achieve individual revenue targets",
+      "Generate and follow up on sales leads to maximize conversion opportunities",
+      "Build and nurture strong customer relationships to encourage repeat business and referrals"
+    ],
+    requirements: [
+      "Bachelor’s Degree or HND in Business Administration, Marketing, Economics, or a related discipline",
+      "Minimum of 1–3 years’ experience in retail sales, showroom sales, customer-facing sales, or business development roles",
+      "Proven track record of meeting or exceeding sales targets",
+      "Strong communication, negotiation, and customer relationship management skills"
+    ],
+    apply: "Qualified candidates should apply using the link provided below\n\nhttps://forms.gle/NdgFn6DTvH8cnVHv6",
+    deadline: "Not Specified"
+  },
+  {
+    id: "experienced-gardener-ikeja-2026",
+    title: "Experienced Gardener",
+    date: "2026-08-14",
+    location: "Ikeja",
+    type: "Full-time",
+    salary: "75k",
+    summary: "Planting, watering, and fertilizing flowers, shrubs, and trees, as well as pruning them to maintain shape and health.",
+    responsibilities: [
+      "Planting, watering, and fertilizing flowers, shrubs, and trees, as well as pruning them to maintain shape and health.",
+      "Mowing, edging, and fertilizing lawns, weeding garden beds, and clearing debris.",
+      "Monitoring for and treating plant diseases and pests.",
+      "Operating, cleaning, and maintaining gardening tools and machinery."
+    ],
+    requirements: [
+      "A minimum of 5 years of working Experience."
+    ],
+    apply: "To apply, send a screenshot of this post to 08166742515 on WhatsApp or refer someone.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "intern-account-officer-ikeja-2026",
+    title: "Intern Account Officer",
+    date: "2026-08-14",
+    location: "Joel Ogunaike GRA Ikeja",
+    type: "Internship",
+    salary: "150 – 170k",
+    summary: "We are looking to hire motivated Intern accountant in our firm.",
+    responsibilities: [
+      "Assist with the preparation and maintenance of financial records.",
+      "Support the accounts payable and accounts receivable processes.",
+      "Assist in bank reconciliation and daily cashbook updates.",
+      "Help prepare financial reports, budgets, and expense tracking.",
+      "Input and verify data in accounting software or spreadsheets.",
+      "Assist with audit preparation and documentation. Maintain accurate filing of accounting documents. Perform other administrative or accounting duties as assigned."
+    ],
+    requirements: [],
+    apply: "To apply, send a copy of an updated CV and screenshot of this post to 08166742515 on WhatsApp or refer someone. You can also apply by clicking this link https://www.artisanoga.com/job/intern-account-officer",
+    deadline: "Not Specified"
+  },
+  {
     id: "account-officer-ikeja-2026-08-08",
     title: "Account Officer",
     date: "2026-08-08",

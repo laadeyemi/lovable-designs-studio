@@ -50,6 +50,720 @@ const currentDate = '2026-08-08'; // Current date for comparison (August 08, 202
 
 const allJobs: Job[] = [
   {
+    id: "head-of-marketing-business-development-lagos-2026",
+    title: "Head of Marketing & Business Development",
+    date: "2026-08-17",
+    location: "Lagos mainland",
+    type: "Full-time",
+    company: "Business & Financial Advisory",
+    salary: "₦500,000 + other benefits",
+    summary: "A leading Business & Financial Advisory firm is seeking a Head of Marketing & Business Development to lead their team.",
+    responsibilities: [],
+    requirements: [
+      "3–4 years of experience in a similar role."
+    ],
+    apply: "https://forms.gle/hsXYG11XBg1VbUwv8",
+    deadline: "Not Specified"
+  },
+  {
+    id: "digital-marketing-communications-officer-lagos-2026",
+    title: "Digital Marketing & Communications Officer",
+    date: "2026-08-17",
+    location: "Lagos mainland",
+    type: "Full-time",
+    company: "Business & Financial Advisory",
+    salary: "₦300,000 + other benefits",
+    summary: "A leading Business & Financial Advisory firm is seeking a Digital Marketing & Communications Officer.",
+    responsibilities: [],
+    requirements: [
+      "2–3 years of experience in a similar role."
+    ],
+    apply: "https://forms.gle/hsXYG11XBg1VbUwv8",
+    deadline: "Not Specified"
+  },
+  {
+    id: "social-media-officer-lagos-2026",
+    title: "Social Media Officer",
+    date: "2026-08-17",
+    location: "Lagos mainland",
+    type: "Full-time",
+    company: "Business & Financial Advisory",
+    salary: "₦200,000 + other benefits",
+    summary: "A leading Business & Financial Advisory firm is seeking a Social Media Officer.",
+    responsibilities: [],
+    requirements: [
+      "1–2 years of experience in a similar role."
+    ],
+    apply: "https://forms.gle/hsXYG11XBg1VbUwv8",
+    deadline: "Not Specified"
+  },
+  {
+    id: "website-officer-lagos-2026",
+    title: "Website Officer",
+    date: "2026-08-17",
+    location: "Lagos mainland",
+    type: "Full-time",
+    company: "Business & Financial Advisory",
+    salary: "₦300,000 + other benefits",
+    summary: "A leading Business & Financial Advisory firm is seeking a Website Officer.",
+    responsibilities: [],
+    requirements: [
+      "3 years of experience in a similar role."
+    ],
+    apply: "https://forms.gle/hsXYG11XBg1VbUwv8",
+    deadline: "Not Specified"
+  },
+  {
+    id: "business-development-executive-lagos-2026",
+    title: "Business Development Executive",
+    date: "2026-08-17",
+    location: "Lagos mainland",
+    type: "Full-time",
+    company: "Business & Financial Advisory",
+    salary: "₦250,000 + other benefits",
+    summary: "A leading Business & Financial Advisory firm is seeking a Business Development Executive.",
+    responsibilities: [],
+    requirements: [
+      "1–2 years of experience in a similar role."
+    ],
+    apply: "https://forms.gle/hsXYG11XBg1VbUwv8",
+    deadline: "Not Specified"
+  },
+  {
+    id: "corporate-partnerships-officer-lagos-2026",
+    title: "Corporate Partnerships Officer",
+    date: "2026-08-17",
+    location: "Lagos mainland",
+    type: "Full-time",
+    company: "Business & Financial Advisory",
+    salary: "₦300,000 + other benefits",
+    summary: "A leading Business & Financial Advisory firm is seeking a Corporate Partnerships Officer.",
+    responsibilities: [],
+    requirements: [
+      "1–3 years of experience in a similar role."
+    ],
+    apply: "https://forms.gle/hsXYG11XBg1VbUwv8",
+    deadline: "Not Specified"
+  },
+  {
+    id: "programs-officer-lagos-2026",
+    title: "Programs Officer",
+    date: "2026-08-17",
+    location: "Lagos mainland",
+    type: "Full-time",
+    company: "Business & Financial Advisory",
+    salary: "₦300,000 - ₦500,000 + other benefits",
+    summary: "A leading Business & Financial Advisory firm is seeking a Programs Officer.",
+    responsibilities: [],
+    requirements: [
+      "3 years’ experience – ₦300,000 + other benefits",
+      "5 years’ experience – ₦500,000 + other benefits"
+    ],
+    apply: "https://forms.gle/hsXYG11XBg1VbUwv8",
+    deadline: "Not Specified"
+  },
+  {
+    id: "pos-sales-executive-ibeju-lekki-2026",
+    title: "POS Sales Executive",
+    date: "2026-08-17",
+    location: "Ibeju-Lekki, Ajah & Island Axis",
+    type: "Full-time",
+    salary: "₦200,000 Monthly + Commission",
+    summary: "We are seeking target-driven POS Sales Executives to drive POS merchant acquisition, onboarding, deployment and transaction growth.",
+    responsibilities: [],
+    requirements: [
+      "1–2 years’ proven sales experience",
+      "Experience in POS, fintech, banking or field sales is an advantage",
+      "Strong communication and customer acquisition skills",
+      "Ability to meet sales targets",
+      "Must be willing to work and resume around Ibeju-Lekki, Ajah or Island"
+    ],
+    apply: "Recruiterkcl@gmail.com",
+    deadline: "Not Specified"
+  },
+  {
+    id: "security-guard-lekki-phase-1-2026",
+    title: "Security Guard",
+    date: "2026-08-17",
+    location: "Lekki phase 1, Lagos",
+    type: "Full-time (Live-in)",
+    salary: "70k-80k",
+    gender: "Male",
+    summary: "Male security guard urgently needed for a live-in resident security role.",
+    responsibilities: [],
+    requirements: [],
+    apply: "If interested contact 08025322075 via WhatsApp",
+    deadline: "Not Specified"
+  },
+  {
+    id: "automotive-sales-executive-ikeja-2026",
+    title: "Automotive Sales Executive",
+    date: "2026-08-17",
+    location: "Ikeja, Lagos",
+    type: "Full-time",
+    salary: "₦350,000 Gross Monthly",
+    summary: "Seeking a results-driven and customer-focused Automotive Sales Executive to join our growing sales team. The ideal candidate will have relevant experience selling automotive tyres, batteries, or related products, with strong negotiation and business development skills.",
+    responsibilities: [
+      "Drive sales of automotive tyres, batteries, and related products.",
+      "Identify and develop new business opportunities within assigned territories.",
+      "Build and maintain strong relationships with distributors, fleet operators, mechanics, retailers, and corporate customers.",
+      "Achieve and exceed monthly and annual sales targets.",
+      "Conduct regular market visits to generate leads, understand customer needs, and close sales.",
+      "Prepare quotations, negotiate pricing, and follow up on customer orders.",
+      "Monitor market trends, competitor activities, and customer preferences.",
+      "Follow up on outstanding customer payments and support timely collections.",
+      "Prepare accurate daily, weekly, and monthly sales reports.",
+      "Work closely with operations and logistics teams to ensure timely product delivery.",
+      "Promote company products and maintain high standards of customer service.",
+      "Provide regular feedback on market opportunities, customer needs, and competitor activities."
+    ],
+    requirements: [
+      "Bachelor’s Degree or HND in Marketing, Business Administration, or a related discipline.",
+      "Minimum of 3 years’ sales experience in automotive tyres, batteries, lubricants, auto spare parts, or related automotive products.",
+      "Good knowledge of the Nigerian automotive aftermarket.",
+      "Strong communication, negotiation, and relationship management skills.",
+      "Proven ability to achieve and exceed sales targets.",
+      "Strong business development and prospecting abilities.",
+      "Proficiency in Microsoft Office applications.",
+      "Ability to work independently and effectively with minimal supervision.",
+      "Willingness to conduct regular market visits within assigned territories."
+    ],
+    apply: "Interested candidates who meet the requirements are encouraged to apply by sending their CV to cv@ascentech.com.ng using the job title as the subject.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "it-support-officer-financial-services-lagos-2026",
+    title: "IT Support Officer",
+    date: "2026-08-17",
+    location: "Lagos",
+    type: "Full-time",
+    company: "Financial Services",
+    salary: "Negotiable",
+    summary: "A financial services company is urgently hiring an IT Support Officer.",
+    responsibilities: [],
+    requirements: [
+      "1–2 years of experience in IT support, technical support, or a related role.",
+      "Good knowledge of computer hardware, software, operating systems, and basic networking.",
+      "Ability to troubleshoot and resolve common hardware, software, and connectivity issues.",
+      "Experience providing technical support to staff and maintaining IT equipment.",
+      "Good knowledge of Microsoft Office/Google Workspace and other workplace productivity tools.",
+      "Strong problem-solving, communication, organizational, and interpersonal skills.",
+      "Ability to work independently, prioritize tasks, and respond promptly to technical issues.",
+      "A relevant qualification in Computer Science, Information Technology, Cybersecurity, or a related field is an added advantage."
+    ],
+    apply: "Interested candidates should send their CV to: hr@madas.com.ng",
+    deadline: "Not Specified"
+  },
+  {
+    id: "key-account-manager-fmcg-mainland-2026",
+    title: "Key Account Manager (FMCG)",
+    date: "2026-08-17",
+    location: "Mainland",
+    type: "Full-time",
+    company: "BerryMart Integrated Services Limited",
+    salary: "Competitive",
+    summary: "We are seeking a high-performing sales professional to drive sales growth, expand our customer base, and build strong relationships with distributors, wholesalers, retailers, and key accounts in the FMCG market.",
+    responsibilities: [
+      "Drive sales growth and consistently exceed assigned targets.",
+      "Expand our customer base and identify new business opportunities.",
+      "Build and manage strong relationships with distributors, wholesalers, retailers, and key accounts.",
+      "Ensure excellent product visibility, availability, and merchandising across your territory.",
+      "Monitor market trends and competitor activities to identify growth opportunities.",
+      "Submit timely sales reports and ensure prompt payment collections."
+    ],
+    requirements: [
+      "5–7 years of hands-on FMCG sales experience.",
+      "Strong understanding of the Lagos market and distribution channels.",
+      "Excellent negotiation, communication, and relationship-building skills.",
+      "A self-driven, resilient, and target-oriented professional with a winning mindset.",
+      "HND/B.Sc. in any relevant discipline."
+    ],
+    apply: "Send your CV to oenik@berrymartng.com with the subject: Key Account Manager",
+    deadline: "Not Specified"
+  },
+  {
+    id: "sales-representatives-fmcg-lagos-2026",
+    title: "Sales Representatives (FMCG)",
+    date: "2026-08-17",
+    location: "Mainland & Island",
+    type: "Full-time",
+    salary: "150k",
+    summary: "Passionate about sales, building strong customer relationships, and driving business growth? We’d love to have you on our team!",
+    responsibilities: [
+      "Manage and grow assigned customer accounts.",
+      "Build and maintain strong relationships with distributors, wholesalers, and retail partners.",
+      "Achieve assigned sales and revenue targets.",
+      "Identify and develop new business opportunities within the assigned territory.",
+      "Ensure product availability, visibility, and merchandising across customer outlets.",
+      "Monitor competitors’ activities and provide timely market intelligence.",
+      "Prepare and submit accurate sales reports.",
+      "Work closely with internal teams to ensure excellent customer service."
+    ],
+    requirements: [
+      "Bachelor’s degree or HND in Marketing, Business Administration, or a related field.",
+      "1–3 years’ experience in Account Management, Sales, or Business Development within the FMCG industry.",
+      "Strong relationship management, negotiation, and communication skills.",
+      "Target-driven with a proven ability to achieve sales objectives.",
+      "Good understanding of key account management and retail sales.",
+      "Must be familiar with the preferred territory (Mainland 2 Festac/Ojo region or Island)"
+    ],
+    apply: "Qualified candidates should send their CV to oenik@berrymartng.com with the subject line: Sales Representative – Mainland, or Sales Representative– Island",
+    deadline: "Not Specified"
+  },
+  {
+    id: "field-sales-representatives-fmcg-ph-2026",
+    title: "Field Sales Representatives (FMCG)",
+    date: "2026-08-17",
+    location: "Port Harcourt",
+    type: "Full-time",
+    salary: "Competitive",
+    summary: "Passionate about sales, building strong customer relationships, and driving business growth? We’d love to have you on our team!",
+    responsibilities: [
+      "Manage and grow assigned customer accounts.",
+      "Build and maintain strong relationships with distributors, wholesalers, and retail partners.",
+      "Achieve assigned sales and revenue targets.",
+      "Identify and develop new business opportunities within the assigned territory.",
+      "Ensure product availability, visibility, and merchandising across customer outlets.",
+      "Monitor competitors’ activities and provide timely market intelligence.",
+      "Prepare and submit accurate sales reports.",
+      "Work closely with internal teams to ensure excellent customer service."
+    ],
+    requirements: [
+      "Bachelor’s degree or HND in Marketing, Business Administration, or a related field.",
+      "2-3 years’ experience in Account Management, Sales, or Business Development within the FMCG industry.",
+      "Strong relationship management, negotiation, and communication skills.",
+      "Target-driven with a proven ability to achieve sales objectives.",
+      "Good understanding of key account management and retail sales."
+    ],
+    apply: "Qualified candidates should send their CV to oenik@berrymartng.com",
+    deadline: "Not Specified"
+  },
+  {
+    id: "cleaners-lekki-lagos-2026",
+    title: "Cleaner",
+    date: "2026-08-17",
+    location: "Lekki, Lagos",
+    type: "Full-time",
+    salary: "Not Specified",
+    summary: "We are currently recruiting for 2 Cleaners to join our team in Lekki, Lagos.",
+    responsibilities: [
+      "Maintain cleanliness and tidiness of assigned areas.",
+      "Perform daily cleaning tasks such as sweeping, mopping, and dusting."
+    ],
+    requirements: [
+      "Previous cleaning experience is an advantage.",
+      "Must be hardworking, neat, reliable, and punctual.",
+      "Good attention to detail.",
+      "Must be willing to work as required.",
+      "Proximity to Lekki is very important."
+    ],
+    apply: "Interested candidates should send their CV to queenufedoh@gmail.com",
+    deadline: "Not Specified"
+  },
+  {
+    id: "it-officer-construction-lagos-2026",
+    title: "IT Officer",
+    date: "2026-08-17",
+    location: "Lagos",
+    type: "Full-time",
+    company: "Construction and diversified business organisation",
+    salary: "₦180,000 – ₦200,000 net monthly",
+    summary: "A fast-growing construction and diversified business organisation is expanding its team and seeking a qualified, experienced, and motivated IT Officer.",
+    responsibilities: [
+      "Provide IT support and troubleshooting.",
+      "Manage networking and systems maintenance.",
+      "Monitor IT infrastructure and provide timely technical support."
+    ],
+    requirements: [
+      "Bachelor’s degree/HND in Computer Science, Information Technology, or a related field.",
+      "1–3 years of relevant IT experience.",
+      "Good knowledge of IT support, troubleshooting, networking, and systems maintenance.",
+      "Ability to monitor and maintain IT infrastructure and provide timely technical support.",
+      "Strong problem-solving, communication, and organisational skills.",
+      "Ability to work independently and as part of a team."
+    ],
+    apply: "https://forms.gle/XADucitaGHWKwkts7",
+    deadline: "Monday, 24th August 2026"
+  },
+  {
+    id: "hotel-operations-manager-vgc-lekki-2026",
+    title: "Hotel Operations Manager",
+    date: "2026-08-17",
+    location: "VGC, Lekki, Lagos",
+    type: "Full-time",
+    salary: "₦300,000",
+    gender: "Male",
+    summary: "We are looking for an experienced male Operations Manager with strong experience in hotel operations to oversee the smooth and efficient running of the hotel.",
+    responsibilities: [
+      "Oversee daily hotel operations.",
+      "Manage staff and improve service delivery.",
+      "Ensure operational standards are maintained.",
+      "Drive efficiency, guest satisfaction, and profitability."
+    ],
+    requirements: [
+      "Male, 40 years and above",
+      "Several years of proven experience in hotel operations.",
+      "Strong knowledge of front office, housekeeping, F&B, maintenance, and general hotel operations.",
+      "Proven ability to manage staff, improve service delivery, and maintain operational standards.",
+      "Strong leadership, problem-solving, and people-management skills.",
+      "Ability to drive efficiency, guest satisfaction, and profitability.",
+      "Must be hands-on, mature, disciplined, and results-oriented."
+    ],
+    apply: "IF YOU’RE QUALIFIED, SEND YOUR CV VIA WHATSAPP TO & STATE THE POSITION: 07068198606",
+    deadline: "Not Specified"
+  },
+  {
+    id: "social-media-manager-bitqora-remote-2026",
+    title: "Social Media Manager",
+    date: "2026-08-17",
+    location: "Remote",
+    type: "Full-time",
+    company: "BitQora",
+    salary: "200k (net)",
+    summary: "The Social Media Manager will manage BitQora’s social media presence and ensure that the brand remains active, visible, engaging and responsive across approved platforms.",
+    responsibilities: [
+      "Manage BitQora’s social media pages across approved platforms.",
+      "Publish approved content in line with the content calendar.",
+      "Keep BitQora’s social media presence active, consistent and engaging.",
+      "Engage with comments, mentions and relevant conversations in a professional brand tone.",
+      "Monitor trends and recommend content ideas that fit BitQora’s audience and positioning.",
+      "Track audience feedback, recurring questions and public sentiment.",
+      "Escalate complaints, sensitive comments or service-related issues.",
+      "Support campaign rollouts across social media platforms.",
+      "Support the distribution and amplification of CEO thought leadership content.",
+      "Work with the Graphic Designer and Multimedia Specialist to ensure content is visually strong and platform-ready.",
+      "Prepare weekly and monthly social media performance updates.",
+      "Share useful insights from social media that can guide future content, campaigns and user education."
+    ],
+    requirements: [],
+    apply: "Kindly send your CV and Portfolio to nestbridco@gmail.com. Please ensure your Instagram (IG) handle is included in your application.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "sales-executive-financial-services-vi-2026",
+    title: "Sales Executive",
+    date: "2026-08-17",
+    location: "Victoria Island (VI), Lagos",
+    type: "Full-time",
+    company: "Financial Services",
+    salary: "Competitive, with attractive benefits",
+    summary: "We are seeking a driven, result-oriented, and customer-focused Sales Executive to join a dynamic financial services organization in Victoria Island, Lagos.",
+    responsibilities: [
+      "Identify and generate new business opportunities through prospecting, referrals, networking, and other sales channels.",
+      "Develop and maintain strong relationships with existing and prospective clients.",
+      "Present and effectively communicate the company’s financial products and services to prospective customers.",
+      "Convert qualified leads into new customers and contributes to revenue growth.",
+      "Achieve and consistently exceed assigned sales targets and business development objectives.",
+      "Follow up with prospective clients and maintain an organized sales pipeline.",
+      "Conduct market research to identify emerging opportunities, customer needs, and industry trends.",
+      "Prepare and submit regular sales reports and updates on business development activities.",
+      "Collaborate with internal teams to ensure excellent customer service and seamless onboarding of clients.",
+      "Maintain accurate records of customer interactions, leads, prospects, and sales activities.",
+      "Represent the organization professionally at meetings, networking events, and other business engagements.",
+      "Ensure all sales activities comply with relevant company policies, regulatory requirements, and industry standards."
+    ],
+    requirements: [
+      "Bachelor’s degree or HND in Business Administration, Marketing, Economics, Finance, or a related field.",
+      "2–4 years of relevant sales experience, preferably within financial services, banking, asset management, insurance, fintech, or a related industry.",
+      "Proven track record of meeting or exceeding sales targets.",
+      "Strong business development, negotiation, and relationship-management skills.",
+      "Excellent communication and presentation skills.",
+      "Ability to identify opportunities and convert prospects into customers.",
+      "Strong customer-service orientation and interpersonal skills.",
+      "Self-motivated, proactive, and able to work independently.",
+      "Good knowledge of financial products and the ability to understand and communicate their value to clients.",
+      "Proficiency in Microsoft Office and familiarity with CRM/sales-management tools will be an advantage."
+    ],
+    apply: "Interested and qualified candidates should send their CV to hr@myrtleng.com with “Sales Executive” as the subject",
+    deadline: "21st August 2026"
+  },
+  {
+    id: "senior-sales-executive-plastic-manufacturing-ota-2026",
+    title: "Senior Sales Executive",
+    date: "2026-08-17",
+    location: "Ota, Ogun State",
+    type: "Full-time",
+    company: "Plastic Manufacturing Company",
+    salary: "Not Specified",
+    summary: "A plastic manufacturing company urgently needs a Senior Sales Executive with experience in sales of preform and closures.",
+    responsibilities: [],
+    requirements: [
+      "Experience in sales of preform and closures is mandatory.",
+      "Candidate who can move around the country.",
+      "HND or Bsc in marketing or relevant discipline with 4 to 5 years of experience in a plastic or other preform like setting."
+    ],
+    apply: "CVS to ayomaku@yahoo.com",
+    deadline: "Not Specified"
+  },
+  {
+    id: "warehouse-supervisor-plastic-manufacturing-ota-2026",
+    title: "Warehouse Supervisor",
+    date: "2026-08-17",
+    location: "Ota, Ogun State",
+    type: "Full-time",
+    company: "Plastic Manufacturing Company",
+    salary: "Not Specified",
+    summary: "A plastic manufacturing company urgently needs an experienced Warehouse Supervisor.",
+    responsibilities: [],
+    requirements: [
+      "3–5yrs experience in similar role with HND or a Bsc."
+    ],
+    apply: "CVS to ayomaku@yahoo.com",
+    deadline: "Not Specified"
+  },
+  {
+    id: "operations-manager-agrochemicals-kano-lagos-2026",
+    title: "Operations Manager",
+    date: "2026-08-17",
+    location: "Kano/Lagos, Nigeria",
+    type: "Full-time (On-site)",
+    company: "Agrochemicals Business",
+    salary: "Competitive, paid in USD",
+    summary: "We are seeking a results-driven Operations Manager to lead and optimise our operations in a fast-growing agrochemicals business.",
+    responsibilities: [
+      "Oversee day-to-day operations across supply chain, warehousing, logistics and distribution",
+      "Drive efficiency, cost control and process improvement against clear KPIs",
+      "Lead and develop cross-functional teams",
+      "Ensure compliance with regulatory, safety and quality standards."
+    ],
+    requirements: [
+      "Minimum of a Master’s degree, obtained from a foreign institution",
+      "5+ years’ experience at senior manager level",
+      "Background in agrochemicals or the wider agro-economy strongly preferred",
+      "Demonstrable track record of delivering measurable results",
+      "Strong leadership, analytical and stakeholder-management skills",
+      "Available to resume within 2 weeks."
+    ],
+    apply: "Send your CV to inimichael@bonagro.com with “Operations Manager” as the subject line.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "head-of-primary-school-lagos-island-2026",
+    title: "Head of Primary School",
+    date: "2026-08-17",
+    location: "Lagos Island, Lagos",
+    type: "Full-Time",
+    salary: "Negotiable",
+    summary: "We are looking for an experienced and dynamic Head of Primary School to provide academic and administrative leadership for the Primary section.",
+    responsibilities: [
+      "Provide strategic and operational leadership for the Primary School.",
+      "Oversee curriculum planning, implementation, and assessment.",
+      "Supervise, mentor, and evaluate Primary School teachers.",
+      "Monitor pupils’ academic performance and implement improvement strategies.",
+      "Ensure high standards of teaching, learning, and classroom management.",
+      "Promote pupil discipline, welfare, safeguarding, and well-being.",
+      "Lead school improvement initiatives and quality assurance activities.",
+      "Coordinate assessments, examinations, and academic reporting.",
+      "Build and maintain strong relationships with parents and stakeholders.",
+      "Lead staff performance management and professional development.",
+      "Oversee school operations, admissions, timetables, and extracurricular programmes.",
+      "Ensure compliance with educational policies and regulatory standards."
+    ],
+    requirements: [
+      "Bachelor’s Degree in Education or a related discipline.",
+      "A Master’s Degree is an added advantage.",
+      "Minimum of 7 years’ teaching experience, including at least 3 years in a leadership role within a Primary School.",
+      "Strong knowledge of the Nigerian and/or British curriculum.",
+      "Excellent leadership, communication, and people management skills.",
+      "Strong analytical, organizational, and problem-solving abilities.",
+      "Proficiency in Microsoft Office and educational management systems."
+    ],
+    apply: "Interested and qualified candidates should send their CV to bradfieldforms@gmail.com using “Head of Primary School” as the subject of the email.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "school-principal-lagos-island-2026",
+    title: "School Principal",
+    date: "2026-08-17",
+    location: "Lagos Island",
+    type: "Full-Time",
+    company: "Reputable educational institution",
+    salary: "Not Specified",
+    summary: "Our client, a reputable educational institution in Mainland, Lagos, is seeking an experienced and visionary Principal to provide strategic leadership and oversee the overall management of the school.",
+    responsibilities: [
+      "Provide strategic leadership and drive the school’s vision, growth, and continuous improvement.",
+      "Oversee academic, administrative, and operational functions to ensure excellence.",
+      "Monitor curriculum implementation and improve student academic performance.",
+      "Lead, mentor, and develop Vice Principals, Head Teachers, and other staff.",
+      "Oversee staff recruitment, performance management, and succession planning.",
+      "Build and maintain strong relationships with parents, regulatory bodies, and other stakeholders.",
+      "Ensure compliance with educational regulations, safeguarding policies, and school standards.",
+      "Prepare management reports and represent the school at educational and community engagements."
+    ],
+    requirements: [
+      "Bachelor’s Degree in Education or a related field.",
+      "Master’s Degree in Education, Educational Leadership, or a related discipline is an added advantage.",
+      "TRCN registration and relevant professional memberships are desirable.",
+      "Minimum of 15 years teaching experience.",
+      "At least 7 years in a senior leadership role within a reputable school.",
+      "Demonstrated success in driving school improvement and academic excellence.",
+      "Strong leadership, communication, stakeholder management, and people development skills.",
+      "Financial management and strategic decision-making experience."
+    ],
+    apply: "Send your CV to bradfieldforms@gmail.com using “School Principal” as the subject of your email.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "live-in-housemaid-ikorodu-2026",
+    title: "Live-In Housemaid",
+    date: "2026-08-17",
+    location: "Ikorodu, Lagos",
+    type: "Full-time / Live-in",
+    salary: "Not Specified",
+    summary: "A live-in housemaid is urgently needed in Ikorodu, Lagos.",
+    responsibilities: [
+      "Maintain cleanliness and tidiness of the house.",
+      "Perform daily household chores, including cleaning, laundry, ironing, and general housekeeping.",
+      "Assist with cooking and other household duties when required.",
+      "Keep the home organized and ensure household items are properly maintained.",
+      "Carry out assigned duties responsibly and efficiently."
+    ],
+    requirements: [
+      "Previous experience as a housemaid, cleaner, or domestic staff is an added advantage.",
+      "Must be hardworking, trustworthy, respectful, and responsible.",
+      "Must be neat and have good personal hygiene.",
+      "Ability to follow instructions and work with minimal supervision.",
+      "Must be willing to live in and work full-time.",
+      "Good communication skills.",
+      "Must be reliable, patient, and attentive to details."
+    ],
+    apply: "Interested candidates should send their CV or contact details to: hr@madas.com.ng",
+    deadline: "Not Specified"
+  },
+  {
+    id: "junior-accountant-ikeja-alausa-2026",
+    title: "Junior Accountant",
+    date: "2026-08-17",
+    location: "Ikeja, Alausa",
+    type: "Full-time",
+    salary: "₦1.8M – ₦3.0M Gross Annual",
+    summary: "We are seeking a Junior Accountant/Bookkeeper with a minimum of 2 years’ relevant accounting or finance experience.",
+    responsibilities: [],
+    requirements: [
+      "HND/BSc in Accounting or a related field",
+      "Experience in bookkeeping, reconciliations, accounts payable and financial administration",
+      "Good Excel/Microsoft Office skills",
+      "Strong attention to detail and numerical ability",
+      "Knowledge of accounting software is an advantage",
+      "Good communication and organisational skills"
+    ],
+    apply: "https://forms.gle/pVhGbbuCVUosyCS2A",
+    deadline: "Not Specified"
+  },
+  {
+    id: "pos-sales-executive-ibeju-lekki-ajah-2026",
+    title: "POS Sales Executive",
+    date: "2026-08-17",
+    location: "Ibeju-Lekki, Ajah & Island Axis",
+    type: "Full-time",
+    salary: "₦200,000 Monthly + Commission",
+    summary: "We are seeking target-driven POS Sales Executives to drive POS merchant acquisition, onboarding, deployment and transaction growth.",
+    responsibilities: [],
+    requirements: [
+      "1–2 years’ proven sales experience",
+      "Experience in POS, fintech, banking or field sales is an advantage",
+      "Strong communication and customer acquisition skills",
+      "Ability to meet sales targets",
+      "Must be willing to work and resume around Ibeju-Lekki, Ajah or Island"
+    ],
+    apply: "Recruiterkcl@gmail.com",
+    deadline: "Not Specified"
+  },
+  {
+    id: "technical-support-nysc-lagos-2026",
+    title: "Technical Support Officer (NYSC)",
+    date: "2026-08-17",
+    location: "Lagos",
+    type: "Internship",
+    salary: "100-120,000",
+    summary: "Are you currently serving and looking to gain hands-on technical experience? We are seeking NYSC Corps Member with an Engineering background to join our team as Technical Support Officer in Lagos.",
+    responsibilities: [],
+    requirements: [
+      "Currently serving (NYSC Corps Member)",
+      "Degree in any Engineering discipline",
+      "Good problem-solving and communication skills",
+      "Basic technical troubleshooting knowledge",
+      "Willingness to learn and work."
+    ],
+    apply: "Interested candidates should send their CV to contact: 09091428385 using Technical Support as the subject line",
+    deadline: "Not Specified"
+  },
+  {
+    id: "business-development-officer-interiors-events-obanikoro-2026",
+    title: "Business Development Officer",
+    date: "2026-08-17",
+    location: "Obanikoro, Bariga",
+    type: "Full-time",
+    company: "Interiors & Events",
+    salary: "₦250,000 Net",
+    summary: "Hiring a Business Development Officer for an Interiors & Events company.",
+    responsibilities: [
+      "Generate new business and meet revenue targets",
+      "Manage client relationships and accounts",
+      "Prepare proposals, quotations & pitches",
+      "Identify upselling/cross-selling opportunities",
+      "Monitor market trends and sales pipeline",
+      "Collaborate with design, production & project teams"
+    ],
+    requirements: [
+      "Bachelor’s degree in Business, Marketing, Communications or related field",
+      "3–5 years’ experience in Business Development/Sales",
+      "Strong sales, negotiation & communication skills",
+      "Experience in events, experiential marketing or fabrication is an advantage",
+      "Proven record of achieving sales targets",
+      "Proficiency in Microsoft Office & CRM tools"
+    ],
+    apply: "https://forms.gle/7gMwvRbLS16UwQrT7",
+    deadline: "Not Specified"
+  },
+  {
+    id: "social-media-manager-interiors-events-obanikoro-2026",
+    title: "Social Media Manager",
+    date: "2026-08-17",
+    location: "Obanikoro, Bariga",
+    type: "Full-time",
+    company: "Interiors & Events",
+    salary: "₦200,000 Net",
+    summary: "Hiring a Social Media Manager for an Interiors & Events company.",
+    responsibilities: [
+      "Create and manage engaging social media content",
+      "Manage Instagram, LinkedIn & other platforms",
+      "Plan campaigns and support lead generation",
+      "Track performance and provide reports"
+    ],
+    requirements: [
+      "2–4 years’ experience in social media management",
+      "Strong content creation, storytelling & branding skills",
+      "Proficiency in Canva, Adobe Suite, CapCut, etc.",
+      "Good writing, communication & creative skills",
+      "Photography/videography skills are an advantage"
+    ],
+    apply: "https://forms.gle/7gMwvRbLS16UwQrT7",
+    deadline: "Not Specified"
+  },
+  {
+    id: "material-handler-interiors-events-obanikoro-2026",
+    title: "Material Handler",
+    date: "2026-08-17",
+    location: "Obanikoro, Bariga",
+    type: "Full-time",
+    company: "Interiors & Events",
+    salary: "₦70,000",
+    summary: "Hiring a Material Handler for an Interiors & Events company.",
+    responsibilities: [
+      "Material handling, inventory support, event setup/dismantling, warehouse organization, and maintaining safety standards."
+    ],
+    requirements: [
+      "Minimum SSCE",
+      "1–2 years’ experience in warehouse, logistics, construction, events, or material handling",
+      "Physically fit and able to lift/move materials",
+      "Basic inventory knowledge",
+      "Good teamwork, reliability, and safety awareness"
+    ],
+    apply: "https://forms.gle/7gMwvRbLS16UwQrT7",
+    deadline: "Not Specified"
+  },
+  {
     id: "edutravel-recruitment-counselling-officer-wuse-abuja-2026",
     title: "EduTravel Recruitment and Counselling Officer",
     date: "2026-08-14",

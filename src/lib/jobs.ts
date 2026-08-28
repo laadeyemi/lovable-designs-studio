@@ -31602,6 +31602,510 @@ const allJobs: Job[] = [
     salary: "Your base pay will depend on various factors including your geographical location, level of experience, knowledge and skills. Please note that additional benefits may apply depending on the work location and, for more information on these, please ask your Talent Partner.",
     deadline: "Not specific",
 },
+  {
+    id: "farm-laboratory-technician-ogun-2026",
+    title: "Farm Laboratory Technician",
+    date: "2026-08-28",
+    location: "Ogun State",
+    type: "Full-time",
+    salary: "Not Specified",
+    summary: "We are seeking a skilled Farm Laboratory Technician to support laboratory testing, sample collection, disease monitoring, and quality control activities within the farm.",
+    responsibilities: [
+      "Collect, label, preserve, and document samples from birds, eggs, feed, water, litter, and environmental surfaces.",
+      "Assist with post-mortem sample collection and tissue preservation.",
+      "Perform routine laboratory tests including microscopy, bacterial culture, water quality, serological, feed, egg, and environmental examinations.",
+      "Prepare laboratory reagents, media, and other testing materials.",
+      "Operate, clean, calibrate, and maintain laboratory equipment.",
+      "Maintain accurate laboratory records and sample traceability.",
+      "Identify abnormal results and promptly report findings to the supervising Veterinarian.",
+      "Maintain strict laboratory safety, GLP, biosecurity, and hygiene standards."
+    ],
+    requirements: [
+      "OND/HND/B.Sc./B.Tech. in Medical Laboratory Technology/Science, Veterinary Laboratory Technology, Animal Health Technology, Microbiology, Biology, Biochemistry, Science Laboratory Technology, Animal Science, or a related discipline.",
+      "Relevant professional certification/registration is an added advantage.",
+      "Practical knowledge of laboratory procedures and testing equipment.",
+      "Good understanding of GLP, laboratory safety, and farm biosecurity.",
+      "Strong attention to detail, record-keeping, communication, and analytical skills.",
+      "Previous experience in a poultry/farm laboratory environment is an advantage."
+    ],
+    apply: "Interested and qualified candidates should send their CV to cv@ascentech.com.ng using Farm Laboratory Technician - Ogun State as the subject of the email.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "business-development-executive-lekki-tat-agency-2026",
+    title: "Business Development Executive",
+    date: "2026-08-28",
+    location: "Lekki Phase 1, Lagos",
+    type: "Full-time",
+    company: "TAT Agency Limited",
+    salary: "N131,000 Net + Monthly Performance Based Bonus",
+    summary: "We are seeking a results-driven Business Development Executive to generate new business opportunities, build client relationships, drive sales, and expand the customer base.",
+    responsibilities: [],
+    requirements: [
+      "1-3 years' experience in Business Development, Sales, Marketing, or a related role.",
+      "Experience in the travel industry is an advantage.",
+      "Strong communication, negotiation, networking, and sales skills.",
+      "Target-driven, proactive, and customer-focused."
+    ],
+    apply: "https://careers.tatagency.com/job_details/27",
+    deadline: "Not Specified"
+  },
+  {
+    id: "digital-marketing-intern-nysc-lekki-2026",
+    title: "Digital Marketing Intern (NYSC)",
+    date: "2026-08-28",
+    location: "Lekki, Lagos",
+    type: "NYSC (PPA with Posting Letter, On-site)",
+    salary: "₦75,000 Monthly",
+    summary: "We are looking for an energetic, creative, and data-minded NYSC Intern to support the digital marketing team with content creation, campaign optimization, paid advertising, and digital strategy.",
+    responsibilities: [
+      "Draft engaging captions, plan content calendars, and produce short-form videos for Reels, TikTok, and Shorts.",
+      "Write clear, compelling copy for social media posts, email newsletters, and ad visuals.",
+      "Assist with setting up, monitoring, and optimizing Meta and Google Ads campaigns and tracking key metrics via GA4 and platform analytics.",
+      "Manage incoming direct messages and comments and actively interact with the online audience."
+    ],
+    requirements: [
+      "Currently serving as an NYSC Corps Member and in need of a Primary Place of Assignment with an official NYSC Call-up/Posting Letter.",
+      "Practical experience with audience targeting and setting up Meta or Google Ads campaigns.",
+      "Personal project samples, writing samples, active personal brand/social media management, or past internship experience.",
+      "Working knowledge of Canva, CapCut or InShot, and major social media platforms.",
+      "Proven experience with campaign optimization, campaign structure, and end-to-end performance tracking.",
+      "Strong willingness to learn, experiment, and adapt to emerging digital trends.",
+      "Excellent written communication and attention to detail.",
+      "High level of resourcefulness and proactive problem-solving."
+    ],
+    apply: "Interested Corps Members should send their CV and portfolio/work samples to hr@tizeti.com with the subject line NYSC Digital Marketing Intern.",
+    deadline: "10th September 2026"
+  },
+  {
+    id: "sales-business-development-executive-vgc-2026",
+    title: "Sales / Business Development Executive",
+    date: "2026-08-28",
+    location: "VGC, Lagos",
+    type: "Full-time",
+    company: "Hospitality",
+    salary: "₦250,000 - ₦300,000 Monthly",
+    gender: "Female",
+    summary: "We are seeking a highly driven Sales / Business Development Executive who can generate new business, build strong client relationships, and drive revenue growth.",
+    responsibilities: [],
+    requirements: [
+      "Female with proven experience in Sales, Business Development, or a related commercial role.",
+      "Demonstrated ability to meet and exceed sales targets.",
+      "Strong prospecting, lead generation, and client acquisition skills.",
+      "Ability to identify and convert business opportunities.",
+      "Excellent negotiation, presentation, and communication skills.",
+      "Strong ability to build and maintain client and corporate relationships.",
+      "Experience with cold calling, client visits, presentations, and follow-ups.",
+      "Proactive, persuasive, commercially minded, and target-driven.",
+      "Good knowledge of Microsoft Office and CRM tools.",
+      "Hospitality industry experience is an added advantage.",
+      "Must be able to work independently and deliver measurable results."
+    ],
+    apply: "Send CV via WhatsApp to 08118157245. Do not apply if you do not meet the requirements.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "human-resource-officer-lagos-2026",
+    title: "Human Resource Officer",
+    date: "2026-08-28",
+    location: "Lagos, Nigeria",
+    type: "Full-time",
+    salary: "Not Specified",
+    summary: "We are looking for a passionate and results-driven Human Resource Officer for immediate resumption.",
+    responsibilities: [],
+    requirements: [
+      "Bachelor's degree in Human Resource Management or a related field.",
+      "Relevant HR experience; 1-3 years is an added advantage.",
+      "Strong communication and interpersonal skills.",
+      "Good knowledge of Microsoft Office tools.",
+      "Ability to multitask and work in a fast-paced environment.",
+      "Professional HR certification is an added advantage."
+    ],
+    apply: "Send your CV with the subject Application for Human Resource Officer to Odejiminob3@gmail.com or contact 07061352118.",
+    deadline: "Rolling basis"
+  },
+  {
+    id: "hr-associate-compliance-officer-lekki-2026",
+    title: "HR Associate / Compliance Officer",
+    date: "2026-08-28",
+    location: "Lekki, Lagos",
+    type: "Full-time",
+    company: "Hospitality",
+    salary: "₦200,000 Monthly",
+    gender: "Male",
+    summary: "We are seeking an experienced and detail-oriented HR Associate / Compliance Officer to support HR operations and ensure compliance with company policies, procedures, and applicable regulations.",
+    responsibilities: [],
+    requirements: [
+      "Male, 30 years and above.",
+      "Proven experience in HR and/or Compliance.",
+      "Strong knowledge of HR policies, procedures, and employment practices.",
+      "Good understanding of labour laws and statutory compliance.",
+      "Experience with employee records, HR documentation, attendance, leave, and disciplinary processes.",
+      "Ability to monitor compliance and identify HR or operational risks.",
+      "Strong administrative, organizational, and documentation skills.",
+      "Excellent communication and interpersonal skills.",
+      "Proficiency in Microsoft Office/Excel.",
+      "Hospitality industry experience is an added advantage.",
+      "Must be mature, discreet, proactive, and detail-oriented."
+    ],
+    apply: "Send CV via WhatsApp to recruitmentguidedarrowsconsult@gmail.com. Do not apply if you do not meet the requirements.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "sales-canvasser-allen-ikeja-2026",
+    title: "Sales Canvasser",
+    date: "2026-08-28",
+    location: "Allen, Ikeja, Lagos",
+    type: "Full-time",
+    salary: "Not Specified",
+    summary: "We are seeking a confident, energetic, and results-driven Sales Canvasser to identify new sales opportunities, promote paint products, build relationships with buyers, and drive sales.",
+    responsibilities: [
+      "Identify and develop new sales leads among individuals, businesses, contractors, developers, estate managers, and project sites.",
+      "Visit project sites, estates, and other potential customer locations to generate business opportunities.",
+      "Promote and demonstrate paint products and recommend suitable products based on customer needs.",
+      "Build and maintain customer relationships to encourage repeat purchases and referrals.",
+      "Negotiate prices and terms within approved company guidelines.",
+      "Follow up on leads and quotations, close sales, process orders, and ensure smooth transactions.",
+      "Respond professionally to complaints and escalate issues when necessary.",
+      "Prepare daily and weekly reports on visits, leads, sales activities, and results.",
+      "Monitor market trends, competitor activities, customer preferences, and new paint products.",
+      "Provide feedback to management on market opportunities, customer needs, and competitor pricing."
+    ],
+    requirements: [
+      "Minimum of 1-2 years' experience in sales, canvassing, field marketing, or business development, preferably in paints, building materials, construction, or a related industry.",
+      "Strong communication and interpersonal skills.",
+      "Must be comfortable with field sales and visiting project sites and estates.",
+      "Ability to identify potential customers and convert leads into sales.",
+      "Good negotiation, persuasion, and closing skills.",
+      "Customer-focused, target-driven, proactive, and self-motivated.",
+      "Ability to work independently and manage daily field activities effectively.",
+      "Knowledge of the Lagos market and experience dealing with contractors, developers, businesses, or project managers is an advantage."
+    ],
+    apply: "Send your CV to recruitment@poweredupcon.com using Sales Canvasser as the subject of the email.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "hospitality-procurement-officer-ikota-vgc-2026",
+    title: "Hospitality Procurement Officer",
+    date: "2026-08-28",
+    location: "Ikota/VGC, Lagos",
+    type: "Full-time",
+    salary: "₦200,000",
+    summary: "We are looking for an experienced Hospitality Procurement Officer with a strong background in sourcing quality products, managing suppliers, controlling costs, and supporting smooth hotel operations.",
+    responsibilities: [
+      "Source quality products from reliable suppliers.",
+      "Negotiate competitive prices and favorable terms.",
+      "Monitor inventory levels and ensure timely replenishment.",
+      "Maintain procurement records and supplier relationships.",
+      "Ensure all purchases comply with approved budgets and operational needs."
+    ],
+    requirements: [
+      "Proven experience as a Procurement Officer in a hotel, lounge, restaurant, or hospitality business.",
+      "Strong knowledge of procurement processes, vendor management, and contract negotiation.",
+      "Ability to source food, beverages, kitchen supplies, and operational materials at competitive prices.",
+      "Excellent inventory management and cost-control skills.",
+      "Proficiency in Microsoft Excel and procurement record-keeping.",
+      "Strong negotiation, communication, and organizational skills."
+    ],
+    apply: "Only qualified candidates should send their CV via WhatsApp to 08118157245. Do not apply without the required experience.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "on-trade-executive-abuja-2026",
+    title: "On-Trade Executive",
+    date: "2026-08-28",
+    location: "Abuja",
+    type: "Full-time",
+    company: "Sales",
+    salary: "Not Specified",
+    summary: "We are seeking a results-driven On-Trade Executive to drive sales, expand market coverage, and manage customer relationships across hotels, restaurants, bars, cafes, lounges, clubs, and other On-Trade outlets.",
+    responsibilities: [
+      "Achieve sales targets and grow revenue within the assigned territory.",
+      "Identify and develop new business opportunities across On-Trade outlets.",
+      "Conduct regular outlet visits and build strong customer relationships.",
+      "Drive product availability, visibility, and brand presence.",
+      "Negotiate and close sales while following company policies.",
+      "Monitor competitors, market trends, pricing, and customer preferences.",
+      "Follow up on orders, payments, complaints, and customer needs.",
+      "Implement promotions, activations, and other sales initiatives.",
+      "Maintain accurate sales records and submit regular reports.",
+      "Identify opportunities to increase product penetration and customer base."
+    ],
+    requirements: [
+      "HND or Bachelor's Degree in Marketing, Sales, Business Administration, or a related field.",
+      "2-5 years' sales experience, preferably in FMCG, beverages, hospitality, or On-Trade.",
+      "Experience managing relationships with hotels, restaurants, bars, cafes, lounges, or similar outlets.",
+      "Strong knowledge of field sales and territory management.",
+      "Excellent communication, negotiation, customer relationship, and business development skills.",
+      "Target-driven, proactive, and results-oriented.",
+      "Ability to manage multiple accounts and work independently.",
+      "Good reporting and record-keeping skills.",
+      "Proficiency in Microsoft Office and basic sales reporting tools."
+    ],
+    apply: "Send CV to cv@ascentech.com.ng using On-trade executive Abuja as the subject.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "direct-sales-agents-oregun-ikeja-2026",
+    title: "Direct Sales Agents (DSA)",
+    date: "2026-08-28",
+    location: "Oregun, Ikeja, Lagos",
+    type: "Full-time",
+    company: "Commercial Bank",
+    salary: "₦191,000 Net Monthly + Attractive Benefits",
+    summary: "We are recruiting energetic, target-driven Direct Sales Agents to drive customer acquisition across multiple branches in Lagos.",
+    responsibilities: [
+      "Promote and sell the bank's products and services to prospective customers.",
+      "Open new customer accounts and acquire new business opportunities.",
+      "Generate quality leads and meet assigned sales targets.",
+      "Build and maintain strong customer relationships.",
+      "Educate customers on the bank's products and digital channels.",
+      "Ensure all customer documentation complies with the bank's requirements.",
+      "Provide excellent customer service while representing the bank professionally."
+    ],
+    requirements: [
+      "Minimum of HND from a recognized institution.",
+      "Must have completed NYSC.",
+      "Applicants must not be older than 28 years.",
+      "Strong communication, interpersonal, and sales skills.",
+      "Goal-oriented with the ability to work in a target-driven environment.",
+      "Willingness to work within the assigned branch location.",
+      "This is a field sales role requiring proactive customer engagement and achievement of sales targets."
+    ],
+    apply: "https://forms.gle/vybmXZrmStzdTSPG7",
+    deadline: "Friday, 28th August 2026 (12:00 PM)"
+  },
+  {
+    id: "sales-business-development-executive-card-manufacturing-ibeju-lekki-2026",
+    title: "Sales and Business Development Executive",
+    date: "2026-08-28",
+    location: "Ibeju Lekki, Lagos",
+    type: "Full-time",
+    company: "Card Manufacturing",
+    salary: "Not Specified",
+    summary: "A mid-level Sales and Business Development Executive in the card manufacturing industry will drive B2B sales for credit cards, smart cards, loyalty cards, and RFID badges.",
+    responsibilities: [
+      "Pitch card products and secure B2B contracts with banks, retail chains, and government sectors.",
+      "Lead responses for competitive bidding and corporate tenders.",
+      "Track large-volume orders and manage the sales pipeline.",
+      "Work with manufacturing teams to meet customer order deadlines.",
+      "Monitor technical trends in smart cards, RFID, and biometric security.",
+      "Cross-sell security upgrades to existing high-volume clients."
+    ],
+    requirements: [
+      "3-5 years of successful B2B sales experience.",
+      "HND or B.Sc. in Business Administration or a related course; must have completed NYSC.",
+      "Direct experience in manufacturing, tech hardware, or secure printing.",
+      "Deep understanding of smart cards, EMV chips, RFID, and digital security.",
+      "Proven history of closing high-value corporate contract deals.",
+      "Willingness to travel to client sites for project demonstrations.",
+      "Applicants must reside around Ajah and environs."
+    ],
+    apply: "https://forms.gle/FtNb29vahxkKTYj36",
+    deadline: "Not Specified"
+  },
+  {
+    id: "loan-officer-lagos-aba-umuahia-owerri-akwa-ibom-2026",
+    title: "Loan Officer",
+    date: "2026-08-28",
+    location: "Lagos, Aba, Umuahia, Owerri Nta & Akwa Ibom",
+    type: "On-site",
+    salary: "₦100,000 Monthly",
+    summary: "A leading financial institution is recruiting passionate, disciplined, and target-driven Loan Officers.",
+    responsibilities: [
+      "Identify and onboard new loan customers.",
+      "Market the institution's loan products within assigned communities.",
+      "Conduct customer verification and business assessments.",
+      "Monitor loan repayments and follow up on delinquent accounts.",
+      "Build and maintain strong customer relationships."
+    ],
+    requirements: [
+      "OND, HND, or B.Sc.",
+      "Good communication and negotiation skills.",
+      "Sales, marketing, or customer service experience is an advantage.",
+      "Must be willing to work in the field.",
+      "70% field work and 30% office work; Monday to Friday.",
+      "Weekly transportation and data allowance provided.",
+      "Accommodation available at branch locations where applicable.",
+      "Loan disbursement is technology-driven; staff do not handle cash."
+    ],
+    apply: "Send your CV to veraveracity24@gmail.com.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "branch-manager-lagos-akwa-ibom-2026",
+    title: "Branch Manager",
+    date: "2026-08-28",
+    location: "Lagos & Akwa Ibom",
+    type: "On-site",
+    salary: "₦150,000 Monthly",
+    summary: "We are seeking experienced Branch Managers to lead branch operations and drive business growth.",
+    responsibilities: [
+      "Supervise and coach Loan Officers.",
+      "Drive customer acquisition and loan portfolio growth.",
+      "Monitor branch performance and ensure target achievement.",
+      "Oversee loan recovery and portfolio quality.",
+      "Prepare branch reports and ensure operational compliance."
+    ],
+    requirements: [
+      "HND/B.Sc. in any discipline.",
+      "Leadership or supervisory experience.",
+      "Strong business development and people management skills.",
+      "Experience in financial services is an advantage.",
+      "Two weeks compulsory training before deployment.",
+      "Accommodation provided during training and available at branch locations where applicable.",
+      "70% field work and 30% office work; Monday to Friday.",
+      "Weekly transportation and data allowance provided.",
+      "Performance-based role."
+    ],
+    apply: "Send your CV to veraveracity24@gmail.com.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "head-retail-banking-lagos-2026",
+    title: "Head, Retail Banking",
+    date: "2026-08-28",
+    location: "Lagos, Nigeria",
+    type: "Full-time",
+    company: "Financial Services / Banking",
+    salary: "₦2,500,000 Monthly Net + Benefits",
+    summary: "A technology-first digital bank is recruiting a senior executive to lead its retail banking division.",
+    responsibilities: [],
+    requirements: [
+      "10-12 years' experience in retail banking, with at least 5 years in a leadership role."
+    ],
+    apply: "https://forms.gle/b9fkqhckSFF9qvw99",
+    deadline: "Not Specified"
+  },
+  {
+    id: "backend-engineer-fintech-lagos-2026",
+    title: "Backend Engineer",
+    date: "2026-08-28",
+    location: "Lagos",
+    type: "Full-time (Fully Onsite)",
+    company: "FinTech",
+    salary: "₦1,000,000 Monthly Net",
+    summary: "A fast-growing FinTech start-up is looking to hire a Backend Engineer with strong backend development skills to join its technology team.",
+    responsibilities: [],
+    requirements: [
+      "Strong backend development skills.",
+      "Ability to solve complex technical problems and work in a fast-paced FinTech environment."
+    ],
+    apply: "https://forms.gle/RDEjHNGjxguNZwcX9",
+    deadline: "Not Specified"
+  },
+  {
+    id: "medical-secretary-ebonyi-2026",
+    title: "Medical Secretary",
+    date: "2026-08-28",
+    location: "Ebonyi State",
+    type: "Full-time",
+    salary: "₦150,000 Net Monthly",
+    summary: "We are seeking a professional and organized Medical Secretary to provide administrative and secretarial support in a healthcare environment.",
+    responsibilities: [
+      "Manage appointments, calls, emails, and patient records.",
+      "Prepare documents and reports.",
+      "Handle daily administrative activities.",
+      "Maintain patient confidentiality.",
+      "Support doctors and medical staff as required."
+    ],
+    requirements: [
+      "Minimum of OND/HND in Secretarial Studies, Business Administration, or a related field.",
+      "Previous hospital/clinic experience is an advantage.",
+      "Good communication, organizational, and computer skills.",
+      "Must be professional, organized, and confidential."
+    ],
+    apply: "Send your CV to cv@ascentech.com.ng using Medical Secretary-15 as the subject of the email.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "wastewater-treatment-plant-supervisor-kebbi-2026",
+    title: "Wastewater Treatment Plant Supervisor",
+    date: "2026-08-28",
+    location: "Kebbi State",
+    type: "Full-time",
+    company: "Engineering",
+    salary: "₦310,000 Monthly",
+    summary: "Responsible for the safe, efficient, and reliable operation of the Water Treatment Plant and Effluent Treatment Plant, ensuring treated water availability, effective wastewater treatment, environmental compliance, and adherence to HSE standards.",
+    responsibilities: [
+      "Operate and monitor WTP/ETP processes, equipment, pumps, filters, blowers, and chemical-dosing systems.",
+      "Ensure treated water and effluent meet required quality and regulatory standards.",
+      "Manage treatment chemicals, including safe storage, dosing, usage, and stock control.",
+      "Conduct equipment inspections and coordinate preventive and corrective maintenance.",
+      "Maintain accurate operational, quality, maintenance, and safety records.",
+      "Supervise, schedule, train, and evaluate WTP/ETP operators.",
+      "Ensure compliance with HSE and environmental regulations.",
+      "Promptly identify and escalate equipment failures, quality deviations, and environmental incidents."
+    ],
+    requirements: [
+      "HND/Bachelor's Degree in Chemical Engineering, Environmental Engineering, Chemistry, Microbiology, Biochemistry, Mechanical/Electrical Engineering, Environmental Science, or a related field.",
+      "3-5 years' relevant WTP/ETP experience, preferably in manufacturing, FMCG, agro-processing, or food-processing.",
+      "Practical knowledge of water/wastewater treatment, chemical dosing, filtration, pumps, and treatment equipment.",
+      "Strong leadership, analytical, reporting, and problem-solving skills.",
+      "Good knowledge of HSE and environmental compliance."
+    ],
+    apply: "Interested and qualified candidates should send their CV to cv@ascentech.com.ng using Wastewater Treatment Plant Supervisor as the subject of the email.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "hr-officer-male-iyana-oworo-2026",
+    title: "HR Officer (Male)",
+    date: "2026-08-28",
+    location: "Iyana-Oworo, Lagos",
+    type: "Full-time (On-site)",
+    company: "Automobile",
+    salary: "₦300,000 Gross Monthly",
+    gender: "Male",
+    summary: "We are seeking a proactive and detail-oriented HR Officer to support human resources operations, employee relations, HR administration, performance management, and compliance.",
+    responsibilities: [
+      "Support end-to-end recruitment and onboarding processes.",
+      "Maintain employee records and HR documentation.",
+      "Assist with payroll inputs, attendance, leave administration, and staff records management.",
+      "Support performance management and employee engagement initiatives.",
+      "Handle employee inquiries and assist in resolving workplace issues.",
+      "Ensure compliance with company policies and relevant labour laws.",
+      "Prepare HR reports and provide administrative support to the HR department.",
+      "Coordinate training and development activities."
+    ],
+    requirements: [
+      "Bachelor's Degree or HND in Human Resources, Business Administration, or a related field.",
+      "2-5 years of relevant HR experience.",
+      "Male is the only acceptable category.",
+      "Basic knowledge of Nigerian Labour Law and HR best practices.",
+      "Strong communication, interpersonal, and organizational skills.",
+      "Proficiency in Microsoft Office Suite.",
+      "Ability to handle confidential information with professionalism and discretion.",
+      "HR certification is an added advantage."
+    ],
+    apply: "Send your CV and cover letter to hr@bbamotors.ltd.",
+    deadline: "31st August 2026"
+  },
+  {
+    id: "frontend-developer-vue-react-native-ikeja-2026",
+    title: "Frontend Developer (Vue.js / React Native)",
+    date: "2026-08-28",
+    location: "Ikeja, Lagos",
+    type: "Full-time (On-site)",
+    company: "EasyWin Lotto",
+    salary: "₦300,000 Monthly Net",
+    summary: "We are looking for a talented Frontend Developer with strong experience in Vue.js and a good understanding of React Native to build high-performing web and mobile applications.",
+    responsibilities: [
+      "Develop and maintain responsive web interfaces using Vue.js.",
+      "Contribute to mobile application development using React Native.",
+      "Integrate RESTful APIs and third-party libraries efficiently.",
+      "Collaborate with designers to implement clean and scalable UI components.",
+      "Optimize performance for maximum speed and scalability.",
+      "Participate in code reviews and ensure best practices across projects."
+    ],
+    requirements: [
+      "Bachelor's degree in Computer Science, Software Engineering, or a related field.",
+      "2+ years of experience in frontend development, with proven Vue.js and React Native projects.",
+      "Strong problem-solving mindset and attention to detail.",
+      "Excellent communication and teamwork skills."
+    ],
+    apply: "Send your CV and portfolio, if available, to jobhq24@gmail.com with the subject line Frontend Developer - Ikeja.",
+    deadline: "Not Specified"
+  },
 ];
 
 // Filter out expired jobs and then sort by date descending (most recent first)

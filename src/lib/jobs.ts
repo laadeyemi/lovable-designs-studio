@@ -32106,6 +32106,436 @@ const allJobs: Job[] = [
     apply: "Send your CV and portfolio, if available, to jobhq24@gmail.com with the subject line Frontend Developer - Ikeja.",
     deadline: "Not Specified"
   },
+  {
+    id: "corporate-sales-executive-port-harcourt-2026",
+    title: "Corporate Sales Executive",
+    date: "2026-08-28",
+    location: "Port Harcourt",
+    type: "Full-time",
+    company: "Consumer Electronics and Home Appliances",
+    salary: "₦250,000 - ₦350,000 Net",
+    summary: "A major player in the Nigerian Consumer Electronics industry is seeking an experienced and self-driven Corporate Sales Executive with an active corporate network.",
+    responsibilities: [
+      "Manage B2B, B2G, and other institutional sales in the designated Port Harcourt branch.",
+      "Drive the growth and development of corporate sales in the territory.",
+      "Achieve B2B customer-base expansion, sales, revenue, and other targets.",
+      "Develop and execute corporate sales strategies.",
+      "Manage relationships with strategic partners.",
+      "Drive corporate sales-force empowerment, discipline, and motivation.",
+      "Ensure high corporate-customer satisfaction and continuous repeat purchases."
+    ],
+    requirements: [
+      "Highly driven and self-motivated Corporate Sales professional.",
+      "Provable record of dealings with C-Level Corporate Executives from reputable organizations.",
+      "Good command of oral and written communication.",
+      "Strong persuasion and networking skills.",
+      "Minimum of 4 years' post-graduate sales experience.",
+      "Experience in the Consumer Electronics and Home Appliances industry is a major advantage.",
+      "Minimum of a B.Sc. degree in Marketing, Business Administration, Electrical/Electronics Engineering, or a related field.",
+      "Possession of a good number of active corporate clients is a strong advantage."
+    ],
+    apply: "Send your CV to deborah@pivotageconsulting.com indicating Corporate Sales Executive as the subject.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "business-manager-team-lead-relationship-managers-lagos-2026",
+    title: "Business Manager/Team Lead and Relationship Managers",
+    date: "2026-08-28",
+    location: "Lagos, Nigeria",
+    type: "Full-time",
+    company: "Banking",
+    salary: "Business Manager/Team Lead: ₦1,400,000 - ₦1,700,000 net monthly; Relationship Managers: ₦800,000 - ₦1,000,000 net monthly",
+    summary: "A foremost bank in Lagos is recruiting a Business Manager/Team Lead for Business Banking and Relationship Managers for Business, SME, and Corporate Banking.",
+    responsibilities: [],
+    requirements: [
+      "Minimum of 8 years of experience.",
+      "Practical and demonstrable competence in deposit mobilization, quality loan disbursements, and customer-centric relationship management."
+    ],
+    apply: "https://forms.gle/YPMzii9Rmnui3yYdA",
+    deadline: "Not Specified"
+  },
+  {
+    id: "manufacturing-multiple-roles-sango-ota-2026",
+    title: "Quality Control Officer, Production Supervisor, Accountant, Accounting Officer, Internal Auditor, Marketing Officer",
+    date: "2026-08-28",
+    location: "Iloye, Sango-Ota, Ogun State",
+    type: "Full-time",
+    company: "G&M Manufacturing Company",
+    salary: "Not Specified",
+    summary: "G&M Manufacturing Company, a bakery and sachet water manufacturer, is seeking passionate and result-driven professionals to join its team.",
+    responsibilities: [],
+    requirements: [
+      "HND, B.Sc., or M.Sc.",
+      "Minimum of two years' experience.",
+      "Candidates must reside around the Sango-Ota axis."
+    ],
+    apply: "https://forms.gle/VfTGTgeAwXUadJXt8",
+    deadline: "Not Specified"
+  },
+  {
+    id: "chief-operating-officer-private-eye-hospital-lagos-2026",
+    title: "Chief Operating Officer (COO)",
+    date: "2026-08-28",
+    location: "Lagos",
+    type: "Full-time",
+    company: "Private Eye Hospital",
+    salary: "Not Specified",
+    summary: "An established private Eye Hospital in Lagos is seeking an experienced healthcare executive to independently lead hospital operations with direct Board access.",
+    responsibilities: [],
+    requirements: [
+      "10+ years' professional experience.",
+      "Proven experience independently managing a hospital or healthcare facility.",
+      "Strong grasp of hospital finance, HMO relationships, and workforce leadership.",
+      "Eye-care or ophthalmic experience is an advantage."
+    ],
+    apply: "Send your application to dowealthtraining@gmail.com or recruit@dowealthconsulting.com with the subject COO Application - Your Name.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "legal-associate-ikeja-2026",
+    title: "Legal Associate",
+    date: "2026-08-28",
+    location: "Ikeja, Lagos",
+    type: "Full-time (On-site)",
+    company: "AETOS LEGAL",
+    salary: "Negotiable, based on qualifications",
+    summary: "AETOS LEGAL is seeking a Legal Associate to gain hands-on experience, build expertise, and make a real impact in a fast-growing law firm.",
+    responsibilities: [],
+    requirements: [
+      "Minimum of 3 years' post-call work experience.",
+      "Strong background in Corporate and Commercial Law practice.",
+      "Excellent legal research, drafting, and analytical skills.",
+      "Eagerness to learn, take on responsibility, and grow professionally.",
+      "Proximity to Ikeja is an added advantage."
+    ],
+    apply: "Send your CV to info@aetoslegal.com using Associate Application as the subject.",
+    deadline: "28th August 2026"
+  },
+  {
+    id: "school-teachers-enugu-2026",
+    title: "English, Mathematics, History/Government, Agric/Horticulture, and Creative and Cultural Teachers",
+    date: "2026-08-28",
+    location: "Enugu State",
+    type: "Full-time",
+    salary: "₦150,000 - ₦250,000",
+    summary: "A school in Enugu State is urgently recruiting teachers for English Language, Mathematics, History/Government, Agric/Horticulture, and Creative and Cultural subjects.",
+    responsibilities: [],
+    requirements: [
+      "Bachelor's degree in Education.",
+      "Minimum of 3 years' experience in the same or similar role."
+    ],
+    apply: "Send your CV to fixgapconsulting@gmail.com with the relevant subject and Enugu as the email subject, for example Mathematics Teacher Enugu.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "back-server-victoria-island-2026",
+    title: "Back Server",
+    date: "2026-08-28",
+    location: "Victoria Island, Lagos",
+    type: "Full-time",
+    company: "Hospitality",
+    salary: "Not Specified",
+    summary: "We are looking for a hardworking Back Server to support restaurant operations.",
+    responsibilities: [
+      "Assist servers with food and drinks.",
+      "Clear and set tables.",
+      "Keep the service area clean and organized.",
+      "Support the restaurant team when needed."
+    ],
+    requirements: [
+      "Minimum of SSCE.",
+      "Previous hospitality experience is an advantage.",
+      "Good communication and teamwork skills.",
+      "Neat, hardworking, and reliable."
+    ],
+    apply: "Send your CV to cv@ascentech.com.ng using Back Server - 15 as the subject of the email.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "outlet-manager-showroom-furniture-abuja-2026",
+    title: "Outlet Manager - Showroom Furniture",
+    date: "2026-08-28",
+    location: "Abuja",
+    type: "Full-time",
+    salary: "₦250,000 - ₦350,000 Monthly",
+    summary: "The Outlet Concept Manager will manage the day-to-day performance of a furniture showroom, combining sales leadership, showroom management, customer engagement, and visual merchandising.",
+    responsibilities: [
+      "Manage day-to-day showroom operations and drive outlet revenue targets.",
+      "Supervise, motivate, and manage showroom staff.",
+      "Ensure excellent customer service and satisfaction.",
+      "Monitor inventory, stock movement, and product displays.",
+      "Prepare sales and operational reports for management.",
+      "Ensure the showroom is clean, organized, and professionally presented.",
+      "Handle customer complaints and resolve issues promptly.",
+      "Ensure compliance with company policies and procedures.",
+      "Provide customer and market insights to the Retail Sales Manager."
+    ],
+    requirements: [
+      "Bachelor's degree/HND in Business Administration, Marketing, Management, or a related field.",
+      "3-5 years' experience in showroom, retail, sales, or outlet management.",
+      "Strong leadership, communication, and customer service skills.",
+      "Good knowledge of sales and inventory management.",
+      "Proficiency in Microsoft Office and basic reporting.",
+      "Target-driven with strong problem-solving abilities.",
+      "Knowledge of showroom management and visual merchandising is an advantage."
+    ],
+    apply: "Send your CV to cv@ascentech.com.ng using Outlet Manager - Abuja as the subject of the email.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "store-assistant-ogudu-road-2026",
+    title: "Store Assistant",
+    date: "2026-08-28",
+    location: "Ogudu Road, Lagos",
+    type: "Full-time",
+    company: "Fashion/Retail",
+    salary: "Not Specified",
+    summary: "We are hiring a Store Assistant to support daily store operations and deliver excellent customer service.",
+    responsibilities: [
+      "Attend to customers and assist with product selection.",
+      "Support sales, upselling, and cross-selling.",
+      "Maintain neat and attractive store displays.",
+      "Organize and monitor stock.",
+      "Support store opening, closing, and general operations."
+    ],
+    requirements: [
+      "Retail or customer service experience is preferred.",
+      "Good communication and customer service skills.",
+      "Well-presented, friendly, and reliable.",
+      "Good organizational skills and willingness to learn.",
+      "Must reside around Ogudu or nearby areas."
+    ],
+    apply: "Send your CV to careers@elvaridah.com with Store Assistant as the subject of the email.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "internal-control-compliance-officer-ikorodu-2026",
+    title: "Internal Control & Compliance Officer",
+    date: "2026-08-28",
+    location: "Ikorodu, Lagos",
+    type: "Full-time",
+    salary: "Competitive",
+    summary: "We are seeking a detail-oriented and proactive Internal Control & Compliance Officer to maintain effective internal controls, ensure compliance, and identify operational and financial risks.",
+    responsibilities: [
+      "Develop, implement, and monitor internal control procedures and processes.",
+      "Review operations and transactions for compliance with policies and procedures.",
+      "Conduct periodic control reviews and identify weaknesses, irregularities, and risks.",
+      "Monitor compliance with laws, regulations, and company policies.",
+      "Investigate control breaches, discrepancies, and unusual transactions where necessary.",
+      "Review financial and operational records for accuracy and completeness.",
+      "Prepare reports, track corrective actions, and support risk assessments.",
+      "Maintain control documentation and provide guidance to staff.",
+      "Collaborate with departments to strengthen processes and reduce risks."
+    ],
+    requirements: [
+      "Bachelor's degree or HND in Accounting, Finance, Business Administration, Economics, or a related field.",
+      "2-4 years' relevant experience in internal control, compliance, audit, or risk management.",
+      "ICAN, ACCA, CISA, or related certification is an added advantage.",
+      "Good understanding of internal controls, risk management, and compliance practices.",
+      "Strong analytical, problem-solving, communication, and Excel skills.",
+      "High integrity, confidentiality, professionalism, and attention to detail."
+    ],
+    apply: "Send your CV to hr@madas.com.ng using Internal Control & Compliance Officer as the subject.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "credit-risk-manager-ikorodu-2026",
+    title: "Credit & Risk Manager",
+    date: "2026-08-28",
+    location: "Ikorodu, Lagos",
+    type: "Full-time",
+    salary: "Competitive",
+    summary: "We are seeking an experienced and analytical Credit & Risk Manager to oversee credit assessment, risk management, and credit control functions.",
+    responsibilities: [
+      "Develop and implement credit risk management policies and procedures.",
+      "Review loan applications and assess creditworthiness and repayment capacity.",
+      "Analyze financial statements, bank statements, credit history, cash flow, and other relevant information.",
+      "Establish credit limits, terms, and conditions based on risk assessment.",
+      "Monitor the loan portfolio and identify potential credit risks and early warning signs.",
+      "Review delinquent or high-risk accounts and recommend appropriate actions.",
+      "Work with Recovery and Collections teams to minimize loan losses.",
+      "Prepare credit and risk reports and develop risk mitigation strategies.",
+      "Monitor delinquency, default, and recovery rates and improve credit processes."
+    ],
+    requirements: [
+      "Bachelor's degree or HND in Accounting, Finance, Economics, Business Administration, or a related field.",
+      "2-5 years' relevant experience in credit, risk management, lending, banking, or financial services.",
+      "Experience in credit appraisal, loan portfolio management, and risk assessment.",
+      "Strong credit analysis, financial assessment, Excel, decision-making, and problem-solving skills.",
+      "CFA, ACCA, ICAN, CIBN, or related certification is an added advantage.",
+      "High integrity, confidentiality, attention to detail, and ability to work under pressure."
+    ],
+    apply: "Send your CV to hr@madas.com.ng using Credit & Risk Manager as the subject.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "urgent-loan-officers-lagos-abia-imo-rivers-akwa-ibom-2026",
+    title: "Loan Officers",
+    date: "2026-08-28",
+    location: "Lagos, Abia, Imo, Rivers & Akwa Ibom States",
+    type: "Full-time",
+    salary: "₦100,000 Monthly",
+    summary: "A financial institution is urgently recruiting passionate, disciplined, and target-driven Loan Officers, with accommodation provided in all branches.",
+    responsibilities: [
+      "Identify and onboard new loan customers.",
+      "Market loan products within assigned communities.",
+      "Conduct customer verification and business assessments.",
+      "Monitor loan repayments and follow up on delinquent accounts."
+    ],
+    requirements: [
+      "Any qualification.",
+      "Good communication and negotiation skills.",
+      "Sales, marketing, or customer service experience is an advantage.",
+      "Must be willing to work in the field.",
+      "70% field work and 30% office work; Monday to Friday.",
+      "Weekly logistics, airtime, and data support; HMO and paid annual leave.",
+      "Accommodation available at all branch locations where applicable.",
+      "Loan disbursement is technology-driven; staff do not handle cash."
+    ],
+    apply: "Send your CV and mention the state you are applying for via WhatsApp to 08057923803.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "security-coordinator-ilupeju-2026",
+    title: "Security Coordinator",
+    date: "2026-08-28",
+    location: "Ilupeju, Lagos",
+    type: "Full-time",
+    company: "Manufacturing",
+    salary: "₦250,000 Gross",
+    summary: "We are looking for an experienced Security Coordinator to oversee security operations within a manufacturing facility and ensure the safety of employees, visitors, and company assets.",
+    responsibilities: [
+      "Coordinate and supervise daily security operations and personnel.",
+      "Monitor access control, CCTV systems, and routine patrols.",
+      "Investigate and report security incidents, theft, and policy violations.",
+      "Ensure compliance with security policies and emergency procedures.",
+      "Liaise with law enforcement and emergency services when necessary.",
+      "Maintain security records and recommend security improvements."
+    ],
+    requirements: [
+      "Minimum of SSCE.",
+      "3-5 years' experience in a security leadership role within a factory or manufacturing environment.",
+      "Strong knowledge of industrial security operations and incident management.",
+      "Good leadership, communication, and report-writing skills.",
+      "Proficiency in Microsoft Office.",
+      "Security certifications are an added advantage."
+    ],
+    apply: "Send your CV to cv@ascentech.com.ng using Security Coordinator as the subject.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "national-sales-manager-natural-stones-abuja-2026",
+    title: "National Sales Manager - Natural Stones",
+    date: "2026-08-28",
+    location: "Abuja",
+    type: "Full-time",
+    salary: "₦1,000,000 Net Monthly + Performance-Based Incentives and Benefits",
+    summary: "The National Sales Manager will drive sales growth, strategic business relationships, and market share for granite, marble, and other natural stone products across Nigeria.",
+    responsibilities: [
+      "Develop and execute national sales strategies to achieve revenue and profitability targets.",
+      "Drive sales growth for natural stone products across Nigeria.",
+      "Build relationships with dealers, distributors, architects, contractors, developers, and institutional buyers.",
+      "Lead sales planning, reporting, forecasting, and performance tracking.",
+      "Coordinate sales activities with the internal sales team.",
+      "Communicate product features, benefits, and technical specifications.",
+      "Monitor market trends, competitors, and customer requirements.",
+      "Negotiate commercial agreements and close high-value sales opportunities.",
+      "Prepare sales reports, market intelligence, and business performance updates."
+    ],
+    requirements: [
+      "Bachelor's Degree or HND in Business Administration, Marketing, or a related discipline.",
+      "Minimum of 5 years' relevant sales experience; 10+ years of total sales experience preferred.",
+      "Proven experience in building materials, specifically granite, marble, and natural stone products.",
+      "Experience managing nationwide sales operations is highly desirable."
+    ],
+    apply: "Send your CV to cv@ascentech.com.ng using NSM-VICTOR as the subject.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "direct-sales-agent-chapel-hill-denham-ikeja-2026",
+    title: "Direct Sales Agent (DSA)",
+    date: "2026-08-28",
+    location: "Alausa, Ikeja, Lagos",
+    type: "Full-time",
+    company: "Chapel Hill Denham",
+    salary: "₦125,000 Monthly + HMO + Pension",
+    summary: "Chapel Hill Denham is seeking motivated Direct Sales Agents to identify and acquire new customers, meet sales targets, and provide excellent customer service.",
+    responsibilities: [],
+    requirements: [
+      "OND, HND, or B.Sc.",
+      "Not more than 35 years old.",
+      "Excellent communication and people skills.",
+      "Target-driven and result-oriented.",
+      "Proven experience in direct sales in banking, insurance, or a relevant industry.",
+      "Candidates living around Alausa, Ikeja will be prioritized."
+    ],
+    apply: "https://lnkd.in/eWdUkbsp",
+    deadline: "Not Specified"
+  },
+  {
+    id: "medical-laboratory-scientist-westcare-ebonyi-2026",
+    title: "Medical Laboratory Scientist",
+    date: "2026-08-28",
+    location: "Not Specified",
+    type: "Full-time",
+    company: "Westcare Specialist Hospital",
+    salary: "₦300,000 Monthly",
+    summary: "Westcare Specialist Hospital is seeking a qualified and dedicated Medical Laboratory Scientist to join its healthcare team.",
+    responsibilities: [
+      "Perform laboratory tests and analyses accurately and efficiently.",
+      "Collect, process, and examine patient specimens.",
+      "Operate and maintain laboratory equipment in accordance with approved standards.",
+      "Ensure accurate documentation and timely reporting of laboratory results.",
+      "Maintain strict quality control and quality assurance procedures.",
+      "Adhere to infection prevention, safety, and laboratory protocols.",
+      "Collaborate with doctors, nurses, and other healthcare professionals.",
+      "Maintain confidentiality of patient information and laboratory records."
+    ],
+    requirements: [
+      "BMLS or equivalent qualification in Medical Laboratory Science.",
+      "Must be registered and licensed to practice in Nigeria.",
+      "Relevant experience in a hospital or clinical laboratory setting is an advantage.",
+      "Strong attention to detail and ability to work accurately under pressure.",
+      "Good communication and interpersonal skills.",
+      "Ability to work effectively as part of a multidisciplinary healthcare team."
+    ],
+    apply: "Send your updated CV to hr@westcarespecialisthospital.com with Medical Laboratory Scientist as the subject.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "business-development-growth-associate-lagos-2026",
+    title: "Business Development & Growth Associate",
+    date: "2026-08-28",
+    location: "Lagos, Nigeria",
+    type: "Full-time (Remote)",
+    salary: "Not Specified",
+    gender: "Male preferred",
+    summary: "A growing start-up is seeking a young, intelligent, vibrant, and proactive professional to lead business development and market growth in a new Lagos location.",
+    responsibilities: [
+      "Identify new business opportunities, potential markets, and prospective clients.",
+      "Develop and maintain relationships with new and existing clients.",
+      "Generate leads and convert prospects into business opportunities.",
+      "Research the Lagos market and identify areas for business expansion.",
+      "Support visibility and brand awareness across social media and digital platforms.",
+      "Create and coordinate engaging social media content.",
+      "Monitor social media trends and improve online presence.",
+      "Represent the business professionally with prospective clients and partners.",
+      "Develop customer acquisition and business growth strategies.",
+      "Report on leads, client engagement, market opportunities, and business development activities."
+    ],
+    requirements: [
+      "Minimum of 2-3 years' experience in Business Development, Sales, Marketing, Social Media Management, or a related field.",
+      "Strong knowledge of social media platforms and digital marketing.",
+      "Excellent communication, networking, and interpersonal skills.",
+      "Smart, presentable, confident, and professional.",
+      "Highly proactive and able to work with minimal supervision.",
+      "Good knowledge of the Lagos business environment is an advantage.",
+      "Must be comfortable working remotely and communicating effectively online.",
+      "Start-up or growing-business experience is an added advantage."
+    ],
+    apply: "Send your CV to agbaje001@gmail.com.",
+    deadline: "Not Specified"
+  },
 ];
 
 // Filter out expired jobs and then sort by date descending (most recent first)

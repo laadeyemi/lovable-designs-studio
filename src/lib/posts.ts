@@ -16106,6 +16106,428 @@ const allPosts: Post[] = [
        <p>With a well-structured calendar now in place, students of the University of Uyo are encouraged to stay organized, complete registrations on time, and prepare fully for the semester ahead. Missing key dates—especially registration deadlines—could come with penalties, so early action is essential.</p>`,
     tags: ["UNIUYO", "Resumption", "Academic Calendar", "Education", "Nigeria"],
   },
+  {
+    id: "nysc-2026-batch-c-registration-guide-september-2026",
+    title: "NYSC 2026 Batch C Online Registration Guide: Important Dates, Requirements and Instructions",
+    category: "Career",
+    date: "2026-08-31",
+    excerpt: "The National Youth Service Corps (NYSC) has announced that online registration for the 2026 Batch C mobilisation will open on Monday, 7 September 2026. Here's a comprehensive guide to help eligible graduates navigate the registration process.",
+    content: `<h1>NYSC 2026 Batch C Online Registration Guide: Important Dates, Requirements and Instructions</h1>
+
+<p>The National Youth Service Corps (NYSC) has announced that <strong>online registration for the 2026 Batch C mobilisation will open on Monday, 7 September 2026</strong>, for eligible Nigerian graduates from universities and mono/polytechnics within Nigeria and abroad.</p>
+
+<p>Registration will close on <strong>Sunday, 13 September 2026</strong>.</p>
+
+<p>Prospective Corps Members should use the correct registration option, confirm that their details are available for mobilisation, and pay close attention to personal information entered during the process.</p>
+
+<h2>NYSC Batch C Registration Dates for 2026</h2>
+
+<p>The NYSC online registration portal will be open from:</p>
+
+<ul>
+  <li><strong>Opening Date:</strong> Monday, 7 September 2026</li>
+  <li><strong>Closing Date:</strong> Sunday, 13 September 2026</li>
+</ul>
+
+<p>Eligible graduates are expected to complete registration within this period so that they are not left out of the Batch C mobilisation exercise. Access the NYSC online registration portal using your registered email and login credentials.</p>
+
+<h2>Important Registration Requirements</h2>
+
+<h3>National Identification Number (NIN)</h3>
+
+<p>A National Identification Number is required for NYSC online registration. Prospective Corps Members who need guidance on obtaining or checking their NIN can refer to the NIN checking guide provided by NYSC.</p>
+
+<h3>Selecting the Correct Registration Option</h3>
+
+<p>The registration option selected on the NYSC portal will depend on the applicant's previous registration or deployment status. There are three main options:</p>
+
+<p><strong>1. Fresh Registration</strong></p>
+
+<p>A prospective corps member who has never registered on the NYSC portal should select "Fresh Registration". This option is for first-time registration and is ideal for recent graduates applying for NYSC for the first time.</p>
+
+<p><strong>2. Revalidation</strong></p>
+
+<p>A prospective corps member who was deployed during an earlier batch but did not report to orientation camp should select "Revalidation". This is different from starting a new registration and applies to those with prior deployment records.</p>
+
+<p><strong>3. Login Here (Continuing Previous Registration)</strong></p>
+
+<p>A person who had registered previously but did not finish the process should select "Login Here" and continue the existing registration. A second account should not be created for an existing registration, as this may complicate your mobilisation process.</p>
+
+<h2>Passport Photograph and Thumbprint Requirements</h2>
+
+<p>During online registration, specific requirements apply to your photograph and biometric data:</p>
+
+<ul>
+  <li>A webcam will be used to capture the prospective corps member's face during online registration.</li>
+  <li>The applicant should be properly dressed for the passport photograph.</li>
+  <li>Blurred photographs are not permitted.</li>
+  <li>Thumbprinting must be completed personally. Proxy thumbprinting is not allowed.</li>
+</ul>
+
+<p>Prospective Corps Members are also advised to monitor their own registration closely so that avoidable mistakes are identified before the process is completed.</p>
+
+<h2>Critical Personal Details That Appear on Your Certificate</h2>
+
+<p>The following details will appear on your Certificate of National Service or Exemption Certificate and cannot be corrected after camp registration:</p>
+
+<ul>
+  <li>Date of Birth</li>
+  <li>Date of Graduation</li>
+  <li>Course of Study</li>
+</ul>
+
+<p>Requests for correction of Name, Date of Birth, Course of Study, Class of Degree or Qualification should be made through your applicant dashboard where the correction option applies. Guidance is also available for NYSC name correction and correction of Date of Birth or Course of Study.</p>
+
+<h2>Special Registration Cases</h2>
+
+<h3>For Prospective Corps Members Serving in the Armed Forces</h3>
+
+<p>Those serving in the Armed Forces should indicate their status during online registration and upload valid supporting documents as required by NYSC.</p>
+
+<h3>For Married Female PCMs</h3>
+
+<p>Married female prospective corps members seeking marital concessions should upload the required marital documents during registration.</p>
+
+<h3>For PCMs with Disabilities or Health Challenges</h3>
+
+<p>PCMs with disabilities should indicate this on the portal. Those with health challenges should also state this and upload the necessary supporting documents to ensure appropriate placement and support.</p>
+
+<h2>Special Requirements for Foreign-Trained Graduates</h2>
+
+<h3>Separate Requirements Apply</h3>
+
+<p>Foreign-trained Nigerian graduates must follow the requirements for overseas graduates during the mobilisation process. The NYSC foreign graduate requirements page contains the specific requirements for this category, while further guidance is available on physical verification of foreign-trained graduates.</p>
+
+<h3>Important Guidelines for Foreign-Trained Graduates</h3>
+
+<ul>
+  <li>Foreign-trained graduates should not create multiple accounts.</li>
+  <li>Original copies of required documents must be uploaded.</li>
+  <li>Names should be entered exactly as they appear on the degree certificate.</li>
+</ul>
+
+<h3>Thumbprinting in Nigeria Required</h3>
+
+<p>A foreign-trained graduate may complete online registration from any location. However, <strong>thumbprinting must still be completed in Nigeria before the person proceeds to orientation camp</strong>.</p>
+
+<h3>Physical Verification at Selected Centre</h3>
+
+<p>Foreign-trained graduates are required to select a centre for pre-camp physical verification during online registration and must appear personally to present original copies of their degree certificates, transcript and travel documents.</p>
+
+<h3>School Evaluation Letter</h3>
+
+<p>A foreign-trained graduate whose school has not been evaluated should contact the Federal Ministry of Education in Abuja to obtain an Evaluation Letter. The Evaluation Letter should be submitted at NYSC National Directorate Headquarters in Abuja.</p>
+
+<p>The SSCE result uploaded during the process must be equal to or greater than four years, as stated in the registration guidance.</p>
+
+<h2>Exemption vs. Exclusion</h2>
+
+<p><strong>Exemption and Exclusion</strong> apply differently within the NYSC process:</p>
+
+<ul>
+  <li>A foreign-trained graduate who is exempted from national service will collect the Exemption Certificate at NYSC National Directorate Headquarters in Abuja.</li>
+  <li>A person excluded from service will print the Exclusion Letter through the online dashboard.</li>
+</ul>
+
+<h2>Before You Register: Senate List Verification</h2>
+
+<p>Prospective Corps Members should confirm that their records have been uploaded by their schools before attempting online registration. The <strong>NYSC Senate list verification guide</strong> can be used to check the relevant record before registration.</p>
+
+<p>The stated NYSC registration address is the NYSC online portal. Candidates should follow the instructions shown on the portal carefully because registration errors may affect mobilisation.</p>
+
+<h2>Cyber Café Registration Charges</h2>
+
+<p>If you choose to register at a cyber café, be aware that operators may charge between <strong>₦5,000 and ₦6,000</strong> for services provided to both locally trained and foreign-trained prospective corps members. The amount depends on location.</p>
+
+<p>Prospective Corps Members who intend to use a café may refer to the <strong>NYSC accredited cyber café operators guide</strong> for a list of approved facilities.</p>
+
+<h2>Final Reminders</h2>
+
+<ul>
+  <li>The deadline for 2026 Batch C online registration is <strong>Sunday, 13 September 2026</strong>.</li>
+  <li>Eligible prospective corps members should complete the process within the stated registration period.</li>
+  <li>Check your dashboard, uploaded records and required documents before final submission.</li>
+  <li>Monitor official NYSC announcements for any updates or changes to the registration process.</li>
+</ul>
+
+<p>For more information on NYSC processes and requirements, you may find this related post helpful: <a href="/blog/nysc-2026-batch-c-accredited-cyber-centres-and-locations">NYSC 2026 Batch C: Complete List of Accredited Cyber Centres and Their Locations</a>.</p>`,
+    tags: ["NYSC", "Batch C", "Registration", "2026", "Mobilisation", "Career", "Nigeria"],
+  },
+  {
+    id: "nysc-2026-batch-c-accredited-cyber-centres-and-locations",
+    title: "NYSC 2026 Batch C: Complete List of Accredited Cyber Centres and Their Locations",
+    category: "Career",
+    date: "2026-08-31",
+    excerpt: "A comprehensive guide to NYSC accredited cyber centres where prospective corps members can complete their online registration for Batch C 2026 mobilisation. Find centres near you.",
+    content: `<h1>NYSC 2026 Batch C: Complete List of Accredited Cyber Centres and Their Locations</h1>
+
+<p>The National Youth Service Corps (NYSC) provides a list of accredited cyber café operators where prospective Corps Members can complete their online registration for the 2026 Batch C mobilisation. These accredited centres are equipped with the necessary technology and support to guide applicants through the registration process.</p>
+
+<h2>Why Use an Accredited Cyber Centre?</h2>
+
+<p>If you don't have reliable internet access at home or prefer professional assistance with your online registration, NYSC-accredited cyber centres offer:</p>
+
+<ul>
+  <li>Secure internet connectivity</li>
+  <li>Trained operators familiar with the NYSC registration process</li>
+  <li>Assistance with document uploads and biometric data (fingerprints and photographs)</li>
+  <li>Professional guidance throughout the registration exercise</li>
+  <li>Backup support in case of technical issues</li>
+</ul>
+
+<h2>Registration Costs at Cyber Centres</h2>
+
+<p>According to NYSC guidelines, cyber café operators may charge between <strong>₦5,000 and ₦6,000</strong> for their services. The exact amount may vary depending on:</p>
+
+<ul>
+  <li>The location of the cyber centre</li>
+  <li>Additional services requested</li>
+  <li>Local market conditions</li>
+</ul>
+
+<p>It is advisable to confirm the exact fee before commencing your registration at any centre.</p>
+
+<h2>How to Find an Accredited Cyber Centre Near You</h2>
+
+<p>Prospective Corps Members can locate accredited cyber centres through:</p>
+
+<ol>
+  <li><strong>NYSC Official Website:</strong> Visit the NYSC website for the comprehensive list of accredited cyber café operators organized by state and local government areas.</li>
+  <li><strong>NYSC State Offices:</strong> Contact your nearest NYSC State Coordination Office for a list of accredited centres in your area.</li>
+  <li><strong>Call NYSC Hotline:</strong> Ring the NYSC helpline for information about centres in your location.</li>
+  <li><strong>Ask Locally:</strong> Consult with other prospective corps members or recently completed corps members in your community for recommendations.</li>
+</ol>
+
+<h2>What to Bring When Visiting a Cyber Centre</h2>
+
+<p>When you visit an accredited cyber centre for your NYSC registration, ensure you have the following with you:</p>
+
+<h3>Essential Documents</h3>
+
+<ul>
+  <li>Your JAMB Registration Number</li>
+  <li>Your National Identification Number (NIN)</li>
+  <li>Your university or polytechnic admission letter</li>
+  <li>Your original degree certificate or convocation notification</li>
+  <li>A copy of your O'Level result (WAEC, NECO, or NABTEB)</li>
+  <li>Your NYSC call-up letter (if previously deployed)</li>
+</ul>
+
+<h3>For Your Photograph and Biometric Data</h3>
+
+<ul>
+  <li>Arrive neatly dressed (as your photo will be captured)</li>
+  <li>Ensure your fingerprints are clean for easy capture</li>
+  <li>Bring your valid means of identification</li>
+</ul>
+
+<h3>Payment</h3>
+
+<ul>
+  <li>Cash to pay the cyber café fee (₦5,000–₦6,000)</li>
+  <li>Some centres may accept mobile money transfers; confirm beforehand</li>
+</ul>
+
+<h2>Top Tips for Successful Registration at a Cyber Centre</h2>
+
+<p><strong>1. Arrive Early</strong> – Cyber centres can get busy, especially as registration deadlines approach. Arriving early ensures you have adequate time to complete the process without rushing.</p>
+
+<p><strong>2. Verify Accreditation</strong> – Before using any cyber centre, confirm that it is on the official NYSC list of accredited operators. This ensures your registration is processed correctly.</p>
+
+<p><strong>3. Double-Check Your Information</strong> – Review all details (name, date of birth, course of study, qualification) before final submission. These details appear on your Certificate of National Service and cannot be changed after camp registration.</p>
+
+<p><strong>4. Bring Copies of Documents</strong> – Have multiple copies of your important documents, as some centres may require these for their records.</p>
+
+<p><strong>5. Ask Questions</strong> – If anything is unclear during the registration process, don't hesitate to ask the cyber centre operator for clarification. It's better to get it right the first time.</p>
+
+<p><strong>6. Get a Receipt</strong> – After registration, request and keep a receipt or confirmation document showing that you have completed your registration at that particular centre.</p>
+
+<p><strong>7. Note Your Reference Number</strong> – Write down any reference or transaction number provided after registration. This may be needed for future inquiries or confirmations.</p>
+
+<h2>Regional Cyber Centre Information</h2>
+
+<p>While a complete list is maintained by NYSC, accredited cyber centres are typically found in:</p>
+
+<ul>
+  <li>Major cities and state capitals across Nigeria</li>
+  <li>University towns and polytechnic locations</li>
+  <li>Major commercial centres and business districts</li>
+  <li>Designated NYSC coordination offices and local government areas</li>
+</ul>
+
+<p>For the most up-to-date and complete list of accredited centres in your state or local government area, visit the official NYSC website or contact your nearest NYSC State Coordination Office.</p>
+
+<h2>Online Registration from Home or Abroad</h2>
+
+<p>If you prefer to register from home or from abroad, you can do so directly on the NYSC online portal without visiting a cyber centre. However, remember that:</p>
+
+<ul>
+  <li>You must still complete thumbprinting in Nigeria before orientation camp (for foreign-trained graduates, this is mandatory).</li>
+  <li>Foreign-trained graduates must select a centre for pre-camp physical verification during online registration.</li>
+  <li>Ensure you have a stable internet connection and meet all the technical requirements for online registration.</li>
+</ul>
+
+<h2>Important Registration Reminders</h2>
+
+<ul>
+  <li>Registration opens: <strong>Monday, 7 September 2026</strong></li>
+  <li>Registration closes: <strong>Sunday, 13 September 2026</strong></li>
+  <li>Do not register multiple times or create duplicate accounts</li>
+  <li>Use the correct registration option based on your status (Fresh, Revalidation, or Login)</li>
+  <li>Ensure all personal details are accurate before final submission</li>
+</ul>
+
+<p>For detailed guidance on the NYSC registration process itself, you may find this related post helpful: <a href="/blog/nysc-2026-batch-c-registration-guide-september-2026">NYSC 2026 Batch C Online Registration Guide: Important Dates, Requirements and Instructions</a>.</p>`,
+    tags: ["NYSC", "Cyber Centres", "Registration", "2026", "Batch C", "Career", "Nigeria"],
+  },
+  {
+    id: "oau-post-utme-screening-schedule-changed-september-2026",
+    title: "OAU Post UTME Screening Dates Changed: New Schedule for 2026/2027 Admission",
+    category: "Education",
+    date: "2026-08-31",
+    excerpt: "Obafemi Awolowo University (OAU) has announced new dates for its 2026 Post UTME screening exercise. The screening will now take place from 25-30 September 2026, with registration closing on 23 September 2026.",
+    content: `<h1>OAU Post UTME Screening Dates Changed: New Schedule for 2026/2027 Admission</h1>
+
+<p>Obafemi Awolowo University (OAU), Ile-Ife has announced new dates for its <strong>2026 Post UTME screening exercise</strong> for prospective undergraduate admission candidates.</p>
+
+<p>The screening was previously scheduled for Tuesday, 1 September to Saturday, 5 September 2026. <strong>It will now take place from Friday, 25 September to Wednesday, 30 September 2026</strong>.</p>
+
+<p>The final registration deadline has also been moved to <strong>Wednesday, 23 September 2026</strong>.</p>
+
+<h2>OAU Post UTME: Revised Screening Dates and Timeline</h2>
+
+<h3>Previous Schedule (Cancelled)</h3>
+
+<ul>
+  <li><strong>Originally Scheduled Screening:</strong> Tuesday, 1 September 2026 to Saturday, 5 September 2026</li>
+</ul>
+
+<h3>New Schedule (Updated)</h3>
+
+<ul>
+  <li><strong>Registration Deadline:</strong> Wednesday, 23 September 2026</li>
+  <li><strong>Screening Period:</strong> Friday, 25 September 2026 to Wednesday, 30 September 2026</li>
+</ul>
+
+<p>Candidates should therefore use the new dates when planning for the screening exercise and ensure they complete registration before the 23 September deadline.</p>
+
+<h2>OAU Post UTME Screening Will Be Physical</h2>
+
+<p>Candidates will be required to <strong>present themselves physically for the Post UTME screening exercise</strong>. This means:</p>
+
+<ul>
+  <li>Each candidate will need to attend on the assigned date and time shown on the screening portal.</li>
+  <li>Virtual or online screening is not an option.</li>
+  <li>The screening is for prospective candidates seeking admission for the 2026/2027 academic session.</li>
+  <li>Plan your travel and accommodation accordingly if you are from a different location.</li>
+</ul>
+
+<h2>When Will Individual Screening Schedules Be Available?</h2>
+
+<p>Candidates who have successfully completed screening registration will be able to check their assigned date and time from <strong>Wednesday, 16 September 2026</strong>.</p>
+
+<p>The schedule will be available through the OAU undergraduate admission portal. Each candidate will need the correct login details before the assigned screening schedule can be viewed.</p>
+
+<h2>How to Access Your OAU Screening Schedule</h2>
+
+<h3>Login Credentials Required</h3>
+
+<ul>
+  <li><strong>Username:</strong> Your JAMB Registration Number</li>
+  <li><strong>Password:</strong> The password created during screening registration</li>
+</ul>
+
+<p>Candidates should use these details to log in to the OAU undergraduate admission portal and view their assigned screening date and time once schedule access opens on Wednesday, 16 September 2026.</p>
+
+<h3>Steps to Check Your Screening Schedule</h3>
+
+<ol>
+  <li>Visit the OAU undergraduate admission portal (link available on the university's official website).</li>
+  <li>Enter your JAMB Registration Number as the username.</li>
+  <li>Enter the password you created during screening registration.</li>
+  <li>Click login or submit.</li>
+  <li>Navigate to the screening schedule section.</li>
+  <li>View and note your assigned examination date and time.</li>
+  <li>Print or save your screening details for reference.</li>
+</ol>
+
+<p><strong>Important:</strong> If you have forgotten your password, use the portal's password reset function or contact OAU admissions support for assistance.</p>
+
+<h2>OAU Post UTME Registration Deadline</h2>
+
+<p>The final registration deadline has been extended to <strong>Wednesday, 23 September 2026</strong>.</p>
+
+<ul>
+  <li>Candidates who have not completed the screening registration should take note of the revised closing date.</li>
+  <li>The screening itself begins two days later, on Friday, 25 September 2026.</li>
+  <li>Do not wait until the last minute to register; complete the process as early as possible.</li>
+  <li>Allow sufficient time to resolve any technical or documentation issues before the deadline.</li>
+</ul>
+
+<h2>Important Official Communication Channels</h2>
+
+<p>OAU has stated that <strong>its website and official social media channels are the authentic sources of communication</strong> concerning the screening exercise.</p>
+
+<h3>Where to Get Accurate Information</h3>
+
+<ul>
+  <li><strong>Official Website:</strong> Visit the OAU main website for official announcements and updates.</li>
+  <li><strong>Social Media:</strong> Follow OAU's official social media accounts for timely notifications.</li>
+  <li><strong>Admission Portal:</strong> Check the OAU undergraduate admission portal regularly.</li>
+  <li><strong>Email Notifications:</strong> Monitor the email address used for your admission application.</li>
+</ul>
+
+<p>Candidates should rely on recognised university communication channels before acting on any screening message to avoid misinformation.</p>
+
+<h2>Warning: OAU Does Not Endorse Admission Agents</h2>
+
+<p>Candidates have been warned against patronising Post UTME or admission agents. Key points to remember:</p>
+
+<ul>
+  <li>Screening information should be obtained through recognised OAU channels only.</li>
+  <li>The university has not endorsed any agents for the admission or screening process.</li>
+  <li>Do not share sensitive information like login credentials with agents or third parties.</li>
+  <li>Be cautious of anyone claiming to have inside information or special access to admission decisions.</li>
+  <li>Use official channels for all admission-related inquiries and processes.</li>
+</ul>
+
+<h2>OAU Post UTME Screening Guidelines</h2>
+
+<p>Candidates may refer to the <strong>OAU Post UTME and Direct Entry screening guide</strong> for the stated screening guidelines.</p>
+
+<p>The guide should be read together with:</p>
+
+<ul>
+  <li>The revised screening dates</li>
+  <li>The new registration deadline</li>
+  <li>Individual screening schedule information</li>
+</ul>
+
+<p>Candidates should also check their individual schedule once portal access begins on Wednesday, 16 September 2026.</p>
+
+<h2>Questions About OAU Post UTME Screening?</h2>
+
+<p>Questions about the 2026 Post UTME screening exercise may be sent to:</p>
+
+<p><strong>Email:</strong> postutme2026@oauife.edu.ng</p>
+
+<p>Candidates should use this contact for enquiries connected with the screening exercise. Include your JAMB Registration Number and a clear description of your question for faster response.</p>
+
+<h2>Key Reminders</h2>
+
+<ul>
+  <li><strong>Registration Closes:</strong> Wednesday, 23 September 2026</li>
+  <li><strong>Screening Dates:</strong> Friday, 25 September – Wednesday, 30 September 2026</li>
+  <li><strong>Schedule Release:</strong> Wednesday, 16 September 2026</li>
+  <li>Check your schedule using your JAMB Registration Number and password</li>
+  <li>Physical attendance is mandatory</li>
+  <li>Only use official OAU communication channels for information</li>
+  <li>Do not contact or use admission agents</li>
+</ul>
+
+<p>For more information about the general OAU admission process and requirements, you may find this related post helpful: <a href="/blog/oau-post-utme-direct-entry-form-2026-2027">OAU Post UTME/Direct Entry Form 2026/2027: Eligibility, Requirements and Application Guide</a>.</p>`,
+    tags: ["OAU", "Post UTME", "Screening", "2026/2027", "Admission", "Education", "Nigeria"],
+  },
 ];
 
 // Sort posts by date descending (most recent first)

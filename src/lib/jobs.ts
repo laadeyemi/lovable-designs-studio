@@ -46,7 +46,7 @@ function parseDeadline(deadlineString: string): string | null {
   return null; // Unable to parse, treat as non-expired
 }
 
-const currentDate = '2026-08-08'; // Current date for comparison (August 08, 2026)
+const currentDate = '2026-08-31'; // Current date for comparison (August 31, 2026)
 
 const allJobs: Job[] = [
   {

@@ -32536,6 +32536,271 @@ const allJobs: Job[] = [
     apply: "Send your CV to agbaje001@gmail.com.",
     deadline: "Not Specified"
   },
+  {
+    id: "personal-driver-lekki-2026-08-31",
+    title: "Personal Driver",
+    date: "2026-08-31",
+    location: "Lekki Phase 1, Lagos",
+    type: "Full-time",
+    salary: "₦150,000 (Net)",
+    summary: "Seeking a reliable, professional, and experienced Personal Driver for a private employer. Must be neat, presentable, and maintain high standards of conduct.",
+    responsibilities: [
+      "Safely transport employer to assigned destinations.",
+      "Keep the vehicle clean and well maintained at all times.",
+      "Handle the automatic vehicle with care.",
+      "Maintain professional conduct, honesty, and integrity.",
+      "Drive carefully and politely — zero road rage tolerated.",
+      "Follow employer instructions and assigned schedules.",
+      "Report maintenance concerns promptly."
+    ],
+    requirements: [
+      "Minimum qualification: SSCE.",
+      "Minimum 6–10 years driving experience.",
+      "Must be neat, presentable, and dress appropriately for work.",
+      "Must be proactive, patient, and level-headed while driving.",
+      "Must ensure the vehicle is cleaned daily and properly maintained.",
+      "Must check for maintenance issues regularly.",
+      "Must be honest and of good character.",
+      "Age requirement: 31–40 years.",
+      "Preferred religion: Christian.",
+      "Ability to communicate in English.",
+      "State of Preference: Akwaibom, Cross River, Benue.",
+      "Must provide 2 verifiable guarantors.",
+      "Must provide valid identification."
+    ],
+    apply: "Send your CV via WhatsApp to: Wa.me/2347044760495 with subject 'Personal Driver – Lekki'",
+    deadline: "Not Specified"
+  },
+  {
+    id: "executive-assistant-ikoyi-fintech-2026-08-31",
+    title: "Executive Assistant",
+    date: "2026-08-31",
+    location: "Ikoyi, Lagos",
+    type: "Full-time",
+    company: "Fintech",
+    salary: "₦349,000 (Net)",
+    summary: "A Fintech company located in Ikoyi, Lagos is recruiting an Executive Assistant for the CEO.",
+    responsibilities: [],
+    requirements: [
+      "2–3 years of experience in a similar role."
+    ],
+    apply: "https://forms.gle/ihBfCffumehJ3bbH7",
+    deadline: "Not Specified"
+  },
+  {
+    id: "site-administrative-officer-vi-2026-08-31",
+    title: "Site Administrative Officer",
+    date: "2026-08-31",
+    location: "Victoria Island, Lagos",
+    type: "Full-time",
+    company: "Construction",
+    salary: "₦450,000 – ₦500,000",
+    summary: "A construction company based in Victoria Island, Lagos is seeking an experienced and highly organised Administrative Officer to oversee day-to-day administrative activities and provide effective support to management and project operations.",
+    responsibilities: [
+      "Oversee daily administrative and office operations.",
+      "Provide administrative support to management and project/site teams.",
+      "Manage company records, contracts, invoices, permits, correspondence, and other documentation.",
+      "Coordinate meetings, appointments, calendars, and official correspondence.",
+      "Prepare reports, memos, presentations, and other administrative documents.",
+      "Coordinate with project managers and site teams on documentation and administrative requirements.",
+      "Liaise with vendors, contractors, clients, and other external stakeholders when required.",
+      "Support HR-related administration, including attendance, staff records, and documentation.",
+      "Ensure proper filing, documentation, and implementation of administrative procedures."
+    ],
+    requirements: [
+      "Minimum of 10 years' proven administrative experience.",
+      "Previous experience in a construction company is mandatory.",
+      "HND/Bachelor's degree in Business Administration, Office Management, or a related field.",
+      "Strong proficiency in Microsoft Office (Word, Excel, PowerPoint, Outlook).",
+      "Excellent organisational, communication, and interpersonal skills."
+    ],
+    apply: "Send CV to recruiter17@ascentech.com.ng using 'ADMIN 17' as subject, or WhatsApp: 09139578387",
+    deadline: "Not Specified"
+  },
+  {
+    id: "driver-surulere-2026-08-31",
+    title: "Driver",
+    date: "2026-08-31",
+    location: "Surulere, Lagos",
+    type: "Full-time",
+    salary: "₦140,000",
+    summary: "We are looking for a reliable and professional Driver to ensure the safe, timely, and efficient transportation of deliveries, personnel, documents, and products.",
+    responsibilities: [
+      "Transport items and personnel safely and on schedule using efficient routes.",
+      "Assist with loading and unloading goods without damage.",
+      "Conduct daily pre/post-trip inspections (oil, tires, fluids, lights).",
+      "Report faults immediately and coordinate routine servicing and repairs.",
+      "Strictly adhere to road safety regulations and company policies.",
+      "Ensure valid vehicle documentation (license, insurance, roadworthiness certificates).",
+      "Maintain accurate logs for vehicle maintenance, inspection reports, and delivery documentation.",
+      "Represent the company professionally with great customer service."
+    ],
+    requirements: [
+      "Valid driver's license with a clean driving record.",
+      "Proven experience as a commercial or delivery driver.",
+      "Solid knowledge of local road traffic laws.",
+      "Basic mechanical knowledge to perform daily vehicle checks.",
+      "Strong punctuality, communication, and customer service skills."
+    ],
+    apply: "Send CV to oenik@berrymartng.com",
+    deadline: "Not Specified"
+  },
+  {
+    id: "fmcg-key-account-manager-mainland-2026-08-31",
+    title: "Key Account Manager (FMCG)",
+    date: "2026-08-31",
+    location: "Mainland 2 (Festac, Ojo, Isolo, Trade Fair)",
+    type: "Full-time",
+    company: "BerryMart Integrated Services Limited",
+    salary: "Competitive",
+    summary: "Are you a high-performing sales professional who knows how to win in the FMCG market? We are seeking experienced professionals with a proven track record of meeting sales targets, opening new markets, and building strong customer relationships.",
+    responsibilities: [
+      "Drive sales growth and consistently exceed assigned targets.",
+      "Expand our customer base and identify new business opportunities.",
+      "Build and manage strong relationships with distributors, wholesalers, retailers, and key accounts.",
+      "Ensure excellent product visibility, availability, and merchandising across your territory.",
+      "Monitor market trends and competitor activities to identify growth opportunities.",
+      "Submit timely sales reports and ensure prompt payment collections."
+    ],
+    requirements: [
+      "5–7 years of hands-on FMCG sales experience.",
+      "Strong understanding of the Lagos market and distribution channels.",
+      "Excellent negotiation, communication, and relationship-building skills.",
+      "A self-driven, resilient, and target-oriented professional with a winning mindset.",
+      "HND/B.Sc. in any relevant discipline."
+    ],
+    apply: "Send CV to oenik@berrymartng.com with subject: Key Account Manager",
+    deadline: "Not Specified"
+  },
+  {
+    id: "junior-port-operations-officer-lagos-2026-08-31",
+    title: "Junior Port Operations Officer",
+    date: "2026-08-31",
+    location: "Lagos",
+    type: "Full-time",
+    salary: "Negotiable",
+    summary: "We are seeking a Junior Port Operations Officer to support vessel berthing, port calls, crew changes, husbandry services, and customs documentation.",
+    responsibilities: [
+      "Coordinate vessel arrival, berthing, operations, and departure.",
+      "Handle crew change, husbandry, and port documentation.",
+      "Liaise with NPA, NIMASA, Customs, Immigration, terminals, and other stakeholders.",
+      "Coordinate vessel supplies, spares, transportation, and other port requirements.",
+      "Maintain accurate operational records and reports.",
+      "Ensure compliance with port and maritime regulations."
+    ],
+    requirements: [
+      "B.Sc./HND in Maritime Studies, Shipping, Port Management, Logistics, Transport Management, or related field.",
+      "1–3 years' experience in port/shipping operations.",
+      "Experience in a shipping company or maritime agency is highly preferred.",
+      "Practical knowledge of vessel berthing, crew change, husbandry, and customs handling.",
+      "Strong communication, coordination, documentation, and problem-solving skills."
+    ],
+    apply: "Send CV to cv@ascentech.com.ng using 'Junior Port Operation 14' as the subject",
+    deadline: "Not Specified"
+  },
+  {
+    id: "head-commercial-business-development-cold-chain-2026-08-31",
+    title: "Head of Commercial / Business Development – Cold Chain",
+    date: "2026-08-31",
+    location: "Lagos",
+    type: "Full-time",
+    salary: "₦750,000 – ₦800,000 + incentives",
+    summary: "We're looking for a hands-on commercial and business development leader to drive revenue, acquire FMCG/manufacturing customers, and lead our field sales team.",
+    responsibilities: [
+      "Drive revenue growth and business acquisition.",
+      "Acquire FMCG and manufacturing customers.",
+      "Lead and manage field sales team.",
+      "Develop and execute B2B sales strategies.",
+      "Build and maintain strong client relationships."
+    ],
+    requirements: [
+      "8+ years in B2B Sales, Business Development, or Commercial roles.",
+      "Proven track record of closing B2B deals.",
+      "Strong field sales and team leadership experience.",
+      "FMCG, logistics, distribution, or cold-chain experience preferred.",
+      "Strong negotiation, commercial, and analytical skills.",
+      "Good knowledge of the Lagos market.",
+      "Entrepreneurial and target-driven."
+    ],
+    apply: "Send CV + brief highlight of one significant B2B deal you personally closed to careers@omniretail.africa",
+    deadline: "Not Specified"
+  },
+  {
+    id: "sales-girl-beauty-consultant-folagoro-2026-08-31",
+    title: "Sales Girl / Beauty Consultant",
+    date: "2026-08-31",
+    location: "Folagoro Junction, Ikorodu, Lagos",
+    type: "Full-time",
+    gender: "Female",
+    salary: "₦40,000",
+    summary: "New cosmetic shop at Folagoro Junction is hiring a Sales Girl/Beauty Consultant to attend to customers and promote our skincare and makeup products.",
+    responsibilities: [
+      "Attend to customers and recommend products.",
+      "Maintain shop cleanliness and product display.",
+      "Handle sales, cash, and record keeping.",
+      "Achieve daily sales targets."
+    ],
+    requirements: [
+      "Female, 18–30 years.",
+      "Must be smart, neat, and presentable.",
+      "Good communication and customer service skills.",
+      "Must know or be willing to learn about skincare and makeup products.",
+      "Honest, hardworking, and sales-driven.",
+      "Resides around Folagoro, Ikorodu, or nearby areas is an added advantage."
+    ],
+    apply: "Call/WhatsApp: 0810 169 9363",
+    deadline: "Not Specified"
+  },
+  {
+    id: "sales-representative-retail-addo-road-ajah-2026-08-31",
+    title: "Sales Representative (Retail Associate)",
+    date: "2026-08-31",
+    location: "Addo Road, Ajah, Lagos",
+    type: "Full-time",
+    salary: "₦80,000",
+    summary: "We're looking for a friendly, responsible, and customer-focused Retail Associate to join our team.",
+    responsibilities: [
+      "Attend to customers and provide excellent service.",
+      "Handle sales transactions.",
+      "Maintain shop cleanliness and organization.",
+      "Assist with inventory and stock checks."
+    ],
+    requirements: [
+      "OND/HND or equivalent.",
+      "Retail/sales experience is an advantage.",
+      "Good communication and customer service skills.",
+      "Must reside around Ajah."
+    ],
+    apply: "Send CV to Quintconsultng@gmail.com using job role as subject",
+    deadline: "Not Specified"
+  },
+  {
+    id: "business-development-executive-luxury-furniture-vi-2026-08-31",
+    title: "Business Development Executive",
+    date: "2026-08-31",
+    location: "Victoria Island, Lagos",
+    type: "Full-time",
+    gender: "Female",
+    company: "Luxury Furniture",
+    salary: "₦200,000 – ₦300,000 + Bonus",
+    summary: "Our client in the luxury furniture business is seeking a Business Development Executive to introduce and promote the company's luxury furniture portfolio to prospective clients.",
+    responsibilities: [
+      "Introduce and promote the company's luxury furniture portfolio to prospective clients.",
+      "Identify and pursue new business opportunities across the luxury residential, hospitality, commercial, and real estate sectors.",
+      "Build and maintain a strong pipeline of prospective clients and projects.",
+      "Develop and execute strategies to achieve sales and revenue targets.",
+      "Build and maintain strong relationships with clients and key industry stakeholders."
+    ],
+    requirements: [
+      "Bachelor's degree in Business Administration, Marketing, Sales, or a related field.",
+      "Minimum of 3 years' experience in Business Development or Sales.",
+      "Proven ability to develop and close high-value B2B and B2C opportunities.",
+      "Strong communication, negotiation, networking, and relationship-management skills.",
+      "Experience within the luxury, furniture, real estate, hospitality, or related industry is an added advantage."
+    ],
+    apply: "Send CV to aaronspithyresources@gmail.com",
+    deadline: "Not Specified"
+  },
 ];
 
 // Filter out expired jobs and then sort by date descending (most recent first)

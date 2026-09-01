@@ -32801,6 +32801,698 @@ const allJobs: Job[] = [
     apply: "Send CV to aaronspithyresources@gmail.com",
     deadline: "Not Specified"
   },
+  {
+    id: "hyt-sales-bootcamp-2026-09-01",
+    title: "HYT Sales Bootcamp",
+    date: "2026-09-01",
+    location: "Nigeria",
+    type: "Training Program",
+    salary: "Free",
+    summary: "A free 1-week intensive physical training programme that helps young graduates build practical skills and prepare for opportunities in Sales, Financial Services, and FMCG.",
+    responsibilities: [
+      "Attend intensive physical training sessions.",
+      "Participate in practical sales and business development skill-building.",
+      "Engage with industry professionals.",
+      "Prepare for workplace opportunities."
+    ],
+    requirements: [
+      "Recent graduates with 0–3 years of experience.",
+      "HND/B.Sc. holders.",
+      "Interest in Sales career.",
+      "Age 35 and below."
+    ],
+    apply: "https://bit.ly/HYTSalesbootcamp",
+    deadline: "2026-09-15"
+  },
+  {
+    id: "fmcg-sales-representative-lagos-ibadan-2026-09-01",
+    title: "FMCG Sales Representative",
+    date: "2026-09-01",
+    location: "Lagos and Ibadan",
+    type: "Full-time",
+    salary: "Competitive",
+    summary: "Seeking a driven FMCG Sales Representative with proven experience in beverage or juice segment to drive sales and achieve targets in a fast-moving consumer goods environment.",
+    responsibilities: [
+      "Achieve and exceed sales targets in high-volume FMCG environment.",
+      "Develop and execute go-to-market strategies.",
+      "Conduct market analysis and competitor activity monitoring.",
+      "Develop pricing models and sales forecasting."
+    ],
+    requirements: [
+      "Minimum 1 year proven sales experience in FMCG sector, preferably beverage or juice.",
+      "Demonstrated track record of achieving and exceeding sales targets.",
+      "Strong understanding of market dynamics and consumer behavior.",
+      "Experience in go-to-market strategies and pricing models.",
+      "Excellent communication, negotiation, and interpersonal skills.",
+      "Proficiency in sales analytics and Microsoft Office Suite."
+    ],
+    apply: "https://forms.gle/SE6XfMyN97tQN2ti6",
+    deadline: "Not Specified"
+  },
+  {
+    id: "merchant-officer-lagos-ph-aba-2026-09-01",
+    title: "Merchant Officer",
+    date: "2026-09-01",
+    location: "Lagos Mainland (Ibeju Lekki), Lagos Island, Aggrey Road Port Harcourt, Aba",
+    type: "Full-time",
+    salary: "₦200,000 + Commission, HMO & Pension",
+    summary: "Seeking qualified Merchant Officers to support merchant operations across multiple locations with strong sales background and drive.",
+    responsibilities: [
+      "Manage merchant relationships and account growth.",
+      "Drive sales and revenue within assigned territory.",
+      "Support merchant onboarding and training.",
+      "Monitor performance and ensure service standards."
+    ],
+    requirements: [
+      "Age 30 or below.",
+      "B.Sc./HND with minimum 2:2/Lower Credit.",
+      "NYSC completed.",
+      "Sales experience is an advantage."
+    ],
+    apply: "https://docs.google.com/forms/d/e/1FAIpQLSf6uVXxI8lFEPcVRwzyKHl_XR0ys48uFk7NmQEjAn6EwCfbUA/viewform?usp=publish-editor",
+    deadline: "Not Specified"
+  },
+  {
+    id: "business-development-executive-vgc-lekki-hospitality-2026-09-01",
+    title: "Business Development Executive",
+    date: "2026-09-01",
+    location: "VGC, Lekki, Lagos",
+    type: "Full-time",
+    company: "Hospitality & Tourism",
+    salary: "₦250,000 – ₦300,000 Monthly",
+    gender: "Female",
+    summary: "Seeking an experienced, eloquent, and well-presented Sales/Business Development Executive with strong B2B and Corporate Sales experience and established network of HNI and corporate clients.",
+    responsibilities: [
+      "Generate and convert business leads from HNI and corporate clients.",
+      "Build relationships with senior executives and corporate decision-makers.",
+      "Conduct client meetings and presentations.",
+      "Develop and close high-value business opportunities.",
+      "Manage client relationships and follow-ups."
+    ],
+    requirements: [
+      "Female with proven B2B and Corporate Sales experience.",
+      "B2B/Corporate Sales experience is REQUIRED.",
+      "Existing network of HNI, corporate, and high-value clients.",
+      "Eloquent and highly articulate with excellent verbal and written communication.",
+      "Confident engaging CEOs, executives, and corporate decision-makers.",
+      "Proven ability to generate leads and close deals.",
+      "Demonstrated ability to meet and exceed sales targets.",
+      "Strong relationship management and client acquisition skills.",
+      "Experience with cold calling, client meetings, and proposals.",
+      "Hospitality industry experience is an added advantage."
+    ],
+    apply: "Send CV via WhatsApp: 08118157245",
+    deadline: "Not Specified"
+  },
+  {
+    id: "sales-executive-bnpl-lagos-2026-09-01",
+    title: "Sales Executive - BNPL (Buy Now Pay Later)",
+    date: "2026-09-01",
+    location: "Lagos",
+    type: "Full-time",
+    salary: "₦86,000 + Commission up to ₦120,000",
+    summary: "Seeking an ambitious, customer-focused Sales Executive to promote and sell Buy Now Pay Later (BNPL) financing products in the E-Commerce space.",
+    responsibilities: [
+      "Promote BNPL product financing solutions.",
+      "Generate leads and close sales.",
+      "Cross-sell complementary products.",
+      "Build customer relationships.",
+      "Meet sales and revenue targets."
+    ],
+    requirements: [
+      "Minimum OND in any discipline.",
+      "1-3 years Sales Experience in Loan or BNPL products.",
+      "Strong interpersonal and customer service skills.",
+      "Passion for sales and target-driven mindset.",
+      "Ability to cross-sell products.",
+      "Immediate availability to resume."
+    ],
+    apply: "https://forms.gle/mZASYky9SLC93tNJA",
+    deadline: "Not Specified"
+  },
+  {
+    id: "executive-assistant-ibadan-2026-09-01",
+    title: "Executive Assistant",
+    date: "2026-09-01",
+    location: "Ibadan",
+    type: "Full-time",
+    salary: "Competitive",
+    summary: "Seeking a competent Executive Assistant with experience in executive support and social media handling to assist senior management.",
+    responsibilities: [
+      "Provide administrative support to executive leadership.",
+      "Manage executive schedule and correspondence.",
+      "Handle social media accounts and content.",
+      "Coordinate meetings and events.",
+      "Support daily administrative operations."
+    ],
+    requirements: [
+      "2-5 years experience as an Executive Assistant or Personal Assistant.",
+      "Good with social media handling.",
+      "Excellent organizational and communication skills.",
+      "Professionalism and discretion."
+    ],
+    apply: "https://lnkd.in/eU4HbUmN",
+    deadline: "Not Specified"
+  },
+  {
+    id: "business-development-marketing-officer-ikoyi-restaurant-2026-09-01",
+    title: "Business Development & Marketing Officer",
+    date: "2026-09-01",
+    location: "Ikoyi, Lagos",
+    type: "Hybrid",
+    company: "Premium 5-Star Restaurant",
+    salary: "Initial Contract: ₦600,000 (Performance based) + Commission | Upon Confirmation: ₦900,000 (Performance based) + Commission",
+    summary: "Seeking a dynamic, results-driven professional to drive sales, build strategic partnerships, attract high-value clients, and contribute to the growth of a premium 5-star restaurant brand.",
+    responsibilities: [
+      "Drive sales and revenue through corporate dining, private events, and catering.",
+      "Generate and convert new business leads.",
+      "Build relationships with corporate organisations, VIPs, and high-value clients.",
+      "Develop strategic partnerships and new business opportunities.",
+      "Drive direct sales and client acquisition.",
+      "Identify upselling opportunities and maximize revenue.",
+      "Support marketing initiatives and brand visibility.",
+      "Monitor market trends and competitor activities.",
+      "Prepare sales and business development reports."
+    ],
+    requirements: [
+      "Bachelor's Degree from a recognised university.",
+      "Minimum 3 years' proven experience in Business Development, Sales, or Marketing.",
+      "Preferably in hospitality or luxury services.",
+      "Strong sales, negotiation, presentation, and closing skills.",
+      "Excellent communication and relationship-management skills.",
+      "Proven ability to meet and exceed targets.",
+      "Target-driven, proactive, and resilient.",
+      "Ability to thrive in a fast-paced environment."
+    ],
+    apply: "https://bit.ly/VacancyforBusinessdevelopmentandmarketingofficer",
+    deadline: "Not Specified"
+  },
+  {
+    id: "business-development-executive-hr-consulting-ikeja-2026-09-01",
+    title: "Business Development Executive – HR Consulting",
+    date: "2026-09-01",
+    location: "Ikeja, Lagos",
+    type: "Full-time",
+    salary: "₦250,000 – ₦270,000",
+    summary: "Seeking a proactive, confident, and results-driven Business Development Executive to join an HR Consulting Firm and drive client acquisition.",
+    responsibilities: [
+      "Identify and pursue new business opportunities for HR consulting and talent solutions.",
+      "Generate leads through cold calling, networking, referrals, and market research.",
+      "Identify and engage potential corporate clients and key decision-makers.",
+      "Prepare and deliver business proposals and presentations.",
+      "Negotiate and close business deals.",
+      "Build and maintain strong relationships with existing and prospective clients.",
+      "Recommend suitable HR solutions based on client needs.",
+      "Follow up with prospects and manage the sales pipeline.",
+      "Identify opportunities for repeat business and additional services.",
+      "Prepare business development reports and track sales KPIs."
+    ],
+    requirements: [
+      "Bachelor's degree in HR, Business Administration, Marketing, or related field.",
+      "3–5 years' experience in Business Development, Sales, HR Consulting, or Recruitment.",
+      "Experience in HR consulting, recruitment, or staffing is an advantage.",
+      "Proven ability to generate leads, acquire clients, and meet/exceed sales targets.",
+      "Strong communication, presentation, negotiation, and relationship-management skills.",
+      "Strong networking and client acquisition abilities.",
+      "Good understanding of HR services and workforce solutions.",
+      "Ability to work independently in a target-driven environment."
+    ],
+    apply: "Send CV to bradfieldforms@gmail.com with 'Business Development Executive – HR' as subject",
+    deadline: "Not Specified"
+  },
+  {
+    id: "customer-escalation-resolution-officer-vi-2026-09-01",
+    title: "Customer Escalation & Resolution Officer",
+    date: "2026-09-01",
+    location: "Victoria Island, Lagos",
+    type: "Full-time",
+    salary: "Competitive",
+    summary: "Seeking a customer-focused and solution-oriented Customer Escalation & Resolution Officer to manage escalated complaints, investigate concerns, and drive timely resolutions.",
+    responsibilities: [
+      "Receive, investigate, and resolve escalated customer complaints.",
+      "Ensure complaints are resolved within approved turnaround times and SLAs.",
+      "Maintain accurate complaint records and case documentation.",
+      "Communicate resolution outcomes clearly to customers.",
+      "Manage high-priority, sensitive, and regulatory complaints.",
+      "Identify recurring complaint trends and investigate causes.",
+      "Ensure compliance with internal policies and regulatory requirements.",
+      "Recommend service improvements based on complaint insights.",
+      "Monitor resolution effectiveness and customer satisfaction.",
+      "Prepare periodic reports on complaints and escalations."
+    ],
+    requirements: [
+      "OND or HND from a recognized institution.",
+      "Must be 29 years or below.",
+      "Excellent communication and interpersonal skills.",
+      "Strong problem-solving and investigative abilities.",
+      "Good customer service and conflict-resolution skills.",
+      "Strong attention to detail and documentation skills.",
+      "Ability to manage sensitive and high-priority complaints professionally.",
+      "Ability to work effectively in a fast-paced environment."
+    ],
+    apply: "Send CV to cekeh@icsoutsourcing.com with 'Customer Escalation & Resolution Officer' as subject",
+    deadline: "Not Specified"
+  },
+  {
+    id: "quality-assurance-officer-vi-2026-09-01",
+    title: "Quality Assurance Officer",
+    date: "2026-09-01",
+    location: "Victoria Island, Lagos",
+    type: "Full-time",
+    salary: "Competitive",
+    summary: "Seeking a detail-oriented Quality Assurance Officer to monitor customer interactions, identify quality gaps, provide feedback, and ensure compliance with service standards.",
+    responsibilities: [
+      "Review and assess customer interactions across voice, email, chat, and social media.",
+      "Conduct regular call audits using approved quality monitoring frameworks.",
+      "Identify quality gaps and recommend continuous improvements.",
+      "Prepare quality scorecards and performance reports.",
+      "Analyze interaction trends and identify root causes of issues.",
+      "Provide timely and constructive feedback to agents and supervisors.",
+      "Recommend improvements to scripts, processes, and engagement standards.",
+      "Ensure adherence to SLAs and operational standards.",
+      "Ensure compliance with regulatory and organizational requirements.",
+      "Conduct briefings and knowledge-sharing sessions."
+    ],
+    requirements: [
+      "OND or HND from a recognized institution.",
+      "Must be 28 years or below.",
+      "Strong attention to detail and analytical skills.",
+      "Excellent communication and interpersonal skills.",
+      "Good understanding of customer service and quality assurance practices.",
+      "Ability to identify issues, analyze trends, and recommend improvements.",
+      "Ability to work effectively in a fast-paced environment."
+    ],
+    apply: "Send CV to cekeh@icsoutsourcing.com with 'Quality Assurance Officer' as subject",
+    deadline: "Not Specified"
+  },
+  {
+    id: "shift-manager-pastry-gbagada-vi-2026-09-01",
+    title: "Shift Manager",
+    date: "2026-09-01",
+    location: "Gbagada & Victoria Island (VI), Lagos",
+    type: "Full-time",
+    salary: "₦70,000 Monthly",
+    summary: "Seeking a responsible and experienced Shift Manager to oversee daily shift operations, supervise staff, ensure quality production, and maintain hygiene and customer service standards.",
+    responsibilities: [
+      "Oversee daily shift operations and staff supervision.",
+      "Ensure quality production standards.",
+      "Maintain excellent hygiene standards.",
+      "Manage customer service excellence.",
+      "Control costs and manage resources.",
+      "Train and develop shift staff."
+    ],
+    requirements: [
+      "Minimum OND/SSCE qualification.",
+      "Previous experience in pastry, bakery, restaurant, or QSR environment.",
+      "Strong leadership and team management skills.",
+      "Ability to work under pressure and manage shifts effectively.",
+      "Good communication and problem-solving skills.",
+      "Must be reliable, punctual, and customer-focused.",
+      "Must reside within reasonable proximity to Gbagada or VI."
+    ],
+    apply: "https://app.notion.com/p/Job-Openings-3c8c78057c27805abeeae91bb96c7702",
+    deadline: "Not Specified"
+  },
+  {
+    id: "hr-compliance-officer-vgc-lekki-2026-09-01",
+    title: "HR Compliance Officer",
+    date: "2026-09-01",
+    location: "VGC, Lekki, Lagos",
+    type: "Full-time",
+    salary: "₦250,000 Monthly",
+    gender: "Male",
+    seniority: "Senior",
+    summary: "Seeking a bold, firm, and confident HR Compliance Officer to enforce policies, address misconduct, and ensure appropriate disciplinary action. This is a hands-on enforcement role.",
+    responsibilities: [
+      "Enforce organizational policies and procedures.",
+      "Handle employee misconduct and disciplinary matters.",
+      "Conduct investigations into policy violations.",
+      "Recommend appropriate corrective actions.",
+      "Maintain compliance documentation and records.",
+      "Monitor compliance across departments.",
+      "Ensure managers and employees follow established SOPs.",
+      "Handle grievances and employee relations matters.",
+      "Report on compliance activities and metrics."
+    ],
+    requirements: [
+      "Male, 40 years and above.",
+      "Proven experience in HR Compliance, Employee Relations, or senior HR role.",
+      "Strong knowledge of HR policies, disciplinary procedures, and labour laws.",
+      "Proven ability to drive compliance and enforce policies.",
+      "Must be bold, firm, confident, and decisive.",
+      "Strong experience handling disciplinary issues and investigations.",
+      "Ability to identify compliance gaps and recommend corrective actions.",
+      "Strong documentation and reporting skills.",
+      "Excellent communication and conflict-resolution skills.",
+      "Hospitality industry experience is an added advantage.",
+      "Must be driven, proactive, mature, discreet, and results-oriented."
+    ],
+    apply: "Send CV via WhatsApp: 07068198606",
+    deadline: "Not Specified"
+  },
+  {
+    id: "virtual-admin-assistant-lekki-2026-09-01",
+    title: "Virtual Admin Assistant",
+    date: "2026-09-01",
+    location: "Lekki, Lagos",
+    type: "Virtual Hybrid",
+    salary: "₦80,000 Monthly",
+    summary: "Seeking a smart, organized, proactive, and tech-savvy Virtual Administrative Assistant to support day-to-day operations of an online educational community.",
+    responsibilities: [
+      "Manage and engage the online community.",
+      "Respond to messages, enquiries, and member requests.",
+      "Manage community records and member information.",
+      "Perform accurate data entry and maintain databases.",
+      "Use Google Workspace for documentation and communication.",
+      "Coordinate online meetings, classes, and activities.",
+      "Track attendance, participation, and member engagement.",
+      "Provide administrative and virtual support to the team.",
+      "Follow up on assigned tasks and ensure timely completion."
+    ],
+    requirements: [
+      "Community Management experience.",
+      "Data Entry & Record Keeping skills.",
+      "Proficiency in Google Workspace (Docs, Sheets, Forms, Drive, Gmail, Calendar).",
+      "Excellent written and verbal communication.",
+      "Strong organizational and follow-up skills.",
+      "Good attention to detail and accuracy.",
+      "Ability to multitask and work independently.",
+      "Basic knowledge of online meeting platforms (Zoom, Google Meet).",
+      "Ability to learn new digital tools quickly.",
+      "Previous Virtual Assistant or Community Manager experience is an advantage."
+    ],
+    apply: "Send CV with heading 'VIRTUAL ASSISTANT' to: 08118157245",
+    deadline: "Not Specified"
+  },
+  {
+    id: "sales-representative-fmcg-ilorin-2026-09-01",
+    title: "Sales Representative – FMCG (Ilorin)",
+    date: "2026-09-01",
+    location: "Ilorin",
+    type: "Full-time",
+    salary: "₦150,000",
+    summary: "Seeking passionate sales professionals with FMCG experience to manage customer accounts, build relationships, and drive business growth in assigned territories.",
+    responsibilities: [
+      "Manage and grow assigned customer accounts.",
+      "Build and maintain strong relationships with distributors and retail partners.",
+      "Achieve assigned sales and revenue targets.",
+      "Identify and develop new business opportunities.",
+      "Ensure product availability, visibility, and merchandising.",
+      "Monitor competitors' activities and provide market intelligence.",
+      "Prepare and submit accurate sales reports.",
+      "Work with internal teams for excellent customer service."
+    ],
+    requirements: [
+      "Bachelor's degree or HND in Marketing, Business Administration, or related field.",
+      "1–3 years' experience in Account Management, Sales, or Business Development in FMCG.",
+      "Strong relationship management and negotiation skills.",
+      "Target-driven with proven ability to achieve sales objectives.",
+      "Good understanding of key account management and retail sales.",
+      "Familiarity with the preferred territory."
+    ],
+    apply: "Send CV to oenik@berrymartng.com with 'Sales representative (Ilorin)' as subject",
+    deadline: "Not Specified"
+  },
+  {
+    id: "sales-representative-fmcg-jos-2026-09-01",
+    title: "Sales Representative – FMCG (Jos)",
+    date: "2026-09-01",
+    location: "Jos",
+    type: "Full-time",
+    salary: "₦150,000",
+    summary: "Seeking passionate sales professionals with FMCG experience to manage customer accounts, build relationships, and drive business growth in assigned territories.",
+    responsibilities: [
+      "Manage and grow assigned customer accounts.",
+      "Build and maintain strong relationships with distributors and retail partners.",
+      "Achieve assigned sales and revenue targets.",
+      "Identify and develop new business opportunities.",
+      "Ensure product availability, visibility, and merchandising.",
+      "Monitor competitors' activities and provide market intelligence.",
+      "Prepare and submit accurate sales reports.",
+      "Work with internal teams for excellent customer service."
+    ],
+    requirements: [
+      "Bachelor's degree or HND in Marketing, Business Administration, or related field.",
+      "1–3 years' experience in Account Management, Sales, or Business Development in FMCG.",
+      "Strong relationship management and negotiation skills.",
+      "Target-driven with proven ability to achieve sales objectives.",
+      "Good understanding of key account management and retail sales.",
+      "Familiarity with the preferred territory."
+    ],
+    apply: "Send CV to oenik@berrymartng.com with 'Sales representative (Jos)' as subject",
+    deadline: "Not Specified"
+  },
+  {
+    id: "sales-representative-fmcg-akure-2026-09-01",
+    title: "Sales Representative – FMCG (Akure)",
+    date: "2026-09-01",
+    location: "Akure",
+    type: "Full-time",
+    salary: "₦150,000",
+    summary: "Seeking passionate sales professionals with FMCG experience to manage customer accounts, build relationships, and drive business growth in assigned territories.",
+    responsibilities: [
+      "Manage and grow assigned customer accounts.",
+      "Build and maintain strong relationships with distributors and retail partners.",
+      "Achieve assigned sales and revenue targets.",
+      "Identify and develop new business opportunities.",
+      "Ensure product availability, visibility, and merchandising.",
+      "Monitor competitors' activities and provide market intelligence.",
+      "Prepare and submit accurate sales reports.",
+      "Work with internal teams for excellent customer service."
+    ],
+    requirements: [
+      "Bachelor's degree or HND in Marketing, Business Administration, or related field.",
+      "1–3 years' experience in Account Management, Sales, or Business Development in FMCG.",
+      "Strong relationship management and negotiation skills.",
+      "Target-driven with proven ability to achieve sales objectives.",
+      "Good understanding of key account management and retail sales.",
+      "Familiarity with the preferred territory."
+    ],
+    apply: "Send CV to oenik@berrymartng.com with 'Sales representative (Akure)' as subject",
+    deadline: "Not Specified"
+  },
+  {
+    id: "driver-victoria-island-2026-09-01",
+    title: "Driver",
+    date: "2026-09-01",
+    location: "Victoria Island, Lagos",
+    type: "Full-time",
+    salary: "₦120,000 (Net)",
+    summary: "Seeking a reliable and professional Driver to support transportation operations at our Victoria Island site with excellent safety and maintenance standards.",
+    responsibilities: [
+      "Safely transport staff and materials as required.",
+      "Ensure the vehicle is clean and well-maintained.",
+      "Adhere to all traffic regulations and company policies.",
+      "Maintain professional conduct and punctuality.",
+      "Report maintenance concerns promptly."
+    ],
+    requirements: [
+      "Minimum 2 years proven experience as a professional driver.",
+      "Valid driver's license.",
+      "Good knowledge of Lagos road networks.",
+      "Ability to drive both manual and automatic vehicles.",
+      "Professional attitude and good communication skills."
+    ],
+    apply: "Send CV via WhatsApp: 08032607458",
+    deadline: "Not Specified"
+  },
+  {
+    id: "sales-executive-advertising-ikeja-2026-09-01",
+    title: "Sales Executive – Advertising",
+    date: "2026-09-01",
+    location: "Ikeja, Lagos",
+    type: "Full-time",
+    salary: "₦120,000 – ₦150,000 + Commission",
+    summary: "Seeking a driven and result-oriented Sales Executive to join our advertising team and generate leads, close sales, and meet targets.",
+    responsibilities: [
+      "Generate leads and identify sales opportunities.",
+      "Close sales and meet targets.",
+      "Develop client relationships.",
+      "Prepare proposals and presentations.",
+      "Follow up with prospects and clients.",
+      "Meet and exceed sales objectives."
+    ],
+    requirements: [
+      "Previous sales experience is an added advantage.",
+      "Strong communication and interpersonal skills.",
+      "Ability to generate leads, close sales, and meet targets.",
+      "Proactive, confident, and customer-focused.",
+      "Must live within Ikeja or environs.",
+      "Must reside within proximity to Ikeja."
+    ],
+    apply: "Send CV via WhatsApp: 07068198606",
+    deadline: "Not Specified"
+  },
+  {
+    id: "business-development-executive-telecommunications-abuja-2026-09-01",
+    title: "Business Development Executive – Telecommunications",
+    date: "2026-09-01",
+    location: "Abuja, Nigeria",
+    type: "Full-time",
+    salary: "₦320,000 – ₦480,000 + Sales Incentives",
+    summary: "Seeking a results-driven Business Development Executive to drive revenue growth by identifying new business opportunities and promoting telecommunications and internet solutions.",
+    responsibilities: [
+      "Identify and convert new business opportunities to achieve sales targets.",
+      "Generate leads through cold calling, networking, referrals, and client meetings.",
+      "Promote Internet Leased Lines, Broadband, FTTH/FTTX, VoIP, IoT, and IPTV solutions.",
+      "Build and maintain relationships with key decision-makers and C-Level executives.",
+      "Prepare proposals, negotiate contracts, and close sales.",
+      "Manage the sales pipeline and maintain accurate CRM records.",
+      "Monitor customer satisfaction, retention, and outstanding receivables.",
+      "Prepare sales reports, forecasts, and business development plans."
+    ],
+    requirements: [
+      "B.Sc. in Business Management, Marketing, or related discipline.",
+      "NYSC Certificate.",
+      "2–4 years' experience in Business Development/Sales within Telecommunications or ISP.",
+      "Good understanding of telecommunications and internet solutions.",
+      "Strong communication, negotiation, presentation, and relationship management skills.",
+      "Proficiency in MS Office and CRM platforms.",
+      "Target-driven, proactive, and results-oriented."
+    ],
+    apply: "Send CV to cv@ascentech.com.ng with 'Business Development Executive – Telecommunications' as subject",
+    deadline: "Not Specified"
+  },
+  {
+    id: "business-development-executive-telecommunications-port-harcourt-2026-09-01",
+    title: "Business Development Executive – Telecommunications (Port Harcourt)",
+    date: "2026-09-01",
+    location: "Port-Harcourt, Nigeria",
+    type: "Full-time",
+    salary: "₦320,000 – ₦480,000 + Sales Incentives",
+    summary: "Seeking a results-driven Business Development Executive to drive revenue growth by identifying new business opportunities and promoting telecommunications and internet solutions.",
+    responsibilities: [
+      "Identify and convert new business opportunities to achieve sales targets.",
+      "Generate leads through cold calling, networking, referrals, and client meetings.",
+      "Promote Internet Leased Lines, Broadband, FTTH/FTTX, VoIP, IoT, and IPTV solutions.",
+      "Build and maintain relationships with key decision-makers and C-Level executives.",
+      "Prepare proposals, negotiate contracts, and close sales.",
+      "Manage the sales pipeline and maintain accurate CRM records.",
+      "Monitor customer satisfaction, retention, and outstanding receivables.",
+      "Prepare sales reports, forecasts, and business development plans."
+    ],
+    requirements: [
+      "B.Sc. in Business Management, Marketing, or related discipline.",
+      "NYSC Certificate.",
+      "2–4 years' experience in Business Development/Sales within Telecommunications or ISP.",
+      "Good understanding of telecommunications and internet solutions.",
+      "Strong communication, negotiation, presentation, and relationship management skills.",
+      "Proficiency in MS Office and CRM platforms.",
+      "Target-driven, proactive, and results-oriented."
+    ],
+    apply: "Send CV to cv@ascentech.com.ng with 'Business Development Executive – Telecommunications' as subject",
+    deadline: "Not Specified"
+  },
+  {
+    id: "operations-manager-igando-ojota-2026-09-01",
+    title: "Operations Manager",
+    date: "2026-09-01",
+    location: "Igando, Ojota, New Facilities & Ilupeju, Lagos",
+    type: "Full-time",
+    salary: "₦300,000 – ₦400,000 Gross",
+    summary: "Seeking an experienced Operations Manager to oversee waste collection, recycling, and processing operations across multiple facilities with focus on efficiency and compliance.",
+    responsibilities: [
+      "Oversee daily operations across all facilities and ensure targets are met.",
+      "Coordinate material inflow, stock management, and transfers.",
+      "Monitor grinding operations, equipment performance, and maintenance.",
+      "Manage diesel usage, generators, and operational costs.",
+      "Coordinate logistics and transportation of materials.",
+      "Ensure accurate stock reconciliation and operational reporting.",
+      "Prepare operational budgets and monitor expenditure.",
+      "Lead, coach, and supervise operational teams.",
+      "Ensure compliance with HSE standards and company policies."
+    ],
+    requirements: [
+      "Bachelor's Degree or HND in Operations Management, Engineering, Business Administration, Supply Chain, Logistics, or related field.",
+      "Minimum 5 years' experience in operations management within manufacturing, recycling, waste management, or plastics.",
+      "Strong leadership, planning, problem-solving, and reporting skills.",
+      "Maximum age: 40 years."
+    ],
+    apply: "Send CV to cv@ascentech.com.ng with 'Operations Manager- Victor' as subject",
+    deadline: "Not Specified"
+  },
+  {
+    id: "network-field-engineer-ibadan-2026-09-01",
+    title: "Network Field Engineer",
+    date: "2026-09-01",
+    location: "Ibadan",
+    type: "Full-time",
+    salary: "₦160,000 – ₦200,000",
+    summary: "Seeking a proactive and technically skilled Network Field Engineer (Onsite Technical Support) to install, maintain, and troubleshoot internet connectivity solutions.",
+    responsibilities: [
+      "Install, configure, and maintain internet connectivity equipment.",
+      "Troubleshoot network, internet, and hardware-related issues on-site.",
+      "Configure routers, switches, and customer premises equipment (CPE).",
+      "Conduct site visits for installations, repairs, and preventive maintenance.",
+      "Escalate complex technical issues to appropriate teams.",
+      "Maintain accurate records of service activities.",
+      "Provide technical support and customer education on equipment usage."
+    ],
+    requirements: [
+      "Bachelor's degree or HND in Computer Science, Information Technology, Engineering, or related field.",
+      "1–3 years of experience in field technical support or ISP operations.",
+      "Basic knowledge of TCP/IP, LAN/WAN, Wi-Fi, and networking.",
+      "Experience configuring networking devices such as routers and switches.",
+      "Strong troubleshooting, communication, and customer service skills.",
+      "Professional networking certifications are an added advantage."
+    ],
+    apply: "Send CV to cv@ascentech.com.ng with 'NETWORK FIELD ENGINEER' as subject",
+    deadline: "Not Specified"
+  },
+  {
+    id: "office-assistant-oshodi-isolo-2026-09-01",
+    title: "Office Assistant",
+    date: "2026-09-01",
+    location: "Oshodi/Isolo, Lagos",
+    type: "Full-time",
+    salary: "Competitive",
+    summary: "Seeking a smart, organized, punctual, and trustworthy Office Assistant to support senior management and ensure smooth office operations.",
+    responsibilities: [
+      "Assist senior management with administrative tasks and errands.",
+      "Manage office activities and ensure the office is clean and organized.",
+      "Handle documents and information with strict confidentiality.",
+      "Support daily administrative operations.",
+      "Coordinate office supplies and resources.",
+      "Assist with scheduling and meeting coordination."
+    ],
+    requirements: [
+      "OND/HND with 3 years' experience.",
+      "Experience working with Senior Management is an advantage.",
+      "Smart, attentive, presentable, and proactive.",
+      "Excellent organizational skills.",
+      "Must reside around Oshodi/Isolo."
+    ],
+    apply: "Send CV to vacancies@danagroup.com",
+    deadline: "Not Specified"
+  },
+  {
+    id: "head-of-marketing-automobile-lagos-2026-09-01",
+    title: "Head of Marketing – Automobile",
+    date: "2026-09-01",
+    location: "Lagos",
+    type: "Full-time",
+    salary: "Competitive",
+    summary: "Seeking a strategic and results-driven Head of Marketing to lead marketing activities, strengthen brand visibility, drive customer acquisition, and support business growth.",
+    responsibilities: [
+      "Develop and execute marketing strategies aligned with business and revenue goals.",
+      "Lead brand positioning, digital marketing, advertising, and promotional campaigns.",
+      "Drive customer acquisition and generate quality leads in collaboration with Sales.",
+      "Conduct market and competitor analysis to identify growth opportunities.",
+      "Manage marketing budgets, agencies, and vendors.",
+      "Track campaign performance and provide reports on key marketing metrics.",
+      "Lead and mentor the marketing team."
+    ],
+    requirements: [
+      "Bachelor's degree in Marketing, Business Administration, Communications, or related field.",
+      "7+ years of marketing experience, including 3+ years in a leadership role.",
+      "Experience in the automotive industry or related consumer-focused sector is an advantage.",
+      "Strong knowledge of digital marketing, brand management, and customer acquisition.",
+      "Excellent leadership, communication, strategic thinking, and project management skills.",
+      "Strong commercial awareness and results-driven approach."
+    ],
+    apply: "Send CV to cv@ascentech.com.ng with 'Marketing head – Lagos' as subject",
+    deadline: "Not Specified"
+  },
 ];
 
 // Filter out expired jobs and then sort by date descending (most recent first)

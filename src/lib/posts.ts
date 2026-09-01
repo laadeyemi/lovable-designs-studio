@@ -16426,7 +16426,7 @@ const allPosts: Post[] = [
 
 <p>Candidates who have successfully completed screening registration will be able to check their assigned date and time from <strong>Wednesday, 16 September 2026</strong>.</p>
 
-<p>The schedule will be available through the OAU undergraduate admission portal. Each candidate will need the correct login details before the assigned screening schedule can be viewed.</p>
+<p>The schedule will be available through the <a href="https://eportal2.oauife.edu.ng/ug/admissions">OAU undergraduate admission portal</a>. Each candidate will need the correct login details before the assigned screening schedule can be viewed.</p>
 
 <h2>How to Access Your OAU Screening Schedule</h2>
 
@@ -16442,7 +16442,7 @@ const allPosts: Post[] = [
 <h3>Steps to Check Your Screening Schedule</h3>
 
 <ol>
-  <li>Visit the OAU undergraduate admission portal (link available on the university's official website).</li>
+  <li>Visit the OAU undergraduate admission portal (link available on the <a href="https://oauife.edu.ng/">university's official website</a>).</li>
   <li>Enter your JAMB Registration Number as the username.</li>
   <li>Enter the password you created during screening registration.</li>
   <li>Click login or submit.</li>

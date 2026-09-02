@@ -16255,7 +16255,7 @@ const allPosts: Post[] = [
   },
   {
     id: "nysc-2026-batch-c-accredited-cyber-centres-and-locations",
-    title: "Complete List of Accredited Cyber Centres and Their Locations",
+    title: "Complete List of NYSC Accredited Cyber Centres and Their Locations",
     category: "Career",
     date: "2026-08-31",
     excerpt: "A comprehensive guide to NYSC accredited cyber centres where prospective corps members can complete their online registration for Batch C 2026 mobilisation. Find centres near you.",

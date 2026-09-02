@@ -15,7 +15,7 @@ const allPosts: Post[] = [
     category: "Education",
     date: "2026-08-04",
     excerpt: "The Olabisi Onabanjo University (OOU) has announced the official schedule for the 2026/2027 Post UTME screening exercise for candidates seeking admission into its undergraduate programmes.",
-    content: `<h1>OOU Releases 2026/2027 Post UTME Screening Schedule – Exam Dates and Examination Pass Printing Details</h1>
+    content: `
 
 <p>The Olabisi Onabanjo University (OOU) has announced the official schedule for the 2026/2027 Post UTME screening exercise for candidates seeking admission into its undergraduate programmes.</p>
 
@@ -16112,7 +16112,7 @@ const allPosts: Post[] = [
     category: "Career",
     date: "2026-08-31",
     excerpt: "The National Youth Service Corps (NYSC) has announced that online registration for the 2026 Batch C mobilisation will open on Monday, 7 September 2026. Here's a comprehensive guide to help eligible graduates navigate the registration process.",
-    content: `<h1>NYSC 2026 Batch C Online Registration Guide: Important Dates, Requirements and Instructions</h1>
+    content: `
 
 <p>The National Youth Service Corps (NYSC) has announced that <strong>online registration for the 2026 Batch C mobilisation will open on Monday, 7 September 2026</strong>, for eligible Nigerian graduates from universities and mono/polytechnics within Nigeria and abroad.</p>
 
@@ -16255,11 +16255,11 @@ const allPosts: Post[] = [
   },
   {
     id: "nysc-2026-batch-c-accredited-cyber-centres-and-locations",
-    title: "NYSC 2026 Batch C: Complete List of Accredited Cyber Centres and Their Locations",
+    title: "Complete List of Accredited Cyber Centres and Their Locations",
     category: "Career",
     date: "2026-08-31",
     excerpt: "A comprehensive guide to NYSC accredited cyber centres where prospective corps members can complete their online registration for Batch C 2026 mobilisation. Find centres near you.",
-    content: `<h1>NYSC 2026 Batch C: Complete List of Accredited Cyber Centres and Their Locations</h1>
+    content: `
 
 <p>The National Youth Service Corps (NYSC) provides a list of accredited cyber café operators where prospective Corps Members can complete their online registration for the 2026 Batch C mobilisation. These accredited centres are equipped with the necessary technology and support to guide applicants through the registration process.</p>
 
@@ -16292,7 +16292,7 @@ const allPosts: Post[] = [
 <p>Prospective Corps Members can locate accredited cyber centres through:</p>
 
 <ol>
-  <li><strong>NYSC Official Website:</strong> Visit the NYSC website for the comprehensive list of accredited cyber café operators organized by state and local government areas.</li>
+  <li><strong>NYSC Official Website:</strong> Visit the NYSC website or click <a href="https://nysccbo.org.ng/nyscbo/public/index.php/accredited/cbo/list" target="_blank">HERE</a> for the comprehensive list of accredited cyber café operators organized by state and local government areas.</li>
   <li><strong>NYSC State Offices:</strong> Contact your nearest NYSC State Coordination Office for a list of accredited centres in your area.</li>
   <li><strong>Call NYSC Hotline:</strong> Ring the NYSC helpline for information about centres in your location.</li>
   <li><strong>Ask Locally:</strong> Consult with other prospective corps members or recently completed corps members in your community for recommendations.</li>
@@ -16386,7 +16386,7 @@ const allPosts: Post[] = [
     category: "Education",
     date: "2026-08-31",
     excerpt: "Obafemi Awolowo University (OAU) has announced new dates for its 2026 Post UTME screening exercise. The screening will now take place from 25-30 September 2026, with registration closing on 23 September 2026.",
-    content: `<h1>OAU Post UTME Screening Dates Changed: New Schedule for 2026/2027 Admission</h1>
+    content: `
 
 <p>Obafemi Awolowo University (OAU), Ile-Ife has announced new dates for its <strong>2026 Post UTME screening exercise</strong> for prospective undergraduate admission candidates.</p>
 

@@ -32802,9 +32802,9 @@ const allJobs: Job[] = [
     deadline: "Not Specified"
   },
   {
-    id: "hyt-sales-bootcamp-2026-09-01",
+    id: "hyt-sales-bootcamp-2026-09-02",
     title: "HYT Sales Bootcamp",
-    date: "2026-09-01",
+    date: "2026-09-02",
     location: "Nigeria",
     type: "Training Program",
     salary: "Free",
@@ -32825,9 +32825,9 @@ const allJobs: Job[] = [
     deadline: "2026-09-15"
   },
   {
-    id: "fmcg-sales-representative-lagos-ibadan-2026-09-01",
+    id: "fmcg-sales-representative-lagos-ibadan-2026-09-02",
     title: "FMCG Sales Representative",
-    date: "2026-09-01",
+    date: "2026-09-02",
     location: "Lagos and Ibadan",
     type: "Full-time",
     salary: "Competitive",
@@ -32850,9 +32850,9 @@ const allJobs: Job[] = [
     deadline: "Not Specified"
   },
   {
-    id: "merchant-officer-lagos-ph-aba-2026-09-01",
+    id: "merchant-officer-lagos-ph-aba-2026-09-02",
     title: "Merchant Officer",
-    date: "2026-09-01",
+    date: "2026-09-02",
     location: "Lagos Mainland (Ibeju Lekki), Lagos Island, Aggrey Road Port Harcourt, Aba",
     type: "Full-time",
     salary: "₦200,000 + Commission, HMO & Pension",
@@ -32873,9 +32873,9 @@ const allJobs: Job[] = [
     deadline: "Not Specified"
   },
   {
-    id: "business-development-executive-vgc-lekki-hospitality-2026-09-01",
+    id: "business-development-executive-vgc-lekki-hospitality-2026-09-02",
     title: "Business Development Executive",
-    date: "2026-09-01",
+    date: "2026-09-02",
     location: "VGC, Lekki, Lagos",
     type: "Full-time",
     company: "Hospitality & Tourism",
@@ -32905,9 +32905,9 @@ const allJobs: Job[] = [
     deadline: "Not Specified"
   },
   {
-    id: "sales-executive-bnpl-lagos-2026-09-01",
+    id: "sales-executive-bnpl-lagos-2026-09-02",
     title: "Sales Executive - BNPL (Buy Now Pay Later)",
-    date: "2026-09-01",
+    date: "2026-09-02",
     location: "Lagos",
     type: "Full-time",
     salary: "₦86,000 + Commission up to ₦120,000",
@@ -32931,9 +32931,9 @@ const allJobs: Job[] = [
     deadline: "Not Specified"
   },
   {
-    id: "executive-assistant-ibadan-2026-09-01",
+    id: "executive-assistant-ibadan-2026-09-02",
     title: "Executive Assistant",
-    date: "2026-09-01",
+    date: "2026-09-02",
     location: "Ibadan",
     type: "Full-time",
     salary: "Competitive",
@@ -32955,9 +32955,9 @@ const allJobs: Job[] = [
     deadline: "Not Specified"
   },
   {
-    id: "business-development-marketing-officer-ikoyi-restaurant-2026-09-01",
+    id: "business-development-marketing-officer-ikoyi-restaurant-2026-09-02",
     title: "Business Development & Marketing Officer",
-    date: "2026-09-01",
+    date: "2026-09-02",
     location: "Ikoyi, Lagos",
     type: "Hybrid",
     company: "Premium 5-Star Restaurant",
@@ -32988,9 +32988,9 @@ const allJobs: Job[] = [
     deadline: "Not Specified"
   },
   {
-    id: "business-development-executive-hr-consulting-ikeja-2026-09-01",
+    id: "business-development-executive-hr-consulting-ikeja-2026-09-02",
     title: "Business Development Executive – HR Consulting",
-    date: "2026-09-01",
+    date: "2026-09-02",
     location: "Ikeja, Lagos",
     type: "Full-time",
     salary: "₦250,000 – ₦270,000",
@@ -33021,9 +33021,9 @@ const allJobs: Job[] = [
     deadline: "Not Specified"
   },
   {
-    id: "customer-escalation-resolution-officer-vi-2026-09-01",
+    id: "customer-escalation-resolution-officer-vi-2026-09-02",
     title: "Customer Escalation & Resolution Officer",
-    date: "2026-09-01",
+    date: "2026-09-02",
     location: "Victoria Island, Lagos",
     type: "Full-time",
     salary: "Competitive",
@@ -33054,9 +33054,9 @@ const allJobs: Job[] = [
     deadline: "Not Specified"
   },
   {
-    id: "quality-assurance-officer-vi-2026-09-01",
+    id: "quality-assurance-officer-vi-2026-09-02",
     title: "Quality Assurance Officer",
-    date: "2026-09-01",
+    date: "2026-09-02",
     location: "Victoria Island, Lagos",
     type: "Full-time",
     salary: "Competitive",
@@ -33086,9 +33086,9 @@ const allJobs: Job[] = [
     deadline: "Not Specified"
   },
   {
-    id: "shift-manager-pastry-gbagada-vi-2026-09-01",
+    id: "shift-manager-pastry-gbagada-vi-2026-09-02",
     title: "Shift Manager",
-    date: "2026-09-01",
+    date: "2026-09-02",
     location: "Gbagada & Victoria Island (VI), Lagos",
     type: "Full-time",
     salary: "₦70,000 Monthly",
@@ -33114,9 +33114,9 @@ const allJobs: Job[] = [
     deadline: "Not Specified"
   },
   {
-    id: "hr-compliance-officer-vgc-lekki-2026-09-01",
+    id: "hr-compliance-officer-vgc-lekki-2026-09-02",
     title: "HR Compliance Officer",
-    date: "2026-09-01",
+    date: "2026-09-02",
     location: "VGC, Lekki, Lagos",
     type: "Full-time",
     salary: "₦250,000 Monthly",
@@ -33151,9 +33151,9 @@ const allJobs: Job[] = [
     deadline: "Not Specified"
   },
   {
-    id: "virtual-admin-assistant-lekki-2026-09-01",
+    id: "virtual-admin-assistant-lekki-2026-09-02",
     title: "Virtual Admin Assistant",
-    date: "2026-09-01",
+    date: "2026-09-02",
     location: "Lekki, Lagos",
     type: "Virtual Hybrid",
     salary: "₦80,000 Monthly",
@@ -33185,9 +33185,9 @@ const allJobs: Job[] = [
     deadline: "Not Specified"
   },
   {
-    id: "sales-representative-fmcg-ilorin-2026-09-01",
+    id: "sales-representative-fmcg-ilorin-2026-09-02",
     title: "Sales Representative – FMCG (Ilorin)",
-    date: "2026-09-01",
+    date: "2026-09-02",
     location: "Ilorin",
     type: "Full-time",
     salary: "₦150,000",
@@ -33214,9 +33214,9 @@ const allJobs: Job[] = [
     deadline: "Not Specified"
   },
   {
-    id: "sales-representative-fmcg-jos-2026-09-01",
+    id: "sales-representative-fmcg-jos-2026-09-02",
     title: "Sales Representative – FMCG (Jos)",
-    date: "2026-09-01",
+    date: "2026-09-02",
     location: "Jos",
     type: "Full-time",
     salary: "₦150,000",
@@ -33243,9 +33243,9 @@ const allJobs: Job[] = [
     deadline: "Not Specified"
   },
   {
-    id: "sales-representative-fmcg-akure-2026-09-01",
+    id: "sales-representative-fmcg-akure-2026-09-02",
     title: "Sales Representative – FMCG (Akure)",
-    date: "2026-09-01",
+    date: "2026-09-02",
     location: "Akure",
     type: "Full-time",
     salary: "₦150,000",
@@ -33272,9 +33272,9 @@ const allJobs: Job[] = [
     deadline: "Not Specified"
   },
   {
-    id: "driver-victoria-island-2026-09-01",
+    id: "driver-victoria-island-2026-09-02",
     title: "Driver",
-    date: "2026-09-01",
+    date: "2026-09-02",
     location: "Victoria Island, Lagos",
     type: "Full-time",
     salary: "₦120,000 (Net)",
@@ -33297,9 +33297,9 @@ const allJobs: Job[] = [
     deadline: "Not Specified"
   },
   {
-    id: "sales-executive-advertising-ikeja-2026-09-01",
+    id: "sales-executive-advertising-ikeja-2026-09-02",
     title: "Sales Executive – Advertising",
-    date: "2026-09-01",
+    date: "2026-09-02",
     location: "Ikeja, Lagos",
     type: "Full-time",
     salary: "₦120,000 – ₦150,000 + Commission",
@@ -33324,9 +33324,9 @@ const allJobs: Job[] = [
     deadline: "Not Specified"
   },
   {
-    id: "business-development-executive-telecommunications-abuja-2026-09-01",
+    id: "business-development-executive-telecommunications-abuja-2026-09-02",
     title: "Business Development Executive – Telecommunications",
-    date: "2026-09-01",
+    date: "2026-09-02",
     location: "Abuja, Nigeria",
     type: "Full-time",
     salary: "₦320,000 – ₦480,000 + Sales Incentives",
@@ -33354,9 +33354,9 @@ const allJobs: Job[] = [
     deadline: "Not Specified"
   },
   {
-    id: "business-development-executive-telecommunications-port-harcourt-2026-09-01",
+    id: "business-development-executive-telecommunications-port-harcourt-2026-09-02",
     title: "Business Development Executive – Telecommunications (Port Harcourt)",
-    date: "2026-09-01",
+    date: "2026-09-02",
     location: "Port-Harcourt, Nigeria",
     type: "Full-time",
     salary: "₦320,000 – ₦480,000 + Sales Incentives",
@@ -33384,9 +33384,9 @@ const allJobs: Job[] = [
     deadline: "Not Specified"
   },
   {
-    id: "operations-manager-igando-ojota-2026-09-01",
+    id: "operations-manager-igando-ojota-2026-09-02",
     title: "Operations Manager",
-    date: "2026-09-01",
+    date: "2026-09-02",
     location: "Igando, Ojota, New Facilities & Ilupeju, Lagos",
     type: "Full-time",
     salary: "₦300,000 – ₦400,000 Gross",
@@ -33412,9 +33412,9 @@ const allJobs: Job[] = [
     deadline: "Not Specified"
   },
   {
-    id: "network-field-engineer-ibadan-2026-09-01",
+    id: "network-field-engineer-ibadan-2026-09-02",
     title: "Network Field Engineer",
-    date: "2026-09-01",
+    date: "2026-09-02",
     location: "Ibadan",
     type: "Full-time",
     salary: "₦160,000 – ₦200,000",
@@ -33440,9 +33440,9 @@ const allJobs: Job[] = [
     deadline: "Not Specified"
   },
   {
-    id: "office-assistant-oshodi-isolo-2026-09-01",
+    id: "office-assistant-oshodi-isolo-2026-09-02",
     title: "Office Assistant",
-    date: "2026-09-01",
+    date: "2026-09-02",
     location: "Oshodi/Isolo, Lagos",
     type: "Full-time",
     salary: "Competitive",
@@ -33466,9 +33466,9 @@ const allJobs: Job[] = [
     deadline: "Not Specified"
   },
   {
-    id: "head-of-marketing-automobile-lagos-2026-09-01",
+    id: "head-of-marketing-automobile-lagos-2026-09-02",
     title: "Head of Marketing – Automobile",
-    date: "2026-09-01",
+    date: "2026-09-02",
     location: "Lagos",
     type: "Full-time",
     salary: "Competitive",
@@ -33491,6 +33491,472 @@ const allJobs: Job[] = [
       "Strong commercial awareness and results-driven approach."
     ],
     apply: "Send CV to cv@ascentech.com.ng with 'Marketing head – Lagos' as subject",
+    deadline: "Not Specified"
+  },
+  {
+    id: "business-development-executive-vgc-lekki-hospitality-2026-09-02-repeat",
+    title: "Business Development Executive",
+    date: "2026-09-02",
+    location: "VGC, Lekki, Lagos",
+    type: "Full-time",
+    company: "Hospitality & Tourism",
+    salary: "₦250,000 – ₦300,000 Monthly",
+    gender: "Female",
+    summary: "Seeking an experienced, eloquent, and well-presented Sales/Business Development Executive with strong B2B and Corporate Sales experience and an established network of HNI and corporate clients.",
+    responsibilities: ["Generate and convert leads from HNI and corporate clients.", "Build relationships with senior executives and decision-makers.", "Conduct meetings, presentations, proposals, and follow-ups.", "Develop and close high-value business opportunities."],
+    requirements: ["Female with proven B2B or Corporate Sales experience.", "B2B/Corporate Sales experience is required.", "Existing HNI and corporate client network is an advantage.", "Excellent communication, negotiation, client acquisition, and closing skills.", "Hospitality experience is an added advantage."],
+    apply: "Send CV via WhatsApp: 08118157245",
+    deadline: "Not Specified"
+  },
+  {
+    id: "business-development-marketing-officer-ikoyi-restaurant-2026-09-02-repeat",
+    title: "Business Development & Marketing Officer",
+    date: "2026-09-02",
+    location: "Ikoyi, Lagos",
+    type: "Hybrid",
+    company: "Premium 5-Star Restaurant",
+    salary: "Initial Contract: ₦600,000 (Performance based) + Commission | Upon Confirmation: ₦900,000 (Performance based) + Commission",
+    summary: "Coinbox Limited is recruiting for a dynamic professional to drive sales, partnerships, high-value clients, and growth for a premium 5-star restaurant.",
+    responsibilities: ["Drive sales through corporate dining, private events, and catering.", "Generate leads and build relationships with corporate organisations, VIPs, and high-value clients.", "Develop partnerships, direct sales, client acquisition, and upselling opportunities.", "Support marketing initiatives, monitor market trends, and prepare reports."],
+    requirements: ["Bachelor's Degree from a recognised university.", "Minimum 3 years' experience in Business Development, Sales, or Marketing.", "Strong sales, negotiation, presentation, closing, and relationship-management skills.", "Proven ability to meet and exceed targets and thrive in a fast-paced environment."],
+    apply: "https://bit.ly/VacancyforBusinessdevelopmentandmarketingofficer",
+    deadline: "Not Specified"
+  },
+  {
+    id: "business-development-executive-telecommunications-abuja-2026-09-02-14",
+    title: "Business Development Executive – Telecommunications",
+    date: "2026-09-02",
+    location: "Abuja, Nigeria",
+    type: "Full-time",
+    salary: "₦320,000 – ₦480,000 + Sales Incentives",
+    summary: "Seeking a results-driven Business Development Executive to drive revenue growth, acquire clients, and promote telecommunications and internet solutions.",
+    responsibilities: ["Identify opportunities, generate leads, and achieve sales targets.", "Promote Internet Leased Lines, Broadband, FTTH/FTTX, VoIP, IoT, IPTV, and related solutions.", "Build relationships with decision-makers, prepare proposals, negotiate contracts, and close sales.", "Manage the CRM pipeline and prepare sales reports, forecasts, and business development plans."],
+    requirements: ["B.Sc. in Business Management, Marketing, or a related discipline.", "NYSC Certificate.", "2–4 years' experience in Telecommunications or ISP business development/sales.", "Strong telecom knowledge, communication, negotiation, presentation, CRM, and MS Office skills."],
+    apply: "Send CV to cv@ascentech.com.ng using 'Business Development Executive 14' as subject",
+    deadline: "Not Specified"
+  },
+  {
+    id: "business-development-executive-telecommunications-port-harcourt-2026-09-02-career",
+    title: "Business Development Executive – Telecommunications",
+    date: "2026-09-02",
+    location: "Port Harcourt, Rivers State",
+    type: "Full-time",
+    salary: "₦320,000 – ₦480,000 + Sales Incentives",
+    summary: "Seeking a results-driven sales professional with Telecommunications/ISP experience to identify opportunities, build client relationships, and drive growth.",
+    responsibilities: ["Identify and convert opportunities, build client relationships, and promote telecom and internet solutions.", "Generate leads, manage the sales pipeline, and close deals.", "Conduct client meetings, presentations, and follow-ups.", "Work with internal teams to ensure excellent customer experience."],
+    requirements: ["B.Sc. in Business Management, Marketing, or a related field.", "NYSC completion or certification.", "2–4 years' experience in Telecommunications or an ISP.", "Strong communication, negotiation, relationship-building, CRM, and Microsoft Office skills."],
+    apply: "Send CV to cv@ascentech.com.ng with 'Business Development Executive – Port Harcourt' as subject",
+    deadline: "Not Specified"
+  },
+  {
+    id: "business-development-executive-hr-consulting-ikeja-2026-09-02-short",
+    title: "Business Development Executive",
+    date: "2026-09-02",
+    location: "Ikeja, Lagos",
+    type: "Full-time",
+    company: "HR Consulting",
+    salary: "Not Specified",
+    summary: "Seeking a results-driven Business Development Executive to drive client acquisition and grow HR consulting, recruitment, outsourcing, and training services.",
+    responsibilities: ["Drive client acquisition and grow HR consulting, recruitment, outsourcing, and training services.", "Build client relationships and support business growth."],
+    requirements: ["Bachelor's Degree in a relevant field.", "3–5 years' experience in Business Development, Sales, HR Consulting, or Recruitment.", "Strong communication, negotiation, and client relationship management skills.", "HR consulting or recruitment experience is an added advantage."],
+    apply: "Send CV to bradfieldforms@gmail.con with 'Business Development Executive – HR' as subject",
+    deadline: "Not Specified"
+  },
+  {
+    id: "hr-executive-rice-production-kano-2026-09-02",
+    title: "HR Executive",
+    date: "2026-09-02",
+    location: "Kano",
+    type: "Full-time",
+    company: "Startup Rice Production Company",
+    salary: "₦180,000",
+    summary: "A startup rice production company in Kano is recruiting an HR Executive. Accommodation is available.",
+    responsibilities: [],
+    requirements: [
+      "2–3 years’ experience in a similar role.",
+      "Accommodation is available."
+    ],
+    apply: "Send your CV to egalitarianconsultingservices@gmail.com. For enquiries, call 07041589688.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "account-officer-rice-production-kano-2026-09-02",
+    title: "Account Officer",
+    date: "2026-09-02",
+    location: "Kano",
+    type: "Full-time",
+    company: "Startup Rice Production Company",
+    salary: "₦150,000",
+    summary: "A startup rice production company in Kano is recruiting an Account Officer. Accommodation is available.",
+    responsibilities: [],
+    requirements: [
+      "2–3 years’ experience in a similar role.",
+      "Accommodation is available."
+    ],
+    apply: "Send your CV to egalitarianconsultingservices@gmail.com. For enquiries, call 07041589688.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "quality-control-officer-rice-production-kano-2026-09-02",
+    title: "Quality Control Officer",
+    date: "2026-09-02",
+    location: "Kano",
+    type: "Full-time",
+    company: "Startup Rice Production Company",
+    salary: "₦150,000",
+    summary: "A startup rice production company in Kano is recruiting a Quality Control Officer. Accommodation is available.",
+    responsibilities: [],
+    requirements: [
+      "2–3 years’ experience in a similar role.",
+      "Accommodation is available."
+    ],
+    apply: "Send your CV to egalitarianconsultingservices@gmail.com. For enquiries, call 07041589688.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "store-keeper-rice-production-kano-2026-09-02",
+    title: "Store Keeper",
+    date: "2026-09-02",
+    location: "Kano",
+    type: "Full-time",
+    company: "Startup Rice Production Company",
+    salary: "₦120,000",
+    summary: "A startup rice production company in Kano is recruiting a Store Keeper. Accommodation is available.",
+    responsibilities: [],
+    requirements: [
+      "2–3 years’ experience in a similar role.",
+      "Accommodation is available."
+    ],
+    apply: "Send your CV to egalitarianconsultingservices@gmail.com. For enquiries, call 07041589688.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "farm-laboratory-technician-ogun-2026-09-02",
+    title: "Farm Laboratory Technician",
+    date: "2026-09-02",
+    location: "Ogun State",
+    type: "Full-time",
+    company: "Poultry Farm",
+    salary: "Not Specified",
+    summary: "We are seeking a skilled Farm Laboratory Technician to support laboratory testing, sample collection, disease monitoring, and quality control activities within the farm.",
+    responsibilities: [
+      "Collect, label, preserve, and document samples from birds, eggs, feed, water, litter, and environmental surfaces.",
+      "Assist with post-mortem sample collection and tissue preservation.",
+      "Perform routine laboratory tests including microscopy, bacterial culture, water quality, serological, feed, egg, and environmental examinations.",
+      "Prepare laboratory reagents, media, and other testing materials.",
+      "Operate, clean, calibrate, and maintain laboratory equipment.",
+      "Maintain accurate laboratory records and sample traceability.",
+      "Identify abnormal results and promptly report findings to the supervising Veterinarian.",
+      "Maintain strict laboratory safety, GLP, biosecurity, and hygiene standards."
+    ],
+    requirements: [
+      "OND/HND/B.Sc./B.Tech. in Medical Laboratory Technology/Science, Veterinary Laboratory Technology, Animal Health Technology, Microbiology, Biology, Biochemistry, Science Laboratory Technology, Animal Science, or a related discipline.",
+      "Relevant professional certification or registration is an added advantage.",
+      "Practical knowledge of laboratory procedures and testing equipment.",
+      "Good understanding of GLP, laboratory safety, and farm biosecurity.",
+      "Strong attention to detail, record-keeping, communication, and analytical skills.",
+      "Previous experience in a poultry or farm laboratory environment is an advantage."
+    ],
+    apply: "Send your CV to cv@ascentech.com.ng using Farm Laboratory Technician – Ogun State as the subject of the email.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "technician-electrical-mechanical-pdi-ev-lagos-2026-09-02",
+    title: "Technician – Electrical / Mechanical / PDI / EV",
+    date: "2026-09-02",
+    location: "Lagos, Nigeria",
+    type: "Full-time",
+    company: "Automobile",
+    salary: "Not Specified",
+    summary: "We are seeking skilled and motivated Electrical, Mechanical, PDI, and EV Technicians to join an aftersales and service team.",
+    responsibilities: [
+      "Perform preventive maintenance, diagnostics, and repairs on vehicles in accordance with manufacturer guidelines.",
+      "Diagnose and rectify electrical and mechanical faults using diagnostic equipment and technical manuals.",
+      "Conduct Pre-Delivery Inspections (PDI) to ensure vehicles meet quality and safety standards before customer delivery.",
+      "Carry out routine servicing, component replacement, and system testing.",
+      "Support inspection, maintenance, and basic troubleshooting of electric vehicle (EV) systems while adhering to high-voltage safety procedures.",
+      "Complete repair orders, inspection reports, and service documentation accurately and on time.",
+      "Ensure all work is completed within standard labor times while maintaining quality standards.",
+      "Maintain workshop tools, equipment, and work areas in a clean and safe condition.",
+      "Follow company policies, manufacturer procedures, and health, safety, and environmental regulations.",
+      "Collaborate effectively with service advisors, supervisors, and other technicians to achieve workshop targets."
+    ],
+    requirements: [
+      "OND, HND, Diploma, or Trade Test Certificate in Mechanical Engineering, Electrical Engineering, Automotive Engineering, or a related discipline.",
+      "1–3 years of relevant experience in the automobile industry.",
+      "Certification from an automotive OEM or recognized technical institution is an added advantage."
+    ],
+    apply: "Send your CV to cv@ascentech.com.ng using Technician-Victor as the subject of the email.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "workshop-mechanic-asset-care-officer-abuja-jos-lagos-2026-09-02",
+    title: "Workshop Mechanic (Asset Care Officer)",
+    date: "2026-09-02",
+    location: "Abuja, Jos & Lagos",
+    type: "Full-time",
+    company: "Leading FMCG Company",
+    salary: "Not Specified",
+    summary: "A leading FMCG company is seeking experienced Workshop Mechanics / Asset Care Officers to maintain and repair commercial vehicles and refrigerated vans.",
+    responsibilities: [
+      "Maintain and repair commercial vehicles and refrigerated vans.",
+      "Conduct preventive maintenance and respond to breakdowns.",
+      "Maintain accurate service records and ensure vehicles are safe and fit for operation."
+    ],
+    requirements: [
+      "Strong mechanical diagnostic and troubleshooting skills.",
+      "Knowledge of petrol and diesel engine systems.",
+      "Automotive electrical/electronic diagnostics and OBD scanner experience.",
+      "Knowledge of preventive and corrective maintenance.",
+      "Knowledge of braking, steering, suspension, and transmission systems.",
+      "Refrigeration or cold-chain knowledge.",
+      "Root Cause Analysis and workshop tools proficiency.",
+      "Experience working on commercial vehicles, fleets, refrigerated vans, or FMCG delivery vehicles is an advantage."
+    ],
+    apply: "Send your CV via WhatsApp to 09169852721.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "virtual-admin-assistant-lekki-2026-09-02",
+    title: "Virtual Admin Assistant",
+    date: "2026-09-02",
+    location: "Lekki, Lagos",
+    type: "Virtual Hybrid",
+    company: "Online Educational Community",
+    salary: "₦80,000 Monthly",
+    summary: "We are seeking a smart, organized, proactive, and tech-savvy Virtual Administrative Assistant to support the day-to-day operations of an online educational community.",
+    responsibilities: [
+      "Manage and engage the online community.",
+      "Respond to messages, enquiries, and member requests.",
+      "Manage community records and member information.",
+      "Perform accurate data entry and maintain databases.",
+      "Use Google Workspace for documentation, spreadsheets, forms, and communication.",
+      "Coordinate online meetings, classes, and activities.",
+      "Track attendance, participation, and member engagement.",
+      "Provide administrative and virtual support to the team.",
+      "Follow up on assigned tasks and ensure timely completion."
+    ],
+    requirements: [
+      "Community management, data entry, and record-keeping skills.",
+      "Proficiency in Google Docs, Sheets, Forms, Drive, Gmail, and Calendar.",
+      "Excellent written and verbal communication.",
+      "Strong organizational and follow-up skills.",
+      "Good attention to detail and accuracy.",
+      "Ability to multitask and work independently.",
+      "Basic knowledge of online meeting platforms such as Zoom and Google Meet.",
+      "Ability to learn new digital tools quickly.",
+      "Previous experience as a Virtual Assistant, Community Manager, Administrative Assistant, or in an online educational environment is an advantage."
+    ],
+    apply: "Send your CV with the heading VIRTUAL ASSISTANT to 08118157245.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "hr-compliance-officer-vgc-lekki-2026-09-02",
+    title: "HR Compliance Officer",
+    date: "2026-09-02",
+    location: "VGC, Lekki, Lagos",
+    type: "Full-time",
+    salary: "₦250,000 Monthly",
+    gender: "Male",
+    summary: "We are seeking a bold, firm, and experienced HR Compliance Officer to enforce policies, address misconduct, and ensure appropriate disciplinary action is taken.",
+    responsibilities: [
+      "Drive compliance and enforce organizational policies.",
+      "Handle disciplinary issues, investigations, warnings, sanctions, grievances, and employee relations.",
+      "Identify compliance gaps, investigate violations, and recommend appropriate corrective actions.",
+      "Monitor compliance across departments and ensure managers and employees follow established SOPs.",
+      "Maintain strong documentation and reporting on compliance matters."
+    ],
+    requirements: [
+      "Male, 40 years and above.",
+      "Proven experience in HR Compliance, Employee Relations, or a senior HR role.",
+      "Strong knowledge of HR policies, disciplinary procedures, labour laws, and statutory compliance.",
+      "Must be bold, firm, confident, and decisive in handling employee misconduct and disciplinary matters.",
+      "Strong experience handling disciplinary issues, investigations, warnings, sanctions, grievances, and employee relations.",
+      "Excellent communication, interpersonal, and conflict-resolution skills.",
+      "Hospitality industry experience is an added advantage.",
+      "Must be driven, proactive, mature, discreet, and results-oriented."
+    ],
+    apply: "Send your CV via WhatsApp to 07068198606.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "paralegal-intellectual-property-vi-lagos-2026-09-02",
+    title: "Paralegal",
+    date: "2026-09-02",
+    location: "Victoria Island, Lagos",
+    type: "Full-time",
+    salary: "Not Specified",
+    summary: "We are seeking a detail-oriented Paralegal to support the management of domestic and international intellectual property portfolios.",
+    responsibilities: [
+      "Support lawyers in the management of domestic and international IP portfolios.",
+      "Conduct trademark, patent, and copyright searches and assist with IP filings and registrations.",
+      "Monitor IP deadlines, renewals, applications, and prosecution matters to ensure timely action.",
+      "Liaise with clients, foreign associates, IP offices, and other stakeholders on IP matters.",
+      "Maintain accurate IP records, databases, files, and portfolio reports.",
+      "Provide general administrative and matter management support to the IP team."
+    ],
+    requirements: [
+      "Minimum of 2:1 or 2:2 from a recognized Nigerian university.",
+      "Strong attention to detail, organization, and time-management skills.",
+      "Excellent written and verbal communication and interpersonal skills.",
+      "Ability to manage multiple tasks, meet deadlines, and work effectively in a team.",
+      "Experience in Intellectual Property or a legal services environment is an advantage."
+    ],
+    apply: "Send your CV to atinuke.idowu@jee.africa.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "legal-officer-digital-bank-lagos-2026-09-02",
+    title: "Legal Officer",
+    date: "2026-09-02",
+    location: "Lagos, Nigeria",
+    type: "Hybrid",
+    company: "Digital Bank",
+    salary: "₦500,000 – ₦800,000 Monthly Net",
+    summary: "A digital bank in Lagos, Nigeria is recruiting a Legal Officer to join its Legal team.",
+    responsibilities: [
+      "Manage litigation matters, including working with external counsel, tracking court matters, and coordinating legal representation.",
+      "Engage with law enforcement and regulatory agencies, particularly the Police, EFCC, ICPC, CBN, NDIC, and NFIU, in relation to petitions, investigations, and regulatory enquiries.",
+      "Provide legal advisory, documentation, risk management, and reporting support.",
+      "Review legal claims, support investigations, manage legal records, and escalate material risks appropriately."
+    ],
+    requirements: [
+      "3–5 years of experience in litigation management and related legal work.",
+      "Strong legal advisory, documentation, risk management, and reporting skills."
+    ],
+    apply: "Apply via https://forms.gle/zqxvKekNBW4jYqdn9.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "studio-manager-radio-station-2026-09-02",
+    title: "Studio Manager",
+    date: "2026-09-02",
+    location: "Not Specified",
+    type: "Full-time",
+    company: "Radio Station",
+    salary: "Not Specified",
+    summary: "A reputable radio station is seeking an experienced and result-oriented Studio Manager to join its team.",
+    responsibilities: [
+      "Manage radio studio operations and live streaming across social media platforms.",
+      "Operate and troubleshoot studio equipment and support audio production.",
+      "Maintain strong technical standards for radio broadcasting and streaming."
+    ],
+    requirements: [
+      "Proven experience in radio studio management.",
+      "Strong technical knowledge of radio broadcasting and streaming.",
+      "Ability to manage live streaming across social media platforms.",
+      "Good knowledge of studio equipment, audio production, and troubleshooting.",
+      "Proactive, reliable, and result-oriented."
+    ],
+    apply: "Send your CV and portfolio to overtradio@gmail.com.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "marketing-executive-transaction-officer-nationwide-2026-09-02",
+    title: "Marketing Executive & Transaction Officer",
+    date: "2026-09-02",
+    location: "Nationwide",
+    type: "Full-time",
+    salary: "₦206,000 Net Monthly + Other Attractive Benefits",
+    summary: "We are hiring Marketing Executives and Transaction Officers nationwide. Applicants must state their exact preferred recruitment location on the application form.",
+    responsibilities: [],
+    requirements: [
+      "HND only, with a minimum of Upper Credit.",
+      "Not more than 30 years old.",
+      "Applicants must state their exact location, such as Owerri, Imo, on the application form."
+    ],
+    apply: "Apply via https://forms.gle/2SUaZdJaHJh8Fj5d7.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "business-development-officer-ladi-lak-bariga-2026-09-02",
+    title: "Business Development Officer",
+    date: "2026-09-02",
+    location: "Ladi-Lak, Bariga",
+    type: "Full-time",
+    company: "Interiors & Events",
+    salary: "₦200,000 – ₦300,000",
+    summary: "An Interiors & Events company is seeking a Business Development Officer to drive new business and meet revenue targets.",
+    responsibilities: [
+      "Generate new business and meet revenue targets.",
+      "Manage client relationships and accounts.",
+      "Prepare proposals, quotations, and pitches.",
+      "Identify upselling and cross-selling opportunities.",
+      "Monitor market trends and the sales pipeline.",
+      "Collaborate with design, production, and project teams."
+    ],
+    requirements: [
+      "Bachelor’s degree in Business, Marketing, Communications, or a related field.",
+      "3–5 years’ experience in Business Development or Sales.",
+      "Strong sales, negotiation, and communication skills.",
+      "Experience in events, experiential marketing, or fabrication is an advantage.",
+      "Proven record of achieving sales targets.",
+      "Proficiency in Microsoft Office and CRM tools."
+    ],
+    apply: "Apply via https://zfrmz.com/1NYDqNC9vtPcqOlhvz41.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "it-specialist-ikeja-lagos-2026-09-02",
+    title: "IT Specialist",
+    date: "2026-09-02",
+    location: "Ikeja, Lagos",
+    type: "Full-time (On-site)",
+    salary: "₦250,000 Net Monthly",
+    summary: "We are looking for a proactive and technically skilled IT Specialist to manage, monitor, and maintain the company’s IT and internet infrastructure.",
+    responsibilities: [
+      "Monitor and maintain the company’s internet and network connectivity.",
+      "Troubleshoot and resolve internet downtime, slow connectivity, and network-related issues.",
+      "Monitor network performance and proactively identify potential issues.",
+      "Liaise with ISPs to report faults, follow up on outages, and ensure timely resolution.",
+      "Manage and maintain routers, switches, Wi-Fi access points, and other networking equipment.",
+      "Provide technical support for internet, network, hardware, and basic software issues.",
+      "Ensure stable Wi-Fi and LAN connectivity across the office.",
+      "Recommend improvements to the company’s IT and network infrastructure.",
+      "Respond promptly to technical emergencies that may disrupt business operations."
+    ],
+    requirements: [
+      "Bachelor’s degree or relevant certification in Information Technology, Computer Science, Computer Engineering, or a related field.",
+      "Minimum of 2 years’ experience in IT support, network administration, or a similar role.",
+      "Strong knowledge of LAN, WAN, Wi-Fi, routers, switches, and internet connectivity.",
+      "Proven experience troubleshooting internet and network-related issues.",
+      "Experience working with and managing Internet Service Providers (ISPs)."
+    ],
+    apply: "Send your CV to Jobhq24@gmail.com with IT Specialist as the subject.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "talent-acquisition-specialist-recruiter-lekki-phase-1-2026-09-02",
+    title: "Talent Acquisition Specialist / Recruiter – 2",
+    date: "2026-09-02",
+    location: "Lekki Phase 1",
+    type: "Full-time",
+    salary: "₦200,000 – ₦250,000",
+    summary: "We are hiring a smart and proactive Talent Acquisition Specialist / Recruiter for immediate resumption.",
+    responsibilities: [],
+    requirements: [
+      "At least 2–3 years’ experience in recruitment.",
+      "Must have concluded NYSC.",
+      "Must be smart and proactive.",
+      "Should be available for immediate resumption."
+    ],
+    apply: "Send your CV to recruitwithpriscillia@gmail.com.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "recruitment-specialist-logistics-berger-lagos-2026-09-02",
+    title: "Recruitment Specialist",
+    date: "2026-09-02",
+    location: "Berger, Lagos",
+    type: "On-site",
+    company: "Logistics",
+    salary: "₦250,000",
+    summary: "A logistics company is hiring a core Recruitment Specialist to recruit quickly in its fast-paced industry.",
+    responsibilities: [],
+    requirements: [
+      "Minimum of 2–3 years’ experience in core recruitment, preferably in an HR consulting or fast-paced industry."
+    ],
+    apply: "Send your CV to recruitment@speedaf.com.",
     deadline: "Not Specified"
   },
 ];

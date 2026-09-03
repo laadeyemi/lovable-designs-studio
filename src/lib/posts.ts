@@ -10,6 +10,152 @@ export type Post = {
 
 const allPosts: Post[] = [
   {
+    id: "iaue-supplementary-admission-2026-2027",
+    title: "IAUE Supplementary Admission 2026/2027: Courses, Requirements, Fee and Application Deadline",
+    category: "Education",
+    date: "2026-09-03",
+    excerpt: "Ignatius Ajuru University of Education has opened supplementary admission applications for eligible UTME candidates for the 2026/2027 academic session.",
+    content: `<h2>IAUE Supplementary Admission for 2026/2027</h2>
+<p>Ignatius Ajuru University of Education (IAUE) has opened its supplementary admission exercise for the 2026/2027 academic session. The exercise is for eligible UTME candidates seeking admission into the departments with available spaces.</p>
+<p>Registration began on <strong>Monday, 31 August 2026</strong> and will close on <strong>Friday, 18 September 2026</strong>. The supplementary admission processing fee is <strong>N12,000.00</strong> and is payable through the university portal.</p>
+<p>Admission will be based strictly on supplementary applications submitted for the listed programmes. The university has stated that there will be no extension of the deadline.</p>
+
+<h2>IAUE Supplementary Admission Eligibility</h2>
+<p>The exercise is open to the following categories of candidates:</p>
+<ul>
+  <li>UTME candidates who selected IAUE as their first choice, registered for the 2026/2027 admission exercise, and have not been offered admission.</li>
+  <li>Candidates who did not participate in the earlier Post-UTME screening and were therefore not ranked.</li>
+  <li>Candidates who changed to IAUE but could not register for Post-UTME before the university portal closed.</li>
+</ul>
+<p>Applicants must have scored at least <strong>150 in UTME</strong> before they can be ranked for admission into the listed departments.</p>
+
+<h2>IAUE Supplementary Admission Courses</h2>
+<p>Candidates should select only a programme that matches their UTME and O'Level subject combinations.</p>
+<h3>Faculty of Administration and Management (B.Sc.)</h3>
+<ul><li>Office and Information Management</li><li>Banking and Finance</li><li>Entrepreneurship</li><li>Employment and Human Resources Management</li><li>Hospitality and Tourism Management</li></ul>
+<h3>Faculty of Natural and Applied Science (B.Sc.)</h3>
+<ul><li>Chemistry</li><li>Mathematics</li><li>Physics</li><li>Integrated Science</li><li>Geophysics</li><li>Industrial Chemistry</li><li>Statistics</li><li>Zoology</li><li>Information Technology</li></ul>
+<h3>Faculty of Social Science (B.Sc.)</h3>
+<ul><li>Geography and Environmental Studies</li><li>Social Work</li><li>Library and Information Science</li><li>Petroleum Economics and Policy Studies</li><li>Public Administration</li><li>Environmental Management</li></ul>
+<h3>Faculty of Humanities (B.A.)</h3>
+<ul><li>Foreign Languages and International Studies</li><li>Religious and Cultural Studies</li><li>Music</li><li>Fine and Applied Arts</li><li>Linguistics</li><li>Philosophy</li><li>Peace and Conflict Resolution</li><li>History and Diplomatics Studies</li></ul>
+<h3>Faculty of Vocational and Technical Education (B.Sc.Ed.)</h3>
+<ul><li>Agricultural Education</li><li>Home Economics</li><li>Technical Education, with options in Building Technology, Electrical/Electronics, Mechanical Technology, and Automobile Technology</li></ul>
+<h3>Faculty of Agriculture (B.Sc.)</h3>
+<ul><li>Agricultural Economics</li><li>Agricultural Extension</li><li>Animal Science</li><li>Fisheries and Aquaculture</li><li>Crop Science</li><li>Soil Science</li></ul>
+<h3>Faculty of Education</h3>
+<ul><li>Early Childhood</li><li>Primary Education Studies</li><li>Special Education</li><li>Educational Management</li><li>Guidance and Counselling</li><li>Adult Education, with options in English and Biology</li><li>Educational Technology</li></ul>
+<h3>Other Education Options</h3>
+<ul><li><strong>Arts Education:</strong> Education and French, Education and Religious Studies, Education and Music, Education and History, and Education Fine and Applied Arts.</li><li><strong>Business Education:</strong> Marketing Education and Secretarial Education.</li><li><strong>Science Education:</strong> Education and Chemistry, Education and Mathematics, Education and Physics, and Education and Integrated Science.</li><li><strong>Social Science Education:</strong> Education and Geography, Education and Political Science, Education and Economics, and Education and Social Studies.</li></ul>
+
+<h2>How to Apply for IAUE Supplementary Admission</h2>
+<ol>
+  <li>Log in to your JAMB profile and change your course to the desired IAUE programme through the change-of-institution link.</li>
+  <li>Confirm that the selected programme matches your UTME and O'Level subject combinations.</li>
+  <li>Upload your O'Level results to the JAMB portal if you have not already done so.</li>
+  <li>Log in to your profile on the <a href="https://enterpriseschoolsportal.iaue.edu.ng/">IAUE supplementary admission portal.</a></li>
+  <li>Pay the non-refundable <strong>N12,000.00</strong> processing fee through the university portal.</li>
+  <li>Select your preferred new course after checking the programme requirements on JAMB IBASS.</li>
+  <li>Continue checking JAMB CAPS for any admission offer.</li>
+</ol>
+<p>Choosing the wrong subject combination may lead to disqualification. The portal is open from 31 August to 18 September 2026, and no extension will be given.</p>
+
+<h2>IAUE Supplementary Admission Fee and Cut-Off Score</h2>
+<p>The processing fee is <strong>N12,000.00</strong> and is non-refundable. Candidates also need a UTME score of at least <strong>150</strong> to qualify for ranking. Meeting the score requirement does not replace the need for the correct UTME and O'Level combinations.</p>
+
+<h2>Checking Admission Status on JAMB CAPS</h2>
+<p>After completing the application, candidates should monitor JAMB CAPS regularly. The platform will display an admission offer when one has been made, and candidates should accept or reject the offer as required.</p>
+<p>For a related guide, read <a href="/blog/lasu-admission-list-2026-2027">LASU Admission List 2026/2027: How to Check Your Status</a>.</p>`,
+    tags: ["IAUE", "Supplementary Admission", "2026/2027", "UTME", "Education", "JAMB CAPS"],
+  },
+  {
+    id: "eaued-admission-list-2026-2027",
+    title: "EAUED Admission List 2026/2027 is Out: How to Check Your Status and Respond on JAMB CAPS",
+    category: "Education",
+    date: "2026-09-03",
+    excerpt: "Emmanuel Alayande University of Education has released its 2026/2027 admission list and reopened its portal for available programmes.",
+    content: `<h2>EAUED Admission List for 2026/2027 Has Been Released</h2>
+<p>Emmanuel Alayande University of Education (EAUED) has released its admission list for the 2026/2027 academic session. Candidates who participated in the admission exercise can now check their status through the university e-portal.</p>
+<p>Candidates who receive an offer must respond through JAMB CAPS and print their JAMB admission letter after accepting the admission.</p>
+
+<h2>How to Check the EAUED Admission List</h2>
+<p>Candidates can check their status using the login details provided during the application process:</p>
+<ol><li>Visit the <a href="https://eportal.eauedoyo.edu.ng/">EAUED admission portal</a>.</li><li>Enter the login details used during the application.</li><li>Open the <strong>Admission List</strong> section.</li><li>Check the admission status displayed on the portal.</li></ol>
+<p>Successful candidates should confirm the offer before proceeding to the JAMB acceptance stage.</p>
+
+<h2>EAUED Admission Acceptance on JAMB CAPS</h2>
+<p>Candidates whose names appear on the list are expected to accept or reject their offers through JAMB CAPS. After confirming the EAUED status, log in to JAMB CAPS and respond to the offer.</p>
+<p>The candidate should then print the JAMB admission letter and keep it for clearance and other registration procedures.</p>
+
+<h2>Programme Change for Candidates Not Yet Admitted</h2>
+<p>Candidates who were not offered admission in the first batch have another option. EAUED has reopened its portal to allow affected candidates to change to another programme where vacancies remain.</p>
+<p>No additional payment is required for the programme change. New applicants may also use the reopened portal to apply for programmes with available spaces. Candidates should observe the applicable deadlines shown on the portal.</p>
+
+<h2>What Candidates Should Do Next</h2>
+<ul><li>Check the EAUED portal with the same details used during application.</li><li>Accept or reject an offer on JAMB CAPS.</li><li>Print the JAMB admission letter after accepting the offer.</li><li>If not admitted, review the available programmes and consider a change through the application portal.</li></ul>
+<p>For another university admission-status guide, read <a href="/blog/lasu-admission-list-2026-2027">LASU Admission List 2026/2027: How to Check Your Status</a>.</p>`,
+    tags: ["EAUED", "Admission List", "2026/2027", "JAMB CAPS", "Education"],
+  },
+  {
+    id: "ospoly-hnd-admission-list-2026-2027",
+    title: "OSPOLY Iree HND Admission List 2026/2027 is Out: How to Check Your Status",
+    category: "Education",
+    date: "2026-09-03",
+    excerpt: "Osun State Polytechnic, Iree has released its HND admission list for the 2026/2027 academic session and admitted candidates can now check their status online.",
+    content: `<h2>OSPOLY HND Admission List for 2026/2027</h2>
+<p>Osun State Polytechnic, Iree (OSPOLY) has released the Higher National Diploma (HND) admission list for the 2026/2027 academic session. Candidates who participated in the HND screening exercise can now check their admission status through the polytechnic's online admission portal.</p>
+<p>Admitted candidates are required to pay the HND acceptance fee as the next step in confirming their admission.</p>
+
+<h2>OSPOLY HND Admission List Checking Portal</h2>
+<p>The admission status is available through the OSPOLY Iree admission portal. Candidates will need the username and password used during the application process, followed by their Notification Card details.</p>
+
+<h2>How to Check the OSPOLY HND Admission List</h2>
+<ol><li>Visit the <a href="https://portal.ospoly.edu.ng/account/login">OSPOLY Iree admission portal</a>.</li><li>Enter your username and password.</li><li>Select the login button to open your applicant dashboard.</li><li>Provide the Notification Card details when requested.</li><li>Proceed to view your HND admission status.</li></ol>
+<p>The portal login details and Notification Card information must be entered correctly before the status can be displayed.</p>
+
+<h2>What Are OSPOLY Notification Card Details?</h2>
+<p>Notification Card details form part of the stated admission-status checking process. After logging in with the username and password, candidates will be asked to provide the information on the card before they can view the result.</p>
+<p>Candidates should keep the required card details available before beginning the checking process.</p>
+
+<h2>What Admitted OSPOLY HND Candidates Should Do</h2>
+<p>Candidates who have been offered HND admission should pay the admission acceptance fee. Payment is the stated next step for confirming the admission place. The admission information supplied for this update does not state the acceptance-fee amount, so candidates should confirm the current amount and payment instructions on the official portal.</p>
+<p>For a related admission guide, read <a href="/blog/lasu-admission-list-2026-2027">LASU Admission List 2026/2027: How to Check Your Status</a>.</p>`,
+    tags: ["OSPOLY", "HND Admission", "Admission List", "2026/2027", "Education"],
+  },
+  {
+    id: "paau-admission-list-jamb-caps-2026-2027",
+    title: "PAAU Admission List 2026/2027: How to Check Status on JAMB CAPS and Accept Admission",
+    category: "Education",
+    date: "2026-09-03",
+    excerpt: "Prince Abubakar Audu University, formerly Kogi State University, has released its 2026/2027 admission status for candidates to check through JAMB CAPS.",
+    content: `<h2>PAAU Admission Status for 2026/2027</h2>
+<p>Prince Abubakar Audu University (PAAU), formerly known as Kogi State University (KSU), has released its admission list for the 2026/2027 academic session. Candidates who participated in the Post-UTME exercise can check their admission status through JAMB CAPS.</p>
+<p>The status may show that admission has been offered or that the application is still at another stage of the admission process. Candidates who receive an offer must accept or reject it through the stated JAMB channels before printing the JAMB admission letter.</p>
+
+<h2>How to Check the PAAU Admission List on JAMB CAPS</h2>
+<ol><li>Visit the <a href="https://efacility.jamb.gov.ng/">JAMB eFacility portal</a>.</li><li>Log in with the JAMB username and password linked to your application.</li><li>Scroll to <strong>Check Admission Status</strong> and select it.</li><li>Select <strong>Access my CAPS</strong>.</li><li>Open <strong>Admission Status</strong> to see whether PAAU has offered admission.</li></ol>
+<p>The response displayed on CAPS indicates the stage reached by the candidate's application.</p>
+
+<h2>Meaning of JAMB CAPS Admission Statuses</h2>
+<h3>Admission Offered</h3><p>This means JAMB has approved the admission. The candidate can accept or reject the offer through the available JAMB channels.</p>
+<h3>Admission in Progress</h3><p>Also shown as AIP, this means the school has reviewed the application and recommended the candidate. The recommendation is awaiting the required approval and final JAMB review.</p>
+<h3>Recommended</h3><p>This means the school has considered the candidate for admission and the application is awaiting JAMB review against the admission criteria.</p>
+<h3>Not Admitted</h3><p>This means the candidate has not yet been selected or considered for admission. The application may still be under consideration or the relevant list may not yet have been uploaded.</p>
+<h3>Pending</h3><p>This means the application remains under review and a final decision has not been made. Candidates should continue checking CAPS.</p>
+
+<h2>How Admitted PAAU Candidates Can Accept or Reject Admission</h2>
+<p>Candidates who have been offered admission can respond through biometrics at an approved JAMB CBT centre or by the stated SMS method.</p>
+<ul><li>For biometrics, visit an approved JAMB CBT centre.</li><li>For the SMS option, send <strong>ACCEPT</strong> or <strong>REJECT</strong> to <strong>55019</strong> or <strong>66019</strong> using the phone number registered with JAMB.</li><li>The registered line should have up to N50 in its main airtime balance because borrowed airtime or Xtra Credit is not used for the charge.</li></ul>
+
+<h2>Printing the JAMB Admission Letter</h2>
+<p>After accepting the PAAU admission offer, the candidate can proceed to print the JAMB admission letter. Acceptance should be completed before the letter is processed, and the printed document should be kept for clearance.</p>
+
+<h2>Using JAMB CAPS on a Phone</h2>
+<p>Some phone users may see only the CAPS welcome message without the admission-status options. To display the complete page, open the browser menu and request the desktop version of the site. On Chrome, select <strong>Request desktop site</strong>.</p>
+<p>For another guide on checking an admission list, read <a href="/blog/lasu-admission-list-2026-2027">LASU Admission List 2026/2027: How to Check Your Status</a>.</p>`,
+    tags: ["PAAU", "KSU", "Admission List", "JAMB CAPS", "2026/2027", "Education"],
+  },
+  {
     id: "oou-post-utme-screening-schedule-2026-2027",
     title: "OOU Releases 2026/2027 Post UTME Screening Schedule – Exam Dates and Examination Pass Printing Details",
     category: "Education",

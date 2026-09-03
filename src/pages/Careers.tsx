@@ -5,19 +5,29 @@ import { Footer } from "@/components/Footer";
 
 import { Job, jobs } from "@/lib/jobs";
 
+const normalizeFilterValue = (value: string) => value.trim().replace(/\s+/g, " ").toLowerCase();
+
 
 const Careers = () => {
   const [location, setLocation] = useState<string | null>(null);
   const [type, setType] = useState<string | null>(null);
   const [openJob, setOpenJob] = useState<string | null>(null);
 
-  const locations = useMemo(() => Array.from(new Set(jobs.map((j) => j.location))), []);
-  const types = useMemo(() => Array.from(new Set(jobs.map((j) => j.type))), []);
+  const locations = useMemo(() => {
+    const uniqueLocations = new Map<string, string>();
+    jobs.forEach((job) => uniqueLocations.set(normalizeFilterValue(job.location), job.location.trim()));
+    return Array.from(uniqueLocations.entries());
+  }, []);
+  const types = useMemo(() => {
+    const uniqueTypes = new Map<string, string>();
+    jobs.forEach((job) => uniqueTypes.set(normalizeFilterValue(job.type), job.type.trim()));
+    return Array.from(uniqueTypes.entries());
+  }, []);
 
   const filtered = useMemo(() => {
     return jobs.filter((j) => {
-      const matchesLocation = location ? j.location === location : true;
-      const matchesType = type ? j.type === type : true;
+      const matchesLocation = location ? normalizeFilterValue(j.location) === location : true;
+      const matchesType = type ? normalizeFilterValue(j.type) === type : true;
       return matchesLocation && matchesType;
     });
   }, [location, type]);
@@ -39,14 +49,14 @@ const Careers = () => {
             <div className="flex flex-col sm:flex-row gap-2 w-full sm:w-auto">
               <select className="rounded-md border border-border px-3 py-2 bg-card text-sm w-full sm:w-auto" value={location ?? ""} onChange={(e) => setLocation(e.target.value || null)}>
                 <option value="">All locations</option>
-                {locations.map((loc) => (
-                  <option key={loc} value={loc}>{loc}</option>
+                {locations.map(([value, label]) => (
+                  <option key={value} value={value}>{label}</option>
                 ))}
               </select>
               <select className="rounded-md border border-border px-3 py-2 bg-card text-sm w-full sm:w-auto" value={type ?? ""} onChange={(e) => setType(e.target.value || null)}>
                 <option value="">All types</option>
-                {types.map((t) => (
-                  <option key={t} value={t}>{t}</option>
+                {types.map(([value, label]) => (
+                  <option key={value} value={value}>{label}</option>
                 ))}
               </select>
             </div>

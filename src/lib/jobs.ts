@@ -46,7 +46,7 @@ function parseDeadline(deadlineString: string): string | null {
   return null; // Unable to parse, treat as non-expired
 }
 
-const currentDate = '2026-08-31'; // Current date for comparison (August 31, 2026)
+const currentDate = '2026-09-03'; // Current date for comparison (September 03, 2026)
 
 const allJobs: Job[] = [
   {
@@ -33957,6 +33957,146 @@ const allJobs: Job[] = [
       "Minimum of 2–3 years’ experience in core recruitment, preferably in an HR consulting or fast-paced industry."
     ],
     apply: "Send your CV to recruitment@speedaf.com.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "front-desk-officer-lagos-2026-09-03",
+    title: "Front Desk Officer",
+    date: "2026-09-03",
+    location: "Lagos",
+    type: "Full-time",
+    company: "PremiumHR Solution / Real Estate",
+    salary: "₦350,000 monthly, plus HMO, pension and other benefits",
+    summary: "PremiumHR Solution is recruiting a Front Desk Officer for a reputable, growing real estate client in Lagos.",
+    responsibilities: [],
+    requirements: ["OND, HND or B.Sc. in a related discipline.", "At least 2 years’ experience.", "Proficiency in Microsoft Office.", "Qualified candidates only. No fee to apply."],
+    apply: "https://tinyurl.com/y7chsyxc",
+    deadline: "Not Specified"
+  },
+  {
+    id: "experienced-sales-professionals-gtbank-2026-09-03",
+    title: "Experienced Sales Professionals",
+    date: "2026-09-03",
+    location: "Lagos Mainland & Island, Bonny Island (Rivers), Gombe, Azare (Bauchi) and Yola (Adamawa)",
+    type: "Full-time",
+    company: "GTBank",
+    salary: "Not Specified",
+    summary: "GTBank is hiring experienced sales professionals for roles across multiple locations in Nigeria.",
+    responsibilities: [],
+    requirements: ["A minimum of a 2:2 degree.", "2–5 years’ post-NYSC experience in sales, business development or relationship management."],
+    apply: "https://tinyurl.com/8jep9cha",
+    deadline: "Not Specified"
+  },
+  {
+    id: "customer-support-officer-bayelsa-2026-09-03",
+    title: "Customer Support Officer (Offline State Support)",
+    date: "2026-09-03",
+    location: "Bayelsa State",
+    type: "Full-time",
+    company: "Moniepoint Incorporated",
+    salary: "Not Specified",
+    summary: "Moniepoint Incorporated is recruiting a Customer Support Officer to provide offline state support in Bayelsa State.",
+    responsibilities: [],
+    requirements: ["Interested and qualified candidates are encouraged to apply."],
+    apply: "https://tinyurl.com/nhdctdvv",
+    deadline: "Not Specified"
+  },
+  {
+    id: "customer-service-representative-remote-2026-09-03",
+    title: "Customer Service Representative",
+    date: "2026-09-03",
+    location: "Remote",
+    type: "Full-time",
+    company: "Customer Experience BPO Firm",
+    salary: "N650,000 – N750,000 Monthly",
+    summary: "A Customer Experience BPO Firm is recruiting a Customer Service Representative to deliver excellent service remotely.",
+    responsibilities: [],
+    requirements: ["Passion for helping customers and delivering excellent service."],
+    apply: "https://tinyurl.com/3pp74m34",
+    deadline: "14th September, 2026"
+  },
+  {
+    id: "sales-executive-meyer-paints-2026-09-03",
+    title: "Sales Executive",
+    date: "2026-09-03",
+    location: "Abuja, Warri, Port Harcourt, Aba and Owerri",
+    type: "Full-time",
+    company: "Meyer Paints",
+    salary: "Not Specified",
+    summary: "Meyer Paints is hiring a Sales Executive for locations across Abuja and the South of Nigeria.",
+    responsibilities: [],
+    requirements: ["B.Sc. in Business or a related field.", "2–4 years’ sales experience.", "Paint industry experience is an advantage."],
+    apply: "https://deroundtable.com/meyer-plc-sales-executive-jobs-2026-apply-now/",
+    deadline: "Not Specified"
+  },
+  {
+    id: "graduate-trainee-hydropet-port-harcourt-2026-09-03",
+    title: "Graduate Trainee",
+    date: "2026-09-03",
+    location: "Port Harcourt, Rivers State",
+    type: "Full-time",
+    company: "Hydropet Oil Services Limited",
+    salary: "Not Specified",
+    summary: "Hydropet Oil Services Limited is hiring Graduate Trainees for management training and hands-on experience.",
+    responsibilities: ["Participate in management training and gain hands-on experience."],
+    requirements: ["B.Sc. or HND in any field.", "Minimum of Second Class Lower or HND Lower Credit.", "Goal-oriented and computer literate.", "High integrity and strong communication skills."],
+    apply: "https://tinyurl.com/ykzcmuad",
+    deadline: "7th September, 2026"
+  },
+  {
+    id: "global-traineeship-supply-chain-nigeria-2026-09-03",
+    title: "Global Traineeship Supply Chain – Nigeria",
+    date: "2026-09-03",
+    location: "Nigeria",
+    type: "Traineeship",
+    company: "FrieslandCampina",
+    salary: "Not Specified",
+    summary: "FrieslandCampina is recruiting for its Global Traineeship in Supply Chain in Nigeria.",
+    responsibilities: [],
+    requirements: ["0–2 years of work experience.", "Strong academic background from a relevant university.", "Minimum of a Second Class Upper degree in a supply chain-related field.", "Fluency in English.", "NYSC discharge certificate.", "Minimum of 5 O’level credits."],
+    apply: "https://mycareers.frieslandcampina.com/job/Global-Traineeship-Supply-Chain-Nigeria/62224-en_GB",
+    deadline: "Not Specified"
+  },
+  {
+    id: "bidding-tendering-document-controller-lagos-2026-09-03",
+    title: "Bidding/Tendering & Document Controller Officer",
+    date: "2026-09-03",
+    location: "Lagos",
+    type: "Full-time",
+    company: "Telmek Global",
+    salary: "Not Specified",
+    summary: "Telmek Global is seeking a Bidding/Tendering & Document Controller Officer to manage tender processes and document control.",
+    responsibilities: ["Manage end-to-end tender processes.", "Coordinate technical and commercial bid inputs.", "Monitor tender opportunities and submissions.", "Maintain bid/tender trackers and document registers.", "Ensure bid documentation and regulatory requirements are compliant.", "Manage document numbering, version control, filing and archiving."],
+    requirements: ["2–4 years’ experience in bidding/tendering or document control, preferably in oil & gas, energy, engineering or construction.", "Experience with NIPEX, ARIBA, SMART GEP and electronic document management systems.", "Knowledge of Nigerian local content and regulatory requirements is an advantage.", "CIPS or CPSMN certification is an advantage."],
+    apply: "careers@telmekglobal.com",
+    deadline: "30th September, 2026"
+  },
+  {
+    id: "plant-equipment-maintenance-supervisor-port-harcourt-2026-09-03",
+    title: "Plant Equipment Maintenance Supervisor",
+    date: "2026-09-03",
+    location: "Port Harcourt",
+    type: "Full-time",
+    company: "Oil & Gas Services Company",
+    salary: "Not Specified",
+    summary: "A leading oil and gas services company is hiring a Plant Equipment Maintenance Supervisor in Port Harcourt.",
+    responsibilities: ["Lead maintenance activities across generators, cranes, forklifts, air compressors, laboratory equipment, electrical systems, and instrumentation and control systems."],
+    requirements: ["HND or Bachelor’s Degree in Engineering or a related discipline.", "Strong knowledge of industrial maintenance practices.", "Experience managing maintenance teams within industrial, oil & gas, or heavy equipment environments."],
+    apply: "oluwatosin.arowosegbe@energy-mgt.com",
+    deadline: "Not Specified"
+  },
+  {
+    id: "electronic-technician-port-harcourt-2026-09-03",
+    title: "Electronic Technician",
+    date: "2026-09-03",
+    location: "Port Harcourt",
+    type: "Full-time",
+    company: "Oil & Gas Services Company",
+    salary: "Not Specified",
+    summary: "A leading oil and gas services company is hiring an Electronic Technician in Port Harcourt.",
+    responsibilities: ["Maintain, troubleshoot, repair, test, and calibrate electronic and electrical equipment supporting field operations."],
+    requirements: ["HND or Bachelor’s Degree in Engineering or a related discipline.", "Experience maintaining electronic and electro-mechanical equipment.", "Ability to read and interpret electrical drawings and schematics."],
+    apply: "oluwatosin.arowosegbe@energy-mgt.com",
     deadline: "Not Specified"
   },
 ];

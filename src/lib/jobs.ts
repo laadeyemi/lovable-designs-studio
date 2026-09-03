@@ -33961,6 +33961,26 @@ const allJobs: Job[] = [
   },
 ];
 
+function linkifyApplicationText(value: string): string {
+  const anchors: string[] = [];
+  const textWithoutAnchors = value.replace(/<a\b[^>]*>[\s\S]*?<\/a>/gi, (anchor) => {
+    anchors.push(anchor);
+    return `__JOB_APPLICATION_ANCHOR_${anchors.length - 1}__`;
+  });
+
+  const linkifiedText = textWithoutAnchors.replace(/(https?:\/\/[^\s<]+)|([\w.+-]+@[\w.-]+\.[A-Za-z]{2,})/g, (match, url, email) => {
+    if (url) {
+      const trailing = url.match(/[.,!?;:)]+$/)?.[0] ?? "";
+      const href = trailing ? url.slice(0, -trailing.length) : url;
+      return `<a href="${href}" target="_blank" rel="noopener noreferrer">${href}</a>${trailing}`;
+    }
+
+    return `<a href="mailto:${email}">${email}</a>`;
+  });
+
+  return linkifiedText.replace(/__JOB_APPLICATION_ANCHOR_(\d+)__/g, (_, index) => anchors[Number(index)]);
+}
+
 // Filter out expired jobs and then sort by date descending (most recent first)
 export const jobs = allJobs.filter(job => {
   const parsedDeadline = parseDeadline(job.deadline);
@@ -33969,5 +33989,8 @@ export const jobs = allJobs.filter(job => {
   }
   // Keep jobs where the deadline is on or after the current date
   return parsedDeadline >= currentDate;
-}).sort((a, b) => b.date.localeCompare(a.date));
+}).sort((a, b) => b.date.localeCompare(a.date)).map(job => ({
+  ...job,
+  apply: linkifyApplicationText(job.apply),
+}));
       

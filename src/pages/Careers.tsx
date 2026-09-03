@@ -26,7 +26,8 @@ const Careers = () => {
     <div className="min-h-screen bg-background">
       <AdBanner />
       <Navbar />
-
+
+
       <main className="container mx-auto px-4 sm:px-6 pt-20 sm:pt-40 pb-24">
         <header className="max-w-4xl mx-auto text-center mb-12">
           <h1 className="font-display text-2xl sm:text-4xl font-bold mb-2">Job Vacancies near you</h1>
@@ -52,21 +53,21 @@ const Careers = () => {
             <div className="text-sm text-muted-foreground">{filtered.length} open role(s)</div>
           </div>
 
-          <section className="grid grid-cols-1 md:grid-cols-2 gap-4 sm:gap-6">
+          <section className="grid min-w-0 grid-cols-1 md:grid-cols-2 gap-4 sm:gap-6">
             {filtered.map((job) => (
-  <div key={job.id} className="rounded-2xl border border-border p-4 sm:p-6 bg-card">
+  <div key={job.id} className="min-w-0 rounded-2xl border border-border p-4 sm:p-6 bg-card">
     <div className="flex items-start justify-between gap-4">
-      <div className="flex-1">
+      <div className="min-w-0 flex-1">
         <div className="flex items-center gap-3 mb-2">
-          <h3 className="font-display text-lg font-semibold">{job.title}</h3>
-          <span className="text-xs text-muted-foreground">{job.seniority}</span>
+          <h3 className="min-w-0 break-words font-display text-lg font-semibold">{job.title}</h3>
+          <span className="shrink-0 text-xs text-muted-foreground">{job.seniority}</span>
         </div>
 
         <div className="text-sm text-muted-foreground mb-4">
           {job.location} • {job.type}
         </div>
 
-        <p className="text-sm text-muted-foreground mb-4">{job.summary}</p>
+        <p className="mb-4 break-words text-sm text-muted-foreground">{job.summary}</p>
 
         {/* BUTTON ALWAYS VISIBLE */}
         <button
@@ -78,12 +79,12 @@ const Careers = () => {
 
         {/* DETAILS SHOWN ONLY WHEN OPEN */}
         {openJob === job.id && (
-          <div className="space-y-3 mb-4">
+          <div className="mb-4 min-w-0 space-y-3 break-words">
             <div>
               <strong>Responsibilities</strong>
               <ul className="list-disc ml-5 text-sm text-muted-foreground">
                 {job.responsibilities.map((r) => (
-                  <li key={r}>{r}</li>
+                  <li className="break-words" key={r}>{r}</li>
                 ))}
               </ul>
             </div>
@@ -92,14 +93,14 @@ const Careers = () => {
               <strong>Requirements</strong>
               <ul className="list-disc ml-5 text-sm text-muted-foreground">
                 {job.requirements.map((r) => (
-                  <li key={r}>{r}</li>
+                  <li className="break-words" key={r}>{r}</li>
                 ))}
               </ul>
             </div>
 
             <div>
               <strong>How to apply</strong>
-              <p className="text-sm text-muted-foreground [&_a]:text-yellow-500 [&_a]:hover:text-yellow-400 [&_a]:underline [&_a]:cursor-pointer" dangerouslySetInnerHTML={{ __html: job.apply }} />
+              <p className="break-words text-sm text-muted-foreground [&_a]:break-all [&_a]:text-yellow-500 [&_a]:hover:text-yellow-400 [&_a]:underline [&_a]:cursor-pointer" dangerouslySetInnerHTML={{ __html: job.apply }} />
             </div>
 
             <div>

@@ -1101,6 +1101,263 @@ const allPosts: Post[] = [
     tags: ["UNILORIN", "MBBS", "Admission", "Rumours", "Education", "Nigeria", "2026/2027"],
   },
   {
+    id: "fuhsi-school-fees-2026-2027",
+    title: "FUHSI School Fees 2026/2027: Approved Undergraduate Charges by Programme and Level",
+    category: "Education",
+    date: "2026-09-04",
+    excerpt: "The Federal University of Health Sciences, Ila-Orangun (FUHSI) has released the approved undergraduate school fees for the 2026/2027 academic session by programme and level of study.",
+    content: `<h2>FUHSI School Fees for 2026/2027 Academic Session</h2>
+<p>The Federal University of Health Sciences, Ila-Orangun (FUHSI), Osun State, has published the approved school fees payable by undergraduate students for the 2026/2027 academic session.</p>
+<p>Fees are set according to each degree programme and level of study. A 100 Level student will be required to make full payment at registration, while students from 200 Level to 500 Level will have their approved charges divided between the first and second semesters.</p>
+
+<h2>FUHSI School Fees by Programme and Level</h2>
+<p>The approved schedule of students' charges covers undergraduate programmes from 100 Level to 500 Level, where an amount is listed for the programme.</p>
+
+<table class="w-full border-collapse border border-gray-300 my-4 text-sm">
+  <thead>
+    <tr class="bg-gray-100 text-left">
+      <th class="border border-gray-300 p-2">S/N</th>
+      <th class="border border-gray-300 p-2">Degree Programme</th>
+      <th class="border border-gray-300 p-2 text-right">100 Level (₦)</th>
+      <th class="border border-gray-300 p-2 text-right">200 Level (₦)</th>
+      <th class="border border-gray-300 p-2 text-right">300 Level (₦)</th>
+      <th class="border border-gray-300 p-2 text-right">400 Level (₦)</th>
+      <th class="border border-gray-300 p-2 text-right">500 Level (₦)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td class="border border-gray-300 p-2">1</td><td class="border border-gray-300 p-2">Medicine and Surgery (MBBS)</td><td class="border border-gray-300 p-2 text-right">500,000.00</td><td class="border border-gray-300 p-2 text-right">320,000.00</td><td class="border border-gray-300 p-2 text-right">320,000.00</td><td class="border border-gray-300 p-2 text-right">320,000.00</td><td class="border border-gray-300 p-2 text-right">320,000.00</td></tr>
+    <tr><td class="border border-gray-300 p-2">2</td><td class="border border-gray-300 p-2">Nursing Science</td><td class="border border-gray-300 p-2 text-right">485,000.00</td><td class="border border-gray-300 p-2 text-right">305,000.00</td><td class="border border-gray-300 p-2 text-right">305,000.00</td><td class="border border-gray-300 p-2 text-right">305,000.00</td><td class="border border-gray-300 p-2 text-right">305,000.00</td></tr>
+    <tr><td class="border border-gray-300 p-2">3</td><td class="border border-gray-300 p-2">Doctor of Physiotherapy (DPT)</td><td class="border border-gray-300 p-2 text-right">485,000.00</td><td class="border border-gray-300 p-2 text-right">305,000.00</td><td class="border border-gray-300 p-2 text-right">305,000.00</td><td class="border border-gray-300 p-2 text-right">305,000.00</td><td class="border border-gray-300 p-2 text-right">Not listed</td></tr>
+    <tr><td class="border border-gray-300 p-2">4</td><td class="border border-gray-300 p-2">Prosthetics and Orthotics</td><td class="border border-gray-300 p-2 text-right">485,000.00</td><td class="border border-gray-300 p-2 text-right">305,000.00</td><td class="border border-gray-300 p-2 text-right">305,000.00</td><td class="border border-gray-300 p-2 text-right">305,000.00</td><td class="border border-gray-300 p-2 text-right">Not listed</td></tr>
+    <tr><td class="border border-gray-300 p-2">5</td><td class="border border-gray-300 p-2">Medical Laboratory Science</td><td class="border border-gray-300 p-2 text-right">485,000.00</td><td class="border border-gray-300 p-2 text-right">305,000.00</td><td class="border border-gray-300 p-2 text-right">305,000.00</td><td class="border border-gray-300 p-2 text-right">305,000.00</td><td class="border border-gray-300 p-2 text-right">270,000.00</td></tr>
+    <tr><td class="border border-gray-300 p-2">6</td><td class="border border-gray-300 p-2">Audiology</td><td class="border border-gray-300 p-2 text-right">485,000.00</td><td class="border border-gray-300 p-2 text-right">305,000.00</td><td class="border border-gray-300 p-2 text-right">305,000.00</td><td class="border border-gray-300 p-2 text-right">305,000.00</td><td class="border border-gray-300 p-2 text-right">270,000.00</td></tr>
+    <tr><td class="border border-gray-300 p-2">7</td><td class="border border-gray-300 p-2">Human Nutrition &amp; Dietetics</td><td class="border border-gray-300 p-2 text-right">285,000.00</td><td class="border border-gray-300 p-2 text-right">255,000.00</td><td class="border border-gray-300 p-2 text-right">255,000.00</td><td class="border border-gray-300 p-2 text-right">255,000.00</td><td class="border border-gray-300 p-2 text-right">Not listed</td></tr>
+    <tr><td class="border border-gray-300 p-2">8</td><td class="border border-gray-300 p-2">Environmental Health Science</td><td class="border border-gray-300 p-2 text-right">285,000.00</td><td class="border border-gray-300 p-2 text-right">255,000.00</td><td class="border border-gray-300 p-2 text-right">255,000.00</td><td class="border border-gray-300 p-2 text-right">255,000.00</td><td class="border border-gray-300 p-2 text-right">Not listed</td></tr>
+    <tr><td class="border border-gray-300 p-2">9</td><td class="border border-gray-300 p-2">IT &amp; Health Informatics</td><td class="border border-gray-300 p-2 text-right">285,000.00</td><td class="border border-gray-300 p-2 text-right">255,000.00</td><td class="border border-gray-300 p-2 text-right">255,000.00</td><td class="border border-gray-300 p-2 text-right">255,000.00</td><td class="border border-gray-300 p-2 text-right">220,000.00</td></tr>
+    <tr><td class="border border-gray-300 p-2">10</td><td class="border border-gray-300 p-2">Pharmacology</td><td class="border border-gray-300 p-2 text-right">265,000.00</td><td class="border border-gray-300 p-2 text-right">235,000.00</td><td class="border border-gray-300 p-2 text-right">235,000.00</td><td class="border border-gray-300 p-2 text-right">235,000.00</td><td class="border border-gray-300 p-2 text-right">Not listed</td></tr>
+    <tr><td class="border border-gray-300 p-2">11</td><td class="border border-gray-300 p-2">Microbiology</td><td class="border border-gray-300 p-2 text-right">265,000.00</td><td class="border border-gray-300 p-2 text-right">235,000.00</td><td class="border border-gray-300 p-2 text-right">235,000.00</td><td class="border border-gray-300 p-2 text-right">235,000.00</td><td class="border border-gray-300 p-2 text-right">Not listed</td></tr>
+    <tr><td class="border border-gray-300 p-2">12</td><td class="border border-gray-300 p-2">Biochemistry</td><td class="border border-gray-300 p-2 text-right">265,000.00</td><td class="border border-gray-300 p-2 text-right">235,000.00</td><td class="border border-gray-300 p-2 text-right">235,000.00</td><td class="border border-gray-300 p-2 text-right">235,000.00</td><td class="border border-gray-300 p-2 text-right">Not listed</td></tr>
+    <tr><td class="border border-gray-300 p-2">13</td><td class="border border-gray-300 p-2">Biotechnology &amp; Molecular Biology</td><td class="border border-gray-300 p-2 text-right">265,000.00</td><td class="border border-gray-300 p-2 text-right">235,000.00</td><td class="border border-gray-300 p-2 text-right">235,000.00</td><td class="border border-gray-300 p-2 text-right">235,000.00</td><td class="border border-gray-300 p-2 text-right">Not listed</td></tr>
+  </tbody>
+</table>
+
+<p>Medicine and Surgery students at 100 Level have an approved charge of ₦500,000, while the amount for 200 Level through 500 Level is ₦320,000 at each listed level.</p>
+<p>Nursing Science has a 100 Level charge of ₦485,000. Its listed charge from 200 Level through 500 Level is ₦305,000.</p>
+<p>Doctor of Physiotherapy and Prosthetics and Orthotics each have a 100 Level charge of ₦485,000, with ₦305,000 listed for 200 Level, 300 Level and 400 Level.</p>
+<p>Medical Laboratory Science and Audiology follow the same ₦485,000 charge at 100 Level and ₦305,000 from 200 Level through 400 Level. Their listed 500 Level charge is ₦270,000.</p>
+<p>Human Nutrition &amp; Dietetics and Environmental Health Science each have a 100 Level fee of ₦285,000, while the approved amount for 200 Level through 400 Level is ₦255,000.</p>
+<p>IT &amp; Health Informatics has a 100 Level charge of ₦285,000, ₦255,000 from 200 Level through 400 Level and ₦220,000 at 500 Level.</p>
+<p>Pharmacology, Microbiology, Biochemistry and Biotechnology &amp; Molecular Biology each have an approved 100 Level charge of ₦265,000. Their listed fee for 200 Level, 300 Level and 400 Level is ₦235,000.</p>
+
+<h2>FUHSI School Fee Payment Structure</h2>
+<p>The payment arrangement is based on the student's level.</p>
+
+<h3>100 Level Payment</h3>
+<p>Students at 100 Level will be required to pay 100% of the approved charge at registration.</p>
+<p>The full amount for the relevant degree programme will therefore be due at that stage.</p>
+
+<h3>200 Level to 500 Level Payment</h3>
+<p>Students from 200 Level to 500 Level will have the approved charge divided across both semesters.</p>
+<p>The payment structure is:</p>
+<ul>
+  <li>First semester: 60%</li>
+  <li>Second semester: 40%</li>
+</ul>
+<p>The split applies to the approved charge listed for the student's programme and level.</p>
+
+<h2>FUHSI Standalone Service Fees</h2>
+<p>FUHSI has also listed approved standalone service types and their fees for the 2026/2027 academic session.</p>
+<ul>
+  <li>Registration Fee: ₦50,000.00, Ref: FUHSI/BUR/IKP/003</li>
+  <li>Degree Certificate Fee: ₦80,000.00, Ref: FUHSI/BUR/IKP/005</li>
+  <li>Post-UTME Result Verification Fee: ₦1,000.00, Ref: FUHSI/BUR/IKP/006</li>
+</ul>
+<p>The listed references identify each approved service fee.</p>
+<p>For a related university fee guide, read <a href="/blog/uniabuja-school-fees-2026-2027">UNIBEN School Fees 2026/2027: Approved Charges for Undergraduate Students</a>.</p>`,
+    tags: ["FUHSI", "School Fees", "2026/2027", "Education", "Osun State", "Nigeria"],
+  },
+  {
+    id: "julius-berger-scholarship-2026",
+    title: "Julius Berger Scholarship 2026: Merit Award for Female Engineering Students in Nigerian Public Universities",
+    category: "Education",
+    date: "2026-09-04",
+    excerpt: "Julius Berger Nigeria Plc is accepting applications for its 2026 merit-based scholarship award for qualified female engineering students studying full-time at federal or state universities in Nigeria.",
+    content: `<h2>Julius Berger Scholarship 2026 for Female Engineering Students</h2>
+<p>Julius Berger Nigeria Plc (JBN) is accepting applications for its 2026 merit-based scholarship award for qualified female engineering students studying full time at Federal or State-owned universities in Nigeria.</p>
+<p>The scholarship forms part of the company's Corporate Social Responsibility activities within education and human capital development. Eligible applicants will be required to meet the stated citizenship, study level, university and academic performance conditions before submitting an application.</p>
+<p>Applications will be received online through SCHOLASTICA, the stated official platform for the JBN Scholarship, and all submissions must be completed on or before <strong>16 September 2026</strong>.</p>
+
+<h2>Julius Berger Scholarship Eligibility Requirements</h2>
+<p>The scholarship is open to female undergraduates who meet the stated conditions.</p>
+<p>An applicant must:</p>
+<ul>
+  <li>Be a citizen of Nigeria</li>
+  <li>Be female</li>
+  <li>Study at a Federal or State-owned university in Nigeria</li>
+  <li>Be in the Faculty of Engineering, Environmental or Technology</li>
+  <li>Be in the second year of full-time study</li>
+  <li>Attend a Nigerian Federal or State university accredited by the National Universities Commission</li>
+  <li>Have a minimum CGPA of 3.5 on a 5-grade system</li>
+</ul>
+<p>Applicants who do not meet the listed eligibility conditions fall outside the stated requirements for the award.</p>
+
+<h2>Eligible Courses for the Julius Berger Scholarship</h2>
+<p>The merit-based scholarship covers full-time female undergraduates studying any of the listed courses at public universities in Nigeria:</p>
+<ul>
+  <li>Architecture</li>
+  <li>Building and Construction Engineering</li>
+  <li>Building Engineering</li>
+  <li>Building Technology</li>
+  <li>Cartography</li>
+  <li>Chemical Engineering</li>
+  <li>Civil Engineering</li>
+  <li>Construction Engineering</li>
+  <li>Construction Project Management</li>
+  <li>Electrical Engineering</li>
+  <li>Land Surveying</li>
+  <li>Mechanical Engineering</li>
+  <li>Metallurgical and Materials Engineering</li>
+  <li>Metallurgy Engineering</li>
+  <li>Production Engineering</li>
+  <li>Project Management</li>
+  <li>Quantity Surveying</li>
+  <li>Structural Engineering</li>
+</ul>
+<p>Applicants will need to confirm that their course of study appears among the listed programmes before completing the application.</p>
+
+<h2>Documents Required for the Julius Berger Scholarship</h2>
+<p>Each applicant should have a valid personal email address and phone number before starting the online application.</p>
+<p>Personal and educational details will also be required.</p>
+<p>Scanned copies of the following documents must be uploaded:</p>
+<ul>
+  <li>Recent passport-sized photograph in JPEG format, not more than 200 kilobytes</li>
+  <li>University or JAMB admission letter</li>
+  <li>Unified Tertiary Matriculation Examination result</li>
+  <li>O'Level result or results</li>
+  <li>A'Level, OND or NCE result where applicable</li>
+  <li>Academic results for 100 Level</li>
+</ul>
+<p>The applicant's name should appear in the same order across the application and supporting documents. An affidavit or certificate should be uploaded where required when the names do not match.</p>
+
+<h2>How to Apply for the Julius Berger Scholarship 2026</h2>
+<p>Eligible candidates are to submit their applications online through the <a href="https://candidate.scholastica.ng/schemes/JBN2026" target="_blank">Julius Berger Scholarship application page</a>.</p>
+<p>The application process is as follows:</p>
+<ol>
+  <li>Click the <strong>Apply Now</strong> tab.</li>
+  <li>Select <strong>Register Now</strong> to create an account.</li>
+  <li>Open the activation message sent to the registered email address and activate the account.</li>
+  <li>Return to the <a href="https://candidate.scholastica.ng/schemes/JBN2026" target="_blank">JBN 2026 scholarship application page</a>.</li>
+  <li>Enter the registered email address and password.</li>
+  <li>Fill in the personal details, educational information, National Identification Number where available and other requested information, then upload the required scanned documents.</li>
+  <li>Check that the name entered in the application matches the names on all documents in the same order. An affidavit or certificate should be uploaded where required.</li>
+  <li>Open each uploaded document and confirm that it is clear and accurate.</li>
+  <li>Upload a passport photograph with a white background when the photo is requested.</li>
+  <li>Recheck the application information for errors.</li>
+  <li>Click <strong>Apply Now</strong> to submit the application.</li>
+  <li>A confirmation message will appear when the application has been submitted successfully.</li>
+  <li>Return to SCHOLASTICA, enter the registered email address and password, then download the applicant profile.</li>
+  <li>The downloaded profile should be signed by the applicant's Head of Department.</li>
+  <li>Upload the scanned copy of the signed profile for verification.</li>
+</ol>
+<p>Applicants who did not have a National Identification Number during the earlier stage will need to complete the stated NIN process and return to the scholarship application afterward.</p>
+
+<h2>NIN Requirement for Applicants Without a Number</h2>
+<p>An applicant who did not have a National Identification Number when completing the application details can use the supplied NIN registration guide to learn about the registration process.</p>
+<p>The stated process includes creating an account, completing the required fields and logging in with an email address and password to complete the form.</p>
+<p>After the form has been completed, a date can be scheduled for photograph and fingerprint capture. Registration may also be completed at a NIMC office.</p>
+<p>The applicant should then return to the Julius Berger Scholarship application page and update the application with the National Identification Number to complete the required information.</p>
+
+<h2>Julius Berger Scholarship Application Deadline</h2>
+<p>Applications must be submitted on or before <strong>16 September 2026</strong>.</p>
+<p>The examination date will be communicated only to shortlisted candidates. Julius Berger Nigeria Plc reserves the right to select and shortlist candidates.</p>
+<p>Only shortlisted candidates will be invited for the proctored computer-based test.</p>
+
+<h2>Scholarship Application Rules</h2>
+<ul>
+  <li>Application for the JBN Scholarship is free.</li>
+  <li>SCHOLASTICA is the official platform stated for the scholarship application and applicants should be wary of fraudulent websites requesting payment during the process.</li>
+  <li>Email applications are not accepted.</li>
+  <li>JBN does not assign representatives or agents to assist candidates with applications.</li>
+  <li>Any applicant found to have submitted false documents will be disqualified or withdrawn at any stage of the scholarship process.</li>
+  <li>Multiple applications attract a disqualification penalty from the scholarship organisation.</li>
+</ul>
+
+<h2>Julius Berger Scholarship Enquiries</h2>
+<p>Questions about the scholarship application may be sent to: <a href="mailto:scholastica@dragnet-solutions.com">scholastica@dragnet-solutions.com</a></p>
+<p>For a related scholarship opportunity, see <a href="/blog/tony-elumelu-foundation-2026-scholarship">Tony Elumelu Foundation 2026 Entrepreneurship Programme for African Entrepreneurs</a>.</p>`,
+    tags: ["Julius Berger", "Scholarship", "Engineering", "Women in STEM", "Education", "Nigeria"],
+  },
+  {
+    id: "lautech-post-utme-deadline-2026-2027",
+    title: "LAUTECH Extends 2026/2027 Post-UTME Application Deadline to 9 September 2026",
+    category: "Education",
+    date: "2026-09-04",
+    excerpt: "Ladoke Akintola University of Technology (LAUTECH) has extended the 2026/2027 Post-UTME application deadline from 2 September to 9 September 2026, while awaiting O'Level candidates must upload results before 15 September.",
+    content: `<h2>LAUTECH Extends 2026/2027 Post-UTME Application Deadline</h2>
+<p>Ladoke Akintola University of Technology (LAUTECH), Ogbomoso, has extended the application period for its 2026/2027 Post-UTME screening exercise from Wednesday, 2 September 2026 to 11:59 p.m. on Wednesday, 9 September 2026.</p>
+<p>Candidates who used awaiting O'Level results during their application will also be required to upload the results to the Joint Admissions and Matriculation Board Central Admissions Processing System, JAMB CAPS, on or before Tuesday, 15 September 2026.</p>
+<p>Direct Entry candidates have separate interview dates. Written and oral interviews will be held at 10.00 a.m. on Thursday, 10 September and Friday, 11 September 2026 at The Hall, LAUTECH, Ogbomoso.</p>
+
+<h2>LAUTECH Post-UTME Application Deadline</h2>
+<p>The 2026/2027 Post-UTME screening application period has been extended.</p>
+<p>The new closing date is Wednesday, 9 September 2026 and applications will close at 11:59 p.m.</p>
+<p>Candidates who still need details about the screening application may check the LAUTECH Post-UTME and Direct Entry screening information.</p>
+
+<h2>JAMB CAPS Deadline for Awaiting O'Level Results</h2>
+<p>Candidates who applied with awaiting O'Level results are required to upload those results to JAMB CAPS.</p>
+<p>The deadline is Tuesday, 15 September 2026.</p>
+<p>This requirement applies specifically to candidates whose O'Level results were awaiting at the time of application.</p>
+
+<h2>LAUTECH Direct Entry Interview Dates</h2>
+<p>Direct Entry candidates who applied to LAUTECH will be expected to attend written and oral interviews.</p>
+<p>The interviews are scheduled as follows:</p>
+<ul>
+  <li>Thursday, 10 September 2026</li>
+  <li>Friday, 11 September 2026</li>
+</ul>
+<p><strong>Time:</strong> 10.00 a.m.<br><strong>Venue:</strong> The Hall, LAUTECH, Ogbomoso</p>
+<p>Candidates will need to attend on the scheduled date.</p>
+<p>Failure to attend the interview as scheduled will result in automatic disqualification from the admission exercise.</p>
+
+<h2>Candidate Information and Fraud Warning</h2>
+<p>Candidates are required to provide accurate information during the admission process.</p>
+<p>Any candidate who provides false information will have the admission withdrawn and may also face prosecution.</p>
+<p>Candidates should also avoid dealings with unauthorised persons claiming to act for LAUTECH. The university will not accept responsibility for transactions carried out with such persons.</p>
+<p>For related screening updates, read <a href="/blog/ibadan-poly-post-utme-2026-2027">IBADAN POLY Post-UTME and Admission Information for 2026/2027 Session</a>.</p>`,
+    tags: ["LAUTECH", "Post UTME", "Direct Entry", "Admission", "2026/2027", "Education", "Nigeria"],
+  },
+  {
+    id: "northwest-university-post-utme-deadline-2026-2027",
+    title: "Northwest University Kano Extends Post-UTME and Direct Entry Registration Deadline to 6 September 2026",
+    category: "Education",
+    date: "2026-09-04",
+    excerpt: "Northwest University Kano has extended the Post-UTME and Direct Entry registration deadline to Sunday, 6 September 2026, with the same extension covering Change of Course applications.",
+    content: `<h2>Northwest University Kano Extends Registration Deadline</h2>
+<p>Northwest University Kano has extended the deadline for Post-UTME and Direct Entry registration for the 2026/2027 academic session to Sunday, 6 September 2026.</p>
+<p>The extension gives prospective candidates who have not completed their registration another opportunity to finish the process within the stated period. Candidates who still need to process a Change of Course are also covered by the extension.</p>
+<p>Eligible candidates are expected to complete the required process on or before the revised closing date.</p>
+
+<h2>Northwest University Post-UTME Registration Deadline</h2>
+<p>The Post-UTME registration deadline for the 2026/2027 academic session is now Sunday, 6 September 2026.</p>
+<p>Prospective candidates who have started but not completed their registration can use the extended period to finish the process.</p>
+<p>Candidates seeking more details about the screening exercise can check the Northwest University Post-UTME and Direct Entry screening guide.</p>
+
+<h2>Direct Entry Registration Extension</h2>
+<p>The same deadline applies to Direct Entry candidates.</p>
+<p>Direct Entry applicants who are yet to complete their registration have until Sunday, 6 September 2026 to do so within the extended period.</p>
+
+<h2>Change of Course Process</h2>
+<p>The extension also covers prospective candidates who still need to process a Change of Course.</p>
+<p>Such candidates are expected to use the available period and complete the required process before the deadline.</p>
+
+<h2>Final Date for Eligible Candidates</h2>
+<p>All eligible candidates who have not completed their registration or Change of Course process are encouraged to do so on or before Sunday, 6 September 2026.</p>
+<p>The extension ends on that date.</p>
+<p>For a related admission update, see <a href="/blog/federal-university-dutse-post-utme-direct-entry-2026-2027">Federal University Dutse Opens Post UTME and Direct Entry Screening for 2026/2027 Admission</a>.</p>`,
+    tags: ["Northwest University Kano", "Post UTME", "Direct Entry", "Change of Course", "2026/2027", "Education", "Nigeria"],
+  },
+  {
     id: "franco-british-international-university-admission-2026-2027",
     title: "Franco-British International University Opens Undergraduate Admission for 2026/2027 Academic Session",
     category: "Education",
@@ -1142,6 +1399,57 @@ const allPosts: Post[] = [
   <li>Pay the <strong>₦40,000 application and processing fee</strong> into the account number provided on the application form.</li>
   <li>Send your payment evidence together with your application number to the WhatsApp number indicated on the application form for confirmation.</li>
 </ol>
+
+<h3>Important Information for Applicants</h3>
+<p>Before submitting the application, candidates should ensure that:</p>
+<ul>
+  <li>Franco-British International University has been selected as their <strong>first-choice institution</strong> in JAMB.</li>
+  <li>Their <strong>JAMB registration number</strong> is entered correctly, as it will serve as both the username and password for portal access.</li>
+  <li>The course selected is among the approved undergraduate programmes offered by the university.</li>
+  <li>All information provided during registration is accurate and complete.</li>
+</ul>
+<p>Carefully reviewing your application before submission can help prevent delays during the admission process.</p>
+
+<h3>Contact Information</h3>
+<p>Applicants who require further clarification about the admission process may contact the university through any of the following phone numbers:</p>
+<ul>
+  <li><strong>09073388183</strong></li>
+  <li><strong>08030759727</strong></li>
+  <li><strong>08135421977</strong></li>
+</ul>
+<p>For more university admission news, you might find this post helpful: <a href="/blog/federal-university-dutse-post-utme-direct-entry-2026-2027">Federal University Dutse Opens Post UTME and Direct Entry Screening for 2026/2027 Admission</a>.</p>`,
+    tags: ["Franco-British International University", "FBIU", "Admission", "Undergraduate", "2026/2027", "Education", "Nigeria"],
+  },
+  {
+    id: "federal-university-dutse-post-utme-direct-entry-2026-2027",
+    title: "Federal University Dutse Opens Post UTME and Direct Entry Screening for 2026/2027 Admission",
+    category: "Education",
+    date: "2026-07-06",
+    excerpt: "Federal University Dutse (FUD) has commenced the online Post UTME and Direct Entry screening exercise for candidates seeking undergraduate admission into the institution for the 2026/2027 academic session.",
+    content: `<h2>Federal University Dutse Opens Post UTME and Direct Entry Screening for 2026/2027 Admission</h2>
+<p>Federal University Dutse (FUD) has commenced the online Post UTME and Direct Entry screening exercise for candidates seeking undergraduate admission into the institution for the 2026/2027 academic session.</p>
+<p>The online screening exercise will begin on <strong>Tuesday, 7 July 2026</strong>, and close on <strong>Monday, 10 August 2026</strong>. All UTME and Direct Entry applicants seeking admission into the university are required to participate in the screening exercise before the deadline.</p>
+
+<h3>Screening Exercise Schedule</h3>
+<p>The online screening portal will open on <strong>Tuesday, 7 July 2026</strong>, while registration will officially end on <strong>Monday, 10 August 2026</strong>.</p>
+<p>Candidates are advised to complete every stage of the screening process well before the closing date, as late applications may not be accepted.</p>
+
+<h3>Eligibility Requirements for FUD Admission Screening</h3>
+<p>Candidates must satisfy the university's admission requirements before they can participate in the online screening exercise.</p>
+<p>To be eligible:</p>
+<ul>
+  <li>UTME candidates must have selected <strong>Federal University Dutse</strong> as their first-choice institution.</li>
+  <li>Applicants must meet the approved UTME cut-off mark for their chosen course.</li>
+  <li>Direct Entry candidates must possess at least a <strong>Lower Credit</strong> at the National Diploma (ND) level.</li>
+  <li>Direct Entry applicants may also qualify with a minimum of <strong>8 points</strong> in NCE, IJMB, or equivalent qualifications.</li>
+  <li>Candidates must have at least <strong>five O'Level credit passes</strong>, including <strong>English Language</strong> and <strong>Mathematics</strong>.</li>
+  <li>The required O'Level credits must be obtained in <strong>not more than two sittings</strong>.</li>
+  <li>Participation in the online screening exercise is compulsory for all admission applicants.</li>
+</ul>
+
+<h3>Approved FUD Cut-Off Marks for 2026/2027 Admission</h3>
+<p>Federal University Dutse has released the approved UTME cut-off marks for all undergraduate programmes for the 2026/2027 admission exercise.</p>
+<p>Candidates should confirm that they meet the required score for their preferred course before proceeding with the screening registration.</p>
 
 <h3>Important Information for Applicants</h3>
 <p>Before submitting the application, candidates should ensure that:</p>

@@ -37118,6 +37118,1109 @@ const allJobs: Job[] = [
     apply: "Send your CV to bradfieldforms@gmail.com with the subject: Head of Admissions and Marketing.",
     deadline: "Not Specified"
   },
+  {
+    id: "graduate-trainee-warehouse-operations-agary-2026-09-18",
+    title: "Graduate Trainee – Warehouse / Operations",
+    date: "2026-09-18",
+    location: "Lagos",
+    type: "Full-time",
+    company: "Agary Pharmaceutical Limited",
+    salary: "Not Specified",
+    summary: "Agary Pharmaceutical Limited is recruiting Graduate Trainees for Warehouse and Operations roles to support efficient logistics and operational activities.",
+    responsibilities: [
+      "Support warehouse and operational processes.",
+      "Assist with stock handling and inventory coordination.",
+      "Support day-to-day production and logistics operations.",
+      "Maintain proper documentation and records.",
+      "Work closely with teams to ensure smooth operational flow."
+    ],
+    requirements: [
+      "Bachelor’s Degree or HND in Logistics, Supply Chain Management, Business Administration, Engineering or other relevant disciplines.",
+      "Must have completed the NYSC programme.",
+      "Strong attention to detail and good organisational skills.",
+      "Good numerical and analytical ability.",
+      "Proficiency in Microsoft Office, particularly Microsoft Excel.",
+      "Ability to work effectively both independently and as part of a team.",
+      "Willingness to learn, take initiative and adapt to a fast-paced work environment.",
+      "Previous experience in a warehouse, manufacturing or pharmaceutical environment will be an added advantage."
+    ],
+    apply: "Send CV to careers@agarypharm.net using the position as subject of email.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "remote-data-entry-assistant-2026-09-18",
+    title: "Remote Data Entry Assistant",
+    date: "2026-09-18",
+    location: "Remote",
+    type: "Part-Time, Flexible Working Hours",
+    salary: "Not Specified",
+    summary: "A remote data entry opportunity is available for a detail-oriented and organised candidate to support administrative and data management work.",
+    responsibilities: [
+      "Enter and update data accurately in company systems.",
+      "Maintain organised and accurate digital records.",
+      "Support administrative tasks and document management.",
+      "Meet assigned deadlines and maintain quality control.",
+      "Handle confidential information with care."
+    ],
+    requirements: [
+      "Previous experience in data entry, administration, or a similar role is advantageous.",
+      "Strong attention to detail and accuracy.",
+      "Good organisational and time management skills.",
+      "Ability to work systematically and meet deadlines.",
+      "Good written and verbal communication skills.",
+      "Ability to work independently.",
+      "Understanding of confidentiality and appropriate handling of sensitive information.",
+      "Fluency in reading and writing both Ukrainian and Russian is essential."
+    ],
+    apply: "Please submit your CV and a short cover letter in English through the application form by 28 September 2026. https://grc.orangehrmlive.com/external/#/recruitment-apply/candidate/vacancy/86",
+    deadline: "28 September 2026"
+  },
+  {
+    id: "strategy-impact-analyst-lafiya-2026-09-18",
+    title: "Strategy & Impact Analyst",
+    date: "2026-09-18",
+    location: "Nigeria",
+    type: "Full-Time, Remote",
+    company: "Lafiya",
+    salary: "₦300,000–₦400,000 Monthly",
+    summary: "Lafiya is hiring a Strategy & Impact Analyst to support programme and resource allocation decisions, evaluate interventions, and track performance across health programmes.",
+    responsibilities: [
+      "Conduct analysis to support programme and resource allocation decisions.",
+      "Maintain and update cost-effectiveness models.",
+      "Track unit costs and programme performance.",
+      "Build models to assess proposed programme improvements.",
+      "Research evidence across SRHR and global health interventions."
+    ],
+    requirements: [
+      "Bachelor’s Degree in Economics, Statistics, Data Science, Public Health, or a related field.",
+      "Experience with cost-effectiveness or decision-analysis modelling.",
+      "Strong Excel or Google Sheets skills.",
+      "Strong analytical, research, and communication skills.",
+      "Ability to work independently and manage multiple projects.",
+      "Knowledge of R or Python is an advantage."
+    ],
+    apply: "https://hiring.lafiya.org/r/zxd5O1",
+    deadline: "20 September 2026"
+  },
+  {
+    id: "trainee-technician-kuwait-2026-09-18",
+    title: "Trainee Technician",
+    date: "2026-09-18",
+    location: "Kuwait",
+    type: "Training Program / Internship",
+    company: "Leading Oil & Gas Company",
+    salary: "Not Specified",
+    summary: "A leading oil and gas company in Kuwait is recruiting for a 5-year structured training program where successful candidates may transition into a full-time Senior Technician role.",
+    responsibilities: [
+      "Participate in the structured five-year training and internship program.",
+      "Develop technical skills in a live oil and gas environment.",
+      "Learn and apply best practices in maintenance and operations.",
+      "Work toward the senior technician role after successful completion."
+    ],
+    requirements: [
+      "Diploma in Mechanical or Electrical Engineering.",
+      "Diploma transcripts.",
+      "Secondary School Certificate (10th and 12th Grade).",
+      "Primary School Certificate.",
+      "Valid International Passport."
+    ],
+    apply: "Interested candidates should compile their CV and all mandatory documents into a single PDF and send it to recruitment@noagroupofcompanies.com. Please mention “Trainee Technician” in the subject line.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "heritage-energy-openings-2026-09-18",
+    title: "Multiple Openings",
+    date: "2026-09-18",
+    location: "Nigeria",
+    type: "Full-time",
+    company: "Heritage Energy Operational Services Limited (HEOSL)",
+    salary: "Not Specified",
+    summary: "Heritage Energy Operational Services Limited (HEOSL) is recruiting experienced professionals across technical, engineering, operations, finance, HR, reservoir development, and production operations.",
+    responsibilities: [
+      "Contribute to technical, engineering, operations, finance, HR, reservoir development, and production operations work.",
+      "Support safe, efficient, and effective delivery in upstream oil and gas operations.",
+      "Drive performance, governance, and operational excellence across assigned functions."
+    ],
+    requirements: [
+      "Relevant professional, technical, or operational experience in the oil and gas sector.",
+      "Strong knowledge of the assigned discipline or function.",
+      "Ability to work in a high-performance upstream operations environment."
+    ],
+    apply: "Apply here: heritageenergy.bamboohr.com/careers",
+    deadline: "Not Specified"
+  },
+  {
+    id: "nobzo-customer-support-specialist-ibadan-2026-09-18",
+    title: "Customer Support Specialist",
+    date: "2026-09-18",
+    location: "Ibadan, Oyo (Remote)",
+    type: "Remote",
+    company: "NOBZO",
+    salary: "Not Specified",
+    summary: "NOBZO is recruiting a Customer Support Specialist to handle customer concerns with patience, professionalism, and efficient issue resolution.",
+    responsibilities: [
+      "Respond to customer inquiries and concerns professionally.",
+      "Resolve issues and support customer satisfaction.",
+      "Maintain quality service standards and customer relationships.",
+      "Support daily customer service operations."
+    ],
+    requirements: [
+      "OND, HND, or Bachelor’s Degree.",
+      "1–3 years’ experience in customer service or support.",
+      "Strong verbal and written communication skills.",
+      "Good problem-solving and conflict-resolution abilities.",
+      "Basic computer literacy and CRM knowledge.",
+      "Must reside in or be from Ibadan, Oyo State.",
+      "Yoruba language is an advantage."
+    ],
+    apply: "Apply Now: https://tinyurl.com/4zfrm6wb",
+    deadline: "Not Specified"
+  },
+  {
+    id: "flash-delivery-customer-experience-officer-2026-09-18",
+    title: "Customer Experience Officer",
+    date: "2026-09-18",
+    location: "Ojo / Trade Fair, Lagos",
+    type: "Full-time",
+    company: "Flash Delivery",
+    salary: "₦120,000 – ₦150,000 monthly",
+    summary: "Flash Delivery is hiring a Customer Experience Officer in Lagos to support customer satisfaction, service quality, and issue resolution.",
+    responsibilities: [
+      "Deliver excellent customer service and resolve queries.",
+      "Support customer experience activities and service touchpoints.",
+      "Handle complaints and provide practical resolutions.",
+      "Maintain a positive and professional customer relationship."
+    ],
+    requirements: [
+      "OND, HND or Bachelor’s Degree.",
+      "1–3 years’ customer service experience.",
+      "Good communication and problem-solving skills.",
+      "Customer service or logistics experience is an advantage."
+    ],
+    apply: "Apply Now: https://tinyurl.com/yc3956rj",
+    deadline: "10th October, 2026"
+  },
+  {
+    id: "tribest-call-centre-agent-2026-09-18",
+    title: "Call Centre Agent",
+    date: "2026-09-18",
+    location: "Lagos Island or Kano State",
+    type: "Full-time",
+    company: "Tribest Corporate Support Ltd",
+    salary: "Attractive Salary, HMO, Pension",
+    summary: "Tribest Corporate Support Ltd is hiring Call Centre Agents for Lagos Island or Kano State. Fluent Hausa or Igbo speakers are encouraged to apply.",
+    responsibilities: [
+      "Attend to customer inquiries and provide professional service.",
+      "Support customer communication and issue resolution.",
+      "Maintain excellent customer service standards and call quality."
+    ],
+    requirements: [
+      "Minimum: B.Sc. Second Class Lower or HND Upper Credit.",
+      "Age: 40 years maximum.",
+      "NYSC: Must be completed.",
+      "Basic computer skills required.",
+      "Hausa or Igbo speaking required."
+    ],
+    apply: "Apply here: https://tinyurl.com/2kdmtdhp",
+    deadline: "Not Specified"
+  },
+  {
+    id: "may-baker-audit-officer-2026-09-18",
+    title: "Audit Officer",
+    date: "2026-09-18",
+    location: "Lagos",
+    type: "Full-time",
+    company: "May & Baker Nigeria Plc",
+    salary: "Not Specified",
+    summary: "May & Baker Nigeria Plc is recruiting an Audit Officer to join its team in Lagos.",
+    responsibilities: [
+      "Support audit activities and financial review processes.",
+      "Assist with examination of records and internal controls.",
+      "Prepare reports and support compliance monitoring."
+    ],
+    requirements: [
+      "HND/BSc in Accountancy.",
+      "At least 2 years of manufacturing experience.",
+      "Excellent numerical and analytical skills.",
+      "Computer literacy and good knowledge of Microsoft Office."
+    ],
+    apply: "Apply Now: https://tinyurl.com/48b4ep4e",
+    deadline: "Not Specified"
+  },
+  {
+    id: "marketing-executives-lekki-2026-09-18",
+    title: "Marketing Executive",
+    date: "2026-09-18",
+    location: "Lekki Phase 1, Lagos",
+    type: "Full-time, Onsite",
+    salary: "Not Specified",
+    summary: "Our client is seeking results-driven Marketing Executives with strong sales and business development experience to drive customer acquisition, fund mobilization, revenue generation, and business growth across its financial products and advisory services.",
+    responsibilities: [
+      "Drive sales of financial products including POF, Cars for Cash, Employee Group Loans, Salary Advance/Payday Loans, and SME Loans.",
+      "Acquire and onboard new retail, corporate, and SME customers.",
+      "Identify and develop relationships with HNIs, corporates, and institutional investors.",
+      "Mobilize funds through investment and deposit products.",
+      "Generate and convert qualified leads into clients.",
+      "Build and maintain a strong sales pipeline.",
+      "Conduct client needs assessments and recommend suitable financial solutions.",
+      "Develop and execute field and digital marketing strategies.",
+      "Achieve assigned sales, revenue, and fund mobilization targets.",
+      "Build and maintain strong client relationships while identifying cross-selling and upselling opportunities.",
+      "Monitor market trends and competitor activities.",
+      "Maintain accurate sales records and prepare periodic performance reports."
+    ],
+    requirements: [
+      "2–4 years of sales/business development experience in banking or financial services is mandatory.",
+      "Proven track record in liability generation/fund mobilization and business growth.",
+      "Strong knowledge of financial products, including lending and investment products.",
+      "Demonstrated ability to consistently achieve sales and business targets.",
+      "Strong client relationship management and business development skills.",
+      "Excellent communication, presentation, and negotiation skills.",
+      "Ability to work independently and meet deadlines in a fast-paced environment.",
+      "Proficiency in Microsoft Excel, Word, and PowerPoint."
+    ],
+    apply: "Interested and qualified candidates should send their updated CV to resourcing@icsoutsourcing.com using “Marketing Executive – Lekki” as the subject of the application.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "bartender-vi-lagos-2026-09-18",
+    title: "Bartender",
+    date: "2026-09-18",
+    location: "V/I, Lagos",
+    type: "Full-time",
+    salary: "Open",
+    summary: "We are seeking an experienced and customer-focused Bartender to prepare and serve beverages while providing excellent customer service.",
+    responsibilities: [
+      "Prepare and serve beverages efficiently and professionally.",
+      "Provide excellent customer service to guests.",
+      "Maintain a clean and inviting bar environment.",
+      "Support fast-paced service and customer satisfaction."
+    ],
+    requirements: [
+      "Previous bartending experience preferred.",
+      "Good knowledge of cocktails and beverage service.",
+      "Excellent communication and customer service skills.",
+      "Neat, responsible, and able to work in a fast-paced environment."
+    ],
+    apply: "Interested candidates should send their CV to cv@ascentech.com.ng using the job title as the subject of the mail (Bartender 14)",
+    deadline: "Not Specified"
+  },
+  {
+    id: "estate-administrator-2026-09-18",
+    title: "Estate Administrator",
+    date: "2026-09-18",
+    location: "Lagos",
+    type: "Full-time",
+    salary: "₦200,000 monthly",
+    summary: "We are seeking a responsible, organized, and proactive Estate Administrator to oversee the smooth day-to-day running of the estate.",
+    responsibilities: [
+      "Manage daily estate administration and resident communication.",
+      "Supervise security, cleaners, gardeners, and other service providers.",
+      "Oversee maintenance, cleanliness, safety, and common areas.",
+      "Monitor access control and report security incidents.",
+      "Organize estate meetings, prepare agendas, and take minutes.",
+      "Maintain accurate estate and service records.",
+      "Obtain quotations and coordinate repairs and maintenance.",
+      "Enforce estate and construction guidelines.",
+      "Report issues and provide administrative support to EXCO."
+    ],
+    requirements: [
+      "OND or equivalent.",
+      "Minimum 2 years’ experience.",
+      "Good communication, organizational, and problem-solving skills.",
+      "Basic computer skills (Word, Excel, Email & WhatsApp).",
+      "Ability to prepare clear minutes and reports.",
+      "Experience in estate, facilities, or office administration is an advantage.",
+      "Honest, professional, trustworthy, and proactive."
+    ],
+    apply: "Send your CV to bradfieldforms@gmail.com. Subject: Estate Administrator",
+    deadline: "Not Specified"
+  },
+  {
+    id: "pastry-workers-agodi-gate-ibadan-2026-09-18",
+    title: "Pastry Worker",
+    date: "2026-09-18",
+    location: "Agodi Gate, adjacent to Watershed Lounge & Game Center, Ibadan",
+    type: "Full-time",
+    salary: "Not Specified",
+    summary: "One of our clients is currently recruiting pastry workers, preferably aged 22–27, with females more preferred. Candidates must be ready to resume immediately.",
+    responsibilities: [
+      "Prepare and support pastry production activities.",
+      "Assist with baking and food preparation tasks.",
+      "Maintain food safety and hygiene standards.",
+      "Support the kitchen or pastry team during service."
+    ],
+    requirements: [
+      "Preferably aged 22–27.",
+      "Female candidates are more preferred.",
+      "Experienced pastry workers are welcome; training is available for those without prior experience.",
+      "Candidates must be ready to resume immediately."
+    ],
+    apply: "Apply: eatriteconsult@gmail.com",
+    deadline: "Not Specified"
+  },
+  {
+    id: "marketing-manager-gbagada-2026-09-18",
+    title: "Marketing Manager",
+    date: "2026-09-18",
+    location: "Gbagada, Lagos",
+    type: "Full-time",
+    salary: "₦300,000 monthly",
+    company: "Beauty & Wellness E-commerce Brand",
+    summary: "Our client is a fast-growing Nigerian Beauty & Wellness E-commerce brand with a strong Pay-on-Delivery sales model. We are looking for an experienced Marketing Manager who understands how to drive online sales, acquire customers and grow an e-commerce brand.",
+    responsibilities: [
+      "Drive online sales and customer acquisition.",
+      "Develop and execute digital marketing strategies.",
+      "Grow the brand and improve conversion performance.",
+      "Analyse customer behaviour and campaign performance.",
+      "Support brand awareness and revenue growth."
+    ],
+    requirements: [
+      "3+ years of experience in Marketing, preferably within E-commerce, Beauty, Wellness, FMCG or Retail.",
+      "Must have proven e-commerce marketing experience.",
+      "Strong understanding of digital marketing, social media marketing and online customer acquisition.",
+      "Experience running and optimizing marketing campaigns to drive sales and conversions.",
+      "Good understanding of customer behaviour and the Nigerian online shopping market.",
+      "Experience with Meta Ads, Google Ads and other digital marketing channels is an advantage.",
+      "Strong analytical, communication and creative problem-solving skills.",
+      "Ability to develop and execute strategies that increase brand awareness, customer acquisition and revenue."
+    ],
+    apply: "Send your CV to david.eyo.talentpool@gmail.com",
+    deadline: "Not Specified"
+  },
+  {
+    id: "media-buyer-gbagada-2026-09-18",
+    title: "Media Buyer",
+    date: "2026-09-18",
+    location: "Gbagada, Lagos",
+    type: "Full-Time, On-site",
+    salary: "₦250,000 – ₦300,000/month",
+    summary: "We are hiring an experienced Media Buyer for a fast-growing Nigerian e-commerce business in the beauty and wellness industry.",
+    responsibilities: [
+      "Plan, launch and manage paid advertising campaigns across Meta and other relevant platforms.",
+      "Monitor ad performance, conversions, cost per acquisition and return on ad spend (ROAS).",
+      "Test different creatives, audiences and campaign strategies to improve results.",
+      "Optimise campaigns and budgets based on performance.",
+      "Work closely with the marketing and sales teams to drive quality leads and delivered orders.",
+      "Prepare regular performance reports and provide actionable insights."
+    ],
+    requirements: [
+      "2+ years of experience in media buying/performance marketing.",
+      "Proven experience running and scaling Meta Ads.",
+      "Strong understanding of Facebook Ads Manager, targeting, retargeting and campaign optimisation.",
+      "Experience in e-commerce, preferably pay-on-delivery, is highly desirable.",
+      "Strong analytical and problem-solving skills.",
+      "Ability to work with targets and performance-based metrics."
+    ],
+    apply: "Send your CV to David.eyo.talentpool@gmail.com. Subject: Media Buyer – Gbagada",
+    deadline: "Not Specified"
+  },
+  {
+    id: "business-manager-gbagada-2026-09-18",
+    title: "Business Manager",
+    date: "2026-09-18",
+    location: "Gbagada, Lagos",
+    type: "Full-time, On-site",
+    salary: "₦300,000 monthly + Performance Bonus on delivered orders",
+    summary: "A fast-growing Nigerian beauty and wellness company is looking for an experienced Business Manager to oversee daily operations and ensure the business runs efficiently.",
+    responsibilities: [
+      "Manage daily business operations, dispatch, and delivery partners.",
+      "Monitor delivery performance and identify ways to improve delivery rates.",
+      "Track stock levels and ensure timely replenishment.",
+      "Handle pay-on-delivery cash reconciliation and prevent shortfalls.",
+      "Manage and hold the sales team accountable for daily targets.",
+      "Identify operational problems and implement practical solutions.",
+      "Monitor key operational and financial performance numbers."
+    ],
+    requirements: [
+      "Proven experience managing operations in a Nigerian e-commerce or retail business.",
+      "Experience managing dispatch riders or delivery partners.",
+      "Strong understanding of inventory and cash reconciliation.",
+      "Proven ability to manage teams and drive daily targets.",
+      "Strong attention to detail, problem-solving, and leadership skills.",
+      "Ability to work independently with minimal supervision."
+    ],
+    apply: "Send your CV plus five lines about an operation you successfully improved, including measurable results to David.eyo.talentpool@gmail.com. Subject: Business Manager – Gbagada",
+    deadline: "Not Specified"
+  },
+  {
+    id: "driver-ikeja-professional-2026-09-18",
+    title: "Driver",
+    date: "2026-09-18",
+    location: "Ikeja",
+    type: "Full-time",
+    salary: "₦150,000 monthly",
+    summary: "A reputable company in Ikeja is looking for a professional and responsible driver.",
+    responsibilities: [
+      "Provide safe and reliable transportation services.",
+      "Drive responsibly and maintain professionalism at all times.",
+      "Ensure timely movement and compliance with company vehicle standards."
+    ],
+    requirements: [
+      "Must be agile and middle aged.",
+      "Must have a valid Driver’s Licence.",
+      "Previous experience driving professionally.",
+      "Must be patient, responsible, punctual, safety-conscious, and able to maintain a calm and professional attitude.",
+      "Must have good knowledge of Lagos routes and be comfortable driving manual and automatic vehicles."
+    ],
+    apply: "Send your CV to cdchire1@gmail.com",
+    deadline: "Not Specified"
+  },
+  {
+    id: "dispatch-rider-lagos-2026-09-18",
+    title: "Dispatch Rider",
+    date: "2026-09-18",
+    location: "Island & Mainland Lagos",
+    type: "Full-time",
+    salary: "Per Dispatch/Delivery",
+    summary: "Dispatch riders are urgently needed for island and mainland delivery operations in Lagos.",
+    responsibilities: [
+      "Deliver packages safely and on time.",
+      "Navigate Lagos routes efficiently.",
+      "Maintain communication with customers and dispatch team.",
+      "Meet daily dispatch targets."
+    ],
+    requirements: [
+      "Minimum 2–3 years’ experience as a Dispatch Rider.",
+      "Valid rider’s licence.",
+      "Good knowledge of Lagos routes and navigation.",
+      "Must have a reliable smartphone.",
+      "Good communication and customer service skills.",
+      "Must be responsible, punctual, and safety-conscious.",
+      "Must be able to meet daily dispatch targets."
+    ],
+    apply: "Interested candidates should send their CV via WhatsApp (chat only) 07050740456. Apply now!",
+    deadline: "Not Specified"
+  },
+  {
+    id: "retail-sales-executives-banking-2026-09-18",
+    title: "Retail Sales Executive (Banking)",
+    date: "2026-09-18",
+    location: "Ogba, Ojodu Berger, Muri Okunola, Chevron, Idi Araba & Orile Coker",
+    type: "Full-time",
+    salary: "₦199,000 + HMO, Pension, 13th Month & Leave Allowance",
+    summary: "We are seeking customer-focused individuals to acquire new customers, promote banking products and services, and achieve sales targets.",
+    responsibilities: [
+      "Acquire new customers and promote banking products and services.",
+      "Drive sales and meet assigned targets.",
+      "Build customer relationships and support retention.",
+      "Provide quality customer experience and product information."
+    ],
+    requirements: [
+      "HND/BSc.",
+      "28 years and below.",
+      "NYSC completion compulsory.",
+      "Strong communication and sales skills."
+    ],
+    apply: "Apply here: https://forms.gle/Q37qxtVLKXSYZUA68",
+    deadline: "Not Specified"
+  },
+  {
+    id: "operations-contract-manager-lagos-2026-09-18",
+    title: "Operations & Contract Manager",
+    date: "2026-09-18",
+    location: "Lagos, Nigeria",
+    type: "Full-Time",
+    salary: "Not Specified",
+    summary: "We’re hiring an Operations Manager to lead the technical, operational, and regulatory management of our offshore vessel fleet.",
+    responsibilities: [
+      "Ensure compliance with Flag State, IMCA, and industry best practices, including DP operations and Safe Systems of Work.",
+      "Oversee DP equipment readiness, the Annual DP Programme, and OVID/vetting management.",
+      "Maintain vessels to a high technical standard through an effective planned maintenance system.",
+      "Support tendering, repair specifications, and client requirements.",
+      "Manage fleet budgets and flag risks to Senior Management.",
+      "Lead crew management — manning compliance, recruitment, performance, training, and rotations.",
+      "Conduct offshore vessel visits as required."
+    ],
+    requirements: [
+      "Chief Engineer or Master’s Licence, or an equivalent Maritime Professional Qualification.",
+      "Minimum 3 years’ experience managing offshore fleet operations.",
+      "Strong background in Offshore Vessel Owning Management."
+    ],
+    apply: "Qualified and interested candidates should kindly send CVs to 07078552438. No call please.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "inventory-warehouse-manager-abuja-2026-09-18",
+    title: "Inventory & Warehouse Manager",
+    date: "2026-09-18",
+    location: "Abuja",
+    type: "Full-Time | Permanent",
+    salary: "Not Specified",
+    summary: "We are seeking an experienced Inventory & Warehouse Manager to take ownership of inventory and warehouse operations across multiple locations in Abuja.",
+    responsibilities: [
+      "Lead physical stock-taking, counting, identification, and organisation of inventory.",
+      "Establish effective systems for receiving, storing, locating, moving, and reconciling stock.",
+      "Maintain accurate inventory records using Excel and inventory management systems.",
+      "Coordinate warehouse activities across multiple locations.",
+      "Supervise inventory and warehouse support staff and allocate daily tasks.",
+      "Track stock by product, quantity, location, container/batch, and purchase history.",
+      "Identify and resolve stock discrepancies, missing items, damaged stock, and unexplained movements.",
+      "Work with management and the technology team on inventory-system implementation.",
+      "Develop and implement practical warehouse and inventory SOPs.",
+      "Provide regular inventory and warehouse reports to management.",
+      "Maintain high standards of security, cleanliness, organisation, and accountability."
+    ],
+    requirements: [
+      "Proven experience in inventory, warehouse, logistics, supply chain, retail, FMCG, e-commerce, or distribution.",
+      "Experience managing high-volume inventory and warehouse operations.",
+      "Strong Excel and data-management skills.",
+      "Experience with ERP, WMS, or inventory management systems.",
+      "Previous experience supervising teams.",
+      "Strong knowledge of stock reconciliation and inventory control.",
+      "Excellent organisational skills and attention to detail.",
+      "High level of integrity, accountability, and ownership.",
+      "Ability to work effectively in a fast-paced environment."
+    ],
+    apply: "Send your CV to Tuts.recruit@gmail.com. Subject: Application – Inventory & Warehouse Manager",
+    deadline: "Not Specified"
+  },
+  {
+    id: "inventory-officer-oregun-ikeja-2026-09-18",
+    title: "Inventory Officer",
+    date: "2026-09-18",
+    location: "Oregun, Ikeja, Lagos",
+    type: "Full-Time | Onsite",
+    salary: "₦400,000 Net Monthly",
+    summary: "Responsible for inventory control across raw materials, WIP, and finished goods, including stock reconciliation, inventory reporting, variance monitoring, and material accountability within a manufacturing environment.",
+    responsibilities: [
+      "Manage inventory control across raw materials, WIP, and finished goods.",
+      "Carry out stock reconciliation and variance monitoring.",
+      "Maintain accurate inventory reporting.",
+      "Support material accountability in a manufacturing environment."
+    ],
+    requirements: [
+      "2 years’ experience in inventory/warehouse operations within manufacturing or production.",
+      "Strong inventory reconciliation and stock control knowledge.",
+      "Proficiency in Excel and inventory management systems."
+    ],
+    apply: "Apply using the link below: https://forms.gle/btCZgzwCPCYDV7H98",
+    deadline: "Not Specified"
+  },
+  {
+    id: "production-manager-plastics-lagos-2026-09-18",
+    title: "Production Manager",
+    date: "2026-09-18",
+    location: "Lagos",
+    type: "Full-Time",
+    salary: "₦500,000 – ₦600,000 Gross Monthly",
+    summary: "We are seeking an experienced Production Manager to oversee daily manufacturing operations, ensure efficient production processes, maintain quality standards, and achieve production targets.",
+    responsibilities: [
+      "Plan, coordinate, and supervise daily production activities.",
+      "Ensure production targets are achieved efficiently and within agreed timelines.",
+      "Manage production teams, shift schedules, and workforce productivity.",
+      "Monitor production processes to ensure compliance with quality standards.",
+      "Identify and resolve production bottlenecks, downtime, and operational issues.",
+      "Ensure efficient utilization of raw materials, machinery, and other production resources.",
+      "Monitor machine performance and coordinate with the maintenance team to minimize downtime.",
+      "Implement measures to reduce production waste and improve operational efficiency.",
+      "Maintain accurate production records and prepare regular performance reports.",
+      "Ensure compliance with company safety policies and manufacturing procedures."
+    ],
+    requirements: [
+      "Bachelor’s degree/HND in Engineering, Production Management, Manufacturing, or a related field.",
+      "5–8 years of relevant production experience, preferably within the plastics manufacturing industry.",
+      "Hands-on experience with plastics production processes and machinery.",
+      "Strong knowledge of production planning, quality control, and factory operations.",
+      "Proven ability to lead and manage production teams.",
+      "Strong problem-solving, analytical, and organizational skills.",
+      "Ability to work in a target-driven manufacturing environment."
+    ],
+    apply: "Interested and qualified candidates should send their CV to cv@ascentech.com.ng using “Production Manager” as the subject of the email.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "regional-sales-manager-south-south-2026-09-18",
+    title: "Regional Sales Manager – South South",
+    date: "2026-09-18",
+    location: "South South, Nigeria",
+    type: "Full-Time",
+    salary: "₦700,000 – ₦800,000 Gross Monthly",
+    summary: "We are seeking an experienced Regional Sales Manager to drive sales growth and market expansion across the South South region.",
+    responsibilities: [
+      "Develop and execute sales strategies to achieve regional revenue and growth targets.",
+      "Manage and strengthen relationships with distributors, dealers, and key customers across the South South region.",
+      "Identify new market opportunities and expand the company’s customer base.",
+      "Drive sales of plastic products across sectors including furniture, water storage tanks, pipes and conduits, flooring, domestic products, and other specialty products.",
+      "Monitor market trends, competitor activities, pricing, and customer needs.",
+      "Lead and support sales teams to achieve assigned targets.",
+      "Prepare regular sales forecasts, performance reports, and market updates for management.",
+      "Conduct regular market visits and ensure strong product visibility and distribution within the territory."
+    ],
+    requirements: [
+      "Bachelor’s degree/HND in Business Administration, Marketing, Sales, or a related field.",
+      "5–8 years of sales experience, preferably within the plastics manufacturing industry.",
+      "Proven experience managing sales across the South South region.",
+      "Strong distributor/dealer network and knowledge of regional markets.",
+      "Experience selling plastic products, building materials, industrial products, or related products is highly desirable.",
+      "Strong negotiation, communication, relationship management, and business development skills.",
+      "Ability to work independently, manage targets, and travel extensively across the region."
+    ],
+    apply: "Interested and qualified candidates should send their CV to cv@ascentech.com.ng using “Regional Sales Manager – South South” as the subject of the email.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "tyre-service-technician-sagamu-2026-09-18",
+    title: "Tyre Service Technician",
+    date: "2026-09-18",
+    location: "Sagamu, Ogun State",
+    type: "Full-time",
+    salary: "Open",
+    summary: "We are seeking an experienced Tyre Service Technician to handle tyre fitting, repairs, inspections, balancing, and general tyre service operations while ensuring safety and quality standards.",
+    responsibilities: [
+      "Inspect tyres for wear, damage, and safety concerns.",
+      "Fit, remove, repair, and replace tyres.",
+      "Perform tyre rotation, balancing, and pressure checks.",
+      "Diagnose tyre-related issues and recommend appropriate solutions.",
+      "Maintain tyre service tools and equipment.",
+      "Ensure compliance with workshop safety procedures."
+    ],
+    requirements: [
+      "Minimum of 2–4 years’ experience as a Tyre Service Technician, Tyre Technician, or similar role within the tyre, automotive, fleet, or related industry.",
+      "Practical experience with tyre fitting, repairs, balancing, and wheel-related services is mandatory.",
+      "Ability to use tyre service equipment and tools effectively.",
+      "Good knowledge of tyre safety and maintenance practices."
+    ],
+    apply: "Qualified candidates should send their CVs to cv@ascentech.com.ng using (TYRE SERVICE 17) as the subject of the email",
+    deadline: "Not Specified"
+  },
+  {
+    id: "shift-manager-pastry-gbagada-vi-2026-09-18",
+    title: "Shift Manager",
+    date: "2026-09-18",
+    location: "Gbagada & Victoria Island (VI), Lagos",
+    type: "Full-time",
+    salary: "₦70,000 Monthly",
+    summary: "We are seeking a responsible and experienced Shift Manager to oversee daily shift operations, supervise staff, ensure quality production, and maintain excellent hygiene and customer service standards.",
+    responsibilities: [
+      "Oversee daily shift operations.",
+      "Supervise staff and ensure smooth shift execution.",
+      "Maintain quality production and hygiene standards.",
+      "Support excellent customer service delivery."
+    ],
+    requirements: [
+      "Minimum of OND/SSCE qualification.",
+      "Previous experience in a pastry, bakery, restaurant, or QSR environment.",
+      "Strong leadership and team management skills.",
+      "Ability to work under pressure and manage shifts effectively.",
+      "Good communication and problem-solving skills.",
+      "Must be reliable, punctual, and customer-focused.",
+      "Applicants should reside within reasonable proximity to Gbagada or VI."
+    ],
+    apply: "Interested candidates should click the link to apply: https://app.notion.com/p/Job-Openings-3c8c78057c27805abeeae91bb96c7702",
+    deadline: "Not Specified"
+  },
+  {
+    id: "import-export-manager-vi-lagos-2026-09-18",
+    title: "Import & Export Manager",
+    date: "2026-09-18",
+    location: "VI, Lagos",
+    type: "Full-time",
+    department: "Supply Chain",
+    salary: "N800,000 Negotiable",
+    summary: "We are looking for an experienced Import & Export Manager to oversee international shipments, customs clearance, trade compliance, logistics partners, and cost management.",
+    responsibilities: [
+      "Manage import/export shipments and ensure timely clearance and delivery.",
+      "Oversee shipping and trade documentation.",
+      "Ensure compliance with customs and international trade regulations.",
+      "Manage freight forwarders, clearing agents, shipping lines, and logistics providers.",
+      "Negotiate freight rates and service agreements.",
+      "Monitor logistics costs and identify savings opportunities.",
+      "Collaborate with Procurement, Finance, Warehouse, and Operations teams."
+    ],
+    requirements: [
+      "Bachelor’s degree in Supply Chain, Logistics, Business Administration, International Trade, Economics, or related field.",
+      "5–7 years’ experience in import/export, logistics, or international trade.",
+      "Minimum 2 years’ managerial/supervisory experience.",
+      "Strong knowledge of customs regulations and international shipping procedures.",
+      "Professional certification is an added advantage."
+    ],
+    apply: "Send your CV to talentanddevelopment@eatngo-africa.com with “Import & Export Manager” as the subject",
+    deadline: "Not Specified"
+  },
+  {
+    id: "regional-sales-manager-east-plastics-2026-09-18",
+    title: "Regional Sales Manager – East (Plastics)",
+    date: "2026-09-18",
+    location: "Eastern Nigeria",
+    type: "Full-Time",
+    salary: "₦700,000 – ₦800,000 Gross",
+    summary: "We are seeking an experienced Regional Sales Manager with strong plastics industry experience to drive sales growth, manage key accounts, expand market share, and lead sales activities across the Eastern region.",
+    responsibilities: [
+      "Develop and execute sales strategies to achieve regional targets.",
+      "Drive sales of plastic products and develop new business opportunities.",
+      "Manage distributors, dealers, key accounts, and major customers.",
+      "Build and maintain strong relationships with customers and business partners.",
+      "Identify new markets, customers, and growth opportunities across the East.",
+      "Monitor sales performance, market trends, pricing, and competitor activities.",
+      "Lead, motivate, and monitor the performance of the regional sales team.",
+      "Prepare sales forecasts, reports, and business development plans.",
+      "Ensure achievement of revenue and collection targets."
+    ],
+    requirements: [
+      "B.Sc/HND in Business Administration, Marketing, or a related field.",
+      "5+ years’ sales experience, with strong experience in the plastics industry.",
+      "Proven experience managing sales across the Eastern region of Nigeria.",
+      "Strong distributor/dealer and customer network is highly preferred.",
+      "Experience in B2B/channel sales and team management.",
+      "Strong negotiation, communication, analytical, and leadership skills.",
+      "Target-driven with proven sales results.",
+      "Willingness to travel extensively within the region."
+    ],
+    apply: "Interested and qualified candidates should send their CV to cv@ascentech.com.ng using “Regional Sales Manager – 14” as the subject of the email.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "bread-improver-sales-executive-lagos-2026-09-18",
+    title: "Bread Improver Sales Executive",
+    date: "2026-09-18",
+    location: "Lagos",
+    type: "Full-time",
+    salary: "₦150,000 – ₦170,000 + Transport Allowance + Incentives",
+    summary: "Are you a field-driven sales professional who enjoys meeting customers, building relationships, and growing sales? This opportunity is for you!",
+    responsibilities: [
+      "Manage customer relationships and grow sales in the field.",
+      "Build strong dealer and customer relationships.",
+      "Drive product sales and expand market reach.",
+      "Support orders and stock management in assigned accounts."
+    ],
+    requirements: [
+      "Field sales experience, preferably in FMCG, bakery, food ingredients, or related industries.",
+      "Excellent communication, PR & relationship-building skills.",
+      "Strong knowledge of the Lagos market.",
+      "Ability to manage customer relationships, orders & stock.",
+      "Energetic, proactive and target-driven.",
+      "Must be comfortable with extensive field work."
+    ],
+    apply: "Interested candidates should send their CV to cv@ascentech.com.ng using “Bread Improver Sales Executive” as the subject.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "business-development-engineer-construction-renovation-ikeja-2026-09-18",
+    title: "Business Development Engineer – Construction & Renovation",
+    date: "2026-09-18",
+    location: "Ikeja, Lagos",
+    type: "Full-Time",
+    salary: "₦350,000 Net Monthly",
+    summary: "We are seeking a proactive and commercially astute Civil Engineer to join our client’s Business Development team.",
+    responsibilities: [
+      "Identify and develop new clients, projects, markets, and business opportunities within the construction and renovation industry.",
+      "Generate leads through networking, referrals, site visits, industry events, research, and direct outreach.",
+      "Conduct client meetings, presentations, and site visits to understand project requirements and business opportunities.",
+      "Prepare and present proposals, quotations, and commercial presentations.",
+      "Negotiate with prospects and follow up consistently to convert opportunities into business.",
+      "Maintain an active business development pipeline and provide regular sales forecasts and reports.",
+      "Monitor market trends, competitor activities, and emerging business opportunities.",
+      "Work closely with project and technical teams to develop solutions and convert opportunities.",
+      "Identify opportunities to grow existing client accounts and secure repeat business.",
+      "Achieve agreed business development, revenue, and client acquisition targets."
+    ],
+    requirements: [
+      "Bachelor’s degree in Civil Engineering or a related field.",
+      "3–5 years of relevant experience in construction, engineering, business development, sales, or a related industry.",
+      "Proven experience in business development, B2B sales, client acquisition, or relationship management.",
+      "Good understanding of the construction and renovation industry.",
+      "Excellent communication, presentation, negotiation, and persuasion skills.",
+      "Target-driven, proactive, and self-motivated.",
+      "Proficiency in Microsoft Office and relevant CRM/business development tools.",
+      "Willingness to travel for client meetings and site visits.",
+      "Must be able to commute conveniently to Ikeja, Lagos."
+    ],
+    apply: "Send CV to cavayorecruitment@gmail.com with “BD ENGINEER” as the subject",
+    deadline: "Not Specified"
+  },
+  {
+    id: "technical-sales-engineer-construction-chemicals-ikeja-2026-09-18",
+    title: "Technical Sales Engineer – Construction Chemicals",
+    date: "2026-09-18",
+    location: "Ikeja, Lagos",
+    type: "Full-Time",
+    salary: "₦350,000 Net Monthly",
+    summary: "We are seeking a commercially driven Civil Engineer to join our client’s team as a Technical Sales Engineer.",
+    responsibilities: [
+      "Identify and develop new business opportunities within the construction industry.",
+      "Promote and sell the company’s construction chemical products and solutions.",
+      "Build and maintain strong relationships with contractors, developers, consultants, distributors, and other key clients.",
+      "Conduct client meetings and site visits to understand project requirements and identify sales opportunities.",
+      "Prepare quotations and proposals, and follow up to convert opportunities into sales.",
+      "Conduct product presentations, demonstrations, and technical discussions with clients.",
+      "Maintain an active sales pipeline and consistently follow up on prospects and existing accounts.",
+      "Monitor market trends, competitor activities, and new project opportunities.",
+      "Work closely with technical and operations teams to ensure effective customer service and order fulfilment.",
+      "Achieve agreed sales targets and maintain accurate sales activity reports."
+    ],
+    requirements: [
+      "Bachelor’s degree in Civil Engineering or a related field.",
+      "3–5 years of relevant experience, preferably in construction chemicals, construction, or a related industry.",
+      "Proven experience in technical sales, B2B sales, or client-facing engineering roles.",
+      "Strong understanding of construction processes and materials.",
+      "Excellent communication, presentation, negotiation, and relationship-management skills.",
+      "Commercially driven and target-oriented.",
+      "Ability to understand technical requirements and recommend suitable solutions.",
+      "Proficiency in Microsoft Office and relevant sales/CRM tools.",
+      "Willingness to travel for client meetings and site visits.",
+      "Must be able to commute conveniently to Ikeja, Lagos."
+    ],
+    apply: "Send CV to cavayorecruitment@gmail.com with “TECHNICAL SALES ENGINEER” as the subject",
+    deadline: "Not Specified"
+  },
+  {
+    id: "technical-support-engineer-construction-chemicals-ikeja-2026-09-18",
+    title: "Technical Support Engineer – Construction Chemicals",
+    date: "2026-09-18",
+    location: "Ikeja, Lagos",
+    type: "Full-Time",
+    salary: "₦350,000 Net Monthly",
+    summary: "We are seeking an experienced Civil Engineer to provide technical support to customers, contractors, consultants, and project teams using our client’s construction chemical products.",
+    responsibilities: [
+      "Provide technical support and product guidance to customers, contractors, consultants, and project teams.",
+      "Conduct site visits to assess project requirements and recommend appropriate construction chemical solutions.",
+      "Provide guidance on product selection, preparation, application, and usage.",
+      "Conduct product demonstrations, application trials, and technical presentations where required.",
+      "Troubleshoot product and application issues and provide appropriate solutions.",
+      "Investigate and resolve customer technical complaints and concerns.",
+      "Work closely with Sales and Business Development teams to provide technical support during client engagements.",
+      "Train customers, contractors, applicators, and distributors on proper product application and best practices.",
+      "Monitor product performance on project sites and gather customer feedback.",
+      "Maintain strong relationships with customers and key construction industry stakeholders.",
+      "Prepare relevant technical and site visit reports and escalate complex issues when necessary."
+    ],
+    requirements: [
+      "Bachelor’s degree in Civil Engineering or a related field.",
+      "3–5 years of relevant experience, preferably in construction chemicals, construction, or a related technical field.",
+      "Strong understanding of construction processes, materials, and site operations.",
+      "Experience in technical support, site supervision, technical sales, product application, or engineering solutions.",
+      "Strong troubleshooting and problem-solving abilities.",
+      "Excellent communication and client relationship-management skills.",
+      "Ability to explain technical concepts clearly to technical and non-technical customers.",
+      "Strong attention to detail and ability to manage multiple projects or client requirements.",
+      "Proficiency in Microsoft Office.",
+      "Willingness to travel to construction sites and client locations.",
+      "Must be able to commute conveniently to Ikeja, Lagos."
+    ],
+    apply: "Send CV to cavayorecruitment@gmail.com with “TECHNICAL SUPPORT ENGINEER” as the subject",
+    deadline: "Not Specified"
+  },
+  {
+    id: "banking-operations-officers-ikoyi-2026-09-18",
+    title: "Banking Operations Officers",
+    date: "2026-09-18",
+    location: "Ikoyi Lagos",
+    type: "Full-time",
+    salary: "₦156,000 net monthly",
+    summary: "We are recruiting Banking Operations Officers for a 3-month engagement with a top financial institution.",
+    responsibilities: [
+      "Support banking and financial operations activities.",
+      "Work with treasury, stockbroking, asset management, or related financial operations functions.",
+      "Maintain accuracy and operational efficiency in execution."
+    ],
+    requirements: [
+      "Experience in Bank Treasury, Stockbroking, Asset Management, or related financial institutions.",
+      "Strong understanding of financial instruments and banking/financial operations.",
+      "Good attention to detail and operational efficiency."
+    ],
+    apply: "Interested candidates should send their CVs to 0812303031639. NB: ONLY SEND CV IF YOU MEET STATED REQUIREMENTS!",
+    deadline: "Not Specified"
+  },
+  {
+    id: "sales-associate-alausa-ikeja-2026-09-18",
+    title: "Sales Associate/Executive",
+    date: "2026-09-18",
+    location: "Alausa, Ikeja",
+    type: "Full-time",
+    salary: "₦120,000/month + HMO + Pension and other benefits",
+    summary: "We seek an experienced Sales Associate/Executive with a background in any organization.",
+    responsibilities: [
+      "Drive sales and business growth within the assigned area.",
+      "Build and maintain customer relationships.",
+      "Achieve sales targets and contribute to revenue growth."
+    ],
+    requirements: [
+      "OND / HND / BSC.",
+      "Not more than 35 years old.",
+      "Excellent communication & people skills.",
+      "Proven Experience in Sales.",
+      "Candidates living around Alausa, Ikeja will be prioritized."
+    ],
+    apply: "Apply now: https://lnkd.in/eWdUkbsp",
+    deadline: "Not Specified"
+  },
+  {
+    id: "import-export-manager-eatngo-2026-09-18",
+    title: "Import & Export Manager",
+    date: "2026-09-18",
+    location: "VI, Lagos",
+    type: "Full-time",
+    department: "Supply Chain",
+    salary: "Not Specified",
+    summary: "We are looking for an experienced Import & Export Manager to oversee international shipments, customs clearance, trade compliance, logistics partners, and cost management.",
+    responsibilities: [
+      "Manage import/export shipments and ensure timely clearance and delivery.",
+      "Oversee shipping and trade documentation.",
+      "Ensure compliance with customs and international trade regulations.",
+      "Manage freight forwarders, clearing agents, shipping lines, and logistics providers.",
+      "Negotiate freight rates and service agreements.",
+      "Monitor logistics costs and identify savings opportunities.",
+      "Collaborate with Procurement, Finance, Warehouse, and Operations teams."
+    ],
+    requirements: [
+      "Bachelor’s degree in Supply Chain, Logistics, Business Administration, International Trade, Economics, or related field.",
+      "5–7 years’ experience in import/export, logistics, or international trade.",
+      "Minimum 2 years’ managerial/supervisory experience.",
+      "Strong knowledge of customs regulations and international shipping procedures.",
+      "Professional certification is an added advantage."
+    ],
+    apply: "Send your CV to talentanddevelopment@eatngo-africa.com with “Import & Export Manager” as the subject",
+    deadline: "Not Specified"
+  },
+  {
+    id: "accountant-victoria-island-2026-09-18",
+    title: "Accountant",
+    date: "2026-09-18",
+    location: "Victoria Island, Lagos State",
+    type: "Full-time",
+    salary: "Not Specified",
+    summary: "We are seeking to hire two ambitious and detail-oriented Accountants.",
+    responsibilities: [
+      "Prepare and maintain accurate financial records, ledgers, and reconciliations.",
+      "Assist in the preparation of monthly, quarterly, and annual financial statements.",
+      "Conduct financial analysis and provide insights to support client decision-making.",
+      "Support budgeting, forecasting, and cash flow management activities.",
+      "Assist with tax computations, statutory filings, and regulatory compliance requirements.",
+      "Participate in financial due diligence, audit support, and advisory engagements.",
+      "Review accounting records and identify areas for process improvement.",
+      "Prepare management reports and presentations for stakeholders.",
+      "Liaise with clients, regulatory bodies, auditors, and other external stakeholders.",
+      "Support the implementation and improvement of financial controls and governance processes."
+    ],
+    requirements: [
+      "Bachelor’s degree in Accounting, Finance, Economics, or a related discipline with a minimum of Second Class Upper (2:1).",
+      "2–6 years of relevant accounting, audit, finance, or consulting experience.",
+      "ICAN qualified or actively pursuing ICAN certification.",
+      "Strong knowledge of financial reporting, accounting standards, and regulatory requirements.",
+      "Excellent analytical and problem-solving skills.",
+      "Strong proficiency in Microsoft Excel and other Microsoft Office applications.",
+      "Excellent written and verbal communication skills.",
+      "Ability to manage multiple assignments and meet deadlines.",
+      "Willingness and ability to travel frequently within and outside Nigeria."
+    ],
+    apply: "Suitable candidates should submit their CV and a cover letter to 08163008956",
+    deadline: "Not Specified"
+  },
+  {
+    id: "head-of-marketing-business-development-lagos-mainland-2026-09-18",
+    title: "Head of Marketing & Business Development",
+    date: "2026-09-18",
+    location: "Lagos Mainland",
+    type: "Full-Time",
+    salary: "₦500,000 monthly total package + Commission",
+    summary: "A leading professional services and training organization is seeking an experienced Head of Marketing & Business Development to lead its marketing, sales, business development, and partnership initiatives.",
+    responsibilities: [
+      "Develop and implement business development and revenue growth strategies.",
+      "Identify, develop, and convert new business opportunities.",
+      "Build and maintain relationships with corporate organizations, NGOs, government agencies, schools, universities, professional bodies, and financial institutions.",
+      "Develop business proposals, presentations, and commercial offers.",
+      "Negotiate service contracts and strategic partnership agreements.",
+      "Develop and execute annual marketing plans, campaigns, and budgets.",
+      "Coordinate digital and traditional marketing activities across the organization’s various service lines.",
+      "Monitor market trends, competitor activities, and emerging business opportunities.",
+      "Establish and monitor monthly sales targets.",
+      "Manage the sales pipeline and ensure effective lead generation and conversion.",
+      "Maintain accurate customer and prospect information through the CRM system.",
+      "Track sales performance and prepare monthly revenue reports.",
+      "Drive client acquisition, relationship management, and retention initiatives.",
+      "Represent the organization at conferences, exhibitions, networking events, and other business forums.",
+      "Identify opportunities for strategic alliances and partnerships that can support business growth."
+    ],
+    requirements: [
+      "BSC/HND in Marketing, Business Administration, or a related field.",
+      "Minimum of 3 years of relevant experience in marketing, sales, business development, or a related function.",
+      "MBA is an added advantage.",
+      "Professional marketing certification is desirable.",
+      "Strong business development, sales, negotiation, presentation, and relationship management skills.",
+      "Demonstrated ability to generate leads, acquire clients, build partnerships, and drive revenue.",
+      "Strong understanding of the Lagos business environment and corporate market."
+    ],
+    apply: "Interested candidates who meet the requirements should apply with an updated CV. https://forms.gle/y3ybtwEqWZpw9dPY9",
+    deadline: "Not Specified"
+  },
+  {
+    id: "senior-dotnet-developer-ikeja-2026-09-18",
+    title: "Senior .NET Developer",
+    date: "2026-09-18",
+    location: "Ikeja, Lagos",
+    type: "Full Time (On site)",
+    salary: "Negotiable",
+    summary: "We are seeking an experienced Senior .NET Developer to build, maintain, and optimize scalable applications and backend services.",
+    responsibilities: [
+      "Develop and maintain applications using C# and .NET.",
+      "Build and maintain APIs and backend services.",
+      "Work with SQL Server and optimize database performance.",
+      "Integrate third-party APIs and systems.",
+      "Troubleshoot and resolve technical issues.",
+      "Participate in code reviews and collaborate with the development team."
+    ],
+    requirements: [
+      "Bachelor’s degree in Computer Science, Computer Engineering, or related field.",
+      "4+ years of professional .NET development experience.",
+      "Strong proficiency in C#, .NET Core, ASP.NET, and Web APIs.",
+      "Experience with SQL Server and Entity Framework.",
+      "Familiarity with Git.",
+      "Strong problem solving and analytical skills."
+    ],
+    apply: "Interested and qualified candidates should send their CV to Jobhq24@gmail.com. Subject: Senior .NET Developer. Only shortlisted candidates will be contacted.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "loan-officer-urgent-lagos-2026-09-18",
+    title: "Loan Officer",
+    date: "2026-09-18",
+    location: "Lagos",
+    type: "Full-time",
+    salary: "₦100,000 Monthly",
+    summary: "A financial institution is recruiting passionate, disciplined, and target-driven Loan Officers.",
+    responsibilities: [
+      "Identify and onboard new loan customers.",
+      "Market the institution’s loan products within assigned communities.",
+      "Conduct customer verification and business assessments.",
+      "Monitor loan repayments and follow up on delinquent accounts.",
+      "Support field-based sales and customer acquisition."
+    ],
+    requirements: [
+      "Any Qualification.",
+      "Good communication and negotiation skills.",
+      "Sales, marketing, or customer service experience is an advantage.",
+      "Must be willing to work in the field."
+    ],
+    apply: "Send CV to 07050740456",
+    deadline: "Not Specified"
+  },
+  {
+    id: "dispatch-rider-lagos-duplicate-2026-09-18",
+    title: "Dispatch Rider",
+    date: "2026-09-18",
+    location: "Island & Mainland Lagos",
+    type: "Full-time",
+    salary: "Per Dispatch/Delivery",
+    summary: "Dispatch riders are urgently needed for island and mainland delivery operations in Lagos.",
+    responsibilities: [
+      "Deliver packages safely and on time.",
+      "Navigate Lagos routes efficiently.",
+      "Maintain communication with customers and dispatch team.",
+      "Meet daily dispatch targets."
+    ],
+    requirements: [
+      "Minimum 2–3 years’ experience as a Dispatch Rider.",
+      "Valid rider’s licence.",
+      "Good knowledge of Lagos routes and navigation.",
+      "Must have a reliable smartphone.",
+      "Good communication and customer service skills.",
+      "Must be responsible, punctual, and safety-conscious.",
+      "Must be able to meet daily dispatch targets."
+    ],
+    apply: "Interested candidates should send their CV via WhatsApp (chat only) 07050740456. Apply now!",
+    deadline: "Not Specified"
+  }
 ];
 
 function linkifyApplicationText(value: string): string {

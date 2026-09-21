@@ -50,6 +50,893 @@ const currentDate = '2026-09-16'; // Current date for comparison (September 16, 
 
 const allJobs: Job[] = [
   {
+    id: "school-administrator-yaba-2026-09-21",
+    title: "School Administrator",
+    date: "2026-09-21",
+    location: "Yaba & Environs",
+    type: "Full-time",
+    salary: "Negotiable",
+    summary: "We need an experienced, highly organised, and proactive School Administrator to ensure the smooth running of the school.",
+    responsibilities: [
+      "Handle admissions and school operations.",
+      "Manage pupil records, attendance, and related administrative functions.",
+      "Coordinate parent communication and staff support.",
+      "Ensure smooth day-to-day running of the school environment.",
+      "Maintain professionalism and effective communication with parents, staff, and visitors."
+    ],
+    requirements: [
+      "Proven experience in school administration.",
+      "Excellent communication and people skills.",
+      "Computer literate and detail-oriented.",
+      "Proactive, professional, mature, and able to work with minimal supervision.",
+      "Knowledge of school management systems is an added advantage.",
+      "Must live in Yaba or the surrounding areas."
+    ],
+    apply: "Send your CV via WhatsApp to 08185551223. For enquiries: 08185551223 | 08089484341.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "head-value-added-services-vas-lagos-2026-09-21",
+    title: "Head, Value-Added Services (VAS)",
+    date: "2026-09-21",
+    location: "Lagos, Nigeria",
+    type: "Full-time",
+    salary: "₦2,000,000 – ₦3,000,000 Monthly Net",
+    summary: "We are looking for a Head of VAS to grow our value-added services business including airtime, data, bills payment, insurance, and transfers.",
+    responsibilities: [
+      "Own the VAS strategy and growth plan.",
+      "Drive transaction volumes and revenue growth.",
+      "Build and manage partnerships with billers and telcos.",
+      "Lead a high-performing product and sales team.",
+      "Develop digital payment and transaction initiatives aligned with business goals."
+    ],
+    requirements: [
+      "10+ years in payments, fintech, or digital banking.",
+      "Hands-on VAS or transaction-banking experience.",
+      "Strong track record of hitting revenue targets and leading teams.",
+      "Solid understanding of Nigeria’s payments and VAS ecosystem."
+    ],
+    apply: "Interested candidates who meet the requirements should apply here: https://forms.gle/hg39kx9qAMQLDABA6",
+    deadline: "Not Specified"
+  },
+  {
+    id: "head-marketing-corporate-communications-lagos-2026-09-21",
+    title: "Head of Marketing & Corporate Communications",
+    date: "2026-09-21",
+    location: "Lagos, Nigeria",
+    type: "Full-time",
+    salary: "₦2,000,000 – ₦3,000,000 Monthly Net",
+    summary: "A digital bank is recruiting a strategic marketing leader to drive brand growth and customer acquisition across digital channels.",
+    responsibilities: [
+      "Drive brand growth and customer acquisition across digital channels.",
+      "Position the bank as a leading player in payments, fintech, and embedded finance.",
+      "Lead marketing strategy and corporate communications.",
+      "Support product messaging and customer engagement initiatives."
+    ],
+    requirements: [
+      "Minimum of 8 years in marketing.",
+      "Proven fintech, digital banking, or payments experience is an added advantage."
+    ],
+    apply: "Ready to build a standout brand in digital banking? Apply here: https://docs.google.com/forms/d/e/1FAIpQLSdAs_1KQNQYeSl8manlN-VMKS5pHQmDn2L-6rpACCk_52Wtzw/viewform?usp=send_form",
+    deadline: "Not Specified"
+  },
+  {
+    id: "procurement-officer-vgc-lagos-2026-09-21",
+    title: "Procurement Officer",
+    date: "2026-09-21",
+    location: "VGC, Lagos",
+    type: "Full-time",
+    gender: "Male",
+    salary: "₦200,000 Monthly",
+    company: "Hospitality & Tourism",
+    summary: "A hospitality company is seeking a Procurement Officer with relevant hotel and tourism experience to handle sourcing, purchasing, and supplier coordination.",
+    responsibilities: [
+      "Source and procure food, beverages, kitchen supplies, hotel supplies, and operational materials.",
+      "Identify, evaluate, and maintain relationships with reliable suppliers.",
+      "Negotiate prices, payment terms, and delivery conditions.",
+      "Monitor inventory levels and ensure timely replenishment.",
+      "Ensure purchases meet quality standards and operational needs."
+    ],
+    requirements: [
+      "Proven experience as a Procurement Officer, ideally in a hotel, restaurant, lounge, or hospitality environment.",
+      "Strong knowledge of procurement processes and supplier management.",
+      "Good negotiation and cost-control skills.",
+      "Experience sourcing hospitality supplies and materials.",
+      "Strong record-keeping and organisational skills.",
+      "Proficiency in Microsoft Excel and other relevant tools.",
+      "Excellent communication and relationship-management skills.",
+      "Ability to work under pressure and meet operational deadlines.",
+      "Honest, proactive, detail-oriented, and commercially minded.",
+      "Must live close to the location."
+    ],
+    apply: "Send your CV to 08118157245.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "senior-dotnet-developer-ikeja-2026-09-21",
+    title: "Senior .NET Developer",
+    date: "2026-09-21",
+    location: "Ikeja, Lagos",
+    type: "Full-time",
+    salary: "Negotiable",
+    summary: "We are seeking an experienced Senior .NET Developer to build, maintain, and optimize scalable applications and backend services.",
+    responsibilities: [
+      "Develop and maintain applications using C# and .NET.",
+      "Build and maintain APIs and backend services.",
+      "Work with SQL Server and optimize database performance.",
+      "Integrate third-party APIs and systems.",
+      "Troubleshoot and resolve technical issues.",
+      "Participate in code reviews and collaborate with the development team."
+    ],
+    requirements: [
+      "Bachelor’s degree in Computer Science, Computer Engineering, or a related field.",
+      "4+ years of professional .NET development experience.",
+      "Strong proficiency in C#, .NET Core, ASP.NET, and Web APIs.",
+      "Experience with SQL Server and Entity Framework.",
+      "Familiarity with Git.",
+      "Strong problem-solving and analytical skills."
+    ],
+    apply: "Interested and qualified candidates should send their CV to Jobhq24@gmail.com with subject: Senior .NET Developer.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "digital-marketer-opebi-lagos-2026-09-21",
+    title: "Digital Marketer",
+    date: "2026-09-21",
+    location: "Opebi, Lagos",
+    type: "Full-time",
+    salary: "₦300,000 Monthly",
+    summary: "We are hiring a creative and result-driven Digital Marketer to lead and execute digital campaigns, manage social media, and boost brand visibility.",
+    responsibilities: [
+      "Plan and run digital campaigns on Google, Facebook, Instagram, and Twitter.",
+      "Manage social media and content strategy.",
+      "Monitor campaign performance and prepare reports.",
+      "Analyze website traffic and user engagement metrics.",
+      "Stay updated on digital trends and tools.",
+      "Provide basic oversight of HTML, CSS, and JavaScript as needed."
+    ],
+    requirements: [
+      "Bachelor’s degree in Marketing or a related field.",
+      "2–3 years of proven digital marketing experience.",
+      "Proficiency in Google Ads, Meta Ads, and social media tools.",
+      "Solid understanding of HTML, CSS, and JavaScript.",
+      "Strong creativity and analytical skills."
+    ],
+    apply: "Send your CV and cover letter to jobhq24@gmail.com with subject: Digital Marketer Application – Ikeja.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "dispatch-riders-island-mainland-lagos-2026-09-21",
+    title: "Dispatch Rider",
+    date: "2026-09-21",
+    location: "Island & Mainland, Lagos",
+    type: "Full-time",
+    salary: "Per Parcel Delivery",
+    summary: "Dispatch Riders are urgently needed to handle parcel delivery across Lagos with a strong focus on speed, reliability, and customer satisfaction.",
+    responsibilities: [
+      "Deliver parcels promptly and safely to designated destinations.",
+      "Navigate Lagos routes efficiently and reliably.",
+      "Provide good communication and customer service while handling dispatch tasks.",
+      "Meet daily dispatch targets.",
+      "Maintain professionalism and safety while on the road."
+    ],
+    requirements: [
+      "Minimum 2–3 years’ experience as a Dispatch Rider.",
+      "Valid rider’s licence.",
+      "Good knowledge of Lagos routes and navigation.",
+      "Must have a reliable smartphone.",
+      "Good communication and customer service skills.",
+      "Must be responsible, punctual, and safety-conscious.",
+      "Must be able to meet daily dispatch targets."
+    ],
+    apply: "Interested candidates should send their CV via WhatsApp to 08057923803. WhatsApp chat only.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "loan-officer-lagos-ph-akwa-ibom-2026-09-21",
+    title: "Loan Officer",
+    date: "2026-09-21",
+    location: "Lagos, Port Harcourt, Akwa Ibom",
+    type: "Field-based",
+    salary: "₦100,000 Monthly",
+    summary: "A financial institution is recruiting passionate, disciplined, and target-driven Loan Officers across multiple locations.",
+    responsibilities: [
+      "Identify and onboard new loan customers.",
+      "Market the institution’s loan products within assigned communities.",
+      "Conduct customer verification and business assessments.",
+      "Monitor loan repayments and follow up on delinquent accounts.",
+      "Work 70% in the field and 30% in the office."
+    ],
+    requirements: [
+      "Any qualification.",
+      "Good communication and negotiation skills.",
+      "Sales, marketing, or customer service experience is an advantage.",
+      "Must be willing to work in the field.",
+      "Accommodation available at applicable branch locations.",
+      "Loan disbursement is technology-driven; staff do not handle cash."
+    ],
+    apply: "Send your CV to 08057923803.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "store-keeper-best-service-raya-abuja-2026-09-21",
+    title: "Store Keeper",
+    date: "2026-09-21",
+    location: "Abuja",
+    type: "Full-time",
+    company: "Best Service Raya",
+    salary: "Not Specified",
+    summary: "We are hiring a Store Keeper to support inventory management and warehouse operations in Abuja.",
+    responsibilities: [
+      "Monitor and restock inventory.",
+      "Keep accurate stock records.",
+      "Track expiry dates using FIFO system.",
+      "Report damaged or missing items.",
+      "Assist with daily and weekly stock reporting.",
+      "Support loading and unloading activities."
+    ],
+    requirements: [
+      "OND / NCE / HND / Bachelor’s degree.",
+      "Minimum of two years’ work experience as a Store Keeper in retail or a related field.",
+      "Proficiency in Microsoft Excel, inventory software, databases, and systems.",
+      "Strong organizational and attention-to-detail skills."
+    ],
+    apply: "Send CV to Raya_hrng@rayatrade.com and copy rayatradehr@gmail.com using the position and location as the subject of the email; example: Storekeeper- Abuja.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "remote-data-entry-assistant-2026-09-21",
+    title: "Remote Data Entry Assistant",
+    date: "2026-09-21",
+    location: "Remote",
+    type: "Part-time",
+    salary: "Not Specified",
+    summary: "We are seeking a detail-oriented Remote Data Entry Assistant to support administrative and data management tasks until 31st December 2026.",
+    responsibilities: [
+      "Handle data entry and administrative tasks accurately.",
+      "Maintain documentation and records.",
+      "Ensure data accuracy and confidentiality.",
+      "Work systematically to meet deadlines."
+    ],
+    requirements: [
+      "Previous experience in data entry, administration, or a similar role is advantageous.",
+      "Strong attention to detail and accuracy.",
+      "Good organisational and time management skills.",
+      "Ability to work independently.",
+      "Fluency in both Ukrainian and Russian is essential.",
+      "Good written and verbal communication skills."
+    ],
+    apply: "Please submit your CV and a short cover letter in English to the application form by 28th September 2026: https://grc.orangehrmlive.com/external/#/recruitment-apply/candidate/vacancy/86",
+    deadline: "2026-09-28"
+  },
+  {
+    id: "office-assistant-dutse-alhaji-abuja-2026-09-21",
+    title: "Office Assistant",
+    date: "2026-09-21",
+    location: "Dutse Alhaji, Abuja & Environs",
+    type: "Full-time",
+    salary: "Not Specified",
+    summary: "A reputable company is seeking a responsible, organised, and hardworking Office Assistant to support daily office operations.",
+    responsibilities: [
+      "Assist with daily office operations and administrative tasks.",
+      "Handle filing, documentation, printing, and photocopying.",
+      "Attend to visitors professionally.",
+      "Assist with errands and other assigned duties.",
+      "Maintain a clean and organised office environment."
+    ],
+    requirements: [
+      "HND/B.Sc. in any relevant field.",
+      "Good communication and interpersonal skills.",
+      "Must be organised, punctual, and reliable.",
+      "Previous office experience is an advantage."
+    ],
+    apply: "Send your CV to pacmedsalesabuja@gmail.com. Enquiries: 09032763679.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "sustainability-officer-oil-gas-lagos-2026-09-21",
+    title: "Sustainability Officer",
+    date: "2026-09-21",
+    location: "Lagos, Nigeria",
+    type: "Full-time",
+    company: "OPSL Capital Ventures Limited",
+    salary: "Not Specified",
+    summary: "OPSL Capital Ventures Limited is recruiting a Sustainability Officer on behalf of a client in the Oil and Gas sector.",
+    responsibilities: [
+      "Support sustainability initiatives and compliance objectives.",
+      "Work with stakeholders to improve ESG and business sustainability strategies.",
+      "Support relevant reporting, documentation, and operational sustainability processes."
+    ],
+    requirements: [
+      "Relevant experience in sustainability, environmental management, or related functions.",
+      "Strong analytical, communication, and stakeholder management skills."
+    ],
+    apply: "Click here to review the JD and apply: https://bit.ly/4gVFcrg",
+    deadline: "Not Specified"
+  },
+  {
+    id: "ui-ux-design-tutor-bodija-2026-09-21",
+    title: "UI/UX Design Tutor",
+    date: "2026-09-21",
+    location: "Bodija, Ibadan",
+    type: "Full-time",
+    salary: "Not Specified",
+    summary: "A tech school in Bodija is looking for a UI/UX design tutor.",
+    responsibilities: [
+      "Teach UI/UX design concepts and practical skills.",
+      "Guide students on design thinking and product interfaces.",
+      "Support classroom learning and project-based instruction."
+    ],
+    requirements: [
+      "Candidate must be living in or around Cocoa House, Dugbe.",
+      "Strong UI/UX design skills and teaching capability."
+    ],
+    apply: "Send your CV to Larvanigeria@gmail.com.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "customer-service-manager-remote-2026-09-21",
+    title: "Customer Service Manager",
+    date: "2026-09-21",
+    location: "Remote",
+    type: "Full-time",
+    salary: "Not Specified",
+    summary: "We are hiring a Customer Service Manager to lead service relationships and strategic customer support initiatives.",
+    responsibilities: [
+      "Lead and manage the service relationship and strategy for assigned customers.",
+      "Support execution of annual customer account plans.",
+      "Lead customer open enrollment presentations.",
+      "Work collaboratively with the consulting delivery team on strategic initiatives."
+    ],
+    requirements: [
+      "Relevant customer service and customer operations experience.",
+      "Strong customer relationship and communication skills."
+    ],
+    apply: "Apply here: https://job-boards.greenhouse.io/bennie/jobs/4735174005",
+    deadline: "Not Specified"
+  },
+  {
+    id: "data-analyst-remote-2026-09-21",
+    title: "Data Analyst",
+    date: "2026-09-21",
+    location: "Remote",
+    type: "Full-time",
+    salary: "Not Specified",
+    summary: "We are hiring a Data Analyst to collect, analyze, and interpret data to help drive business decisions.",
+    responsibilities: [
+      "Collect and interpret data.",
+      "Create reports and dashboards.",
+      "Identify trends and data accuracy issues.",
+      "Provide actionable insights for business decisions."
+    ],
+    requirements: [
+      "Experience with SQL, Excel, Power BI or Tableau.",
+      "Data visualization and analytical tools preferred.",
+      "Familiarity with Python or R is a plus."
+    ],
+    apply: "Apply here: https://himalayas.app/companies/hey-support/jobs/data-analyst-remote-1576995030",
+    deadline: "Not Specified"
+  },
+  {
+    id: "content-creator-social-media-handler-oworonshoki-lagos-2026-09-21",
+    title: "Content Creator / Social Media Handler",
+    date: "2026-09-21",
+    location: "Oworonshoki, Lagos",
+    type: "Full-time",
+    salary: "Not Specified",
+    summary: "A new logistics company is looking for creative, hardworking professionals to handle content creation and social media management.",
+    responsibilities: [
+      "Create engaging content and manage social media channels.",
+      "Shoot and edit videos for social media.",
+      "Manage Instagram, Facebook, TikTok, LinkedIn, and X.",
+      "Support content ideas and campaign execution."
+    ],
+    requirements: [
+      "Female applicants only.",
+      "Minimum 1 year experience in content creation or social media management.",
+      "Good communication and writing skills.",
+      "Must have previous work or a portfolio to show.",
+      "No students or corpers."
+    ],
+    apply: "Send your CV to hr.careers1000@gmail.com using the job title as the subject of your email.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "analyst-zebcha-infrastructure-abuja-2026-09-21",
+    title: "Analyst",
+    date: "2026-09-21",
+    location: "Abuja",
+    type: "Full-time",
+    company: "ZEBCHA INFRASTRUCTURE LIMITED",
+    salary: "Not Specified",
+    summary: "ZEBCHA INFRASTRUCTURE LIMITED is looking for ambitious analysts to help shape Africa’s future through infrastructure and development projects.",
+    responsibilities: [
+      "Support infrastructure and development analysis.",
+      "Work with data, financial terminology, and project-related analysis.",
+      "Contribute to strategic and operational tasks in a fast-paced environment."
+    ],
+    requirements: [
+      "Graduates from specified universities with First Class or Second Class Upper.",
+      "Relevant degrees in Economics, Engineering, Mathematics, Physical Sciences, Business Administration, Finance, or Accounting.",
+      "Under 24 years old.",
+      "Familiarity with developing LLM prompts.",
+      "Fluent in English with excellent communication skills.",
+      "Strong analytical skills and understanding of financial terminology.",
+      "Proficient in Microsoft Excel and relevant software."
+    ],
+    apply: "To apply, click the link below: https://zebchaafrica.com/careers",
+    deadline: "Not Specified"
+  },
+  {
+    id: "customer-operations-specialist-pebble-score-lagos-2026-09-21",
+    title: "Customer Operations Specialist",
+    date: "2026-09-21",
+    location: "Lagos, Nigeria",
+    type: "Hybrid",
+    company: "PebbleScore",
+    salary: "Not Specified",
+    summary: "We are hiring a Customer Operations Specialist to support customer inquiries, troubleshoot app-related issues, and strengthen community trust.",
+    responsibilities: [
+      "Respond to customer inquiries via WhatsApp, email, and social media within one hour.",
+      "Troubleshoot credit report, wallet, and app-related issues.",
+      "Engage with followers across Instagram, X, TikTok, and LinkedIn.",
+      "Build trust through timely and helpful communication.",
+      "Support credit education and user engagement initiatives.",
+      "Gather customer feedback and identify recurring issues."
+    ],
+    requirements: [
+      "2–4 years of relevant experience in customer operations, customer service, or community management.",
+      "Strong written and verbal communication skills.",
+      "Comfortable handling customer complaints and troubleshooting issues.",
+      "Familiar with major social media platforms.",
+      "Able to work efficiently in a fast-paced environment.",
+      "Patient, proactive, empathetic, and solutions-oriented."
+    ],
+    apply: "Apply here: https://www.tezera.ai/j/customer-operations-specialist-b095a9?utm_source=share_kit",
+    deadline: "Not Specified"
+  },
+  {
+    id: "company-accountant-logistics-isolo-lagos-2026-09-21",
+    title: "Company Accountant",
+    date: "2026-09-21",
+    location: "Isolo, Lagos",
+    type: "Full-time",
+    salary: "₦300,000 Monthly",
+    summary: "We are urgently seeking a seasoned Accountant with strong logistics industry experience to manage financial reporting, payroll, and compliance.",
+    responsibilities: [
+      "Prepare accurate financial reports.",
+      "Handle tax filing, VAT computation, and remittance.",
+      "Manage online banking transactions, reconciliations, and payment processing.",
+      "Maintain proper books of accounts and ensure compliance.",
+      "Track logistics-related expenses, vendor payments, and receivables.",
+      "Prepare payroll and ensure statutory deductions are remitted."
+    ],
+    requirements: [
+      "Proven experience as an Accountant, preferably in logistics or warehousing.",
+      "Vast knowledge of financial reporting, tax, VAT, and online banking.",
+      "Strong proficiency in accounting software and Microsoft Excel.",
+      "Detail-oriented and organized.",
+      "Must reside in or be able to commute easily to Isolo, Lagos.",
+      "Must be available to resume immediately."
+    ],
+    apply: "Send your CV via WhatsApp to 07068198606 with the subject ACCOUNTANT.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "assistant-system-administrator-vanguard-media-lagos-2026-09-21",
+    title: "Assistant System Administrator",
+    date: "2026-09-21",
+    location: "Abuja InfoTech Unit, Vanguard Media Limited",
+    type: "Full-time",
+    company: "Vanguard Media Limited",
+    salary: "Not Specified",
+    summary: "Vanguard Media Limited urgently requires an Assistant System Administrator for the Abuja InfoTech Unit.",
+    responsibilities: [
+      "Provide IT support and troubleshoot computer systems.",
+      "Handle network troubleshooting and maintenance.",
+      "Install and configure software applications.",
+      "Support internet connectivity and user issues.",
+      "Respond promptly to technical problems."
+    ],
+    requirements: [
+      "Minimum of ND in Computer Science or Computer Studies.",
+      "Practical experience in computer systems troubleshooting.",
+      "Experience in network troubleshooting and maintenance.",
+      "Basic knowledge of internet usage and connectivity.",
+      "Good problem-solving and communication skills.",
+      "Minimum 5 years of experience."
+    ],
+    apply: "Interested and qualified candidates should forward their application letters and CVs to The Head, HR & Admin, Vanguard Media Limited, Kirikiri Canal, Lagos, or via email to hr@vanguardngr.com. Application deadline: 30 September 2026.",
+    deadline: "2026-09-30"
+  },
+  {
+    id: "sales-manager-senior-property-advisor-victoria-island-lagos-2026-09-21",
+    title: "Sales Manager / Senior Property Advisor",
+    date: "2026-09-21",
+    location: "Victoria Island, Lagos",
+    type: "Full-time",
+    company: "Prosperealty Company Limited",
+    salary: "Not Specified",
+    summary: "Prosperealty Company Limited is seeking an experienced and commercially driven Sales Manager / Senior Property Advisor to lead sales and drive revenue growth.",
+    responsibilities: [
+      "Develop and execute sales strategies to achieve revenue targets.",
+      "Lead and motivate the property advisory team.",
+      "Generate and convert high-quality property leads.",
+      "Manage the sales pipeline from lead generation to closing.",
+      "Personally manage and close high-value transactions.",
+      "Monitor performance, conversion, and pipeline activity."
+    ],
+    requirements: [
+      "4+ years of proven experience in real estate sales.",
+      "Previous experience in a senior property advisor or sales manager role is preferred.",
+      "Strong knowledge of the Lagos premium property market.",
+      "Demonstrable track record of achieving sales targets and generating revenue.",
+      "Strong client acquisition, relationship management, and negotiation skills."
+    ],
+    apply: "Send your CV to tamhrservices@gmail.com with “Sales Manager / Senior Property Advisor – Lagos” as the subject of the email.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "business-intelligence-officer-vi-lagos-2026-09-21",
+    title: "Business Intelligence Officer (Business Analyst)",
+    date: "2026-09-21",
+    location: "Victoria Island, Lagos",
+    type: "Full-time",
+    company: "Prosperealty Company Limited",
+    salary: "Not Specified",
+    summary: "We are seeking a highly analytical and commercially minded Business Intelligence Officer to support data-driven decision-making across our real estate operations.",
+    responsibilities: [
+      "Monitor and manage data across CRM and sales systems.",
+      "Track leads and property inventory across the sales funnel.",
+      "Develop and monitor pipeline reports and dashboards.",
+      "Provide insights on sales, agent performance, and market trends.",
+      "Support management with data-driven recommendations."
+    ],
+    requirements: [
+      "2–4 years of relevant experience in business intelligence, business analysis, or sales operations.",
+      "Mandatory previous experience in the real estate industry.",
+      "Practical experience with CRM systems and pipeline tracking.",
+      "Excellent Excel skills and Power BI or similar dashboarding tools.",
+      "Strong attention to detail and communication skills."
+    ],
+    apply: "Send your CV to tamhrservices@gmail.com with “Business Intelligence Officer – Lagos” as the subject of the email.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "property-advisors-sales-agents-vi-lagos-2026-09-21",
+    title: "Property Advisors (Sales Agents)",
+    date: "2026-09-21",
+    location: "Victoria Island, Lagos",
+    type: "Full-time",
+    company: "Prosperealty Company Limited",
+    salary: "Not Specified",
+    summary: "We are looking for individuals who understand the Lagos premium property market and have a proven track record in property sales.",
+    responsibilities: [
+      "Source and generate qualified leads.",
+      "Recommend suitable properties to clients.",
+      "Conduct property presentations and site visits.",
+      "Negotiate and close sales.",
+      "Maintain client relationships and follow-up."
+    ],
+    requirements: [
+      "2+ years of proven experience in real estate/property sales.",
+      "Demonstrable experience selling properties within Lekki, Victoria Island, Ikoyi, Eko Atlantic, or Banana Island.",
+      "Strong understanding of the Lagos property market.",
+      "Excellent communication, presentation, and negotiation skills.",
+      "Confident, self-motivated, and target-driven."
+    ],
+    apply: "Send your CV to tamhrservices@gmail.com with “Property Advisor – Lagos” as the subject of the email.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "restaurant-supervisor-agege-lagos-2026-09-21",
+    title: "Restaurant Supervisor",
+    date: "2026-09-21",
+    location: "Agege, Lagos",
+    type: "Full-time",
+    salary: "₦100,000 Monthly",
+    gender: "Female Preferred",
+    summary: "A restaurant is seeking a reliable Restaurant Supervisor with strong hospitality experience and leadership abilities.",
+    responsibilities: [
+      "Supervise staff and maintain excellent customer service.",
+      "Ensure smooth restaurant operations.",
+      "Support inventory and quality control.",
+      "Maintain discipline and service standards during busy periods."
+    ],
+    requirements: [
+      "Minimum of 2 years’ experience in restaurant or hospitality supervision.",
+      "Strong leadership and communication skills.",
+      "Good knowledge of restaurant operations and inventory control.",
+      "Ability to work effectively in a fast-paced environment.",
+      "Candidates living within or close to Agege will be considered."
+    ],
+    apply: "Call or WhatsApp 07030081889.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "restaurant-manager-ijegun-ikotun-lagos-2026-09-21",
+    title: "Restaurant Manager",
+    date: "2026-09-21",
+    location: "Ijegun, Ikotun, Lagos",
+    type: "Full-time",
+    salary: "Not Specified",
+    summary: "We are looking for an experienced and responsible Restaurant Manager to oversee restaurant operations and drive performance.",
+    responsibilities: [
+      "Manage and coordinate daily restaurant operations.",
+      "Supervise and motivate staff to achieve business targets.",
+      "Monitor sales, stock, expenses, and overall performance.",
+      "Ensure excellent customer service and proper handling of complaints.",
+      "Maintain standards of food quality, hygiene, and cleanliness."
+    ],
+    requirements: [
+      "Previous experience in restaurant or hospitality management.",
+      "Strong leadership and communication skills.",
+      "Good knowledge of restaurant operations.",
+      "Ability to manage people and work under pressure.",
+      "Responsible, proactive, and result-oriented."
+    ],
+    apply: "Send your CV with subject RESTURANT MANAGER IJEGUN to talents.yyc@gmail.com.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "retail-dsa-sme-dse-south-south-2026-09-21",
+    title: "Retail DSA & SME DSE",
+    date: "2026-09-21",
+    location: "Akwa Ibom, Cross River, Delta, Edo, Rivers",
+    type: "Full-time",
+    salary: "₦115,000 – ₦129,000 Monthly",
+    summary: "We are recruiting energetic, customer-focused, and results-driven individuals to join a leading banking and financial services organisation across the South-South region.",
+    responsibilities: [
+      "Drive customer acquisition and sales growth.",
+      "Provide excellent customer service.",
+      "Support retail and SME sales activities in a customer-facing environment.",
+      "Meet sales targets and service expectations."
+    ],
+    requirements: [
+      "30 years and below.",
+      "Minimum OND; HND/B.Sc. is an advantage.",
+      "Strong communication and interpersonal skills.",
+      "Sales-driven, proactive, and target-oriented.",
+      "Previous sales experience is an advantage."
+    ],
+    apply: "Apply here: https://forms.gle/feB1NXnjJt7nkmJM7",
+    deadline: "Not Specified"
+  },
+  {
+    id: "accounting-intern-lagos-2026-09-21",
+    title: "Accounting Intern",
+    date: "2026-09-21",
+    location: "Lagos",
+    type: "Internship",
+    salary: "Not Specified",
+    summary: "We are looking for an Accounting Intern to support accounting operations and learn practical finance processes.",
+    responsibilities: [
+      "Support accounting processes and financial record management.",
+      "Assist with data entry and reconciliations.",
+      "Prepare supporting documentation for finance operations.",
+      "Work as part of a team and learn on the job."
+    ],
+    requirements: [
+      "BSc./HND in Accounting, Finance, or a related field.",
+      "Good knowledge of basic accounting principles.",
+      "Proficiency in Microsoft Excel and basic accounting software is an advantage.",
+      "Strong attention to detail and numerical accuracy.",
+      "Willingness to learn and work as part of a team."
+    ],
+    apply: "Apply here: https://toncorporateservices.zohorecruit.com/jobs/Careers/757726000006006388/Accounting-Intern",
+    deadline: "Not Specified"
+  },
+  {
+    id: "frontend-engineer-pgoldapp-alausa-ikeja-lagos-2026-09-21",
+    title: "Web Frontend Engineer",
+    date: "2026-09-21",
+    location: "Alausa, Ikeja, Lagos",
+    type: "Full-time",
+    company: "PGoldApp Limited",
+    salary: "₦300,000 Monthly",
+    summary: "PGoldApp Limited is looking for a skilled and experienced Web Frontend Engineer to build responsive, scalable, and user-friendly web applications.",
+    responsibilities: [
+      "Build and maintain responsive web applications.",
+      "Develop reusable frontend components.",
+      "Translate UI/UX designs into functional interfaces.",
+      "Integrate frontend applications with REST APIs.",
+      "Optimize applications for performance and accessibility.",
+      "Collaborate with backend engineers and product teams."
+    ],
+    requirements: [
+      "Strong proficiency in JavaScript and TypeScript.",
+      "Strong experience with React.js and Next.js.",
+      "Good understanding of the Next.js App Router and modern patterns.",
+      "Strong knowledge of HTML5 and CSS3.",
+      "Experience with Tailwind CSS or similar styling tools.",
+      "Understanding of responsive and mobile-first development.",
+      "Experience integrating REST APIs and working with Git.",
+      "Ability to debug and resolve frontend issues effectively."
+    ],
+    apply: "Interested candidates should send their CV and portfolio/GitHub link to hr@pgoldapp.com.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "brand-operations-coordinator-adeniyi-jones-ikeja-2026-09-21",
+    title: "Brand Operations Coordinator",
+    date: "2026-09-21",
+    location: "Adeniyi Jones, Ikeja",
+    type: "Hybrid",
+    salary: "₦180,000 – ₦250,000 Monthly",
+    summary: "We are hiring a Brand Operations Coordinator to support production, logistics, project tracking, and operational coordination.",
+    responsibilities: [
+      "Maintain production, project, and launch trackers.",
+      "Monitor timelines and follow up on outstanding actions.",
+      "Manage logistics, deliveries, and shipments.",
+      "Maintain supplier, shipment, and operational records.",
+      "Support ongoing brand operations and project execution."
+    ],
+    requirements: [
+      "Proven experience in a similar role.",
+      "Strong organisational and coordination skills.",
+      "Ability to manage logistics and operational records effectively.",
+      "Good attention to detail and reliability."
+    ],
+    apply: "Send a copy of your CV and a screenshot of this post via WhatsApp to 08166742515. Or refer someone who fits the role.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "branch-accountant-pharmacy-abuja-2026-09-21",
+    title: "Branch Accountant (Pharmacy)",
+    date: "2026-09-21",
+    location: "Abuja",
+    type: "Full-time",
+    company: "Bakan Gizo",
+    salary: "₦200,000 – ₦350,000 Monthly",
+    summary: "Manage the daily accounting operations of the branch and ensure proper documentation, reconciliation, and financial controls.",
+    responsibilities: [
+      "Record and reconcile daily sales, cash, POS, bank transfers, and other payment transactions.",
+      "Prepare daily and periodic branch financial reports.",
+      "Reconcile cashiers’ collections and investigate discrepancies promptly.",
+      "Monitor branch expenses and ensure proper documentation and approvals.",
+      "Maintain accurate records of invoices, receipts, expenses, payments, and other financial transactions.",
+      "Support stock reconciliation and investigate inventory variances."
+    ],
+    requirements: [
+      "B.Sc./HND in Accounting, Finance, or a related field.",
+      "ICAN/ACCA qualification or part-qualification is an advantage.",
+      "Minimum of 2–4 years of relevant accounting experience.",
+      "Strong understanding of financial controls and reconciliations."
+    ],
+    apply: "Click the link above to submit your CV and application online: https://bakangizo-hiring.vercel.app/?jobId=job-custom-1789747984750",
+    deadline: "Not Specified"
+  },
+  {
+    id: "accountant-day-boarding-school-ago-palace-way-lagos-2026-09-21",
+    title: "Accountant – Day & Boarding School",
+    date: "2026-09-21",
+    location: "Ago Palace Way, Lagos",
+    type: "Full-time",
+    salary: "₦200,000 Monthly",
+    company: "Education",
+    summary: "We are looking for a responsible and detail-oriented Accountant to manage the school’s financial records and ensure proper accountability.",
+    responsibilities: [
+      "Record and reconcile all school fees, boarding fees, uniforms, meals, transportation, and other income streams.",
+      "Maintain accurate daily financial records.",
+      "Monitor income generated by classes, departments, and school activities.",
+      "Ensure every payment and expense is properly documented.",
+      "Prepare weekly and termly income and expenditure reports.",
+      "Track outstanding fees and receivables.",
+      "Monitor cash, bank transfers, POS payments, and reconcile them regularly."
+    ],
+    requirements: [
+      "B.Sc./HND in Accounting, Finance, or a related field.",
+      "2–3 years’ relevant accounting experience.",
+      "Experience in a school or similar organisation is an advantage.",
+      "Proficiency in Microsoft Excel and accounting software.",
+      "Strong reconciliation, reporting, and analytical skills.",
+      "High level of integrity, accuracy, confidentiality, and attention to detail.",
+      "Must reside within or close to the Ago Palace Way axis."
+    ],
+    apply: "Interested candidates should send their CV to princessojiaku37@gmail.com using “Accountant – Day & Boarding School” as the subject of the email.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "part-time-cleaner-galadimawa-abuja-2026-09-21",
+    title: "Part-Time Cleaner",
+    date: "2026-09-21",
+    location: "Galadimawa, Abuja",
+    type: "Part-time",
+    salary: "₦120,000",
+    gender: "Christian woman preferred",
+    summary: "A Christian woman with cleaning experience is needed for a part-time cleaning role in Galadimawa, Abuja.",
+    responsibilities: [
+      "Sweep, dust, mop, and clean rooms and kitchens.",
+      "Wash rooms, windows, walls, and compound areas.",
+      "Wash and iron clothes.",
+      "Vacuum and run errands as needed.",
+      "Maintain privacy and security with no visitors."
+    ],
+    requirements: [
+      "Young/middle-aged Christian woman living in Abuja with family.",
+      "At least 3 years of cleaning experience.",
+      "Very humble, good character, and can keep confidentiality.",
+      "Must understand privacy and security.",
+      "Can sweep, dust, mop, wash rooms, kitchen, compound, windows, and walls."
+    ],
+    apply: "Interested and qualified candidates should send applications via WhatsApp to 09164981423.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "lab-technician-ibadan-2026-09-21",
+    title: "Lab Technician",
+    date: "2026-09-21",
+    location: "Ibadan, Oyo State",
+    type: "Full-time",
+    salary: "₦200,000 – ₦250,000 Monthly",
+    summary: "We are seeking a Lab Technician to conduct laboratory and field tests on soil, concrete, asphalt, aggregates, and other construction materials.",
+    responsibilities: [
+      "Collect, prepare, and test construction material samples.",
+      "Conduct soil and concrete tests.",
+      "Perform asphalt and aggregate tests.",
+      "Carry out field density and other on-site material tests.",
+      "Operate, clean, calibrate, and maintain laboratory equipment.",
+      "Accurately record results and prepare laboratory and field reports."
+    ],
+    requirements: [
+      "OND/HND/BSc in Civil Engineering, Geology, Building Technology, Materials Engineering, or a related field.",
+      "Practical experience in soil, concrete, asphalt, aggregate, and construction material testing.",
+      "Knowledge of relevant testing procedures and standards.",
+      "Ability to operate laboratory and field-testing equipment.",
+      "Good documentation and reporting skills.",
+      "Willingness to work both in the laboratory and on construction sites."
+    ],
+    apply: "Qualified candidates should send their CVs to recruiter17@ascentech.com.ng.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "banking-fintech-leadership-roles-2026-09-21",
+    title: "Head of Credit / Head, Operational Risk",
+    date: "2026-09-21",
+    location: "Nigeria",
+    type: "Full-time",
+    salary: "₦2,000,000 – ₦3,000,000 Monthly Net",
+    summary: "We are seeking experienced professionals for leadership roles in a leading banking and fintech organisation.",
+    responsibilities: [
+      "Lead teams and drive strong performance and delivery.",
+      "Provide strategic and technical oversight for relevant functions.",
+      "Engage with the Board and Board Committees as required.",
+      "Support operational and credit decision-making."
+    ],
+    requirements: [
+      "Minimum of 5 years’ leadership experience in a similar role.",
+      "Mandatory banking or fintech industry experience.",
+      "Demonstrated experience engaging with the Board and Board Committees.",
+      "Strong technical and strategic expertise relevant to the function.",
+      "Excellent leadership, communication, analytical, and stakeholder management skills."
+    ],
+    apply: "Interested candidates who meet the above requirements should apply here: https://forms.gle/N3pgHAUJyDvtrGYB7",
+    deadline: "Not Specified"
+  },
+  {
+    id: "admin-executive-enugu-fmcg-2026-09-21",
+    title: "Admin Executive",
+    date: "2026-09-21",
+    location: "Enugu 9th Mile",
+    type: "Full-time",
+    company: "FMCG",
+    salary: "Not Specified",
+    summary: "We urgently need an Admin Executive in an FMCG company in Enugu 9th Mile.",
+    responsibilities: [
+      "Support day-to-day administrative operations.",
+      "Manage reporting lines and administrative support functions.",
+      "Coordinate with staff and ensure efficient office operations."
+    ],
+    requirements: [
+      "2 to 4 years of experience.",
+      "Ready to work in Enugu or be resident there.",
+      "HND or BSc preferred.",
+      "Should have administrative assistants reporting to them."
+    ],
+    apply: "Please urgently send your CV to ayomaku@yahoo.com.",
+    deadline: "Not Specified"
+  },
+  {
     id: "loan-officer-multiple-locations-2026-09-03",
     title: "Loan Officer",
     date: "2026-09-03",
@@ -37816,7 +38703,6 @@ const allJobs: Job[] = [
     date: "2026-09-18",
     location: "VI, Lagos",
     type: "Full-time",
-    department: "Supply Chain",
     salary: "N800,000 Negotiable",
     summary: "We are looking for an experienced Import & Export Manager to oversee international shipments, customs clearance, trade compliance, logistics partners, and cost management.",
     responsibilities: [
@@ -38051,7 +38937,6 @@ const allJobs: Job[] = [
     date: "2026-09-18",
     location: "VI, Lagos",
     type: "Full-time",
-    department: "Supply Chain",
     salary: "Not Specified",
     summary: "We are looking for an experienced Import & Export Manager to oversee international shipments, customs clearance, trade compliance, logistics partners, and cost management.",
     responsibilities: [

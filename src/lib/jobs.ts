@@ -39105,6 +39105,35 @@ const allJobs: Job[] = [
     ],
     apply: "Interested candidates should send their CV via WhatsApp (chat only) 07050740456. Apply now!",
     deadline: "Not Specified"
+  },
+  {
+    id: "marketing-lead-evertry-remote-2026-09-25",
+    title: "Marketing Lead",
+    date: "2026-09-25",
+    location: "Remote",
+    type: "Full-time",
+    company: "EverTry",
+    salary: "Not Specified",
+    summary: "EverTry is looking for a strategic and execution-focused Marketing Lead to define and drive growth marketing, brand visibility, and customer acquisition across digital channels.",
+    responsibilities: [
+      "Develop and execute the brand and growth marketing strategy across paid, organic, and lifecycle channels.",
+      "Lead demand generation and customer acquisition efforts to support business growth targets.",
+      "Plan and oversee campaigns, product launches, and marketing initiatives with measurable outcomes.",
+      "Conduct market and audience research to identify growth opportunities and competitive positioning.",
+      "Collaborate with product, sales, and creative teams to align messaging and campaign execution.",
+      "Track performance metrics and optimize funnels, acquisition, engagement, and conversion strategies.",
+      "Build and maintain strong marketing systems, reporting, and experimentation frameworks."
+    ],
+    requirements: [
+      "Bachelor’s degree in Marketing, Communications, Business, or a related discipline.",
+      "5+ years of experience in marketing, growth, brand, or performance marketing roles.",
+      "Proven track record of driving measurable acquisition and engagement results.",
+      "Strong understanding of digital marketing channels, campaign strategy, and audience targeting.",
+      "Excellent analytical, storytelling, and stakeholder management skills.",
+      "Ability to thrive in a fast-paced, remote-first environment and manage multiple priorities."
+    ],
+    apply: "Interested candidates should send their CV and portfolio to careers@evertry.com with the subject: Marketing Lead Application.",
+    deadline: "Not Specified"
   }
 ];
 

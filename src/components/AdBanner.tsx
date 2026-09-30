@@ -1,8 +1,9 @@
 
 import React, { useState, useEffect } from "react";
-import slide1 from "@/assets/Swiftpay.jpg";
+import slide1 from "@/assets/Swiftpay.png";
 import slide2 from "@/assets/advert.jpg";
 import slide3 from "@/assets/offer.jpg";
+import slide4 from "@/assets/teplt.png";
 import { ChevronLeft, ChevronRight } from "lucide-react"; // Adjust import if icons are elsewhere
 
 const slides = [
@@ -11,7 +12,7 @@ const slides = [
     title: "",
     subtitle: "",
     image: slide1,
-    href: "/about",
+    href: "https://www.youtube.com/@egnyte247",
   },
   {
     id: 2,
@@ -26,6 +27,13 @@ const slides = [
     subtitle: "",
     image: slide3,
     href: "/contact",
+  },
+  {
+    id: 4,
+    title: "",
+    subtitle: "",
+    image: slide4,
+    href: "https://www.youtube.com/@egnyte247",
   },
 ];
 

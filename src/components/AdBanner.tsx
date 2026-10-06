@@ -12,7 +12,7 @@ const slides = [
     title: "",
     subtitle: "",
     image: slide1,
-    href: "https://www.youtube.com/@egnyte247",
+    href: "https://www.youtube.com/playlist?list=PLV6S_FAkggNI",
   },
   {
     id: 2,
@@ -33,7 +33,7 @@ const slides = [
     title: "",
     subtitle: "",
     image: slide4,
-    href: "https://www.youtube.com/@egnyte247",
+    href: "https://youtube.com/playlist?list=PLJPFYxo2Bji0&si=cwk3Nr-jiO52Ju7K",
   },
 ];
 

@@ -40693,6 +40693,389 @@ const allJobs: Job[] = [
     requirements: ["Organized, proactive, and tech-savvy; able to work independently.", "Previous experience supporting a founder, executive, or busy professional is an advantage."],
     apply: "Send your CV and a short note explaining your interest to gracesam.mail@gmail.com.",
     deadline: "Not Specified"
+  },
+  {
+    id: "social-media-content-creator-officer-ogba-2026-10-08",
+    title: "Social Media & Content Creator Officer",
+    date: "2026-10-08",
+    location: "Ogba | Hybrid (2 days onsite)",
+    type: "Full-time",
+    salary: "₦120,000 Monthly",
+    summary: "We are looking for a creative and proactive Social Media & Content Creator Officer to manage content production, brand storytelling, and social media engagement across multiple channels.",
+    responsibilities: [
+      "Create and publish engaging social media content across relevant platforms.",
+      "Plan and execute campaign content, reels, short-form videos, and branded storytelling.",
+      "Edit videos and create visually appealing graphics and carousel content.",
+      "Monitor audience engagement and support brand growth through consistent creative output.",
+      "Collaborate with the team to maintain a strong online brand presence and content calendar."
+    ],
+    requirements: [
+      "Strong understanding of social media platforms and content trends.",
+      "Experience in content creation, video editing, and social media management.",
+      "Ability to create high-quality reels, short-form video content, and marketing visuals.",
+      "Excellent written and verbal communication skills.",
+      "Good customer service and brand awareness.",
+      "A portfolio of work is an advantage."
+    ],
+    apply: "Send your CV and portfolio to ibojconsult@gmail.com.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "content-creator-social-media-handler-ago-amuwo-2026-10-08",
+    title: "Content Creator / Social Media Handler",
+    date: "2026-10-08",
+    location: "Ago/Amuwo, Lagos",
+    type: "Hybrid",
+    salary: "₦150,000 – ₦200,000 Monthly",
+    summary: "We are looking for a creative and experienced Content Creator / Social Media Handler to drive engaging content, campaign execution, and social media growth for the brand.",
+    responsibilities: [
+      "Create compelling videos, reels, carousels, and other social media content.",
+      "Manage social media pages and ensure consistent brand messaging.",
+      "Plan and publish engaging content tailored to Instagram and TikTok audiences.",
+      "Use editing tools such as CapCut and InShot to produce polished content.",
+      "Support customer engagement and maintain a strong online brand presence."
+    ],
+    requirements: [
+      "Minimum 1 year hands-on experience in social media content creation.",
+      "Strong knowledge of Instagram and TikTok management.",
+      "Ability to create high-quality videos, reels, carousels and other engaging content.",
+      "Proficiency with editing tools like CapCut and InShot.",
+      "Excellent written and verbal communication skills.",
+      "Good customer service and care skills.",
+      "Proximity to Ago/Amuwo is an added advantage."
+    ],
+    apply: "Interested and qualified candidates should send their CV to benjaminetuweire@gmail.com with “Content Creator/Social Media Handler” as the subject of the email.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "senior-application-administrator-officer-lagos-mainland-2026-10-08",
+    title: "Senior Application Administrator Officer",
+    date: "2026-10-08",
+    location: "Lagos Mainland",
+    type: "Full-time",
+    salary: "₦800,000 Monthly Gross",
+    summary: "We are recruiting a Senior Application Administrator Officer to manage enterprise applications, ensure system reliability, support IT operations, and optimize application performance for a banking environment.",
+    responsibilities: [
+      "Manage and maintain enterprise applications and related systems.",
+      "Resolve system issues, troubleshoot application errors, and optimize performance.",
+      "Support seamless system integration and application reliability.",
+      "Ensure application security, compliance, and efficiency.",
+      "Work closely with IT teams to maintain business-critical application uptime."
+    ],
+    requirements: [
+      "Strong experience in application management and system administration.",
+      "Knowledge of troubleshooting, application performance optimization, and system support.",
+      "Experience with enterprise applications in a banking or regulated environment is an advantage.",
+      "Strong technical and analytical problem-solving skills."
+    ],
+    apply: "Interested and qualified candidates should apply via the link below: https://forms.gle/8tywX9nt5pp7CKQG9",
+    deadline: "Not Specified"
+  },
+  {
+    id: "digital-marketer-magodo-2026-10-08",
+    title: "Digital Marketer",
+    date: "2026-10-08",
+    location: "Magodo",
+    type: "Full-time",
+    salary: "₦180,000 – ₦220,000 Monthly",
+    summary: "We are looking for an experienced and results-driven Digital Marketer to drive brand awareness, generate leads, and support business growth through effective digital marketing strategies.",
+    responsibilities: [
+      "Develop and implement effective digital marketing campaigns and strategies.",
+      "Manage the company’s social media platforms and online presence.",
+      "Create engaging content for social media, websites, email campaigns, and other digital platforms.",
+      "Plan, execute, and monitor paid advertising campaigns across social media platforms.",
+      "Monitor campaign performance and provide regular reports and insights.",
+      "Conduct market and competitor research to identify trends and opportunities.",
+      "Optimize digital campaigns to improve reach, engagement, conversions, and ROI.",
+      "Manage email marketing campaigns and customer engagement initiatives.",
+      "Stay updated on current digital marketing trends, tools, and best practices."
+    ],
+    requirements: [
+      "2–4 years of proven experience in digital marketing.",
+      "Strong knowledge of social media marketing and digital advertising.",
+      "Experience managing paid campaigns and analyzing campaign performance.",
+      "Good understanding of SEO, content marketing, email marketing, and analytics.",
+      "Proficiency with tools such as Google Analytics, Meta Ads Manager, Google Ads, Canva, or similar platforms.",
+      "Excellent written and verbal communication skills.",
+      "A degree or relevant certification in Marketing, Communications, Business, or a related field is an advantage."
+    ],
+    apply: "Interested and qualified candidates should send their CV to benjaminetuweire@gmail.com using “Digital Marketer” as the subject of the mail.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "berrymart-sales-representative-ikeja-2026-10-08",
+    title: "Sales Representative",
+    date: "2026-10-08",
+    location: "Ikeja, Ogba, Abule Egba, Iyana Ipaja and surrounding areas",
+    type: "Full-time",
+    salary: "₦150,000 Monthly",
+    summary: "BerryMart Integrated Services Limited is hiring Sales Representatives to join the FMCG sales team and drive customer acquisition, sales growth, and territory performance.",
+    responsibilities: [
+      "Develop new customers and grow sales within the assigned territory.",
+      "Build and maintain relationships with distributors, wholesalers and retailers.",
+      "Follow up on orders and ensure timely delivery.",
+      "Drive product availability, visibility and merchandising.",
+      "Monitor market and competitor activities.",
+      "Achieve sales targets and submit accurate reports."
+    ],
+    requirements: [
+      "BSc/HND/OND in Marketing, Business Administration or related field.",
+      "1–3 years’ FMCG sales experience.",
+      "Target-driven with a proven ability to achieve sales targets.",
+      "Must be familiar with the assigned territory."
+    ],
+    apply: "Send your CV to oenik@berrymartng.com.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "berrymart-key-account-manager-mainland2-2026-10-08",
+    title: "Key Account Manager",
+    date: "2026-10-08",
+    location: "Festac, Ojo region, Isolo, Trade fair",
+    type: "Full-time",
+    salary: "₦300,000 – ₦350,000 Monthly",
+    summary: "BerryMart Integrated Services Limited is hiring an experienced Key Account Manager to drive sales growth and manage key customers across the Mainland 2 region.",
+    responsibilities: [
+      "Drive sales growth and achieve assigned targets.",
+      "Develop new customers and business opportunities.",
+      "Manage relationships with wholesalers, retailers and key accounts.",
+      "Drive product availability, visibility and merchandising.",
+      "Monitor market and competitor activities.",
+      "Follow up on collections and ensure timely payments.",
+      "Submit accurate and timely sales reports."
+    ],
+    requirements: [
+      "HND/BSc in any relevant discipline.",
+      "5–7 years of FMCG sales experience.",
+      "Strong knowledge of the Lagos market and distribution channels.",
+      "Proven track record of achieving sales targets.",
+      "Must be target-driven, resilient and self-motivated."
+    ],
+    apply: "Send your CV to oenik@berrymartng.com with the subject “Key Account Manager”.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "administrative-procurement-officer-lekki-phase-1-2026-10-08",
+    title: "Administrative/Procurement Officer",
+    date: "2026-10-08",
+    location: "Lekki Phase 1, Lagos",
+    type: "Full-time",
+    salary: "₦250,000 Monthly",
+    summary: "We are seeking an experienced Administrative/Procurement Officer with strong hands-on experience in facility management, day-to-day facility operations, and procurement.",
+    responsibilities: [
+      "Manage procurement, vendor sourcing, and purchasing.",
+      "Maintain procurement records and inventory.",
+      "Support office administration and daily facility operations.",
+      "Provide administrative support to the team.",
+      "Coordinate with vendors and service providers as required."
+    ],
+    requirements: [
+      "Bachelor’s Degree.",
+      "3–5 years’ experience in both Administration and Procurement.",
+      "Strong negotiation, organizational, and communication skills.",
+      "Must reside on Lagos Island.",
+      "Must be available to resume immediately.",
+      "Hands-on facility management/operations experience is highly preferred."
+    ],
+    apply: "Interested and qualified candidates should send their CV to peachytalentsolutions@gmail.com using “Procurement/Admin Officer” as the subject of the mail.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "human-resource-officer-lekki-phase-1-2026-10-08",
+    title: "Human Resource Officer",
+    date: "2026-10-08",
+    location: "Lekki Phase 1, Lagos",
+    type: "Full-time",
+    salary: "₦250,000 – ₦300,000 Monthly",
+    summary: "We are seeking a Human Resource Officer to support HR operations, employee relations, documentation, and compliance in a fast-paced consumer services environment.",
+    responsibilities: [
+      "Manage employee records and HR documentation.",
+      "Support employee relations and performance management.",
+      "Ensure HR policy compliance.",
+      "Handle leave administration and other HR operations."
+    ],
+    requirements: [
+      "Bachelor’s Degree in HR, Business Administration, or a related field.",
+      "3–5 years’ experience in core HR practice.",
+      "Strong knowledge of employee relations, HR documentation, and compliance.",
+      "Must reside on Lagos Island.",
+      "Able to work effectively within an existing team."
+    ],
+    apply: "Send your CV to jobs.peachytalentsolutions@gmail.com using “HR Officer” as the subject of your email.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "school-accountant-ago-palace-way-2026-10-08",
+    title: "School Accountant",
+    date: "2026-10-08",
+    location: "Ago Palace Way, Lagos",
+    type: "Full-time",
+    salary: "₦200,000 Monthly",
+    summary: "We are looking for a responsible and detail-oriented Accountant to manage the school’s financial records, monitor income and expenses, and ensure proper accountability for all financial transactions.",
+    responsibilities: [
+      "Record and reconcile all income received from school fees, boarding fees, uniforms, meals, transportation, and other school activities.",
+      "Maintain accurate records of all daily financial transactions.",
+      "Monitor income generated by each class, department, and school activity and provide weekly and termly reports.",
+      "Ensure every payment or expense is properly documented with receipts, invoices, or payment vouchers.",
+      "Review purchases and expenses to ensure they are properly authorised and reasonably priced.",
+      "Monitor cash, bank transfers, POS payments, and reconcile them regularly.",
+      "Prepare weekly and termly income and expenditure reports for management.",
+      "Track outstanding school fees and other receivables.",
+      "Monitor boarding-related expenses, including food, supplies, maintenance, and utilities.",
+      "Verify supplier invoices and payments before processing.",
+      "Manage petty cash and maintain proper records.",
+      "Identify and promptly report discrepancies, unusual expenses, or unexplained transactions to management.",
+      "Maintain organised financial records for audit and management review.",
+      "Assist with payroll and other accounting duties as required."
+    ],
+    requirements: [
+      "B.Sc./HND in Accounting, Finance, or a related field.",
+      "2–3 years’ relevant accounting experience.",
+      "Experience in a school or similar organisation is an advantage.",
+      "Proficiency in Microsoft Excel and accounting software.",
+      "Strong reconciliation, reporting, and analytical skills.",
+      "High level of integrity, accuracy, confidentiality, and attention to detail.",
+      "Ability to identify and question financial discrepancies.",
+      "Must reside within or close to the Ago Palace Way axis."
+    ],
+    apply: "Interested candidates should send their CV to princessojiaku37@gmail.com using “Accountant – Day & Boarding School” as the subject of the email.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "accounts-payable-officer-victoria-island-2026-10-08",
+    title: "Accounts Payable Officer",
+    date: "2026-10-08",
+    location: "Ibtc Place, Walter Carrington Crescent, Victoria Island, Lagos",
+    type: "Full-time",
+    salary: "₦180,000 Monthly",
+    summary: "A leading financial institution is seeking a detail-oriented and motivated Accounts Payable Officer to join its Finance team.",
+    responsibilities: [
+      "Process payments for goods and services in line with company policies and approval procedures.",
+      "Process local and foreign vendor payments accurately and on time.",
+      "Review and process staff claims and ensure proper documentation.",
+      "Reconcile payment, suspense and prepayment accounts.",
+      "Monitor payment accounts and ensure outstanding items are resolved promptly.",
+      "Review and reconcile transactions to ensure accuracy and compliance.",
+      "Support month-end activities, including accruals, provisions and account allocations.",
+      "Work with internal teams to ensure smooth and timely payment processes.",
+      "Maintain accurate financial records and support audit requirements."
+    ],
+    requirements: [
+      "First Degree in Accounting, Finance or a related field.",
+      "1–2 years of experience in Accounting, Accounts Payable or a related finance function.",
+      "Good knowledge of financial accounting principles.",
+      "Proficiency in Microsoft Office, particularly Excel.",
+      "Knowledge of accounting software; experience with SAP is an added advantage.",
+      "Strong numerical, analytical and reconciliation skills.",
+      "Excellent attention to detail and ability to meet deadlines.",
+      "Good communication and interpersonal skills.",
+      "Ability to work effectively under pressure and handle multiple tasks.",
+      "ICAN, ACCA or MBA is an added advantage."
+    ],
+    apply: "Interested candidates should send their CV to https://u-connect.outcess.com/apply/7a2f70a9-e246-4269-902d-b37b00476c84",
+    deadline: "Not Specified"
+  },
+  {
+    id: "restaurant-manager-idimu-ikotun-2026-10-08",
+    title: "Restaurant Manager",
+    date: "2026-10-08",
+    location: "Idimu–Ikotun Road, Lagos",
+    type: "Full-time",
+    salary: "₦150,000 – ₦190,000 Monthly",
+    summary: "We are looking for an experienced Restaurant Manager to oversee operations, staff management, stock control, and customer service in a QSR environment.",
+    responsibilities: [
+      "Manage daily restaurant operations and service delivery.",
+      "Supervise staff and drive team performance.",
+      "Control stock and minimize wastage.",
+      "Achieve business targets and maintain service standards.",
+      "Provide excellent customer service and resolve complaints professionally."
+    ],
+    requirements: [
+      "2–3 years of experience as a Restaurant Manager in the Quick Service Restaurant (QSR) industry.",
+      "HND/BSc.",
+      "Strong leadership, operational management and customer service skills.",
+      "Ability to manage staff, drive sales, control stock and achieve business targets.",
+      "Must reside within the Isheri–Idimu–Ikotun axis, Lagos."
+    ],
+    apply: "Qualified candidates should send their CV to talents.yyc@gmail.com with the subject “RESTAURANT MANAGER IDIMU”.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "accountant-central-area-abuja-2026-10-08",
+    title: "Accountant",
+    date: "2026-10-08",
+    location: "Central Area, Abuja",
+    type: "Full-time",
+    salary: "₦200,000 – ₦300,000 Monthly",
+    summary: "Our client, a community wellness and recreation centre, is seeking a reliable and detail-oriented Accountant to manage financial records and support daily accounting operations.",
+    responsibilities: [
+      "Maintain financial records and documentation.",
+      "Handle invoices, payments, receivables and payables.",
+      "Monitor income and expenses.",
+      "Perform bank and cash reconciliations.",
+      "Prepare financial reports and support budgeting."
+    ],
+    requirements: [
+      "B.Sc./HND in Accounting, Finance or related field.",
+      "3–4 years’ relevant experience.",
+      "Proficiency in Excel and accounting software.",
+      "Strong numerical, analytical and organisational skills.",
+      "High level of integrity and attention to detail."
+    ],
+    apply: "Send your CV to careers.liquidworth@gmail.com with the subject “Accountant – Abuja”.",
+    deadline: "Not Specified"
+  },
+  {
+    id: "logistics-operations-supervisor-ikeja-2026-10-08",
+    title: "Logistics Operations Supervisor",
+    date: "2026-10-08",
+    location: "Ikeja",
+    type: "Full-time",
+    salary: "Negotiable",
+    summary: "We are looking for a proactive Logistics Operations Supervisor to oversee day-to-day operations, improve service efficiency, and support a growing logistics network.",
+    responsibilities: [
+      "Oversee daily logistics and last-mile delivery operations.",
+      "Manage dispatch riders, rider onboarding, and performance monitoring.",
+      "Support regulatory and compliance processes.",
+      "Manage rider documentation and operational records.",
+      "Monitor platform performance and service efficiency.",
+      "Support customer service, rider training, and process improvements."
+    ],
+    requirements: [
+      "Minimum of OND in any discipline.",
+      "Minimum of 3 years’ experience in logistics operations, dispatch management, fleet management, or last-mile delivery operations.",
+      "Proven experience managing dispatch riders and using logistics or dispatch management applications.",
+      "Strong leadership, problem-solving, communication, and organizational skills."
+    ],
+    apply: "Apply here: https://docs.google.com/forms/d/e/1FAIpQLSfuRgH8bHq5CQ248saC4vgBoGvg9_OMnrlNT9KdnNrfqVMFKQ/viewform?usp=sharing&ouid=118282189433636515359",
+    deadline: "Not Specified"
+  },
+  {
+    id: "warehouse-supervisor-agege-2026-10-08",
+    title: "Warehouse Supervisor",
+    date: "2026-10-08",
+    location: "Agege, Iyana Ipaja, Abule Egba, Ogba or Ikeja",
+    type: "Full-time",
+    salary: "₦100,000 Monthly Gross",
+    summary: "A growing wholesale bookstore is seeking a smart, organized and proactive Warehouse Supervisor to coordinate warehouse and business operations.",
+    responsibilities: [
+      "Coordinate day-to-day warehouse and business operations.",
+      "Manage inventory, stock, coordination, and general operational flow.",
+      "Support organizational activities and fast-paced business execution.",
+      "Contribute ideas for business growth and process improvement."
+    ],
+    requirements: [
+      "B.Sc. in Business Administration, Management or a related discipline.",
+      "1–3 years’ relevant experience in warehouse, business or operations management.",
+      "Strong organizational, coordination and communication skills.",
+      "Smart, responsible and proactive.",
+      "Good knowledge of social media and digital platforms.",
+      "Creative mindset and ability to contribute ideas for business growth.",
+      "Ability to manage people and work effectively in a fast-paced environment.",
+      "Female candidates are particularly encouraged to apply."
+    ],
+    apply: "Send your CV to 08062305170 or pantofusion@gmail.com using “Warehouse Supervisor” as the subject or reference.",
+    deadline: "2026-10-13"
   }
 ];
 
